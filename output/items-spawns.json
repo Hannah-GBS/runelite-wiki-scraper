@@ -2045,15 +2045,15 @@
         "name": "Chisel"
       },
       {
-        "coords": "1764,3863",
-        "isMembers": true,
-        "location": "Arceuus essence mine",
-        "name": "Chisel"
-      },
-      {
         "coords": "2935,3286",
         "isMembers": false,
         "location": "Crafting Guild",
+        "name": "Chisel"
+      },
+      {
+        "coords": "1764,3863",
+        "isMembers": true,
+        "location": "Dense essence mine",
         "name": "Chisel"
       },
       {
@@ -4699,6 +4699,28 @@
     ]
   },
   {
+    "group": "Pole",
+    "spawns": [
+      {
+        "coords": "2813,3685",
+        "isMembers": true,
+        "location": "Mountain Camp",
+        "name": "Pole"
+      }
+    ]
+  },
+  {
+    "group": "Poison (item)",
+    "spawns": [
+      {
+        "coords": "3097,3366",
+        "isMembers": false,
+        "location": "Draynor Manor",
+        "name": "Poison (item)"
+      }
+    ]
+  },
+  {
     "group": "Pot",
     "spawns": [
       {
@@ -4778,28 +4800,6 @@
         "isMembers": true,
         "location": "Mort'ton - Westernmost house (1st floor)",
         "name": "Pot"
-      }
-    ]
-  },
-  {
-    "group": "Pole",
-    "spawns": [
-      {
-        "coords": "2813,3685",
-        "isMembers": true,
-        "location": "Mountain Camp",
-        "name": "Pole"
-      }
-    ]
-  },
-  {
-    "group": "Poison (item)",
-    "spawns": [
-      {
-        "coords": "3097,3366",
-        "isMembers": false,
-        "location": "Draynor Manor",
-        "name": "Poison (item)"
       }
     ]
   },
