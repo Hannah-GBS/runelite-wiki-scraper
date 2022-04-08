@@ -2099,7 +2099,7 @@
       {
         "coords": "2570,9604",
         "isMembers": true,
-        "location": "East Ardougne - Clock Tower basement",
+        "location": "East Ardougne - Clock Tower Dungeon",
         "name": "Child's blanket"
       }
     ]
@@ -2383,6 +2383,28 @@
     ]
   },
   {
+    "group": "Cosmic rune",
+    "spawns": [
+      {
+        "coords": "2947,3898",
+        "isMembers": false,
+        "location": "Frozen Waste Plateau - south of the gate",
+        "name": "Cosmic Rune"
+      }
+    ]
+  },
+  {
+    "group": "Criminal's dagger",
+    "spawns": [
+      {
+        "coords": "2746,3578",
+        "isMembers": true,
+        "location": "Sinclair Mansion",
+        "name": "Criminal's dagger"
+      }
+    ]
+  },
+  {
     "group": "Crossbow",
     "spawns": [
       {
@@ -2402,28 +2424,6 @@
         "isMembers": false,
         "location": "Wilderness - south-east of the Bone Yard",
         "name": "Crossbow"
-      }
-    ]
-  },
-  {
-    "group": "Cosmic rune",
-    "spawns": [
-      {
-        "coords": "2947,3898",
-        "isMembers": false,
-        "location": "Frozen Waste Plateau - south of the gate",
-        "name": "Cosmic Rune"
-      }
-    ]
-  },
-  {
-    "group": "Criminal's dagger",
-    "spawns": [
-      {
-        "coords": "2746,3578",
-        "isMembers": true,
-        "location": "Sinclair Mansion",
-        "name": "Criminal's dagger"
       }
     ]
   },
@@ -2738,17 +2738,6 @@
     ]
   },
   {
-    "group": "Equa leaves",
-    "spawns": [
-      {
-        "coords": "2639,2952",
-        "isMembers": true,
-        "location": "Feldip Hills - south-east of Rantz's home",
-        "name": "Equa leaves"
-      }
-    ]
-  },
-  {
     "group": "Engine",
     "spawns": [
       {
@@ -2756,6 +2745,17 @@
         "isMembers": true,
         "location": "Miscellania and Etceteria Dungeon",
         "name": "Engine"
+      }
+    ]
+  },
+  {
+    "group": "Equa leaves",
+    "spawns": [
+      {
+        "coords": "2639,2952",
+        "isMembers": true,
+        "location": "Feldip Hills - south-east of Rantz's home",
+        "name": "Equa leaves"
       }
     ]
   },
@@ -2845,17 +2845,6 @@
     ]
   },
   {
-    "group": "Fish food",
-    "spawns": [
-      {
-        "coords": "3109,3357",
-        "isMembers": false,
-        "location": "Draynor Manor - 1st floor",
-        "name": "Fish food"
-      }
-    ]
-  },
-  {
     "group": "Fingernails",
     "spawns": [
       {
@@ -2907,13 +2896,13 @@
     ]
   },
   {
-    "group": "Forlorn boot",
+    "group": "Fish food",
     "spawns": [
       {
-        "coords": "2984,3114",
-        "isMembers": true,
-        "location": "Mudskipper Point",
-        "name": "Forlorn boot"
+        "coords": "3109,3357",
+        "isMembers": false,
+        "location": "Draynor Manor - 1st floor",
+        "name": "Fish food"
       }
     ]
   },
@@ -2925,6 +2914,17 @@
         "isMembers": true,
         "location": "Rogues' Den",
         "name": "Flash powder"
+      }
+    ]
+  },
+  {
+    "group": "Forlorn boot",
+    "spawns": [
+      {
+        "coords": "2984,3114",
+        "isMembers": true,
+        "location": "Mudskipper Point",
+        "name": "Forlorn boot"
       }
     ]
   },
@@ -3067,6 +3067,12 @@
         "coords": "3283,3936",
         "isMembers": true,
         "location": "Rogues' Castle (3rd floor), level 53 Wilderness",
+        "name": "Gold ore"
+      },
+      {
+        "coords": "3292,3933",
+        "isMembers": true,
+        "location": "Rogues' Castle (ground floor), level 53 Wilderness",
         "name": "Gold ore"
       }
     ]
@@ -3351,29 +3357,6 @@
     ]
   },
   {
-    "group": "Iron pickaxe",
-    "spawns": [
-      {
-        "coords": "3347,9753",
-        "isMembers": true,
-        "location": "Digsite Dungeon - next to Doug Deeping",
-        "name": "Iron pickaxe"
-      },
-      {
-        "coords": "2672,3728",
-        "isMembers": true,
-        "location": "Rellekka - near the rock crabs",
-        "name": "Iron pickaxe"
-      },
-      {
-        "coords": "2843,10337",
-        "isMembers": true,
-        "location": "Weiss - Salt Mines",
-        "name": "Iron pickaxe"
-      }
-    ]
-  },
-  {
     "group": "Iron dagger",
     "spawns": [
       {
@@ -3512,6 +3495,29 @@
         "isMembers": true,
         "location": "Shayzien - Secluded Chapel",
         "name": "Iron nails"
+      }
+    ]
+  },
+  {
+    "group": "Iron pickaxe",
+    "spawns": [
+      {
+        "coords": "3347,9753",
+        "isMembers": true,
+        "location": "Digsite Dungeon - next to Doug Deeping",
+        "name": "Iron pickaxe"
+      },
+      {
+        "coords": "2672,3728",
+        "isMembers": true,
+        "location": "Rellekka - near the rock crabs",
+        "name": "Iron pickaxe"
+      },
+      {
+        "coords": "2843,10337",
+        "isMembers": true,
+        "location": "Weiss - Salt Mines",
+        "name": "Iron pickaxe"
       }
     ]
   },
@@ -6054,7 +6060,7 @@
       {
         "coords": "3002,3698",
         "isMembers": false,
-        "location": "Wilderness - western Ruins",
+        "location": "Wilderness - Western ruins",
         "name": "Tile"
       }
     ]
