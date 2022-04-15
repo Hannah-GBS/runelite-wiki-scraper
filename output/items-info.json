@@ -4550,7 +4550,7 @@
     "version": ""
   },
   {
-    "examineText": "It's a clue scroll.",
+    "examineText": "",
     "group": "Enjifern",
     "isMembers": false,
     "isTradeable": false,
@@ -12940,7 +12940,7 @@
     "version": ""
   },
   {
-    "examineText": "Aluft Gianne's favorite{{sic}} dishes.",
+    "examineText": "Aluft Gianne's favorite dishes.",
     "group": "Gianne's cook book",
     "isMembers": true,
     "isTradeable": true,
@@ -15810,7 +15810,7 @@
     "version": ""
   },
   {
-    "examineText": "* A set of instructions to be followed.\n*A clue!\n*Part of the world map, but where?\n*It points to great treasure!",
+    "examineText": "",
     "group": "Clue scroll (easy)",
     "isMembers": true,
     "isTradeable": false,
@@ -15860,7 +15860,7 @@
     "version": "Falador"
   },
   {
-    "examineText": "'''Emote:'''<br/>\n{{*}} A set of instructions to be followed.<br/>\n'''Anagram:'''<br/>\n{{*}} A clue!<br/>\n'''Map:'''<br/>\n{{*}} A place of the world map, but where?<br/>\n{{*}} Part of the world map, but where?\n<br/>\n'''Coordinates:'''<br/>\n{{*}} Perhaps someone at the [[observatory]] can teach me to navigate?<br/>\n'''Fairy ring:'''<br/>\n{{*}} A clue suggested by (Player's Name)!<br/>\n'''Cipher:'''<br/>\n{{*}} I need to decipher this.<br/>",
+    "examineText": "",
     "group": "Clue scroll (hard)",
     "isMembers": true,
     "isTradeable": false,
@@ -16130,7 +16130,7 @@
     "version": "Castle"
   },
   {
-    "examineText": "*\"A set of instructions to be followed\"\n*\"A clue!\"\n*\"A piece of the world map,but where?\"\n*\"Perhaps someone at the observatory can teach me to navigate?\"\n*\"It points to great treasure!\"\n*\"A clue suggested by Tach!\"",
+    "examineText": "",
     "group": "Clue scroll (medium)",
     "isMembers": true,
     "isTradeable": false,
@@ -16150,7 +16150,7 @@
     "version": "Medium"
   },
   {
-    "examineText": "Part of the world map, but where?",
+    "examineText": "",
     "group": "Clue scroll (medium, map 2)",
     "isMembers": true,
     "isTradeable": false,
@@ -18630,7 +18630,7 @@
     "version": ""
   },
   {
-    "examineText": "An alchemy symbol{{sic}}{{^|No period}}",
+    "examineText": "An alchemy symbol",
     "group": "Symbol (big book of bangs)",
     "isMembers": true,
     "isTradeable": false,
@@ -18640,7 +18640,7 @@
     "version": "Quicklime"
   },
   {
-    "examineText": "An alchemy symbol{{sic}}{{^|No period}}",
+    "examineText": "An alchemy symbol",
     "group": "Symbol (big book of bangs)",
     "isMembers": true,
     "isTradeable": false,
@@ -18650,7 +18650,7 @@
     "version": "Brimstone"
   },
   {
-    "examineText": "An alchemy symbol{{sic}}{{^|No period}}",
+    "examineText": "An alchemy symbol",
     "group": "Symbol (big book of bangs)",
     "isMembers": true,
     "isTradeable": false,
@@ -18660,7 +18660,7 @@
     "version": "Naphtha"
   },
   {
-    "examineText": "An alchemy symbol{{sic}}{{^|No period}}",
+    "examineText": "An alchemy symbol",
     "group": "Symbol (big book of bangs)",
     "isMembers": true,
     "isTradeable": false,
@@ -20310,7 +20310,7 @@
     "version": ""
   },
   {
-    "examineText": "Perhaps someone at the observatory can teach me to navigate?",
+    "examineText": "",
     "group": "Clue scroll (hard, coordinates 26)",
     "isMembers": true,
     "isTradeable": false,
@@ -22900,7 +22900,7 @@
     "version": ""
   },
   {
-    "examineText": "Increases the wearer's strength and accuracy by 15%{{Sic|actually 1/6th}} when fighting the undead.",
+    "examineText": "Increases the wearer's strength and accuracy by 15% when fighting the undead.",
     "group": "Salve amulet",
     "isMembers": true,
     "isTradeable": false,
@@ -39500,7 +39500,7 @@
     "version": "Empty"
   },
   {
-    "examineText": "A box full of puppets. Bring to the Taverly{{sic}} members gate.",
+    "examineText": "A box full of puppets. Bring to the Taverly members gate.",
     "group": "Puppet box",
     "isMembers": false,
     "isTradeable": false,
@@ -41560,7 +41560,7 @@
     "version": ""
   },
   {
-    "examineText": "A clue!",
+    "examineText": "",
     "group": "Clue scroll (hard, cryptic 39)",
     "isMembers": true,
     "isTradeable": false,
@@ -44320,7 +44320,7 @@
     "version": ""
   },
   {
-    "examineText": "{{Unknown value}}",
+    "examineText": "",
     "group": "Rusty sword (animation item)",
     "isMembers": false,
     "isTradeable": false,
@@ -52170,7 +52170,7 @@
     "version": ""
   },
   {
-    "examineText": "This Pineapple Punch needs pouring, lime and pineapple chunks and a{{sic}} orange slice.",
+    "examineText": "This Pineapple Punch needs pouring, lime and pineapple chunks and a orange slice.",
     "group": "Mixed punch",
     "isMembers": true,
     "isTradeable": false,
@@ -52400,7 +52400,7 @@
     "version": ""
   },
   {
-    "examineText": "{{Unknown value}}",
+    "examineText": "",
     "group": "A eyeglo null",
     "isMembers": false,
     "isTradeable": false,
@@ -57190,7 +57190,7 @@
     "version": ""
   },
   {
-    "examineText": "{{Unknown value}}",
+    "examineText": "",
     "group": "Snowball (animation item)",
     "isMembers": false,
     "isTradeable": false,
@@ -57610,7 +57610,7 @@
     "version": ""
   },
   {
-    "examineText": "These gloves seem unbelieveably light!{{sic}}",
+    "examineText": "These gloves seem unbelieveably light!",
     "group": "Penance gloves",
     "isMembers": true,
     "isTradeable": false,
@@ -57620,7 +57620,7 @@
     "version": "Inventory"
   },
   {
-    "examineText": "These gloves seem unbelieveably light!{{sic}}",
+    "examineText": "These gloves seem unbelieveably light!",
     "group": "Penance gloves",
     "isMembers": true,
     "isTradeable": false,
@@ -58300,7 +58300,7 @@
     "version": ""
   },
   {
-    "examineText": "{{Unknown value}}",
+    "examineText": "",
     "group": "Tea flask (animation item)",
     "isMembers": true,
     "isTradeable": false,
@@ -58310,7 +58310,7 @@
     "version": "1"
   },
   {
-    "examineText": "{{Unknown value}}",
+    "examineText": "",
     "group": "Tea flask (animation item)",
     "isMembers": true,
     "isTradeable": false,
@@ -58790,7 +58790,7 @@
     "version": ""
   },
   {
-    "examineText": "Yellow reward token earned from helping people journey to Burgh de Rott.{{sic}}",
+    "examineText": "Yellow reward token earned from helping people journey to Burgh de Rott.",
     "group": "Reward token",
     "isMembers": true,
     "isTradeable": false,
@@ -58800,7 +58800,7 @@
     "version": "Temple Trekking (yellow)"
   },
   {
-    "examineText": "Red reward token earned from helping people journey to Burgh de Rott.{{sic}}",
+    "examineText": "Red reward token earned from helping people journey to Burgh de Rott.",
     "group": "Reward token",
     "isMembers": true,
     "isTradeable": false,
@@ -58810,7 +58810,7 @@
     "version": "Temple Trekking (red)"
   },
   {
-    "examineText": "Blue reward token earned from helping people journey to Burgh de Rott.{{sic}}",
+    "examineText": "Blue reward token earned from helping people journey to Burgh de Rott.",
     "group": "Reward token",
     "isMembers": true,
     "isTradeable": false,
@@ -58860,7 +58860,7 @@
     "version": ""
   },
   {
-    "examineText": "Yellow reward token earned from helping people journey to Paterdomus.{{sic}}",
+    "examineText": "Yellow reward token earned from helping people journey to Paterdomus.",
     "group": "Reward token",
     "isMembers": true,
     "isTradeable": false,
@@ -58870,7 +58870,7 @@
     "version": "Burgh de Rott Ramble (yellow)"
   },
   {
-    "examineText": "Red reward token earned from helping people journey to Paterdomus.{{sic}}",
+    "examineText": "Red reward token earned from helping people journey to Paterdomus.",
     "group": "Reward token",
     "isMembers": true,
     "isTradeable": false,
@@ -58880,7 +58880,7 @@
     "version": "Burgh de Rott Ramble (red)"
   },
   {
-    "examineText": "Blue reward token earned from helping people journey to Paterdomus.{{sic}}",
+    "examineText": "Blue reward token earned from helping people journey to Paterdomus.",
     "group": "Reward token",
     "isMembers": true,
     "isTradeable": false,
@@ -64210,7 +64210,7 @@
     "version": "Uncharged"
   },
   {
-    "examineText": "A chocolate covered strawberry{{sic}}",
+    "examineText": "A chocolate covered strawberry",
     "group": "Chocolate strawberry",
     "isMembers": false,
     "isTradeable": true,
@@ -64430,7 +64430,7 @@
     "version": "Closed"
   },
   {
-    "examineText": "An icy key that can be used to access a boss rooms{{sic}} in the God Wars Dungeon.",
+    "examineText": "An icy key that can be used to access a boss rooms in the God Wars Dungeon.",
     "group": "Ecumenical key",
     "isMembers": true,
     "isTradeable": false,
@@ -64850,7 +64850,7 @@
     "version": ""
   },
   {
-    "examineText": "Increases melee, ranged and magic damage & accuracy by 15%{{Sic|The correct value is 1/6th, equal to 16.67%.}} against the undead.",
+    "examineText": "Increases melee, ranged and magic damage & accuracy by 15% against the undead.",
     "group": "Salve amulet(i)",
     "isMembers": true,
     "isTradeable": false,
@@ -64890,7 +64890,7 @@
     "version": "Closed"
   },
   {
-    "examineText": "A clue!\n'''Sherlock:'''<br/>A clue suggested by (Player's Name)!",
+    "examineText": "",
     "group": "Clue scroll (elite)",
     "isMembers": true,
     "isTradeable": false,
@@ -73720,7 +73720,7 @@
     "version": ""
   },
   {
-    "examineText": "{{Unknown value}}",
+    "examineText": "",
     "group": "Arceuus icon",
     "isMembers": true,
     "isTradeable": false,
@@ -74990,7 +74990,7 @@
     "version": ""
   },
   {
-    "examineText": "A teleport to the Arceuus Library{{sic}}",
+    "examineText": "A teleport to the Arceuus Library",
     "group": "Arceuus library teleport (tablet)",
     "isMembers": true,
     "isTradeable": true,
@@ -75540,7 +75540,7 @@
     "version": "Elite"
   },
   {
-    "examineText": "Hopefully leads to treasure.",
+    "examineText": "",
     "group": "Clue scroll (master)",
     "isMembers": true,
     "isTradeable": false,
@@ -83340,7 +83340,7 @@
     "version": ""
   },
   {
-    "examineText": "If only I could decipher this...",
+    "examineText": "",
     "group": "Clue scroll (elite, anagram 12)",
     "isMembers": true,
     "isTradeable": false,
@@ -91020,7 +91020,7 @@
     "version": ""
   },
   {
-    "examineText": "Hopefully leads to treasure.",
+    "examineText": "",
     "group": "Clue scroll (beginner)",
     "isMembers": false,
     "isTradeable": false,
@@ -93700,7 +93700,7 @@
     "version": ""
   },
   {
-    "examineText": "A scroll that Baxtorian gave to me. It should lead me to Lady Meilyr.",
+    "examineText": "",
     "group": "Clue scroll (Song of the Elves)",
     "isMembers": true,
     "isTradeable": false,
@@ -93710,7 +93710,7 @@
     "version": "1"
   },
   {
-    "examineText": "A scroll that Baxtorian gave to me. It should lead me to Lady Meilyr.",
+    "examineText": "",
     "group": "Clue scroll (Song of the Elves)",
     "isMembers": true,
     "isTradeable": false,
@@ -93720,7 +93720,7 @@
     "version": "2"
   },
   {
-    "examineText": "A scroll that Baxtorian gave to me. It should lead me to Lady Meilyr.",
+    "examineText": "",
     "group": "Clue scroll (Song of the Elves)",
     "isMembers": true,
     "isTradeable": false,
@@ -93730,7 +93730,7 @@
     "version": "3"
   },
   {
-    "examineText": "A scroll that Baxtorian gave to me. It should lead me to Lady Meilyr.",
+    "examineText": "",
     "group": "Clue scroll (Song of the Elves)",
     "isMembers": true,
     "isTradeable": false,
@@ -95330,7 +95330,7 @@
     "version": "New"
   },
   {
-    "examineText": "A crate that contains an asortment{{sic}} of items.",
+    "examineText": "A crate that contains an asortment of items.",
     "group": "Combat path starter kit",
     "isMembers": false,
     "isTradeable": false,
@@ -99090,32 +99090,32 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A crate that contains an asortment of items.",
     "group": "Warrior path starter kit",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 24859,
-    "name": "Combat path starter kit",
+    "name": "Warrior path starter kit",
     "url": "https://oldschool.runescape.wiki/w/Warrior_path_starter_kit",
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A crate that contains an asortment of items.",
     "group": "Wizard path starter kit",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 24860,
-    "name": "Combat path starter kit",
+    "name": "Wizard path starter kit",
     "url": "https://oldschool.runescape.wiki/w/Wizard_path_starter_kit",
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A crate that contains an asortment of items.",
     "group": "Ranger path starter kit",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 24861,
-    "name": "Combat path starter kit",
+    "name": "Ranger path starter kit",
     "url": "https://oldschool.runescape.wiki/w/Ranger_path_starter_kit",
     "version": ""
   },
@@ -99610,7 +99610,7 @@
     "version": "Trailblazer League 4"
   },
   {
-    "examineText": "",
+    "examineText": "The headgear of a trailblazer relic hunter.",
     "group": "Trailblazer hood (t3)",
     "isMembers": true,
     "isTradeable": true,
@@ -99620,7 +99620,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The coat of a trailblazer relic hunter.",
     "group": "Trailblazer top (t3)",
     "isMembers": true,
     "isTradeable": true,
@@ -99630,7 +99630,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The trousers of a trailblazer relic hunter.",
     "group": "Trailblazer trousers (t3)",
     "isMembers": true,
     "isTradeable": true,
@@ -99640,7 +99640,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The boots of a trailblazer relic hunter.",
     "group": "Trailblazer boots (t3)",
     "isMembers": true,
     "isTradeable": true,
@@ -99650,7 +99650,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A cane of the trailblazer relic hunter.",
     "group": "Trailblazer cane",
     "isMembers": true,
     "isTradeable": true,
@@ -99660,7 +99660,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The headgear of a trailblazer relic hunter.",
     "group": "Trailblazer hood (t2)",
     "isMembers": true,
     "isTradeable": true,
@@ -99670,7 +99670,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The coat of a trailblazer relic hunter.",
     "group": "Trailblazer top (t2)",
     "isMembers": true,
     "isTradeable": true,
@@ -99680,7 +99680,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The trousers of a trailblazer relic hunter.",
     "group": "Trailblazer trousers (t2)",
     "isMembers": true,
     "isTradeable": true,
@@ -99690,7 +99690,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The boots of a trailblazer relic hunter.",
     "group": "Trailblazer boots (t2)",
     "isMembers": true,
     "isTradeable": true,
@@ -99700,7 +99700,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The headgear of a trailblazer relic hunter.",
     "group": "Trailblazer hood (t1)",
     "isMembers": true,
     "isTradeable": true,
@@ -99710,7 +99710,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The coat of a trailblazer relic hunter.",
     "group": "Trailblazer top (t1)",
     "isMembers": true,
     "isTradeable": true,
@@ -99720,7 +99720,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The trousers of a trailblazer relic hunter.",
     "group": "Trailblazer trousers (t1)",
     "isMembers": true,
     "isTradeable": true,
@@ -99730,7 +99730,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The boots of a trailblazer relic hunter.",
     "group": "Trailblazer boots (t1)",
     "isMembers": true,
     "isTradeable": true,
@@ -100870,7 +100870,7 @@
     "version": "Recoil"
   },
   {
-    "examineText": "Increases melee, ranged and magic damage & accuracy by 15%{{Sic|The correct value is 1/6th, equal to 16.67%.}} against the undead.",
+    "examineText": "Increases melee, ranged and magic damage & accuracy by 15% against the undead.",
     "group": "Salve amulet(i)",
     "isMembers": true,
     "isTradeable": false,
@@ -103270,7 +103270,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison. It was mixed particularly badly.",
     "group": "Antipoison (-)",
     "isMembers": true,
     "isTradeable": true,
@@ -103280,7 +103280,7 @@
     "version": "1 dose"
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison. It was mixed particularly badly.",
     "group": "Antipoison (-)",
     "isMembers": true,
     "isTradeable": true,
@@ -103290,7 +103290,7 @@
     "version": "2 dose"
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison. It was mixed particularly badly.",
     "group": "Antipoison (-)",
     "isMembers": true,
     "isTradeable": true,
@@ -103300,7 +103300,7 @@
     "version": "3 dose"
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison. It was mixed particularly badly.",
     "group": "Antipoison (-)",
     "isMembers": true,
     "isTradeable": true,
@@ -103310,7 +103310,7 @@
     "version": "4 dose"
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison.",
     "group": "Antipoison potion",
     "isMembers": true,
     "isTradeable": true,
@@ -103320,7 +103320,7 @@
     "version": "1 dose"
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison.",
     "group": "Antipoison potion",
     "isMembers": true,
     "isTradeable": true,
@@ -103330,7 +103330,7 @@
     "version": "2 dose"
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison.",
     "group": "Antipoison potion",
     "isMembers": true,
     "isTradeable": true,
@@ -103340,7 +103340,7 @@
     "version": "3 dose"
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison.",
     "group": "Antipoison potion",
     "isMembers": true,
     "isTradeable": true,
@@ -103350,7 +103350,7 @@
     "version": "4 dose"
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison. It was mixed perfectly!",
     "group": "Antipoison (+)",
     "isMembers": true,
     "isTradeable": true,
@@ -103360,7 +103360,7 @@
     "version": "1 dose"
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison. It was mixed perfectly!",
     "group": "Antipoison (+)",
     "isMembers": true,
     "isTradeable": true,
@@ -103370,7 +103370,7 @@
     "version": "2 dose"
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison. It was mixed perfectly!",
     "group": "Antipoison (+)",
     "isMembers": true,
     "isTradeable": true,
@@ -103380,7 +103380,7 @@
     "version": "3 dose"
   },
   {
-    "examineText": "",
+    "examineText": "The potion purges the lizardmen's poison. It was mixed perfectly!",
     "group": "Antipoison (+)",
     "isMembers": true,
     "isTradeable": true,
@@ -103690,7 +103690,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The original Royal Accord of Twill.",
     "group": "Royal accord of twill",
     "isMembers": true,
     "isTradeable": false,
@@ -105850,7 +105850,7 @@
     "version": ""
   },
   {
-    "examineText": "An ancient chainskirt{{Sic}} once worn by a powerful ranger.",
+    "examineText": "An ancient chainskirt once worn by a powerful ranger.",
     "group": "Masori headdress",
     "isMembers": true,
     "isTradeable": false,
@@ -106000,7 +106000,7 @@
     "version": ""
   },
   {
-    "examineText": "The best pumpkin pie in Gielinor{{sic}}",
+    "examineText": "The best pumpkin pie in Gielinor",
     "group": "Pumpkin pie",
     "isMembers": false,
     "isTradeable": false,
@@ -106098,6 +106098,26 @@
     "name": "Condensed gold",
     "url": "https://oldschool.runescape.wiki/w/Condensed_gold",
     "version": ""
+  },
+  {
+    "examineText": "A bag of chocolate chips.",
+    "group": "Chocolate chips",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26304,
+    "name": "Chocolate chips",
+    "url": "https://oldschool.runescape.wiki/w/Chocolate_chips",
+    "version": "Dark chocolate"
+  },
+  {
+    "examineText": "Another bag of chocolate chips.",
+    "group": "Chocolate chips",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26306,
+    "name": "Chocolate chips",
+    "url": "https://oldschool.runescape.wiki/w/Chocolate_chips",
+    "version": "White chocolate"
   },
   {
     "examineText": "It's for me. I should open it!",
@@ -109237,6 +109257,226 @@
     "itemID": 26914,
     "name": "Amulet of the eye",
     "url": "https://oldschool.runescape.wiki/w/Amulet_of_the_eye",
+    "version": ""
+  },
+  {
+    "examineText": "The bottle is hot to touch. I should probably be wearing gloves.",
+    "group": "Special hot sauce",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26916,
+    "name": "Special hot sauce",
+    "url": "https://oldschool.runescape.wiki/w/Special_hot_sauce",
+    "version": ""
+  },
+  {
+    "examineText": "It burns my eyes just looking at it.",
+    "group": "Special super hot kebab",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26917,
+    "name": "Special super hot kebab",
+    "url": "https://oldschool.runescape.wiki/w/Special_super_hot_kebab",
+    "version": ""
+  },
+  {
+    "examineText": "A secret information report for Ali Morrisane.",
+    "group": "Secret report",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26918,
+    "name": "Secret report",
+    "url": "https://oldschool.runescape.wiki/w/Secret_report",
+    "version": ""
+  },
+  {
+    "examineText": "It's a wooden bucket. But... bigger.",
+    "group": "Big bucket",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26919,
+    "name": "Big bucket",
+    "url": "https://oldschool.runescape.wiki/w/Big_bucket",
+    "version": ""
+  },
+  {
+    "examineText": "It's a big ol' bucket, full of camel milk.",
+    "group": "Big bucket of camel milk",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26920,
+    "name": "Big bucket of camel milk",
+    "url": "https://oldschool.runescape.wiki/w/Big_bucket_of_camel_milk",
+    "version": ""
+  },
+  {
+    "examineText": "It's a big ol' bucket, full of frozen camel milk.",
+    "group": "Big bucket of frozen camel milk",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26921,
+    "name": "Big bucket of frozen camel milk",
+    "url": "https://oldschool.runescape.wiki/w/Big_bucket_of_frozen_camel_milk",
+    "version": ""
+  },
+  {
+    "examineText": "A festive cleaning potion.",
+    "group": "Magical cleaning potion (2022 Easter event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26924,
+    "name": "Magical cleaning potion",
+    "url": "https://oldschool.runescape.wiki/w/Magical_cleaning_potion_(2022_Easter_event)",
+    "version": ""
+  },
+  {
+    "examineText": "A cooler with enough space for two Easter eggs.",
+    "group": "Cooler",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26925,
+    "name": "Cooler",
+    "url": "https://oldschool.runescape.wiki/w/Cooler",
+    "version": ""
+  },
+  {
+    "examineText": "A normal, empty, hollow, probably quite melty, Easter egg.",
+    "group": "Easter egg (2022 Easter event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26926,
+    "name": "Easter egg",
+    "url": "https://oldschool.runescape.wiki/w/Easter_egg_(2022_Easter_event)",
+    "version": ""
+  },
+  {
+    "examineText": "Used to be an Easter egg. Heat got the better of it.",
+    "group": "Melted easter egg",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26927,
+    "name": "Melted easter egg",
+    "url": "https://oldschool.runescape.wiki/w/Melted_easter_egg",
+    "version": ""
+  },
+  {
+    "examineText": "An Easter egg filled with home made camel milk ice cream.",
+    "group": "Ice cream easter egg",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26928,
+    "name": "Ice cream easter egg",
+    "url": "https://oldschool.runescape.wiki/w/Ice_cream_easter_egg",
+    "version": ""
+  },
+  {
+    "examineText": "Not the sharpest tools in the shed.",
+    "group": "Blunt scimitars",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26929,
+    "name": "Blunt scimitars",
+    "url": "https://oldschool.runescape.wiki/w/Blunt_scimitars",
+    "version": ""
+  },
+  {
+    "examineText": "Very solid string that could probably be used in making a contraption of some kind.",
+    "group": "Washing line",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26930,
+    "name": "Washing line",
+    "url": "https://oldschool.runescape.wiki/w/Washing_line",
+    "version": ""
+  },
+  {
+    "examineText": "You spin me right round, baby, right round.",
+    "group": "Tanning wheel",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26931,
+    "name": "Tanning wheel",
+    "url": "https://oldschool.runescape.wiki/w/Tanning_wheel",
+    "version": ""
+  },
+  {
+    "examineText": "A vat previously used to hold an unspecified tanning solution. It smells rank.",
+    "group": "Vat (dirty)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26932,
+    "name": "Vat (dirty)",
+    "url": "https://oldschool.runescape.wiki/w/Vat_(dirty)",
+    "version": ""
+  },
+  {
+    "examineText": "A vat rinsed and rinsed and rinsed with a magical cleaning potion. It smells like a flower.",
+    "group": "Vat (cleaned)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26933,
+    "name": "Vat (cleaned)",
+    "url": "https://oldschool.runescape.wiki/w/Vat_(cleaned)",
+    "version": ""
+  },
+  {
+    "examineText": "A wooden pole which could be used as an axle for the wheel.",
+    "group": "Wooden pole",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26934,
+    "name": "Wooden pole",
+    "url": "https://oldschool.runescape.wiki/w/Wooden_pole",
+    "version": ""
+  },
+  {
+    "examineText": "Four scimitars, placed on a wheel, placed in a vat.",
+    "group": "Churning machine",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26935,
+    "name": "Churning machine",
+    "url": "https://oldschool.runescape.wiki/w/Churning_machine",
+    "version": ""
+  },
+  {
+    "examineText": "Four scimitars, placed on a wheel, placed in a vat that's freezing my hands off.",
+    "group": "Frozen churning machine",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26936,
+    "name": "Frozen churning machine",
+    "url": "https://oldschool.runescape.wiki/w/Frozen_churning_machine",
+    "version": ""
+  },
+  {
+    "examineText": "A nice easter hat.",
+    "group": "Easter hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26937,
+    "name": "Easter hat",
+    "url": "https://oldschool.runescape.wiki/w/Easter_hat",
+    "version": ""
+  },
+  {
+    "examineText": "This would be pretty good for a sneaking mission.",
+    "group": "Crate ring",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 26939,
+    "name": "Crate ring",
+    "url": "https://oldschool.runescape.wiki/w/Crate_ring",
+    "version": ""
+  },
+  {
+    "examineText": "Highly potent essence, imbued with multiple elemental energies.",
+    "group": "Polyelemental guardian stone",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26941,
+    "name": "Polyelemental guardian stone",
+    "url": "https://oldschool.runescape.wiki/w/Polyelemental_guardian_stone",
     "version": ""
   }
 ]
