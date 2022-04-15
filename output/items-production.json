@@ -7581,7 +7581,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">139,935,221</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">141,950,216</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -9753,7 +9753,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">146,466,939</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">145,025,371</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14174,6 +14174,38 @@
     "tools": "Knife"
   },
   {
+    "materials": [
+      {
+        "name": "Tanning wheel",
+        "quantity": "1"
+      },
+      {
+        "name": "Vat (cleaned)",
+        "quantity": "1"
+      },
+      {
+        "name": "Washing line",
+        "quantity": "1"
+      },
+      {
+        "name": "Wooden pole",
+        "quantity": "1"
+      },
+      {
+        "name": "Blunt scimitars",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Churning machine.png|link=Churning machine]]",
+      "name": "Churning machine",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Brewery",
     "materials": [
       {
@@ -14478,6 +14510,26 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Colossal pouch",
+        "quantity": "1"
+      },
+      {
+        "name": "Orb (Devious Minds)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Colossal pouch (Devious Minds).png|link=Colossal pouch (Devious Minds)]]",
+      "name": "Colossal pouch (Devious Minds)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -28569,18 +28621,20 @@
         "quantity": "1"
       },
       {
-        "name": "Abyssal blue dye",
+        "name": "Abyssal red dye",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Hat of the eye (blue).png|link=Hat of the eye (blue)]]",
-      "name": "Hat of the eye (blue)",
-      "quantity": "1"
+      "image": "[[File:Hat of the eye (red).png|link=Hat of the eye#Red]]",
+      "name": "Hat of the eye",
+      "quantity": "1",
+      "txt": "Hat of the eye (red)",
+      "version": "Red"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -28595,12 +28649,14 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Hat of the eye (green).png|link=Hat of the eye (green)]]",
-      "name": "Hat of the eye (green)",
-      "quantity": "1"
+      "image": "[[File:Hat of the eye (green).png|link=Hat of the eye#Green]]",
+      "name": "Hat of the eye",
+      "quantity": "1",
+      "txt": "Hat of the eye (green)",
+      "version": "Green"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -28609,18 +28665,20 @@
         "quantity": "1"
       },
       {
-        "name": "Abyssal red dye",
+        "name": "Abyssal blue dye",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Hat of the eye (red).png|link=Hat of the eye (red)]]",
-      "name": "Hat of the eye (red)",
-      "quantity": "1"
+      "image": "[[File:Hat of the eye (blue).png|link=Hat of the eye#Blue]]",
+      "name": "Hat of the eye",
+      "quantity": "1",
+      "txt": "Hat of the eye (blue)",
+      "version": "Blue"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -32543,6 +32601,26 @@
     ],
     "ticks": "3",
     "tools": "Glassblowing pipe"
+  },
+  {
+    "materials": [
+      {
+        "name": "Large pouch",
+        "quantity": "1"
+      },
+      {
+        "name": "Orb (Devious Minds)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Large pouch (Devious Minds).png|link=Large pouch (Devious Minds)]]",
+      "name": "Large pouch (Devious Minds)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Bone grinder",
@@ -45009,6 +45087,24 @@
       }
     ],
     "ticks": "4"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Limestone",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Quicklime.png|link=Quicklime]]",
+      "name": "Quicklime",
+      "outputnote": "If incorrect or no [[gloves]] are worn, the process will still produce quicklime, but still also damage the player for 8 [[Hitpoints]].",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Cooking range",
