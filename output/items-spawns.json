@@ -788,7 +788,7 @@
       },
       {
         "coords": "3268,3660",
-        "isMembers": false,
+        "isMembers": true,
         "location": "Wilderness - by Larran's small chest",
         "name": "Bones"
       },
@@ -2455,8 +2455,8 @@
       },
       {
         "coords": "3271,3413",
-        "isMembers": false,
-        "location": "Varrock - Ye olde Tea Shoppe",
+        "isMembers": true,
+        "location": "Varrock - Ye olde Tea Shoppe.",
         "name": "Cup of Tea"
       },
       {
@@ -5780,7 +5780,7 @@
     "spawns": [
       {
         "coords": "3283,3658",
-        "isMembers": true,
+        "isMembers": false,
         "location": "Wilderness - north-east of the Chaos Temple",
         "name": "Steel sword"
       }

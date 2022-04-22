@@ -55990,6 +55990,16 @@
     "version": ""
   },
   {
+    "examineText": "",
+    "group": "Clue scroll (medium) - Beckon in Tai Bwo Wannai",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10260,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Beckon_in_Tai_Bwo_Wannai",
+    "version": ""
+  },
+  {
     "examineText": "A powerful bow made from willow wood.",
     "group": "Willow comp bow",
     "isMembers": false,
@@ -72747,7 +72757,7 @@
     "itemID": 13459,
     "name": "Ensouled scorpion head",
     "url": "https://oldschool.runescape.wiki/w/Ensouled_scorpion_head",
-    "version": "Item"
+    "version": "Drop"
   },
   {
     "examineText": "The creature's soul is still in here. I could reanimate it with Basic Reanimation.",
@@ -72757,7 +72767,7 @@
     "itemID": 13460,
     "name": "Ensouled scorpion head",
     "url": "https://oldschool.runescape.wiki/w/Ensouled_scorpion_head",
-    "version": "Drop"
+    "version": "Item"
   },
   {
     "examineText": "The creature's soul is still in here. I could reanimate it with Basic Reanimation.",
@@ -103772,7 +103782,7 @@
   {
     "examineText": "I need to cook this first.",
     "group": "Raw boar meat",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": true,
     "itemID": 25833,
     "name": "Raw boar meat",
@@ -109041,123 +109051,123 @@
   },
   {
     "examineText": "A talisman bound to the Air Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (air)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26887,
     "name": "Portal talisman (air)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Air"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(air)",
+    "version": ""
   },
   {
     "examineText": "A talisman bound to the Water Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (water)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26888,
     "name": "Portal talisman (water)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Water"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(water)",
+    "version": ""
   },
   {
     "examineText": "A talisman bound to the Earth Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (earth)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26889,
     "name": "Portal talisman (earth)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Earth"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(earth)",
+    "version": ""
   },
   {
     "examineText": "A talisman bound to the Fire Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (fire)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26890,
     "name": "Portal talisman (fire)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Fire"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(fire)",
+    "version": ""
   },
   {
     "examineText": "A talisman bound to the Mind Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (mind)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26891,
     "name": "Portal talisman (mind)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Mind"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(mind)",
+    "version": ""
   },
   {
     "examineText": "A talisman bound to the Chaos Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (chaos)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26892,
     "name": "Portal talisman (chaos)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Chaos"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(chaos)",
+    "version": ""
   },
   {
     "examineText": "A talisman bound to the Death Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (death)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26893,
     "name": "Portal talisman (death)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Death"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(death)",
+    "version": ""
   },
   {
     "examineText": "A talisman bound to the Blood Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (blood)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26894,
     "name": "Portal talisman (blood)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Blood"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(blood)",
+    "version": ""
   },
   {
     "examineText": "A talisman bound to the Body Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (body)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26895,
     "name": "Portal talisman (body)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Body"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(body)",
+    "version": ""
   },
   {
     "examineText": "A talisman bound to the Cosmic Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (cosmic)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26896,
     "name": "Portal talisman (cosmic)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Cosmic"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(cosmic)",
+    "version": ""
   },
   {
     "examineText": "A talisman bound to the Nature Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (nature)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26897,
     "name": "Portal talisman (nature)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Nature"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(nature)",
+    "version": ""
   },
   {
     "examineText": "A talisman bound to the Law Altar.",
-    "group": "Portal talisman",
+    "group": "Portal talisman (law)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26898,
     "name": "Portal talisman (law)",
-    "url": "https://oldschool.runescape.wiki/w/Portal_talisman",
-    "version": "Law"
+    "url": "https://oldschool.runescape.wiki/w/Portal_talisman_(law)",
+    "version": ""
   },
   {
     "examineText": "Not quite as great as the Great Guardian, but pretty close.",
