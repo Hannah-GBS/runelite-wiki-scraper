@@ -2361,8 +2361,7 @@
     "output": {
       "image": "[[File:Air rune.png|link=Air rune]]",
       "name": "Air rune",
-      "quantity": "1",
-      "subtxt": "Rune essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -2372,7 +2371,7 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Air tiara, Air talisman"
   },
   {
@@ -2387,8 +2386,7 @@
     "output": {
       "image": "[[File:Air rune.png|link=Air rune]]",
       "name": "Air rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -2398,8 +2396,61 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Air tiara, Air talisman"
+  },
+  {
+    "facilities": "Air Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Air rune.png|link=Air rune]]",
+      "name": "Air rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "7.5",
+        "level": "1",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Air tiara, Air talisman"
+  },
+  {
+    "facilities": "Air Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Air rune.png|link=Air rune]]",
+      "name": "Air rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "5",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Air Altar",
@@ -4876,7 +4927,31 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5"
+    "ticks": "1"
+  },
+  {
+    "facilities": "Astral Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Astral rune.png|link=Astral rune]]",
+      "name": "Astral rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "13.05",
+        "level": "40",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -7581,7 +7656,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">141,950,216</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">134,930,669</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -7769,8 +7844,7 @@
     "output": {
       "image": "[[File:Blank air rune.png|link=Blank air rune]]",
       "name": "Blank air rune",
-      "quantity": "1",
-      "subtxt": "Rune essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -7794,8 +7868,7 @@
     "output": {
       "image": "[[File:Blank air rune.png|link=Blank air rune]]",
       "name": "Blank air rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -7819,8 +7892,7 @@
     "output": {
       "image": "[[File:Blank earth rune.png|link=Blank earth rune]]",
       "name": "Blank earth rune",
-      "quantity": "1",
-      "subtxt": "Rune essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -7844,8 +7916,7 @@
     "output": {
       "image": "[[File:Blank earth rune.png|link=Blank earth rune]]",
       "name": "Blank earth rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -7869,8 +7940,7 @@
     "output": {
       "image": "[[File:Blank fire rune.png|link=Blank fire rune]]",
       "name": "Blank fire rune",
-      "quantity": "1",
-      "subtxt": "Rune essene"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -7894,8 +7964,7 @@
     "output": {
       "image": "[[File:Blank fire rune.png|link=Blank fire rune]]",
       "name": "Blank fire rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -7919,8 +7988,7 @@
     "output": {
       "image": "[[File:Blank mind rune.png|link=Blank mind rune]]",
       "name": "Blank mind rune",
-      "quantity": "1",
-      "subtxt": "Rune essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -7944,8 +8012,7 @@
     "output": {
       "image": "[[File:Blank mind rune.png|link=Blank mind rune]]",
       "name": "Blank mind rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -7969,8 +8036,7 @@
     "output": {
       "image": "[[File:Blank water rune.png|link=Blank water rune]]",
       "name": "Blank water rune",
-      "quantity": "1",
-      "subtxt": "Rune essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -7994,8 +8060,7 @@
     "output": {
       "image": "[[File:Blank water rune.png|link=Blank water rune]]",
       "name": "Blank water rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -8175,6 +8240,56 @@
         "name": "Runecraft"
       }
     ],
+    "ticks": "1",
+    "tools": "Blood tiara, Blood talisman"
+  },
+  {
+    "facilities": "Blood Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blood rune.png|link=Blood rune]]",
+      "name": "Blood rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "15.75",
+        "level": "77",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Blood tiara, Blood talisman"
+  },
+  {
+    "facilities": "Blood Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blood rune.png|link=Blood rune]]",
+      "name": "Blood rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "?",
+        "level": "77",
+        "name": "Runecraft"
+      }
+    ],
     "ticks": "1"
   },
   {
@@ -8199,7 +8314,7 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": ""
+    "ticks": "1"
   },
   {
     "facilities": "Blood Altar",
@@ -9237,8 +9352,7 @@
     "output": {
       "image": "[[File:Body rune.png|link=Body rune]]",
       "name": "Body rune",
-      "quantity": "1",
-      "subtxt": "Rune essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -9248,7 +9362,7 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Body tiara, Body talisman"
   },
   {
@@ -9263,8 +9377,7 @@
     "output": {
       "image": "[[File:Body rune.png|link=Body rune]]",
       "name": "Body rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -9274,7 +9387,32 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
+    "tools": "Body tiara, Body talisman"
+  },
+  {
+    "facilities": "Body Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Body rune.png|link=Body rune]]",
+      "name": "Body rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "11.25",
+        "level": "20",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
     "tools": "Body tiara, Body talisman"
   },
   {
@@ -9289,8 +9427,7 @@
     "output": {
       "image": "[[File:Body rune.png|link=Body rune]]",
       "name": "Body rune",
-      "quantity": "10",
-      "subtxt": "Body core"
+      "quantity": "10"
     },
     "skills": [
       {
@@ -9300,8 +9437,32 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Body tiara, Body talisman"
+  },
+  {
+    "facilities": "Body Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Body rune.png|link=Body rune]]",
+      "name": "Body rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "8.5",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Body Altar",
@@ -9486,6 +9647,27 @@
     "materials": [
       {
         "name": "Bones",
+        "quantity": "1"
+      },
+      {
+        "name": "Pot",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bonemeal.png|link=Bonemeal]]",
+      "name": "Bonemeal",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Bone grinder",
+    "materials": [
+      {
+        "name": "Bleached bones",
         "quantity": "1"
       },
       {
@@ -9753,7 +9935,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">145,025,371</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">138,936,603</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -13452,8 +13634,7 @@
     "output": {
       "image": "[[File:Chaos rune.png|link=Chaos rune]]",
       "name": "Chaos rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -13463,7 +13644,32 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
+    "tools": "Chaos tiara, Chaos talisman"
+  },
+  {
+    "facilities": "Chaos Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Chaos rune.png|link=Chaos rune]]",
+      "name": "Chaos rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "12.75",
+        "level": "35",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
     "tools": "Chaos tiara, Chaos talisman"
   },
   {
@@ -13478,8 +13684,7 @@
     "output": {
       "image": "[[File:Chaos rune.png|link=Chaos rune]]",
       "name": "Chaos rune",
-      "quantity": "10",
-      "subtxt": "Chaos core"
+      "quantity": "10"
     },
     "skills": [
       {
@@ -13489,8 +13694,32 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Chaos tiara, Chaos talisman"
+  },
+  {
+    "facilities": "Chaos Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Chaos rune.png|link=Chaos rune]]",
+      "name": "Chaos rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "9.5",
+        "level": "35",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Chaos Altar",
@@ -16119,8 +16348,57 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Cosmic tiara, Cosmic talisman"
+  },
+  {
+    "facilities": "Cosmic Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cosmic rune.png|link=Cosmic rune]]",
+      "name": "Cosmic rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "12",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Cosmic tiara, Cosmic talisman"
+  },
+  {
+    "facilities": "Cosmic Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cosmic rune.png|link=Cosmic rune]]",
+      "name": "Cosmic rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "9",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Cosmic Altar",
@@ -18216,8 +18494,57 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Death tiara, Death talisman"
+  },
+  {
+    "facilities": "Death Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Death rune.png|link=Death rune]]",
+      "name": "Death rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "15",
+        "level": "65",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Death tiara, Death talisman, Catalytic talisman, Catalytic tiara"
+  },
+  {
+    "facilities": "Death Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Death rune.png|link=Death rune]]",
+      "name": "Death rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "?",
+        "level": "65",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Death Altar",
@@ -21375,7 +21702,7 @@
       }
     ],
     "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
+    "tools": "Air tiara, Binding necklace, Magic Imbue"
   },
   {
     "facilities": "Earth Altar",
@@ -21410,7 +21737,7 @@
       }
     ],
     "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
+    "tools": "Earth tiara, Binding necklace, Magic Imbue"
   },
   {
     "materials": [
@@ -21801,8 +22128,7 @@
     "output": {
       "image": "[[File:Earth rune.png|link=Earth rune]]",
       "name": "Earth rune",
-      "quantity": "1",
-      "subtxt": "Rune essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -21812,7 +22138,7 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Earth tiara, Earth talisman"
   },
   {
@@ -21827,8 +22153,7 @@
     "output": {
       "image": "[[File:Earth rune.png|link=Earth rune]]",
       "name": "Earth rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -21838,8 +22163,61 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Earth tiara, Earth talisman"
+  },
+  {
+    "facilities": "Earth Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Earth rune.png|link=Earth rune]]",
+      "name": "Earth rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "9.75",
+        "level": "9",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Earth tiara, Earth talisman"
+  },
+  {
+    "facilities": "Earth Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Earth rune.png|link=Earth rune]]",
+      "name": "Earth rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "7.5",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Earth Altar",
@@ -22174,6 +22552,118 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "facilities": "Air Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elemental guardian stone.png|link=Elemental guardian stone]]",
+      "name": "Elemental guardian stone",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "5",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Water Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elemental guardian stone.png|link=Elemental guardian stone]]",
+      "name": "Elemental guardian stone",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "7",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Earth Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elemental guardian stone.png|link=Elemental guardian stone]]",
+      "name": "Elemental guardian stone",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "7.5",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Fire Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elemental guardian stone.png|link=Elemental guardian stone]]",
+      "name": "Elemental guardian stone",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "8",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Anvil",
@@ -23278,6 +23768,25 @@
   {
     "materials": [
       {
+        "name": "Enchanted curtains",
+        "quantity": "1"
+      },
+      {
+        "name": "Snowball",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Enchanted snowy curtains.png|link=Enchanted snowy curtains]]",
+      "name": "Enchanted snowy curtains",
+      "quantity": "1"
+    },
+    "skills": []
+  },
+  {
+    "materials": [
+      {
         "name": "Vial",
         "quantity": "1"
       }
@@ -24083,8 +24592,7 @@
     "output": {
       "image": "[[File:Fire rune.png|link=Fire rune]]",
       "name": "Fire rune",
-      "quantity": "1",
-      "subtxt": "Rune essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -24094,7 +24602,7 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Fire tiara, Fire talisman"
   },
   {
@@ -24109,8 +24617,7 @@
     "output": {
       "image": "[[File:Fire rune.png|link=Fire rune]]",
       "name": "Fire rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -24120,8 +24627,61 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Fire tiara, Fire talisman"
+  },
+  {
+    "facilities": "Fire Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Fire rune.png|link=Fire rune]]",
+      "name": "Fire rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "10.5",
+        "level": "14",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Fire tiara, Fire talisman"
+  },
+  {
+    "facilities": "Fire Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Fire rune.png|link=Fire rune]]",
+      "name": "Fire rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "8",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Fire Altar",
@@ -25004,6 +25564,30 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "facilities": "Cauldron",
+    "materials": [
+      {
+        "name": "Mouldy sawdust",
+        "quantity": "1"
+      },
+      {
+        "name": "Rotten meat",
+        "quantity": "1"
+      },
+      {
+        "name": "Stale bread",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Goblin stew.png|link=Goblin stew]]",
+      "name": "Goblin stew",
+      "quantity": "1"
+    },
+    "skills": []
   },
   {
     "facilities": "Anvil",
@@ -32847,41 +33431,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "Fire Altar",
-    "materials": [
-      {
-        "name": "Pure essence",
-        "quantity": "26"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "26"
-      },
-      {
-        "name": "Earth talisman",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Lava rune.png|link=Lava rune]]",
-      "name": "Lava rune",
-      "quantity": "13",
-      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]].",
-      "subtxt": "Fire Altar"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "10.5",
-        "level": "23",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
-  },
-  {
     "facilities": "Earth Altar",
     "materials": [
       {
@@ -32914,7 +33463,42 @@
       }
     ],
     "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
+    "tools": "Earth tiara, Binding necklace, Magic Imbue"
+  },
+  {
+    "facilities": "Fire Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "26"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "26"
+      },
+      {
+        "name": "Earth talisman",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lava rune.png|link=Lava rune]]",
+      "name": "Lava rune",
+      "quantity": "13",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]].",
+      "subtxt": "Fire Altar"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "10.5",
+        "level": "23",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Fire tiara, Binding necklace, Magic Imbue"
   },
   {
     "materials": [
@@ -32972,8 +33556,57 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Law tiara, Law talisman"
+  },
+  {
+    "facilities": "Law Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Law rune.png|link=Law rune]]",
+      "name": "Law rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "14.25",
+        "level": "54",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Law tiara, Law talisman"
+  },
+  {
+    "facilities": "Law Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Law rune.png|link=Law rune]]",
+      "name": "Law rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "10.5",
+        "level": "54",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Law Altar",
@@ -35733,6 +36366,35 @@
     "ticks": "2"
   },
   {
+    "facilities": "Water Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Medium cell.png|link=Medium cell]]",
+      "name": "Medium cell",
+      "outputnote": "Only if an uncharged or weak cell is present in inventory. Only one charged cell can be carried at a time.",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "7",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "facilities": "Bone grinder",
     "materials": [
       {
@@ -35944,8 +36606,7 @@
     "output": {
       "image": "[[File:Mind rune.png|link=Mind rune]]",
       "name": "Mind rune",
-      "quantity": "1",
-      "subtxt": "Rune essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -35955,7 +36616,7 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Mind tiara, Mind talisman"
   },
   {
@@ -35970,8 +36631,7 @@
     "output": {
       "image": "[[File:Mind rune.png|link=Mind rune]]",
       "name": "Mind rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -35981,7 +36641,7 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Mind tiara, Mind talisman"
   },
   {
@@ -35996,8 +36656,7 @@
     "output": {
       "image": "[[File:Mind rune.png|link=Mind rune]]",
       "name": "Mind rune",
-      "quantity": "10",
-      "subtxt": "Mind core"
+      "quantity": "10"
     },
     "skills": [
       {
@@ -36007,8 +36666,57 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Mind tiara, Mind talisman"
+  },
+  {
+    "facilities": "Mind Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mind rune.png|link=Mind rune]]",
+      "name": "Mind rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "8.25",
+        "level": "2",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Mind tiara, Mind talisman"
+  },
+  {
+    "facilities": "Mind Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mind rune.png|link=Mind rune]]",
+      "name": "Mind rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "6.5",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Mind Altar",
@@ -36121,7 +36829,7 @@
       }
     ],
     "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
+    "tools": "Air tiara, Binding necklace, Magic Imbue"
   },
   {
     "facilities": "Water Altar",
@@ -36156,7 +36864,7 @@
       }
     ],
     "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
+    "tools": "Water tiara, Binding necklace, Magic Imbue"
   },
   {
     "materials": [
@@ -38390,7 +39098,7 @@
       }
     ],
     "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
+    "tools": "Water tiara, Binding necklace, Magic Imbue"
   },
   {
     "facilities": "Earth Altar",
@@ -38425,7 +39133,7 @@
       }
     ],
     "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
+    "tools": "Earth tiara, Binding necklace, Magic Imbue"
   },
   {
     "facilities": "Apothecary",
@@ -39596,8 +40304,57 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Nature tiara, Nature talisman"
+  },
+  {
+    "facilities": "Nature Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Nature rune.png|link=Nature rune]]",
+      "name": "Nature rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "13.5",
+        "level": "44",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Nature tiara, Nature talisman"
+  },
+  {
+    "facilities": "Nature Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Nature rune.png|link=Nature rune]]",
+      "name": "Nature rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "10",
+        "level": "44",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Nature Altar",
@@ -41786,6 +42543,35 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "facilities": "Fire Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Overcharged cell.png|link=Overcharged cell]]",
+      "name": "Overcharged cell",
+      "outputnote": "Only if a non-overcharged cell is present in inventory. Only one charged cell can be carried at a time.",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "8",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -54179,7 +54965,7 @@
       }
     ],
     "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
+    "tools": "Air tiara, Binding necklace, Magic Imbue"
   },
   {
     "facilities": "Fire Altar",
@@ -54214,7 +55000,7 @@
       }
     ],
     "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
+    "tools": "Fire tiara, Binding necklace, Magic Imbue"
   },
   {
     "materials": [
@@ -54928,7 +55714,7 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": ""
+    "ticks": "1"
   },
   {
     "facilities": "Anvil",
@@ -56120,6 +56906,33 @@
   {
     "materials": [
       {
+        "name": "Festive tree branch",
+        "quantity": "1"
+      },
+      {
+        "name": "Church decoration",
+        "quantity": "1"
+      },
+      {
+        "name": "Waste gems",
+        "quantity": "1"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Star-face.png|link=Star-face]]",
+      "name": "Star-face",
+      "quantity": "1"
+    },
+    "skills": []
+  },
+  {
+    "materials": [
+      {
         "name": "Bread",
         "quantity": "1"
       },
@@ -56198,7 +57011,7 @@
       }
     ],
     "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
+    "tools": "Water tiara, Binding necklace, Magic Imbue"
   },
   {
     "facilities": "Fire Altar",
@@ -56233,7 +57046,7 @@
       }
     ],
     "ticks": "1",
-    "tools": "Binding necklace, Magic Imbue"
+    "tools": "Fire tiara, Binding necklace, Magic Imbue"
   },
   {
     "facilities": "Anvil",
@@ -58480,6 +59293,35 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Earth Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Strong cell.png|link=Strong cell]]",
+      "name": "Strong cell",
+      "outputnote": "Only if an uncharged, weak, or medium cell is present in inventory. Only one charged cell can be carried at a time.",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "7.5",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -61044,6 +61886,60 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Festive tree branch",
+        "quantity": "1"
+      },
+      {
+        "name": "Church decoration",
+        "quantity": "1"
+      },
+      {
+        "name": "Waste gems",
+        "quantity": "1"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Tree skirt.png|link=Tree skirt]]",
+      "name": "Tree skirt",
+      "quantity": "1"
+    },
+    "skills": []
+  },
+  {
+    "materials": [
+      {
+        "name": "Festive tree branch",
+        "quantity": "1"
+      },
+      {
+        "name": "Church decoration",
+        "quantity": "1"
+      },
+      {
+        "name": "Waste gems",
+        "quantity": "1"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Tree top.png|link=Tree top]]",
+      "name": "Tree top",
+      "quantity": "1"
+    },
+    "skills": []
   },
   {
     "materials": [
@@ -63763,8 +64659,7 @@
     "output": {
       "image": "[[File:Water rune.png|link=Water rune]]",
       "name": "Water rune",
-      "quantity": "1",
-      "subtxt": "Rune essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -63774,7 +64669,7 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Water tiara, Water talisman"
   },
   {
@@ -63789,8 +64684,7 @@
     "output": {
       "image": "[[File:Water rune.png|link=Water rune]]",
       "name": "Water rune",
-      "quantity": "1",
-      "subtxt": "Pure essence"
+      "quantity": "1"
     },
     "skills": [
       {
@@ -63800,8 +64694,61 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
     "tools": "Water tiara, Water talisman"
+  },
+  {
+    "facilities": "Water Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Water rune.png|link=Water rune]]",
+      "name": "Water rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "9",
+        "level": "5",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Water tiara, Water talisman"
+  },
+  {
+    "facilities": "Water Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Water rune.png|link=Water rune]]",
+      "name": "Water rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "7",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Water Altar",
@@ -63960,6 +64907,35 @@
     "skills": [],
     "ticks": "4",
     "tools": "Knife"
+  },
+  {
+    "facilities": "Air Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Uncharged cell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Weak cell.png|link=Weak cell]]",
+      "name": "Weak cell",
+      "outputnote": "Only if an uncharged cell is present in inventory. Only one charged cell can be carried at a time.",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "5",
+        "level": "27",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -65145,7 +66121,32 @@
         "name": "Runecraft"
       }
     ],
-    "ticks": "5",
+    "ticks": "1",
+    "tools": "Wrath tiara, Wrath talisman"
+  },
+  {
+    "facilities": "Wrath Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Wrath rune.png|link=Wrath rune]]",
+      "name": "Wrath rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "12",
+        "level": "95",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
     "tools": "Wrath tiara, Wrath talisman"
   },
   {
