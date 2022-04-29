@@ -328,7 +328,7 @@
       }
     ],
     "location": "Al Kharid",
-    "name": "Al-Kharid General Store",
+    "name": "Al Kharid General Store",
     "sellMultiplier": "1300"
   },
   {
@@ -2936,7 +2936,7 @@
         "buyPrice": "12",
         "currency": "Coins",
         "name": "Bear fur",
-        "sellPrice": "N/A",
+        "sellPrice": "20",
         "stock": "N/A",
         "version": ""
       },
@@ -2944,7 +2944,7 @@
         "buyPrice": "20",
         "currency": "Coins",
         "name": "Bear fur",
-        "sellPrice": "N/A",
+        "sellPrice": "20",
         "stock": "N/A",
         "version": ""
       },

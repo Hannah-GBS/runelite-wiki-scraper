@@ -14470,7 +14470,7 @@
     "version": ""
   },
   {
-    "examineText": "A wig that has been dyed slightly blonde.",
+    "examineText": "A wig that has been dyed blonde.",
     "group": "Wig",
     "isMembers": false,
     "isTradeable": false,
@@ -14510,7 +14510,7 @@
     "version": ""
   },
   {
-    "examineText": "A bottle of skin coloured paste.",
+    "examineText": "A bottle of skin paste.",
     "group": "Paste",
     "isMembers": false,
     "isTradeable": false,
@@ -21211,12 +21211,12 @@
   },
   {
     "examineText": "This bucket is completely full. It has a 5 painted on its side.",
-    "group": "Full bucket (The Fremennik Trials)",
+    "group": "Full bucket",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 3722,
     "name": "Full bucket",
-    "url": "https://oldschool.runescape.wiki/w/Full_bucket_(The_Fremennik_Trials)",
+    "url": "https://oldschool.runescape.wiki/w/Full_bucket",
     "version": ""
   },
   {
@@ -26940,7 +26940,7 @@
     "version": ""
   },
   {
-    "examineText": "Has a lid shaped like a man. I think it contains someone's liver. Yuck.",
+    "examineText": "It has a lid shaped like a man. I think it contains someone's liver. Yuck!",
     "group": "Canopic jar",
     "isMembers": true,
     "isTradeable": false,
@@ -26950,7 +26950,7 @@
     "version": "Het"
   },
   {
-    "examineText": "Has a lid shaped like an ape. Eeew! I think it contains someone's intestines.",
+    "examineText": "It has a lid shaped like an ape. Eeew! I think it contains someone's intestines.",
     "group": "Canopic jar",
     "isMembers": true,
     "isTradeable": false,
@@ -26960,7 +26960,7 @@
     "version": "Apmeken"
   },
   {
-    "examineText": "Has a lid shaped like a bug. Disgusting! I think there's a stomach inside.",
+    "examineText": "It has a lid shaped like a bug. Disgusting! I think there's a stomach inside.",
     "group": "Canopic jar",
     "isMembers": true,
     "isTradeable": false,
@@ -26970,7 +26970,7 @@
     "version": "Scabaras"
   },
   {
-    "examineText": "Has a lid shaped like a crocodile. Yuck, I think there are lungs inside.",
+    "examineText": "It has a lid shaped like a crocodile. Yuck! I think there are lungs inside.",
     "group": "Canopic jar",
     "isMembers": true,
     "isTradeable": false,
@@ -26980,7 +26980,7 @@
     "version": "Crondis"
   },
   {
-    "examineText": "Menaphite lucky charm.",
+    "examineText": "A Menaphite lucky charm.",
     "group": "Holy symbol (Icthlarin's Little Helper)",
     "isMembers": true,
     "isTradeable": false,
@@ -26990,7 +26990,7 @@
     "version": ""
   },
   {
-    "examineText": "Sign of the devourer.",
+    "examineText": "A sign of the Devourer.",
     "group": "Unholy symbol (Icthlarin's Little Helper)",
     "isMembers": true,
     "isTradeable": false,
@@ -27010,7 +27010,7 @@
     "version": ""
   },
   {
-    "examineText": "Little book of embalming by Bod E. Wrapper.",
+    "examineText": "Written by Bod E. Wrapper.",
     "group": "Embalming manual",
     "isMembers": true,
     "isTradeable": false,
@@ -27040,7 +27040,7 @@
     "version": ""
   },
   {
-    "examineText": "Miniature golden statue of a sphinx.",
+    "examineText": "A miniature golden statue of a sphinx.",
     "group": "Sphinx's token",
     "isMembers": true,
     "isTradeable": false,
@@ -27050,7 +27050,7 @@
     "version": ""
   },
   {
-    "examineText": "Very delicate thin pressed gold.",
+    "examineText": "Some very delicate thin pressed gold.",
     "group": "Gold leaf (unobtainable item)",
     "isMembers": true,
     "isTradeable": true,
@@ -27061,12 +27061,12 @@
   },
   {
     "examineText": "It's a bucket of salty water.",
-    "group": "Full bucket",
+    "group": "Bucket of saltwater",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 4693,
-    "name": "Full bucket",
-    "url": "https://oldschool.runescape.wiki/w/Full_bucket",
+    "name": "Bucket of saltwater",
+    "url": "https://oldschool.runescape.wiki/w/Bucket_of_saltwater",
     "version": ""
   },
   {
@@ -50081,42 +50081,42 @@
   },
   {
     "examineText": "This sceptre is fully charged.",
-    "group": "Pharaoh's sceptre",
+    "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 9044,
-    "name": "Pharaoh's sceptre (3)",
-    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre",
+    "name": "Pharaoh's sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre_(discontinued)",
     "version": "(3)"
   },
   {
     "examineText": "This sceptre has two remaining charges.",
-    "group": "Pharaoh's sceptre",
+    "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 9046,
-    "name": "Pharaoh's sceptre (2)",
-    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre",
+    "name": "Pharaoh's sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre_(discontinued)",
     "version": "(2)"
   },
   {
     "examineText": "This sceptre has one remaining charge.",
-    "group": "Pharaoh's sceptre",
+    "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 9048,
-    "name": "Pharaoh's sceptre (1)",
-    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre",
+    "name": "Pharaoh's sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre_(discontinued)",
     "version": "(1)"
   },
   {
     "examineText": "This sceptre has no remaining charges.",
-    "group": "Pharaoh's sceptre",
+    "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 9050,
     "name": "Pharaoh's sceptre",
-    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre_(discontinued)",
     "version": "Uncharged"
   },
   {
@@ -69731,52 +69731,52 @@
   },
   {
     "examineText": "This sceptre is fully charged.",
-    "group": "Pharaoh's sceptre",
+    "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13074,
-    "name": "Pharaoh's sceptre (8)",
-    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre",
+    "name": "Pharaoh's sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre_(discontinued)",
     "version": "(8)"
   },
   {
     "examineText": "This sceptre is fully charged.",
-    "group": "Pharaoh's sceptre",
+    "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13075,
-    "name": "Pharaoh's sceptre (7)",
-    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre",
+    "name": "Pharaoh's sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre_(discontinued)",
     "version": "(7)"
   },
   {
     "examineText": "This sceptre is fully charged.",
-    "group": "Pharaoh's sceptre",
+    "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13076,
-    "name": "Pharaoh's sceptre (6)",
-    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre",
+    "name": "Pharaoh's sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre_(discontinued)",
     "version": "(6)"
   },
   {
     "examineText": "This sceptre is fully charged.",
-    "group": "Pharaoh's sceptre",
+    "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13077,
-    "name": "Pharaoh's sceptre (5)",
-    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre",
+    "name": "Pharaoh's sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre_(discontinued)",
     "version": "(5)"
   },
   {
     "examineText": "This sceptre is fully charged.",
-    "group": "Pharaoh's sceptre",
+    "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13078,
-    "name": "Pharaoh's sceptre (4)",
-    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre",
+    "name": "Pharaoh's sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre_(discontinued)",
     "version": "(4)"
   },
   {
@@ -104540,6 +104540,16 @@
     "version": ""
   },
   {
+    "examineText": "A deadly curved sword created long ago.",
+    "group": "Osmumten's fang",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25977,
+    "name": "Osmumten's khopesh",
+    "url": "https://oldschool.runescape.wiki/w/Osmumten%27s_fang",
+    "version": ""
+  },
+  {
     "examineText": "A mystical-feeling polearm.",
     "group": "Keris partisan",
     "isMembers": true,
@@ -105867,16 +105877,6 @@
     "itemID": 26217,
     "name": "Masori headdress",
     "url": "https://oldschool.runescape.wiki/w/Masori_headdress",
-    "version": ""
-  },
-  {
-    "examineText": "An ancient and deadly sword.",
-    "group": "Osmumten's fang",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 26219,
-    "name": "Osmumten's fang",
-    "url": "https://oldschool.runescape.wiki/w/Osmumten%27s_fang",
     "version": ""
   },
   {
@@ -108860,7 +108860,7 @@
     "version": ""
   },
   {
-    "examineText": "The perfect hood for runecrafting.",
+    "examineText": "The perfect hat for runecrafting.",
     "group": "Hat of the eye",
     "isMembers": true,
     "isTradeable": false,
@@ -108890,7 +108890,7 @@
     "version": "Red"
   },
   {
-    "examineText": "The perfect hood for runecrafting.",
+    "examineText": "The perfect hat for runecrafting.",
     "group": "Hat of the eye",
     "isMembers": true,
     "isTradeable": false,
@@ -108920,7 +108920,7 @@
     "version": "Green"
   },
   {
-    "examineText": "The perfect hood for runecrafting.",
+    "examineText": "The perfect hat for runecrafting.",
     "group": "Hat of the eye",
     "isMembers": true,
     "isTradeable": false,
@@ -109488,5 +109488,185 @@
     "name": "Polyelemental guardian stone",
     "url": "https://oldschool.runescape.wiki/w/Polyelemental_guardian_stone",
     "version": ""
+  },
+  {
+    "examineText": "A strange message.",
+    "group": "Message (Beneath Cursed Sands)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26942,
+    "name": "Message",
+    "url": "https://oldschool.runescape.wiki/w/Message_(Beneath_Cursed_Sands)",
+    "version": ""
+  },
+  {
+    "examineText": "This sceptre has no remaining charges.",
+    "group": "Pharaoh's sceptre",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 26945,
+    "name": "Pharaoh's sceptre (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "An ancient and powerful sceptre.",
+    "group": "Pharaoh's sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26948,
+    "name": "Pharaoh's sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre",
+    "version": "Charged"
+  },
+  {
+    "examineText": "This could be used to make something.",
+    "group": "Scarab mould",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26952,
+    "name": "Scarab mould",
+    "url": "https://oldschool.runescape.wiki/w/Scarab_mould",
+    "version": ""
+  },
+  {
+    "examineText": "An iron disc with a scarab on it.",
+    "group": "Scarab emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26953,
+    "name": "Scarab emblem",
+    "url": "https://oldschool.runescape.wiki/w/Scarab_emblem",
+    "version": "Iron"
+  },
+  {
+    "examineText": "Some writing has been carved into it.",
+    "group": "Stone tablet (Beneath Cursed Sands)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26954,
+    "name": "Stone tablet",
+    "url": "https://oldschool.runescape.wiki/w/Stone_tablet_(Beneath_Cursed_Sands)",
+    "version": ""
+  },
+  {
+    "examineText": "An old chest with a combination lock on it.",
+    "group": "Chest (Beneath Cursed Sands)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26955,
+    "name": "Chest",
+    "url": "https://oldschool.runescape.wiki/w/Chest_(Beneath_Cursed_Sands)",
+    "version": ""
+  },
+  {
+    "examineText": "A gold emblem of a scarab.",
+    "group": "Scarab emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26956,
+    "name": "Scarab emblem",
+    "url": "https://oldschool.runescape.wiki/w/Scarab_emblem",
+    "version": "Gold"
+  },
+  {
+    "examineText": "A gold emblem of a human.",
+    "group": "Human emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26957,
+    "name": "Human emblem",
+    "url": "https://oldschool.runescape.wiki/w/Human_emblem",
+    "version": ""
+  },
+  {
+    "examineText": "A gold emblem of a baboon.",
+    "group": "Baboon emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26958,
+    "name": "Baboon emblem",
+    "url": "https://oldschool.runescape.wiki/w/Baboon_emblem",
+    "version": ""
+  },
+  {
+    "examineText": "A gold emblem of a crocodile.",
+    "group": "Crocodile emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26959,
+    "name": "Crocodile emblem",
+    "url": "https://oldschool.runescape.wiki/w/Crocodile_emblem",
+    "version": ""
+  },
+  {
+    "examineText": "A rusty key (Used in the Beneath Cursed Sands quest).",
+    "group": "Rusty key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26960,
+    "name": "Rusty key",
+    "url": "https://oldschool.runescape.wiki/w/Rusty_key",
+    "version": ""
+  },
+  {
+    "examineText": "A beautiful lily.",
+    "group": "Lily of the elid",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26961,
+    "name": "Lily of the elid",
+    "url": "https://oldschool.runescape.wiki/w/Lily_of_the_elid",
+    "version": ""
+  },
+  {
+    "examineText": "A crate full of vials.",
+    "group": "Cure crate",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26962,
+    "name": "Cure crate",
+    "url": "https://oldschool.runescape.wiki/w/Cure_crate",
+    "version": ""
+  },
+  {
+    "examineText": "Do they make me look... grouchy?",
+    "group": "Odd spectacles",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26963,
+    "name": "Odd spectacles",
+    "url": "https://oldschool.runescape.wiki/w/Odd_spectacles",
+    "version": ""
+  },
+  {
+    "examineText": "Better not drink this...",
+    "group": "Bottle of 'tonic'",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26965,
+    "name": "Bottle of 'tonic'",
+    "url": "https://oldschool.runescape.wiki/w/Bottle_of_%27tonic%27",
+    "version": ""
+  },
+  {
+    "examineText": "A magical circlet for keeping you hydrated in the desert. It needs charging.",
+    "group": "Circlet of water",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26967,
+    "name": "Circlet of water (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Circlet_of_water",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "A magical circlet for keeping you hydrated in the desert.",
+    "group": "Circlet of water",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26969,
+    "name": "Circlet of water",
+    "url": "https://oldschool.runescape.wiki/w/Circlet_of_water",
+    "version": "Charged"
   }
 ]

@@ -359,6 +359,12 @@
         "isMembers": true,
         "location": "Land's End - Crate",
         "name": "Bird snare"
+      },
+      {
+        "coords": "3324,2742",
+        "isMembers": true,
+        "location": "Necropolis camps - south-east of Sophanem",
+        "name": "Bird snare"
       }
     ]
   },
@@ -837,6 +843,17 @@
         "isMembers": true,
         "location": "Temple of Ikov basement",
         "name": "Boots of lightness"
+      }
+    ]
+  },
+  {
+    "group": "Bottle of 'tonic'",
+    "spawns": [
+      {
+        "coords": "3383,2794",
+        "isMembers": true,
+        "location": "Campsite east of Sophanem",
+        "name": "Bottle of 'tonic'"
       }
     ]
   },
@@ -1371,6 +1388,18 @@
         "coords": "3556,3236",
         "isMembers": true,
         "location": "Morytania - woods east of Burgh de Rott",
+        "name": "Bronze pickaxe"
+      },
+      {
+        "coords": "3295,2736",
+        "isMembers": true,
+        "location": "Necropolis camps - south-east of Sophanem",
+        "name": "Bronze pickaxe"
+      },
+      {
+        "coords": "3315,2704",
+        "isMembers": true,
+        "location": "Necropolis mine - south-east of Sophanem",
         "name": "Bronze pickaxe"
       },
       {
@@ -2077,6 +2106,18 @@
         "coords": "2217,2789",
         "isMembers": true,
         "location": "Isle of Souls - bench near anvil",
+        "name": "Chisel"
+      },
+      {
+        "coords": "3325,2740",
+        "isMembers": true,
+        "location": "Necropolis camps - south-east of Sophanem",
+        "name": "Chisel"
+      },
+      {
+        "coords": "3320,2708",
+        "isMembers": true,
+        "location": "Necropolis mine - south-east of Sophanem",
         "name": "Chisel"
       },
       {
@@ -4371,6 +4412,17 @@
         "isMembers": true,
         "location": "Ranging Guild - table by shield master",
         "name": "Oak shield"
+      }
+    ]
+  },
+  {
+    "group": "Odd spectacles",
+    "spawns": [
+      {
+        "coords": "3383,2793",
+        "isMembers": true,
+        "location": "Campsite east of Sophanem",
+        "name": "Odd spectacles"
       }
     ]
   },
