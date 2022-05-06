@@ -1391,15 +1391,9 @@
         "name": "Bronze pickaxe"
       },
       {
-        "coords": "3295,2736",
-        "isMembers": true,
-        "location": "Necropolis camps - south-east of Sophanem",
-        "name": "Bronze pickaxe"
-      },
-      {
         "coords": "3315,2704",
         "isMembers": true,
-        "location": "Necropolis mine - south-east of Sophanem",
+        "location": "Necropolis - south-east of Sophanem",
         "name": "Bronze pickaxe"
       },
       {
@@ -4728,6 +4722,12 @@
         "coords": "2509,10290",
         "isMembers": true,
         "location": "Miscellania and Etceteria Dungeon - up the lift",
+        "name": "Plank"
+      },
+      {
+        "coords": "3323,2733",
+        "isMembers": true,
+        "location": "Necropolis - south-east of Sophanem",
         "name": "Plank"
       },
       {
