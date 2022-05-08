@@ -21522,6 +21522,12 @@
       },
       {
         "currency": "Coins",
+        "name": "Cooked meat",
+        "stock": "4",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
         "name": "Empty bucket pack",
         "stock": "10",
         "version": ""

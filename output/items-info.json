@@ -50080,7 +50080,7 @@
     "version": ""
   },
   {
-    "examineText": "This sceptre is fully charged.",
+    "examineText": "An ancient and powerful sceptre.",
     "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
@@ -50090,7 +50090,7 @@
     "version": "(3)"
   },
   {
-    "examineText": "This sceptre has two remaining charges.",
+    "examineText": "An ancient and powerful sceptre.",
     "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
@@ -50100,7 +50100,7 @@
     "version": "(2)"
   },
   {
-    "examineText": "This sceptre has one remaining charge.",
+    "examineText": "An ancient and powerful sceptre.",
     "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
@@ -50110,7 +50110,7 @@
     "version": "(1)"
   },
   {
-    "examineText": "This sceptre has no remaining charges.",
+    "examineText": "An ancient and powerful sceptre.",
     "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
@@ -64940,6 +64940,16 @@
     "version": "Tree (elite)"
   },
   {
+    "examineText": "",
+    "group": "Clue scroll (easy) - Al Kharid Mine",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 12179,
+    "name": "Clue scroll (easy) - Al Kharid Mine",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_Al_Kharid_Mine",
+    "version": ""
+  },
+  {
     "examineText": "Ancient Vestments.",
     "group": "Ancient robe top",
     "isMembers": true,
@@ -69730,7 +69740,7 @@
     "version": "Normal"
   },
   {
-    "examineText": "This sceptre is fully charged.",
+    "examineText": "An ancient and powerful sceptre.",
     "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
@@ -69740,7 +69750,7 @@
     "version": "(8)"
   },
   {
-    "examineText": "This sceptre is fully charged.",
+    "examineText": "An ancient and powerful sceptre.",
     "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
@@ -69750,7 +69760,7 @@
     "version": "(7)"
   },
   {
-    "examineText": "This sceptre is fully charged.",
+    "examineText": "An ancient and powerful sceptre.",
     "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
@@ -69760,7 +69770,7 @@
     "version": "(6)"
   },
   {
-    "examineText": "This sceptre is fully charged.",
+    "examineText": "An ancient and powerful sceptre.",
     "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
@@ -69770,7 +69780,7 @@
     "version": "(5)"
   },
   {
-    "examineText": "This sceptre is fully charged.",
+    "examineText": "An ancient and powerful sceptre.",
     "group": "Pharaoh's sceptre (discontinued)",
     "isMembers": true,
     "isTradeable": false,
@@ -75537,6 +75547,16 @@
     "itemID": 19732,
     "name": "Lucky impling jar",
     "url": "https://oldschool.runescape.wiki/w/Lucky_impling_jar",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - USBJCPSO",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 19764,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_USBJCPSO",
     "version": ""
   },
   {
@@ -109257,7 +109277,7 @@
     "itemID": 26912,
     "name": "Lost bag",
     "url": "https://oldschool.runescape.wiki/w/Lost_bag",
-    "version": ""
+    "version": "Regular"
   },
   {
     "examineText": "An amulet in the shape of an eye.",
@@ -109267,197 +109287,7 @@
     "itemID": 26914,
     "name": "Amulet of the eye",
     "url": "https://oldschool.runescape.wiki/w/Amulet_of_the_eye",
-    "version": ""
-  },
-  {
-    "examineText": "The bottle is hot to touch. I should probably be wearing gloves.",
-    "group": "Special hot sauce",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26916,
-    "name": "Special hot sauce",
-    "url": "https://oldschool.runescape.wiki/w/Special_hot_sauce",
-    "version": ""
-  },
-  {
-    "examineText": "It burns my eyes just looking at it.",
-    "group": "Special super hot kebab",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26917,
-    "name": "Special super hot kebab",
-    "url": "https://oldschool.runescape.wiki/w/Special_super_hot_kebab",
-    "version": ""
-  },
-  {
-    "examineText": "A secret information report for Ali Morrisane.",
-    "group": "Secret report",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26918,
-    "name": "Secret report",
-    "url": "https://oldschool.runescape.wiki/w/Secret_report",
-    "version": ""
-  },
-  {
-    "examineText": "It's a wooden bucket. But... bigger.",
-    "group": "Big bucket",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26919,
-    "name": "Big bucket",
-    "url": "https://oldschool.runescape.wiki/w/Big_bucket",
-    "version": ""
-  },
-  {
-    "examineText": "It's a big ol' bucket, full of camel milk.",
-    "group": "Big bucket of camel milk",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26920,
-    "name": "Big bucket of camel milk",
-    "url": "https://oldschool.runescape.wiki/w/Big_bucket_of_camel_milk",
-    "version": ""
-  },
-  {
-    "examineText": "It's a big ol' bucket, full of frozen camel milk.",
-    "group": "Big bucket of frozen camel milk",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26921,
-    "name": "Big bucket of frozen camel milk",
-    "url": "https://oldschool.runescape.wiki/w/Big_bucket_of_frozen_camel_milk",
-    "version": ""
-  },
-  {
-    "examineText": "A festive cleaning potion.",
-    "group": "Magical cleaning potion (2022 Easter event)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26924,
-    "name": "Magical cleaning potion",
-    "url": "https://oldschool.runescape.wiki/w/Magical_cleaning_potion_(2022_Easter_event)",
-    "version": ""
-  },
-  {
-    "examineText": "A cooler with enough space for two Easter eggs.",
-    "group": "Cooler",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26925,
-    "name": "Cooler",
-    "url": "https://oldschool.runescape.wiki/w/Cooler",
-    "version": ""
-  },
-  {
-    "examineText": "A normal, empty, hollow, probably quite melty, Easter egg.",
-    "group": "Easter egg (2022 Easter event)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26926,
-    "name": "Easter egg",
-    "url": "https://oldschool.runescape.wiki/w/Easter_egg_(2022_Easter_event)",
-    "version": ""
-  },
-  {
-    "examineText": "Used to be an Easter egg. Heat got the better of it.",
-    "group": "Melted easter egg",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26927,
-    "name": "Melted easter egg",
-    "url": "https://oldschool.runescape.wiki/w/Melted_easter_egg",
-    "version": ""
-  },
-  {
-    "examineText": "An Easter egg filled with home made camel milk ice cream.",
-    "group": "Ice cream easter egg",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26928,
-    "name": "Ice cream easter egg",
-    "url": "https://oldschool.runescape.wiki/w/Ice_cream_easter_egg",
-    "version": ""
-  },
-  {
-    "examineText": "Not the sharpest tools in the shed.",
-    "group": "Blunt scimitars",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26929,
-    "name": "Blunt scimitars",
-    "url": "https://oldschool.runescape.wiki/w/Blunt_scimitars",
-    "version": ""
-  },
-  {
-    "examineText": "Very solid string that could probably be used in making a contraption of some kind.",
-    "group": "Washing line",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26930,
-    "name": "Washing line",
-    "url": "https://oldschool.runescape.wiki/w/Washing_line",
-    "version": ""
-  },
-  {
-    "examineText": "You spin me right round, baby, right round.",
-    "group": "Tanning wheel",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26931,
-    "name": "Tanning wheel",
-    "url": "https://oldschool.runescape.wiki/w/Tanning_wheel",
-    "version": ""
-  },
-  {
-    "examineText": "A vat previously used to hold an unspecified tanning solution. It smells rank.",
-    "group": "Vat (dirty)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26932,
-    "name": "Vat (dirty)",
-    "url": "https://oldschool.runescape.wiki/w/Vat_(dirty)",
-    "version": ""
-  },
-  {
-    "examineText": "A vat rinsed and rinsed and rinsed with a magical cleaning potion. It smells like a flower.",
-    "group": "Vat (cleaned)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26933,
-    "name": "Vat (cleaned)",
-    "url": "https://oldschool.runescape.wiki/w/Vat_(cleaned)",
-    "version": ""
-  },
-  {
-    "examineText": "A wooden pole which could be used as an axle for the wheel.",
-    "group": "Wooden pole",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26934,
-    "name": "Wooden pole",
-    "url": "https://oldschool.runescape.wiki/w/Wooden_pole",
-    "version": ""
-  },
-  {
-    "examineText": "Four scimitars, placed on a wheel, placed in a vat.",
-    "group": "Churning machine",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26935,
-    "name": "Churning machine",
-    "url": "https://oldschool.runescape.wiki/w/Churning_machine",
-    "version": ""
-  },
-  {
-    "examineText": "Four scimitars, placed on a wheel, placed in a vat that's freezing my hands off.",
-    "group": "Frozen churning machine",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26936,
-    "name": "Frozen churning machine",
-    "url": "https://oldschool.runescape.wiki/w/Frozen_churning_machine",
-    "version": ""
+    "version": "Regular"
   },
   {
     "examineText": "A nice easter hat.",
@@ -109668,5 +109498,65 @@
     "name": "Circlet of water",
     "url": "https://oldschool.runescape.wiki/w/Circlet_of_water",
     "version": "Charged"
+  },
+  {
+    "examineText": "A bag with strange markings on it... How did it fit into that small pouch?",
+    "group": "Lost bag",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26984,
+    "name": "Lost bag",
+    "url": "https://oldschool.runescape.wiki/w/Lost_bag",
+    "version": "Red"
+  },
+  {
+    "examineText": "A bag with strange markings on it... How did it fit into that small pouch?",
+    "group": "Lost bag",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26986,
+    "name": "Lost bag",
+    "url": "https://oldschool.runescape.wiki/w/Lost_bag",
+    "version": "Green"
+  },
+  {
+    "examineText": "A bag with strange markings on it... How did it fit into that small pouch?",
+    "group": "Lost bag",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26988,
+    "name": "Lost bag",
+    "url": "https://oldschool.runescape.wiki/w/Lost_bag",
+    "version": "Blue"
+  },
+  {
+    "examineText": "An amulet in the shape of an eye.",
+    "group": "Amulet of the eye",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26990,
+    "name": "Amulet of the eye",
+    "url": "https://oldschool.runescape.wiki/w/Amulet_of_the_eye",
+    "version": "Red"
+  },
+  {
+    "examineText": "An amulet in the shape of an eye.",
+    "group": "Amulet of the eye",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26992,
+    "name": "Amulet of the eye",
+    "url": "https://oldschool.runescape.wiki/w/Amulet_of_the_eye",
+    "version": "Green"
+  },
+  {
+    "examineText": "An amulet in the shape of an eye.",
+    "group": "Amulet of the eye",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26994,
+    "name": "Amulet of the eye",
+    "url": "https://oldschool.runescape.wiki/w/Amulet_of_the_eye",
+    "version": "Blue"
   }
 ]
