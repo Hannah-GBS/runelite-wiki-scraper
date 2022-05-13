@@ -12557,7 +12557,7 @@
     "itemID": 2094,
     "name": "Odd cocktail",
     "url": "https://oldschool.runescape.wiki/w/Odd_cocktail",
-    "version": "Version 1"
+    "version": "1"
   },
   {
     "examineText": "I'm not completely sure what this contains.",
@@ -12567,7 +12567,7 @@
     "itemID": 2096,
     "name": "Odd cocktail",
     "url": "https://oldschool.runescape.wiki/w/Odd_cocktail",
-    "version": "Version 2"
+    "version": "2"
   },
   {
     "examineText": "I'm not completely sure what this contains.",
@@ -12577,7 +12577,7 @@
     "itemID": 2098,
     "name": "Odd cocktail",
     "url": "https://oldschool.runescape.wiki/w/Odd_cocktail",
-    "version": "Version 3"
+    "version": "3"
   },
   {
     "examineText": "I'm not completely sure what this contains.",
@@ -12587,7 +12587,7 @@
     "itemID": 2100,
     "name": "Odd cocktail",
     "url": "https://oldschool.runescape.wiki/w/Odd_cocktail",
-    "version": "Version 4"
+    "version": "4"
   },
   {
     "examineText": "A fresh lemon.",
@@ -27773,7 +27773,7 @@
     "examineText": "I need another ingredient to finish this Rogue's Purse potion.",
     "group": "Unfinished potion (Rogue's Purse)",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 4840,
     "name": "Unfinished potion",
     "url": "https://oldschool.runescape.wiki/w/Unfinished_potion_(Rogue%27s_Purse)",
@@ -79160,7 +79160,7 @@
     "version": ""
   },
   {
-    "examineText": "An extraordinarily large brass key (used to access the Hill Titan's lair).",
+    "examineText": "A key to the lair of Obor, the Hill Titan.",
     "group": "Giant key",
     "isMembers": false,
     "isTradeable": false,
@@ -87792,7 +87792,7 @@
   {
     "examineText": "It's a slightly magical stick. All natural, of course.",
     "group": "Bryophyta's staff",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": true,
     "itemID": 22368,
     "name": "Bryophyta's staff (uncharged)",
@@ -87802,7 +87802,7 @@
   {
     "examineText": "It's a slightly more magical stick. All natural, of course.",
     "group": "Bryophyta's staff",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 22370,
     "name": "Bryophyta's staff",
@@ -87812,7 +87812,7 @@
   {
     "examineText": "Ready to infuse a Battlestaff with the power of Nature.",
     "group": "Bryophyta's essence",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": true,
     "itemID": 22372,
     "name": "Bryophyta's essence",
