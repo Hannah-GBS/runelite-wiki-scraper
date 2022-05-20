@@ -75507,7 +75507,7 @@
     "itemID": 19722,
     "name": "Dragon defender (t)",
     "url": "https://oldschool.runescape.wiki/w/Dragon_defender_(t)",
-    "version": ""
+    "version": "Normal"
   },
   {
     "examineText": "A black piece of cloth on a string.",
@@ -91237,7 +91237,7 @@
     "itemID": 23230,
     "name": "Rune defender (t)",
     "url": "https://oldschool.runescape.wiki/w/Rune_defender_(t)",
-    "version": ""
+    "version": "Normal"
   },
   {
     "examineText": "Use on the TzHaar-ket-om to trim and spike it.",
@@ -106677,7 +106677,7 @@
     "itemID": 26463,
     "name": "Void knight top (or)",
     "url": "https://oldschool.runescape.wiki/w/Void_knight_top_(or)",
-    "version": ""
+    "version": "Normal"
   },
   {
     "examineText": "Void knight robes plucked from the shattered abyss.",
@@ -106687,7 +106687,7 @@
     "itemID": 26465,
     "name": "Void knight robe (or)",
     "url": "https://oldschool.runescape.wiki/w/Void_knight_robe_(or)",
-    "version": ""
+    "version": "Normal"
   },
   {
     "examineText": "Void knight gloves plucked from the shattered abyss.",
@@ -106697,7 +106697,7 @@
     "itemID": 26467,
     "name": "Void knight gloves (or)",
     "url": "https://oldschool.runescape.wiki/w/Void_knight_gloves_(or)",
-    "version": ""
+    "version": "Normal"
   },
   {
     "examineText": "An elite void knight top plucked from the shattered abyss.",
@@ -106707,7 +106707,7 @@
     "itemID": 26469,
     "name": "Elite void top (or)",
     "url": "https://oldschool.runescape.wiki/w/Elite_void_top_(or)",
-    "version": ""
+    "version": "Normal"
   },
   {
     "examineText": "Elite void knight robes plucked from the shattered abyss.",
@@ -106717,7 +106717,7 @@
     "itemID": 26471,
     "name": "Elite void robe (or)",
     "url": "https://oldschool.runescape.wiki/w/Elite_void_robe_(or)",
-    "version": ""
+    "version": "Normal"
   },
   {
     "examineText": "A mage helm plucked from the shattered abyss.",
@@ -106727,7 +106727,7 @@
     "itemID": 26473,
     "name": "Void mage helm (or)",
     "url": "https://oldschool.runescape.wiki/w/Void_mage_helm_(or)",
-    "version": ""
+    "version": "Normal"
   },
   {
     "examineText": "A ranger helm plucked from the shattered abyss.",
@@ -106737,7 +106737,7 @@
     "itemID": 26475,
     "name": "Void ranger helm (or)",
     "url": "https://oldschool.runescape.wiki/w/Void_ranger_helm_(or)",
-    "version": ""
+    "version": "Normal"
   },
   {
     "examineText": "A melee helm plucked from the shattered abyss.",
@@ -106747,7 +106747,7 @@
     "itemID": 26477,
     "name": "Void melee helm (or)",
     "url": "https://oldschool.runescape.wiki/w/Void_melee_helm_(or)",
-    "version": ""
+    "version": "Normal"
   },
   {
     "examineText": "A kit that can be used on void armour to theme it to Leagues III - Shattered Relics.",
@@ -109558,5 +109558,125 @@
     "name": "Amulet of the eye",
     "url": "https://oldschool.runescape.wiki/w/Amulet_of_the_eye",
     "version": "Blue"
+  },
+  {
+    "examineText": "The creature's soul is still in here. I could reanimate it with Expert Reanimation.",
+    "group": "Ensouled hellhound head",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 26996,
+    "name": "Ensouled hellhound head",
+    "url": "https://oldschool.runescape.wiki/w/Ensouled_hellhound_head",
+    "version": "Drop"
+  },
+  {
+    "examineText": "The creature's soul is still in here. I could reanimate it with Expert Reanimation.",
+    "group": "Ensouled hellhound head",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 26997,
+    "name": "Ensouled hellhound head",
+    "url": "https://oldschool.runescape.wiki/w/Ensouled_hellhound_head",
+    "version": "Item"
+  },
+  {
+    "examineText": "A void knight top plucked from the shattered abyss.",
+    "group": "Void knight top (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27000,
+    "name": "Void knight top (l)(or)",
+    "url": "https://oldschool.runescape.wiki/w/Void_knight_top_(or)",
+    "version": "Locked"
+  },
+  {
+    "examineText": "Void knight robes plucked from the shattered abyss.",
+    "group": "Void knight robe (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27001,
+    "name": "Void knight robe (l)(or)",
+    "url": "https://oldschool.runescape.wiki/w/Void_knight_robe_(or)",
+    "version": "Locked"
+  },
+  {
+    "examineText": "Void knight gloves plucked from the shattered abyss.",
+    "group": "Void knight gloves (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27002,
+    "name": "Void knight gloves (l)(or)",
+    "url": "https://oldschool.runescape.wiki/w/Void_knight_gloves_(or)",
+    "version": "Locked"
+  },
+  {
+    "examineText": "An elite void knight top plucked from the shattered abyss.",
+    "group": "Elite void top (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27003,
+    "name": "Elite void top (l)(or)",
+    "url": "https://oldschool.runescape.wiki/w/Elite_void_top_(or)",
+    "version": "Locked"
+  },
+  {
+    "examineText": "Elite void knight robes plucked from the shattered abyss.",
+    "group": "Elite void robe (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27004,
+    "name": "Elite void robe (l)(or)",
+    "url": "https://oldschool.runescape.wiki/w/Elite_void_robe_(or)",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A mage helm plucked from the shattered abyss.",
+    "group": "Void mage helm (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27005,
+    "name": "Void mage helm (l)(or)",
+    "url": "https://oldschool.runescape.wiki/w/Void_mage_helm_(or)",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A ranger helm plucked from the shattered abyss.",
+    "group": "Void ranger helm (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27006,
+    "name": "Void ranger helm (l)(or)",
+    "url": "https://oldschool.runescape.wiki/w/Void_ranger_helm_(or)",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A melee helm plucked from the shattered abyss.",
+    "group": "Void melee helm (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27007,
+    "name": "Void melee helm (l)(or)",
+    "url": "https://oldschool.runescape.wiki/w/Void_melee_helm_(or)",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A defensive weapon trimmed with gold.",
+    "group": "Dragon defender (t)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27008,
+    "name": "Dragon defender (l)(t)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_defender_(t)",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A defensive weapon trimmed with gold.",
+    "group": "Rune defender (t)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27009,
+    "name": "Rune defender (l)(t)",
+    "url": "https://oldschool.runescape.wiki/w/Rune_defender_(t)",
+    "version": "Locked"
   }
 ]

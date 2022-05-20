@@ -7716,7 +7716,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">146,684,922</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">141,717,402</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -9995,7 +9995,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">151,840,215</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">143,631,792</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -44655,28 +44655,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "Sawmill",
-    "materials": [
-      {
-        "name": "Logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "100"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Plank.png|link=Plank]]",
-      "name": "Plank",
-      "quantity": "1",
-      "subtxt": "Sawmill"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
     "materials": [
       {
         "name": "Logs",
@@ -44715,6 +44693,28 @@
       }
     ],
     "ticks": "5"
+  },
+  {
+    "facilities": "Sawmill",
+    "materials": [
+      {
+        "name": "Logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Plank.png|link=Plank]]",
+      "name": "Plank",
+      "quantity": "1",
+      "subtxt": "Sawmill"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -54665,6 +54665,7 @@
     "tools": "Ring mould"
   },
   {
+    "facilities": "Furnace",
     "materials": [
       {
         "name": "Eternal gem",
@@ -60374,7 +60375,7 @@
       {
         "boostable": "",
         "experience": "2",
-        "level": "?",
+        "level": "1",
         "name": "Cooking"
       }
     ],
@@ -65051,6 +65052,30 @@
     "skills": [],
     "ticks": "4",
     "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bucket of wax",
+        "quantity": "1"
+      },
+      {
+        "name": "Swamp tar",
+        "quantity": "1"
+      },
+      {
+        "name": "Cake tin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Wax.png|link=Wax]]",
+      "name": "Wax",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Air Altar",
