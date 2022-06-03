@@ -3200,6 +3200,12 @@
     "group": "Hammer",
     "spawns": [
       {
+        "coords": "3492,3242",
+        "isMembers": true,
+        "location": "Burgh de Rott - upstairs",
+        "name": "Hammer"
+      },
+      {
         "coords": "2934,3286",
         "isMembers": false,
         "location": "Crafting Guild",
@@ -4785,6 +4791,12 @@
         "coords": "3074,3431",
         "isMembers": false,
         "location": "Barbarian Village - Helmet Shop",
+        "name": "Pot"
+      },
+      {
+        "coords": "3479,3221",
+        "isMembers": true,
+        "location": "Burgh de Rott - upstairs",
         "name": "Pot"
       },
       {
