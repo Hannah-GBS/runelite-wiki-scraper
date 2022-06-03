@@ -36251,23 +36251,23 @@
   },
   {
     "examineText": "A raw spider threaded onto a skewer stick.",
-    "group": "Spider on stick",
+    "group": "Spider on stick (raw)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 6293,
     "name": "Spider on stick",
-    "url": "https://oldschool.runescape.wiki/w/Spider_on_stick",
-    "version": "Raw"
+    "url": "https://oldschool.runescape.wiki/w/Spider_on_stick_(raw)",
+    "version": ""
   },
   {
-    "examineText": "A raw spider threaded onto an arrow shaft.",
-    "group": "Spider on shaft",
+    "examineText": "A nicely roasted spider threaded onto an arrow shaft.",
+    "group": "Spider on shaft (raw)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 6295,
     "name": "Spider on shaft",
-    "url": "https://oldschool.runescape.wiki/w/Spider_on_shaft",
-    "version": "Raw"
+    "url": "https://oldschool.runescape.wiki/w/Spider_on_shaft_(raw)",
+    "version": ""
   },
   {
     "examineText": "A nicely roasted spider threaded onto a skewer stick.",
@@ -36277,7 +36277,7 @@
     "itemID": 6297,
     "name": "Spider on stick",
     "url": "https://oldschool.runescape.wiki/w/Spider_on_stick",
-    "version": "Cooked"
+    "version": ""
   },
   {
     "examineText": "A nicely roasted spider threaded onto an arrow shaft.",
@@ -36287,7 +36287,7 @@
     "itemID": 6299,
     "name": "Spider on shaft",
     "url": "https://oldschool.runescape.wiki/w/Spider_on_shaft",
-    "version": "Cooked"
+    "version": ""
   },
   {
     "examineText": "A badly burnt spider threaded onto a charred skewer stick.",
