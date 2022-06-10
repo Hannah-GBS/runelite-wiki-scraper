@@ -577,12 +577,6 @@
         "name": "Bones"
       },
       {
-        "coords": "3377,3157",
-        "isMembers": false,
-        "location": "Desert Plateau",
-        "name": "Bones"
-      },
-      {
         "coords": "3354,3426",
         "isMembers": true,
         "location": "Digsite",
@@ -616,6 +610,12 @@
         "coords": "2485,2926",
         "isMembers": true,
         "location": "Feldip Hills",
+        "name": "Bones"
+      },
+      {
+        "coords": "3377,3157",
+        "isMembers": false,
+        "location": "Giants' Plateau",
         "name": "Bones"
       },
       {
@@ -1206,6 +1206,12 @@
         "name": "Bronze axe"
       },
       {
+        "coords": "3185,3277",
+        "isMembers": false,
+        "location": "Lumbridge - outside Fred the Farmer's house",
+        "name": "Bronze axe"
+      },
+      {
         "coords": "2678,3731",
         "isMembers": true,
         "location": "Rellekka - near the rock crabs",
@@ -1351,7 +1357,7 @@
       {
         "coords": "3362,3166",
         "isMembers": false,
-        "location": "Desert Plateau",
+        "location": "Giants' Plateau",
         "name": "Bronze pickaxe"
       },
       {
@@ -1416,7 +1422,7 @@
       {
         "coords": "3362,3154",
         "isMembers": false,
-        "location": "Desert Plateau",
+        "location": "Giants' Plateau",
         "name": "Bronze scimitar"
       },
       {
@@ -2240,12 +2246,6 @@
         "name": "Coins"
       },
       {
-        "coords": "3381,3156",
-        "isMembers": false,
-        "location": "Desert Plateau",
-        "name": "Coins"
-      },
-      {
         "coords": "2017,4949",
         "isMembers": true,
         "location": "Eagles' Peak Dungeon",
@@ -2255,6 +2255,12 @@
         "coords": "3088,9898",
         "isMembers": false,
         "location": "Edgeville Dungeon",
+        "name": "Coins"
+      },
+      {
+        "coords": "3381,3156",
+        "isMembers": false,
+        "location": "Giants' Plateau",
         "name": "Coins"
       },
       {
@@ -3212,12 +3218,6 @@
         "name": "Hammer"
       },
       {
-        "coords": "3350,3162",
-        "isMembers": false,
-        "location": "Desert Plateau",
-        "name": "Hammer"
-      },
-      {
         "coords": "2579,3463",
         "isMembers": false,
         "location": "Dwarven Mine",
@@ -3233,6 +3233,12 @@
         "coords": "2975,3368",
         "isMembers": false,
         "location": "Falador - upstairs of the furnace building",
+        "name": "Hammer"
+      },
+      {
+        "coords": "3350,3162",
+        "isMembers": false,
+        "location": "Giants' Plateau",
         "name": "Hammer"
       },
       {
@@ -5711,7 +5717,7 @@
       {
         "coords": "3371,3144",
         "isMembers": false,
-        "location": "Desert Plateau",
+        "location": "Giants' Plateau",
         "name": "Staff"
       }
     ]
@@ -6108,15 +6114,15 @@
         "name": "Tinderbox"
       },
       {
-        "coords": "3362,3167",
-        "isMembers": false,
-        "location": "Desert Plateau",
-        "name": "Tinderbox"
-      },
-      {
         "coords": "3112,3369",
         "isMembers": false,
         "location": "Draynor Manor (2nd floor)",
+        "name": "Tinderbox"
+      },
+      {
+        "coords": "3362,3167",
+        "isMembers": false,
+        "location": "Giants' Plateau",
         "name": "Tinderbox"
       },
       {
@@ -6435,7 +6441,7 @@
       {
         "coords": "3361,3154",
         "isMembers": false,
-        "location": "Desert Plateau",
+        "location": "Giants' Plateau",
         "name": "Wooden shield"
       },
       {

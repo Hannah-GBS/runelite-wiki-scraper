@@ -18593,7 +18593,7 @@
     "examineText": "A strip of cloth.",
     "group": "Strip of cloth",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 3224,
     "name": "Strip of cloth",
     "url": "https://oldschool.runescape.wiki/w/Strip_of_cloth",
@@ -109708,5 +109708,125 @@
     "name": "Rune defender (l)(t)",
     "url": "https://oldschool.runescape.wiki/w/Rune_defender_(t)",
     "version": "Locked"
+  },
+  {
+    "examineText": "A giant piece of untempered metal.",
+    "group": "Preform",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27010,
+    "name": "Preform",
+    "url": "https://oldschool.runescape.wiki/w/Preform",
+    "version": ""
+  },
+  {
+    "examineText": "Looks like two ammo moulds roughly put together with a metal strip.",
+    "group": "Double ammo mould",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27012,
+    "name": "Double ammo mould",
+    "url": "https://oldschool.runescape.wiki/w/Double_ammo_mould",
+    "version": ""
+  },
+  {
+    "examineText": "Only Kovac knows what's gone into this.",
+    "group": "Kovac's grog",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27014,
+    "name": "Kovac's grog",
+    "url": "https://oldschool.runescape.wiki/w/Kovac%27s_grog",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Smithing catalyst",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27017,
+    "name": "Smithing catalyst",
+    "url": "https://oldschool.runescape.wiki/w/Smithing_catalyst",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Ore pack",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27019,
+    "name": "Ore pack",
+    "url": "https://oldschool.runescape.wiki/w/Ore_pack",
+    "version": ""
+  },
+  {
+    "examineText": "It takes a lot of guts to wield a blade this big.",
+    "group": "Colossal blade",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27021,
+    "name": "Colossal blade",
+    "url": "https://oldschool.runescape.wiki/w/Colossal_blade",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Smiths tunic",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27023,
+    "name": "Smiths tunic",
+    "url": "https://oldschool.runescape.wiki/w/Smiths_tunic",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Smiths trousers",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27025,
+    "name": "Smiths trousers",
+    "url": "https://oldschool.runescape.wiki/w/Smiths_trousers",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Smiths boots",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27027,
+    "name": "Smiths boots",
+    "url": "https://oldschool.runescape.wiki/w/Smiths_boots",
+    "version": ""
+  },
+  {
+    "examineText": "They fit surprisingly well.",
+    "group": "Smiths gloves",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27029,
+    "name": "Smiths gloves",
+    "url": "https://oldschool.runescape.wiki/w/Smiths_gloves",
+    "version": ""
+  },
+  {
+    "examineText": "They fit surprisingly well and are stuffed with a pair of ice gloves.",
+    "group": "Smiths gloves (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27031,
+    "name": "Smiths gloves (i)",
+    "url": "https://oldschool.runescape.wiki/w/Smiths_gloves_(i)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Giants foundry tester",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27033,
+    "name": "Giants foundry tester",
+    "url": "https://oldschool.runescape.wiki/w/Giants_foundry_tester",
+    "version": ""
   }
 ]

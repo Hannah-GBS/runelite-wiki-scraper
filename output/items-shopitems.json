@@ -13482,6 +13482,85 @@
     "items": [
       {
         "buyPrice": "N/A",
+        "currency": "Foundry Reputation",
+        "name": "Colossal blade",
+        "sellPrice": "5000",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Foundry Reputation",
+        "name": "Double ammo mould",
+        "sellPrice": "2000",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Foundry Reputation",
+        "name": "Kovac's grog",
+        "sellPrice": "300",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Foundry Reputation",
+        "name": "Ore pack",
+        "sellPrice": "200",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Foundry Reputation",
+        "name": "Smithing catalyst",
+        "sellPrice": "15",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Foundry Reputation",
+        "name": "Smiths boots",
+        "sellPrice": "3500",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Foundry Reputation",
+        "name": "Smiths gloves",
+        "sellPrice": "3500",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Foundry Reputation",
+        "name": "Smiths trousers",
+        "sellPrice": "4000",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Foundry Reputation",
+        "name": "Smiths tunic",
+        "sellPrice": "4000",
+        "stock": "inf",
+        "version": ""
+      }
+    ],
+    "location": "Giants' Foundry",
+    "name": "Giants' Foundry Reward Shop"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Compost",
         "sellPrice": "35",
