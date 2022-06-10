@@ -4054,7 +4054,7 @@
     "ticks": "2"
   },
   {
-    "facilities": "Brewery",
+    "facilities": "Apple Press",
     "materials": [
       {
         "name": "Cooking apple",
@@ -7744,7 +7744,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">143,184,107</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">147,373,849</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10023,7 +10023,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">147,266,445</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">149,466,794</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -13247,7 +13247,8 @@
     "output": {
       "image": "[[File:Cannonball.png|link=Cannonball]]",
       "name": "Cannonball",
-      "quantity": "4"
+      "quantity": "4",
+      "subtxt": "Ammo mould"
     },
     "skills": [
       {
@@ -13259,6 +13260,32 @@
     ],
     "ticks": "8",
     "tools": "Ammo mould"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Steel bar",
+        "quantity": "2"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cannonball.png|link=Cannonball]]",
+      "name": "Cannonball",
+      "quantity": "8",
+      "subtxt": "Double ammo mould"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "51.2",
+        "level": "35",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Double ammo mould"
   },
   {
     "materials": [
@@ -55101,6 +55128,26 @@
     "ticks": ""
   },
   {
+    "materials": [
+      {
+        "name": "Smiths gloves",
+        "quantity": "1"
+      },
+      {
+        "name": "Ice gloves",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Smiths gloves (i).png|link=Smiths gloves (i)]]",
+      "name": "Smiths gloves (i)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Air Altar",
     "materials": [
       {
@@ -63594,7 +63641,7 @@
   {
     "materials": [
       {
-        "name": "Vial of blood",
+        "name": "Vial of blood (A Taste of Hope)",
         "quantity": "1"
       },
       {
