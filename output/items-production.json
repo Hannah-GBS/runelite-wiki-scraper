@@ -4345,6 +4345,34 @@
         "quantity": "1"
       },
       {
+        "name": "Sacred oil(2)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Arctic pyre logs.png|link=Arctic pyre logs]]",
+      "name": "Arctic pyre logs",
+      "quantity": "1",
+      "subtxt": "2-dose oil"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "12",
+        "level": "1",
+        "name": "Firemaking"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Arctic pine logs",
+        "quantity": "1"
+      },
+      {
         "name": "Sacred oil(3)",
         "quantity": "1"
       }
@@ -4388,34 +4416,6 @@
       {
         "boostable": "",
         "experience": "16",
-        "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Arctic pine logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Sacred oil(2)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Arctic pyre logs.png|link=Arctic pyre logs]]",
-      "name": "Arctic pyre logs",
-      "quantity": "1",
-      "subtxt": "2-dose oil"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "12",
         "level": "1",
         "name": "Firemaking"
       }
@@ -7744,7 +7744,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">143,782,357</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">142,291,579</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10023,7 +10023,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">148,117,745</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">146,969,101</span>.",
       "quantity": "1"
     },
     "skills": [

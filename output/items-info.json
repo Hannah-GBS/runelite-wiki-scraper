@@ -109828,5 +109828,65 @@
     "name": "Giants foundry tester",
     "url": "https://oldschool.runescape.wiki/w/Giants_foundry_tester",
     "version": ""
+  },
+  {
+    "examineText": "A crown made from six beautifully coloured flowers",
+    "group": "Rainbow flower crown",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27035,
+    "name": "Rainbow flower crown",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_flower_crown",
+    "version": ""
+  },
+  {
+    "examineText": "A seed that can be planted to grow a Legendary Red Rose.",
+    "group": "Legendary red rose seed",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27037,
+    "name": "Legendary red rose seed",
+    "url": "https://oldschool.runescape.wiki/w/Legendary_red_rose_seed",
+    "version": ""
+  },
+  {
+    "examineText": "A seed that can be planted to grow a Gorgeous Orange Lily.",
+    "group": "Gorgeous orange lily seed",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27038,
+    "name": "Gorgeous orange lily seed",
+    "url": "https://oldschool.runescape.wiki/w/Gorgeous_orange_lily_seed",
+    "version": ""
+  },
+  {
+    "examineText": "A seed that can be planted to grow a Beautiful Yellow Pansy.",
+    "group": "Beautiful yellow pansy seed",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27039,
+    "name": "Beautiful yellow pansy seed",
+    "url": "https://oldschool.runescape.wiki/w/Beautiful_yellow_pansy_seed",
+    "version": ""
+  },
+  {
+    "examineText": "A seed that can be planted to grow a Tenacious Indigo Iris Seed.",
+    "group": "Tenacious indigo iris seed",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27040,
+    "name": "Tenacious indigo iris seed",
+    "url": "https://oldschool.runescape.wiki/w/Tenacious_indigo_iris_seed",
+    "version": ""
+  },
+  {
+    "examineText": "A seed that can be planted to grow a Quality Violet Tulip.",
+    "group": "Quality violet tulip seed",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27041,
+    "name": "Quality violet tulip seed",
+    "url": "https://oldschool.runescape.wiki/w/Quality_violet_tulip_seed",
+    "version": ""
   }
 ]
