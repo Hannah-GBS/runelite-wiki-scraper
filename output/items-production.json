@@ -7744,7 +7744,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">146,570,478</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">146,527,087</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10023,7 +10023,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">155,460,161</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">149,344,919</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18288,6 +18288,66 @@
     "ticks": ""
   },
   {
+    "materials": [
+      {
+        "name": "Dagon'hai hat",
+        "quantity": "1"
+      },
+      {
+        "name": "Dagon'hai robes ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dagon'hai hat (or).png|link=Dagon'hai hat (or)]]",
+      "name": "Dagon'hai hat (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dagon'hai robe bottom",
+        "quantity": "1"
+      },
+      {
+        "name": "Dagon'hai robes ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dagon'hai robe bottom (or).png|link=Dagon'hai robe bottom (or)]]",
+      "name": "Dagon'hai robe bottom (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dagon'hai robe top",
+        "quantity": "1"
+      },
+      {
+        "name": "Dagon'hai robes ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dagon'hai robe top (or).png|link=Dagon'hai robe top (or)]]",
+      "name": "Dagon'hai robe top (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Lectern (Ancient)|Ancient lectern",
     "materials": [
       {
@@ -22639,6 +22699,86 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Elder chaos hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Elder chaos robes ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elder chaos hood (or).png|link=Elder chaos hood (or)]]",
+      "name": "Elder chaos hood (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Elder chaos robe",
+        "quantity": "1"
+      },
+      {
+        "name": "Elder chaos robes ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elder chaos robe (or).png|link=Elder chaos robe (or)]]",
+      "name": "Elder chaos robe (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Elder chaos top",
+        "quantity": "1"
+      },
+      {
+        "name": "Elder chaos robes ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elder chaos top (or).png|link=Elder chaos top (or)]]",
+      "name": "Elder chaos top (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Elder maul",
+        "quantity": "1"
+      },
+      {
+        "name": "Elder maul ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elder maul (or).png|link=Elder maul (or)]]",
+      "name": "Elder maul (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [

@@ -100880,26 +100880,6 @@
     "version": ""
   },
   {
-    "examineText": "An extremely deep sense of suffering burns within this powerful ring.",
-    "group": "Ring of suffering (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25246,
-    "name": "Ring of suffering (i)",
-    "url": "https://oldschool.runescape.wiki/w/Ring_of_suffering_(i)",
-    "version": "Uncharged"
-  },
-  {
-    "examineText": "An extremely deep sense of suffering burns within this powerful ring.",
-    "group": "Ring of suffering (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25248,
-    "name": "Ring of suffering (ri)",
-    "url": "https://oldschool.runescape.wiki/w/Ring_of_suffering_(i)",
-    "version": "Recoil"
-  },
-  {
     "examineText": "Increases melee, ranged and magic damage & accuracy by 15% against the undead.",
     "group": "Salve amulet(i)",
     "isMembers": true,
@@ -100978,116 +100958,6 @@
     "name": "Berserker ring (i)",
     "url": "https://oldschool.runescape.wiki/w/Berserker_ring_(i)",
     "version": "Soul Wars"
-  },
-  {
-    "examineText": "A magic cave horror mask.",
-    "group": "Black mask (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25266,
-    "name": "Black mask (10) (i)",
-    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
-    "version": "(10)"
-  },
-  {
-    "examineText": "A magic cave horror mask.",
-    "group": "Black mask (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25267,
-    "name": "Black mask (9) (i)",
-    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
-    "version": "(9)"
-  },
-  {
-    "examineText": "A magic cave horror mask.",
-    "group": "Black mask (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25268,
-    "name": "Black mask (8) (i)",
-    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
-    "version": "(8)"
-  },
-  {
-    "examineText": "A magic cave horror mask.",
-    "group": "Black mask (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25269,
-    "name": "Black mask (7) (i)",
-    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
-    "version": "(7)"
-  },
-  {
-    "examineText": "A magic cave horror mask.",
-    "group": "Black mask (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25270,
-    "name": "Black mask (6) (i)",
-    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
-    "version": "(6)"
-  },
-  {
-    "examineText": "A magic cave horror mask.",
-    "group": "Black mask (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25271,
-    "name": "Black mask (5) (i)",
-    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
-    "version": "(5)"
-  },
-  {
-    "examineText": "A magic cave horror mask.",
-    "group": "Black mask (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25272,
-    "name": "Black mask (4) (i)",
-    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
-    "version": "(4)"
-  },
-  {
-    "examineText": "A magic cave horror mask.",
-    "group": "Black mask (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25273,
-    "name": "Black mask (3) (i)",
-    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
-    "version": "(3)"
-  },
-  {
-    "examineText": "A magic cave horror mask.",
-    "group": "Black mask (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25274,
-    "name": "Black mask (2) (i)",
-    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
-    "version": "(2)"
-  },
-  {
-    "examineText": "A magic cave horror mask.",
-    "group": "Black mask (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25275,
-    "name": "Black mask (1) (i)",
-    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
-    "version": "(1)"
-  },
-  {
-    "examineText": "An inert-seeming cave horror mask.",
-    "group": "Black mask (i)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25276,
-    "name": "Black mask (i)",
-    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
-    "version": "Uncharged"
   },
   {
     "examineText": "Increases melee, ranged and magic damage & accuracy by 20% against the undead.",
@@ -107840,6 +107710,126 @@
     "version": "Female Elven Grey"
   },
   {
+    "examineText": "You really don't want to wear it inside-out.",
+    "group": "Slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26674,
+    "name": "Slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "You really don't want to wear it inside-out.",
+    "group": "Black slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26675,
+    "name": "Black slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "You really don't want to wear it inside-out.",
+    "group": "Green slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26676,
+    "name": "Green slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Green_slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "You really don't want to wear it inside-out.",
+    "group": "Red slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26677,
+    "name": "Red slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Red_slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "You really don't want to wear it inside-out.",
+    "group": "Purple slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26678,
+    "name": "Purple slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Purple_slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "You really don't want to wear it inside-out.",
+    "group": "Turquoise slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26679,
+    "name": "Turquoise slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Turquoise_slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "You really don't want to wear it inside-out.",
+    "group": "Hydra slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26680,
+    "name": "Hydra slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Hydra_slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "You really don't want to wear it inside-out.",
+    "group": "Twisted slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26681,
+    "name": "Twisted slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Twisted_slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "You don't want to wear it inside-out.",
+    "group": "Tztok slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26682,
+    "name": "Tztok slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Tztok_slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "You don't want to wear it inside-out.",
+    "group": "Vampyric slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26683,
+    "name": "Vampyric slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Vampyric_slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "You don't want to wear it inside-out.",
+    "group": "Tzkal slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26684,
+    "name": "Tzkal slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Tzkal_slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "A solid ring.",
+    "group": "Granite ring (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26685,
+    "name": "Granite ring (i)",
+    "url": "https://oldschool.runescape.wiki/w/Granite_ring_(i)",
+    "version": "Emir's Arena"
+  },
+  {
     "examineText": "Maoma the Corrupt Captain's med helm, but it's broken.",
     "group": "Maoma's med helm",
     "isMembers": true,
@@ -107960,6 +107950,16 @@
     "version": "Broken"
   },
   {
+    "examineText": "Koriff the Crowd Pleaser's headband, but it's broken.",
+    "group": "Koriff's headband",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26698,
+    "name": "Koriff's headband (broken)",
+    "url": "https://oldschool.runescape.wiki/w/Koriff%27s_headband",
+    "version": "Broken"
+  },
+  {
     "examineText": "Koriff the Crowd Pleaser's cowl, but it's broken.",
     "group": "Koriff's cowl",
     "isMembers": true,
@@ -107967,16 +107967,6 @@
     "itemID": 26699,
     "name": "Koriff's cowl (broken)",
     "url": "https://oldschool.runescape.wiki/w/Koriff%27s_cowl",
-    "version": "Broken"
-  },
-  {
-    "examineText": "Koriff the Crowd Pleaser's headband, but it's broken.",
-    "group": "Koriff's headband",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 26700,
-    "name": "Koriff's headband (broken)",
-    "url": "https://oldschool.runescape.wiki/w/Koriff%27s_headband",
     "version": "Broken"
   },
   {
@@ -108041,12 +108031,12 @@
   },
   {
     "examineText": "A magical scroll used to imbue a variety of items.",
-    "group": "Scroll of imbuing (beta)",
+    "group": "Scroll of imbuing",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26706,
     "name": "Scroll of imbuing",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_of_imbuing_(beta)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_of_imbuing",
     "version": ""
   },
   {
@@ -108350,6 +108340,26 @@
     "version": "Locked"
   },
   {
+    "examineText": "Koriff the Crowd Pleaser's headband.",
+    "group": "Koriff's headband",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26737,
+    "name": "Koriff's headband",
+    "url": "https://oldschool.runescape.wiki/w/Koriff%27s_headband",
+    "version": "Normal"
+  },
+  {
+    "examineText": "Koriff the Crowd Pleaser's headband.",
+    "group": "Koriff's headband",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26738,
+    "name": "Koriff's headband (l)",
+    "url": "https://oldschool.runescape.wiki/w/Koriff%27s_headband",
+    "version": "Locked"
+  },
+  {
     "examineText": "Koriff the Crowd Pleaser's cowl.",
     "group": "Koriff's cowl",
     "isMembers": true,
@@ -108370,16 +108380,6 @@
     "version": "Locked"
   },
   {
-    "examineText": "Koriff the Crowd Pleaser's headband.",
-    "group": "Koriff's headband",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 26741,
-    "name": "Koriff's headband",
-    "url": "https://oldschool.runescape.wiki/w/Koriff%27s_headband",
-    "version": "Normal"
-  },
-  {
     "examineText": "Koriff the Crowd Pleaser's coif.",
     "group": "Koriff's coif",
     "isMembers": true,
@@ -108388,16 +108388,6 @@
     "name": "Koriff's coif",
     "url": "https://oldschool.runescape.wiki/w/Koriff%27s_coif",
     "version": "Normal"
-  },
-  {
-    "examineText": "Koriff the Crowd Pleaser's headband.",
-    "group": "Koriff's headband",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 26742,
-    "name": "Koriff's headband (l)",
-    "url": "https://oldschool.runescape.wiki/w/Koriff%27s_headband",
-    "version": "Locked"
   },
   {
     "examineText": "Koriff the Crowd Pleaser's coif.",
@@ -108588,6 +108578,226 @@
     "name": "Elite calamity breeches (l)",
     "url": "https://oldschool.runescape.wiki/w/Elite_calamity_breeches",
     "version": "Locked"
+  },
+  {
+    "examineText": "An extremely deep sense of suffering burns within this powerful ring.",
+    "group": "Ring of suffering (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26761,
+    "name": "Ring of suffering (i)",
+    "url": "https://oldschool.runescape.wiki/w/Ring_of_suffering_(i)",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "An extremely deep sense of suffering burns within this powerful ring.",
+    "group": "Ring of suffering (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26762,
+    "name": "Ring of suffering (ri)",
+    "url": "https://oldschool.runescape.wiki/w/Ring_of_suffering_(i)",
+    "version": "Recoil"
+  },
+  {
+    "examineText": "Increases melee, ranged and magic damage & accuracy by 15% against the undead.",
+    "group": "Salve amulet(i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26763,
+    "name": "Salve amulet(i)",
+    "url": "https://oldschool.runescape.wiki/w/Salve_amulet(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "An ancient ring said to bring you closer to the Gods.",
+    "group": "Ring of the gods (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26764,
+    "name": "Ring of the gods (i)",
+    "url": "https://oldschool.runescape.wiki/w/Ring_of_the_gods_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "An incredibly heavy ring.",
+    "group": "Tyrannical ring (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26765,
+    "name": "Tyrannical ring (i)",
+    "url": "https://oldschool.runescape.wiki/w/Tyrannical_ring_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "A razor sharp ring.",
+    "group": "Treasonous ring (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26766,
+    "name": "Treasonous ring (i)",
+    "url": "https://oldschool.runescape.wiki/w/Treasonous_ring_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "A mysterious ring that can fill the wearer with magical power...",
+    "group": "Seers ring (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26767,
+    "name": "Seers ring (i)",
+    "url": "https://oldschool.runescape.wiki/w/Seers_ring_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "A fabled ring that improves the wearer's skill with a bow...",
+    "group": "Archers ring (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26768,
+    "name": "Archers ring (i)",
+    "url": "https://oldschool.runescape.wiki/w/Archers_ring_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "A legendary ring once worn by Fremennik warriors.",
+    "group": "Warrior ring (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26769,
+    "name": "Warrior ring (i)",
+    "url": "https://oldschool.runescape.wiki/w/Warrior_ring_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "A ring reputed to bring out a berserk fury in its wearer.",
+    "group": "Berserker ring (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26770,
+    "name": "Berserker ring (i)",
+    "url": "https://oldschool.runescape.wiki/w/Berserker_ring_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "A magic cave horror mask.",
+    "group": "Black mask (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26771,
+    "name": "Black mask (10) (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
+    "version": "(10)"
+  },
+  {
+    "examineText": "A magic cave horror mask.",
+    "group": "Black mask (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26772,
+    "name": "Black mask (9) (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
+    "version": "(9)"
+  },
+  {
+    "examineText": "A magic cave horror mask.",
+    "group": "Black mask (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26773,
+    "name": "Black mask (8) (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
+    "version": "(8)"
+  },
+  {
+    "examineText": "A magic cave horror mask.",
+    "group": "Black mask (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26774,
+    "name": "Black mask (7) (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
+    "version": "(7)"
+  },
+  {
+    "examineText": "A magic cave horror mask.",
+    "group": "Black mask (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26775,
+    "name": "Black mask (6) (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
+    "version": "(6)"
+  },
+  {
+    "examineText": "A magic cave horror mask.",
+    "group": "Black mask (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26776,
+    "name": "Black mask (5) (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
+    "version": "(5)"
+  },
+  {
+    "examineText": "A magic cave horror mask.",
+    "group": "Black mask (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26777,
+    "name": "Black mask (4) (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
+    "version": "(4)"
+  },
+  {
+    "examineText": "A magic cave horror mask.",
+    "group": "Black mask (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26778,
+    "name": "Black mask (3) (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
+    "version": "(3)"
+  },
+  {
+    "examineText": "A magic cave horror mask.",
+    "group": "Black mask (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26779,
+    "name": "Black mask (2) (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
+    "version": "(2)"
+  },
+  {
+    "examineText": "A magic cave horror mask.",
+    "group": "Black mask (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26780,
+    "name": "Black mask (1) (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
+    "version": "(1)"
+  },
+  {
+    "examineText": "An inert-seeming cave horror mask.",
+    "group": "Black mask (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26781,
+    "name": "Black mask (i)",
+    "url": "https://oldschool.runescape.wiki/w/Black_mask_(i)",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "Increases melee, ranged and magic damage & accuracy by 20% against the undead.",
+    "group": "Salve amulet(ei)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26782,
+    "name": "Salve amulet(ei)",
+    "url": "https://oldschool.runescape.wiki/w/Salve_amulet(ei)",
+    "version": "Emir's Arena"
   },
   {
     "examineText": "A colossal-sized pouch used for storing essence.",
@@ -109958,5 +110168,145 @@
     "name": "Group iron platebody (unranked)",
     "url": "https://oldschool.runescape.wiki/w/Group_iron_platebody_(unranked)",
     "version": "V"
+  },
+  {
+    "examineText": "Supplies the runes for casting any spell.",
+    "group": "Rune pouch (Emir's Arena)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27086,
+    "name": "Rune pouch",
+    "url": "https://oldschool.runescape.wiki/w/Rune_pouch_(Emir%27s_Arena)",
+    "version": ""
+  },
+  {
+    "examineText": "Use on an elder maul to make them look fancier!",
+    "group": "Elder maul ornament kit",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27098,
+    "name": "Elder maul ornament kit",
+    "url": "https://oldschool.runescape.wiki/w/Elder_maul_ornament_kit",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Elder maul (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27100,
+    "name": "Elder maul (or)",
+    "url": "https://oldschool.runescape.wiki/w/Elder_maul_(or)",
+    "version": ""
+  },
+  {
+    "examineText": "A pair of nice gloves with wristwraps to enhance their qualities.",
+    "group": "Mithril gloves (wrapped)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27110,
+    "name": "Mithril gloves (wrapped)",
+    "url": "https://oldschool.runescape.wiki/w/Mithril_gloves_(wrapped)",
+    "version": ""
+  },
+  {
+    "examineText": "A pair of very nice gloves with wristwraps to enhance their qualities.",
+    "group": "Rune gloves (wrapped)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27111,
+    "name": "Rune gloves (wrapped)",
+    "url": "https://oldschool.runescape.wiki/w/Rune_gloves_(wrapped)",
+    "version": ""
+  },
+  {
+    "examineText": "A pair of very nice gloves with wristwraps to enhance their qualities.",
+    "group": "Barrows gloves (wrapped)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27112,
+    "name": "Barrows gloves (wrapped)",
+    "url": "https://oldschool.runescape.wiki/w/Barrows_gloves_(wrapped)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Elder chaos robes ornament kit",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27113,
+    "name": "Elder chaos robes ornament kit",
+    "url": "https://oldschool.runescape.wiki/w/Elder_chaos_robes_ornament_kit",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Elder chaos top (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27115,
+    "name": "Elder chaos top (or)",
+    "url": "https://oldschool.runescape.wiki/w/Elder_chaos_top_(or)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Elder chaos robe (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27117,
+    "name": "Elder chaos robe (or)",
+    "url": "https://oldschool.runescape.wiki/w/Elder_chaos_robe_(or)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Elder chaos hood (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27119,
+    "name": "Elder chaos hood (or)",
+    "url": "https://oldschool.runescape.wiki/w/Elder_chaos_hood_(or)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Dagon'hai robes ornament kit",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27121,
+    "name": "Dagon'hai robes ornament kit",
+    "url": "https://oldschool.runescape.wiki/w/Dagon%27hai_robes_ornament_kit",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Dagon'hai hat (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27123,
+    "name": "Dagon'hai hat (or)",
+    "url": "https://oldschool.runescape.wiki/w/Dagon%27hai_hat_(or)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Dagon'hai robe top (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27125,
+    "name": "Dagon'hai robe top (or)",
+    "url": "https://oldschool.runescape.wiki/w/Dagon%27hai_robe_top_(or)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Dagon'hai robe bottom (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27127,
+    "name": "Dagon'hai robe bottom (or)",
+    "url": "https://oldschool.runescape.wiki/w/Dagon%27hai_robe_bottom_(or)",
+    "version": ""
   }
 ]
