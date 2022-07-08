@@ -1200,6 +1200,12 @@
         "name": "Bronze axe"
       },
       {
+        "coords": "3368,3238",
+        "isMembers": false,
+        "location": "Emir's Arena",
+        "name": "Bronze axe"
+      },
+      {
         "coords": "2970,3376",
         "isMembers": false,
         "location": "Falador - upstairs of the furnace building",
@@ -2045,6 +2051,12 @@
         "name": "Cheese"
       },
       {
+        "coords": "3390,3268",
+        "isMembers": false,
+        "location": "Emir's Arena{{Refn|name=telegrab|This spawn must be telekinetic grabbed.}}",
+        "name": "Cheese"
+      },
+      {
         "coords": "3018,3232",
         "isMembers": true,
         "location": "Port Sarim - Rat Pits (in the rat trap next to the bar; deals 3 damage)",
@@ -2255,6 +2267,12 @@
         "coords": "3088,9898",
         "isMembers": false,
         "location": "Edgeville Dungeon",
+        "name": "Coins"
+      },
+      {
+        "coords": "3338,3234",
+        "isMembers": false,
+        "location": "Emir's Arena",
         "name": "Coins"
       },
       {
