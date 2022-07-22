@@ -52400,7 +52400,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "You should never see this!",
     "group": "A eyeglo null",
     "isMembers": false,
     "isTradeable": false,
@@ -110040,67 +110040,17 @@
     "version": ""
   },
   {
-    "examineText": "A crown made from six beautifully coloured flowers.",
-    "group": "Rainbow flower crown",
+    "examineText": "A crown made out of six beautiful flowers that celebrates Pride.",
+    "group": "Flower crown",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 27035,
-    "name": "Rainbow flower crown",
-    "url": "https://oldschool.runescape.wiki/w/Rainbow_flower_crown",
-    "version": ""
+    "name": "Flower crown",
+    "url": "https://oldschool.runescape.wiki/w/Flower_crown",
+    "version": "Pride"
   },
   {
-    "examineText": "A seed that can be planted to grow a Legendary Red Rose.",
-    "group": "Legendary red rose seed",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27037,
-    "name": "Legendary red rose seed",
-    "url": "https://oldschool.runescape.wiki/w/Legendary_red_rose_seed",
-    "version": ""
-  },
-  {
-    "examineText": "A seed that can be planted to grow a Gorgeous Orange Lily.",
-    "group": "Gorgeous orange lily seed",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27038,
-    "name": "Gorgeous orange lily seed",
-    "url": "https://oldschool.runescape.wiki/w/Gorgeous_orange_lily_seed",
-    "version": ""
-  },
-  {
-    "examineText": "A seed that can be planted to grow a Beautiful Yellow Pansy.",
-    "group": "Beautiful yellow pansy seed",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27039,
-    "name": "Beautiful yellow pansy seed",
-    "url": "https://oldschool.runescape.wiki/w/Beautiful_yellow_pansy_seed",
-    "version": ""
-  },
-  {
-    "examineText": "A seed that can be planted to grow a Tenacious Indigo Iris Seed.",
-    "group": "Tenacious indigo iris seed",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27040,
-    "name": "Tenacious indigo iris seed",
-    "url": "https://oldschool.runescape.wiki/w/Tenacious_indigo_iris_seed",
-    "version": ""
-  },
-  {
-    "examineText": "A seed that can be planted to grow a Quality Violet Tulip.",
-    "group": "Quality violet tulip seed",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27041,
-    "name": "Quality violet tulip seed",
-    "url": "https://oldschool.runescape.wiki/w/Quality_violet_tulip_seed",
-    "version": ""
-  },
-  {
-    "examineText": "",
+    "examineText": "Engraved within, it reads \"Ranked or not: We stand alone - together\".",
     "group": "Group iron helm (unranked)",
     "isMembers": false,
     "isTradeable": false,
@@ -110110,7 +110060,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Protects your legs while still stylish.",
     "group": "Group iron platelegs (unranked)",
     "isMembers": false,
     "isTradeable": false,
@@ -110120,7 +110070,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Brace yourself.",
     "group": "Group iron bracers (unranked)",
     "isMembers": false,
     "isTradeable": false,
@@ -110130,7 +110080,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A platebody representing your group of two.",
     "group": "Group iron platebody (unranked)",
     "isMembers": false,
     "isTradeable": false,
@@ -110140,7 +110090,7 @@
     "version": "II"
   },
   {
-    "examineText": "",
+    "examineText": "A platebody representing your group of three.",
     "group": "Group iron platebody (unranked)",
     "isMembers": false,
     "isTradeable": false,
@@ -110150,7 +110100,7 @@
     "version": "III"
   },
   {
-    "examineText": "",
+    "examineText": "A platebody representing your group of four.",
     "group": "Group iron platebody (unranked)",
     "isMembers": false,
     "isTradeable": false,
@@ -110160,7 +110110,7 @@
     "version": "IV"
   },
   {
-    "examineText": "",
+    "examineText": "A platebody representing your group of five.",
     "group": "Group iron platebody (unranked)",
     "isMembers": false,
     "isTradeable": false,
@@ -110180,7 +110130,7 @@
     "version": ""
   },
   {
-    "examineText": "Use on an elder maul to make them look fancier!",
+    "examineText": "Use on an elder maul to make it look fancier!",
     "group": "Elder maul ornament kit",
     "isMembers": true,
     "isTradeable": false,
@@ -110190,7 +110140,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A maul crafted from the component parts of Tekton and various decorative materials.",
     "group": "Elder maul (or)",
     "isMembers": true,
     "isTradeable": false,
@@ -110230,7 +110180,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Use on an Elder chaos robe piece to make it look fancier!",
     "group": "Elder chaos robes ornament kit",
     "isMembers": true,
     "isTradeable": false,
@@ -110240,7 +110190,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The robes worn by the dangerous elder druids, tastefully decorated.",
     "group": "Elder chaos top (or)",
     "isMembers": true,
     "isTradeable": false,
@@ -110250,7 +110200,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The robes worn by the dangerous elder druids, tastefully decorated.",
     "group": "Elder chaos robe (or)",
     "isMembers": true,
     "isTradeable": false,
@@ -110260,7 +110210,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The hood worn by the dangerous elder druids, tastefully decorated.",
     "group": "Elder chaos hood (or)",
     "isMembers": true,
     "isTradeable": false,
@@ -110270,7 +110220,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Use on a Dagon'hai robe piece to make it look fancier!",
     "group": "Dagon'hai robes ornament kit",
     "isMembers": true,
     "isTradeable": false,
@@ -110280,7 +110230,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A hat worn by members of the Dagon'hai, tastefully decorated.",
     "group": "Dagon'hai hat (or)",
     "isMembers": true,
     "isTradeable": false,
@@ -110290,7 +110240,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A robe worn by members of the Dagon'hai, tastefully decorated.",
     "group": "Dagon'hai robe top (or)",
     "isMembers": true,
     "isTradeable": false,
@@ -110300,7 +110250,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A robe worn by members of the Dagon'hai, tastefully decorated.",
     "group": "Dagon'hai robe bottom (or)",
     "isMembers": true,
     "isTradeable": false,
@@ -110308,5 +110258,85 @@
     "name": "Dagon'hai robe bottom (or)",
     "url": "https://oldschool.runescape.wiki/w/Dagon%27hai_robe_bottom_(or)",
     "version": ""
+  },
+  {
+    "examineText": "A crown made out of six beautiful flowers that celebrates Pride.",
+    "group": "Flower crown",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27141,
+    "name": "Flower crown",
+    "url": "https://oldschool.runescape.wiki/w/Flower_crown",
+    "version": "Bisexual"
+  },
+  {
+    "examineText": "A crown made out of six beautiful flowers that celebrates Pride.",
+    "group": "Flower crown",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27143,
+    "name": "Flower crown",
+    "url": "https://oldschool.runescape.wiki/w/Flower_crown",
+    "version": "Asexual"
+  },
+  {
+    "examineText": "A crown made out of six beautiful flowers that celebrates Pride.",
+    "group": "Flower crown",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27145,
+    "name": "Flower crown",
+    "url": "https://oldschool.runescape.wiki/w/Flower_crown",
+    "version": "Transgender"
+  },
+  {
+    "examineText": "A crown made out of six beautiful flowers that celebrates Pride.",
+    "group": "Flower crown",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27147,
+    "name": "Flower crown",
+    "url": "https://oldschool.runescape.wiki/w/Flower_crown",
+    "version": "Pansexual"
+  },
+  {
+    "examineText": "A crown made out of six beautiful flowers that celebrates Pride.",
+    "group": "Flower crown",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27149,
+    "name": "Flower crown",
+    "url": "https://oldschool.runescape.wiki/w/Flower_crown",
+    "version": "Non-binary"
+  },
+  {
+    "examineText": "A crown made out of six beautiful flowers that celebrates Pride.",
+    "group": "Flower crown",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27151,
+    "name": "Flower crown",
+    "url": "https://oldschool.runescape.wiki/w/Flower_crown",
+    "version": "Genderqueer"
+  },
+  {
+    "examineText": "A crown made out of six beautiful flowers that celebrates Pride.",
+    "group": "Flower crown",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27153,
+    "name": "Flower crown",
+    "url": "https://oldschool.runescape.wiki/w/Flower_crown",
+    "version": "Lesbian"
+  },
+  {
+    "examineText": "A crown made out of six beautiful flowers that celebrates Pride.",
+    "group": "Flower crown",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27155,
+    "name": "Flower crown",
+    "url": "https://oldschool.runescape.wiki/w/Flower_crown",
+    "version": "Gay"
   }
 ]
