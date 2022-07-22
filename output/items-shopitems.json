@@ -23724,6 +23724,37 @@
     "sellMultiplier": "1000"
   },
   {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Blighted surge sack",
+        "sellPrice": "10",
+        "stock": "\u221e",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Blighted wave sack",
+        "sellPrice": "10",
+        "stock": "\u221e",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Scroll of imbuing",
+        "sellPrice": "500",
+        "stock": "\u221e",
+        "version": ""
+      }
+    ],
+    "location": "Emir's Arena",
+    "name": "PvP Arena Rewards"
+  },
+  {
     "buyMultiplier": "550",
     "isMembers": true,
     "items": [
