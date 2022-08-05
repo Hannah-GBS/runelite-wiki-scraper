@@ -4551,16 +4551,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 713,
-    "name": "Clue scroll (unobtainable item)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(unobtainable_item)",
-    "version": ""
-  },
-  {
-    "examineText": "",
     "group": "Enjifern",
     "isMembers": false,
     "isTradeable": false,
@@ -49291,23 +49281,23 @@
   },
   {
     "examineText": "Alcohol in the loosest sense of the word.",
-    "group": "Rum (Trouble Brewing)",
+    "group": "Rum (red)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 8940,
     "name": "Rum",
-    "url": "https://oldschool.runescape.wiki/w/Rum_(Trouble_Brewing)",
-    "version": "Red"
+    "url": "https://oldschool.runescape.wiki/w/Rum_(red)",
+    "version": ""
   },
   {
     "examineText": "Alcohol in the loosest sense of the word.",
-    "group": "Rum (Trouble Brewing)",
+    "group": "Rum (blue)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 8941,
     "name": "Rum",
-    "url": "https://oldschool.runescape.wiki/w/Rum_(Trouble_Brewing)",
-    "version": "Blue"
+    "url": "https://oldschool.runescape.wiki/w/Rum_(blue)",
+    "version": ""
   },
   {
     "examineText": "A confused looking monkey.",
