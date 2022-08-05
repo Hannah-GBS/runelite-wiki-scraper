@@ -15326,16 +15326,16 @@
       {
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
-        "name": "Rum (Trouble Brewing)",
+        "name": "Rum (blue)",
         "stock": "200",
-        "version": "Red"
+        "version": ""
       },
       {
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
-        "name": "Rum (Trouble Brewing)",
+        "name": "Rum (red)",
         "stock": "200",
-        "version": "Blue"
+        "version": ""
       },
       {
         "buyPrice": "N/A",
@@ -27620,7 +27620,21 @@
     "sellMultiplier": "1000"
   },
   {
-    "buyMultiplier": "0",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "ecto-tokens",
+        "name": "Ale yeast",
+        "sellPrice": "5",
+        "stock": "inf",
+        "version": ""
+      }
+    ],
+    "location": "Port Phasmatys",
+    "name": "The Green Ghost"
+  },
+  {
     "isMembers": true,
     "items": [
       {
@@ -27628,13 +27642,12 @@
         "currency": "Coins",
         "name": "Beer",
         "sellPrice": "4",
-        "stock": "\u221e",
+        "stock": "inf",
         "version": ""
       }
     ],
     "location": "Port Piscarilius",
-    "name": "The Legless Faun",
-    "sellMultiplier": "1000"
+    "name": "The Legless Faun"
   },
   {
     "buyMultiplier": "550",
