@@ -10532,7 +10532,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "40",
         "currency": "Tithe",
         "name": "Farmer's boots",
         "sellPrice": "50",
@@ -10540,7 +10540,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "100",
         "currency": "Tithe",
         "name": "Farmer's boro trousers",
         "sellPrice": "125",
@@ -10548,7 +10548,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "120",
         "currency": "Tithe",
         "name": "Farmer's jacket",
         "sellPrice": "150",
@@ -10556,7 +10556,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "120",
         "currency": "Tithe",
         "name": "Farmer's shirt",
         "sellPrice": "150",
@@ -10564,7 +10564,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "60",
         "currency": "Tithe",
         "name": "Farmer's strawhat",
         "sellPrice": "75",
@@ -27498,7 +27498,6 @@
     "sellMultiplier": "1000"
   },
   {
-    "buyMultiplier": "0",
     "isMembers": true,
     "items": [
       {
@@ -27506,13 +27505,12 @@
         "currency": "Coins",
         "name": "Blood pint",
         "sellPrice": "2",
-        "stock": "\u221e",
+        "stock": "inf",
         "version": ""
       }
     ],
     "location": "Darkmeyer",
-    "name": "The Crypt",
-    "sellMultiplier": "1000"
+    "name": "The Crypt"
   },
   {
     "buyMultiplier": "550",
