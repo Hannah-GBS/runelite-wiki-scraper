@@ -2092,7 +2092,7 @@
     "ticks": "4"
   },
   {
-    "facilities": "Blast furnace",
+    "facilities": "Blast Furnace",
     "materials": [
       {
         "name": "Adamantite ore",
@@ -2108,7 +2108,7 @@
       "image": "[[File:Adamantite bar.png|link=Adamantite bar]]",
       "name": "Adamantite bar",
       "quantity": "1",
-      "subtxt": "Blast furnace"
+      "subtxt": "Blast Furnace"
     },
     "skills": [
       {
@@ -2118,7 +2118,40 @@
         "name": "Smithing"
       }
     ],
-    "ticks": ""
+    "ticks": "11"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Adamantite ore",
+        "quantity": "1"
+      },
+      {
+        "name": "Coal",
+        "quantity": "3"
+      },
+      {
+        "name": "Smithing catalyst",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamantite bar.png|link=Adamantite bar]]",
+      "name": "Adamantite bar",
+      "quantity": "1",
+      "subtxt": "Catalyzed"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "70",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "materials": [
@@ -7740,7 +7773,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">158,320,798</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">167,871,690</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -8318,7 +8351,7 @@
     },
     "skills": [
       {
-        "boostable": "yes",
+        "boostable": "Yes",
         "experience": "10.5",
         "level": "77",
         "name": "Runecraft"
@@ -8343,7 +8376,7 @@
     },
     "skills": [
       {
-        "boostable": "yes",
+        "boostable": "Yes",
         "experience": "15.75",
         "level": "77",
         "name": "Runecraft"
@@ -8368,7 +8401,7 @@
     },
     "skills": [
       {
-        "boostable": "yes",
+        "boostable": "Yes",
         "experience": "10.5",
         "level": "77",
         "name": "Runecraft"
@@ -9249,6 +9282,44 @@
     "ticks": "1"
   },
   {
+    "materials": [
+      {
+        "name": "Blurite ore",
+        "quantity": "1"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blurite bar.png|link=Blurite bar]]",
+      "name": "Blurite bar",
+      "quantity": "1",
+      "subtxt": "Superheat"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "8",
+        "level": "13",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "53",
+        "level": "43",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
     "facilities": "Furnace",
     "materials": [
       {
@@ -9260,7 +9331,8 @@
     "output": {
       "image": "[[File:Blurite bar.png|link=Blurite bar]]",
       "name": "Blurite bar",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Regular furnace"
     },
     "skills": [
       {
@@ -9405,6 +9477,7 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Thurgo",
     "materials": [
       {
         "name": "Iron bar",
@@ -10019,7 +10092,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">160,842,250</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">169,082,974</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10780,7 +10853,7 @@
     "ticks": "5"
   },
   {
-    "facilities": "Blast furnace",
+    "facilities": "Blast Furnace",
     "materials": [
       {
         "name": "Copper ore",
@@ -10796,7 +10869,7 @@
       "image": "[[File:Bronze bar.png|link=Bronze bar]]",
       "name": "Bronze bar",
       "quantity": "1",
-      "subtxt": "Blast furnace"
+      "subtxt": "Blast Furnace"
     },
     "skills": [
       {
@@ -19717,6 +19790,34 @@
   {
     "materials": [
       {
+        "name": "Rune pouch",
+        "quantity": "1"
+      },
+      {
+        "name": "Thread of elidinis",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Divine rune pouch.png|link=Divine rune pouch]]",
+      "name": "Divine rune pouch",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "?",
+        "level": "75",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
         "name": "Super attack(1)",
         "quantity": "1"
       },
@@ -22989,7 +23090,7 @@
     "tools": "Hammer, Beaten book"
   },
   {
-    "facilities": "Furnace",
+    "facilities": "Furnace (Elemental Workshop)",
     "materials": [
       {
         "name": "Elemental ore",
@@ -23004,12 +23105,46 @@
     "output": {
       "image": "[[File:Elemental metal.png|link=Elemental metal]]",
       "name": "Elemental metal",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Elemental furnace"
     },
     "skills": [
       {
         "boostable": "Yes",
         "experience": "8",
+        "level": "20",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "6"
+  },
+  {
+    "facilities": "Furnace (Elemental Workshop)",
+    "materials": [
+      {
+        "name": "Elemental ore",
+        "quantity": "1"
+      },
+      {
+        "name": "Coal",
+        "quantity": "2"
+      },
+      {
+        "name": "Smithing catalyst",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elemental metal.png|link=Elemental metal]]",
+      "name": "Elemental metal",
+      "quantity": "1",
+      "subtxt": "Catalyzed"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "16",
         "level": "20",
         "name": "Smithing"
       }
@@ -25818,6 +25953,106 @@
   {
     "materials": [
       {
+        "name": "Red firelighter",
+        "quantity": "1"
+      },
+      {
+        "name": "Gnomish firelighter",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Gnomish firelighter.png|link=Gnomish firelighter]]",
+      "name": "Gnomish firelighter",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Green firelighter",
+        "quantity": "1"
+      },
+      {
+        "name": "Gnomish firelighter",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Gnomish firelighter.png|link=Gnomish firelighter]]",
+      "name": "Gnomish firelighter",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blue firelighter",
+        "quantity": "1"
+      },
+      {
+        "name": "Gnomish firelighter",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Gnomish firelighter.png|link=Gnomish firelighter]]",
+      "name": "Gnomish firelighter",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Purple firelighter",
+        "quantity": "1"
+      },
+      {
+        "name": "Gnomish firelighter",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Gnomish firelighter.png|link=Gnomish firelighter]]",
+      "name": "Gnomish firelighter",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "White firelighter",
+        "quantity": "1"
+      },
+      {
+        "name": "Gnomish firelighter",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Gnomish firelighter.png|link=Gnomish firelighter]]",
+      "name": "Gnomish firelighter",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Desert goat horn",
         "quantity": "1"
       }
@@ -26135,31 +26370,6 @@
     "ticks": "4"
   },
   {
-    "facilities": "Blast furnace",
-    "materials": [
-      {
-        "name": "Gold ore",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Gold bar.png|link=Gold bar]]",
-      "name": "Gold bar",
-      "quantity": "1",
-      "subtxt": "Blast furnace"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "22.5",
-        "level": "40",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": ""
-  },
-  {
     "materials": [
       {
         "name": "Gold ore",
@@ -26196,6 +26406,31 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Blast Furnace",
+    "materials": [
+      {
+        "name": "Gold ore",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Gold bar.png|link=Gold bar]]",
+      "name": "Gold bar",
+      "quantity": "1",
+      "subtxt": "Blast Furnace"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "22.5",
+        "level": "40",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "11"
   },
   {
     "facilities": "Anvil",
@@ -31224,7 +31459,7 @@
     "ticks": "4"
   },
   {
-    "facilities": "Blast furnace",
+    "facilities": "Blast Furnace",
     "materials": [
       {
         "name": "Iron ore",
@@ -31236,7 +31471,7 @@
       "image": "[[File:Iron bar.png|link=Iron bar]]",
       "name": "Iron bar",
       "quantity": "1",
-      "subtxt": "Blast furnace"
+      "subtxt": "Blast Furnace"
     },
     "skills": [
       {
@@ -31246,7 +31481,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": ""
+    "ticks": "11"
   },
   {
     "materials": [
@@ -32979,6 +33214,66 @@
     "skills": [],
     "ticks": "0",
     "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Keris partisan",
+        "quantity": "1"
+      },
+      {
+        "name": "Breach of the scarab",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Keris partisan of breaching.png|link=Keris partisan of breaching]]",
+      "name": "Keris partisan of breaching",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Keris partisan",
+        "quantity": "1"
+      },
+      {
+        "name": "Eye of the corruptor",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Keris partisan of corruption.png|link=Keris partisan of corruption]]",
+      "name": "Keris partisan of corruption",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Keris partisan",
+        "quantity": "1"
+      },
+      {
+        "name": "Jewel of the sun",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Keris partisan of the sun.png|link=Keris partisan of the sun]]",
+      "name": "Keris partisan of the sun",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Lady Keli",
@@ -34822,7 +35117,8 @@
     "output": {
       "image": "[[File:Lovakite bar.png|link=Lovakite bar]]",
       "name": "Lovakite bar",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Lovakite furnace"
     },
     "skills": [
       {
@@ -34857,7 +35153,8 @@
     "output": {
       "image": "[[File:Lovakite bar.png|link=Lovakite bar]]",
       "name": "Lovakite bar",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Superheat"
     },
     "skills": [
       {
@@ -34874,6 +35171,39 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Lovakite furnace",
+    "materials": [
+      {
+        "name": "Lovakite ore",
+        "quantity": "1"
+      },
+      {
+        "name": "Coal",
+        "quantity": "1"
+      },
+      {
+        "name": "Smithing catalyst",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lovakite bar.png|link=Lovakite bar]]",
+      "name": "Lovakite bar",
+      "quantity": "1",
+      "subtxt": "Catalyzed"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "40",
+        "level": "45",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "facilities": "Eagle lectern",
@@ -34924,7 +35254,8 @@
     "output": {
       "image": "[[File:Lunar bar.png|link=Lunar bar]]",
       "name": "Lunar bar",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Normal furnace"
     },
     "skills": [
       {
@@ -34937,7 +35268,6 @@
     "ticks": "6"
   },
   {
-    "facilities": "Furnace",
     "materials": [
       {
         "name": "Lunar ore",
@@ -34956,7 +35286,8 @@
     "output": {
       "image": "[[File:Lunar bar.png|link=Lunar bar]]",
       "name": "Lunar bar",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Superheat"
     },
     "skills": [
       {
@@ -34972,7 +35303,7 @@
         "name": "Magic"
       }
     ],
-    "ticks": "6"
+    "ticks": "3"
   },
   {
     "materials": [
@@ -37758,7 +38089,7 @@
     "ticks": "4"
   },
   {
-    "facilities": "Blast furnace",
+    "facilities": "Blast Furnace",
     "materials": [
       {
         "name": "Mithril ore",
@@ -37774,7 +38105,7 @@
       "image": "[[File:Mithril bar.png|link=Mithril bar]]",
       "name": "Mithril bar",
       "quantity": "1",
-      "subtxt": "Blast furnace"
+      "subtxt": "Blast Furnace"
     },
     "skills": [
       {
@@ -37784,7 +38115,40 @@
         "name": "Smithing"
       }
     ],
-    "ticks": ""
+    "ticks": "11"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Mithril ore",
+        "quantity": "1"
+      },
+      {
+        "name": "Coal",
+        "quantity": "2"
+      },
+      {
+        "name": "Smithing catalyst",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril bar.png|link=Mithril bar]]",
+      "name": "Mithril bar",
+      "quantity": "1",
+      "subtxt": "Catalyzed"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "60",
+        "level": "50",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "materials": [
@@ -39300,7 +39664,7 @@
       "name": "Molten glass",
       "quantity": "28.8",
       "quantitynote": "On average",
-      "subtxt": "Superglass make - giant seaweed"
+      "subtxt": "Superglass Make - giant seaweed"
     },
     "skills": [
       {
@@ -39347,7 +39711,7 @@
       "name": "Molten glass",
       "quantity": "16.9",
       "quantitynote": "On average",
-      "subtxt": "Superglass make - seaweed"
+      "subtxt": "Superglass Make - seaweed"
     },
     "skills": [
       {
@@ -39394,7 +39758,7 @@
       "name": "Molten glass",
       "quantity": "16.9",
       "quantitynote": "On average",
-      "subtxt": "Superglass make - soda ash"
+      "subtxt": "Superglass Make - soda ash"
     },
     "skills": [
       {
@@ -39441,7 +39805,7 @@
       "name": "Molten glass",
       "quantity": "16.9",
       "quantitynote": "On average",
-      "subtxt": "Superglass make - swamp weed"
+      "subtxt": "Superglass Make - swamp weed"
     },
     "skills": [
       {
@@ -51627,7 +51991,7 @@
     "tools": "Hammer, Chisel"
   },
   {
-    "facilities": "Anvil",
+    "facilities": "Barbarian anvil",
     "materials": [
       {
         "name": "Runite bar",
@@ -51780,7 +52144,7 @@
     "ticks": "4"
   },
   {
-    "facilities": "Blast furnace",
+    "facilities": "Blast Furnace",
     "materials": [
       {
         "name": "Runite ore",
@@ -51796,7 +52160,7 @@
       "image": "[[File:Runite bar.png|link=Runite bar]]",
       "name": "Runite bar",
       "quantity": "1",
-      "subtxt": "Blast furnace"
+      "subtxt": "Blast Furnace"
     },
     "skills": [
       {
@@ -51806,7 +52170,40 @@
         "name": "Smithing"
       }
     ],
-    "ticks": ""
+    "ticks": "11"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Runite ore",
+        "quantity": "1"
+      },
+      {
+        "name": "Coal",
+        "quantity": "4"
+      },
+      {
+        "name": "Smithing catalyst",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Runite bar.png|link=Runite bar]]",
+      "name": "Runite bar",
+      "quantity": "1",
+      "subtxt": "Catalyzed"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "85",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "materials": [
@@ -52074,6 +52471,33 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Salve shard",
+        "quantity": "1"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet.png|link=Salve amulet]]",
+      "name": "Salve amulet",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Unknown",
+        "experience": "0",
+        "level": "35",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -54835,6 +55259,69 @@
     "ticks": "0"
   },
   {
+    "facilities": "Blast Furnace",
+    "materials": [
+      {
+        "name": "Silver ore",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Silver bar.png|link=Silver bar]]",
+      "name": "Silver bar",
+      "quantity": "1",
+      "subtxt": "Blast Furnace"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "13.7",
+        "level": "20",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "11"
+  },
+  {
+    "materials": [
+      {
+        "name": "Silver ore",
+        "quantity": "1"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "4"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Silver bar.png|link=Silver bar]]",
+      "name": "Silver bar",
+      "quantity": "1",
+      "subtxt": "Superheat"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "13.7",
+        "level": "20",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "53",
+        "level": "43",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
     "facilities": "Furnace",
     "materials": [
       {
@@ -54846,7 +55333,8 @@
     "output": {
       "image": "[[File:Silver bar.png|link=Silver bar]]",
       "name": "Silver bar",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Regular furnace"
     },
     "skills": [
       {
@@ -58610,7 +59098,7 @@
     "ticks": "4"
   },
   {
-    "facilities": "Blast furnace",
+    "facilities": "Blast Furnace",
     "materials": [
       {
         "name": "Iron ore",
@@ -58626,7 +59114,7 @@
       "image": "[[File:Steel bar.png|link=Steel bar]]",
       "name": "Steel bar",
       "quantity": "1",
-      "subtxt": "Blast furnace"
+      "subtxt": "Blast Furnace"
     },
     "skills": [
       {
@@ -58636,7 +59124,40 @@
         "name": "Smithing"
       }
     ],
-    "ticks": ""
+    "ticks": "11"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Iron ore",
+        "quantity": "1"
+      },
+      {
+        "name": "Coal",
+        "quantity": "1"
+      },
+      {
+        "name": "Smithing catalyst",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel bar.png|link=Steel bar]]",
+      "name": "Steel bar",
+      "quantity": "1",
+      "subtxt": "Catalyzed"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "35",
+        "level": "30",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "materials": [
@@ -63927,9 +64448,9 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "40",
-        "level": "58",
+        "level": "1",
         "name": "Cooking"
       }
     ],

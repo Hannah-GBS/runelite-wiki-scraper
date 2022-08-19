@@ -76863,7 +76863,7 @@
     "examineText": "Fill it with firelighters to make pretty fire.",
     "group": "Gnomish firelighter",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 20278,
     "name": "Gnomish firelighter",
     "url": "https://oldschool.runescape.wiki/w/Gnomish_firelighter",
@@ -96251,12 +96251,12 @@
   },
   {
     "examineText": "A fang, dripping with venom.",
-    "group": "Fang",
+    "group": "Fang (The Fremennik Exiles)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 24254,
     "name": "Fang",
-    "url": "https://oldschool.runescape.wiki/w/Fang",
+    "url": "https://oldschool.runescape.wiki/w/Fang_(The_Fremennik_Exiles)",
     "version": ""
   },
   {
@@ -104390,53 +104390,13 @@
     "version": ""
   },
   {
-    "examineText": "An ancient chestplate once worn by a powerful ranger.",
-    "group": "Masori chestplate",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 25969,
-    "name": "Masori chestplate",
-    "url": "https://oldschool.runescape.wiki/w/Masori_chestplate",
-    "version": ""
-  },
-  {
-    "examineText": "An ancient chainskirt once worn by a powerful ranger.",
-    "group": "Masori chainskirt",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 25971,
-    "name": "Masori chainskirt",
-    "url": "https://oldschool.runescape.wiki/w/Masori_chainskirt",
-    "version": ""
-  },
-  {
-    "examineText": "An ancient amulet once worn by a powerful ranger.",
-    "group": "Masori amulet",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25973,
-    "name": "Masori amulet",
-    "url": "https://oldschool.runescape.wiki/w/Masori_amulet",
-    "version": ""
-  },
-  {
-    "examineText": "A heavy ring that glimmers with a strange power.",
+    "examineText": "",
     "group": "Lightbearer",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 25975,
     "name": "Lightbearer",
     "url": "https://oldschool.runescape.wiki/w/Lightbearer",
-    "version": ""
-  },
-  {
-    "examineText": "",
-    "group": "Osmumten's fang",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 25977,
-    "name": "Osmumten's fang",
-    "url": "https://oldschool.runescape.wiki/w/Osmumten%27s_fang",
     "version": ""
   },
   {
@@ -104450,7 +104410,7 @@
     "version": ""
   },
   {
-    "examineText": "A mystical-feeling polearm imbued with an ancient power.",
+    "examineText": "",
     "group": "Keris partisan of breaching",
     "isMembers": true,
     "isTradeable": false,
@@ -104460,44 +104420,14 @@
     "version": ""
   },
   {
-    "examineText": "A broken ward once used by Elidinis herself.",
-    "group": "Elidinis' broken ward",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 25983,
-    "name": "Elidinis' broken ward",
-    "url": "https://oldschool.runescape.wiki/w/Elidinis%27_broken_ward",
-    "version": ""
-  },
-  {
-    "examineText": "A ward once used by Elidinis herself.",
+    "examineText": "",
     "group": "Elidinis' ward",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 25985,
     "name": "Elidinis' ward",
     "url": "https://oldschool.runescape.wiki/w/Elidinis%27_ward",
     "version": ""
-  },
-  {
-    "examineText": "A wand once used by Tumeken himself.",
-    "group": "Tumeken's heka",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25987,
-    "name": "Tumeken's heka",
-    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_heka",
-    "version": "Charged"
-  },
-  {
-    "examineText": "A wand once used by Tumeken himself. It is currently uncharged.",
-    "group": "Tumeken's heka",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25989,
-    "name": "Tumeken's heka (uncharged)",
-    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_heka",
-    "version": "Uncharged"
   },
   {
     "examineText": "A sigil attuned to you with great power.",
@@ -105760,13 +105690,13 @@
     "version": ""
   },
   {
-    "examineText": "An ancient chainskirt once worn by a powerful ranger.",
-    "group": "Masori headdress",
+    "examineText": "",
+    "group": "Osmumten's fang",
     "isMembers": true,
     "isTradeable": true,
-    "itemID": 26217,
-    "name": "Masori headdress",
-    "url": "https://oldschool.runescape.wiki/w/Masori_headdress",
+    "itemID": 26219,
+    "name": "Osmumten's fang",
+    "url": "https://oldschool.runescape.wiki/w/Osmumten%27s_fang",
     "version": ""
   },
   {
@@ -110338,5 +110268,235 @@
     "name": "Flower crown",
     "url": "https://oldschool.runescape.wiki/w/Flower_crown",
     "version": "Gay"
+  },
+  {
+    "examineText": "",
+    "group": "Menaphite remedy",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27202,
+    "name": "Menaphite remedy(4)",
+    "url": "https://oldschool.runescape.wiki/w/Menaphite_remedy",
+    "version": "4 dose"
+  },
+  {
+    "examineText": "",
+    "group": "Menaphite remedy",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27205,
+    "name": "Menaphite remedy(3)",
+    "url": "https://oldschool.runescape.wiki/w/Menaphite_remedy",
+    "version": "3 dose"
+  },
+  {
+    "examineText": "",
+    "group": "Menaphite remedy",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27208,
+    "name": "Menaphite remedy(2)",
+    "url": "https://oldschool.runescape.wiki/w/Menaphite_remedy",
+    "version": "2 dose"
+  },
+  {
+    "examineText": "",
+    "group": "Menaphite remedy",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27211,
+    "name": "Menaphite remedy(1)",
+    "url": "https://oldschool.runescape.wiki/w/Menaphite_remedy",
+    "version": "1 dose"
+  },
+  {
+    "examineText": "",
+    "group": "Masori mask",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27226,
+    "name": "Masori mask",
+    "url": "https://oldschool.runescape.wiki/w/Masori_mask",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Masori body",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27229,
+    "name": "Masori body",
+    "url": "https://oldschool.runescape.wiki/w/Masori_body",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Masori chaps",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27232,
+    "name": "Masori chaps",
+    "url": "https://oldschool.runescape.wiki/w/Masori_chaps",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Masori mask (f)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27235,
+    "name": "Masori mask (f)",
+    "url": "https://oldschool.runescape.wiki/w/Masori_mask_(f)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Masori body (f)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27238,
+    "name": "Masori body (f)",
+    "url": "https://oldschool.runescape.wiki/w/Masori_body_(f)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Masori chaps (f)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27241,
+    "name": "Masori chaps (f)",
+    "url": "https://oldschool.runescape.wiki/w/Masori_chaps_(f)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Elidinis' ward (f)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27251,
+    "name": "Elidinis' ward (f)",
+    "url": "https://oldschool.runescape.wiki/w/Elidinis%27_ward_(f)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Armadylean plate",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27269,
+    "name": "Armadylean plate",
+    "url": "https://oldschool.runescape.wiki/w/Armadylean_plate",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Lily of the sands",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27272,
+    "name": "Lily of the sands",
+    "url": "https://oldschool.runescape.wiki/w/Lily_of_the_sands",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Tumeken's shadow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27275,
+    "name": "Tumeken's shadow",
+    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_shadow",
+    "version": "Charged"
+  },
+  {
+    "examineText": "",
+    "group": "Tumeken's shadow",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27277,
+    "name": "Tumeken's shadow (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_shadow",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "",
+    "group": "Thread of elidinis",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27279,
+    "name": "Thread of elidinis",
+    "url": "https://oldschool.runescape.wiki/w/Thread_of_elidinis",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Divine rune pouch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27281,
+    "name": "Divine rune pouch",
+    "url": "https://oldschool.runescape.wiki/w/Divine_rune_pouch",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Breach of the scarab",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27283,
+    "name": "Breach of the scarab",
+    "url": "https://oldschool.runescape.wiki/w/Breach_of_the_scarab",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Eye of the corruptor",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27285,
+    "name": "Eye of the corruptor",
+    "url": "https://oldschool.runescape.wiki/w/Eye_of_the_corruptor",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Keris partisan of corruption",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27287,
+    "name": "Keris partisan of corruption",
+    "url": "https://oldschool.runescape.wiki/w/Keris_partisan_of_corruption",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Jewel of the sun",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27289,
+    "name": "Jewel of the sun",
+    "url": "https://oldschool.runescape.wiki/w/Jewel_of_the_sun",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Keris partisan of the sun",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27291,
+    "name": "Keris partisan of the sun",
+    "url": "https://oldschool.runescape.wiki/w/Keris_partisan_of_the_sun",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "The jackal's torch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27312,
+    "name": "The jackal's torch",
+    "url": "https://oldschool.runescape.wiki/w/The_jackal%27s_torch",
+    "version": ""
   }
 ]
