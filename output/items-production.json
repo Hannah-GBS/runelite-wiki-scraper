@@ -4577,46 +4577,6 @@
   {
     "materials": [
       {
-        "name": "Armadyl chainskirt",
-        "quantity": "1"
-      },
-      {
-        "name": "Armadyl armour ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Armadyl chainskirt (or).png|link=Armadyl chainskirt (or)]]",
-      "name": "Armadyl chainskirt (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Armadyl chestplate",
-        "quantity": "1"
-      },
-      {
-        "name": "Armadyl armour ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Armadyl chestplate (or).png|link=Armadyl chestplate (or)]]",
-      "name": "Armadyl chestplate (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
         "name": "Godsword blade",
         "quantity": "1"
       },
@@ -4659,20 +4619,69 @@
       {
         "name": "Armadyl helmet",
         "quantity": "1"
-      },
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Armadylean plate.png|link=Armadylean plate]]",
+      "name": "Armadylean plate",
+      "quantity": "1"
+    },
+    "skills": [
       {
-        "name": "Armadyl armour ornament kit",
+        "boostable": "No",
+        "experience": "?",
+        "level": "90",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Armadyl chestplate",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Armadyl helmet (or).png|link=Armadyl helmet (or)]]",
-      "name": "Armadyl helmet (or)",
-      "quantity": "1"
+      "image": "[[File:Armadylean plate.png|link=Armadylean plate]]",
+      "name": "Armadylean plate",
+      "quantity": "4"
     },
-    "skills": [],
-    "ticks": "0"
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "?",
+        "level": "90",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Armadyl chainskirt",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Armadylean plate.png|link=Armadylean plate]]",
+      "name": "Armadylean plate",
+      "quantity": "3"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "?",
+        "level": "90",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
   },
   {
     "materials": [
@@ -5168,6 +5177,108 @@
     ],
     "ticks": "1",
     "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Coins",
+        "quantity": "999"
+      },
+      {
+        "name": "Steel arrow",
+        "quantity": "75"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ava's accumulator.png|link=Ava's accumulator]]",
+      "name": "Ava's accumulator",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "N/A",
+        "level": "50",
+        "name": "Ranged"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Ava's attractor",
+        "quantity": "1"
+      },
+      {
+        "name": "Steel arrow",
+        "quantity": "75"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ava's accumulator.png|link=Ava's accumulator]]",
+      "name": "Ava's accumulator",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "N/A",
+        "level": "50",
+        "name": "Ranged"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Coins",
+        "quantity": "4999"
+      },
+      {
+        "name": "Vorkath's head",
+        "quantity": "1"
+      },
+      {
+        "name": "Mithril arrow",
+        "quantity": "75"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ava's assembler.png|link=Ava's assembler]]",
+      "name": "Ava's assembler",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Ava's accumulator",
+        "quantity": "1"
+      },
+      {
+        "name": "Vorkath's head",
+        "quantity": "1"
+      },
+      {
+        "name": "Mithril arrow",
+        "quantity": "75"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ava's assembler.png|link=Ava's assembler]]",
+      "name": "Ava's assembler",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -7773,7 +7884,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">167,871,690</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">168,719,339</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10092,7 +10203,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">169,082,974</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">172,764,734</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19807,7 +19918,7 @@
     "skills": [
       {
         "boostable": "No",
-        "experience": "?",
+        "experience": "0",
         "level": "75",
         "name": "Crafting"
       }
@@ -23207,6 +23318,62 @@
   {
     "materials": [
       {
+        "name": "Elidinis' ward",
+        "quantity": "1"
+      },
+      {
+        "name": "Arcane sigil",
+        "quantity": "1"
+      },
+      {
+        "name": "Soul rune",
+        "quantity": "10000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elidinis' ward (f).png|link=Elidinis' ward (f)]]",
+      "name": "Elidinis' ward (f)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "260",
+        "level": "90",
+        "name": "Prayer"
+      },
+      {
+        "boostable": "",
+        "experience": "260",
+        "level": "90",
+        "name": "Smithing"
+      }
+    ]
+  },
+  {
+    "materials": [
+      {
+        "name": "Elidinis' ward (f)",
+        "quantity": "1"
+      },
+      {
+        "name": "Menaphite ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elidinis' ward (or).png|link=Elidinis' ward (or)]]",
+      "name": "Elidinis' ward (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Elite void robe",
         "quantity": "1"
       },
@@ -26370,6 +26537,31 @@
     "ticks": "4"
   },
   {
+    "facilities": "Blast Furnace",
+    "materials": [
+      {
+        "name": "Gold ore",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Gold bar.png|link=Gold bar]]",
+      "name": "Gold bar",
+      "quantity": "1",
+      "subtxt": "Blast Furnace"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "22.5",
+        "level": "40",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "11"
+  },
+  {
     "materials": [
       {
         "name": "Gold ore",
@@ -26406,31 +26598,6 @@
       }
     ],
     "ticks": "3"
-  },
-  {
-    "facilities": "Blast Furnace",
-    "materials": [
-      {
-        "name": "Gold ore",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Gold bar.png|link=Gold bar]]",
-      "name": "Gold bar",
-      "quantity": "1",
-      "subtxt": "Blast Furnace"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "22.5",
-        "level": "40",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "11"
   },
   {
     "facilities": "Anvil",
@@ -37039,6 +37206,90 @@
     "tools": "Pestle and mortar"
   },
   {
+    "facilities": "",
+    "materials": [
+      {
+        "name": "Masori body",
+        "quantity": "1"
+      },
+      {
+        "name": "Armadylean plate",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Masori body (f).png|link=Masori body (f)]]",
+      "name": "Masori body (f)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "?",
+        "level": "90",
+        "name": "Crafting"
+      }
+    ],
+    "tools": ""
+  },
+  {
+    "facilities": "",
+    "materials": [
+      {
+        "name": "Masori chaps",
+        "quantity": "1"
+      },
+      {
+        "name": "Armadylean plate",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Masori chaps (f).png|link=Masori chaps (f)]]",
+      "name": "Masori chaps (f)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "?",
+        "level": "90",
+        "name": "Crafting"
+      }
+    ],
+    "tools": ""
+  },
+  {
+    "facilities": "",
+    "materials": [
+      {
+        "name": "Masori mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Armadylean plate",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Masori mask (f).png|link=Masori mask (f)]]",
+      "name": "Masori mask (f)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "?",
+        "level": "90",
+        "name": "Crafting"
+      }
+    ],
+    "tools": ""
+  },
+  {
     "facilities": "Brewery",
     "materials": [
       {
@@ -37286,6 +37537,33 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Dwarf weed potion (unf)",
+        "quantity": "1"
+      },
+      {
+        "name": "Lily of the sands",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Menaphite remedy(3).png|link=Menaphite remedy(3)]]",
+      "name": "Menaphite remedy(3)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "200",
+        "level": "88",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -43774,6 +44052,26 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Osmumten's fang",
+        "quantity": "1"
+      },
+      {
+        "name": "Cursed phalanx",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Osmumten's fang (or).png|link=Osmumten's fang (or)]]",
+      "name": "Osmumten's fang (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Lectern (Lunar)|Lunar lectern",
@@ -55259,6 +55557,31 @@
     "ticks": "0"
   },
   {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Silver ore",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Silver bar.png|link=Silver bar]]",
+      "name": "Silver bar",
+      "quantity": "1",
+      "subtxt": "Regular furnace"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "13.7",
+        "level": "20",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
     "facilities": "Blast Furnace",
     "materials": [
       {
@@ -55320,31 +55643,6 @@
       }
     ],
     "ticks": "3"
-  },
-  {
-    "facilities": "Furnace",
-    "materials": [
-      {
-        "name": "Silver ore",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Silver bar.png|link=Silver bar]]",
-      "name": "Silver bar",
-      "quantity": "1",
-      "subtxt": "Regular furnace"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "13.7",
-        "level": "20",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "4"
   },
   {
     "materials": [
@@ -67053,37 +67351,6 @@
         "boostable": "Yes",
         "experience": "137.5",
         "level": "60",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "materials": [
-      {
-        "name": "Coconut milk",
-        "quantity": "1"
-      },
-      {
-        "name": "Cactus spine",
-        "quantity": "1"
-      },
-      {
-        "name": "Red spiders' eggs",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Weapon poison(+).png|link=Weapon poison(+)]]",
-      "name": "Weapon poison(+)",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "165",
-        "level": "73",
         "name": "Herblore"
       }
     ],
