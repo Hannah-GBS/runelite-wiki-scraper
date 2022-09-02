@@ -92990,7 +92990,7 @@
     "version": ""
   },
   {
-    "examineText": "Unlimited charges of Blood and Ice Barrage.",
+    "examineText": "Unlimited charges of some handy spells from your chosen spellbook.",
     "group": "Rune pouch (Last Man Standing)",
     "isMembers": false,
     "isTradeable": false,
@@ -104390,7 +104390,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A heavy ring that glimmers with a strange power.",
     "group": "Lightbearer",
     "isMembers": true,
     "isTradeable": true,
@@ -104410,7 +104410,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A mystical-feeling polearm imbued with great power.",
     "group": "Keris partisan of breaching",
     "isMembers": true,
     "isTradeable": false,
@@ -104420,7 +104420,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A ward once used by Elidinis herself.",
     "group": "Elidinis' ward",
     "isMembers": true,
     "isTradeable": true,
@@ -105690,7 +105690,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A deadly sword created long ago.",
     "group": "Osmumten's fang",
     "isMembers": true,
     "isTradeable": true,
@@ -110050,7 +110050,7 @@
     "version": "V"
   },
   {
-    "examineText": "Supplies the runes for casting any spell.",
+    "examineText": "Supplies a selection of runes for spellcasting.",
     "group": "Rune pouch (Emir's Arena)",
     "isMembers": false,
     "isTradeable": false,
@@ -110270,7 +110270,7 @@
     "version": "Gay"
   },
   {
-    "examineText": "",
+    "examineText": "4 doses of Menaphite remedy.",
     "group": "Menaphite remedy",
     "isMembers": true,
     "isTradeable": true,
@@ -110280,7 +110280,7 @@
     "version": "4 dose"
   },
   {
-    "examineText": "",
+    "examineText": "3 doses of Menaphite remedy.",
     "group": "Menaphite remedy",
     "isMembers": true,
     "isTradeable": true,
@@ -110290,7 +110290,7 @@
     "version": "3 dose"
   },
   {
-    "examineText": "",
+    "examineText": "2 doses of Menaphite remedy.",
     "group": "Menaphite remedy",
     "isMembers": true,
     "isTradeable": true,
@@ -110300,7 +110300,7 @@
     "version": "2 dose"
   },
   {
-    "examineText": "",
+    "examineText": "1 dose of Menaphite remedy.",
     "group": "Menaphite remedy",
     "isMembers": true,
     "isTradeable": true,
@@ -110310,7 +110310,67 @@
     "version": "1 dose"
   },
   {
-    "examineText": "",
+    "examineText": "Eww, it stinks! Why would I want this?",
+    "group": "Scarab dung",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27214,
+    "name": "Scarab dung",
+    "url": "https://oldschool.runescape.wiki/w/Scarab_dung",
+    "version": ""
+  },
+  {
+    "examineText": "Fallen out during battle.",
+    "group": "Fang (Tombs of Amascut)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27216,
+    "name": "Fang",
+    "url": "https://oldschool.runescape.wiki/w/Fang_(Tombs_of_Amascut)",
+    "version": ""
+  },
+  {
+    "examineText": "Perhaps this was more valuable in another age?",
+    "group": "Fossilised dung",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27216,
+    "name": "Fossilised dung",
+    "url": "https://oldschool.runescape.wiki/w/Fossilised_dung",
+    "version": ""
+  },
+  {
+    "examineText": "Too big to eat.",
+    "group": "Big banana",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27221,
+    "name": "Big banana",
+    "url": "https://oldschool.runescape.wiki/w/Big_banana",
+    "version": ""
+  },
+  {
+    "examineText": "A heap of strange ashes.",
+    "group": "Eldritch ashes",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27223,
+    "name": "Eldritch ashes",
+    "url": "https://oldschool.runescape.wiki/w/Eldritch_ashes",
+    "version": ""
+  },
+  {
+    "examineText": "That's right! Grain!",
+    "group": "Grain (Tombs of Amascut)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27225,
+    "name": "Grain",
+    "url": "https://oldschool.runescape.wiki/w/Grain_(Tombs_of_Amascut)",
+    "version": ""
+  },
+  {
+    "examineText": "An ancient mask once worn by a powerful ranger.",
     "group": "Masori mask",
     "isMembers": true,
     "isTradeable": true,
@@ -110320,7 +110380,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Ancient armour once worn by a powerful ranger.",
     "group": "Masori body",
     "isMembers": true,
     "isTradeable": true,
@@ -110330,7 +110390,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Ancient armour once worn by a powerful ranger.",
     "group": "Masori chaps",
     "isMembers": true,
     "isTradeable": true,
@@ -110340,7 +110400,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A fortified mask once worn by a powerful ranger.",
     "group": "Masori mask (f)",
     "isMembers": true,
     "isTradeable": true,
@@ -110350,7 +110410,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Fortified armour once worn by a powerful ranger.",
     "group": "Masori body (f)",
     "isMembers": true,
     "isTradeable": true,
@@ -110360,7 +110420,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Fortified armour once worn by a powerful ranger.",
     "group": "Masori chaps (f)",
     "isMembers": true,
     "isTradeable": true,
@@ -110370,7 +110430,27 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A deadly sword created long ago.",
+    "group": "Osmumten's fang (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27246,
+    "name": "Osmumten's fang (or)",
+    "url": "https://oldschool.runescape.wiki/w/Osmumten%27s_fang_(or)",
+    "version": ""
+  },
+  {
+    "examineText": "Cursed with a strange magical power. Looks like it could be attached to something.",
+    "group": "Cursed phalanx",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27248,
+    "name": "Cursed phalanx",
+    "url": "https://oldschool.runescape.wiki/w/Cursed_phalanx",
+    "version": ""
+  },
+  {
+    "examineText": "A fortified ward once used by Elidinis herself.",
     "group": "Elidinis' ward (f)",
     "isMembers": true,
     "isTradeable": false,
@@ -110380,7 +110460,87 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A fortified ward once used by Elidinis herself.",
+    "group": "Elidinis' ward (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27253,
+    "name": "Elidinis' ward (or)",
+    "url": "https://oldschool.runescape.wiki/w/Elidinis%27_ward_(or)",
+    "version": ""
+  },
+  {
+    "examineText": "Use on Elidinis' ward to change its look.",
+    "group": "Menaphite ornament kit",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27255,
+    "name": "Menaphite ornament kit",
+    "url": "https://oldschool.runescape.wiki/w/Menaphite_ornament_kit",
+    "version": ""
+  },
+  {
+    "examineText": "A cloak made to honour the dead.",
+    "group": "Icthlarin's shroud (tier 1)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27257,
+    "name": "Icthlarin's shroud (tier 1)",
+    "url": "https://oldschool.runescape.wiki/w/Icthlarin%27s_shroud_(tier_1)",
+    "version": ""
+  },
+  {
+    "examineText": "A cloak made to honour the dead.",
+    "group": "Icthlarin's shroud (tier 2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27259,
+    "name": "Icthlarin's shroud (tier 2)",
+    "url": "https://oldschool.runescape.wiki/w/Icthlarin%27s_shroud_(tier_2)",
+    "version": ""
+  },
+  {
+    "examineText": "A cloak made to honour the dead.",
+    "group": "Icthlarin's shroud (tier 3)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27261,
+    "name": "Icthlarin's shroud (tier 3)",
+    "url": "https://oldschool.runescape.wiki/w/Icthlarin%27s_shroud_(tier_3)",
+    "version": ""
+  },
+  {
+    "examineText": "A cloak made to honour the dead.",
+    "group": "Icthlarin's shroud (tier 4)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27263,
+    "name": "Icthlarin's shroud (tier 4)",
+    "url": "https://oldschool.runescape.wiki/w/Icthlarin%27s_shroud_(tier_4)",
+    "version": ""
+  },
+  {
+    "examineText": "A cloak made to honour the dead.",
+    "group": "Icthlarin's shroud (tier 5)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27265,
+    "name": "Icthlarin's shroud (tier 5)",
+    "url": "https://oldschool.runescape.wiki/w/Icthlarin%27s_shroud_(tier_5)",
+    "version": ""
+  },
+  {
+    "examineText": "A hood made to honour the dead.",
+    "group": "Icthlarin's hood (tier 5)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27267,
+    "name": "Icthlarin's hood (tier 5)",
+    "url": "https://oldschool.runescape.wiki/w/Icthlarin%27s_hood_(tier_5)",
+    "version": ""
+  },
+  {
+    "examineText": "High grade material.",
     "group": "Armadylean plate",
     "isMembers": true,
     "isTradeable": true,
@@ -110390,7 +110550,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A beautiful lily.",
     "group": "Lily of the sands",
     "isMembers": true,
     "isTradeable": true,
@@ -110400,7 +110560,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "An ancient staff created using a higher power.",
     "group": "Tumeken's shadow",
     "isMembers": true,
     "isTradeable": false,
@@ -110410,7 +110570,7 @@
     "version": "Charged"
   },
   {
-    "examineText": "",
+    "examineText": "An ancient staff created using a higher power.",
     "group": "Tumeken's shadow",
     "isMembers": true,
     "isTradeable": true,
@@ -110420,7 +110580,7 @@
     "version": "Uncharged"
   },
   {
-    "examineText": "",
+    "examineText": "A spool of thread that gives off a divine energy.",
     "group": "Thread of elidinis",
     "isMembers": true,
     "isTradeable": false,
@@ -110430,7 +110590,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A vessel used to store runes that's been imbued with the powers of Elidinis.",
     "group": "Divine rune pouch",
     "isMembers": true,
     "isTradeable": false,
@@ -110440,7 +110600,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A jewel with a scarab etched upon it that radiates with power.",
     "group": "Breach of the scarab",
     "isMembers": true,
     "isTradeable": false,
@@ -110450,7 +110610,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A jewel with a symbol of destruction etched upon it that radiates with power.",
     "group": "Eye of the corruptor",
     "isMembers": true,
     "isTradeable": false,
@@ -110460,7 +110620,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A mystical-feeling polearm imbued with destructive power.",
     "group": "Keris partisan of corruption",
     "isMembers": true,
     "isTradeable": false,
@@ -110470,9 +110630,9 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A jewel with a symbol of the sun etched upon it that radiates with power.",
     "group": "Jewel of the sun",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 27289,
     "name": "Jewel of the sun",
@@ -110480,7 +110640,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A mystical-feeling polearm imbued with radiating power.",
     "group": "Keris partisan of the sun",
     "isMembers": true,
     "isTradeable": false,
@@ -110490,13 +110650,343 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "An intricate casket engraved with images of blood, soul and death runes.",
+    "group": "Cache of runes",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27293,
+    "name": "Cache of runes",
+    "url": "https://oldschool.runescape.wiki/w/Cache_of_runes",
+    "version": ""
+  },
+  {
+    "examineText": "It's a little leaky!",
+    "group": "Water container (Tombs of Amascut)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27295,
+    "name": "Water container",
+    "url": "https://oldschool.runescape.wiki/w/Water_container_(Tombs_of_Amascut)",
+    "version": ""
+  },
+  {
+    "examineText": "I can just about see something in the reflection.",
+    "group": "Mirror (Tombs of Amascut)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27296,
+    "name": "Mirror",
+    "url": "https://oldschool.runescape.wiki/w/Mirror_(Tombs_of_Amascut)",
+    "version": ""
+  },
+  {
+    "examineText": "For neutralising toxic fumes and corruption.",
+    "group": "Neutralising potion",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27297,
+    "name": "Neutralising potion",
+    "url": "https://oldschool.runescape.wiki/w/Neutralising_potion",
+    "version": ""
+  },
+  {
+    "examineText": "A message from Maisa.",
+    "group": "Maisa's message",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27298,
+    "name": "Maisa's message",
+    "url": "https://oldschool.runescape.wiki/w/Maisa%27s_message",
+    "version": ""
+  },
+  {
+    "examineText": "Good for rubbing.",
+    "group": "Antique lamp (Into the Tombs)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27299,
+    "name": "Antique lamp",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_(Into_the_Tombs)",
+    "version": ""
+  },
+  {
+    "examineText": "A journal found at the entrance to Osmumten's Tomb.",
+    "group": "Akila's journal",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27300,
+    "name": "Akila's journal",
+    "url": "https://oldschool.runescape.wiki/w/Akila%27s_journal",
+    "version": ""
+  },
+  {
+    "examineText": "A book about Amascut's capture of Het.",
+    "group": "Het's capture",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27302,
+    "name": "Het's capture",
+    "url": "https://oldschool.runescape.wiki/w/Het%27s_capture",
+    "version": ""
+  },
+  {
+    "examineText": "A book about Amascut's capture of Apmeken.",
+    "group": "Apmeken's capture",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27304,
+    "name": "Apmeken's capture",
+    "url": "https://oldschool.runescape.wiki/w/Apmeken%27s_capture",
+    "version": ""
+  },
+  {
+    "examineText": "A book about Amascut's capture of Scabaras.",
+    "group": "Scabaras' capture",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27306,
+    "name": "Scabaras' capture",
+    "url": "https://oldschool.runescape.wiki/w/Scabaras%27_capture",
+    "version": ""
+  },
+  {
+    "examineText": "A book about Amascut's capture of Crondis.",
+    "group": "Crondis' capture",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27308,
+    "name": "Crondis' capture",
+    "url": "https://oldschool.runescape.wiki/w/Crondis%27_capture",
+    "version": ""
+  },
+  {
+    "examineText": "A book about the Wardens.",
+    "group": "The wardens",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27310,
+    "name": "The wardens",
+    "url": "https://oldschool.runescape.wiki/w/The_wardens",
+    "version": ""
+  },
+  {
+    "examineText": "An old Menaphite story.",
     "group": "The jackal's torch",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 27312,
     "name": "The jackal's torch",
     "url": "https://oldschool.runescape.wiki/w/The_jackal%27s_torch",
+    "version": ""
+  },
+  {
+    "examineText": "Some helpful supplies.",
+    "group": "Supplies (Tombs of Amascut)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27314,
+    "name": "Supplies",
+    "url": "https://oldschool.runescape.wiki/w/Supplies_(Tombs_of_Amascut)",
+    "version": ""
+  },
+  {
+    "examineText": "Provides immediate healing at the cost of combat prowess.",
+    "group": "Nectar",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27315,
+    "name": "Nectar (4)",
+    "url": "https://oldschool.runescape.wiki/w/Nectar",
+    "version": "4 dose"
+  },
+  {
+    "examineText": "Provides immediate healing at the cost of combat prowess.",
+    "group": "Nectar",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27317,
+    "name": "Nectar (3)",
+    "url": "https://oldschool.runescape.wiki/w/Nectar",
+    "version": "3 dose"
+  },
+  {
+    "examineText": "Provides immediate healing at the cost of combat prowess.",
+    "group": "Nectar",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27319,
+    "name": "Nectar (2)",
+    "url": "https://oldschool.runescape.wiki/w/Nectar",
+    "version": "2 dose"
+  },
+  {
+    "examineText": "Provides immediate healing at the cost of combat prowess.",
+    "group": "Nectar",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27321,
+    "name": "Nectar (1)",
+    "url": "https://oldschool.runescape.wiki/w/Nectar",
+    "version": "1 dose"
+  },
+  {
+    "examineText": "Restores a large amount of health over time.",
+    "group": "Silk dressing",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27323,
+    "name": "Silk dressing (2)",
+    "url": "https://oldschool.runescape.wiki/w/Silk_dressing",
+    "version": "(2)"
+  },
+  {
+    "examineText": "Restores a large amount of health over time.",
+    "group": "Silk dressing",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27325,
+    "name": "Silk dressing (1)",
+    "url": "https://oldschool.runescape.wiki/w/Silk_dressing",
+    "version": "(1)"
+  },
+  {
+    "examineText": "Restores combat abilities and prayer for you and for nearby allies.",
+    "group": "Tears of elidinis",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27327,
+    "name": "Tears of elidinis (4)",
+    "url": "https://oldschool.runescape.wiki/w/Tears_of_elidinis",
+    "version": "4 dose"
+  },
+  {
+    "examineText": "Restores combat abilities and prayer for you and for nearby allies.",
+    "group": "Tears of elidinis",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27329,
+    "name": "Tears of elidinis (3)",
+    "url": "https://oldschool.runescape.wiki/w/Tears_of_elidinis",
+    "version": "3 dose"
+  },
+  {
+    "examineText": "Restores combat abilities and prayer for you and for nearby allies.",
+    "group": "Tears of elidinis",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27331,
+    "name": "Tears of elidinis (2)",
+    "url": "https://oldschool.runescape.wiki/w/Tears_of_elidinis",
+    "version": "2 dose"
+  },
+  {
+    "examineText": "Restores combat abilities and prayer for you and for nearby allies.",
+    "group": "Tears of elidinis",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27333,
+    "name": "Tears of elidinis (1)",
+    "url": "https://oldschool.runescape.wiki/w/Tears_of_elidinis",
+    "version": "1 dose"
+  },
+  {
+    "examineText": "Restores a large amount of prayer over time.",
+    "group": "Blessed crystal scarab",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27335,
+    "name": "Blessed crystal scarab (2)",
+    "url": "https://oldschool.runescape.wiki/w/Blessed_crystal_scarab",
+    "version": "(2)"
+  },
+  {
+    "examineText": "Restores a large amount of prayer over time.",
+    "group": "Blessed crystal scarab",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27337,
+    "name": "Blessed crystal scarab (1)",
+    "url": "https://oldschool.runescape.wiki/w/Blessed_crystal_scarab",
+    "version": "(1)"
+  },
+  {
+    "examineText": "Reduces how much energy is used when performing a special attack.",
+    "group": "Liquid adrenaline",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27339,
+    "name": "Liquid adrenaline",
+    "url": "https://oldschool.runescape.wiki/w/Liquid_adrenaline",
+    "version": ""
+  },
+  {
+    "examineText": "Repeatedly boosts combat abilities over time and restores run energy.",
+    "group": "Smelling salts",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27343,
+    "name": "Smelling salts (2)",
+    "url": "https://oldschool.runescape.wiki/w/Smelling_salts",
+    "version": "(2)"
+  },
+  {
+    "examineText": "Repeatedly boosts combat abilities over time and restores run energy.",
+    "group": "Smelling salts",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27345,
+    "name": "Smelling salts (1)",
+    "url": "https://oldschool.runescape.wiki/w/Smelling_salts",
+    "version": "(1)"
+  },
+  {
+    "examineText": "Restores and boosts health and prayer while also curing poison.",
+    "group": "Ambrosia",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27347,
+    "name": "Ambrosia",
+    "url": "https://oldschool.runescape.wiki/w/Ambrosia",
+    "version": ""
+  },
+  {
+    "examineText": "Just close your eyes and pretend its beef jerky.",
+    "group": "Honey locust",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27351,
+    "name": "Honey locust",
+    "url": "https://oldschool.runescape.wiki/w/Honey_locust",
+    "version": ""
+  },
+  {
+    "examineText": "A tiny automaton imbued with a trace of Tumeken's power.",
+    "group": "Tumeken's guardian",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27352,
+    "name": "Tumeken's guardian",
+    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_guardian",
+    "version": "Tumeken's guardian"
+  },
+  {
+    "examineText": "A tiny automaton imbued with a trace of Elidinis' power.",
+    "group": "Tumeken's guardian",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27354,
+    "name": "Elidinis' guardian",
+    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_guardian",
+    "version": "Elidinis' guardian"
+  },
+  {
+    "examineText": "A set containing a Masori mask (f), Masori body (f), Masori chaps (f)",
+    "group": "Masori armour set (f)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27355,
+    "name": "Masori armour set (f)",
+    "url": "https://oldschool.runescape.wiki/w/Masori_armour_set_(f)",
     "version": ""
   }
 ]
