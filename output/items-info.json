@@ -13690,7 +13690,7 @@
     "version": ""
   },
   {
-    "examineText": "Nice crispy bread. Possibly too crispy.",
+    "examineText": "Nice crispy bread.  Possibly too crispy.",
     "group": "Burnt bread",
     "isMembers": false,
     "isTradeable": true,
@@ -16170,6 +16170,16 @@
     "version": "Medium"
   },
   {
+    "examineText": "",
+    "group": "Clue scroll (medium) - Speak to Hazelmere.",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 2841,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Speak_to_Hazelmere.",
+    "version": ""
+  },
+  {
     "examineText": "I need to answer this correctly.",
     "group": "Challenge scroll",
     "isMembers": true,
@@ -17010,7 +17020,7 @@
     "version": ""
   },
   {
-    "examineText": "A symbol of your chompy bird hunting prowess:Ogre Forester (300 kills)",
+    "examineText": "A symbol of your chompy bird hunting prowess: Ogre Forester (300 kills)",
     "group": "Chompy bird hat (ogre forester)",
     "isMembers": true,
     "isTradeable": false,
@@ -18290,7 +18300,7 @@
     "version": ""
   },
   {
-    "examineText": "These are quite large monkey bones.",
+    "examineText": "These are quite large ape bones.",
     "group": "Gorilla bones",
     "isMembers": true,
     "isTradeable": false,
@@ -18300,7 +18310,7 @@
     "version": ""
   },
   {
-    "examineText": "These are quite large monkey bones.",
+    "examineText": "These are quite large ape bones.",
     "group": "Bearded gorilla bones",
     "isMembers": true,
     "isTradeable": false,
@@ -36260,7 +36270,7 @@
     "version": ""
   },
   {
-    "examineText": "A nicely roasted spider threaded onto an arrow shaft.",
+    "examineText": "A raw spider threaded onto an arrow shaft.",
     "group": "Spider on shaft (raw)",
     "isMembers": true,
     "isTradeable": true,
@@ -38411,12 +38421,12 @@
   },
   {
     "examineText": "My pet sinister squid.",
-    "group": "Karamthulhu (unused NPC)",
+    "group": "Karamthulhu (unobtainable item)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 6717,
     "name": "Karamthulhu",
-    "url": "https://oldschool.runescape.wiki/w/Karamthulhu_(unused_NPC)",
+    "url": "https://oldschool.runescape.wiki/w/Karamthulhu_(unobtainable_item)",
     "version": ""
   },
   {
@@ -50160,7 +50170,7 @@
     "version": ""
   },
   {
-    "examineText": "Armour designed to fit goblins.",
+    "examineText": "Some green armour designed to fit goblins.",
     "group": "Green goblin mail",
     "isMembers": false,
     "isTradeable": false,
@@ -68570,7 +68580,7 @@
     "version": ""
   },
   {
-    "examineText": "With all the trimmings!",
+    "examineText": "With all the trimmings! <!-- Post-\"removal\" examine: It's out of date. -->",
     "group": "Thanksgiving dinner",
     "isMembers": true,
     "isTradeable": true,
@@ -75560,6 +75570,16 @@
     "version": ""
   },
   {
+    "examineText": "",
+    "group": "Clue scroll (medium) - HQNM LZM STSNQ",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 19770,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_HQNM_LZM_STSNQ",
+    "version": ""
+  },
+  {
     "examineText": "A key to unlock a treasure chest.",
     "group": "Key (Treasure Trails)",
     "isMembers": true,
@@ -82507,7 +82527,7 @@
     "itemID": 21291,
     "name": "Jal-nib-rek",
     "url": "https://oldschool.runescape.wiki/w/Jal-nib-rek",
-    "version": "Jal-nib-rek"
+    "version": "Jal-Nib-Rek"
   },
   {
     "examineText": "An infernal eel that has now hardened. Perhaps it could be cracked open.",
@@ -86381,12 +86401,12 @@
   },
   {
     "examineText": "A strange key. It seems to be made out of various metals, including mithril.",
-    "group": "Ancient key",
+    "group": "Ancient key (Dragon Slayer II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 22093,
     "name": "Ancient key",
-    "url": "https://oldschool.runescape.wiki/w/Ancient_key",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_key_(Dragon_Slayer_II)",
     "version": ""
   },
   {
@@ -87417,7 +87437,7 @@
     "itemID": 22318,
     "name": "Pet corporeal critter",
     "url": "https://oldschool.runescape.wiki/w/Pet_dark_core",
-    "version": "Corporeal critter"
+    "version": "Corporeal Critter"
   },
   {
     "examineText": "Not quite so fearsome anymore.",
@@ -87427,7 +87447,7 @@
     "itemID": 22319,
     "name": "Tzrek-zuk",
     "url": "https://oldschool.runescape.wiki/w/Jal-nib-rek",
-    "version": "Tzrek-zuk"
+    "version": "TzRek-Zuk"
   },
   {
     "examineText": "Sometimes that quiet feeling of accomplishment just isn't enough of a reward.",
@@ -90740,7 +90760,7 @@
     "version": "Step 1"
   },
   {
-    "examineText": "A scroll that Veos gave to me. It should lead me to some treasure.",
+    "examineText": "A scroll that I found while hunting treasure for Veos.",
     "group": "Treasure scroll",
     "isMembers": false,
     "isTradeable": false,
@@ -90760,7 +90780,7 @@
     "version": ""
   },
   {
-    "examineText": "A scroll that Veos gave to me. It should lead me to some treasure.",
+    "examineText": "A scroll that I found while hunting treasure for Veos.",
     "group": "Treasure scroll",
     "isMembers": false,
     "isTradeable": false,
@@ -101040,7 +101060,7 @@
     "version": ""
   },
   {
-    "examineText": "Why would anyone keep this?",
+    "examineText": "Why would anyone keep this? <!-- Post-\"removal\" examine: Probably would have tasted good five months ago. -->",
     "group": "Stale bread",
     "isMembers": false,
     "isTradeable": false,
@@ -103050,7 +103070,7 @@
     "version": "Charged"
   },
   {
-    "examineText": "A powerful scythe cleansed in the light of Saradomin It is currently uncharged.",
+    "examineText": "A powerful scythe cleansed in the light of Saradomin. It is currently uncharged.",
     "group": "Holy scythe of vitur",
     "isMembers": true,
     "isTradeable": false,
@@ -103080,7 +103100,7 @@
     "version": "Uncharged"
   },
   {
-    "examineText": "Use on the Theatre of Blood weapons to recolour them!",
+    "examineText": "Use on Theatre of Blood weapons to recolour them!",
     "group": "Holy ornament kit",
     "isMembers": true,
     "isTradeable": false,
@@ -103360,7 +103380,7 @@
     "version": ""
   },
   {
-    "examineText": "A bone found at the home of  Councillor Hughes.",
+    "examineText": "A bone found at the home of Councillor Hughes.",
     "group": "Bone (A Kingdom Divided)",
     "isMembers": true,
     "isTradeable": false,
@@ -103990,7 +104010,7 @@
     "version": "Amlodd"
   },
   {
-    "examineText": "You really don't want to wear it inside-out.",
+    "examineText": "You don't want to wear it inside-out.",
     "group": "Tztok slayer helmet",
     "isMembers": true,
     "isTradeable": false,
@@ -104000,7 +104020,7 @@
     "version": ""
   },
   {
-    "examineText": "You don't want to wear it inside-out.",
+    "examineText": "You really don't want to wear it inside-out.",
     "group": "Tztok slayer helmet (i)",
     "isMembers": true,
     "isTradeable": false,
@@ -104010,7 +104030,7 @@
     "version": "Nightmare Zone"
   },
   {
-    "examineText": "You don't want to wear it inside-out.",
+    "examineText": "You really don't want to wear it inside-out.",
     "group": "Tztok slayer helmet (i)",
     "isMembers": true,
     "isTradeable": false,
@@ -104020,7 +104040,7 @@
     "version": "Soul Wars"
   },
   {
-    "examineText": "You really don't want to wear it inside-out.",
+    "examineText": "You don't want to wear it inside-out.",
     "group": "Vampyric slayer helmet",
     "isMembers": true,
     "isTradeable": false,
@@ -104030,7 +104050,7 @@
     "version": ""
   },
   {
-    "examineText": "You don't want to wear it inside-out.",
+    "examineText": "You really don't want to wear it inside-out.",
     "group": "Vampyric slayer helmet (i)",
     "isMembers": true,
     "isTradeable": false,
@@ -104040,7 +104060,7 @@
     "version": "Nightmare Zone"
   },
   {
-    "examineText": "You don't want to wear it inside-out.",
+    "examineText": "You really don't want to wear it inside-out.",
     "group": "Vampyric slayer helmet (i)",
     "isMembers": true,
     "isTradeable": false,
@@ -104060,7 +104080,7 @@
     "version": ""
   },
   {
-    "examineText": "You don't want to wear it inside-out.",
+    "examineText": "You really don't want to wear it inside-out.",
     "group": "Tzkal slayer helmet (i)",
     "isMembers": true,
     "isTradeable": false,
@@ -104070,7 +104090,7 @@
     "version": "Nightmare Zone"
   },
   {
-    "examineText": "You don't want to wear it inside-out.",
+    "examineText": "You really don't want to wear it inside-out.",
     "group": "Tzkal slayer helmet (i)",
     "isMembers": true,
     "isTradeable": false,
@@ -105500,44 +105520,44 @@
     "version": ""
   },
   {
-    "examineText": "1 dose of combat potion.",
+    "examineText": "4 doses of combat potion.",
     "group": "Combat potion (Deadman starter pack)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26150,
-    "name": "Combat potion(1)",
+    "name": "Combat potion(4)",
     "url": "https://oldschool.runescape.wiki/w/Combat_potion_(Deadman_starter_pack)",
-    "version": "1 dose"
-  },
-  {
-    "examineText": "2 doses of combat potion.",
-    "group": "Combat potion (Deadman starter pack)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 26151,
-    "name": "Combat potion(2)",
-    "url": "https://oldschool.runescape.wiki/w/Combat_potion_(Deadman_starter_pack)",
-    "version": "2 dose"
+    "version": "4 dose"
   },
   {
     "examineText": "3 doses of combat potion.",
     "group": "Combat potion (Deadman starter pack)",
     "isMembers": true,
     "isTradeable": false,
-    "itemID": 26152,
+    "itemID": 26151,
     "name": "Combat potion(3)",
     "url": "https://oldschool.runescape.wiki/w/Combat_potion_(Deadman_starter_pack)",
     "version": "3 dose"
   },
   {
-    "examineText": "4 doses of combat potion.",
+    "examineText": "2 doses of combat potion.",
+    "group": "Combat potion (Deadman starter pack)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26152,
+    "name": "Combat potion(2)",
+    "url": "https://oldschool.runescape.wiki/w/Combat_potion_(Deadman_starter_pack)",
+    "version": "2 dose"
+  },
+  {
+    "examineText": "1 dose of combat potion.",
     "group": "Combat potion (Deadman starter pack)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26153,
-    "name": "Combat potion(4)",
+    "name": "Combat potion(1)",
     "url": "https://oldschool.runescape.wiki/w/Combat_potion_(Deadman_starter_pack)",
-    "version": "4 dose"
+    "version": "1 dose"
   },
   {
     "examineText": "Some old notes found within Mount Karuulm. They're written in a strange text.",
@@ -106000,7 +106020,7 @@
     "version": ""
   },
   {
-    "examineText": "A wooly festive hat.",
+    "examineText": "A woolly festive hat.",
     "group": "Festive elf hat",
     "isMembers": false,
     "isTradeable": false,
@@ -106070,7 +106090,7 @@
     "version": "Gold"
   },
   {
-    "examineText": "4 doses of Ancient brew.",
+    "examineText": "4 doses of ancient brew.",
     "group": "Ancient brew",
     "isMembers": true,
     "isTradeable": true,
@@ -106080,7 +106100,7 @@
     "version": "4 dose"
   },
   {
-    "examineText": "3 doses of Ancient brew.",
+    "examineText": "3 doses of ancient brew.",
     "group": "Ancient brew",
     "isMembers": true,
     "isTradeable": true,
@@ -106090,7 +106110,7 @@
     "version": "3 dose"
   },
   {
-    "examineText": "2 doses of Ancient brew.",
+    "examineText": "2 doses of ancient brew.",
     "group": "Ancient brew",
     "isMembers": true,
     "isTradeable": true,
@@ -106100,7 +106120,7 @@
     "version": "2 dose"
   },
   {
-    "examineText": "1 dose of Ancient brew.",
+    "examineText": "1 dose of ancient brew.",
     "group": "Ancient brew",
     "isMembers": true,
     "isTradeable": true,
@@ -107270,176 +107290,6 @@
     "version": ""
   },
   {
-    "examineText": "An empty bucket for the cookout.",
-    "group": "Bucket (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26615,
-    "name": "Bucket (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Bucket_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "A bucket of water for the cookout.",
-    "group": "Bucket of water (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26617,
-    "name": "Bucket of water (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Bucket_of_water_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "An empty pot for the cookout.",
-    "group": "Pot (cookout)",
-    "isMembers": false,
-    "isTradeable": true,
-    "itemID": 26619,
-    "name": "Pot (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Pot_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "A pot of flour for the cookout.",
-    "group": "Pot of flour (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26621,
-    "name": "Pot of flour (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Pot_of_flour_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "A tomato for the cookout.",
-    "group": "Tomato (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26623,
-    "name": "Tomato (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Tomato_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "Some cheese for the cookout.",
-    "group": "Cheese (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26625,
-    "name": "Cheese (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Cheese_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "A banana for the cookout.",
-    "group": "Banana (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26627,
-    "name": "Banana (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Banana_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "A pizza base, made for the cookout. Needs tomato and cheese.",
-    "group": "Pizza base (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26627,
-    "name": "Pizza base (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Pizza_base_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "An incomplete pizza, made for the cookout. Just needs cheese.",
-    "group": "Incomplete pizza (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26631,
-    "name": "Incomplete pizza (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Incomplete_pizza_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "An uncooked pizza, made for the cookout.",
-    "group": "Uncooked pizza (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26633,
-    "name": "Uncooked pizza (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Uncooked_pizza_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "A plain pizza, made for the cookout.",
-    "group": "Plain pizza (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26635,
-    "name": "Plain pizza (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Plain_pizza_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "A burnt plain pizza, oops. Made for the cookout.",
-    "group": "Burnt pizza (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26637,
-    "name": "Burnt pizza (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Burnt_pizza_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "Some bread dough, made for the cookout.",
-    "group": "Bread dough (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26639,
-    "name": "Bread dough (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Bread_dough_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "A loaf of bread, made for the cookout.",
-    "group": "Bread (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26641,
-    "name": "Bread (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Bread_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "A burnt loaf of bread, oops. Made for the cookout.",
-    "group": "Burnt bread (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26643,
-    "name": "Burnt bread (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Burnt_bread_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "A banana pizza, made for the cookout.",
-    "group": "Banana pizza (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26645,
-    "name": "Banana pizza (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Banana_pizza_(cookout)",
-    "version": ""
-  },
-  {
-    "examineText": "A burnt banana pizza, oops. Made for the cookout.",
-    "group": "Burnt banana pizza (cookout)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 26647,
-    "name": "Burnt banana pizza (cookout)",
-    "url": "https://oldschool.runescape.wiki/w/Burnt_banana_pizza_(cookout)",
-    "version": ""
-  },
-  {
     "examineText": "Skis to help people move around the desert.",
     "group": "Skis",
     "isMembers": false,
@@ -107720,7 +107570,7 @@
     "version": "Emir's Arena"
   },
   {
-    "examineText": "You don't want to wear it inside-out.",
+    "examineText": "You really don't want to wear it inside-out.",
     "group": "Tztok slayer helmet (i)",
     "isMembers": true,
     "isTradeable": false,
@@ -107730,7 +107580,7 @@
     "version": "Emir's Arena"
   },
   {
-    "examineText": "You don't want to wear it inside-out.",
+    "examineText": "You really don't want to wear it inside-out.",
     "group": "Vampyric slayer helmet (i)",
     "isMembers": true,
     "isTradeable": false,
@@ -107740,7 +107590,7 @@
     "version": "Emir's Arena"
   },
   {
-    "examineText": "You don't want to wear it inside-out.",
+    "examineText": "You really don't want to wear it inside-out.",
     "group": "Tzkal slayer helmet (i)",
     "isMembers": true,
     "isTradeable": false,
@@ -107790,7 +107640,7 @@
     "version": "Broken"
   },
   {
-    "examineText": "A chest piece used by the Calamity Coven, but its broken.",
+    "examineText": "A chest piece used by the Calamity Coven, but it's broken.",
     "group": "Calamity chest",
     "isMembers": true,
     "isTradeable": false,
@@ -109410,7 +109260,7 @@
     "version": ""
   },
   {
-    "examineText": "A colossal-sized pouch used for storing essence.",
+    "examineText": "A large pouch used for storing essence.",
     "group": "Colossal pouch (Devious Minds)",
     "isMembers": true,
     "isTradeable": false,
@@ -109940,7 +109790,7 @@
     "version": ""
   },
   {
-    "examineText": "They fit surprisingly well.",
+    "examineText": "They fit suprisingly well.",
     "group": "Smiths gloves",
     "isMembers": true,
     "isTradeable": false,
@@ -109950,7 +109800,7 @@
     "version": ""
   },
   {
-    "examineText": "They fit surprisingly well and are stuffed with a pair of ice gloves.",
+    "examineText": "They fit suprisingly well and are stuffed with a pair of ice gloves.",
     "group": "Smiths gloves (i)",
     "isMembers": true,
     "isTradeable": false,
@@ -110320,16 +110170,6 @@
     "version": ""
   },
   {
-    "examineText": "Fallen out during battle.",
-    "group": "Fang (Tombs of Amascut)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27216,
-    "name": "Fang",
-    "url": "https://oldschool.runescape.wiki/w/Fang_(Tombs_of_Amascut)",
-    "version": ""
-  },
-  {
     "examineText": "Perhaps this was more valuable in another age?",
     "group": "Fossilised dung",
     "isMembers": true,
@@ -110337,6 +110177,16 @@
     "itemID": 27216,
     "name": "Fossilised dung",
     "url": "https://oldschool.runescape.wiki/w/Fossilised_dung",
+    "version": ""
+  },
+  {
+    "examineText": "Fallen out during battle.",
+    "group": "Fang (Tombs of Amascut)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27219,
+    "name": "Fang",
+    "url": "https://oldschool.runescape.wiki/w/Fang_(Tombs_of_Amascut)",
     "version": ""
   },
   {
@@ -110837,7 +110687,7 @@
     "itemID": 27323,
     "name": "Silk dressing (2)",
     "url": "https://oldschool.runescape.wiki/w/Silk_dressing",
-    "version": "(2)"
+    "version": "2 uses"
   },
   {
     "examineText": "Restores a large amount of health over time.",
@@ -110847,7 +110697,7 @@
     "itemID": 27325,
     "name": "Silk dressing (1)",
     "url": "https://oldschool.runescape.wiki/w/Silk_dressing",
-    "version": "(1)"
+    "version": "1 use"
   },
   {
     "examineText": "Restores combat abilities and prayer for you and for nearby allies.",
@@ -110897,7 +110747,7 @@
     "itemID": 27335,
     "name": "Blessed crystal scarab (2)",
     "url": "https://oldschool.runescape.wiki/w/Blessed_crystal_scarab",
-    "version": "(2)"
+    "version": "2 uses"
   },
   {
     "examineText": "Restores a large amount of prayer over time.",
@@ -110907,17 +110757,27 @@
     "itemID": 27337,
     "name": "Blessed crystal scarab (1)",
     "url": "https://oldschool.runescape.wiki/w/Blessed_crystal_scarab",
-    "version": "(1)"
+    "version": "1 use"
   },
   {
-    "examineText": "Reduces how much energy is used when performing a special attack.",
+    "examineText": "Reduces how much energy is used when peforming a special attack.",
     "group": "Liquid adrenaline",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 27339,
-    "name": "Liquid adrenaline",
+    "name": "Liquid adrenaline (2)",
     "url": "https://oldschool.runescape.wiki/w/Liquid_adrenaline",
-    "version": ""
+    "version": "2 dose"
+  },
+  {
+    "examineText": "Reduces how much energy is used when peforming a special attack.",
+    "group": "Liquid adrenaline",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27341,
+    "name": "Liquid adrenaline (1)",
+    "url": "https://oldschool.runescape.wiki/w/Liquid_adrenaline",
+    "version": "1 dose"
   },
   {
     "examineText": "Repeatedly boosts combat abilities over time and restores run energy.",
@@ -110927,7 +110787,7 @@
     "itemID": 27343,
     "name": "Smelling salts (2)",
     "url": "https://oldschool.runescape.wiki/w/Smelling_salts",
-    "version": "(2)"
+    "version": "2 uses"
   },
   {
     "examineText": "Repeatedly boosts combat abilities over time and restores run energy.",
@@ -110937,7 +110797,7 @@
     "itemID": 27345,
     "name": "Smelling salts (1)",
     "url": "https://oldschool.runescape.wiki/w/Smelling_salts",
-    "version": "(1)"
+    "version": "1 use"
   },
   {
     "examineText": "Restores and boosts health and prayer while also curing poison.",
@@ -110945,9 +110805,19 @@
     "isMembers": true,
     "isTradeable": true,
     "itemID": 27347,
-    "name": "Ambrosia",
+    "name": "Ambrosia (2)",
     "url": "https://oldschool.runescape.wiki/w/Ambrosia",
-    "version": ""
+    "version": "2 dose"
+  },
+  {
+    "examineText": "Restores and boosts health and prayer while also curing poison.",
+    "group": "Ambrosia",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27349,
+    "name": "Ambrosia (1)",
+    "url": "https://oldschool.runescape.wiki/w/Ambrosia",
+    "version": "1 dose"
   },
   {
     "examineText": "Just close your eyes and pretend its beef jerky.",
@@ -110967,7 +110837,7 @@
     "itemID": 27352,
     "name": "Tumeken's guardian",
     "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_guardian",
-    "version": "Tumeken's guardian"
+    "version": "Tumeken's Guardian"
   },
   {
     "examineText": "A tiny automaton imbued with a trace of Elidinis' power.",
@@ -110977,7 +110847,7 @@
     "itemID": 27354,
     "name": "Elidinis' guardian",
     "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_guardian",
-    "version": "Elidinis' guardian"
+    "version": "Elidinis' Guardian"
   },
   {
     "examineText": "A set containing a Masori mask (f), Masori body (f), Masori chaps (f)",
@@ -110988,5 +110858,225 @@
     "name": "Masori armour set (f)",
     "url": "https://oldschool.runescape.wiki/w/Masori_armour_set_(f)",
     "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Masori assembler",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27359,
+    "name": "Masori assembler (broken)",
+    "url": "https://oldschool.runescape.wiki/w/Masori_assembler",
+    "version": "Broken"
+  },
+  {
+    "examineText": "",
+    "group": "Masori assembler max cape",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27361,
+    "name": "Masori assembler max cape (broken)",
+    "url": "https://oldschool.runescape.wiki/w/Masori_assembler_max_cape",
+    "version": "Broken"
+  },
+  {
+    "examineText": "",
+    "group": "Masori assembler max cape",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27363,
+    "name": "Masori assembler max cape",
+    "url": "https://oldschool.runescape.wiki/w/Masori_assembler_max_cape",
+    "version": "Normal"
+  },
+  {
+    "examineText": "",
+    "group": "Masori assembler max cape",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27365,
+    "name": "Masori assembler max cape (l)",
+    "url": "https://oldschool.runescape.wiki/w/Masori_assembler_max_cape",
+    "version": "Locked"
+  },
+  {
+    "examineText": "",
+    "group": "Masori assembler max hood",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27366,
+    "name": "Masori assembler max hood",
+    "url": "https://oldschool.runescape.wiki/w/Masori_assembler_max_hood",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Dawn scarab egg",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27368,
+    "name": "Dawn scarab egg",
+    "url": "https://oldschool.runescape.wiki/w/Dawn_scarab_egg",
+    "version": ""
+  },
+  {
+    "examineText": "A key received from a camel.",
+    "group": "Ancient key (Tombs of Amascut)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27369,
+    "name": "Ancient key",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_key_(Tombs_of_Amascut)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Mask of rebirth",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27370,
+    "name": "Mask of rebirth",
+    "url": "https://oldschool.runescape.wiki/w/Mask_of_rebirth",
+    "version": ""
+  },
+  {
+    "examineText": "Supplies that could be used to make Masori-themed equipment.",
+    "group": "Masori crafting kit",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27372,
+    "name": "Masori crafting kit",
+    "url": "https://oldschool.runescape.wiki/w/Masori_crafting_kit",
+    "version": ""
+  },
+  {
+    "examineText": "A superior bagged chicken empowered by Vorkath, ready to serve you, magnet in claw.",
+    "group": "Masori assembler",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27374,
+    "name": "Masori assembler",
+    "url": "https://oldschool.runescape.wiki/w/Masori_assembler",
+    "version": "Normal"
+  },
+  {
+    "examineText": "",
+    "group": "Masori assembler",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27376,
+    "name": "Masori assembler (l)",
+    "url": "https://oldschool.runescape.wiki/w/Masori_assembler",
+    "version": "Locked"
+  },
+  {
+    "examineText": "",
+    "group": "Remnant of akkha",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27377,
+    "name": "Remnant of akkha",
+    "url": "https://oldschool.runescape.wiki/w/Remnant_of_akkha",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Remnant of ba-ba",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27378,
+    "name": "Remnant of ba-ba",
+    "url": "https://oldschool.runescape.wiki/w/Remnant_of_ba-ba",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Remnant of kephri",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27379,
+    "name": "Remnant of kephri",
+    "url": "https://oldschool.runescape.wiki/w/Remnant_of_kephri",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Remnant of zebak",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27380,
+    "name": "Remnant of zebak",
+    "url": "https://oldschool.runescape.wiki/w/Remnant_of_zebak",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Ancient remnant",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27381,
+    "name": "Ancient remnant",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_remnant",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Tumeken's guardian",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27382,
+    "name": "Akkhito",
+    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_guardian",
+    "version": "Akkhito"
+  },
+  {
+    "examineText": "",
+    "group": "Tumeken's guardian",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27383,
+    "name": "Babi",
+    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_guardian",
+    "version": "Babi"
+  },
+  {
+    "examineText": "",
+    "group": "Tumeken's guardian",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27384,
+    "name": "Kephriti",
+    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_guardian",
+    "version": "Kephriti"
+  },
+  {
+    "examineText": "",
+    "group": "Tumeken's guardian",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27385,
+    "name": "Zebo",
+    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_guardian",
+    "version": "Zebo"
+  },
+  {
+    "examineText": "",
+    "group": "Tumeken's guardian",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27386,
+    "name": "Tumeken's damaged guardian",
+    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_guardian",
+    "version": "Tumeken's Damaged Guardian"
+  },
+  {
+    "examineText": "",
+    "group": "Tumeken's guardian",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27387,
+    "name": "Elidinis' damaged guardian",
+    "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_guardian",
+    "version": "Elidinis' Damaged Guardian"
   }
 ]
