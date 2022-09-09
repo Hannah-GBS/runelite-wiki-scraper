@@ -3492,7 +3492,7 @@
     "ticks": "4"
   },
   {
-    "facilities": "Lectern (Ancient)|Ancient lectern",
+    "facilities": "Lectern (Ancient)",
     "materials": [
       {
         "name": "Law rune",
@@ -4046,7 +4046,7 @@
     "ticks": "0"
   },
   {
-    "facilities": "Lectern (Arceuus)|Arceuus lectern",
+    "facilities": "Lectern (Arceuus)",
     "materials": [
       {
         "name": "Law rune",
@@ -4294,6 +4294,7 @@
     "ticks": ""
   },
   {
+    "facilities": "Lectern (Arceuus)",
     "materials": [
       {
         "name": "Law rune",
@@ -4630,12 +4631,12 @@
     "skills": [
       {
         "boostable": "No",
-        "experience": "?",
+        "experience": "210",
         "level": "90",
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -4653,12 +4654,12 @@
     "skills": [
       {
         "boostable": "No",
-        "experience": "?",
+        "experience": "840",
         "level": "90",
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -4676,12 +4677,12 @@
     "skills": [
       {
         "boostable": "No",
-        "experience": "?",
+        "experience": "630",
         "level": "90",
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -6617,7 +6618,7 @@
     "tools": "Hammer"
   },
   {
-    "facilities": "Lectern (Lunar)|Lunar lectern",
+    "facilities": "Lectern (Lunar)",
     "materials": [
       {
         "name": "Law rune",
@@ -6734,7 +6735,7 @@
     "ticks": "0"
   },
   {
-    "facilities": "Lectern (Arceuus)|Arceuus lectern",
+    "facilities": "Lectern (Arceuus)",
     "materials": [
       {
         "name": "Law rune",
@@ -6867,7 +6868,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Lectern (Arceuus)|Arceuus lectern",
+    "facilities": "Lectern (Arceuus)",
     "materials": [
       {
         "name": "Law rune",
@@ -7884,7 +7885,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">200,515,820</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">201,992,068</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -9953,7 +9954,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Mahogany demon lectern",
+    "facilities": "Demon lectern",
     "materials": [
       {
         "name": "Nature rune",
@@ -10151,7 +10152,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Sulphur Vent (Mount Karuulm)|Sulphur Vent",
+    "facilities": "Sulphur Vent (Mount Karuulm)",
     "materials": [
       {
         "name": "Bottled dragonbreath (unpowered)",
@@ -10203,7 +10204,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">202,530,999</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">205,327,150</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10385,7 +10386,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Pottery oven",
+    "facilities": "Pottery Oven",
     "materials": [
       {
         "name": "Unfired bowl",
@@ -12210,7 +12211,7 @@
     "ticks": "3"
   },
   {
-    "facilities": "Sandpit",
+    "facilities": "Sand pit",
     "materials": [
       {
         "name": "Bucket",
@@ -13488,7 +13489,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Lectern (Ancient)|Ancient lectern",
+    "facilities": "Lectern (Ancient)",
     "materials": [
       {
         "name": "Law rune",
@@ -13630,7 +13631,7 @@
     "tools": "Knife"
   },
   {
-    "facilities": "Lectern (Lunar)|Lunar lectern",
+    "facilities": "Lectern (Lunar)",
     "materials": [
       {
         "name": "Law rune",
@@ -13884,7 +13885,7 @@
     "ticks": "3"
   },
   {
-    "facilities": "Lectern (Arceuus)|Arceuus lectern",
+    "facilities": "Lectern (Arceuus)",
     "materials": [
       {
         "name": "Law rune",
@@ -15951,7 +15952,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -16019,7 +16020,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Corrupted bow (attuned)",
@@ -16087,7 +16088,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -16155,7 +16156,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Corrupted halberd (attuned)",
@@ -16526,7 +16527,7 @@
     "ticks": "0"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -16594,7 +16595,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Corrupted staff (attuned)",
@@ -17096,7 +17097,7 @@
     "ticks": "5"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17142,7 +17143,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17184,7 +17185,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17264,7 +17265,7 @@
     "ticks": "3"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17298,7 +17299,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17332,7 +17333,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal bow (attuned)",
@@ -17422,7 +17423,7 @@
     "ticks": "3"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17456,7 +17457,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17490,7 +17491,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal halberd (attuned)",
@@ -17583,7 +17584,7 @@
     "ticks": "5"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17629,7 +17630,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17671,7 +17672,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17771,7 +17772,7 @@
     "ticks": "5"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17817,7 +17818,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17859,7 +17860,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -17905,7 +17906,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Paddlefish",
@@ -18134,7 +18135,7 @@
     "ticks": "3"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -18168,7 +18169,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -18202,7 +18203,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal staff (attuned)",
@@ -18528,7 +18529,7 @@
     "ticks": "0"
   },
   {
-    "facilities": "Lectern (Ancient)|Ancient lectern",
+    "facilities": "Lectern (Ancient)",
     "materials": [
       {
         "name": "Law rune",
@@ -21900,7 +21901,7 @@
     "tools": "Knife"
   },
   {
-    "facilities": "Lectern (Arceuus)|Arceuus lectern",
+    "facilities": "Lectern (Arceuus)",
     "materials": [
       {
         "name": "Law rune",
@@ -23349,7 +23350,8 @@
         "level": "90",
         "name": "Smithing"
       }
-    ]
+    ],
+    "ticks": "4"
   },
   {
     "materials": [
@@ -23973,7 +23975,7 @@
     "ticks": "2"
   },
   {
-    "facilities": "Pottery oven",
+    "facilities": "Pottery Oven",
     "materials": [
       {
         "name": "Unfired plant pot",
@@ -24089,7 +24091,7 @@
     "ticks": "2"
   },
   {
-    "facilities": "Teak demon lectern",
+    "facilities": "Demon lectern",
     "materials": [
       {
         "name": "Cosmic rune",
@@ -24528,7 +24530,7 @@
     "tools": "Knife"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -25032,7 +25034,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Lectern (Arceuus)|Arceuus lectern",
+    "facilities": "Lectern (Arceuus)",
     "materials": [
       {
         "name": "Law rune",
@@ -25569,7 +25571,7 @@
     "ticks": "0"
   },
   {
-    "facilities": "Lectern (Lunar)|Lunar lectern",
+    "facilities": "Lectern (Lunar)",
     "materials": [
       {
         "name": "Law rune",
@@ -25958,7 +25960,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Lectern (Ancient)|Ancient lectern",
+    "facilities": "Lectern (Ancient)",
     "materials": [
       {
         "name": "Law rune",
@@ -26015,7 +26017,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Gingerbread gnome machine",
+    "facilities": "Gingerbread Gnome Machine",
     "materials": [
       {
         "name": "Festive cinnamon stick",
@@ -26044,7 +26046,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Gingerbread gnome machine",
+    "facilities": "Gingerbread Gnome Machine",
     "materials": [
       {
         "name": "Festive cinnamon stick",
@@ -26262,7 +26264,7 @@
     "ticks": "2"
   },
   {
-    "facilities": "Cauldron",
+    "facilities": "Cauldron (Goblin Kitchen)",
     "materials": [
       {
         "name": "Mouldy sawdust",
@@ -29730,7 +29732,7 @@
     "ticks": "2"
   },
   {
-    "facilities": "Lectern (Arceuus)|Arceuus lectern",
+    "facilities": "Lectern (Arceuus)",
     "materials": [
       {
         "name": "Law rune",
@@ -29767,7 +29769,7 @@
     "ticks": "2"
   },
   {
-    "facilities": "Shrine (Tempoross Cove)|Shrine",
+    "facilities": "Shrine (Tempoross Cove)",
     "materials": [
       {
         "name": "Raw harpoonfish",
@@ -30846,7 +30848,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Lectern (Lunar)|Lunar lectern",
+    "facilities": "Lectern (Lunar)",
     "materials": [
       {
         "name": "Law rune",
@@ -33460,7 +33462,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Lectern (Ancient)|Ancient lectern",
+    "facilities": "Lectern (Ancient)",
     "materials": [
       {
         "name": "Law rune",
@@ -33493,7 +33495,7 @@
     "ticks": "2"
   },
   {
-    "facilities": "Lectern (Lunar)|Lunar lectern",
+    "facilities": "Lectern (Lunar)",
     "materials": [
       {
         "name": "Law rune",
@@ -34086,7 +34088,7 @@
     "ticks": "0"
   },
   {
-    "facilities": "Lectern (Ancient)|Ancient lectern",
+    "facilities": "Lectern (Ancient)",
     "materials": [
       {
         "name": "Law rune",
@@ -37206,6 +37208,27 @@
     "tools": "Pestle and mortar"
   },
   {
+    "materials": [
+      {
+        "name": "Ava's assembler",
+        "quantity": "1"
+      },
+      {
+        "name": "Masori crafting kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Masori assembler.png|link=Masori assembler]]",
+      "name": "Masori assembler",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Needle"
+  },
+  {
     "facilities": "",
     "materials": [
       {
@@ -37231,7 +37254,8 @@
         "name": "Crafting"
       }
     ],
-    "tools": ""
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "facilities": "",
@@ -37254,12 +37278,13 @@
     "skills": [
       {
         "boostable": "No",
-        "experience": "?",
+        "experience": "2490",
         "level": "90",
         "name": "Crafting"
       }
     ],
-    "tools": ""
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "facilities": "",
@@ -37282,12 +37307,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "830",
         "level": "90",
         "name": "Crafting"
       }
     ],
-    "tools": ""
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "facilities": "Brewery",
@@ -37607,7 +37633,7 @@
     "tools": "Knife"
   },
   {
-    "facilities": "Lectern (Arceuus)|Arceuus lectern",
+    "facilities": "Lectern (Arceuus)",
     "materials": [
       {
         "name": "Law rune",
@@ -40168,7 +40194,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Lectern (Lunar)|Lunar lectern",
+    "facilities": "Lectern (Lunar)",
     "materials": [
       {
         "name": "Law rune",
@@ -44074,7 +44100,7 @@
     "ticks": "0"
   },
   {
-    "facilities": "Lectern (Lunar)|Lunar lectern",
+    "facilities": "Lectern (Lunar)",
     "materials": [
       {
         "name": "Law rune",
@@ -44316,7 +44342,7 @@
     "ticks": "2"
   },
   {
-    "facilities": "Lectern (Ancient)|Ancient lectern",
+    "facilities": "Lectern (Ancient)",
     "materials": [
       {
         "name": "Law rune",
@@ -45400,7 +45426,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Pottery oven",
+    "facilities": "Pottery Oven",
     "materials": [
       {
         "name": "Unfired pie dish",
@@ -45475,7 +45501,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Centre piece",
+    "facilities": "Suntrap",
     "materials": [
       {
         "name": "Bucket of saltwater",
@@ -46409,7 +46435,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Pottery oven",
+    "facilities": "Pottery Oven",
     "materials": [
       {
         "name": "Unfired pot",
@@ -46433,7 +46459,7 @@
     "ticks": "8"
   },
   {
-    "facilities": "Pottery oven",
+    "facilities": "Pottery Oven",
     "materials": [
       {
         "name": "Unfired pot lid",
@@ -47979,14 +48005,7 @@
       "name": "Raw swamp paste",
       "quantity": "1"
     },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "0",
-        "level": "?",
-        "name": "Cooking"
-      }
-    ],
+    "skills": [],
     "ticks": "0"
   },
   {
@@ -49907,7 +49926,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Paterdomus|Paterdomus well",
+    "facilities": "Well (Paterdomus)",
     "materials": [
       {
         "name": "Silvthrill rod",
@@ -52923,7 +52942,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Lectern (Arceuus)|Arceuus lectern",
+    "facilities": "Lectern (Arceuus)",
     "materials": [
       {
         "name": "Law rune",
@@ -52956,24 +52975,6 @@
     "ticks": "2"
   },
   {
-    "facilities": "Sandpit",
-    "materials": [
-      {
-        "name": "Empty sack",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Sandbag.png|link=Sandbag]]",
-      "name": "Sandbag",
-      "quantity": "1",
-      "subtxt": "Sandpit"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
     "materials": [
       {
         "name": "Empty sack",
@@ -52990,6 +52991,24 @@
       "name": "Sandbag",
       "quantity": "1",
       "subtxt": "Bucket of sand"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Sand pit",
+    "materials": [
+      {
+        "name": "Empty sack",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sandbag.png|link=Sandbag]]",
+      "name": "Sandbag",
+      "quantity": "1",
+      "subtxt": "Sandpit"
     },
     "skills": [],
     "ticks": "0"
@@ -53903,7 +53922,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Lectern (Ancient)|Ancient lectern",
+    "facilities": "Lectern (Ancient)",
     "materials": [
       {
         "name": "Law rune",
@@ -55759,7 +55778,7 @@
     "tools": "Sickle mould"
   },
   {
-    "facilities": "Nature Grotto|Altar of nature",
+    "facilities": "Altar of nature",
     "materials": [
       {
         "name": "Silver sickle",
@@ -58727,6 +58746,150 @@
     "output": {
       "image": "[[File:Spookier boots.png|link=Spookier boots]]",
       "name": "Spookier boots",
+      "quantity": "1",
+      "subtxt": "Swampy sink"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Ectofuntus",
+    "materials": [
+      {
+        "name": "Spooky gloves",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Spookier gloves.png|link=Spookier gloves]]",
+      "name": "Spookier gloves",
+      "quantity": "1",
+      "subtxt": "Ectofuntus"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Swampy sink",
+    "materials": [
+      {
+        "name": "Spooky gloves",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Spookier gloves.png|link=Spookier gloves]]",
+      "name": "Spookier gloves",
+      "quantity": "1",
+      "subtxt": "Swampy sink"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Ectofuntus",
+    "materials": [
+      {
+        "name": "Spooky hood",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Spookier hood.png|link=Spookier hood]]",
+      "name": "Spookier hood",
+      "quantity": "1",
+      "subtxt": "Ectofuntus"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Swampy sink",
+    "materials": [
+      {
+        "name": "Spooky hood",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Spookier hood.png|link=Spookier hood]]",
+      "name": "Spookier hood",
+      "quantity": "1",
+      "subtxt": "Swampy sink"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Ectofuntus",
+    "materials": [
+      {
+        "name": "Spooky robe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Spookier robe.png|link=Spookier robe]]",
+      "name": "Spookier robe",
+      "quantity": "1",
+      "subtxt": "Ectofuntus"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Swampy sink",
+    "materials": [
+      {
+        "name": "Spooky robe",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Spookier robe.png|link=Spookier robe]]",
+      "name": "Spookier robe",
+      "quantity": "1",
+      "subtxt": "Swampy sink"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Ectofuntus",
+    "materials": [
+      {
+        "name": "Spooky skirt",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Spookier skirt.png|link=Spookier skirt]]",
+      "name": "Spookier skirt",
+      "quantity": "1",
+      "subtxt": "Ectofuntus"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Swampy sink",
+    "materials": [
+      {
+        "name": "Spooky skirt",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Spookier skirt.png|link=Spookier skirt]]",
+      "name": "Spookier skirt",
       "quantity": "1",
       "subtxt": "Swampy sink"
     },
@@ -61703,7 +61866,7 @@
     "ticks": "3"
   },
   {
-    "facilities": "Rock",
+    "facilities": "Rock (snake cooker)",
     "materials": [
       {
         "name": "Raw stuffed snake",
@@ -63225,7 +63388,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -65899,7 +66062,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Pottery wheel",
+    "facilities": "Potter's Wheel",
     "materials": [
       {
         "name": "Soft clay",
@@ -65923,7 +66086,7 @@
     "ticks": "3"
   },
   {
-    "facilities": "Pottery wheel",
+    "facilities": "Potter's Wheel",
     "materials": [
       {
         "name": "Soft clay",
@@ -65947,7 +66110,7 @@
     "ticks": "3"
   },
   {
-    "facilities": "Pottery wheel",
+    "facilities": "Potter's Wheel",
     "materials": [
       {
         "name": "Soft clay",
@@ -65971,7 +66134,7 @@
     "ticks": "3"
   },
   {
-    "facilities": "Pottery wheel",
+    "facilities": "Potter's Wheel",
     "materials": [
       {
         "name": "Soft clay",
@@ -65995,7 +66158,7 @@
     "ticks": "3"
   },
   {
-    "facilities": "Pottery wheel",
+    "facilities": "Potter's Wheel",
     "materials": [
       {
         "name": "Soft clay",
@@ -66467,7 +66630,7 @@
     "tools": "Glassblowing pipe"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
         "name": "Crystal shards",
@@ -67140,7 +67303,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Water Pump (The Gauntlet)|Water Pump",
+    "facilities": "Water Pump (The Gauntlet)",
     "materials": [
       {
         "name": "Vial (The Gauntlet)",
@@ -67157,7 +67320,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Water Pump (The Gauntlet)|Water Pump",
+    "facilities": "Water Pump (The Gauntlet)",
     "materials": [
       {
         "name": "Vial (corrupted)",
@@ -67174,7 +67337,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Lectern (Lunar)|Lunar lectern",
+    "facilities": "Lectern (Lunar)",
     "materials": [
       {
         "name": "Law rune",
@@ -67485,7 +67648,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Lectern (Arceuus)|Arceuus lectern",
+    "facilities": "Lectern (Arceuus)",
     "materials": [
       {
         "name": "Law rune",
