@@ -67600,13 +67600,13 @@
     "version": ""
   },
   {
-    "examineText": "A Rocket Paint Gun.",
-    "group": "Event rpg",
+    "examineText": "A curious device made by goblins.",
+    "group": "Goblin paint cannon",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 12727,
-    "name": "Event rpg",
-    "url": "https://oldschool.runescape.wiki/w/Event_rpg",
+    "name": "Goblin paint cannon",
+    "url": "https://oldschool.runescape.wiki/w/Goblin_paint_cannon",
     "version": ""
   },
   {
@@ -101770,6 +101770,16 @@
     "version": "Bronze"
   },
   {
+    "examineText": "A bow of a follower of Armadyl, corrupted by the power of Venenatis.",
+    "group": "Webweaver bow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25484,
+    "name": "Webweaver bow (u)",
+    "url": "https://oldschool.runescape.wiki/w/Webweaver_bow",
+    "version": "Uncharged"
+  },
+  {
     "examineText": "Fires darts while coating them with venom.",
     "group": "Toxic blowpipe (beta)",
     "isMembers": true,
@@ -101778,6 +101788,16 @@
     "name": "Toxic blowpipe (beta - iron)",
     "url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe_(beta)",
     "version": "Iron"
+  },
+  {
+    "examineText": "A bow of a follower of Armadyl, corrupted by the power of Venenatis.",
+    "group": "Webweaver bow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25485,
+    "name": "Webweaver bow",
+    "url": "https://oldschool.runescape.wiki/w/Webweaver_bow",
+    "version": "Charged"
   },
   {
     "examineText": "Fires darts while coating them with venom.",
@@ -101790,6 +101810,16 @@
     "version": "Steel"
   },
   {
+    "examineText": "An ancient and peculiar chainmace, corrupted by the power of Callisto.",
+    "group": "Ursine chainmace",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25486,
+    "name": "Ursine chainmace (u)",
+    "url": "https://oldschool.runescape.wiki/w/Ursine_chainmace",
+    "version": "Uncharged"
+  },
+  {
     "examineText": "Fires darts while coating them with venom.",
     "group": "Toxic blowpipe (beta)",
     "isMembers": true,
@@ -101800,6 +101830,26 @@
     "version": "Black"
   },
   {
+    "examineText": "An ancient and peculiar chainmace, corrupted by the power of Callisto.",
+    "group": "Ursine chainmace",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25487,
+    "name": "Ursine chainmace",
+    "url": "https://oldschool.runescape.wiki/w/Ursine_chainmace",
+    "version": "Charged"
+  },
+  {
+    "examineText": "A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion.",
+    "group": "Accursed sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25488,
+    "name": "Accursed sceptre (u)",
+    "url": "https://oldschool.runescape.wiki/w/Accursed_sceptre",
+    "version": "Uncharged"
+  },
+  {
     "examineText": "Fires darts while coating them with venom.",
     "group": "Toxic blowpipe (beta)",
     "isMembers": true,
@@ -101808,6 +101858,16 @@
     "name": "Toxic blowpipe (beta - mithril)",
     "url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe_(beta)",
     "version": "Mithril"
+  },
+  {
+    "examineText": "A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion.",
+    "group": "Accursed sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25489,
+    "name": "Accursed sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Accursed_sceptre",
+    "version": "Charged"
   },
   {
     "examineText": "Fires darts while coating them with venom.",
@@ -101828,6 +101888,16 @@
     "name": "Toxic blowpipe (beta - rune)",
     "url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe_(beta)",
     "version": "Rune"
+  },
+  {
+    "examineText": "Behold, the Limeium Scimitar.",
+    "group": "Voidwaker",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25490,
+    "name": "Voidwaker",
+    "url": "https://oldschool.runescape.wiki/w/Voidwaker",
+    "version": ""
   },
   {
     "examineText": "Fires darts while coating them with venom.",
@@ -110760,7 +110830,7 @@
     "version": "1 use"
   },
   {
-    "examineText": "Reduces how much energy is used when peforming a special attack.",
+    "examineText": "Reduces how much energy is used when performing a special attack.",
     "group": "Liquid adrenaline",
     "isMembers": true,
     "isTradeable": true,
@@ -110770,7 +110840,7 @@
     "version": "2 dose"
   },
   {
-    "examineText": "Reduces how much energy is used when peforming a special attack.",
+    "examineText": "Reduces how much energy is used when performing a special attack.",
     "group": "Liquid adrenaline",
     "isMembers": true,
     "isTradeable": true,
@@ -110820,7 +110890,7 @@
     "version": "1 dose"
   },
   {
-    "examineText": "Just close your eyes and pretend its beef jerky.",
+    "examineText": "Just close your eyes and pretend it's beef jerky.",
     "group": "Honey locust",
     "isMembers": true,
     "isTradeable": false,
@@ -110860,7 +110930,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A broken Masori Assembler.",
     "group": "Masori assembler",
     "isMembers": true,
     "isTradeable": false,
@@ -110870,7 +110940,7 @@
     "version": "Broken"
   },
   {
-    "examineText": "",
+    "examineText": "A broken Masori Assembler Max Cape.",
     "group": "Masori assembler max cape",
     "isMembers": true,
     "isTradeable": false,
@@ -110880,7 +110950,7 @@
     "version": "Broken"
   },
   {
-    "examineText": "",
+    "examineText": "The cape worn by only the most experienced players.",
     "group": "Masori assembler max cape",
     "isMembers": true,
     "isTradeable": false,
@@ -110890,7 +110960,7 @@
     "version": "Normal"
   },
   {
-    "examineText": "",
+    "examineText": "The cape worn by only the most experienced players.",
     "group": "Masori assembler max cape",
     "isMembers": true,
     "isTradeable": false,
@@ -110900,7 +110970,7 @@
     "version": "Locked"
   },
   {
-    "examineText": "",
+    "examineText": "The hood worn by only the most experienced players.",
     "group": "Masori assembler max hood",
     "isMembers": true,
     "isTradeable": false,
@@ -110910,7 +110980,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A small scarab egg.",
     "group": "Dawn scarab egg",
     "isMembers": true,
     "isTradeable": false,
@@ -110930,7 +111000,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A mask representing rebirth.",
     "group": "Mask of rebirth",
     "isMembers": true,
     "isTradeable": false,
@@ -110960,7 +111030,7 @@
     "version": "Normal"
   },
   {
-    "examineText": "",
+    "examineText": "A superior bagged chicken empowered by Vorkath, ready to serve you, magnet in claw.",
     "group": "Masori assembler",
     "isMembers": true,
     "isTradeable": false,
@@ -110970,7 +111040,7 @@
     "version": "Locked"
   },
   {
-    "examineText": "",
+    "examineText": "Contains the essence of Akkha.",
     "group": "Remnant of akkha",
     "isMembers": true,
     "isTradeable": false,
@@ -110980,7 +111050,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains the essence of Ba-Ba.",
     "group": "Remnant of ba-ba",
     "isMembers": true,
     "isTradeable": false,
@@ -110990,7 +111060,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains the essence of Kephri.",
     "group": "Remnant of kephri",
     "isMembers": true,
     "isTradeable": false,
@@ -111000,7 +111070,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains the essence of Zebak.",
     "group": "Remnant of zebak",
     "isMembers": true,
     "isTradeable": false,
@@ -111010,7 +111080,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains the essence of two legendary guardians.",
     "group": "Ancient remnant",
     "isMembers": true,
     "isTradeable": false,
@@ -111020,7 +111090,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Small, but still strong.",
     "group": "Tumeken's guardian",
     "isMembers": true,
     "isTradeable": false,
@@ -111030,7 +111100,7 @@
     "version": "Akkhito"
   },
   {
-    "examineText": "",
+    "examineText": "Her mother's daughter. Fond of bananas.",
     "group": "Tumeken's guardian",
     "isMembers": true,
     "isTradeable": false,
@@ -111040,7 +111110,7 @@
     "version": "Babi"
   },
   {
-    "examineText": "",
+    "examineText": "The tiniest bug can still make worlds fall over.",
     "group": "Tumeken's guardian",
     "isMembers": true,
     "isTradeable": false,
@@ -111050,7 +111120,7 @@
     "version": "Kephriti"
   },
   {
-    "examineText": "",
+    "examineText": "Chomp.",
     "group": "Tumeken's guardian",
     "isMembers": true,
     "isTradeable": false,
@@ -111060,7 +111130,7 @@
     "version": "Zebo"
   },
   {
-    "examineText": "",
+    "examineText": "A tiny automaton imbued with a trace of Tumeken's power.",
     "group": "Tumeken's guardian",
     "isMembers": true,
     "isTradeable": false,
@@ -111070,7 +111140,7 @@
     "version": "Tumeken's Damaged Guardian"
   },
   {
-    "examineText": "",
+    "examineText": "A tiny automaton imbued with a trace of Elidinis' power.",
     "group": "Tumeken's guardian",
     "isMembers": true,
     "isTradeable": false,
@@ -111078,5 +111148,205 @@
     "name": "Elidinis' damaged guardian",
     "url": "https://oldschool.runescape.wiki/w/Tumeken%27s_guardian",
     "version": "Elidinis' Damaged Guardian"
+  },
+  {
+    "examineText": "The clothing of an adventurer.",
+    "group": "Adventurer's top (t1)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27388,
+    "name": "Adventurer's top (t1)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_top_(t1)",
+    "version": ""
+  },
+  {
+    "examineText": "The clothing of an adventurer.",
+    "group": "Adventurer's trousers (t1)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27390,
+    "name": "Adventurer's trousers (t1)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_trousers_(t1)",
+    "version": ""
+  },
+  {
+    "examineText": "The headgear of an adventurer.",
+    "group": "Adventurer's hood (t1)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27392,
+    "name": "Adventurer's hood (t1)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_hood_(t1)",
+    "version": ""
+  },
+  {
+    "examineText": "The boots of an adventurer.",
+    "group": "Adventurer's boots (t1)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27394,
+    "name": "Adventurer's boots (t1)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_boots_(t1)",
+    "version": ""
+  },
+  {
+    "examineText": "The clothing of an adventurer.",
+    "group": "Adventurer's top (t2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27396,
+    "name": "Adventurer's top (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_top_(t2)",
+    "version": ""
+  },
+  {
+    "examineText": "The clothing of an adventurer.",
+    "group": "Adventurer's trousers (t2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27398,
+    "name": "Adventurer's trousers (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_trousers_(t2)",
+    "version": ""
+  },
+  {
+    "examineText": "The headgear of an adventurer.",
+    "group": "Adventurer's hood (t2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27400,
+    "name": "Adventurer's hood (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_hood_(t2)",
+    "version": ""
+  },
+  {
+    "examineText": "The boots of an adventurer.",
+    "group": "Adventurer's boots (t2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27402,
+    "name": "Adventurer's boots (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_boots_(t2)",
+    "version": ""
+  },
+  {
+    "examineText": "The clothing of an adventurer.",
+    "group": "Adventurer's top (t3)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27404,
+    "name": "Adventurer's top (t3)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_top_(t3)",
+    "version": ""
+  },
+  {
+    "examineText": "The clothing of an adventurer.",
+    "group": "Adventurer's trousers (t3)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27406,
+    "name": "Adventurer's trousers (t3)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_trousers_(t3)",
+    "version": ""
+  },
+  {
+    "examineText": "The headgear of an adventurer.",
+    "group": "Adventurer's hood (t3)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27408,
+    "name": "Adventurer's hood (t3)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_hood_(t3)",
+    "version": ""
+  },
+  {
+    "examineText": "The boots of an adventurer.",
+    "group": "Adventurer's boots (t3)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27410,
+    "name": "Adventurer's boots (t3)",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_boots_(t3)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Adventurer's vambraces",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27412,
+    "name": "Adventurer's vambraces",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_vambraces",
+    "version": ""
+  },
+  {
+    "examineText": "You won't forget the time with this.",
+    "group": "Giant stopwatch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27414,
+    "name": "Giant stopwatch",
+    "url": "https://oldschool.runescape.wiki/w/Giant_stopwatch",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Speedy teleport scroll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27416,
+    "name": "Speedy teleport scroll",
+    "url": "https://oldschool.runescape.wiki/w/Speedy_teleport_scroll",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Bronze speedrun trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27418,
+    "name": "Bronze speedrun trophy",
+    "url": "https://oldschool.runescape.wiki/w/Bronze_speedrun_trophy",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Silver speedrun trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27420,
+    "name": "Silver speedrun trophy",
+    "url": "https://oldschool.runescape.wiki/w/Silver_speedrun_trophy",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Gold speedrun trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27422,
+    "name": "Gold speedrun trophy",
+    "url": "https://oldschool.runescape.wiki/w/Gold_speedrun_trophy",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Platinum speedrun trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27424,
+    "name": "Platinum speedrun trophy",
+    "url": "https://oldschool.runescape.wiki/w/Platinum_speedrun_trophy",
+    "version": ""
+  },
+  {
+    "examineText": "A pot of Poison dynamite, with a fuse ready to light.",
+    "group": "Dynamite(p)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27426,
+    "name": "Dynamite(p)",
+    "url": "https://oldschool.runescape.wiki/w/Dynamite(p)",
+    "version": ""
   }
 ]
