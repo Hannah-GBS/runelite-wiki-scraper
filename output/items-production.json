@@ -7885,7 +7885,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">201,992,068</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">204,985,014</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10204,7 +10204,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">205,327,150</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">200,495,120</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -12136,7 +12136,8 @@
     "output": {
       "image": "[[File:Bryophyta's staff (uncharged).png|link=Bryophyta's staff (uncharged)]]",
       "name": "Bryophyta's staff (uncharged)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Crafting"
     },
     "skills": [
       {
@@ -14091,6 +14092,78 @@
       }
     ],
     "ticks": "26"
+  },
+  {
+    "facilities": "Dairy churn",
+    "materials": [
+      {
+        "name": "Pot of cream",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cheese.png|link=Cheese]]",
+      "name": "Cheese",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "46.0",
+        "level": "48",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "19"
+  },
+  {
+    "facilities": "Dairy churn",
+    "materials": [
+      {
+        "name": "Pat of butter",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cheese.png|link=Cheese]]",
+      "name": "Cheese",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "23.5",
+        "level": "48",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "10"
+  },
+  {
+    "facilities": "Dairy churn",
+    "materials": [
+      {
+        "name": "Pat of not garlic butter",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cheese.png|link=Cheese]]",
+      "name": "Cheese",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "23.5",
+        "level": "48",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "10"
   },
   {
     "facilities": "Cooking range",
@@ -17246,7 +17319,8 @@
     "output": {
       "image": "[[File:Crystal bow.png|link=Crystal bow]]",
       "name": "Crystal bow",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Crafting"
     },
     "skills": [
       {
@@ -17263,6 +17337,28 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Ilfeen",
+    "materials": [
+      {
+        "name": "Crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "180000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal bow.png|link=Crystal bow]]",
+      "name": "Crystal bow",
+      "quantity": "1",
+      "subtxt": "Ilfeen"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing Bowl (The Gauntlet)",
@@ -17404,7 +17500,8 @@
     "output": {
       "image": "[[File:Crystal halberd.png|link=Crystal halberd]]",
       "name": "Crystal halberd",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Crafting"
     },
     "skills": [
       {
@@ -17421,6 +17518,28 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Ilfeen",
+    "materials": [
+      {
+        "name": "Crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "150000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal halberd.png|link=Crystal halberd]]",
+      "name": "Crystal halberd",
+      "quantity": "1",
+      "subtxt": "Ilfeen"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing Bowl (The Gauntlet)",
@@ -18116,7 +18235,8 @@
     "output": {
       "image": "[[File:Crystal shield.png|link=Crystal shield]]",
       "name": "Crystal shield",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Crafting"
     },
     "skills": [
       {
@@ -18133,6 +18253,28 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Ilfeen",
+    "materials": [
+      {
+        "name": "Crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "150000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal shield.png|link=Crystal shield]]",
+      "name": "Crystal shield",
+      "quantity": "1",
+      "subtxt": "Ilfeen"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing Bowl (The Gauntlet)",
@@ -45129,30 +45271,6 @@
     "facilities": "Dairy churn",
     "materials": [
       {
-        "name": "Bucket of milk",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Pat of butter.png|link=Pat of butter]]",
-      "name": "Pat of butter",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "40.5",
-        "level": "38",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "10"
-  },
-  {
-    "facilities": "Dairy churn",
-    "materials": [
-      {
         "name": "Pot of cream",
         "quantity": "1"
       }
@@ -45172,6 +45290,30 @@
       }
     ],
     "ticks": "10"
+  },
+  {
+    "facilities": "Dairy churn",
+    "materials": [
+      {
+        "name": "Bucket of milk",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Pat of butter.png|link=Pat of butter]]",
+      "name": "Pat of butter",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "40.5",
+        "level": "38",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "19"
   },
   {
     "materials": [
@@ -49230,7 +49372,8 @@
     "output": {
       "image": "[[File:Ring of forging.png|link=Ring of forging]]",
       "name": "Ring of forging",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Magic"
     },
     "skills": [
       {
@@ -49487,10 +49630,6 @@
         "quantity": "1"
       },
       {
-        "name": "Holy wrench",
-        "quantity": "1"
-      },
-      {
         "name": "Nightmare Zone points",
         "quantity": "650000"
       }
@@ -49499,10 +49638,57 @@
     "output": {
       "image": "[[File:Ring of the gods (i).png|link=Ring of the gods (i)]]",
       "name": "Ring of the gods (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "NMZ"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "",
+    "tools": "Holy wrench"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Ring of the gods",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "260"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ring of the gods (i).png|link=Ring of the gods (i)]]",
+      "name": "Ring of the gods (i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Holy wrench"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ring of the gods",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ring of the gods (i).png|link=Ring of the gods (i)]]",
+      "name": "Ring of the gods (i)",
+      "quantity": "1",
+      "subtxt": "Scroll of imbuing"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Holy wrench"
   },
   {
     "materials": [
