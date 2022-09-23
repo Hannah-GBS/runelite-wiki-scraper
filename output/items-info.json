@@ -101760,16 +101760,6 @@
     "version": ""
   },
   {
-    "examineText": "Fires darts while coating them with venom.",
-    "group": "Toxic blowpipe (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25484,
-    "name": "Toxic blowpipe (beta - bronze)",
-    "url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe_(beta)",
-    "version": "Bronze"
-  },
-  {
     "examineText": "A bow of a follower of Armadyl, corrupted by the power of Venenatis.",
     "group": "Webweaver bow",
     "isMembers": true,
@@ -101778,16 +101768,6 @@
     "name": "Webweaver bow (u)",
     "url": "https://oldschool.runescape.wiki/w/Webweaver_bow",
     "version": "Uncharged"
-  },
-  {
-    "examineText": "Fires darts while coating them with venom.",
-    "group": "Toxic blowpipe (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25485,
-    "name": "Toxic blowpipe (beta - iron)",
-    "url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe_(beta)",
-    "version": "Iron"
   },
   {
     "examineText": "A bow of a follower of Armadyl, corrupted by the power of Venenatis.",
@@ -101800,16 +101780,6 @@
     "version": "Charged"
   },
   {
-    "examineText": "Fires darts while coating them with venom.",
-    "group": "Toxic blowpipe (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25486,
-    "name": "Toxic blowpipe (beta - steel)",
-    "url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe_(beta)",
-    "version": "Steel"
-  },
-  {
     "examineText": "An ancient and peculiar chainmace, corrupted by the power of Callisto.",
     "group": "Ursine chainmace",
     "isMembers": true,
@@ -101818,16 +101788,6 @@
     "name": "Ursine chainmace (u)",
     "url": "https://oldschool.runescape.wiki/w/Ursine_chainmace",
     "version": "Uncharged"
-  },
-  {
-    "examineText": "Fires darts while coating them with venom.",
-    "group": "Toxic blowpipe (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25487,
-    "name": "Toxic blowpipe (beta - black)",
-    "url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe_(beta)",
-    "version": "Black"
   },
   {
     "examineText": "An ancient and peculiar chainmace, corrupted by the power of Callisto.",
@@ -101850,16 +101810,6 @@
     "version": "Uncharged"
   },
   {
-    "examineText": "Fires darts while coating them with venom.",
-    "group": "Toxic blowpipe (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25488,
-    "name": "Toxic blowpipe (beta - mithril)",
-    "url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe_(beta)",
-    "version": "Mithril"
-  },
-  {
     "examineText": "A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion.",
     "group": "Accursed sceptre",
     "isMembers": true,
@@ -101868,26 +101818,6 @@
     "name": "Accursed sceptre",
     "url": "https://oldschool.runescape.wiki/w/Accursed_sceptre",
     "version": "Charged"
-  },
-  {
-    "examineText": "Fires darts while coating them with venom.",
-    "group": "Toxic blowpipe (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25489,
-    "name": "Toxic blowpipe (beta - adamant)",
-    "url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe_(beta)",
-    "version": "Adamant"
-  },
-  {
-    "examineText": "Fires darts while coating them with venom.",
-    "group": "Toxic blowpipe (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25490,
-    "name": "Toxic blowpipe (beta - rune)",
-    "url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe_(beta)",
-    "version": "Rune"
   },
   {
     "examineText": "Behold, the Limeium Scimitar.",
@@ -101900,24 +101830,24 @@
     "version": ""
   },
   {
-    "examineText": "Fires darts while coating them with venom.",
-    "group": "Toxic blowpipe (beta)",
+    "examineText": "A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion.",
+    "group": "Accursed sceptre (a)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25491,
-    "name": "Toxic blowpipe (beta - dragon)",
-    "url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe_(beta)",
-    "version": "Dragon"
+    "name": "Accursed sceptre (au)",
+    "url": "https://oldschool.runescape.wiki/w/Accursed_sceptre_(a)",
+    "version": "Uncharged"
   },
   {
-    "examineText": "Made from 100% real dragonhide.",
-    "group": "Black d'hide body (beta)",
+    "examineText": "A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion.",
+    "group": "Accursed sceptre (a)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25492,
-    "name": "Black d'hide body (beta)",
-    "url": "https://oldschool.runescape.wiki/w/Black_d%27hide_body_(beta)",
-    "version": ""
+    "name": "Accursed sceptre (a)",
+    "url": "https://oldschool.runescape.wiki/w/Accursed_sceptre_(a)",
+    "version": "Charged"
   },
   {
     "examineText": "Made from 100% real dragonhide.",
@@ -111347,6 +111277,86 @@
     "itemID": 27426,
     "name": "Dynamite(p)",
     "url": "https://oldschool.runescape.wiki/w/Dynamite(p)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (special)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27427,
+    "name": "Clue scroll (special)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(special)",
+    "version": ""
+  },
+  {
+    "examineText": "A magical-looking hood.",
+    "group": "Hood of ruin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27428,
+    "name": "Hood of ruin",
+    "url": "https://oldschool.runescape.wiki/w/Hood_of_ruin",
+    "version": ""
+  },
+  {
+    "examineText": "A magical-looking robe top.",
+    "group": "Robe top of ruin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27430,
+    "name": "Robe top of ruin",
+    "url": "https://oldschool.runescape.wiki/w/Robe_top_of_ruin",
+    "version": ""
+  },
+  {
+    "examineText": "A magical-looking robe bottom.",
+    "group": "Robe bottom of ruin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27432,
+    "name": "Robe bottom of ruin",
+    "url": "https://oldschool.runescape.wiki/w/Robe_bottom_of_ruin",
+    "version": ""
+  },
+  {
+    "examineText": "A pair of magical-looking gloves.",
+    "group": "Gloves of ruin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27434,
+    "name": "Gloves of ruin",
+    "url": "https://oldschool.runescape.wiki/w/Gloves_of_ruin",
+    "version": ""
+  },
+  {
+    "examineText": "A pair of magical-looking socks.",
+    "group": "Socks of ruin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27436,
+    "name": "Socks of ruin",
+    "url": "https://oldschool.runescape.wiki/w/Socks_of_ruin",
+    "version": ""
+  },
+  {
+    "examineText": "A magical-looking cloak.",
+    "group": "Cloak of ruin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27438,
+    "name": "Cloak of ruin",
+    "url": "https://oldschool.runescape.wiki/w/Cloak_of_ruin",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Infinite money bag",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27440,
+    "name": "Infinite money bag",
+    "url": "https://oldschool.runescape.wiki/w/Infinite_money_bag",
     "version": ""
   }
 ]
