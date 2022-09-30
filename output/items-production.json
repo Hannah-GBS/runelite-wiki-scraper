@@ -4636,7 +4636,8 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "4"
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -4659,7 +4660,8 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "4"
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -4682,7 +4684,8 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "4"
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -7885,7 +7888,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">185,279,344</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">178,204,186</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10204,7 +10207,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">181,855,291</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">186,345,691</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18388,17 +18391,77 @@
   {
     "materials": [
       {
-        "name": "Porcelain cup",
+        "name": "Nettle tea",
         "quantity": "1"
       },
       {
-        "name": "Nettle tea",
+        "name": "Porcelain cup",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Cup of tea (Ghosts Ahoy).png|link=Cup of tea (Ghosts Ahoy)]]",
+      "name": "Cup of tea (Ghosts Ahoy)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Cup of tea (nettle)",
+        "quantity": "1"
+      },
+      {
+        "name": "Porcelain cup",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cup of tea (Ghosts Ahoy).png|link=Cup of tea (Ghosts Ahoy)]]",
+      "name": "Cup of tea (Ghosts Ahoy)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Nettle tea (milky)",
+        "quantity": "1"
+      },
+      {
+        "name": "Porcelain cup",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cup of tea (Ghosts Ahoy, milky).png|link=Cup of tea (Ghosts Ahoy)]]",
+      "name": "Cup of tea (Ghosts Ahoy)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Cup of tea (milky nettle)",
+        "quantity": "1"
+      },
+      {
+        "name": "Porcelain cup",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cup of tea (Ghosts Ahoy, milky).png|link=Cup of tea (Ghosts Ahoy)]]",
       "name": "Cup of tea (Ghosts Ahoy)",
       "quantity": "1"
     },
@@ -18420,6 +18483,46 @@
     "output": {
       "image": "[[File:Cup of tea (Ghosts Ahoy, milky).png|link=Cup of tea (Ghosts Ahoy)]]",
       "name": "Cup of tea (Ghosts Ahoy)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Nettle tea (milky)",
+        "quantity": "1"
+      },
+      {
+        "name": "Empty cup",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cup of tea (milky nettle).png|link=Cup of tea (milky nettle)]]",
+      "name": "Cup of tea (milky nettle)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Cup of tea (nettle)",
+        "quantity": "1"
+      },
+      {
+        "name": "Bucket of milk",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cup of tea (milky nettle).png|link=Cup of tea (milky nettle)]]",
+      "name": "Cup of tea (milky nettle)",
       "quantity": "1"
     },
     "skills": [],
@@ -29072,11 +29175,11 @@
   {
     "materials": [
       {
-        "name": "Herb tea mix (2 guams and harralander)",
+        "name": "Marrentill",
         "quantity": "1"
       },
       {
-        "name": "Marrentill",
+        "name": "Herb tea mix (2 guams and harralander)",
         "quantity": "1"
       }
     ],
@@ -29098,13 +29201,13 @@
   },
   {
     "materials": [
-      {
-        "name": "Herb tea mix (2 guams and marrentill)",
-        "quantity": "1"
-      },
       {
         "name": "Harralander",
         "quantity": "1"
+      },
+      {
+        "name": "Herb tea mix (2 guams and marrentill)",
+        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -29126,11 +29229,11 @@
   {
     "materials": [
       {
-        "name": "Herb tea mix (harralander, marrentill, and guam)",
+        "name": "Guam leaf",
         "quantity": "1"
       },
       {
-        "name": "Guam leaf",
+        "name": "Herb tea mix (harralander marrentill and guam)",
         "quantity": "1"
       }
     ],
@@ -30178,11 +30281,11 @@
   {
     "materials": [
       {
-        "name": "Herb tea mix (harralander and guam)",
+        "name": "Guam leaf",
         "quantity": "1"
       },
       {
-        "name": "Guam leaf",
+        "name": "Herb tea mix (harralander and guam)",
         "quantity": "1"
       }
     ],
@@ -30205,13 +30308,13 @@
   },
   {
     "materials": [
-      {
-        "name": "Herb tea mix (2 guams)",
-        "quantity": "1"
-      },
       {
         "name": "Harralander",
         "quantity": "1"
+      },
+      {
+        "name": "Herb tea mix (2 guams)",
+        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -30234,11 +30337,11 @@
   {
     "materials": [
       {
-        "name": "Herb tea mix (guam and marrentill)",
+        "name": "Guam leaf",
         "quantity": "1"
       },
       {
-        "name": "Guam leaf",
+        "name": "Herb tea mix (guam and marrentill)",
         "quantity": "1"
       }
     ],
@@ -30261,13 +30364,13 @@
   },
   {
     "materials": [
-      {
-        "name": "Herb tea mix (2 guams)",
-        "quantity": "1"
-      },
       {
         "name": "Marrentill",
         "quantity": "1"
+      },
+      {
+        "name": "Herb tea mix (2 guams)",
+        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -30290,11 +30393,11 @@
   {
     "materials": [
       {
-        "name": "Herb tea mix (guam)",
+        "name": "Guam leaf",
         "quantity": "1"
       },
       {
-        "name": "Guam leaf",
+        "name": "Herb tea mix (guam)",
         "quantity": "1"
       }
     ],
@@ -30318,11 +30421,11 @@
   {
     "materials": [
       {
-        "name": "Herb tea mix (guam)",
+        "name": "Marrentill",
         "quantity": "1"
       },
       {
-        "name": "Marrentill",
+        "name": "Herb tea mix (guam)",
         "quantity": "1"
       }
     ],
@@ -30345,13 +30448,13 @@
   },
   {
     "materials": [
+      {
+        "name": "Guam leaf",
+        "quantity": "1"
+      },
       {
         "name": "Herb tea mix (marrentill)",
         "quantity": "1"
-      },
-      {
-        "name": "Guam leaf",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -30374,11 +30477,11 @@
   {
     "materials": [
       {
-        "name": "Cup of hot water",
+        "name": "Guam leaf",
         "quantity": "1"
       },
       {
-        "name": "Guam leaf",
+        "name": "Cup of hot water",
         "quantity": "1"
       }
     ],
@@ -30402,11 +30505,11 @@
   {
     "materials": [
       {
-        "name": "Herb tea mix (harralander)",
+        "name": "Guam leaf",
         "quantity": "1"
       },
       {
-        "name": "Guam leaf",
+        "name": "Herb tea mix (harralander)",
         "quantity": "1"
       }
     ],
@@ -30429,13 +30532,13 @@
   },
   {
     "materials": [
+      {
+        "name": "Harralander",
+        "quantity": "1"
+      },
       {
         "name": "Herb tea mix (guam)",
         "quantity": "1"
-      },
-      {
-        "name": "Harralander",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -30458,11 +30561,11 @@
   {
     "materials": [
       {
-        "name": "Herb tea mix (harralander)",
+        "name": "Marrentill",
         "quantity": "1"
       },
       {
-        "name": "Marrentill",
+        "name": "Herb tea mix (harralander)",
         "quantity": "1"
       }
     ],
@@ -30485,13 +30588,13 @@
   },
   {
     "materials": [
+      {
+        "name": "Harralander",
+        "quantity": "1"
+      },
       {
         "name": "Herb tea mix (marrentill)",
         "quantity": "1"
-      },
-      {
-        "name": "Harralander",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -30514,11 +30617,11 @@
   {
     "materials": [
       {
-        "name": "Cup of hot water",
+        "name": "Harralander",
         "quantity": "1"
       },
       {
-        "name": "Harralander",
+        "name": "Cup of hot water",
         "quantity": "1"
       }
     ],
@@ -30542,11 +30645,11 @@
   {
     "materials": [
       {
-        "name": "Herb tea mix (guam and marrentill)",
+        "name": "Harralander",
         "quantity": "1"
       },
       {
-        "name": "Harralander",
+        "name": "Herb tea mix (guam and marrentill)",
         "quantity": "1"
       }
     ],
@@ -30569,13 +30672,13 @@
   },
   {
     "materials": [
-      {
-        "name": "Herb tea mix (harralander and marrentill)",
-        "quantity": "1"
-      },
       {
         "name": "Guam leaf",
         "quantity": "1"
+      },
+      {
+        "name": "Herb tea mix (harralander and marrentill)",
+        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -30597,13 +30700,13 @@
   },
   {
     "materials": [
+      {
+        "name": "Marrentill",
+        "quantity": "1"
+      },
       {
         "name": "Herb tea mix (harralander and guam)",
         "quantity": "1"
-      },
-      {
-        "name": "Marrentill",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -30626,11 +30729,11 @@
   {
     "materials": [
       {
-        "name": "Cup of hot water",
+        "name": "Marrentill",
         "quantity": "1"
       },
       {
-        "name": "Marrentill",
+        "name": "Cup of hot water",
         "quantity": "1"
       }
     ],
@@ -31293,11 +31396,11 @@
   {
     "materials": [
       {
-        "name": "Bowl of water",
+        "name": "Cooked meat",
         "quantity": "1"
       },
       {
-        "name": "Cooked meat",
+        "name": "Bowl of water",
         "quantity": "1"
       }
     ],
@@ -31320,13 +31423,13 @@
   },
   {
     "materials": [
-      {
-        "name": "Bowl of water",
-        "quantity": "1"
-      },
       {
         "name": "Cooked chicken",
         "quantity": "1"
+      },
+      {
+        "name": "Bowl of water",
+        "quantity": "1"
       }
     ],
     "members": "No",
@@ -31349,11 +31452,11 @@
   {
     "materials": [
       {
-        "name": "Bowl of water",
+        "name": "Potato",
         "quantity": "1"
       },
       {
-        "name": "Potato",
+        "name": "Bowl of water",
         "quantity": "1"
       }
     ],
@@ -37736,11 +37839,11 @@
   {
     "materials": [
       {
-        "name": "Bucket of milk",
+        "name": "Pot of cream",
         "quantity": "1"
       },
       {
-        "name": "Pot of cream",
+        "name": "Bucket of milk",
         "quantity": "1"
       }
     ],
@@ -54368,11 +54471,11 @@
   {
     "materials": [
       {
-        "name": "Bowl of water",
+        "name": "Servery cooked meat",
         "quantity": "1"
       },
       {
-        "name": "Servery cooked meat",
+        "name": "Bowl of water",
         "quantity": "1"
       }
     ],
@@ -54396,11 +54499,11 @@
   {
     "materials": [
       {
-        "name": "Bowl of water",
+        "name": "Servery potato",
         "quantity": "1"
       },
       {
-        "name": "Servery potato",
+        "name": "Bowl of water",
         "quantity": "1"
       }
     ],
@@ -54448,11 +54551,11 @@
   {
     "materials": [
       {
-        "name": "Bowl of water",
+        "name": "Servery flour",
         "quantity": "1"
       },
       {
-        "name": "Servery flour",
+        "name": "Bowl of water",
         "quantity": "1"
       }
     ],
@@ -54532,11 +54635,11 @@
   {
     "materials": [
       {
-        "name": "Bowl of water",
+        "name": "Servery flour",
         "quantity": "1"
       },
       {
-        "name": "Servery flour",
+        "name": "Bowl of water",
         "quantity": "1"
       }
     ],
@@ -65532,11 +65635,11 @@
         "quantity": "1"
       },
       {
-        "name": "Bucket of milk",
+        "name": "Pot of flour",
         "quantity": "1"
       },
       {
-        "name": "Pot of flour",
+        "name": "Bucket of milk",
         "quantity": "1"
       }
     ],
@@ -65559,12 +65662,12 @@
   {
     "materials": [
       {
-        "name": "Uncooked stew",
-        "quantity": "1"
-      },
-      {
         "name": "Curry leaf",
         "quantity": "3"
+      },
+      {
+        "name": "Uncooked stew",
+        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -65586,11 +65689,11 @@
   {
     "materials": [
       {
-        "name": "Uncooked stew",
+        "name": "Spice",
         "quantity": "1"
       },
       {
-        "name": "Spice",
+        "name": "Uncooked stew",
         "quantity": "1"
       }
     ],
@@ -65748,13 +65851,13 @@
   {
     "materials": [
       {
+        "name": "Cooked meat",
+        "quantity": "1"
+      },
+      {
         "name": "Incomplete stew",
         "quantity": "1",
         "version": "Potato"
-      },
-      {
-        "name": "Cooked meat",
-        "quantity": "1"
       }
     ],
     "members": "No",
@@ -65777,13 +65880,13 @@
   {
     "materials": [
       {
+        "name": "Cooked chicken",
+        "quantity": "1"
+      },
+      {
         "name": "Incomplete stew",
         "quantity": "1",
         "version": "Potato"
-      },
-      {
-        "name": "Cooked chicken",
-        "quantity": "1"
       }
     ],
     "members": "No",
@@ -65806,13 +65909,13 @@
   {
     "materials": [
       {
+        "name": "Potato",
+        "quantity": "1"
+      },
+      {
         "name": "Incomplete stew",
         "quantity": "1",
         "version": "Meat"
-      },
-      {
-        "name": "Potato",
-        "quantity": "1"
       }
     ],
     "members": "No",
@@ -65864,11 +65967,11 @@
   {
     "materials": [
       {
-        "name": "Jug of water",
+        "name": "Grapes",
         "quantity": "1"
       },
       {
-        "name": "Grapes",
+        "name": "Jug of water",
         "quantity": "1"
       }
     ],
@@ -69819,11 +69922,11 @@
   {
     "materials": [
       {
-        "name": "Jug of water",
+        "name": "Zamorak's grapes",
         "quantity": "1"
       },
       {
-        "name": "Zamorak's grapes",
+        "name": "Jug of water",
         "quantity": "1"
       }
     ],

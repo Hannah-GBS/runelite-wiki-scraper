@@ -63794,10 +63794,30 @@
     "group": "Graceful hood",
     "isMembers": true,
     "isTradeable": false,
+    "itemID": 11850,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful hood",
+    "isMembers": true,
+    "isTradeable": false,
     "itemID": 11851,
     "name": "Graceful hood",
     "url": "https://oldschool.runescape.wiki/w/Graceful_hood",
-    "version": "Regular"
+    "version": "Worn"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful cape",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 11852,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape",
+    "version": "Inventory"
   },
   {
     "examineText": "A sign of your grace.",
@@ -63807,7 +63827,17 @@
     "itemID": 11853,
     "name": "Graceful cape",
     "url": "https://oldschool.runescape.wiki/w/Graceful_cape",
-    "version": "Regular"
+    "version": "Worn"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful top",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 11854,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top",
+    "version": "Inventory"
   },
   {
     "examineText": "A sign of your grace.",
@@ -63817,7 +63847,17 @@
     "itemID": 11855,
     "name": "Graceful top",
     "url": "https://oldschool.runescape.wiki/w/Graceful_top",
-    "version": "Regular"
+    "version": "Worn"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 11856,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs",
+    "version": "Inventory"
   },
   {
     "examineText": "You have graceful legs. How nice.",
@@ -63827,7 +63867,17 @@
     "itemID": 11857,
     "name": "Graceful legs",
     "url": "https://oldschool.runescape.wiki/w/Graceful_legs",
-    "version": "Regular"
+    "version": "Worn"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful gloves",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 11858,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves",
+    "version": "Inventory"
   },
   {
     "examineText": "A sign of your grace.",
@@ -63837,7 +63887,17 @@
     "itemID": 11859,
     "name": "Graceful gloves",
     "url": "https://oldschool.runescape.wiki/w/Graceful_gloves",
-    "version": "Regular"
+    "version": "Worn"
+  },
+  {
+    "examineText": "For your graceful feet.",
+    "group": "Graceful boots",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 11860,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots",
+    "version": "Inventory"
   },
   {
     "examineText": "For your graceful feet.",
@@ -63847,7 +63907,7 @@
     "itemID": 11861,
     "name": "Graceful boots",
     "url": "https://oldschool.runescape.wiki/w/Graceful_boots",
-    "version": "Regular"
+    "version": "Worn"
   },
   {
     "examineText": "A dark hat produced by Shanty Claws.",
@@ -73761,303 +73821,603 @@
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful hood",
+    "group": "Graceful hood (Arceuus)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13579,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Arceuus)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful hood (Arceuus)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13580,
     "name": "Graceful hood",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_hood",
-    "version": "Arceuus"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Arceuus)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful cape",
+    "group": "Graceful cape (Arceuus)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13581,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Arceuus)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful cape (Arceuus)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13582,
     "name": "Graceful cape",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_cape",
-    "version": "Arceuus"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Arceuus)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful top",
+    "group": "Graceful top (Arceuus)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13583,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Arceuus)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful top (Arceuus)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13584,
     "name": "Graceful top",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_top",
-    "version": "Arceuus"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Arceuus)",
+    "version": "Worn"
   },
   {
     "examineText": "You have graceful legs. How nice.",
-    "group": "Graceful legs",
+    "group": "Graceful legs (Arceuus)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13585,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Arceuus)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs (Arceuus)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13586,
     "name": "Graceful legs",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_legs",
-    "version": "Arceuus"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Arceuus)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful gloves",
+    "group": "Graceful gloves (Arceuus)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13587,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Arceuus)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful gloves (Arceuus)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13588,
     "name": "Graceful gloves",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves",
-    "version": "Arceuus"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Arceuus)",
+    "version": "Worn"
   },
   {
     "examineText": "For your graceful feet.",
-    "group": "Graceful boots",
+    "group": "Graceful boots (Arceuus)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13589,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Arceuus)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "For your graceful feet.",
+    "group": "Graceful boots (Arceuus)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13590,
     "name": "Graceful boots",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_boots",
-    "version": "Arceuus"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Arceuus)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful hood",
+    "group": "Graceful hood (Piscarilius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13591,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Piscarilius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful hood (Piscarilius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13592,
     "name": "Graceful hood",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_hood",
-    "version": "Piscarilius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Piscarilius)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful cape",
+    "group": "Graceful cape (Piscarilius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13593,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Piscarilius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful cape (Piscarilius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13594,
     "name": "Graceful cape",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_cape",
-    "version": "Piscarilius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Piscarilius)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful top",
+    "group": "Graceful top (Piscarilius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13595,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Piscarilius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful top (Piscarilius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13596,
     "name": "Graceful top",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_top",
-    "version": "Piscarilius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Piscarilius)",
+    "version": "Worn"
   },
   {
     "examineText": "You have graceful legs. How nice.",
-    "group": "Graceful legs",
+    "group": "Graceful legs (Piscarilius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13597,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Piscarilius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs (Piscarilius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13598,
     "name": "Graceful legs",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_legs",
-    "version": "Piscarilius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Piscarilius)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful gloves",
+    "group": "Graceful gloves (Piscarilius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13599,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Piscarilius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful gloves (Piscarilius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13600,
     "name": "Graceful gloves",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves",
-    "version": "Piscarilius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Piscarilius)",
+    "version": "Worn"
   },
   {
     "examineText": "For your graceful feet.",
-    "group": "Graceful boots",
+    "group": "Graceful boots (Piscarilius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13601,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Piscarilius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "For your graceful feet.",
+    "group": "Graceful boots (Piscarilius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13602,
     "name": "Graceful boots",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_boots",
-    "version": "Piscarilius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Piscarilius)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful hood",
+    "group": "Graceful hood (Lovakengj)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13603,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Lovakengj)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful hood (Lovakengj)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13604,
     "name": "Graceful hood",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_hood",
-    "version": "Lovakengj"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Lovakengj)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful cape",
+    "group": "Graceful cape (Lovakengj)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13605,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Lovakengj)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful cape (Lovakengj)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13606,
     "name": "Graceful cape",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_cape",
-    "version": "Lovakengj"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Lovakengj)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful top",
+    "group": "Graceful top (Lovakengj)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13607,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Lovakengj)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful top (Lovakengj)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13608,
     "name": "Graceful top",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_top",
-    "version": "Lovakengj"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Lovakengj)",
+    "version": "Worn"
   },
   {
     "examineText": "You have graceful legs. How nice.",
-    "group": "Graceful legs",
+    "group": "Graceful legs (Lovakengj)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13609,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Lovakengj)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs (Lovakengj)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13610,
     "name": "Graceful legs",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_legs",
-    "version": "Lovakengj"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Lovakengj)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful gloves",
+    "group": "Graceful gloves (Lovakengj)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13611,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Lovakengj)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful gloves (Lovakengj)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13612,
     "name": "Graceful gloves",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves",
-    "version": "Lovakengj"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Lovakengj)",
+    "version": "Worn"
   },
   {
     "examineText": "For your graceful feet.",
-    "group": "Graceful boots",
+    "group": "Graceful boots (Lovakengj)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13613,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Lovakengj)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "For your graceful feet.",
+    "group": "Graceful boots (Lovakengj)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13614,
     "name": "Graceful boots",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_boots",
-    "version": "Lovakengj"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Lovakengj)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful hood",
+    "group": "Graceful hood (Shayzien)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13615,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Shayzien)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful hood (Shayzien)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13616,
     "name": "Graceful hood",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_hood",
-    "version": "Shayzien"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Shayzien)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful cape",
+    "group": "Graceful cape (Shayzien)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13617,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Shayzien)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful cape (Shayzien)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13618,
     "name": "Graceful cape",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_cape",
-    "version": "Shayzien"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Shayzien)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful top",
+    "group": "Graceful top (Shayzien)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13619,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Shayzien)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful top (Shayzien)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13620,
     "name": "Graceful top",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_top",
-    "version": "Shayzien"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Shayzien)",
+    "version": "Worn"
   },
   {
     "examineText": "You have graceful legs. How nice.",
-    "group": "Graceful legs",
+    "group": "Graceful legs (Shayzien)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13621,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Shayzien)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs (Shayzien)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13622,
     "name": "Graceful legs",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_legs",
-    "version": "Shayzien"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Shayzien)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful gloves",
+    "group": "Graceful gloves (Shayzien)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13623,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Shayzien)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful gloves (Shayzien)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13624,
     "name": "Graceful gloves",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves",
-    "version": "Shayzien"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Shayzien)",
+    "version": "Worn"
   },
   {
     "examineText": "For your graceful feet.",
-    "group": "Graceful boots",
+    "group": "Graceful boots (Shayzien)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13625,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Shayzien)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "For your graceful feet.",
+    "group": "Graceful boots (Shayzien)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13626,
     "name": "Graceful boots",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_boots",
-    "version": "Shayzien"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Shayzien)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful hood",
+    "group": "Graceful hood (Hosidius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13627,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Hosidius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful hood (Hosidius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13628,
     "name": "Graceful hood",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_hood",
-    "version": "Hosidius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Hosidius)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful cape",
+    "group": "Graceful cape (Hosidius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13629,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Hosidius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful cape (Hosidius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13630,
     "name": "Graceful cape",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_cape",
-    "version": "Hosidius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Hosidius)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful top",
+    "group": "Graceful top (Hosidius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13631,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Hosidius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful top (Hosidius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13632,
     "name": "Graceful top",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_top",
-    "version": "Hosidius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Hosidius)",
+    "version": "Worn"
   },
   {
     "examineText": "You have graceful legs. How nice.",
-    "group": "Graceful legs",
+    "group": "Graceful legs (Hosidius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13633,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Hosidius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs (Hosidius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13634,
     "name": "Graceful legs",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_legs",
-    "version": "Hosidius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Hosidius)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and loyalty.",
-    "group": "Graceful gloves",
+    "group": "Graceful gloves (Hosidius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13635,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Hosidius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and loyalty.",
+    "group": "Graceful gloves (Hosidius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13636,
     "name": "Graceful gloves",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves",
-    "version": "Hosidius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Hosidius)",
+    "version": "Worn"
   },
   {
     "examineText": "For your graceful feet.",
-    "group": "Graceful boots",
+    "group": "Graceful boots (Hosidius)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13637,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Hosidius)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "For your graceful feet.",
+    "group": "Graceful boots (Hosidius)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13638,
     "name": "Graceful boots",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_boots",
-    "version": "Hosidius"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Hosidius)",
+    "version": "Worn"
   },
   {
     "examineText": "A handy box for carrying some seeds.",
@@ -74311,63 +74671,123 @@
   },
   {
     "examineText": "A sign of your grace and unity.",
-    "group": "Graceful hood",
+    "group": "Graceful hood (Kourend)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13667,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Kourend)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and unity.",
+    "group": "Graceful hood (Kourend)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13668,
     "name": "Graceful hood",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_hood",
-    "version": "Kourend"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Kourend)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and unity.",
-    "group": "Graceful cape",
+    "group": "Graceful cape (Kourend)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13669,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Kourend)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and unity.",
+    "group": "Graceful cape (Kourend)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13670,
     "name": "Graceful cape",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_cape",
-    "version": "Kourend"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Kourend)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and unity.",
-    "group": "Graceful top",
+    "group": "Graceful top (Kourend)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13671,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Kourend)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and unity.",
+    "group": "Graceful top (Kourend)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13672,
     "name": "Graceful top",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_top",
-    "version": "Kourend"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Kourend)",
+    "version": "Worn"
   },
   {
     "examineText": "You have graceful legs. How nice.",
-    "group": "Graceful legs",
+    "group": "Graceful legs (Kourend)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13673,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Kourend)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs (Kourend)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13674,
     "name": "Graceful legs",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_legs",
-    "version": "Kourend"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Kourend)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace and unity.",
-    "group": "Graceful gloves",
+    "group": "Graceful gloves (Kourend)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13675,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Kourend)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and unity.",
+    "group": "Graceful gloves (Kourend)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13676,
     "name": "Graceful gloves",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves",
-    "version": "Kourend"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Kourend)",
+    "version": "Worn"
   },
   {
     "examineText": "For your graceful feet.",
-    "group": "Graceful boots",
+    "group": "Graceful boots (Kourend)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13677,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Kourend)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "For your graceful feet.",
+    "group": "Graceful boots (Kourend)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 13678,
     "name": "Graceful boots",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_boots",
-    "version": "Kourend"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Kourend)",
+    "version": "Worn"
   },
   {
     "examineText": "The cape worn by master cabbage pickers.",
@@ -81271,63 +81691,123 @@
   },
   {
     "examineText": "A sign of your grace.",
-    "group": "Graceful hood",
+    "group": "Graceful hood (Agility Arena)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 21061,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Agility_Arena)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful hood (Agility Arena)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 21063,
     "name": "Graceful hood",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_hood",
-    "version": "Agility Arena"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Agility_Arena)",
+    "version": "Worn"
   },
   {
-    "examineText": "A sign of your grace.",
-    "group": "Graceful cape",
+    "examineText": "A sign of your grace and unity.",
+    "group": "Graceful cape (Agility Arena)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 21064,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Agility_Arena)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace and unity.",
+    "group": "Graceful cape (Agility Arena)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 21066,
     "name": "Graceful cape",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_cape",
-    "version": "Agility Arena"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Agility_Arena)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace.",
-    "group": "Graceful top",
+    "group": "Graceful top (Agility Arena)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 21067,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Agility_Arena)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful top (Agility Arena)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 21069,
     "name": "Graceful top",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_top",
-    "version": "Agility Arena"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Agility_Arena)",
+    "version": "Worn"
   },
   {
     "examineText": "You have graceful legs. How nice.",
-    "group": "Graceful legs",
+    "group": "Graceful legs (Agility Arena)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 21070,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Agility_Arena)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs (Agility Arena)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 21072,
     "name": "Graceful legs",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_legs",
-    "version": "Agility Arena"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Agility_Arena)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace.",
-    "group": "Graceful gloves",
+    "group": "Graceful gloves (Agility Arena)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 21073,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Agility_Arena)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful gloves (Agility Arena)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 21075,
     "name": "Graceful gloves",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves",
-    "version": "Agility Arena"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Agility_Arena)",
+    "version": "Worn"
   },
   {
     "examineText": "For your graceful feet.",
-    "group": "Graceful boots",
+    "group": "Graceful boots (Agility Arena)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 21076,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Agility_Arena)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "For your graceful feet.",
+    "group": "Graceful boots (Agility Arena)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 21078,
     "name": "Graceful boots",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_boots",
-    "version": "Agility Arena"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Agility_Arena)",
+    "version": "Worn"
   },
   {
     "examineText": "Scrawled words that can invoke the power of the gods.",
@@ -98621,63 +99101,123 @@
   },
   {
     "examineText": "A sign of your grace under fire.",
-    "group": "Graceful hood",
+    "group": "Graceful hood (Hallowed)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24743,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Hallowed)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace under fire.",
+    "group": "Graceful hood (Hallowed)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 24745,
     "name": "Graceful hood",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_hood",
-    "version": "Hallowed"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Hallowed)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace under fire.",
-    "group": "Graceful cape",
+    "group": "Graceful cape (Hallowed)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24746,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Hallowed)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace under fire.",
+    "group": "Graceful cape (Hallowed)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 24748,
     "name": "Graceful cape",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_cape",
-    "version": "Hallowed"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Hallowed)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace under fire.",
-    "group": "Graceful top",
+    "group": "Graceful top (Hallowed)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24749,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Hallowed)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace under fire.",
+    "group": "Graceful top (Hallowed)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 24751,
     "name": "Graceful top",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_top",
-    "version": "Hallowed"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Hallowed)",
+    "version": "Worn"
   },
   {
     "examineText": "You have graceful legs. How nice.",
-    "group": "Graceful legs",
+    "group": "Graceful legs (Hallowed)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24752,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Hallowed)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs (Hallowed)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 24754,
     "name": "Graceful legs",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_legs",
-    "version": "Hallowed"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Hallowed)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace under fire.",
-    "group": "Graceful gloves",
+    "group": "Graceful gloves (Hallowed)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24755,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Hallowed)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace under fire.",
+    "group": "Graceful gloves (Hallowed)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 24757,
     "name": "Graceful gloves",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves",
-    "version": "Hallowed"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Hallowed)",
+    "version": "Worn"
   },
   {
     "examineText": "For your graceful feet.",
-    "group": "Graceful boots",
+    "group": "Graceful boots (Hallowed)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24758,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Hallowed)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "For your graceful feet.",
+    "group": "Graceful boots (Hallowed)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 24760,
     "name": "Graceful boots",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_boots",
-    "version": "Hallowed"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Hallowed)",
+    "version": "Worn"
   },
   {
     "examineText": "A tome found in the lobby of the Hallowed Sepulchre.",
@@ -99901,63 +100441,123 @@
   },
   {
     "examineText": "A sign of your grace while trailblazing.",
-    "group": "Graceful hood",
+    "group": "Graceful hood (Trailblazer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25069,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Trailblazer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace while trailblazing.",
+    "group": "Graceful hood (Trailblazer)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25071,
     "name": "Graceful hood",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_hood",
-    "version": "Trailblazer"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Trailblazer)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace while trailblazing.",
-    "group": "Graceful cape",
+    "group": "Graceful cape (Trailblazer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25072,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Trailblazer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace while trailblazing.",
+    "group": "Graceful cape (Trailblazer)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25074,
     "name": "Graceful cape",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_cape",
-    "version": "Trailblazer"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Trailblazer)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace while trailblazing.",
-    "group": "Graceful top",
+    "group": "Graceful top (Trailblazer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25075,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Trailblazer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace while trailblazing.",
+    "group": "Graceful top (Trailblazer)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25077,
     "name": "Graceful top",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_top",
-    "version": "Trailblazer"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Trailblazer)",
+    "version": "Worn"
   },
   {
     "examineText": "You have graceful legs. How nice.",
-    "group": "Graceful legs",
+    "group": "Graceful legs (Trailblazer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25078,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Trailblazer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs (Trailblazer)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25080,
     "name": "Graceful legs",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_legs",
-    "version": "Trailblazer"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Trailblazer)",
+    "version": "Worn"
   },
   {
     "examineText": "A sign of your grace while trailblazing.",
-    "group": "Graceful gloves",
+    "group": "Graceful gloves (Trailblazer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25081,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Trailblazer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace while trailblazing.",
+    "group": "Graceful gloves (Trailblazer)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25083,
     "name": "Graceful gloves",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves",
-    "version": "Trailblazer"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Trailblazer)",
+    "version": "Worn"
   },
   {
     "examineText": "For your graceful feet.",
-    "group": "Graceful boots",
+    "group": "Graceful boots (Trailblazer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25084,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Trailblazer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "For your graceful feet.",
+    "group": "Graceful boots (Trailblazer)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25086,
     "name": "Graceful boots",
-    "url": "https://oldschool.runescape.wiki/w/Graceful_boots",
-    "version": "Trailblazer"
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Trailblazer)",
+    "version": "Worn"
   },
   {
     "examineText": "A scroll which unlocks the Leagues II - Trailblazer home teleport animation.",
@@ -111200,7 +111800,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "The vambraces of an adventurer.",
     "group": "Adventurer's vambraces",
     "isMembers": true,
     "isTradeable": false,
@@ -111220,7 +111820,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A scroll which can be used to unlock the Speedy Home Teleport Animation.",
     "group": "Speedy teleport scroll",
     "isMembers": true,
     "isTradeable": false,
@@ -111230,7 +111830,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A bronze trophy to show your speedrunning prowess.",
     "group": "Bronze speedrun trophy",
     "isMembers": true,
     "isTradeable": false,
@@ -111240,7 +111840,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A silver trophy to show your speedrunning prowess.",
     "group": "Silver speedrun trophy",
     "isMembers": true,
     "isTradeable": false,
@@ -111250,7 +111850,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A gold trophy to show your speedrunning prowess.",
     "group": "Gold speedrun trophy",
     "isMembers": true,
     "isTradeable": false,
@@ -111260,7 +111860,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A platinum trophy to show your speedrunning prowess.",
     "group": "Platinum speedrun trophy",
     "isMembers": true,
     "isTradeable": false,
@@ -111350,7 +111950,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A magical money bag with infinite coins inside.",
     "group": "Infinite money bag",
     "isMembers": false,
     "isTradeable": false,
