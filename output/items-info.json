@@ -111958,5 +111958,135 @@
     "name": "Infinite money bag",
     "url": "https://oldschool.runescape.wiki/w/Infinite_money_bag",
     "version": ""
+  },
+  {
+    "examineText": "The cape of an adventurer.",
+    "group": "Adventurer's cape",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27442,
+    "name": "Adventurer's cape",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer%27s_cape",
+    "version": ""
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful hood (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27444,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Adventurer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful hood (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27446,
+    "name": "Graceful hood",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_hood_(Adventurer)",
+    "version": "Worn"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful cape (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27447,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Adventurer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful cape (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27449,
+    "name": "Graceful cape",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_cape_(Adventurer)",
+    "version": "Worn"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful top (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27450,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Adventurer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful top (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27452,
+    "name": "Graceful top",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_top_(Adventurer)",
+    "version": "Worn"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27453,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Adventurer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "You have graceful legs. How nice.",
+    "group": "Graceful legs (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27455,
+    "name": "Graceful legs",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_legs_(Adventurer)",
+    "version": "Worn"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful gloves (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27456,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Adventurer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful gloves (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27458,
+    "name": "Graceful gloves",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_gloves_(Adventurer)",
+    "version": "Worn"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful boots (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27459,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Adventurer)",
+    "version": "Inventory"
+  },
+  {
+    "examineText": "A sign of your grace.",
+    "group": "Graceful boots (Adventurer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27461,
+    "name": "Graceful boots",
+    "url": "https://oldschool.runescape.wiki/w/Graceful_boots_(Adventurer)",
+    "version": "Worn"
   }
 ]

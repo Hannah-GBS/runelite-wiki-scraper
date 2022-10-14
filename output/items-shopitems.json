@@ -15206,14 +15206,6 @@
       {
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
-        "name": "Clue scroll (medium)",
-        "sellPrice": "5000",
-        "stock": "inf",
-        "version": ""
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Pieces of eight",
         "name": "Cutthroat flag",
         "stock": "10",
         "version": ""
@@ -27039,6 +27031,53 @@
     "items": [
       {
         "buyPrice": "N/A",
+        "currency": "Speedrunning Points",
+        "name": "Adventurer's outfit",
+        "sellPrice": "200",
+        "stock": "\u221e",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Speedrunning Points",
+        "name": "Adventurer's outfit",
+        "sellPrice": "600",
+        "stock": "\u221e",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Speedrunning Points",
+        "name": "Adventurer's outfit",
+        "sellPrice": "1800",
+        "stock": "\u221e",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Speedrunning Points",
+        "name": "Giant stopwatch",
+        "sellPrice": "1200",
+        "stock": "\u221e",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Speedrunning Points",
+        "name": "Speedy teleport scroll",
+        "sellPrice": "600",
+        "stock": "\u221e",
+        "version": ""
+      }
+    ],
+    "location": "Varrock",
+    "name": "Speedrunning Reward Shop"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Poison chalice",
         "sellPrice": "0",
@@ -29943,6 +29982,101 @@
     "location": "Void Knights' Outpost",
     "name": "Void Knight Magic Store",
     "sellMultiplier": "1000"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Void Knight commendation points",
+        "name": "Void Knights' Reward Options#Herb pack",
+        "sellPrice": "30",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Void Knight commendation points",
+        "name": "Void Knights' Reward Options#Mineral pack",
+        "sellPrice": "15",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Void Knight commendation points",
+        "name": "Void Knights' Reward Options#Seed pack",
+        "sellPrice": "15",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Void Knight commendation points",
+        "name": "Void knight gloves",
+        "sellPrice": "150",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Void Knight commendation points",
+        "name": "Void knight mace",
+        "sellPrice": "250",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Void Knight commendation points",
+        "name": "Void knight robe",
+        "sellPrice": "250",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Void Knight commendation points",
+        "name": "Void knight top",
+        "sellPrice": "250",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Void Knight commendation points",
+        "name": "Void mage helm",
+        "sellPrice": "200",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Void Knight commendation points",
+        "name": "Void melee helm",
+        "sellPrice": "200",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Void Knight commendation points",
+        "name": "Void ranger helm",
+        "sellPrice": "200",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Void Knight commendation points",
+        "name": "Void seal",
+        "sellPrice": "10",
+        "stock": "inf",
+        "version": ""
+      }
+    ],
+    "location": "Void Knights' Outpost",
+    "name": "Void Knights' Reward Options"
   },
   {
     "buyMultiplier": "700",
