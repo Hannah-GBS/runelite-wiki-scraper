@@ -5201,8 +5201,8 @@
     },
     "skills": [
       {
-        "boostable": "",
-        "experience": "N/A",
+        "boostable": "No",
+        "experience": "0",
         "level": "50",
         "name": "Ranged"
       }
@@ -5228,8 +5228,8 @@
     },
     "skills": [
       {
-        "boostable": "",
-        "experience": "N/A",
+        "boostable": "No",
+        "experience": "0",
         "level": "50",
         "name": "Ranged"
       }
@@ -7888,7 +7888,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">177,535,637</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">168,923,433</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10207,7 +10207,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">179,796,088</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">169,472,442</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14990,7 +14990,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "15",
         "level": "30",
         "name": "Crafting"
@@ -15418,7 +15418,8 @@
     "output": {
       "image": "[[File:Cooked chicken.png|link=Cooked chicken]]",
       "name": "Cooked chicken",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Ogre spit-roast"
     },
     "skills": [
       {
@@ -23619,6 +23620,27 @@
     "ticks": "0"
   },
   {
+    "facilities": "Elite Void Knight",
+    "materials": [
+      {
+        "name": "Void knight robe",
+        "quantity": "1"
+      },
+      {
+        "name": "Void Knight commendation points",
+        "quantity": "200"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elite void robe.png|link=Elite void robe]]",
+      "name": "Elite void robe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "materials": [
       {
         "name": "Elite void robe",
@@ -23633,6 +23655,27 @@
     "output": {
       "image": "[[File:Elite void robe (or).png|link=Elite void robe (or)]]",
       "name": "Elite void robe (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Elite Void Knight",
+    "materials": [
+      {
+        "name": "Void knight top",
+        "quantity": "1"
+      },
+      {
+        "name": "Void Knight commendation points",
+        "quantity": "200"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elite void top.png|link=Elite void top]]",
+      "name": "Elite void top",
       "quantity": "1"
     },
     "skills": [],
@@ -29233,7 +29276,7 @@
         "quantity": "1"
       },
       {
-        "name": "Herb tea mix (harralander marrentill and guam)",
+        "name": "Herb tea mix (harralander, marrentill, and guam)",
         "quantity": "1"
       }
     ],
@@ -53097,36 +53140,9 @@
     },
     "skills": [
       {
-        "boostable": "Unknown",
+        "boostable": "",
         "experience": "0",
-        "level": "35",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "materials": [
-      {
-        "name": "Salve shard",
-        "quantity": "1"
-      },
-      {
-        "name": "Ball of wool",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Salve amulet.png|link=Salve amulet]]",
-      "name": "Salve amulet",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Unknown",
-        "experience": "0",
-        "level": "35",
+        "level": "1",
         "name": "Crafting"
       }
     ],
@@ -56107,7 +56123,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "55",
         "level": "25",
         "name": "Crafting"
@@ -56139,7 +56155,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "17.5",
         "level": "7",
         "name": "Magic"
@@ -56523,6 +56539,7 @@
     "ticks": "1"
   },
   {
+    "facilities": "Solztun",
     "materials": [
       {
         "name": "Skull sceptre",
@@ -56870,6 +56887,26 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Slayer's staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Slayer's enchantment",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Slayer's staff (e).png|link=Slayer's staff (e)]]",
+      "name": "Slayer's staff (e)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Doric's Whetstone",
