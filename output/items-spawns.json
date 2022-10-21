@@ -607,6 +607,12 @@
         "name": "Bones"
       },
       {
+        "coords": "2829,9764",
+        "isMembers": true,
+        "location": "Entrana Dungeon",
+        "name": "Bones"
+      },
+      {
         "coords": "2485,2926",
         "isMembers": true,
         "location": "Feldip Hills",
@@ -802,6 +808,12 @@
         "coords": "3182,3722",
         "isMembers": false,
         "location": "Wilderness - eastern Ruins",
+        "name": "Bones"
+      },
+      {
+        "coords": "3126,3647",
+        "isMembers": false,
+        "location": "Wilderness - north-west of Ferox Enclave",
         "name": "Bones"
       },
       {
@@ -3243,7 +3255,7 @@
       },
       {
         "coords": "2579,3463",
-        "isMembers": false,
+        "isMembers": true,
         "location": "Dwarven Mine",
         "name": "Hammer"
       },
