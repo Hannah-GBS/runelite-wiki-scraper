@@ -7888,7 +7888,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">161,902,338</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">154,165,012</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10207,7 +10207,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">156,989,155</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">155,047,452</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15800,7 +15800,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": "1"
+    "ticks": "2"
   },
   {
     "facilities": "Cooking range",
@@ -32516,31 +32516,6 @@
     "materials": [
       {
         "name": "Iron bar",
-        "quantity": "3"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Iron kiteshield.png|link=Iron kiteshield]]",
-      "name": "Iron kiteshield",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "75",
-        "level": "27",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "name": "Iron bar",
         "quantity": "1"
       }
     ],
@@ -34348,6 +34323,156 @@
     ],
     "ticks": "3",
     "tools": "Glassblowing pipe"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Large fossilised limbs",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Large enriched bone.png|link=Large enriched bone]]",
+      "name": "Large enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Large fossilised spine",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Large enriched bone.png|link=Large enriched bone]]",
+      "name": "Large enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Large fossilised ribs",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Large enriched bone.png|link=Large enriched bone]]",
+      "name": "Large enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Large fossilised pelvis",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Large enriched bone.png|link=Large enriched bone]]",
+      "name": "Large enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Large fossilised skull",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Large enriched bone.png|link=Large enriched bone]]",
+      "name": "Large enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Unidentified large fossil",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Large enriched bone.png|link=Large enriched bone]]",
+      "name": "Large enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
   },
   {
     "materials": [
@@ -37950,6 +38075,156 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Medium fossilised limbs",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Medium enriched bone.png|link=Medium enriched bone]]",
+      "name": "Medium enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Medium fossilised spine",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Medium enriched bone.png|link=Medium enriched bone]]",
+      "name": "Medium enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Medium fossilised ribs",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Medium enriched bone.png|link=Medium enriched bone]]",
+      "name": "Medium enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Medium fossilised pelvis",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Medium enriched bone.png|link=Medium enriched bone]]",
+      "name": "Medium enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Medium fossilised skull",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Medium enriched bone.png|link=Medium enriched bone]]",
+      "name": "Medium enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Unidentified medium fossil",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Medium enriched bone.png|link=Medium enriched bone]]",
+      "name": "Medium enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
   },
   {
     "facilities": "Bone grinder",
@@ -48111,6 +48386,181 @@
     "ticks": "2"
   },
   {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Rare fossilised limbs",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rare enriched bone.png|link=Rare enriched bone]]",
+      "name": "Rare enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Rare fossilised spine",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rare enriched bone.png|link=Rare enriched bone]]",
+      "name": "Rare enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Rare fossilised ribs",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rare enriched bone.png|link=Rare enriched bone]]",
+      "name": "Rare enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Rare fossilised pelvis",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rare enriched bone.png|link=Rare enriched bone]]",
+      "name": "Rare enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Rare fossilised skull",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rare enriched bone.png|link=Rare enriched bone]]",
+      "name": "Rare enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Rare fossilised tusk",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rare enriched bone.png|link=Rare enriched bone]]",
+      "name": "Rare enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Unidentified rare fossil",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rare enriched bone.png|link=Rare enriched bone]]",
+      "name": "Rare enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
     "facilities": "Bone grinder",
     "materials": [
       {
@@ -57184,6 +57634,156 @@
     "skills": [],
     "ticks": "1",
     "tools": "Egg mould (2018 Easter event)"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Small fossilised limbs",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Small enriched bone.png|link=Small enriched bone]]",
+      "name": "Small enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Small fossilised spine",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Small enriched bone.png|link=Small enriched bone]]",
+      "name": "Small enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Small fossilised ribs",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Small enriched bone.png|link=Small enriched bone]]",
+      "name": "Small enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Small fossilised pelvis",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Small enriched bone.png|link=Small enriched bone]]",
+      "name": "Small enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Small fossilised skull",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Small enriched bone.png|link=Small enriched bone]]",
+      "name": "Small enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
+  },
+  {
+    "facilities": "Mycelium pool",
+    "materials": [
+      {
+        "name": "Unidentified small fossil",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcite",
+        "quantity": "3"
+      },
+      {
+        "name": "Pyrophosphite",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Small enriched bone.png|link=Small enriched bone]]",
+      "name": "Small enriched bone",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "117"
   },
   {
     "facilities": "Bone grinder",

@@ -101792,7 +101792,7 @@
   {
     "examineText": "You could use this to dedicate a player-owned house chapel to the Gnome Child.",
     "group": "Gnome child icon",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 25338,
     "name": "Gnome child icon",
@@ -111047,7 +111047,7 @@
     "itemID": 27281,
     "name": "Divine rune pouch",
     "url": "https://oldschool.runescape.wiki/w/Divine_rune_pouch",
-    "version": ""
+    "version": "Normal"
   },
   {
     "examineText": "A jewel with a scarab etched upon it that radiates with power.",
@@ -112098,5 +112098,225 @@
     "name": "Fresh start helper",
     "url": "https://oldschool.runescape.wiki/w/Fresh_start_helper",
     "version": ""
+  },
+  {
+    "examineText": "Perfect for collecting treats while Trick-or-Treating!",
+    "group": "Treat cauldron",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27463,
+    "name": "Treat cauldron",
+    "url": "https://oldschool.runescape.wiki/w/Treat_cauldron",
+    "version": "Style 1"
+  },
+  {
+    "examineText": "Perfect for collecting treats while Trick-or-Treating!",
+    "group": "Treat cauldron",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27465,
+    "name": "Treat cauldron",
+    "url": "https://oldschool.runescape.wiki/w/Treat_cauldron",
+    "version": "Style 2"
+  },
+  {
+    "examineText": "Perfect for collecting treats while Trick-or-Treating!",
+    "group": "Treat cauldron",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27467,
+    "name": "Treat cauldron",
+    "url": "https://oldschool.runescape.wiki/w/Treat_cauldron",
+    "version": "Style 3"
+  },
+  {
+    "examineText": "Perfect for collecting treats while Trick-or-Treating!",
+    "group": "Treat cauldron",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27469,
+    "name": "Treat cauldron",
+    "url": "https://oldschool.runescape.wiki/w/Treat_cauldron",
+    "version": "Style 4"
+  },
+  {
+    "examineText": "Perfect for collecting treats while Trick-or-Treating!",
+    "group": "Treat cauldron",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27471,
+    "name": "Treat cauldron",
+    "url": "https://oldschool.runescape.wiki/w/Treat_cauldron",
+    "version": "Style 5"
+  },
+  {
+    "examineText": "A spooky hate complete with an even spookier nose.",
+    "group": "Witch hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27473,
+    "name": "Witch hat",
+    "url": "https://oldschool.runescape.wiki/w/Witch_hat",
+    "version": ""
+  },
+  {
+    "examineText": "Might help me turn people into newts.",
+    "group": "Witch top",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27475,
+    "name": "Witch top",
+    "url": "https://oldschool.runescape.wiki/w/Witch_top",
+    "version": ""
+  },
+  {
+    "examineText": "Protects the legs when brewing concoctions.",
+    "group": "Witch robes",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27477,
+    "name": "Witch robes",
+    "url": "https://oldschool.runescape.wiki/w/Witch_robes",
+    "version": ""
+  },
+  {
+    "examineText": "Wickedly pointy!",
+    "group": "Witch boots",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27479,
+    "name": "Witch boots",
+    "url": "https://oldschool.runescape.wiki/w/Witch_boots",
+    "version": ""
+  },
+  {
+    "examineText": "A thick cape covered in feathers... and probably spiders.",
+    "group": "Witch cape",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27481,
+    "name": "Witch cape",
+    "url": "https://oldschool.runescape.wiki/w/Witch_cape",
+    "version": ""
+  },
+  {
+    "examineText": "Anyone who wears this must be terrifying.",
+    "group": "Terrifying charm",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27483,
+    "name": "Terrifying charm",
+    "url": "https://oldschool.runescape.wiki/w/Terrifying_charm",
+    "version": ""
+  },
+  {
+    "examineText": "This doesn't look tasty.",
+    "group": "Bruised banana",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 27485,
+    "name": "Bruised banana",
+    "url": "https://oldschool.runescape.wiki/w/Bruised_banana",
+    "version": ""
+  },
+  {
+    "examineText": "This could do with a wash.",
+    "group": "Smelly sock",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 27488,
+    "name": "Smelly sock",
+    "url": "https://oldschool.runescape.wiki/w/Smelly_sock",
+    "version": ""
+  },
+  {
+    "examineText": "You've been assured it's spooky...",
+    "group": "Spooky egg",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 27491,
+    "name": "Spooky egg",
+    "url": "https://oldschool.runescape.wiki/w/Spooky_egg",
+    "version": ""
+  },
+  {
+    "examineText": "An old and frayed ball of wool.",
+    "group": "Old wool",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 27494,
+    "name": "Old wool",
+    "url": "https://oldschool.runescape.wiki/w/Old_wool",
+    "version": ""
+  },
+  {
+    "examineText": "A spooky wig!",
+    "group": "Halloween wig",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27497,
+    "name": "Halloween wig",
+    "url": "https://oldschool.runescape.wiki/w/Halloween_wig",
+    "version": "Style 1"
+  },
+  {
+    "examineText": "A spooky wig!",
+    "group": "Halloween wig",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27501,
+    "name": "Halloween wig",
+    "url": "https://oldschool.runescape.wiki/w/Halloween_wig",
+    "version": "Style 3"
+  },
+  {
+    "examineText": "A spooky wig!",
+    "group": "Halloween wig",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27503,
+    "name": "Halloween wig",
+    "url": "https://oldschool.runescape.wiki/w/Halloween_wig",
+    "version": "Style 4"
+  },
+  {
+    "examineText": "A spooky wig!",
+    "group": "Halloween wig",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27505,
+    "name": "Halloween wig",
+    "url": "https://oldschool.runescape.wiki/w/Halloween_wig",
+    "version": "Style 5"
+  },
+  {
+    "examineText": "A spooky wig!",
+    "group": "Halloween wig",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27507,
+    "name": "Halloween wig",
+    "url": "https://oldschool.runescape.wiki/w/Halloween_wig",
+    "version": "Style 6"
+  },
+  {
+    "examineText": "A vessel used to store runes that's been imbued with the powers of Elidinis.",
+    "group": "Divine rune pouch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27509,
+    "name": "Divine rune pouch (l)",
+    "url": "https://oldschool.runescape.wiki/w/Divine_rune_pouch",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A spooky wig!",
+    "group": "Halloween wig",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27599,
+    "name": "Halloween wig",
+    "url": "https://oldschool.runescape.wiki/w/Halloween_wig",
+    "version": "Style 2"
   }
 ]
