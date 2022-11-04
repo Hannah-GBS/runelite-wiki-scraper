@@ -10027,6 +10027,21 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Impling jar",
+        "sellPrice": "2000",
+        "stock": "10",
+        "version": ""
+      }
+    ],
+    "location": "Puro-Puro",
+    "name": "Elnock Inquisitor"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Compost",
         "sellPrice": "35",
         "stock": "inf",

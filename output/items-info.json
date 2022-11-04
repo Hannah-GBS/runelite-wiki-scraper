@@ -4411,12 +4411,12 @@
   },
   {
     "examineText": "An old stone slab with writing on it.",
-    "group": "Stone tablet",
+    "group": "Stone tablet (The Dig Site)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 699,
     "name": "Stone tablet",
-    "url": "https://oldschool.runescape.wiki/w/Stone_tablet",
+    "url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Dig_Site)",
     "version": ""
   },
   {
@@ -112090,7 +112090,7 @@
     "version": "Worn"
   },
   {
-    "examineText": "",
+    "examineText": "Helps with stuff",
     "group": "Fresh start helper",
     "isMembers": false,
     "isTradeable": false,
@@ -112150,7 +112150,7 @@
     "version": "Style 5"
   },
   {
-    "examineText": "A spooky hate complete with an even spookier nose.",
+    "examineText": "A spooky hat complete with an even spookier nose.",
     "group": "Witch hat",
     "isMembers": false,
     "isTradeable": false,
