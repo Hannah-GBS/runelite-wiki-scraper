@@ -164,6 +164,12 @@
     "group": "Barrel",
     "spawns": [
       {
+        "coords": "2208,3259",
+        "isMembers": true,
+        "location": "Iorwerth Camp",
+        "name": "Barrel"
+      },
+      {
         "coords": "2487,3371",
         "isMembers": true,
         "location": "Kandarin - apple orchard west of Combat Training Camp",

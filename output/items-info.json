@@ -4560,7 +4560,7 @@
     "version": ""
   },
   {
-    "examineText": "Notes given to you by Radimus Erkle, it includes a partially completed map.",
+    "examineText": "Notes given to you by Radimus Erkle, including a partially-completed map of the Kharazi jungle.",
     "group": "Radimus notes",
     "isMembers": true,
     "isTradeable": false,
@@ -4570,7 +4570,7 @@
     "version": "Incomplete"
   },
   {
-    "examineText": "Notes given to you by Radimus Erkle, it includes a partially completed map.",
+    "examineText": "Notes given to you by Radimus Erkle, including a partially-completed map of the Kharazi jungle.",
     "group": "Radimus notes",
     "isMembers": true,
     "isTradeable": false,
@@ -4620,7 +4620,7 @@
     "version": ""
   },
   {
-    "examineText": "A rough sketch of a bowl shaped vessel given to you by Gujuo.",
+    "examineText": "A rough sketch of a bowl-shaped vessel, given to you by Gujuo.",
     "group": "Sketch",
     "isMembers": true,
     "isTradeable": false,
@@ -4630,7 +4630,7 @@
     "version": ""
   },
   {
-    "examineText": "A specially made bowl constructed out of pure gold.",
+    "examineText": "A specially-made bowl constructed out of pure gold.",
     "group": "Gold bowl",
     "isMembers": true,
     "isTradeable": false,
@@ -4640,7 +4640,7 @@
     "version": ""
   },
   {
-    "examineText": "A specially made bowl constructed out of pure gold and blessed.",
+    "examineText": "A specially-made bowl constructed out of pure gold and blessed by Gujuo.",
     "group": "Blessed gold bowl",
     "isMembers": true,
     "isTradeable": false,
@@ -4650,7 +4650,7 @@
     "version": ""
   },
   {
-    "examineText": "A specially made golden bowl with water.",
+    "examineText": "A specially-made golden bowl filled with water.",
     "group": "Golden bowl",
     "isMembers": true,
     "isTradeable": false,
@@ -4660,7 +4660,7 @@
     "version": "Water"
   },
   {
-    "examineText": "A specially made bowl constructed out of pure gold. It has pure water in it.",
+    "examineText": "A specially-made golden bowl filled with pure, sacred water.",
     "group": "Golden bowl",
     "isMembers": true,
     "isTradeable": false,
@@ -4680,7 +4680,7 @@
     "version": "Blessed water"
   },
   {
-    "examineText": "A blessed golden bowl. It has pure sacred water in it.",
+    "examineText": "A blessed golden bowl. It has pure, sacred water in it.",
     "group": "Golden bowl",
     "isMembers": true,
     "isTradeable": false,
@@ -4710,7 +4710,7 @@
     "version": ""
   },
   {
-    "examineText": "It looks like the Shamans personal notes...",
+    "examineText": "It looks like the Shaman's personal notes...",
     "group": "Shaman's tome",
     "isMembers": true,
     "isTradeable": false,
@@ -4770,7 +4770,7 @@
     "version": "Ungerminated"
   },
   {
-    "examineText": "These are germinated and ready to be planted in fertile soil.",
+    "examineText": "These seeds are germinated and ready to be planted in fertile soil.",
     "group": "Yommi tree seeds",
     "isMembers": true,
     "isTradeable": false,
@@ -4800,7 +4800,7 @@
     "version": ""
   },
   {
-    "examineText": "A bravery potion for which Gujuo gave you the details, let's hope it works.",
+    "examineText": "A Bravery Potion made from Gujuo's recipe. Let's hope it works.",
     "group": "Bravery potion",
     "isMembers": true,
     "isTradeable": false,
@@ -4810,7 +4810,7 @@
     "version": ""
   },
   {
-    "examineText": "A strange blue wizards hat.",
+    "examineText": "A strange blue wizard's hat.",
     "group": "Blue hat (Legends' Quest)",
     "isMembers": true,
     "isTradeable": false,
@@ -4850,7 +4850,7 @@
     "version": ""
   },
   {
-    "examineText": "A heart shaped crystal.",
+    "examineText": "A heart-shaped crystal.",
     "group": "Heart crystal",
     "isMembers": true,
     "isTradeable": false,
@@ -4860,7 +4860,7 @@
     "version": "Inactive"
   },
   {
-    "examineText": "A heart shaped crystal.",
+    "examineText": "A heart-shaped crystal.",
     "group": "Heart crystal",
     "isMembers": true,
     "isTradeable": false,
@@ -4870,7 +4870,7 @@
     "version": "Activated"
   },
   {
-    "examineText": "A black obsidian dagger, it has a strange aura about it.",
+    "examineText": "A black obsidian dagger. It has a strange aura about it.",
     "group": "Dark dagger",
     "isMembers": true,
     "isTradeable": false,
@@ -4880,7 +4880,7 @@
     "version": ""
   },
   {
-    "examineText": "A black obsidian dagger, it has a strange aura about it - it seems to be glowing.",
+    "examineText": "A black obsidian dagger. It has a strange aura about it - and it seems to be glowing!",
     "group": "Glowing dagger",
     "isMembers": true,
     "isTradeable": false,
@@ -4900,7 +4900,7 @@
     "version": ""
   },
   {
-    "examineText": "A well carved totem pole made from the trunk of a Yommi tree.",
+    "examineText": "A well-carved totem pole made from the trunk of a Yommi tree.",
     "group": "Yommi totem",
     "isMembers": true,
     "isTradeable": false,
@@ -4910,7 +4910,7 @@
     "version": ""
   },
   {
-    "examineText": "A gilded totem pole from the Kharazi tribe.",
+    "examineText": "A gilded totem pole, given to you as a gift from the Kharazi tribe.",
     "group": "Gilded totem",
     "isMembers": true,
     "isTradeable": false,
@@ -6330,7 +6330,7 @@
     "version": ""
   },
   {
-    "examineText": "A jungle specific slashing device.",
+    "examineText": "A jungle-specific slashing device.",
     "group": "Machete",
     "isMembers": true,
     "isTradeable": true,
@@ -57160,7 +57160,7 @@
     "version": ""
   },
   {
-    "examineText": "Allows the ghost farmer to talk to Alice - a breakthrough!",
+    "examineText": "Allows Malcolm the ghost farmer to talk to his wife Alice - a breakthrough!",
     "group": "Crone-made amulet",
     "isMembers": true,
     "isTradeable": false,
@@ -110428,6 +110428,56 @@
     "name": "Flower crown",
     "url": "https://oldschool.runescape.wiki/w/Flower_crown",
     "version": "Pride"
+  },
+  {
+    "examineText": "A seed that can be planted to grow a Legendary Red Rose.",
+    "group": "Legendary red rose seed",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27037,
+    "name": "Legendary red rose seed",
+    "url": "https://oldschool.runescape.wiki/w/Legendary_red_rose_seed",
+    "version": ""
+  },
+  {
+    "examineText": "A seed that can be planted to grow a Gorgeous Orange Lily.",
+    "group": "Gorgeous orange lily seed",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27038,
+    "name": "Gorgeous orange lily seed",
+    "url": "https://oldschool.runescape.wiki/w/Gorgeous_orange_lily_seed",
+    "version": ""
+  },
+  {
+    "examineText": "A seed that can be planted to grow a Beautiful Yellow Pansy.",
+    "group": "Beautiful yellow pansy seed",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27039,
+    "name": "Beautiful yellow pansy seed",
+    "url": "https://oldschool.runescape.wiki/w/Beautiful_yellow_pansy_seed",
+    "version": ""
+  },
+  {
+    "examineText": "A seed that can be planted to grow a Tenacious Indigo Iris Seed.",
+    "group": "Tenacious indigo iris seed",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27040,
+    "name": "Tenacious indigo iris seed",
+    "url": "https://oldschool.runescape.wiki/w/Tenacious_indigo_iris_seed",
+    "version": ""
+  },
+  {
+    "examineText": "A seed that can be planted to grow a Quality Violet Tulip.",
+    "group": "Quality violet tulip seed",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27041,
+    "name": "Quality violet tulip seed",
+    "url": "https://oldschool.runescape.wiki/w/Quality_violet_tulip_seed",
+    "version": ""
   },
   {
     "examineText": "Engraved within, it reads \"Ranked or not: We stand alone - together\".",
