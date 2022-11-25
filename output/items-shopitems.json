@@ -13635,6 +13635,93 @@
     "name": "Gileth"
   },
   {
+    "buyMultiplier": "250",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Premade c+t batta",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade ch' crunch",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade choc bomb",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade fr't batta",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade s'y crunch",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade t'd batta",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade t'd crunch",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade ttl",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade veg ball",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade veg batta",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade w'm batta",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade w'm crun'",
+        "stock": "3",
+        "version": ""
+      },
+      {
+        "currency": "Coins",
+        "name": "Premade worm hole",
+        "stock": "3",
+        "version": ""
+      }
+    ],
+    "location": "Grand Tree",
+    "name": "Gnome Waiter",
+    "sellMultiplier": "1000"
+  },
+  {
     "buyMultiplier": "800",
     "isMembers": true,
     "items": [

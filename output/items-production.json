@@ -899,16 +899,13 @@
       {
         "name": "Adamant full helm",
         "quantity": "1"
-      },
-      {
-        "name": "Grey toy horsey",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Adamant heraldic helm (Horse).png|link=Adamant heraldic helm (Horse)]]",
       "name": "Adamant heraldic helm (Horse)",
+      "outputnote": "A [[toy horsey]] must be shown to [[Sir Renitee]] to set the horse as the player's crest.",
       "quantity": "1"
     },
     "skills": [
@@ -1095,6 +1092,7 @@
     "output": {
       "image": "[[File:Adamant heraldic helm (Skull).png|link=Adamant heraldic helm (Skull)]]",
       "name": "Adamant heraldic helm (Skull)",
+      "outputnote": "Players must be [[skull (status)|skulled]] when asking [[Sir Renitee]] to set a skull as their crest.",
       "quantity": "1"
     },
     "skills": [
@@ -1478,16 +1476,13 @@
       {
         "name": "Adamant kiteshield",
         "quantity": "1"
-      },
-      {
-        "name": "Grey toy horsey",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Adamant kiteshield (Horse).png|link=Adamant kiteshield (Horse)]]",
       "name": "Adamant kiteshield (Horse)",
+      "outputnote": "A [[toy horsey]] must be shown to [[Sir Renitee]] to set the horse as the player's crest.",
       "quantity": "1"
     },
     "skills": [
@@ -1674,6 +1669,7 @@
     "output": {
       "image": "[[File:Adamant kiteshield (Skull).png|link=Adamant kiteshield (Skull)]]",
       "name": "Adamant kiteshield (Skull)",
+      "outputnote": "Players must be [[skull (status)|skulled]] when asking [[Sir Renitee]] to set a skull as their crest.",
       "quantity": "1"
     },
     "skills": [
@@ -2349,6 +2345,69 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Earth battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Air rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Air battlestaff.png|link=Air battlestaff]]",
+      "name": "Air battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Fire battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Air rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Air battlestaff.png|link=Air battlestaff]]",
+      "name": "Air battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Water battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Air rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Air battlestaff.png|link=Air battlestaff]]",
+      "name": "Air battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Obelisk of Air",
@@ -6311,16 +6370,13 @@
       {
         "name": "Plank",
         "quantity": "1"
-      },
-      {
-        "name": "Grey toy horsey",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Banner (Horse).png|link=Banner (Horse)]]",
       "name": "Banner (Horse)",
+      "outputnote": "A [[toy horsey]] must be shown to [[Sir Renitee]] to set the horse as the player's crest.",
       "quantity": "1"
     },
     "skills": [
@@ -6531,6 +6587,7 @@
     "output": {
       "image": "[[File:Banner (Skull).png|link=Banner (Skull)]]",
       "name": "Banner (Skull)",
+      "outputnote": "Players must be [[skull (status)|skulled]] when asking [[Sir Renitee]] to set a skull as their crest.",
       "quantity": "1"
     },
     "skills": [
@@ -7915,7 +7972,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">152,095,585</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">144,561,786</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10234,7 +10291,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">144,909,460</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">137,781,808</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -23569,6 +23626,69 @@
     "ticks": "2"
   },
   {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Air battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Earth battlestaff.png|link=Earth battlestaff]]",
+      "name": "Earth battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Fire battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Earth battlestaff.png|link=Earth battlestaff]]",
+      "name": "Earth battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Water battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Earth battlestaff.png|link=Earth battlestaff]]",
+      "name": "Earth battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Obelisk of Earth",
     "materials": [
       {
@@ -25452,7 +25572,8 @@
     "output": {
       "image": "[[File:Energy potion(4).png|link=Energy potion(4)]]",
       "name": "Energy potion(4)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Apothecary"
     },
     "skills": [],
     "ticks": "0"
@@ -26128,6 +26249,69 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Air battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Fire battlestaff.png|link=Fire battlestaff]]",
+      "name": "Fire battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Earth battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Fire battlestaff.png|link=Fire battlestaff]]",
+      "name": "Fire battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Water battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Fire battlestaff.png|link=Fire battlestaff]]",
+      "name": "Fire battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Obelisk of Fire",
@@ -42322,7 +42506,49 @@
     "ticks": ""
   },
   {
-    "facilities": "Study",
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Mystic fire staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Air rune",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mystic air staff.png|link=Mystic air staff]]",
+      "name": "Mystic air staff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Mystic earth staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Air rune",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mystic air staff.png|link=Mystic air staff]]",
+      "name": "Mystic air staff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
     "materials": [
       {
         "name": "Mystic water staff",
@@ -42495,10 +42721,52 @@
     "ticks": ""
   },
   {
-    "facilities": "Study",
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Mystic air staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mystic earth staff.png|link=Mystic earth staff]]",
+      "name": "Mystic earth staff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
     "materials": [
       {
         "name": "Mystic fire staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mystic earth staff.png|link=Mystic earth staff]]",
+      "name": "Mystic earth staff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Mystic water staff",
         "quantity": "1"
       },
       {
@@ -42582,10 +42850,52 @@
     "ticks": ""
   },
   {
-    "facilities": "Study",
+    "facilities": "Crystal ball space",
     "materials": [
       {
         "name": "Mystic air staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mystic fire staff.png|link=Mystic fire staff]]",
+      "name": "Mystic fire staff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Mystic earth staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mystic fire staff.png|link=Mystic fire staff]]",
+      "name": "Mystic fire staff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Mystic water staff",
         "quantity": "1"
       },
       {
@@ -43251,10 +43561,52 @@
     "ticks": ""
   },
   {
-    "facilities": "Study",
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Mystic air staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Water rune",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mystic water staff.png|link=Mystic water staff]]",
+      "name": "Mystic water staff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
     "materials": [
       {
         "name": "Mystic earth staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Water rune",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mystic water staff.png|link=Mystic water staff]]",
+      "name": "Mystic water staff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Mystic fire staff",
         "quantity": "1"
       },
       {
@@ -52728,16 +53080,13 @@
       {
         "name": "Rune full helm",
         "quantity": "1"
-      },
-      {
-        "name": "Grey toy horsey",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Rune heraldic helm (Horse).png|link=Rune heraldic helm (Horse)]]",
       "name": "Rune heraldic helm (Horse)",
+      "outputnote": "A [[toy horsey]] must be shown to [[Sir Renitee]] to set the horse as the player's crest.",
       "quantity": "1"
     },
     "skills": [
@@ -52960,6 +53309,7 @@
     "output": {
       "image": "[[File:Rune heraldic helm (Skull).png|link=Rune heraldic helm (Skull)]]",
       "name": "Rune heraldic helm (Skull)",
+      "outputnote": "Players must be [[skull (status)|skulled]] when asking [[Sir Renitee]] to set a skull as their crest.",
       "quantity": "1"
     },
     "skills": [
@@ -53343,16 +53693,13 @@
       {
         "name": "Rune kiteshield",
         "quantity": "1"
-      },
-      {
-        "name": "Grey toy horsey",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Rune kiteshield (Horse).png|link=Rune kiteshield (Horse)]]",
       "name": "Rune kiteshield (Horse)",
+      "outputnote": "A [[toy horsey]] must be shown to [[Sir Renitee]] to set the horse as the player's crest.",
       "quantity": "1"
     },
     "skills": [
@@ -53539,6 +53886,7 @@
     "output": {
       "image": "[[File:Rune kiteshield (Skull).png|link=Rune kiteshield (Skull)]]",
       "name": "Rune kiteshield (Skull)",
+      "outputnote": "Players must be [[skull (status)|skulled]] when asking [[Sir Renitee]] to set a skull as their crest.",
       "quantity": "1"
     },
     "skills": [
@@ -60746,6 +61094,57 @@
     "tools": "Pestle and mortar"
   },
   {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of earth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of air.png|link=Staff of air]]",
+      "name": "Staff of air",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of fire",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of air.png|link=Staff of air]]",
+      "name": "Staff of air",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of water",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of air.png|link=Staff of air]]",
+      "name": "Staff of air",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Juna",
     "materials": [
       {
@@ -60767,6 +61166,108 @@
     "ticks": ""
   },
   {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of air",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of earth.png|link=Staff of earth]]",
+      "name": "Staff of earth",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of fire",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of earth.png|link=Staff of earth]]",
+      "name": "Staff of earth",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of water",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of earth.png|link=Staff of earth]]",
+      "name": "Staff of earth",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of air",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of fire.png|link=Staff of fire]]",
+      "name": "Staff of fire",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of earth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of fire.png|link=Staff of fire]]",
+      "name": "Staff of fire",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of water",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of fire.png|link=Staff of fire]]",
+      "name": "Staff of fire",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "name": "Staff of the dead",
@@ -60781,6 +61282,57 @@
     "output": {
       "image": "[[File:Staff of light.png|link=Staff of light]]",
       "name": "Staff of light",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of air",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of water.png|link=Staff of water]]",
+      "name": "Staff of water",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of earth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of water.png|link=Staff of water]]",
+      "name": "Staff of water",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Staff of fire",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Staff of water.png|link=Staff of water]]",
+      "name": "Staff of water",
       "quantity": "1"
     },
     "skills": [],
@@ -62044,16 +62596,13 @@
       {
         "name": "Steel full helm",
         "quantity": "1"
-      },
-      {
-        "name": "Grey toy horsey",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Steel heraldic helm (Horse).png|link=Steel heraldic helm (Horse)]]",
       "name": "Steel heraldic helm (Horse)",
+      "outputnote": "A [[toy horsey]] must be shown to [[Sir Renitee]] to set the horse as the player's crest.",
       "quantity": "1"
     },
     "skills": [
@@ -62240,6 +62789,7 @@
     "output": {
       "image": "[[File:Steel heraldic helm (Skull).png|link=Steel heraldic helm (Skull)]]",
       "name": "Steel heraldic helm (Skull)",
+      "outputnote": "Players must be [[skull (status)|skulled]] when asking [[Sir Renitee]] to set a skull as their crest.",
       "quantity": "1"
     },
     "skills": [
@@ -62623,16 +63173,13 @@
       {
         "name": "Steel kiteshield",
         "quantity": "1"
-      },
-      {
-        "name": "Grey toy horsey",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Steel kiteshield (Horse).png|link=Steel kiteshield (Horse)]]",
       "name": "Steel kiteshield (Horse)",
+      "outputnote": "A [[toy horsey]] must be shown to [[Sir Renitee]] to set the horse as the player's crest.",
       "quantity": "1"
     },
     "skills": [
@@ -62819,6 +63366,7 @@
     "output": {
       "image": "[[File:Steel kiteshield (Skull).png|link=Steel kiteshield (Skull)]]",
       "name": "Steel kiteshield (Skull)",
+      "outputnote": "Players must be [[skull (status)|skulled]] when asking [[Sir Renitee]] to set a skull as their crest.",
       "quantity": "1"
     },
     "skills": [
@@ -63456,7 +64004,8 @@
     "output": {
       "image": "[[File:Strength potion(4).png|link=Strength potion(4)]]",
       "name": "Strength potion(4)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Apothecary"
     },
     "skills": [],
     "ticks": "0"
@@ -68879,6 +69428,69 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Air battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Water rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Water battlestaff.png|link=Water battlestaff]]",
+      "name": "Water battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Earth battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Water rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Water battlestaff.png|link=Water battlestaff]]",
+      "name": "Water battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Crystal ball space",
+    "materials": [
+      {
+        "name": "Fire battlestaff",
+        "quantity": "1"
+      },
+      {
+        "name": "Water rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Water battlestaff.png|link=Water battlestaff]]",
+      "name": "Water battlestaff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Obelisk of Water",
