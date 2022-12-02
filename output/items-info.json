@@ -112360,6 +112360,316 @@
     "version": "Locked"
   },
   {
+    "examineText": "According to the inside cover, this is the journal of someone called Kasonde Shaw.",
+    "group": "Kasonde's journal",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27511,
+    "name": "Kasonde's journal",
+    "url": "https://oldschool.runescape.wiki/w/Kasonde%27s_journal",
+    "version": ""
+  },
+  {
+    "examineText": "A list of translations.",
+    "group": "Word translations",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27513,
+    "name": "Word translations",
+    "url": "https://oldschool.runescape.wiki/w/Word_translations",
+    "version": ""
+  },
+  {
+    "examineText": "A dirty note found in a ruin south east of Mount Quidamortem.",
+    "group": "Dirty note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27515,
+    "name": "Dirty note",
+    "url": "https://oldschool.runescape.wiki/w/Dirty_note",
+    "version": "Mount Quidamortem"
+  },
+  {
+    "examineText": "A dirty note found in a ruin beneath Lake Molch Island.",
+    "group": "Dirty note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27516,
+    "name": "Dirty note",
+    "url": "https://oldschool.runescape.wiki/w/Dirty_note",
+    "version": "Lake Molch Island"
+  },
+  {
+    "examineText": "A dirty note found in a ruin beneath the Ruins of Morra.",
+    "group": "Dirty note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27517,
+    "name": "Dirty note",
+    "url": "https://oldschool.runescape.wiki/w/Dirty_note",
+    "version": "Ruins of Morra"
+  },
+  {
+    "examineText": "An ominous warning found in a ruin beneath the Ruins of Morra.",
+    "group": "Warning note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27518,
+    "name": "Warning note",
+    "url": "https://oldschool.runescape.wiki/w/Warning_note",
+    "version": ""
+  },
+  {
+    "examineText": "An ancient tablet found in a ruin south east of Mount Quidamortem.",
+    "group": "Stone tablet (The Garden of Death)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27519,
+    "name": "Stone tablet",
+    "url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Garden_of_Death)",
+    "version": "Mount Quidamortem"
+  },
+  {
+    "examineText": "An ancient tablet found in a ruin beneath Lake Molch Island.",
+    "group": "Stone tablet (The Garden of Death)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27520,
+    "name": "Stone tablet",
+    "url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Garden_of_Death)",
+    "version": "Lake Molch Island"
+  },
+  {
+    "examineText": "An ancient tablet found in a ruin beneath Kebos Swamp.",
+    "group": "Stone tablet (The Garden of Death)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27521,
+    "name": "Stone tablet",
+    "url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Garden_of_Death)",
+    "version": "Kebos Swamp"
+  },
+  {
+    "examineText": "An ancient tablet found in a ruin beneath the Ruins of Morra.",
+    "group": "Stone tablet (The Garden of Death)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27522,
+    "name": "Stone tablet",
+    "url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Garden_of_Death)",
+    "version": "Ruins of Morra"
+  },
+  {
+    "examineText": "A wood carving found in a ruin south east of Mount Quidamortem.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27523,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Mount Quidamortem 1"
+  },
+  {
+    "examineText": "A wood carving found in a ruin south east of Mount Quidamortem.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27524,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Mount Quidamortem 2"
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath Lake Molch Island.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27525,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Lake Molch Island 1"
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath Lake Molch Island.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27526,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Lake Molch Island 2"
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath Lake Molch Island.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27527,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Lake Molch Island 3"
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath Kebos Swamp.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27528,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Kebos Swamp 1"
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath Kebos Swamp.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27529,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Kebos Swamp 2"
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath Kebos Swamp.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27530,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Kebos Swamp 3"
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath Kebos Swamp.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27531,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Kebos Swamp 4"
+  },
+  {
+    "examineText": "An ancient compass.",
+    "group": "Compass (The Garden of Death)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27532,
+    "name": "Compass",
+    "url": "https://oldschool.runescape.wiki/w/Compass_(The_Garden_of_Death)",
+    "version": ""
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath the Ruins of Morra.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27533,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Ruins of Morra 1"
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath the Ruins of Morra.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27534,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Ruins of Morra 2"
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath the Ruins of Morra.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27535,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Ruins of Morra 3"
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath the Ruins of Morra.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27536,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Ruins of Morra 4"
+  },
+  {
+    "examineText": "A wood carving found in a ruin beneath the Ruins of Morra.",
+    "group": "Wood carving",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27537,
+    "name": "Wood carving",
+    "url": "https://oldschool.runescape.wiki/w/Wood_carving",
+    "version": "Ruins of Morra 5"
+  },
+  {
+    "examineText": "Good for rubbing.",
+    "group": "Antique lamp (Legends' Quest)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27543,
+    "name": "Antique lamp",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_(Legends%27_Quest)",
+    "version": ""
+  },
+  {
+    "examineText": "I'm sure he won't mind me borrowing this...",
+    "group": "Ghommal's lucky penny",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27544,
+    "name": "Ghommal's lucky penny",
+    "url": "https://oldschool.runescape.wiki/w/Ghommal%27s_lucky_penny",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Ghommal's avernic defender 5",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27550,
+    "name": "Ghommal's avernic defender 5",
+    "url": "https://oldschool.runescape.wiki/w/Ghommal%27s_avernic_defender_5",
+    "version": "Normal"
+  },
+  {
+    "examineText": "",
+    "group": "Ghommal's avernic defender 5",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27551,
+    "name": "Ghommal's avernic defender 5 (l)",
+    "url": "https://oldschool.runescape.wiki/w/Ghommal%27s_avernic_defender_5",
+    "version": "Locked"
+  },
+  {
+    "examineText": "",
+    "group": "Ghommal's avernic defender 6",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27552,
+    "name": "Ghommal's avernic defender 6",
+    "url": "https://oldschool.runescape.wiki/w/Ghommal%27s_avernic_defender_6",
+    "version": "Normal"
+  },
+  {
+    "examineText": "",
+    "group": "Ghommal's avernic defender 6",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27553,
+    "name": "Ghommal's avernic defender 6 (l)",
+    "url": "https://oldschool.runescape.wiki/w/Ghommal%27s_avernic_defender_6",
+    "version": "Locked"
+  },
+  {
     "examineText": "A spooky wig!",
     "group": "Halloween wig",
     "isMembers": false,
