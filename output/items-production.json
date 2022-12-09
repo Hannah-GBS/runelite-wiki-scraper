@@ -4428,10 +4428,54 @@
     "output": {
       "image": "[[File:Archers ring (i).png|link=Archers ring (i)]]",
       "name": "Archers ring (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Archers ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "260"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Archers ring (i).png|link=Archers ring (i)]]",
+      "name": "Archers ring (i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Archers ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Archers ring (i).png|link=Archers ring (i)]]",
+      "name": "Archers ring (i)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Altar (Catacombs of Kourend)",
@@ -7205,10 +7249,54 @@
     "output": {
       "image": "[[File:Berserker ring (i).png|link=Berserker ring (i)]]",
       "name": "Berserker ring (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Berserker ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "260"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Berserker ring (i).png|link=Berserker ring (i)]]",
+      "name": "Berserker ring (i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Berserker ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Berserker ring (i).png|link=Berserker ring (i)]]",
+      "name": "Berserker ring (i)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Bone grinder",
@@ -7873,10 +7961,54 @@
     "output": {
       "image": "[[File:Black mask (i).png|link=Black mask (i)]]",
       "name": "Black mask (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Black mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "500"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black mask (i).png|link=Black mask (i)]]",
+      "name": "Black mask (i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black mask (i).png|link=Black mask (i)]]",
+      "name": "Black mask (i)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -7903,6 +8035,47 @@
         "name": "Crafting"
       }
     ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Kbd heads",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black slayer helmet.png|link=Black slayer helmet]]",
+      "name": "Black slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      },
+      {
+        "name": "Kbd heads",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black slayer helmet (i).png|link=Black slayer helmet (i)]]",
+      "name": "Black slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Crafting"
+    },
+    "skills": [],
     "ticks": "0"
   },
   {
@@ -7972,7 +8145,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">131,631,805</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">125,065,280</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10291,7 +10464,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">128,655,941</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">123,042,526</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14339,7 +14512,7 @@
     "ticks": "0"
   },
   {
-    "facilities": "Runic altar|Any catalytic runic altar",
+    "facilities": "Runic altar|Catalytic runic altar",
     "materials": [
       {
         "name": "Gold tiara",
@@ -22010,7 +22183,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
   },
   {
     "materials": [
@@ -22030,7 +22203,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
   },
   {
     "materials": [
@@ -25463,6 +25636,10 @@
       {
         "name": "Monkey dentures",
         "quantity": "1"
+      },
+      {
+        "name": "M'amulet mould",
+        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -25473,7 +25650,7 @@
     },
     "skills": [],
     "ticks": "",
-    "tools": "M'amulet mould"
+    "tools": ""
   },
   {
     "facilities": "Cauldron of Thunder",
@@ -28887,10 +29064,54 @@
     "output": {
       "image": "[[File:Granite ring (i).png|link=Granite ring (i)]]",
       "name": "Granite ring (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Granite ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "200"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Granite ring (i).png|link=Granite ring (i)]]",
+      "name": "Granite ring (i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Granite ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Granite ring (i).png|link=Granite ring (i)]]",
+      "name": "Granite ring (i)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -29375,6 +29596,47 @@
       "image": "[[File:Green logs.png|link=Green logs]]",
       "name": "Green logs",
       "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Kq head",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Green slayer helmet.png|link=Green slayer helmet]]",
+      "name": "Green slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      },
+      {
+        "name": "Kq head",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Green slayer helmet (i).png|link=Green slayer helmet (i)]]",
+      "name": "Green slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Crafting"
     },
     "skills": [],
     "ticks": "0"
@@ -32282,6 +32544,47 @@
     "ticks": ""
   },
   {
+    "materials": [
+      {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Alchemical hydra heads",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hydra slayer helmet.png|link=Hydra slayer helmet]]",
+      "name": "Hydra slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      },
+      {
+        "name": "Alchemical hydra heads",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hydra slayer helmet (i).png|link=Hydra slayer helmet (i)]]",
+      "name": "Hydra slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Crafting"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Dark Mage",
     "materials": [
       {
@@ -32876,7 +33179,7 @@
         "quantity": "1"
       },
       {
-        "name": "Crystal dust",
+        "name": "Crystal dust (Song of the Elves)",
         "quantity": "1"
       }
     ],
@@ -37111,6 +37414,7 @@
     "output": {
       "image": "[[File:Lunar boots.png|link=Lunar boots]]",
       "name": "Lunar boots",
+      "outputnote": "The lunar boots require a visible Crafting level of 52 to make, although level 61 is required to start the quest.",
       "quantity": "1"
     },
     "skills": [
@@ -37139,6 +37443,7 @@
     "output": {
       "image": "[[File:Lunar gloves.png|link=Lunar gloves]]",
       "name": "Lunar gloves",
+      "outputnote": "The lunar gloves require a visible Crafting level of 52 to make, although level 61 is required to start the quest.",
       "quantity": "1"
     },
     "skills": [
@@ -37192,6 +37497,7 @@
     "output": {
       "image": "[[File:Lunar legs.png|link=Lunar legs]]",
       "name": "Lunar legs",
+      "outputnote": "The lunar legs require a visible Crafting level of 59 to make, although level 61 is required to start the quest.",
       "quantity": "1"
     },
     "skills": [
@@ -49372,6 +49678,47 @@
   {
     "materials": [
       {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Dark claw",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Purple slayer helmet.png|link=Purple slayer helmet]]",
+      "name": "Purple slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      },
+      {
+        "name": "Dark claw",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Purple slayer helmet (i).png|link=Purple slayer helmet (i)]]",
+      "name": "Purple slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Crafting"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Logs",
         "quantity": "1"
       },
@@ -49492,7 +49839,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "3"
   },
   {
     "facilities": "Cooking range",
@@ -50665,6 +51012,47 @@
   {
     "materials": [
       {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Abyssal head",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Red slayer helmet.png|link=Red slayer helmet]]",
+      "name": "Red slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      },
+      {
+        "name": "Abyssal head",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Red slayer helmet (i).png|link=Red slayer helmet (i)]]",
+      "name": "Red slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Crafting"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Kebbit claws",
         "quantity": "1"
       },
@@ -51590,10 +51978,54 @@
     "output": {
       "image": "[[File:Ring of suffering (i).png|link=Ring of suffering (i)]]",
       "name": "Ring of suffering (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Ring of suffering",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "300"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ring of suffering (i).png|link=Ring of suffering (i)]]",
+      "name": "Ring of suffering (i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ring of suffering",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ring of suffering (i).png|link=Ring of suffering (i)]]",
+      "name": "Ring of suffering (i)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Dom Onion's Reward Shop",
@@ -51612,10 +52044,10 @@
       "image": "[[File:Ring of the gods (i).png|link=Ring of the gods (i)]]",
       "name": "Ring of the gods (i)",
       "quantity": "1",
-      "subtxt": "NMZ"
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "1",
     "tools": "Holy wrench"
   },
   {
@@ -51638,7 +52070,7 @@
       "subtxt": "Soul Wars"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "1",
     "tools": "Holy wrench"
   },
   {
@@ -51657,10 +52089,10 @@
       "image": "[[File:Ring of the gods (i).png|link=Ring of the gods (i)]]",
       "name": "Ring of the gods (i)",
       "quantity": "1",
-      "subtxt": "Scroll of imbuing"
+      "subtxt": "Emir's Arena"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "1",
     "tools": "Holy wrench"
   },
   {
@@ -55002,7 +55434,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "1",
     "tools": "Tarn's diary"
   },
   {
@@ -55021,10 +55453,54 @@
     "output": {
       "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
       "name": "Salve amulet(ei)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Salve amulet (e)",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "320"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
+      "name": "Salve amulet(ei)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Salve amulet (e)",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
+      "name": "Salve amulet(ei)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Dom Onion's Reward Shop",
@@ -55042,10 +55518,56 @@
     "output": {
       "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
       "name": "Salve amulet(ei)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Total - Nightmare Zone"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "Varies",
+    "tools": "Tarn's diary"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Salve amulet",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "320"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
+      "name": "Salve amulet(ei)",
+      "quantity": "1",
+      "subtxt": "Total - Soul Wars"
+    },
+    "skills": [],
+    "ticks": "Varies",
+    "tools": "Tarn's diary"
+  },
+  {
+    "materials": [
+      {
+        "name": "Salve amulet",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
+      "name": "Salve amulet(ei)",
+      "quantity": "1",
+      "subtxt": "Total - Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "Varies",
     "tools": "Tarn's diary"
   },
   {
@@ -55064,10 +55586,54 @@
     "output": {
       "image": "[[File:Salve amulet(i).png|link=Salve amulet(i)]]",
       "name": "Salve amulet(i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Salve amulet",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "320"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet(i).png|link=Salve amulet(i)]]",
+      "name": "Salve amulet(i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Salve amulet",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet(i).png|link=Salve amulet(i)]]",
+      "name": "Salve amulet(i)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Lectern (Arceuus)",
@@ -56044,10 +56610,54 @@
     "output": {
       "image": "[[File:Seers ring (i).png|link=Seers ring (i)]]",
       "name": "Seers ring (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Seers ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "260"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Seers ring (i).png|link=Seers ring (i)]]",
+      "name": "Seers ring (i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Seers ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Seers ring (i).png|link=Seers ring (i)]]",
+      "name": "Seers ring (i)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Lectern (Ancient)",
@@ -58441,10 +59051,54 @@
     "output": {
       "image": "[[File:Slayer helmet (i).png|link=Slayer helmet (i)]]",
       "name": "Slayer helmet (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "500"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Slayer helmet (i).png|link=Slayer helmet (i)]]",
+      "name": "Slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Slayer helmet (i).png|link=Slayer helmet (i)]]",
+      "name": "Slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -58481,7 +59135,8 @@
     "output": {
       "image": "[[File:Slayer helmet (i).png|link=Slayer helmet (i)]]",
       "name": "Slayer helmet (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Crafting"
     },
     "skills": [
       {
@@ -58492,6 +59147,164 @@
       }
     ],
     "ticks": "0"
+  },
+  {
+    "facilities": "Dom Onion's Reward Shop",
+    "materials": [
+      {
+        "name": "Black mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Earmuffs",
+        "quantity": "1"
+      },
+      {
+        "name": "Facemask",
+        "quantity": "1"
+      },
+      {
+        "name": "Nose peg",
+        "quantity": "1"
+      },
+      {
+        "name": "Spiny helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Enchanted gem",
+        "quantity": "1"
+      },
+      {
+        "name": "Reinforced goggles",
+        "quantity": "1"
+      },
+      {
+        "name": "Nightmare Zone points",
+        "quantity": "1250000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Slayer helmet (i).png|link=Slayer helmet (i)]]",
+      "name": "Slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Total - Nightmare Zone"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "0",
+        "level": "55",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Black mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Earmuffs",
+        "quantity": "1"
+      },
+      {
+        "name": "Facemask",
+        "quantity": "1"
+      },
+      {
+        "name": "Nose peg",
+        "quantity": "1"
+      },
+      {
+        "name": "Spiny helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Enchanted gem",
+        "quantity": "1"
+      },
+      {
+        "name": "Reinforced goggles",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "500"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Slayer helmet (i).png|link=Slayer helmet (i)]]",
+      "name": "Slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Total - Soul Wars"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "0",
+        "level": "55",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Earmuffs",
+        "quantity": "1"
+      },
+      {
+        "name": "Facemask",
+        "quantity": "1"
+      },
+      {
+        "name": "Nose peg",
+        "quantity": "1"
+      },
+      {
+        "name": "Spiny helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Enchanted gem",
+        "quantity": "1"
+      },
+      {
+        "name": "Reinforced goggles",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Slayer helmet (i).png|link=Slayer helmet (i)]]",
+      "name": "Slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Total - Emir's Arena"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "0",
+        "level": "55",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Furnace",
@@ -64441,6 +65254,195 @@
     "ticks": "3"
   },
   {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Abyssal head",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "12000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed abyssal head.png|link=Stuffed abyssal head]]",
+      "name": "Stuffed abyssal head",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Basilisk head",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "4000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed basilisk head.png|link=Stuffed basilisk head]]",
+      "name": "Stuffed basilisk head",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Cockatrice head",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "2000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed cockatrice head.png|link=Stuffed cockatrice head]]",
+      "name": "Stuffed cockatrice head",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Crawling hand (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed crawling hand.png|link=Stuffed crawling hand]]",
+      "name": "Stuffed crawling hand",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Alchemical hydra heads",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "50000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed hydra heads.png|link=Stuffed hydra heads]]",
+      "name": "Stuffed hydra heads",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Kbd heads",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "50000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed kbd heads.png|link=Stuffed kbd heads]]",
+      "name": "Stuffed kbd heads",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Kq head",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "50000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed kq head.png|link=Stuffed kq head]]",
+      "name": "Stuffed kq head",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Kq head (tattered)",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "50000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed kq head (tattered).png|link=Stuffed kq head (tattered)]]",
+      "name": "Stuffed kq head (tattered)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Kurask head",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "6000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed kurask head.png|link=Stuffed kurask head]]",
+      "name": "Stuffed kurask head",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Rock (snake cooker)",
     "materials": [
       {
@@ -66939,10 +67941,54 @@
     "output": {
       "image": "[[File:Treasonous ring (i).png|link=Treasonous ring (i)]]",
       "name": "Treasonous ring (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Treasonous ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "260"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Treasonous ring (i).png|link=Treasonous ring (i)]]",
+      "name": "Treasonous ring (i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Treasonous ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Treasonous ring (i).png|link=Treasonous ring (i)]]",
+      "name": "Treasonous ring (i)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -67215,6 +68261,47 @@
   {
     "materials": [
       {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Vorkath's head",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Turquoise slayer helmet.png|link=Turquoise slayer helmet]]",
+      "name": "Turquoise slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      },
+      {
+        "name": "Vorkath's head",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Turquoise slayer helmet (i).png|link=Turquoise slayer helmet (i)]]",
+      "name": "Turquoise slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Crafting"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Water-filled gourd vial",
         "quantity": "1"
       },
@@ -67366,6 +68453,47 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted horns",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Twisted slayer helmet.png|link=Twisted slayer helmet]]",
+      "name": "Twisted slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted horns",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Twisted slayer helmet (i).png|link=Twisted slayer helmet (i)]]",
+      "name": "Twisted slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Crafting"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Dom Onion's Reward Shop",
     "materials": [
       {
@@ -67381,10 +68509,54 @@
     "output": {
       "image": "[[File:Tyrannical ring (i).png|link=Tyrannical ring (i)]]",
       "name": "Tyrannical ring (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Tyrannical ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "260"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tyrannical ring (i).png|link=Tyrannical ring (i)]]",
+      "name": "Tyrannical ring (i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Tyrannical ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tyrannical ring (i).png|link=Tyrannical ring (i)]]",
+      "name": "Tyrannical ring (i)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -67405,6 +68577,76 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "facilities": "Ghommal",
+    "materials": [
+      {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tzkal slayer helmet.png|link=Tzkal slayer helmet]]",
+      "name": "Tzkal slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Ghommal",
+    "materials": [
+      {
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tzkal slayer helmet (i).png|link=Tzkal slayer helmet (i)]]",
+      "name": "Tzkal slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Crafting"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Ghommal",
+    "materials": [
+      {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tztok slayer helmet.png|link=Tztok slayer helmet]]",
+      "name": "Tztok slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Ghommal",
+    "materials": [
+      {
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tztok slayer helmet (i).png|link=Tztok slayer helmet (i)]]",
+      "name": "Tztok slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Crafting"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -69090,6 +70332,41 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Ghommal",
+    "materials": [
+      {
+        "name": "Slayer helmet",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vampyric slayer helmet.png|link=Vampyric slayer helmet]]",
+      "name": "Vampyric slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Ghommal",
+    "materials": [
+      {
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vampyric slayer helmet (i).png|link=Vampyric slayer helmet (i)]]",
+      "name": "Vampyric slayer helmet (i)",
+      "quantity": "1",
+      "subtxt": "Crafting"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Oak lectern",
     "materials": [
       {
@@ -69562,6 +70839,27 @@
     "ticks": "0"
   },
   {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Vorkath's head",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "50000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vorkath's stuffed head.png|link=Vorkath's stuffed head]]",
+      "name": "Vorkath's stuffed head",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Ground tooth",
@@ -69604,10 +70902,54 @@
     "output": {
       "image": "[[File:Warrior ring (i).png|link=Warrior ring (i)]]",
       "name": "Warrior ring (i)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Warrior ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "260"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Warrior ring (i).png|link=Warrior ring (i)]]",
+      "name": "Warrior ring (i)",
+      "quantity": "1",
+      "subtxt": "Soul Wars"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Warrior ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Warrior ring (i).png|link=Warrior ring (i)]]",
+      "name": "Warrior ring (i)",
+      "quantity": "1",
+      "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Crafting table 4",
