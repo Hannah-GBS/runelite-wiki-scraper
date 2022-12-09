@@ -112630,7 +112630,27 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "How did you get this?",
+    "group": "Anim offhand",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27546,
+    "name": "Anim offhand",
+    "url": "https://oldschool.runescape.wiki/w/Anim_offhand",
+    "version": "Avernic 5"
+  },
+  {
+    "examineText": "How did you get this?",
+    "group": "Anim offhand",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27548,
+    "name": "Anim offhand",
+    "url": "https://oldschool.runescape.wiki/w/Anim_offhand",
+    "version": "Avernic 6"
+  },
+  {
+    "examineText": "A defensive weapon with sublime ornamentation.",
     "group": "Ghommal's avernic defender 5",
     "isMembers": true,
     "isTradeable": false,
@@ -112640,7 +112660,7 @@
     "version": "Normal"
   },
   {
-    "examineText": "",
+    "examineText": "A defensive weapon with sublime ornamentation.",
     "group": "Ghommal's avernic defender 5",
     "isMembers": true,
     "isTradeable": false,
@@ -112650,7 +112670,7 @@
     "version": "Locked"
   },
   {
-    "examineText": "",
+    "examineText": "A defensive weapon with prestigious ornamentation.",
     "group": "Ghommal's avernic defender 6",
     "isMembers": true,
     "isTradeable": false,
@@ -112660,7 +112680,7 @@
     "version": "Normal"
   },
   {
-    "examineText": "",
+    "examineText": "A defensive weapon with prestigious ornamentation.",
     "group": "Ghommal's avernic defender 6",
     "isMembers": true,
     "isTradeable": false,
