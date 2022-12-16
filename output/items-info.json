@@ -112690,6 +112690,256 @@
     "version": "Locked"
   },
   {
+    "examineText": "A perfectly formed gingerbread.",
+    "group": "Perfect gingerbread",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27554,
+    "name": "Perfect gingerbread",
+    "url": "https://oldschool.runescape.wiki/w/Perfect_gingerbread",
+    "version": ""
+  },
+  {
+    "examineText": "A legless gingerbread.",
+    "group": "Broken gingerbread",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27555,
+    "name": "Broken gingerbread",
+    "url": "https://oldschool.runescape.wiki/w/Broken_gingerbread",
+    "version": ""
+  },
+  {
+    "examineText": "A headless gingerbread.",
+    "group": "Very broken gingerbread",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27556,
+    "name": "Very broken gingerbread",
+    "url": "https://oldschool.runescape.wiki/w/Very_broken_gingerbread",
+    "version": ""
+  },
+  {
+    "examineText": "Looks like someone has stepped on it.",
+    "group": "Shattered gingerbread",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27557,
+    "name": "Shattered gingerbread",
+    "url": "https://oldschool.runescape.wiki/w/Shattered_gingerbread",
+    "version": ""
+  },
+  {
+    "examineText": "Better not fill this to the brim or I might be on the naughty list.",
+    "group": "Sack of coal",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27558,
+    "name": "Sack of coal",
+    "url": "https://oldschool.runescape.wiki/w/Sack_of_coal",
+    "version": "Event"
+  },
+  {
+    "examineText": "Throw it.",
+    "group": "Snowball (2022 Christmas event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27559,
+    "name": "Snowball",
+    "url": "https://oldschool.runescape.wiki/w/Snowball_(2022_Christmas_event)",
+    "version": ""
+  },
+  {
+    "examineText": "Look's like it does alot of damage. Very yellow though.",
+    "group": "Golden snowball",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27560,
+    "name": "Golden snowball",
+    "url": "https://oldschool.runescape.wiki/w/Golden_snowball",
+    "version": ""
+  },
+  {
+    "examineText": "An ice cold glass of beer, without the side effects.",
+    "group": "Light beer",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27561,
+    "name": "Light beer",
+    "url": "https://oldschool.runescape.wiki/w/Light_beer",
+    "version": ""
+  },
+  {
+    "examineText": "Smells like a winter forest.",
+    "group": "Mulled pine",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27562,
+    "name": "Mulled pine",
+    "url": "https://oldschool.runescape.wiki/w/Mulled_pine",
+    "version": ""
+  },
+  {
+    "examineText": "A sweet treat.",
+    "group": "Eggnog",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27563,
+    "name": "Eggnog",
+    "url": "https://oldschool.runescape.wiki/w/Eggnog",
+    "version": ""
+  },
+  {
+    "examineText": "Be sure to check it twice.",
+    "group": "Santa's list",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27564,
+    "name": "Santa's list",
+    "url": "https://oldschool.runescape.wiki/w/Santa%27s_list",
+    "version": ""
+  },
+  {
+    "examineText": "Looks very cosy!",
+    "group": "Christmas jumper",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27566,
+    "name": "Christmas jumper",
+    "url": "https://oldschool.runescape.wiki/w/Christmas_jumper",
+    "version": ""
+  },
+  {
+    "examineText": "Festive, functional, and fashionable!",
+    "group": "Snow goggles & hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27568,
+    "name": "Snow goggles & hat",
+    "url": "https://oldschool.runescape.wiki/w/Snow_goggles_%26_hat",
+    "version": ""
+  },
+  {
+    "examineText": "Better not fill this to the brim or I might be on the naughty list.",
+    "group": "Sack of coal",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27570,
+    "name": "Sack of coal",
+    "url": "https://oldschool.runescape.wiki/w/Sack_of_coal",
+    "version": "Reward"
+  },
+  {
+    "examineText": "A festive nutcracker top.",
+    "group": "Nutcracker top",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27572,
+    "name": "Festive nutcracker top",
+    "url": "https://oldschool.runescape.wiki/w/Nutcracker_top",
+    "version": "Festive"
+  },
+  {
+    "examineText": "Some festive nutcracker trousers.",
+    "group": "Nutcracker trousers",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27574,
+    "name": "Festive nutcracker trousers",
+    "url": "https://oldschool.runescape.wiki/w/Nutcracker_trousers",
+    "version": "Festive"
+  },
+  {
+    "examineText": "A festive nutcracker hat.",
+    "group": "Nutcracker hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27576,
+    "name": "Festive nutcracker hat",
+    "url": "https://oldschool.runescape.wiki/w/Nutcracker_hat",
+    "version": "Festive"
+  },
+  {
+    "examineText": "Some festive nutcracker boots.",
+    "group": "Nutcracker boots",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27578,
+    "name": "Festive nutcracker boots",
+    "url": "https://oldschool.runescape.wiki/w/Nutcracker_boots",
+    "version": "Festive"
+  },
+  {
+    "examineText": "A festive nutcracker staff.",
+    "group": "Nutcracker staff",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27580,
+    "name": "Festive nutcracker staff",
+    "url": "https://oldschool.runescape.wiki/w/Nutcracker_staff",
+    "version": "Festive"
+  },
+  {
+    "examineText": "A sweet-themed nutcracker top.",
+    "group": "Nutcracker top",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27582,
+    "name": "Sweet nutcracker top",
+    "url": "https://oldschool.runescape.wiki/w/Nutcracker_top",
+    "version": "Sweet"
+  },
+  {
+    "examineText": "Some sweet-themed nutcracker trousers.",
+    "group": "Nutcracker trousers",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27583,
+    "name": "Sweet nutcracker trousers",
+    "url": "https://oldschool.runescape.wiki/w/Nutcracker_trousers",
+    "version": "Sweet"
+  },
+  {
+    "examineText": "A sweet-themed nutcracker hat.",
+    "group": "Nutcracker hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27584,
+    "name": "Sweet nutcracker hat",
+    "url": "https://oldschool.runescape.wiki/w/Nutcracker_hat",
+    "version": "Sweet"
+  },
+  {
+    "examineText": "Some sweet-themed nutcracker boots.",
+    "group": "Nutcracker boots",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27585,
+    "name": "Sweet nutcracker boots",
+    "url": "https://oldschool.runescape.wiki/w/Nutcracker_boots",
+    "version": "Sweet"
+  },
+  {
+    "examineText": "A sweet-themed nutcracker staff. Yum.",
+    "group": "Nutcracker staff",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27586,
+    "name": "Sweet nutcracker staff",
+    "url": "https://oldschool.runescape.wiki/w/Nutcracker_staff",
+    "version": "Sweet"
+  },
+  {
+    "examineText": "Awarded to those with the most Christmas spirit.",
+    "group": "Festive games crown",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27588,
+    "name": "Festive games crown",
+    "url": "https://oldschool.runescape.wiki/w/Festive_games_crown",
+    "version": ""
+  },
+  {
     "examineText": "A spooky wig!",
     "group": "Halloween wig",
     "isMembers": false,
