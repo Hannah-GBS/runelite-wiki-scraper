@@ -570,7 +570,7 @@
     "version": ""
   },
   {
-    "examineText": "These keys open the cells at the Khazard fight arena.",
+    "examineText": "These keys open the cells at the Khazard fight arena (Used in the Fight Arena quest).",
     "group": "Khazard cell keys",
     "isMembers": true,
     "isTradeable": false,
@@ -14310,7 +14310,7 @@
     "version": "Normal"
   },
   {
-    "examineText": "Scroll containing a powerful enchantment of restoration.",
+    "examineText": "A scroll containing a powerful enchantment of restoration.",
     "group": "Hazeel scroll",
     "isMembers": true,
     "isTradeable": false,
@@ -14320,7 +14320,7 @@
     "version": ""
   },
   {
-    "examineText": "This key opens a chest in the Carnillean household (Used in the Hazeel Cult quest).",
+    "examineText": "A key found in the Carnillean Mansion (Used in the Hazeel Cult quest).",
     "group": "Chest key (Hazeel Cult)",
     "isMembers": true,
     "isTradeable": false,
@@ -14330,7 +14330,7 @@
     "version": ""
   },
   {
-    "examineText": "Decorative armour; an heirloom of the Carnillean family.",
+    "examineText": "An heirloom of the Carnillean family.",
     "group": "Carnillean armour",
     "isMembers": true,
     "isTradeable": false,
@@ -14340,7 +14340,7 @@
     "version": ""
   },
   {
-    "examineText": "A sign of my commitment to Hazeel.",
+    "examineText": "A sign of commitment to Hazeel.",
     "group": "Hazeel's mark",
     "isMembers": true,
     "isTradeable": false,
@@ -26771,12 +26771,12 @@
   },
   {
     "examineText": "A silver pot made by Ruantun.",
-    "group": "Silver pot (Desert Treasure)",
+    "group": "Silver pot (Desert Treasure I)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 4658,
     "name": "Silver pot",
-    "url": "https://oldschool.runescape.wiki/w/Silver_pot_(Desert_Treasure)",
+    "url": "https://oldschool.runescape.wiki/w/Silver_pot_(Desert_Treasure_I)",
     "version": "Empty"
   },
   {
@@ -26791,12 +26791,12 @@
   },
   {
     "examineText": "A silver pot made by Ruantun filled with your blood.",
-    "group": "Silver pot (Desert Treasure)",
+    "group": "Silver pot (Desert Treasure I)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 4660,
     "name": "Silver pot",
-    "url": "https://oldschool.runescape.wiki/w/Silver_pot_(Desert_Treasure)",
+    "url": "https://oldschool.runescape.wiki/w/Silver_pot_(Desert_Treasure_I)",
     "version": "Blood"
   },
   {
@@ -26811,12 +26811,12 @@
   },
   {
     "examineText": "A silver pot made by Ruantun filled with blood and garlic.",
-    "group": "Silver pot (Desert Treasure)",
+    "group": "Silver pot (Desert Treasure I)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 4662,
     "name": "Silver pot",
-    "url": "https://oldschool.runescape.wiki/w/Silver_pot_(Desert_Treasure)",
+    "url": "https://oldschool.runescape.wiki/w/Silver_pot_(Desert_Treasure_I)",
     "version": "Garlic"
   },
   {
@@ -26831,12 +26831,12 @@
   },
   {
     "examineText": "A silver pot made by Ruantun filled with blood, garlic and spices.",
-    "group": "Silver pot (Desert Treasure)",
+    "group": "Silver pot (Desert Treasure I)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 4664,
     "name": "Silver pot",
-    "url": "https://oldschool.runescape.wiki/w/Silver_pot_(Desert_Treasure)",
+    "url": "https://oldschool.runescape.wiki/w/Silver_pot_(Desert_Treasure_I)",
     "version": "Complete"
   },
   {
@@ -26851,12 +26851,12 @@
   },
   {
     "examineText": "A silver pot made by Ruantun filled with blood and spices.",
-    "group": "Silver pot (Desert Treasure)",
+    "group": "Silver pot (Desert Treasure I)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 4666,
     "name": "Silver pot",
-    "url": "https://oldschool.runescape.wiki/w/Silver_pot_(Desert_Treasure)",
+    "url": "https://oldschool.runescape.wiki/w/Silver_pot_(Desert_Treasure_I)",
     "version": "Spices"
   },
   {
@@ -43521,12 +43521,12 @@
   },
   {
     "examineText": "An ancient tattered scroll.",
-    "group": "Dusty scroll",
+    "group": "Dusty scroll (In Aid of the Myreque)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7629,
     "name": "Dusty scroll",
-    "url": "https://oldschool.runescape.wiki/w/Dusty_scroll",
+    "url": "https://oldschool.runescape.wiki/w/Dusty_scroll_(In_Aid_of_the_Myreque)",
     "version": ""
   },
   {
@@ -112314,6 +112314,16 @@
     "group": "Halloween wig",
     "isMembers": false,
     "isTradeable": false,
+    "itemID": 27499,
+    "name": "Halloween wig",
+    "url": "https://oldschool.runescape.wiki/w/Halloween_wig",
+    "version": "Style 2"
+  },
+  {
+    "examineText": "A spooky wig!",
+    "group": "Halloween wig",
+    "isMembers": false,
+    "isTradeable": false,
     "itemID": 27501,
     "name": "Halloween wig",
     "url": "https://oldschool.runescape.wiki/w/Halloween_wig",
@@ -112690,46 +112700,6 @@
     "version": "Locked"
   },
   {
-    "examineText": "A perfectly formed gingerbread.",
-    "group": "Perfect gingerbread",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27554,
-    "name": "Perfect gingerbread",
-    "url": "https://oldschool.runescape.wiki/w/Perfect_gingerbread",
-    "version": ""
-  },
-  {
-    "examineText": "A legless gingerbread.",
-    "group": "Broken gingerbread",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27555,
-    "name": "Broken gingerbread",
-    "url": "https://oldschool.runescape.wiki/w/Broken_gingerbread",
-    "version": ""
-  },
-  {
-    "examineText": "A headless gingerbread.",
-    "group": "Very broken gingerbread",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27556,
-    "name": "Very broken gingerbread",
-    "url": "https://oldschool.runescape.wiki/w/Very_broken_gingerbread",
-    "version": ""
-  },
-  {
-    "examineText": "Looks like someone has stepped on it.",
-    "group": "Shattered gingerbread",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27557,
-    "name": "Shattered gingerbread",
-    "url": "https://oldschool.runescape.wiki/w/Shattered_gingerbread",
-    "version": ""
-  },
-  {
     "examineText": "Better not fill this to the brim or I might be on the naughty list.",
     "group": "Sack of coal",
     "isMembers": false,
@@ -112738,56 +112708,6 @@
     "name": "Sack of coal",
     "url": "https://oldschool.runescape.wiki/w/Sack_of_coal",
     "version": "Event"
-  },
-  {
-    "examineText": "Throw it.",
-    "group": "Snowball (2022 Christmas event)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27559,
-    "name": "Snowball",
-    "url": "https://oldschool.runescape.wiki/w/Snowball_(2022_Christmas_event)",
-    "version": ""
-  },
-  {
-    "examineText": "Look's like it does alot of damage. Very yellow though.",
-    "group": "Golden snowball",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27560,
-    "name": "Golden snowball",
-    "url": "https://oldschool.runescape.wiki/w/Golden_snowball",
-    "version": ""
-  },
-  {
-    "examineText": "An ice cold glass of beer, without the side effects.",
-    "group": "Light beer",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27561,
-    "name": "Light beer",
-    "url": "https://oldschool.runescape.wiki/w/Light_beer",
-    "version": ""
-  },
-  {
-    "examineText": "Smells like a winter forest.",
-    "group": "Mulled pine",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27562,
-    "name": "Mulled pine",
-    "url": "https://oldschool.runescape.wiki/w/Mulled_pine",
-    "version": ""
-  },
-  {
-    "examineText": "A sweet treat.",
-    "group": "Eggnog",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27563,
-    "name": "Eggnog",
-    "url": "https://oldschool.runescape.wiki/w/Eggnog",
-    "version": ""
   },
   {
     "examineText": "Be sure to check it twice.",
@@ -112940,13 +112860,313 @@
     "version": ""
   },
   {
-    "examineText": "A spooky wig!",
-    "group": "Halloween wig",
-    "isMembers": false,
+    "examineText": "An oversized grub with arms.",
+    "group": "Muphin",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27590,
+    "name": "Muphin",
+    "url": "https://oldschool.runescape.wiki/w/Muphin",
+    "version": "Form 1"
+  },
+  {
+    "examineText": "An oversized grub with arms.",
+    "group": "Muphin",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27592,
+    "name": "Muphin",
+    "url": "https://oldschool.runescape.wiki/w/Muphin",
+    "version": "Form 2"
+  },
+  {
+    "examineText": "An oversized grub with arms.",
+    "group": "Muphin",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27593,
+    "name": "Muphin",
+    "url": "https://oldschool.runescape.wiki/w/Muphin",
+    "version": "Form 3"
+  },
+  {
+    "examineText": "A scroll with a sketch on it.",
+    "group": "Dusty scroll (Secrets of the North)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27595,
+    "name": "Dusty scroll",
+    "url": "https://oldschool.runescape.wiki/w/Dusty_scroll_(Secrets_of_the_North)",
+    "version": ""
+  },
+  {
+    "examineText": "A letter written long ago.",
+    "group": "Tullia's letter",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27596,
+    "name": "Tullia's letter",
+    "url": "https://oldschool.runescape.wiki/w/Tullia%27s_letter",
+    "version": ""
+  },
+  {
+    "examineText": "A very old map.",
+    "group": "Ancient map",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27597,
+    "name": "Ancient map",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_map",
+    "version": ""
+  },
+  {
+    "examineText": "An odd cipher from long ago.",
+    "group": "Strange cipher",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27598,
+    "name": "Strange cipher",
+    "url": "https://oldschool.runescape.wiki/w/Strange_cipher",
+    "version": ""
+  },
+  {
+    "examineText": "An odd list from long ago.",
+    "group": "Strange list",
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 27599,
-    "name": "Halloween wig",
-    "url": "https://oldschool.runescape.wiki/w/Halloween_wig",
-    "version": "Style 2"
+    "name": "Strange list",
+    "url": "https://oldschool.runescape.wiki/w/Strange_list",
+    "version": ""
+  },
+  {
+    "examineText": "An old note about 'The Dukes'.",
+    "group": "Duke note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27600,
+    "name": "Duke note",
+    "url": "https://oldschool.runescape.wiki/w/Duke_note",
+    "version": ""
+  },
+  {
+    "examineText": "An old note with some numbers on.",
+    "group": "Numbers note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27601,
+    "name": "Numbers note",
+    "url": "https://oldschool.runescape.wiki/w/Numbers_note",
+    "version": ""
+  },
+  {
+    "examineText": "An old note about some settlements.",
+    "group": "Settlements note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27602,
+    "name": "Settlements note",
+    "url": "https://oldschool.runescape.wiki/w/Settlements_note",
+    "version": ""
+  },
+  {
+    "examineText": "The handle of a lever.",
+    "group": "Lever handle",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27603,
+    "name": "Lever handle",
+    "url": "https://oldschool.runescape.wiki/w/Lever_handle",
+    "version": ""
+  },
+  {
+    "examineText": "A small chest with a strange slot on the front.",
+    "group": "Icy chest",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27604,
+    "name": "Icy chest",
+    "url": "https://oldschool.runescape.wiki/w/Icy_chest",
+    "version": ""
+  },
+  {
+    "examineText": "A shard from some sort of jewel.",
+    "group": "Jewel shard",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27605,
+    "name": "Jewel shard",
+    "url": "https://oldschool.runescape.wiki/w/Jewel_shard",
+    "version": "Pillar"
+  },
+  {
+    "examineText": "A shard from some sort of jewel.",
+    "group": "Jewel shard",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27606,
+    "name": "Jewel shard",
+    "url": "https://oldschool.runescape.wiki/w/Jewel_shard",
+    "version": "Chest"
+  },
+  {
+    "examineText": "A very old jewel.",
+    "group": "Ancient jewel",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27607,
+    "name": "Ancient jewel",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_jewel",
+    "version": ""
+  },
+  {
+    "examineText": "A very cold key (Used in the Secrets of the North quest).",
+    "group": "Icy key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27608,
+    "name": "Icy key",
+    "url": "https://oldschool.runescape.wiki/w/Icy_key",
+    "version": ""
+  },
+  {
+    "examineText": "A bow used by hunters from a forgotten empire.",
+    "group": "Venator bow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27610,
+    "name": "Venator bow",
+    "url": "https://oldschool.runescape.wiki/w/Venator_bow",
+    "version": "Charged"
+  },
+  {
+    "examineText": "A bow used by hunters from a forgotten empire.",
+    "group": "Venator bow",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27612,
+    "name": "Venator bow (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Venator_bow",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "A broken shard of an ancient weapon.",
+    "group": "Venator shard",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27614,
+    "name": "Venator shard",
+    "url": "https://oldschool.runescape.wiki/w/Venator_shard",
+    "version": ""
+  },
+  {
+    "examineText": "Pure magical energy filled with a dark power.",
+    "group": "Ancient essence",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27616,
+    "name": "Ancient essence",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_essence",
+    "version": ""
+  },
+  {
+    "examineText": "Loot that has been frozen in time.",
+    "group": "Frozen cache",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27622,
+    "name": "Frozen cache",
+    "url": "https://oldschool.runescape.wiki/w/Frozen_cache",
+    "version": ""
+  },
+  {
+    "examineText": "A very old and powerful stick.",
+    "group": "Ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27624,
+    "name": "Ancient sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_sceptre",
+    "version": "Normal"
+  },
+  {
+    "examineText": "A very old and powerful stick.",
+    "group": "Ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27626,
+    "name": "Ancient sceptre (l)",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_sceptre",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A mysterious icon of ancient origin.",
+    "group": "Ancient icon",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27627,
+    "name": "Ancient icon",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_icon",
+    "version": ""
+  },
+  {
+    "examineText": "4 doses of forgotten brew.",
+    "group": "Forgotten brew",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27629,
+    "name": "Forgotten brew(4)",
+    "url": "https://oldschool.runescape.wiki/w/Forgotten_brew",
+    "version": "4 dose"
+  },
+  {
+    "examineText": "3 doses of forgotten brew.",
+    "group": "Forgotten brew",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27632,
+    "name": "Forgotten brew(3)",
+    "url": "https://oldschool.runescape.wiki/w/Forgotten_brew",
+    "version": "3 dose"
+  },
+  {
+    "examineText": "2 doses of forgotten brew.",
+    "group": "Forgotten brew",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27635,
+    "name": "Forgotten brew(2)",
+    "url": "https://oldschool.runescape.wiki/w/Forgotten_brew",
+    "version": "2 dose"
+  },
+  {
+    "examineText": "1 dose of forgotten brew.",
+    "group": "Forgotten brew",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27638,
+    "name": "Forgotten brew(1)",
+    "url": "https://oldschool.runescape.wiki/w/Forgotten_brew",
+    "version": "1 dose"
+  },
+  {
+    "examineText": "This heart holds an ancient magical power within.",
+    "group": "Saturated heart",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27641,
+    "name": "Saturated heart",
+    "url": "https://oldschool.runescape.wiki/w/Saturated_heart",
+    "version": ""
+  },
+  {
+    "examineText": "Essence of the Phantom Muspah's alternate forms.",
+    "group": "Charged ice",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27643,
+    "name": "Charged ice",
+    "url": "https://oldschool.runescape.wiki/w/Charged_ice",
+    "version": ""
   }
 ]
