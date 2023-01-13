@@ -3773,6 +3773,12 @@
         "isMembers": true,
         "location": "Slepe - Crombwick Manor",
         "name": "Jug of wine"
+      },
+      {
+        "coords": "3511,3049",
+        "isMembers": true,
+        "location": "Uzer Oasis - Cassim's house",
+        "name": "Jug of wine"
       }
     ]
   },
@@ -6338,12 +6344,6 @@
         "coords": "2960,3899",
         "isMembers": false,
         "location": "Wilderness - Frozen Waste Plateau",
-        "name": "Water rune"
-      },
-      {
-        "coords": "3336,3694",
-        "isMembers": false,
-        "location": "Wilderness - north-east of Chaos Temple",
         "name": "Water rune"
       }
     ]

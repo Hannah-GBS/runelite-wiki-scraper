@@ -8145,7 +8145,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">119,199,939</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">124,965,450</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10464,7 +10464,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">112,460,350</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">135,019,284</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -26076,7 +26076,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "17.5",
+        "experience": "?",
         "level": "7",
         "name": "Magic"
       }
@@ -27232,6 +27232,114 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient brew(1)",
+        "quantity": "1"
+      },
+      {
+        "name": "Ancient essence",
+        "quantity": "20"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forgotten brew(1).png|link=Forgotten brew(1)]]",
+      "name": "Forgotten brew(1)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "36",
+        "level": "91",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient brew(2)",
+        "quantity": "1"
+      },
+      {
+        "name": "Ancient essence",
+        "quantity": "40"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forgotten brew(2).png|link=Forgotten brew(2)]]",
+      "name": "Forgotten brew(2)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "72",
+        "level": "91",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient brew(3)",
+        "quantity": "1"
+      },
+      {
+        "name": "Ancient essence",
+        "quantity": "60"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forgotten brew(3).png|link=Forgotten brew(3)]]",
+      "name": "Forgotten brew(3)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "108",
+        "level": "91",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient brew(4)",
+        "quantity": "1"
+      },
+      {
+        "name": "Ancient essence",
+        "quantity": "80"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forgotten brew(4).png|link=Forgotten brew(4)]]",
+      "name": "Forgotten brew(4)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "145",
+        "level": "91",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "3"
   },
   {
     "facilities": "Cooking range",
@@ -34813,7 +34921,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": "20"
+    "ticks": "22"
   },
   {
     "facilities": "Fancy Clothes Store",
@@ -56503,6 +56611,26 @@
   {
     "materials": [
       {
+        "name": "Imbued heart",
+        "quantity": "1"
+      },
+      {
+        "name": "Ancient essence",
+        "quantity": "150000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Saturated heart.png|link=Saturated heart]]",
+      "name": "Saturated heart",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Hay sack",
         "quantity": "1"
       },
@@ -65501,7 +65629,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "100",
+        "experience": "180",
         "level": "70",
         "name": "Cooking"
       }
