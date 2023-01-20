@@ -8145,7 +8145,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">124,965,450</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">140,608,375</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10464,7 +10464,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">135,019,284</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">148,938,336</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -35206,13 +35206,14 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "0",
-        "level": "58",
+        "level": "1",
         "name": "Cooking"
       }
     ],
-    "ticks": "2"
+    "ticks": "2",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -35233,13 +35234,14 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "0",
-        "level": "58",
+        "level": "1",
         "name": "Cooking"
       }
     ],
-    "ticks": "2"
+    "ticks": "2",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -35260,13 +35262,14 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "0",
-        "level": "58",
+        "level": "1",
         "name": "Cooking"
       }
     ],
-    "ticks": "2"
+    "ticks": "2",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -52823,31 +52826,6 @@
     "ticks": "4"
   },
   {
-    "facilities": "Compost Bin",
-    "materials": [
-      {
-        "name": "Tomato",
-        "quantity": "15"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Rotten tomato.png|link=Rotten tomato]]",
-      "name": "Rotten tomato",
-      "quantity": "15",
-      "subtxt": "Compost bin"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "4.5",
-        "level": "1",
-        "name": "Farming"
-      }
-    ],
-    "ticks": "60"
-  },
-  {
     "facilities": "Big Compost Bin",
     "materials": [
       {
@@ -52871,6 +52849,31 @@
       }
     ],
     "ticks": "120"
+  },
+  {
+    "facilities": "Compost Bin",
+    "materials": [
+      {
+        "name": "Tomato",
+        "quantity": "15"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rotten tomato.png|link=Rotten tomato]]",
+      "name": "Rotten tomato",
+      "quantity": "15",
+      "subtxt": "Compost bin"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "4.5",
+        "level": "1",
+        "name": "Farming"
+      }
+    ],
+    "ticks": "60"
   },
   {
     "materials": [
@@ -56625,7 +56628,14 @@
       "name": "Saturated heart",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "500",
+        "level": "?",
+        "name": "Magic"
+      }
+    ],
     "ticks": "0"
   },
   {
@@ -68944,9 +68954,9 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
-        "experience": "40",
-        "level": "58",
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
         "name": "Cooking"
       }
     ],
@@ -70627,6 +70637,22 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Venator shard",
+        "quantity": "5"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Venator bow (uncharged).png|link=Venator bow (uncharged)]]",
+      "name": "Venator bow (uncharged)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [

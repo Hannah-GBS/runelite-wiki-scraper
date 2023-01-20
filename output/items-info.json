@@ -112867,7 +112867,7 @@
     "itemID": 27590,
     "name": "Muphin",
     "url": "https://oldschool.runescape.wiki/w/Muphin",
-    "version": "Form 1"
+    "version": "Ranged"
   },
   {
     "examineText": "An oversized grub with arms.",
@@ -112877,7 +112877,7 @@
     "itemID": 27592,
     "name": "Muphin",
     "url": "https://oldschool.runescape.wiki/w/Muphin",
-    "version": "Form 2"
+    "version": "Melee"
   },
   {
     "examineText": "An oversized grub with arms.",
@@ -112887,7 +112887,7 @@
     "itemID": 27593,
     "name": "Muphin",
     "url": "https://oldschool.runescape.wiki/w/Muphin",
-    "version": "Form 3"
+    "version": "Shielded"
   },
   {
     "examineText": "A scroll with a sketch on it.",
@@ -113153,7 +113153,7 @@
     "examineText": "This heart holds an ancient magical power within.",
     "group": "Saturated heart",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 27641,
     "name": "Saturated heart",
     "url": "https://oldschool.runescape.wiki/w/Saturated_heart",
@@ -113167,6 +113167,16 @@
     "itemID": 27643,
     "name": "Charged ice",
     "url": "https://oldschool.runescape.wiki/w/Charged_ice",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Mystic cards",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27645,
+    "name": "Mystic cards",
+    "url": "https://oldschool.runescape.wiki/w/Mystic_cards",
     "version": ""
   }
 ]
