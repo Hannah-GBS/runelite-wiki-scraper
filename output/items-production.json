@@ -215,6 +215,59 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "name": "Thammaron's sceptre (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Skull of vet'ion",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Accursed sceptre (u).png|link=Accursed sceptre (u)]]",
+      "name": "Accursed sceptre (u)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "85",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Phabelle Bile",
+    "materials": [
+      {
+        "name": "Thammaron's sceptre (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Skull of vet'ion",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "500000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Accursed sceptre (u).png|link=Accursed sceptre (u)]]",
+      "name": "Accursed sceptre (u)",
+      "quantity": "1",
+      "subtxt": "Phabelle Bile"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -8145,7 +8198,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">140,608,375</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">141,994,343</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10464,7 +10517,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">148,938,336</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">135,661,146</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10667,7 +10720,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "8"
+    "ticks": "7"
   },
   {
     "facilities": "Cooking range",
@@ -25417,7 +25470,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "8"
+    "ticks": "7"
   },
   {
     "facilities": "Loom",
@@ -47846,7 +47899,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "8"
+    "ticks": "7"
   },
   {
     "materials": [
@@ -48855,7 +48908,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "8"
+    "ticks": "7"
   },
   {
     "facilities": "Pottery Oven",
@@ -48879,7 +48932,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "8"
+    "ticks": "7"
   },
   {
     "facilities": "Windmill",
@@ -70487,6 +70540,59 @@
     "tools": "Holy mould"
   },
   {
+    "materials": [
+      {
+        "name": "Viggora's chainmace (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Claws of callisto",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ursine chainmace (u).png|link=Ursine chainmace (u)]]",
+      "name": "Ursine chainmace (u)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "85",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Andros Mai",
+    "materials": [
+      {
+        "name": "Viggora's chainmace (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Claws of callisto",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "500000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ursine chainmace (u).png|link=Ursine chainmace (u)]]",
+      "name": "Ursine chainmace (u)",
+      "quantity": "1",
+      "subtxt": "Andros Mai"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -70970,6 +71076,35 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Madam Sikaro",
+    "materials": [
+      {
+        "name": "Coins",
+        "quantity": "500000"
+      },
+      {
+        "name": "Voidwaker blade",
+        "quantity": "1"
+      },
+      {
+        "name": "Voidwaker hilt",
+        "quantity": "1"
+      },
+      {
+        "name": "Voidwaker gem",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Voidwaker.png|link=Voidwaker]]",
+      "name": "Voidwaker",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -71823,6 +71958,59 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Craw's bow (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Fangs of venenatis",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Webweaver bow (u).png|link=Webweaver bow (u)]]",
+      "name": "Webweaver bow (u)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "85",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Derse Venator",
+    "materials": [
+      {
+        "name": "Craw's bow (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Fangs of venenatis",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "500000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Webweaver bow (u).png|link=Webweaver bow (u)]]",
+      "name": "Webweaver bow (u)",
+      "quantity": "1",
+      "subtxt": "Derse Venator"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
