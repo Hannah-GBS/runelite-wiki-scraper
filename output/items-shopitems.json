@@ -8943,7 +8943,6 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Oculus orb",
-        "sellPrice": "60",
         "stock": "100",
         "version": ""
       },
@@ -13571,7 +13570,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Foundry Reputation",
-        "name": "Ore pack",
+        "name": "Ore pack (Giants' Foundry)",
         "sellPrice": "200",
         "stock": "inf",
         "version": ""
@@ -22894,6 +22893,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Volcanic Mine points",
+        "name": "Ore pack (Volcanic Mine)",
+        "sellPrice": "4000",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Volcanic Mine points",
         "name": "Pyrophosphite",
         "sellPrice": "70",
         "stock": "inf",
@@ -26119,7 +26126,7 @@
         "version": ""
       }
     ],
-    "location": "Shantay Pass",
+    "location": "",
     "name": "Shantay Pass Shop",
     "sellMultiplier": "1000"
   },
