@@ -215,6 +215,59 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "name": "Thammaron's sceptre (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Skull of vet'ion",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Accursed sceptre (u).png|link=Accursed sceptre (u)]]",
+      "name": "Accursed sceptre (u)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "85",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Phabelle Bile",
+    "materials": [
+      {
+        "name": "Thammaron's sceptre (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Skull of vet'ion",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "500000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Accursed sceptre (u).png|link=Accursed sceptre (u)]]",
+      "name": "Accursed sceptre (u)",
+      "quantity": "1",
+      "subtxt": "Phabelle Bile"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -8145,7 +8198,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">140,608,375</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">135,394,545</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10464,7 +10517,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">148,938,336</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">131,863,000</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10667,7 +10720,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "8"
+    "ticks": "7"
   },
   {
     "facilities": "Cooking range",
@@ -12160,7 +12213,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (blue)",
+        "name": "Tribal mask (combat)",
         "quantity": "1"
       },
       {
@@ -12170,8 +12223,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (blue).png|link=Broodoo shield (blue)]]",
-      "name": "Broodoo shield (blue)",
+      "image": "[[File:Broodoo shield (combat).png|link=Broodoo shield (combat)]]",
+      "name": "Broodoo shield (combat)",
       "quantity": "1"
     },
     "skills": [
@@ -12192,7 +12245,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (blue)",
+        "name": "Tribal mask (combat)",
         "quantity": "1"
       },
       {
@@ -12202,8 +12255,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (blue).png|link=Broodoo shield (blue)]]",
-      "name": "Broodoo shield (blue)",
+      "image": "[[File:Broodoo shield (combat).png|link=Broodoo shield (combat)]]",
+      "name": "Broodoo shield (combat)",
       "quantity": "1"
     },
     "skills": [
@@ -12224,7 +12277,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (blue)",
+        "name": "Tribal mask (combat)",
         "quantity": "1"
       },
       {
@@ -12234,8 +12287,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (blue).png|link=Broodoo shield (blue)]]",
-      "name": "Broodoo shield (blue)",
+      "image": "[[File:Broodoo shield (combat).png|link=Broodoo shield (combat)]]",
+      "name": "Broodoo shield (combat)",
       "quantity": "1"
     },
     "skills": [
@@ -12256,7 +12309,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (blue)",
+        "name": "Tribal mask (combat)",
         "quantity": "1"
       },
       {
@@ -12266,8 +12319,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (blue).png|link=Broodoo shield (blue)]]",
-      "name": "Broodoo shield (blue)",
+      "image": "[[File:Broodoo shield (combat).png|link=Broodoo shield (combat)]]",
+      "name": "Broodoo shield (combat)",
       "quantity": "1"
     },
     "skills": [
@@ -12288,7 +12341,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (blue)",
+        "name": "Tribal mask (combat)",
         "quantity": "1"
       },
       {
@@ -12298,8 +12351,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (blue).png|link=Broodoo shield (blue)]]",
-      "name": "Broodoo shield (blue)",
+      "image": "[[File:Broodoo shield (combat).png|link=Broodoo shield (combat)]]",
+      "name": "Broodoo shield (combat)",
       "quantity": "1"
     },
     "skills": [
@@ -12320,7 +12373,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (blue)",
+        "name": "Tribal mask (combat)",
         "quantity": "1"
       },
       {
@@ -12330,8 +12383,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (blue).png|link=Broodoo shield (blue)]]",
-      "name": "Broodoo shield (blue)",
+      "image": "[[File:Broodoo shield (combat).png|link=Broodoo shield (combat)]]",
+      "name": "Broodoo shield (combat)",
       "quantity": "1"
     },
     "skills": [
@@ -12352,7 +12405,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (blue)",
+        "name": "Tribal mask (combat)",
         "quantity": "1"
       },
       {
@@ -12362,8 +12415,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (blue).png|link=Broodoo shield (blue)]]",
-      "name": "Broodoo shield (blue)",
+      "image": "[[File:Broodoo shield (combat).png|link=Broodoo shield (combat)]]",
+      "name": "Broodoo shield (combat)",
       "quantity": "1"
     },
     "skills": [
@@ -12384,7 +12437,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (green)",
+        "name": "Tribal mask (disease)",
         "quantity": "1"
       },
       {
@@ -12394,8 +12447,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (green).png|link=Broodoo shield (green)]]",
-      "name": "Broodoo shield (green)",
+      "image": "[[File:Broodoo shield (disease).png|link=Broodoo shield (disease)]]",
+      "name": "Broodoo shield (disease)",
       "quantity": "1"
     },
     "skills": [
@@ -12416,7 +12469,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (green)",
+        "name": "Tribal mask (disease)",
         "quantity": "1"
       },
       {
@@ -12426,8 +12479,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (green).png|link=Broodoo shield (green)]]",
-      "name": "Broodoo shield (green)",
+      "image": "[[File:Broodoo shield (disease).png|link=Broodoo shield (disease)]]",
+      "name": "Broodoo shield (disease)",
       "quantity": "1"
     },
     "skills": [
@@ -12448,7 +12501,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (green)",
+        "name": "Tribal mask (disease)",
         "quantity": "1"
       },
       {
@@ -12458,8 +12511,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (green).png|link=Broodoo shield (green)]]",
-      "name": "Broodoo shield (green)",
+      "image": "[[File:Broodoo shield (disease).png|link=Broodoo shield (disease)]]",
+      "name": "Broodoo shield (disease)",
       "quantity": "1"
     },
     "skills": [
@@ -12480,7 +12533,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (green)",
+        "name": "Tribal mask (disease)",
         "quantity": "1"
       },
       {
@@ -12490,8 +12543,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (green).png|link=Broodoo shield (green)]]",
-      "name": "Broodoo shield (green)",
+      "image": "[[File:Broodoo shield (disease).png|link=Broodoo shield (disease)]]",
+      "name": "Broodoo shield (disease)",
       "quantity": "1"
     },
     "skills": [
@@ -12512,7 +12565,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (green)",
+        "name": "Tribal mask (disease)",
         "quantity": "1"
       },
       {
@@ -12522,8 +12575,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (green).png|link=Broodoo shield (green)]]",
-      "name": "Broodoo shield (green)",
+      "image": "[[File:Broodoo shield (disease).png|link=Broodoo shield (disease)]]",
+      "name": "Broodoo shield (disease)",
       "quantity": "1"
     },
     "skills": [
@@ -12544,7 +12597,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (green)",
+        "name": "Tribal mask (disease)",
         "quantity": "1"
       },
       {
@@ -12554,8 +12607,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (green).png|link=Broodoo shield (green)]]",
-      "name": "Broodoo shield (green)",
+      "image": "[[File:Broodoo shield (disease).png|link=Broodoo shield (disease)]]",
+      "name": "Broodoo shield (disease)",
       "quantity": "1"
     },
     "skills": [
@@ -12576,7 +12629,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (green)",
+        "name": "Tribal mask (disease)",
         "quantity": "1"
       },
       {
@@ -12586,8 +12639,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (green).png|link=Broodoo shield (green)]]",
-      "name": "Broodoo shield (green)",
+      "image": "[[File:Broodoo shield (disease).png|link=Broodoo shield (disease)]]",
+      "name": "Broodoo shield (disease)",
       "quantity": "1"
     },
     "skills": [
@@ -12608,7 +12661,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (orange)",
+        "name": "Tribal mask (poison)",
         "quantity": "1"
       },
       {
@@ -12618,8 +12671,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (orange).png|link=Broodoo shield (orange)]]",
-      "name": "Broodoo shield (orange)",
+      "image": "[[File:Broodoo shield (poison).png|link=Broodoo shield (poison)]]",
+      "name": "Broodoo shield (poison)",
       "quantity": "1"
     },
     "skills": [
@@ -12640,7 +12693,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (orange)",
+        "name": "Tribal mask (poison)",
         "quantity": "1"
       },
       {
@@ -12650,8 +12703,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (orange).png|link=Broodoo shield (orange)]]",
-      "name": "Broodoo shield (orange)",
+      "image": "[[File:Broodoo shield (poison).png|link=Broodoo shield (poison)]]",
+      "name": "Broodoo shield (poison)",
       "quantity": "1"
     },
     "skills": [
@@ -12672,7 +12725,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (orange)",
+        "name": "Tribal mask (poison)",
         "quantity": "1"
       },
       {
@@ -12682,8 +12735,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (orange).png|link=Broodoo shield (orange)]]",
-      "name": "Broodoo shield (orange)",
+      "image": "[[File:Broodoo shield (poison).png|link=Broodoo shield (poison)]]",
+      "name": "Broodoo shield (poison)",
       "quantity": "1"
     },
     "skills": [
@@ -12704,7 +12757,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (orange)",
+        "name": "Tribal mask (poison)",
         "quantity": "1"
       },
       {
@@ -12714,8 +12767,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (orange).png|link=Broodoo shield (orange)]]",
-      "name": "Broodoo shield (orange)",
+      "image": "[[File:Broodoo shield (poison).png|link=Broodoo shield (poison)]]",
+      "name": "Broodoo shield (poison)",
       "quantity": "1"
     },
     "skills": [
@@ -12736,7 +12789,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (orange)",
+        "name": "Tribal mask (poison)",
         "quantity": "1"
       },
       {
@@ -12746,8 +12799,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (orange).png|link=Broodoo shield (orange)]]",
-      "name": "Broodoo shield (orange)",
+      "image": "[[File:Broodoo shield (poison).png|link=Broodoo shield (poison)]]",
+      "name": "Broodoo shield (poison)",
       "quantity": "1"
     },
     "skills": [
@@ -12768,7 +12821,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (orange)",
+        "name": "Tribal mask (poison)",
         "quantity": "1"
       },
       {
@@ -12778,8 +12831,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (orange).png|link=Broodoo shield (orange)]]",
-      "name": "Broodoo shield (orange)",
+      "image": "[[File:Broodoo shield (poison).png|link=Broodoo shield (poison)]]",
+      "name": "Broodoo shield (poison)",
       "quantity": "1"
     },
     "skills": [
@@ -12800,7 +12853,7 @@
         "quantity": "2"
       },
       {
-        "name": "Tribal mask (orange)",
+        "name": "Tribal mask (poison)",
         "quantity": "1"
       },
       {
@@ -12810,8 +12863,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Broodoo shield (orange).png|link=Broodoo shield (orange)]]",
-      "name": "Broodoo shield (orange)",
+      "image": "[[File:Broodoo shield (poison).png|link=Broodoo shield (poison)]]",
+      "name": "Broodoo shield (poison)",
       "quantity": "1"
     },
     "skills": [
@@ -15888,6 +15941,26 @@
     "skills": [],
     "ticks": "0",
     "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Silk",
+        "quantity": "1"
+      },
+      {
+        "name": "Karamjan rum",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cleaning cloth.png|link=Cleaning cloth]]",
+      "name": "Cleaning cloth",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Crafting table 2",
@@ -22389,6 +22462,27 @@
     "tools": "Necklace mould"
   },
   {
+    "facilities": "Nurmof",
+    "materials": [
+      {
+        "name": "Dragon pickaxe (broken)",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "2500000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon pickaxe.png|link=Dragon pickaxe]]",
+      "name": "Dragon pickaxe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "name": "Dragon pickaxe",
@@ -25417,7 +25511,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "8"
+    "ticks": "7"
   },
   {
     "facilities": "Loom",
@@ -25740,6 +25834,265 @@
       "image": "[[File:Enchanted emerald sickle (b).png|link=Enchanted emerald sickle (b)]]",
       "name": "Enchanted emerald sickle (b)",
       "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Fossegrimen",
+    "materials": [
+      {
+        "name": "Lyre",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw bass",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Enchanted lyre.png|link=Enchanted lyre]]",
+      "name": "Enchanted lyre",
+      "quantity": "1",
+      "subtxt": "2 charges"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Ring of charos (a)"
+  },
+  {
+    "facilities": "Fossegrimen",
+    "materials": [
+      {
+        "name": "Lyre",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw shark",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Enchanted lyre.png|link=Enchanted lyre]]",
+      "name": "Enchanted lyre",
+      "quantity": "1",
+      "subtxt": "2 charges"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Fossegrimen",
+    "materials": [
+      {
+        "name": "Lyre",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw manta ray",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Enchanted lyre.png|link=Enchanted lyre]]",
+      "name": "Enchanted lyre",
+      "quantity": "1",
+      "subtxt": "3 charges"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Fossegrimen",
+    "materials": [
+      {
+        "name": "Lyre",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw sea turtle",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Enchanted lyre.png|link=Enchanted lyre]]",
+      "name": "Enchanted lyre",
+      "quantity": "1",
+      "subtxt": "4 charges"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Fossegrimen",
+    "materials": [
+      {
+        "name": "Lyre",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw bass",
+        "quantity": "1000"
+      },
+      {
+        "name": "Raw shark",
+        "quantity": "1000"
+      },
+      {
+        "name": "Raw sea turtle",
+        "quantity": "1000"
+      },
+      {
+        "name": "Raw manta ray",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Enchanted lyre(i).png|link=Enchanted lyre(i)]]",
+      "name": "Enchanted lyre(i)",
+      "quantity": "1",
+      "subtxt": "No Diary"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Fossegrimen",
+    "materials": [
+      {
+        "name": "Lyre",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw bass",
+        "quantity": "800"
+      },
+      {
+        "name": "Raw shark",
+        "quantity": "800"
+      },
+      {
+        "name": "Raw sea turtle",
+        "quantity": "800"
+      },
+      {
+        "name": "Raw manta ray",
+        "quantity": "800"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Enchanted lyre(i).png|link=Enchanted lyre(i)]]",
+      "name": "Enchanted lyre(i)",
+      "quantity": "1",
+      "subtxt": "Easy Diary"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Fossegrimen",
+    "materials": [
+      {
+        "name": "Lyre",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw bass",
+        "quantity": "600"
+      },
+      {
+        "name": "Raw shark",
+        "quantity": "600"
+      },
+      {
+        "name": "Raw sea turtle",
+        "quantity": "600"
+      },
+      {
+        "name": "Raw manta ray",
+        "quantity": "600"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Enchanted lyre(i).png|link=Enchanted lyre(i)]]",
+      "name": "Enchanted lyre(i)",
+      "quantity": "1",
+      "subtxt": "Medium Diary"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Fossegrimen",
+    "materials": [
+      {
+        "name": "Lyre",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw bass",
+        "quantity": "400"
+      },
+      {
+        "name": "Raw shark",
+        "quantity": "400"
+      },
+      {
+        "name": "Raw sea turtle",
+        "quantity": "400"
+      },
+      {
+        "name": "Raw manta ray",
+        "quantity": "400"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Enchanted lyre(i).png|link=Enchanted lyre(i)]]",
+      "name": "Enchanted lyre(i)",
+      "quantity": "1",
+      "subtxt": "Hard Diary"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Fossegrimen",
+    "materials": [
+      {
+        "name": "Lyre",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw bass",
+        "quantity": "200"
+      },
+      {
+        "name": "Raw shark",
+        "quantity": "200"
+      },
+      {
+        "name": "Raw sea turtle",
+        "quantity": "200"
+      },
+      {
+        "name": "Raw manta ray",
+        "quantity": "200"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Enchanted lyre(i).png|link=Enchanted lyre(i)]]",
+      "name": "Enchanted lyre(i)",
+      "quantity": "1",
+      "subtxt": "Elite Diary"
     },
     "skills": [],
     "ticks": "1"
@@ -47846,7 +48199,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "8"
+    "ticks": "7"
   },
   {
     "materials": [
@@ -48855,7 +49208,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "8"
+    "ticks": "7"
   },
   {
     "facilities": "Pottery Oven",
@@ -48879,7 +49232,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "8"
+    "ticks": "7"
   },
   {
     "facilities": "Windmill",
@@ -70487,6 +70840,59 @@
     "tools": "Holy mould"
   },
   {
+    "materials": [
+      {
+        "name": "Viggora's chainmace (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Claws of callisto",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ursine chainmace (u).png|link=Ursine chainmace (u)]]",
+      "name": "Ursine chainmace (u)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "85",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Andros Mai",
+    "materials": [
+      {
+        "name": "Viggora's chainmace (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Claws of callisto",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "500000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ursine chainmace (u).png|link=Ursine chainmace (u)]]",
+      "name": "Ursine chainmace (u)",
+      "quantity": "1",
+      "subtxt": "Andros Mai"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -70758,33 +71164,6 @@
   {
     "materials": [
       {
-        "name": "Vial (jangerberries)",
-        "quantity": "1"
-      },
-      {
-        "name": "Guam leaf",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vial (jangerberries and guam leaf).png|link=Vial (jangerberries and guam leaf)]]",
-      "name": "Vial (jangerberries and guam leaf)",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "10",
-        "level": "14",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": ""
-  },
-  {
-    "materials": [
-      {
         "name": "Vial of water",
         "quantity": "1"
       },
@@ -70970,6 +71349,35 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Madam Sikaro",
+    "materials": [
+      {
+        "name": "Coins",
+        "quantity": "500000"
+      },
+      {
+        "name": "Voidwaker blade",
+        "quantity": "1"
+      },
+      {
+        "name": "Voidwaker hilt",
+        "quantity": "1"
+      },
+      {
+        "name": "Voidwaker gem",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Voidwaker.png|link=Voidwaker]]",
+      "name": "Voidwaker",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -71823,6 +72231,59 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Craw's bow (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Fangs of venenatis",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Webweaver bow (u).png|link=Webweaver bow (u)]]",
+      "name": "Webweaver bow (u)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "85",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Derse Venator",
+    "materials": [
+      {
+        "name": "Craw's bow (u)",
+        "quantity": "1"
+      },
+      {
+        "name": "Fangs of venenatis",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "500000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Webweaver bow (u).png|link=Webweaver bow (u)]]",
+      "name": "Webweaver bow (u)",
+      "quantity": "1",
+      "subtxt": "Derse Venator"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
