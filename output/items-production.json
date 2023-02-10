@@ -233,7 +233,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "0",
         "level": "85",
         "name": "Crafting"
@@ -8198,7 +8198,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">135,394,545</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">133,137,346</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -8284,6 +8284,1126 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
+      "name": "Blade of saeldor (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
+      "name": "Blade of saeldor (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
+      "name": "Blade of saeldor (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
+      "name": "Blade of saeldor (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
+      "name": "Blade of saeldor (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
+      "name": "Blade of saeldor (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
+      "name": "Blade of saeldor (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
+      "name": "Blade of saeldor (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
+      "name": "Blade of saeldor (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
+      "name": "Blade of saeldor (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
+      "name": "Blade of saeldor (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
+      "name": "Blade of saeldor (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
+      "name": "Blade of saeldor (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
+      "name": "Blade of saeldor (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
+      "name": "Blade of saeldor (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
+      "name": "Blade of saeldor (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
+      "name": "Blade of saeldor (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
+      "name": "Blade of saeldor (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
+      "name": "Blade of saeldor (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
+      "name": "Blade of saeldor (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
+      "name": "Blade of saeldor (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
+      "name": "Blade of saeldor (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
+      "name": "Blade of saeldor (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
+      "name": "Blade of saeldor (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
+      "name": "Blade of saeldor (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
+      "name": "Blade of saeldor (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
+      "name": "Blade of saeldor (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
+      "name": "Blade of saeldor (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
+      "name": "Blade of saeldor (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
+      "name": "Blade of saeldor (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
+      "name": "Blade of saeldor (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
+      "name": "Blade of saeldor (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
+      "name": "Blade of saeldor (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
+      "name": "Blade of saeldor (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
+      "name": "Blade of saeldor (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
+      "name": "Blade of saeldor (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
+      "name": "Blade of saeldor (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
+      "name": "Blade of saeldor (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
+      "name": "Blade of saeldor (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
+      "name": "Blade of saeldor (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
+      "name": "Blade of saeldor (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
+      "name": "Blade of saeldor (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -10517,7 +11637,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">131,863,000</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">142,371,844</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10603,6 +11723,1126 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
+      "name": "Bow of faerdhinen (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
+      "name": "Bow of faerdhinen (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
+      "name": "Bow of faerdhinen (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
+      "name": "Bow of faerdhinen (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
+      "name": "Bow of faerdhinen (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
+      "name": "Bow of faerdhinen (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
+      "name": "Bow of faerdhinen (c) (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
+      "name": "Bow of faerdhinen (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
+      "name": "Bow of faerdhinen (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
+      "name": "Bow of faerdhinen (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
+      "name": "Bow of faerdhinen (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
+      "name": "Bow of faerdhinen (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
+      "name": "Bow of faerdhinen (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
+      "name": "Bow of faerdhinen (c) (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
+      "name": "Bow of faerdhinen (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
+      "name": "Bow of faerdhinen (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
+      "name": "Bow of faerdhinen (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
+      "name": "Bow of faerdhinen (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
+      "name": "Bow of faerdhinen (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
+      "name": "Bow of faerdhinen (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
+      "name": "Bow of faerdhinen (c) (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
+      "name": "Bow of faerdhinen (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
+      "name": "Bow of faerdhinen (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
+      "name": "Bow of faerdhinen (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
+      "name": "Bow of faerdhinen (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
+      "name": "Bow of faerdhinen (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
+      "name": "Bow of faerdhinen (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
+      "name": "Bow of faerdhinen (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
+      "name": "Bow of faerdhinen (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
+      "name": "Bow of faerdhinen (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
+      "name": "Bow of faerdhinen (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
+      "name": "Bow of faerdhinen (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
+      "name": "Bow of faerdhinen (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
+      "name": "Bow of faerdhinen (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
+      "name": "Bow of faerdhinen (c) (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Spinning wheel",
@@ -18290,6 +20530,1126 @@
     "ticks": "5"
   },
   {
+    "materials": [
+      {
+        "name": "Crystal body (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body.png|link=Crystal body]]",
+      "name": "Crystal body",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body.png|link=Crystal body]]",
+      "name": "Crystal body",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body.png|link=Crystal body]]",
+      "name": "Crystal body",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body.png|link=Crystal body]]",
+      "name": "Crystal body",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body.png|link=Crystal body]]",
+      "name": "Crystal body",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body.png|link=Crystal body]]",
+      "name": "Crystal body",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body.png|link=Crystal body]]",
+      "name": "Crystal body",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
+      "name": "Crystal body (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
+      "name": "Crystal body (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
+      "name": "Crystal body (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
+      "name": "Crystal body (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
+      "name": "Crystal body (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
+      "name": "Crystal body (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
+      "name": "Crystal body (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
+      "name": "Crystal body (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
+      "name": "Crystal body (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
+      "name": "Crystal body (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
+      "name": "Crystal body (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
+      "name": "Crystal body (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
+      "name": "Crystal body (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
+      "name": "Crystal body (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
+      "name": "Crystal body (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
+      "name": "Crystal body (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
+      "name": "Crystal body (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
+      "name": "Crystal body (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
+      "name": "Crystal body (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
+      "name": "Crystal body (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
+      "name": "Crystal body (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
+      "name": "Crystal body (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
+      "name": "Crystal body (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
+      "name": "Crystal body (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
+      "name": "Crystal body (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
+      "name": "Crystal body (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
+      "name": "Crystal body (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
+      "name": "Crystal body (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
+      "name": "Crystal body (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
+      "name": "Crystal body (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
+      "name": "Crystal body (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
+      "name": "Crystal body (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
+      "name": "Crystal body (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
+      "name": "Crystal body (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
+      "name": "Crystal body (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
+      "name": "Crystal body (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
+      "name": "Crystal body (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
+      "name": "Crystal body (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
+      "name": "Crystal body (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
+      "name": "Crystal body (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
+      "name": "Crystal body (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
+      "name": "Crystal body (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
+      "name": "Crystal body (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
+      "name": "Crystal body (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
+      "name": "Crystal body (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
+      "name": "Crystal body (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
+      "name": "Crystal body (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
+      "name": "Crystal body (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
+      "name": "Crystal body (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
@@ -18572,6 +21932,1126 @@
   {
     "materials": [
       {
+        "name": "Crystal crown (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Amlodd).png|link=Crystal crown (Amlodd)]]",
+      "name": "Crystal crown (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Amlodd).png|link=Crystal crown (Amlodd)]]",
+      "name": "Crystal crown (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Amlodd).png|link=Crystal crown (Amlodd)]]",
+      "name": "Crystal crown (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Amlodd).png|link=Crystal crown (Amlodd)]]",
+      "name": "Crystal crown (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Amlodd).png|link=Crystal crown (Amlodd)]]",
+      "name": "Crystal crown (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Amlodd).png|link=Crystal crown (Amlodd)]]",
+      "name": "Crystal crown (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Amlodd).png|link=Crystal crown (Amlodd)]]",
+      "name": "Crystal crown (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Cadarn).png|link=Crystal crown (Cadarn)]]",
+      "name": "Crystal crown (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Cadarn).png|link=Crystal crown (Cadarn)]]",
+      "name": "Crystal crown (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Cadarn).png|link=Crystal crown (Cadarn)]]",
+      "name": "Crystal crown (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Cadarn).png|link=Crystal crown (Cadarn)]]",
+      "name": "Crystal crown (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Cadarn).png|link=Crystal crown (Cadarn)]]",
+      "name": "Crystal crown (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Cadarn).png|link=Crystal crown (Cadarn)]]",
+      "name": "Crystal crown (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Cadarn).png|link=Crystal crown (Cadarn)]]",
+      "name": "Crystal crown (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Crwys).png|link=Crystal crown (Crwys)]]",
+      "name": "Crystal crown (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Crwys).png|link=Crystal crown (Crwys)]]",
+      "name": "Crystal crown (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Crwys).png|link=Crystal crown (Crwys)]]",
+      "name": "Crystal crown (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Crwys).png|link=Crystal crown (Crwys)]]",
+      "name": "Crystal crown (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Crwys).png|link=Crystal crown (Crwys)]]",
+      "name": "Crystal crown (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Crwys).png|link=Crystal crown (Crwys)]]",
+      "name": "Crystal crown (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Crwys).png|link=Crystal crown (Crwys)]]",
+      "name": "Crystal crown (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Hefin).png|link=Crystal crown (Hefin)]]",
+      "name": "Crystal crown (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Hefin).png|link=Crystal crown (Hefin)]]",
+      "name": "Crystal crown (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Hefin).png|link=Crystal crown (Hefin)]]",
+      "name": "Crystal crown (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Hefin).png|link=Crystal crown (Hefin)]]",
+      "name": "Crystal crown (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Hefin).png|link=Crystal crown (Hefin)]]",
+      "name": "Crystal crown (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Hefin).png|link=Crystal crown (Hefin)]]",
+      "name": "Crystal crown (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Hefin).png|link=Crystal crown (Hefin)]]",
+      "name": "Crystal crown (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Iorwerth).png|link=Crystal crown (Iorwerth)]]",
+      "name": "Crystal crown (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Iorwerth).png|link=Crystal crown (Iorwerth)]]",
+      "name": "Crystal crown (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Iorwerth).png|link=Crystal crown (Iorwerth)]]",
+      "name": "Crystal crown (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Iorwerth).png|link=Crystal crown (Iorwerth)]]",
+      "name": "Crystal crown (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Iorwerth).png|link=Crystal crown (Iorwerth)]]",
+      "name": "Crystal crown (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Iorwerth).png|link=Crystal crown (Iorwerth)]]",
+      "name": "Crystal crown (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Iorwerth).png|link=Crystal crown (Iorwerth)]]",
+      "name": "Crystal crown (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Ithell).png|link=Crystal crown (Ithell)]]",
+      "name": "Crystal crown (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Ithell).png|link=Crystal crown (Ithell)]]",
+      "name": "Crystal crown (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Ithell).png|link=Crystal crown (Ithell)]]",
+      "name": "Crystal crown (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Ithell).png|link=Crystal crown (Ithell)]]",
+      "name": "Crystal crown (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Ithell).png|link=Crystal crown (Ithell)]]",
+      "name": "Crystal crown (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Ithell).png|link=Crystal crown (Ithell)]]",
+      "name": "Crystal crown (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Ithell).png|link=Crystal crown (Ithell)]]",
+      "name": "Crystal crown (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Meilyr).png|link=Crystal crown (Meilyr)]]",
+      "name": "Crystal crown (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Meilyr).png|link=Crystal crown (Meilyr)]]",
+      "name": "Crystal crown (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Meilyr).png|link=Crystal crown (Meilyr)]]",
+      "name": "Crystal crown (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Meilyr).png|link=Crystal crown (Meilyr)]]",
+      "name": "Crystal crown (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Meilyr).png|link=Crystal crown (Meilyr)]]",
+      "name": "Crystal crown (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Meilyr).png|link=Crystal crown (Meilyr)]]",
+      "name": "Crystal crown (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Meilyr).png|link=Crystal crown (Meilyr)]]",
+      "name": "Crystal crown (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Trahaearn).png|link=Crystal crown (Trahaearn)]]",
+      "name": "Crystal crown (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Trahaearn).png|link=Crystal crown (Trahaearn)]]",
+      "name": "Crystal crown (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Trahaearn).png|link=Crystal crown (Trahaearn)]]",
+      "name": "Crystal crown (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Trahaearn).png|link=Crystal crown (Trahaearn)]]",
+      "name": "Crystal crown (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Trahaearn).png|link=Crystal crown (Trahaearn)]]",
+      "name": "Crystal crown (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Trahaearn).png|link=Crystal crown (Trahaearn)]]",
+      "name": "Crystal crown (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Trahaearn).png|link=Crystal crown (Trahaearn)]]",
+      "name": "Crystal crown (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Crystal shard",
         "quantity": "1"
       }
@@ -18823,6 +23303,1126 @@
     "ticks": "5"
   },
   {
+    "materials": [
+      {
+        "name": "Crystal helm (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
+      "name": "Crystal helm (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
+      "name": "Crystal helm (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
+      "name": "Crystal helm (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
+      "name": "Crystal helm (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
+      "name": "Crystal helm (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
+      "name": "Crystal helm (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
+      "name": "Crystal helm (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
+      "name": "Crystal helm (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
+      "name": "Crystal helm (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
+      "name": "Crystal helm (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
+      "name": "Crystal helm (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
+      "name": "Crystal helm (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
+      "name": "Crystal helm (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
+      "name": "Crystal helm (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
+      "name": "Crystal helm (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
+      "name": "Crystal helm (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
+      "name": "Crystal helm (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
+      "name": "Crystal helm (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
+      "name": "Crystal helm (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
+      "name": "Crystal helm (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
+      "name": "Crystal helm (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
+      "name": "Crystal helm (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
+      "name": "Crystal helm (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
+      "name": "Crystal helm (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
+      "name": "Crystal helm (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
+      "name": "Crystal helm (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
+      "name": "Crystal helm (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
+      "name": "Crystal helm (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
+      "name": "Crystal helm (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
+      "name": "Crystal helm (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
+      "name": "Crystal helm (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
+      "name": "Crystal helm (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
+      "name": "Crystal helm (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
+      "name": "Crystal helm (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
+      "name": "Crystal helm (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
+      "name": "Crystal helm (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
+      "name": "Crystal helm (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
+      "name": "Crystal helm (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
+      "name": "Crystal helm (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
+      "name": "Crystal helm (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
+      "name": "Crystal helm (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
+      "name": "Crystal helm (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
+      "name": "Crystal helm (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
+      "name": "Crystal helm (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
+      "name": "Crystal helm (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
+      "name": "Crystal helm (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
+      "name": "Crystal helm (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
+      "name": "Crystal helm (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
+      "name": "Crystal helm (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
@@ -19009,6 +24609,1126 @@
       }
     ],
     "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs.png|link=Crystal legs]]",
+      "name": "Crystal legs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs.png|link=Crystal legs]]",
+      "name": "Crystal legs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs.png|link=Crystal legs]]",
+      "name": "Crystal legs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs.png|link=Crystal legs]]",
+      "name": "Crystal legs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs.png|link=Crystal legs]]",
+      "name": "Crystal legs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs.png|link=Crystal legs]]",
+      "name": "Crystal legs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs.png|link=Crystal legs]]",
+      "name": "Crystal legs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
+      "name": "Crystal legs (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
+      "name": "Crystal legs (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
+      "name": "Crystal legs (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
+      "name": "Crystal legs (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
+      "name": "Crystal legs (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
+      "name": "Crystal legs (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
+      "name": "Crystal legs (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
+      "name": "Crystal legs (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
+      "name": "Crystal legs (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
+      "name": "Crystal legs (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
+      "name": "Crystal legs (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
+      "name": "Crystal legs (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
+      "name": "Crystal legs (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
+      "name": "Crystal legs (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
+      "name": "Crystal legs (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
+      "name": "Crystal legs (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
+      "name": "Crystal legs (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
+      "name": "Crystal legs (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
+      "name": "Crystal legs (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
+      "name": "Crystal legs (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
+      "name": "Crystal legs (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
+      "name": "Crystal legs (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
+      "name": "Crystal legs (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
+      "name": "Crystal legs (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
+      "name": "Crystal legs (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
+      "name": "Crystal legs (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
+      "name": "Crystal legs (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
+      "name": "Crystal legs (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
+      "name": "Crystal legs (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
+      "name": "Crystal legs (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
+      "name": "Crystal legs (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
+      "name": "Crystal legs (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
+      "name": "Crystal legs (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
+      "name": "Crystal legs (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
+      "name": "Crystal legs (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
+      "name": "Crystal legs (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
+      "name": "Crystal legs (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
+      "name": "Crystal legs (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
+      "name": "Crystal legs (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
+      "name": "Crystal legs (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
+      "name": "Crystal legs (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
+      "name": "Crystal legs (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
+      "name": "Crystal legs (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
+      "name": "Crystal legs (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
+      "name": "Crystal legs (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
+      "name": "Crystal legs (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
+      "name": "Crystal legs (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
+      "name": "Crystal legs (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal legs (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
+      "name": "Crystal legs (Trahaearn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing Bowl (The Gauntlet)",
@@ -26429,12 +33149,12 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "17.5",
         "level": "7",
         "name": "Magic"
       }
     ],
-    "ticks": "1"
+    "ticks": "3"
   },
   {
     "facilities": "Belona",
@@ -26725,6 +33445,33 @@
       {
         "boostable": "Yes",
         "experience": "160",
+        "level": "98",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Extended antifire(4)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crushed superior dragon bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Extended super antifire(4).png|link=Extended super antifire(4)]]",
+      "name": "Extended super antifire(4)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "180",
         "level": "98",
         "name": "Herblore"
       }
@@ -47528,33 +54275,6 @@
       },
       {
         "name": "Bowl of water",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Part mud pie (water).png|link=Part mud pie (water)]]",
-      "name": "Part mud pie (water)",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "29",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "materials": [
-      {
-        "name": "Part mud pie (compost)",
-        "quantity": "1"
-      },
-      {
-        "name": "Jug of water",
         "quantity": "1"
       }
     ],

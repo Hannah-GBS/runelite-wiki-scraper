@@ -11246,7 +11246,6 @@
     "sellMultiplier": "1100"
   },
   {
-    "buyMultiplier": "0",
     "isMembers": true,
     "items": [
       {
@@ -11259,8 +11258,7 @@
       }
     ],
     "location": "Miscellania Market",
-    "name": "Flower Girl",
-    "sellMultiplier": "1000"
+    "name": "Flower Girl"
   },
   {
     "buyMultiplier": "0",
@@ -19132,7 +19130,7 @@
         "currency": "Coins",
         "name": "Crystal crown (Ithell)",
         "stock": "3",
-        "version": "Ithell"
+        "version": ""
       },
       {
         "buyPrice": "N/A",
@@ -19434,6 +19432,14 @@
         "currency": "Coins",
         "name": "Cape of legends",
         "sellPrice": "1900",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Colossal blade",
+        "sellPrice": "300000",
         "stock": "inf",
         "version": ""
       },
