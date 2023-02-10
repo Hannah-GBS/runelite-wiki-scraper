@@ -87352,7 +87352,7 @@
   {
     "examineText": "Surprisingly this one's actually useful!",
     "group": "Useful rock",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 22191,
     "name": "Useful rock",
@@ -95111,83 +95111,83 @@
   },
   {
     "examineText": "A crown fit for the most wealthy of elves.",
-    "group": "Crystal crown",
+    "group": "Crystal crown (Ithell)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 23911,
     "name": "Crystal crown",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_crown",
-    "version": "Ithell"
+    "url": "https://oldschool.runescape.wiki/w/Crystal_crown_(Ithell)",
+    "version": ""
   },
   {
     "examineText": "A crown fit for the most wealthy of elves.",
-    "group": "Crystal crown",
+    "group": "Crystal crown (Iorwerth)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 23913,
     "name": "Crystal crown",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_crown",
-    "version": "Iorwerth"
+    "url": "https://oldschool.runescape.wiki/w/Crystal_crown_(Iorwerth)",
+    "version": ""
   },
   {
     "examineText": "A crown fit for the most wealthy of elves.",
-    "group": "Crystal crown",
+    "group": "Crystal crown (Trahaearn)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 23915,
     "name": "Crystal crown",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_crown",
-    "version": "Trahaearn"
+    "url": "https://oldschool.runescape.wiki/w/Crystal_crown_(Trahaearn)",
+    "version": ""
   },
   {
     "examineText": "A crown fit for the most wealthy of elves.",
-    "group": "Crystal crown",
+    "group": "Crystal crown (Cadarn)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 23917,
     "name": "Crystal crown",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_crown",
-    "version": "Cadarn"
+    "url": "https://oldschool.runescape.wiki/w/Crystal_crown_(Cadarn)",
+    "version": ""
   },
   {
     "examineText": "A crown fit for the most wealthy of elves.",
-    "group": "Crystal crown",
+    "group": "Crystal crown (Crwys)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 23919,
     "name": "Crystal crown",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_crown",
-    "version": "Crwys"
+    "url": "https://oldschool.runescape.wiki/w/Crystal_crown_(Crwys)",
+    "version": ""
   },
   {
     "examineText": "A crown fit for the most wealthy of elves.",
-    "group": "Crystal crown",
+    "group": "Crystal crown (Meilyr)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 23921,
     "name": "Crystal crown",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_crown",
-    "version": "Meilyr"
+    "url": "https://oldschool.runescape.wiki/w/Crystal_crown_(Meilyr)",
+    "version": ""
   },
   {
     "examineText": "A crown fit for the most wealthy of elves.",
-    "group": "Crystal crown",
+    "group": "Crystal crown (Hefin)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 23923,
     "name": "Crystal crown",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_crown",
-    "version": "Hefin"
+    "url": "https://oldschool.runescape.wiki/w/Crystal_crown_(Hefin)",
+    "version": ""
   },
   {
     "examineText": "A crown fit for the most wealthy of elves.",
-    "group": "Crystal crown",
+    "group": "Crystal crown (Amlodd)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 23925,
     "name": "Crystal crown",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_crown",
-    "version": "Amlodd"
+    "url": "https://oldschool.runescape.wiki/w/Crystal_crown_(Amlodd)",
+    "version": ""
   },
   {
     "examineText": "A crystal of the Ithell clan.",
@@ -98247,7 +98247,7 @@
     "itemID": 24551,
     "name": "Blade of saeldor (c)",
     "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)",
-    "version": "Hefin"
+    "version": ""
   },
   {
     "examineText": "A set of pyromancer robes.",
@@ -104377,147 +104377,147 @@
     "itemID": 25867,
     "name": "Bow of faerdhinen (c)",
     "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)",
-    "version": "Hefin"
+    "version": ""
   },
   {
     "examineText": "A magical elven sword, corrupted through the addition of too many shards.",
-    "group": "Blade of saeldor (c)",
+    "group": "Blade of saeldor (c) (Ithell)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25870,
     "name": "Blade of saeldor (c)",
-    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)",
-    "version": "Ithell"
+    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)_(Ithell)",
+    "version": ""
   },
   {
     "examineText": "A magical elven sword, corrupted through the addition of too many shards.",
-    "group": "Blade of saeldor (c)",
+    "group": "Blade of saeldor (c) (Iorwerth)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25872,
     "name": "Blade of saeldor (c)",
-    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)",
-    "version": "Iorwerth"
+    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)_(Iorwerth)",
+    "version": ""
   },
   {
     "examineText": "A magical elven sword, corrupted through the addition of too many shards.",
-    "group": "Blade of saeldor (c)",
+    "group": "Blade of saeldor (c) (Trahaearn)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25874,
     "name": "Blade of saeldor (c)",
-    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)",
-    "version": "Trahaearn"
+    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)_(Trahaearn)",
+    "version": ""
   },
   {
     "examineText": "A magical elven sword, corrupted through the addition of too many shards.",
-    "group": "Blade of saeldor (c)",
+    "group": "Blade of saeldor (c) (Cadarn)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25876,
     "name": "Blade of saeldor (c)",
-    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)",
-    "version": "Cadarn"
+    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)_(Cadarn)",
+    "version": ""
   },
   {
     "examineText": "A magical elven sword, corrupted through the addition of too many shards.",
-    "group": "Blade of saeldor (c)",
+    "group": "Blade of saeldor (c) (Crwys)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25878,
     "name": "Blade of saeldor (c)",
-    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)",
-    "version": "Crwys"
+    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)_(Crwys)",
+    "version": ""
   },
   {
     "examineText": "A magical elven sword, corrupted through the addition of too many shards.",
-    "group": "Blade of saeldor (c)",
+    "group": "Blade of saeldor (c) (Meilyr)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25880,
     "name": "Blade of saeldor (c)",
-    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)",
-    "version": "Meilyr"
+    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)_(Meilyr)",
+    "version": ""
   },
   {
     "examineText": "A magical elven sword, corrupted through the addition of too many shards.",
-    "group": "Blade of saeldor (c)",
+    "group": "Blade of saeldor (c) (Amlodd)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25882,
     "name": "Blade of saeldor (c)",
-    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)",
-    "version": "Amlodd"
+    "url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)_(Amlodd)",
+    "version": ""
   },
   {
     "examineText": "A magical elven bow, corrupted through the addition of too many shards.",
-    "group": "Bow of faerdhinen (c)",
+    "group": "Bow of faerdhinen (c) (Ithell)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25884,
     "name": "Bow of faerdhinen (c)",
-    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)",
-    "version": "Ithell"
+    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)_(Ithell)",
+    "version": ""
   },
   {
     "examineText": "A magical elven bow, corrupted through the addition of too many shards.",
-    "group": "Bow of faerdhinen (c)",
+    "group": "Bow of faerdhinen (c) (Iorwerth)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25886,
     "name": "Bow of faerdhinen (c)",
-    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)",
-    "version": "Iorwerth"
+    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)_(Iorwerth)",
+    "version": ""
   },
   {
     "examineText": "A magical elven bow, corrupted through the addition of too many shards.",
-    "group": "Bow of faerdhinen (c)",
+    "group": "Bow of faerdhinen (c) (Trahaearn)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25888,
     "name": "Bow of faerdhinen (c)",
-    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)",
-    "version": "Trahaearn"
+    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)_(Trahaearn)",
+    "version": ""
   },
   {
     "examineText": "A magical elven bow, corrupted through the addition of too many shards.",
-    "group": "Bow of faerdhinen (c)",
+    "group": "Bow of faerdhinen (c) (Cadarn)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25890,
     "name": "Bow of faerdhinen (c)",
-    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)",
-    "version": "Cadarn"
+    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)_(Cadarn)",
+    "version": ""
   },
   {
     "examineText": "A magical elven bow, corrupted through the addition of too many shards.",
-    "group": "Bow of faerdhinen (c)",
+    "group": "Bow of faerdhinen (c) (Crwys)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25892,
     "name": "Bow of faerdhinen (c)",
-    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)",
-    "version": "Crwys"
+    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)_(Crwys)",
+    "version": ""
   },
   {
     "examineText": "A magical elven bow, corrupted through the addition of too many shards.",
-    "group": "Bow of faerdhinen (c)",
+    "group": "Bow of faerdhinen (c) (Meilyr)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25894,
     "name": "Bow of faerdhinen (c)",
-    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)",
-    "version": "Meilyr"
+    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)_(Meilyr)",
+    "version": ""
   },
   {
     "examineText": "A magical elven bow, corrupted through the addition of too many shards.",
-    "group": "Bow of faerdhinen (c)",
+    "group": "Bow of faerdhinen (c) (Amlodd)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25896,
     "name": "Bow of faerdhinen (c)",
-    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)",
-    "version": "Amlodd"
+    "url": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)_(Amlodd)",
+    "version": ""
   },
   {
     "examineText": "You don't want to wear it inside-out.",
@@ -113298,5 +113298,445 @@
     "name": "Dragon pickaxe (broken)",
     "url": "https://oldschool.runescape.wiki/w/Dragon_pickaxe_(broken)",
     "version": ""
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Hefin)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27697,
+    "name": "Crystal body",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Hefin)",
+    "version": "Active"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Hefin)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27699,
+    "name": "Crystal body (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Hefin)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Hefin)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27701,
+    "name": "Crystal legs",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Hefin)",
+    "version": "Active"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Hefin)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27703,
+    "name": "Crystal legs (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Hefin)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Hefin)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27705,
+    "name": "Crystal helm",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Hefin)",
+    "version": "Active"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Hefin)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27707,
+    "name": "Crystal helm (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Hefin)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Ithell)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27709,
+    "name": "Crystal body",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Ithell)",
+    "version": "Active"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Ithell)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27711,
+    "name": "Crystal body (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Ithell)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Ithell)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27713,
+    "name": "Crystal legs",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Ithell)",
+    "version": "Active"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Ithell)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27715,
+    "name": "Crystal legs (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Ithell)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Ithell)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27717,
+    "name": "Crystal helm",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Ithell)",
+    "version": "Active"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Ithell)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27719,
+    "name": "Crystal helm (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Ithell)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Iorwerth)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27721,
+    "name": "Crystal body",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Iorwerth)",
+    "version": "Active"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Iorwerth)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27723,
+    "name": "Crystal body (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Iorwerth)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Iorwerth)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27725,
+    "name": "Crystal legs",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Iorwerth)",
+    "version": "Active"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Iorwerth)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27727,
+    "name": "Crystal legs (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Iorwerth)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Iorwerth)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27729,
+    "name": "Crystal helm",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Iorwerth)",
+    "version": "Active"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Iorwerth)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27731,
+    "name": "Crystal helm (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Iorwerth)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Trahaearn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27733,
+    "name": "Crystal body",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Trahaearn)",
+    "version": "Active"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Trahaearn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27735,
+    "name": "Crystal body (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Trahaearn)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Trahaearn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27737,
+    "name": "Crystal legs",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Trahaearn)",
+    "version": "Active"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Trahaearn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27739,
+    "name": "Crystal legs (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Trahaearn)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Trahaearn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27741,
+    "name": "Crystal helm",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Trahaearn)",
+    "version": "Active"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Trahaearn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27743,
+    "name": "Crystal helm (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Trahaearn)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Cadarn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27745,
+    "name": "Crystal body",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Cadarn)",
+    "version": "Active"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Cadarn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27747,
+    "name": "Crystal body (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Cadarn)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Cadarn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27749,
+    "name": "Crystal legs",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Cadarn)",
+    "version": "Active"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Cadarn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27751,
+    "name": "Crystal legs (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Cadarn)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Cadarn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27753,
+    "name": "Crystal helm",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Cadarn)",
+    "version": "Active"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Cadarn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27755,
+    "name": "Crystal helm (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Cadarn)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Crwys)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27757,
+    "name": "Crystal body",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Crwys)",
+    "version": "Active"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Crwys)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27759,
+    "name": "Crystal body (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Crwys)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Crwys)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27761,
+    "name": "Crystal legs",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Crwys)",
+    "version": "Active"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Crwys)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27763,
+    "name": "Crystal legs (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Crwys)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Crwys)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27765,
+    "name": "Crystal helm",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Crwys)",
+    "version": "Active"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Crwys)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27767,
+    "name": "Crystal helm (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Crwys)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Amlodd)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27769,
+    "name": "Crystal body",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Amlodd)",
+    "version": "Active"
+  },
+  {
+    "examineText": "Sturdier than it looks.",
+    "group": "Crystal body (Amlodd)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27771,
+    "name": "Crystal body (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_body_(Amlodd)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Amlodd)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27773,
+    "name": "Crystal legs",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Amlodd)",
+    "version": "Active"
+  },
+  {
+    "examineText": "A bright, shiny set of leg armour.",
+    "group": "Crystal legs (Amlodd)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27775,
+    "name": "Crystal legs (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_legs_(Amlodd)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Amlodd)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27777,
+    "name": "Crystal helm",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Amlodd)",
+    "version": "Active"
+  },
+  {
+    "examineText": "This helmet shines bright, like a diamond.",
+    "group": "Crystal helm (Amlodd)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27779,
+    "name": "Crystal helm (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_helm_(Amlodd)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A mighty sceptre used in long forgotten battles.",
+    "group": "Thammaron's sceptre (a)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27785,
+    "name": "Thammaron's sceptre (au)",
+    "url": "https://oldschool.runescape.wiki/w/Thammaron%27s_sceptre_(a)",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "A mighty sceptre used in long forgotten battles.",
+    "group": "Thammaron's sceptre (a)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27788,
+    "name": "Thammaron's sceptre (a)",
+    "url": "https://oldschool.runescape.wiki/w/Thammaron%27s_sceptre_(a)",
+    "version": "Charged"
   }
 ]
