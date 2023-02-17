@@ -13550,7 +13550,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "1600",
         "currency": "Foundry Reputation",
         "name": "Double ammo mould",
         "sellPrice": "2000",
@@ -13566,7 +13566,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "160",
         "currency": "Foundry Reputation",
         "name": "Ore pack (Giants' Foundry)",
         "sellPrice": "200",
@@ -13574,7 +13574,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "12",
         "currency": "Foundry Reputation",
         "name": "Smithing catalyst",
         "sellPrice": "15",
@@ -13582,7 +13582,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "2800",
         "currency": "Foundry Reputation",
         "name": "Smiths boots",
         "sellPrice": "3500",
@@ -13590,7 +13590,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "2800",
         "currency": "Foundry Reputation",
         "name": "Smiths gloves",
         "sellPrice": "3500",
@@ -13598,7 +13598,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "3200",
         "currency": "Foundry Reputation",
         "name": "Smiths trousers",
         "sellPrice": "4000",
@@ -13606,7 +13606,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "3200",
         "currency": "Foundry Reputation",
         "name": "Smiths tunic",
         "sellPrice": "4000",
@@ -19454,6 +19454,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Dwarven helmet",
+        "sellPrice": "115000",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Ectophial",
         "sellPrice": "4600",
         "stock": "inf",
@@ -19536,6 +19544,14 @@
         "currency": "Coins",
         "name": "Guthix cape",
         "sellPrice": "23000",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Helm of neitiznot",
+        "sellPrice": "95000",
         "stock": "inf",
         "version": ""
       },
