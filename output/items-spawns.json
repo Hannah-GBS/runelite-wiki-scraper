@@ -2537,6 +2537,12 @@
         "name": "Cup of Tea"
       },
       {
+        "coords": "3490,3059",
+        "isMembers": true,
+        "location": "Uzer Oasis - inside Ali the Tea Seller's house",
+        "name": "Cup of Tea"
+      },
+      {
         "coords": "3271,3413",
         "isMembers": true,
         "location": "Varrock - Ye olde Tea Shoppe.",
@@ -2547,7 +2553,12 @@
         "isMembers": true,
         "location": "Woodcutting Guild - inside Sawmill operator building",
         "name": "Cup of Tea"
-      },
+      }
+    ]
+  },
+  {
+    "group": "Cup of tea (Zogre Flesh Eaters)",
+    "spawns": [
       {
         "coords": "2593,3103",
         "isMembers": true,
@@ -3717,6 +3728,12 @@
         "name": "Jug"
       },
       {
+        "coords": "3512,3049",
+        "isMembers": false,
+        "location": "Uzer Oasis - Cassim's house",
+        "name": "Jug"
+      },
+      {
         "coords": "3272,3409",
         "isMembers": false,
         "location": "Varrock - Ye olde Tea Shoppe",
@@ -3737,6 +3754,12 @@
         "coords": "1794,3611",
         "isMembers": true,
         "location": "Hosidius - eastern house with Fruit Stalls",
+        "name": "Jug of water"
+      },
+      {
+        "coords": "3485,3056",
+        "isMembers": true,
+        "location": "Uzer Oasis - Ali the Tea Seller's house",
         "name": "Jug of water"
       },
       {
@@ -5425,7 +5448,7 @@
       {
         "coords": "1686,3459",
         "isMembers": true,
-        "location": "Kourend - all around the east and south coast",
+        "location": "Kourend - all around the southeast coast",
         "name": "Seaweed"
       },
       {

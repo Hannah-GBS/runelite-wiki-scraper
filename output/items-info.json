@@ -57950,6 +57950,146 @@
     "version": ""
   },
   {
+    "examineText": "A large piece of Sarachnis' shell.",
+    "group": "Sarachnis chitin",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10639,
+    "name": "Sarachnis chitin",
+    "url": "https://oldschool.runescape.wiki/w/Sarachnis_chitin",
+    "version": ""
+  },
+  {
+    "examineText": "Essence left behind from a vanquished vampire.",
+    "group": "Vampyric essence",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10641,
+    "name": "Vampyric essence",
+    "url": "https://oldschool.runescape.wiki/w/Vampyric_essence",
+    "version": ""
+  },
+  {
+    "examineText": "A strange sigil obtained from a powerful creature found in the wilderness.",
+    "group": "Forinthry sigil",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10644,
+    "name": "Forinthry sigil",
+    "url": "https://oldschool.runescape.wiki/w/Forinthry_sigil",
+    "version": ""
+  },
+  {
+    "examineText": "A large sharp piece of the phantom muspah, solid to the touch yet ethereal in nature.",
+    "group": "Muspah spike",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10646,
+    "name": "Muspah spike",
+    "url": "https://oldschool.runescape.wiki/w/Muspah_spike",
+    "version": ""
+  },
+  {
+    "examineText": "An emblem to Zaros found on one of their followers.",
+    "group": "Zarosian emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10647,
+    "name": "Zarosian emblem",
+    "url": "https://oldschool.runescape.wiki/w/Zarosian_emblem",
+    "version": ""
+  },
+  {
+    "examineText": "A large piece of crystal.",
+    "group": "Crystal chunk",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10648,
+    "name": "Crystal chunk",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_chunk",
+    "version": ""
+  },
+  {
+    "examineText": "A coin looted from the tomb of Osmumten.",
+    "group": "Osmumten's coin",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10649,
+    "name": "Osmumten's coin",
+    "url": "https://oldschool.runescape.wiki/w/Osmumten%27s_coin",
+    "version": ""
+  },
+  {
+    "examineText": "A brick found within the Hallowed Sepulchre.",
+    "group": "Hallowed bricks",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10651,
+    "name": "Hallowed bricks",
+    "url": "https://oldschool.runescape.wiki/w/Hallowed_bricks",
+    "version": ""
+  },
+  {
+    "examineText": "A piece of essence infused with abyssal energy, unable to be used for Runecraft.",
+    "group": "Abyssal-tainted essence",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10652,
+    "name": "Abyssal-tainted essence",
+    "url": "https://oldschool.runescape.wiki/w/Abyssal-tainted_essence",
+    "version": ""
+  },
+  {
+    "examineText": "A large piece of a casket.",
+    "group": "Casket piece",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10654,
+    "name": "Casket piece",
+    "url": "https://oldschool.runescape.wiki/w/Casket_piece",
+    "version": ""
+  },
+  {
+    "examineText": "A large piece of Barronite unable to be broken down further.",
+    "group": "Chunk of barronite",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10657,
+    "name": "Chunk of barronite",
+    "url": "https://oldschool.runescape.wiki/w/Chunk_of_barronite",
+    "version": ""
+  },
+  {
+    "examineText": "A piece of fabric torn from Death's robe.",
+    "group": "Death's fabric",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10658,
+    "name": "Death's fabric",
+    "url": "https://oldschool.runescape.wiki/w/Death%27s_fabric",
+    "version": ""
+  },
+  {
+    "examineText": "A large shard mined from a shooting star.",
+    "group": "Star shard",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10659,
+    "name": "Star shard",
+    "url": "https://oldschool.runescape.wiki/w/Star_shard",
+    "version": ""
+  },
+  {
+    "examineText": "A container containing shifting water trying to return to Tempoross.",
+    "group": "Tempoross remnant",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10661,
+    "name": "Tempoross remnant",
+    "url": "https://oldschool.runescape.wiki/w/Tempoross_remnant",
+    "version": ""
+  },
+  {
     "examineText": "Arctic pine logs prepared with sacred oil for a funeral pyre.",
     "group": "Arctic pyre logs",
     "isMembers": true,
@@ -86540,7 +86680,7 @@
     "version": ""
   },
   {
-    "examineText": "This book contains records of censuses that were carried out in Avarrocka and later Varrock.",
+    "examineText": "This book contains records of censuses that were carried out in Avarrocka and Varrock.",
     "group": "Varrock census records",
     "isMembers": true,
     "isTradeable": false,
@@ -113747,6 +113887,206 @@
     "itemID": 27790,
     "name": "Nightshade",
     "url": "https://oldschool.runescape.wiki/w/Nightshade",
+    "version": ""
+  },
+  {
+    "examineText": "Slightly less useful for baking cakes.",
+    "group": "Cracked cake tin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27794,
+    "name": "Cracked cake tin",
+    "url": "https://oldschool.runescape.wiki/w/Cracked_cake_tin",
+    "version": ""
+  },
+  {
+    "examineText": "A shiny tin for shiny cakes.",
+    "group": "Prized cake tin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27795,
+    "name": "Prized cake tin",
+    "url": "https://oldschool.runescape.wiki/w/Prized_cake_tin",
+    "version": ""
+  },
+  {
+    "examineText": "A hastily written note for Bob.",
+    "group": "Promissory note (2023 Birthday event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27796,
+    "name": "Promissory note",
+    "url": "https://oldschool.runescape.wiki/w/Promissory_note_(2023_Birthday_event)",
+    "version": ""
+  },
+  {
+    "examineText": "Lumbridge's entry into the Great Gielinor Cake Off.",
+    "group": "Special cake",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27797,
+    "name": "Special cake",
+    "url": "https://oldschool.runescape.wiki/w/Special_cake",
+    "version": ""
+  },
+  {
+    "examineText": "King Roald has slightly overdone this one.",
+    "group": "Varrock cake",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27798,
+    "name": "Varrock cake",
+    "url": "https://oldschool.runescape.wiki/w/Varrock_cake",
+    "version": ""
+  },
+  {
+    "examineText": "The Gnome Child has done a fantastic job baking this!",
+    "group": "Gnome cake",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27799,
+    "name": "Gnome cake",
+    "url": "https://oldschool.runescape.wiki/w/Gnome_cake",
+    "version": ""
+  },
+  {
+    "examineText": "It's only meant to look like chocolate.",
+    "group": "Goblin cake",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27800,
+    "name": "Goblin cake",
+    "url": "https://oldschool.runescape.wiki/w/Goblin_cake",
+    "version": ""
+  },
+  {
+    "examineText": "Pie might just about meet the criteria.",
+    "group": "Dwarf cake",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27801,
+    "name": "Dwarf cake",
+    "url": "https://oldschool.runescape.wiki/w/Dwarf_cake",
+    "version": ""
+  },
+  {
+    "examineText": "Wait...who's wearing who in this situation?!",
+    "group": "Gnome child backpack",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27802,
+    "name": "Gnome child backpack",
+    "url": "https://oldschool.runescape.wiki/w/Gnome_child_backpack",
+    "version": ""
+  },
+  {
+    "examineText": "Fashionable and delicious.",
+    "group": "Cake hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27804,
+    "name": "Cake hat",
+    "url": "https://oldschool.runescape.wiki/w/Cake_hat",
+    "version": ""
+  },
+  {
+    "examineText": "No cats were harmed in the making of these slippers.",
+    "group": "Bob the cat slippers",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27806,
+    "name": "Bob the cat slippers",
+    "url": "https://oldschool.runescape.wiki/w/Bob_the_cat_slippers",
+    "version": ""
+  },
+  {
+    "examineText": "Look out, here come ToesTok-Jad!",
+    "group": "Jad slippers",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27808,
+    "name": "Jad slippers",
+    "url": "https://oldschool.runescape.wiki/w/Jad_slippers",
+    "version": ""
+  },
+  {
+    "examineText": "A candle lit by the fire of a dragon.",
+    "group": "Dragon candle dagger",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27810,
+    "name": "Dragon candle dagger",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_candle_dagger",
+    "version": ""
+  },
+  {
+    "examineText": "A cape made from a certain red and gold banner...where have I seen this before?",
+    "group": "10th birthday cape",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27812,
+    "name": "10th birthday cape",
+    "url": "https://oldschool.runescape.wiki/w/10th_birthday_cape",
+    "version": ""
+  },
+  {
+    "examineText": "An adorable plushy based on a familiar face!",
+    "group": "Jad plush",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27814,
+    "name": "Jad plush",
+    "url": "https://oldschool.runescape.wiki/w/Jad_plush",
+    "version": ""
+  },
+  {
+    "examineText": "An adorable plushy based on a familiar face!",
+    "group": "Stray dog plush",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27816,
+    "name": "Stray dog plush",
+    "url": "https://oldschool.runescape.wiki/w/Stray_dog_plush",
+    "version": ""
+  },
+  {
+    "examineText": "An adorable plushy based on a familiar face!",
+    "group": "Gnome child plush",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27818,
+    "name": "Gnome child plush",
+    "url": "https://oldschool.runescape.wiki/w/Gnome_child_plush",
+    "version": ""
+  },
+  {
+    "examineText": "Double digits!",
+    "group": "10th birthday balloons",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27820,
+    "name": "10th birthday balloons",
+    "url": "https://oldschool.runescape.wiki/w/10th_birthday_balloons",
+    "version": ""
+  },
+  {
+    "examineText": "A cosy piece of Oldschool memorabilia!",
+    "group": "Oldschool jumper",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27822,
+    "name": "Oldschool jumper",
+    "url": "https://oldschool.runescape.wiki/w/Oldschool_jumper",
+    "version": ""
+  },
+  {
+    "examineText": "A nice silver hat commemorating 10 years of Oldschool!",
+    "group": "Silver partyhat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27828,
+    "name": "Silver partyhat",
+    "url": "https://oldschool.runescape.wiki/w/Silver_partyhat",
     "version": ""
   }
 ]
