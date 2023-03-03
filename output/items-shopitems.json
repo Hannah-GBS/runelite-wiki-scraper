@@ -23903,7 +23903,7 @@
         "currency": "Points",
         "name": "Blighted surge sack",
         "sellPrice": "10",
-        "stock": "\u221e",
+        "stock": "inf",
         "version": ""
       },
       {
@@ -23911,7 +23911,7 @@
         "currency": "Points",
         "name": "Blighted wave sack",
         "sellPrice": "10",
-        "stock": "\u221e",
+        "stock": "inf",
         "version": ""
       },
       {
@@ -23919,7 +23919,7 @@
         "currency": "Points",
         "name": "Scroll of imbuing",
         "sellPrice": "200",
-        "stock": "\u221e",
+        "stock": "inf",
         "version": ""
       }
     ],
