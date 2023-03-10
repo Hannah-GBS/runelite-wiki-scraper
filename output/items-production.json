@@ -5844,6 +5844,10 @@
         "quantity": "1"
       },
       {
+        "name": "Ball of wool",
+        "quantity": "0.0666"
+      },
+      {
         "name": "Rock (elemental)",
         "quantity": "1"
       }
@@ -5856,13 +5860,17 @@
     },
     "skills": [],
     "ticks": "3",
-    "tools": "Ogre bellows, Ball of wool"
+    "tools": "Ogre bellows"
   },
   {
     "materials": [
       {
         "name": "Bloated toad",
         "quantity": "1"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "0.0666"
       },
       {
         "name": "Rock (limestone)",
@@ -5877,7 +5885,7 @@
     },
     "skills": [],
     "ticks": "3",
-    "tools": "Ogre bellows, Ball of wool"
+    "tools": "Ogre bellows"
   },
   {
     "materials": [
@@ -8199,7 +8207,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">127,780,502</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">129,008,584</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11678,7 +11686,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">127,926,986</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">133,650,023</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18060,11 +18068,11 @@
   {
     "materials": [
       {
-        "name": "Ugthanki meat",
+        "name": "Bowl",
         "quantity": "1"
       },
       {
-        "name": "Bowl",
+        "name": "Ugthanki meat",
         "quantity": "1"
       }
     ],
@@ -47083,11 +47091,11 @@
   {
     "materials": [
       {
-        "name": "Cooked meat",
+        "name": "Bowl",
         "quantity": "1"
       },
       {
-        "name": "Bowl",
+        "name": "Cooked meat",
         "quantity": "1"
       }
     ],
@@ -60443,6 +60451,106 @@
     "tools": "Chisel"
   },
   {
+    "facilities": "Preparation Table",
+    "materials": [
+      {
+        "name": "Raw catfish",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruined catfish.png|link=Ruined catfish]]",
+      "name": "Ruined catfish",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "46",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "",
+    "tools": "Knife"
+  },
+  {
+    "facilities": "Preparation Table",
+    "materials": [
+      {
+        "name": "Raw cavefish",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Ruined cavefish.png|link=Ruined cavefish]]",
+      "name": "Ruined cavefish",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "20",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "",
+    "tools": "Knife"
+  },
+  {
+    "facilities": "Preparation Table",
+    "materials": [
+      {
+        "name": "Raw guppy",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Ruined guppy.png|link=Ruined guppy]]",
+      "name": "Ruined guppy",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "7",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "",
+    "tools": "Knife"
+  },
+  {
+    "facilities": "Preparation Table",
+    "materials": [
+      {
+        "name": "Raw tetra",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Ruined tetra.png|link=Ruined tetra]]",
+      "name": "Ruined tetra",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "33",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "",
+    "tools": "Knife"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -66999,11 +67107,11 @@
   {
     "materials": [
       {
-        "name": "Mushroom",
+        "name": "Bowl",
         "quantity": "1"
       },
       {
-        "name": "Bowl",
+        "name": "Mushroom",
         "quantity": "1"
       }
     ],
@@ -69907,7 +70015,7 @@
       }
     ],
     "ticks": "4",
-    "tools": "knife"
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -75499,11 +75607,11 @@
   {
     "materials": [
       {
-        "name": "Chopped tuna",
+        "name": "Sweetcorn (bowl)",
         "quantity": "1"
       },
       {
-        "name": "Cooked sweetcorn",
+        "name": "Chopped tuna",
         "quantity": "1"
       }
     ],
@@ -75527,7 +75635,7 @@
   {
     "materials": [
       {
-        "name": "Sweetcorn (bowl)",
+        "name": "Cooked sweetcorn",
         "quantity": "1"
       },
       {
@@ -75987,7 +76095,8 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "2"
+    "ticks": "2",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -76007,7 +76116,8 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "2"
+    "ticks": "2",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -76027,7 +76137,8 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "2"
+    "ticks": "2",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -76047,7 +76158,8 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "2"
+    "ticks": "2",
+    "tools": "Knife"
   },
   {
     "materials": [
