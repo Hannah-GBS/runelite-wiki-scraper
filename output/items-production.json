@@ -8207,7 +8207,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">129,008,584</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">133,151,877</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11686,7 +11686,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">133,650,023</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">133,554,292</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15944,6 +15944,56 @@
     "ticks": ""
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw sardine",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Burnt fish (sardine).png|link=Burnt fish (sardine)]]",
+      "name": "Burnt fish (sardine)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "name": "Raw sardine",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Burnt fish (sardine).png|link=Burnt fish (sardine)]]",
+      "name": "Burnt fish (sardine)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
     "facilities": "Bone grinder",
     "materials": [
       {
@@ -16214,6 +16264,78 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw boar meat",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Burnt meat.png|link=Burnt meat]]",
+      "name": "Burnt meat",
+      "outputnote": "This recipe has a chance to give a [[cooked meat]] instead.",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw shrimps",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Burnt shrimp.png|link=Burnt shrimp]]",
+      "name": "Burnt shrimp",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "name": "Raw shrimps",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Burnt shrimp.png|link=Burnt shrimp]]",
+      "name": "Burnt shrimp",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "materials": [
@@ -63951,6 +64073,30 @@
     "ticks": "1"
   },
   {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "name": "Raw sardine",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Sardine.png|link=Sardine]]",
+      "name": "Sardine",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "40",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Imbued heart",
@@ -65783,6 +65929,30 @@
   },
   {
     "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw shrimps",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Shrimps.png|link=Shrimps]]",
+      "name": "Shrimps",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "30",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Fire",
     "materials": [
       {
         "name": "Raw shrimps",

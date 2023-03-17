@@ -9411,63 +9411,63 @@
   },
   {
     "examineText": "A red key from Melzar's Maze (Used in the Dragon Slayer I quest).",
-    "group": "Key (Melzar's Maze)",
+    "group": "Key (red)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 1543,
     "name": "Key",
-    "url": "https://oldschool.runescape.wiki/w/Key_(Melzar%27s_Maze)",
-    "version": "Red"
+    "url": "https://oldschool.runescape.wiki/w/Key_(red)",
+    "version": ""
   },
   {
     "examineText": "An orange key from Melzar's Maze (Used in the Dragon Slayer I quest).",
-    "group": "Key (Melzar's Maze)",
+    "group": "Key (orange)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 1544,
     "name": "Key",
-    "url": "https://oldschool.runescape.wiki/w/Key_(Melzar%27s_Maze)",
-    "version": "Orange"
+    "url": "https://oldschool.runescape.wiki/w/Key_(orange)",
+    "version": ""
   },
   {
     "examineText": "A yellow key from Melzar's Maze (Used in the Dragon Slayer I quest).",
-    "group": "Key (Melzar's Maze)",
+    "group": "Key (yellow)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 1545,
     "name": "Key",
-    "url": "https://oldschool.runescape.wiki/w/Key_(Melzar%27s_Maze)",
-    "version": "Yellow"
+    "url": "https://oldschool.runescape.wiki/w/Key_(yellow)",
+    "version": ""
   },
   {
     "examineText": "A blue key from Melzar's Maze (Used in the Dragon Slayer I quest).",
-    "group": "Key (Melzar's Maze)",
+    "group": "Key (blue)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 1546,
     "name": "Key",
-    "url": "https://oldschool.runescape.wiki/w/Key_(Melzar%27s_Maze)",
-    "version": "Blue"
+    "url": "https://oldschool.runescape.wiki/w/Key_(blue)",
+    "version": ""
   },
   {
     "examineText": "A magenta key from Melzar's Maze (Used in the Dragon Slayer I quest).",
-    "group": "Key (Melzar's Maze)",
+    "group": "Key (magenta)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 1547,
     "name": "Key",
-    "url": "https://oldschool.runescape.wiki/w/Key_(Melzar%27s_Maze)",
-    "version": "Magenta"
+    "url": "https://oldschool.runescape.wiki/w/Key_(magenta)",
+    "version": ""
   },
   {
     "examineText": "A green key from Melzar's Maze (Used in the Dragon Slayer I quest).",
-    "group": "Key (Melzar's Maze)",
+    "group": "Key (green)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 1548,
     "name": "Key",
-    "url": "https://oldschool.runescape.wiki/w/Key_(Melzar%27s_Maze)",
-    "version": "Green"
+    "url": "https://oldschool.runescape.wiki/w/Key_(green)",
+    "version": ""
   },
   {
     "examineText": "A very pointy stick.",
@@ -64650,7 +64650,7 @@
     "version": "Closed"
   },
   {
-    "examineText": "An icy key that can be used to access a boss rooms in the God Wars Dungeon.",
+    "examineText": "An icy key that can be used to access a boss room in the God Wars Dungeon.",
     "group": "Ecumenical key",
     "isMembers": true,
     "isTradeable": false,
