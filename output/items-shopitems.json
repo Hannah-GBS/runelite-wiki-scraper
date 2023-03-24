@@ -10007,6 +10007,53 @@
     "sellMultiplier": "1000"
   },
   {
+    "isMembers": false,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Speedrunning Points",
+        "name": "Adventurer's outfit (tier 1)",
+        "sellPrice": "200",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Speedrunning Points",
+        "name": "Adventurer's outfit (tier 2)",
+        "sellPrice": "600",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Speedrunning Points",
+        "name": "Adventurer's outfit (tier 3)",
+        "sellPrice": "1800",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Speedrunning Points",
+        "name": "Giant stopwatch",
+        "sellPrice": "1200",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Speedrunning Points",
+        "name": "Speedy teleport scroll",
+        "sellPrice": "600",
+        "stock": "inf",
+        "version": ""
+      }
+    ],
+    "location": "Varrock Square",
+    "name": "Eliza"
+  },
+  {
     "isMembers": true,
     "items": [
       {
@@ -27214,7 +27261,7 @@
         "currency": "Speedrunning Points",
         "name": "Adventurer's outfit (tier 1)",
         "sellPrice": "200",
-        "stock": "\u221e",
+        "stock": "inf",
         "version": ""
       },
       {
@@ -27222,7 +27269,7 @@
         "currency": "Speedrunning Points",
         "name": "Adventurer's outfit (tier 2)",
         "sellPrice": "600",
-        "stock": "\u221e",
+        "stock": "inf",
         "version": ""
       },
       {
@@ -27230,7 +27277,7 @@
         "currency": "Speedrunning Points",
         "name": "Adventurer's outfit (tier 3)",
         "sellPrice": "1800",
-        "stock": "\u221e",
+        "stock": "inf",
         "version": ""
       },
       {
@@ -27238,7 +27285,7 @@
         "currency": "Speedrunning Points",
         "name": "Giant stopwatch",
         "sellPrice": "1200",
-        "stock": "\u221e",
+        "stock": "inf",
         "version": ""
       },
       {
@@ -27246,7 +27293,7 @@
         "currency": "Speedrunning Points",
         "name": "Speedy teleport scroll",
         "sellPrice": "600",
-        "stock": "\u221e",
+        "stock": "inf",
         "version": ""
       }
     ],
