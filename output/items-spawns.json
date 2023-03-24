@@ -1009,6 +1009,12 @@
         "isMembers": true,
         "location": "East Ardougne - basement of the Carnillean Mansion",
         "name": "Bread"
+      },
+      {
+        "coords": "2209,3414",
+        "isMembers": false,
+        "location": "Gwenith - inside Preswylwyr Dall's home",
+        "name": "Bread"
       }
     ]
   },
@@ -1737,6 +1743,12 @@
         "name": "Bucket of water"
       },
       {
+        "coords": "2213,3415",
+        "isMembers": false,
+        "location": "Gwenith - inside Preswylwyr Dall's home",
+        "name": "Bucket of water"
+      },
+      {
         "coords": "3622,3223",
         "isMembers": true,
         "location": "Meiyerditch - all around the city",
@@ -2154,6 +2166,12 @@
         "coords": "3320,2708",
         "isMembers": true,
         "location": "Necropolis mine - south-east of Sophanem",
+        "name": "Chisel"
+      },
+      {
+        "coords": "3252,6061",
+        "isMembers": true,
+        "location": "Prifddinas - on a table in Aneirin's Armour",
         "name": "Chisel"
       },
       {
@@ -2804,7 +2822,7 @@
       {
         "coords": "2453,4476",
         "isMembers": true,
-        "location": "Zanaris - chicken shrine",
+        "location": "Zanaris - Chicken shrine",
         "name": "Egg"
       }
     ]
@@ -3079,7 +3097,7 @@
       {
         "coords": "1965,9082",
         "isMembers": false,
-        "location": "Corsair Cove Dungeon - northern end{{Refn|name=telegrab}}",
+        "location": "Corsair Cove Dungeon - northern end",
         "name": "Gold bar"
       },
       {
@@ -3328,6 +3346,12 @@
         "coords": "2351,9383",
         "isMembers": true,
         "location": "Observatory Dungeon",
+        "name": "Hammer"
+      },
+      {
+        "coords": "3251,6061",
+        "isMembers": true,
+        "location": "Prifddinas - on a table in Aneirin's Armour",
         "name": "Hammer"
       },
       {
@@ -3618,6 +3642,17 @@
         "isMembers": true,
         "location": "Weiss - Salt Mines",
         "name": "Iron pickaxe"
+      }
+    ]
+  },
+  {
+    "group": "Iron platebody",
+    "spawns": [
+      {
+        "coords": "3253,6060",
+        "isMembers": true,
+        "location": "Prifddinas - on a table in Aneirin's Armour",
+        "name": "Chisel"
       }
     ]
   },
@@ -4061,7 +4096,7 @@
       {
         "coords": "1529,3646",
         "isMembers": true,
-        "location": "Shayzien Encampment",
+        "location": "Shayzien Encampment (only obtainable with Telekinetic Grab)",
         "name": "Leather"
       }
     ]
@@ -4474,6 +4509,12 @@
         "name": "Needle"
       },
       {
+        "coords": "3229,6068",
+        "isMembers": true,
+        "location": "Prifddinas - west inside Lliann's Wares",
+        "name": "Needle"
+      },
+      {
         "coords": "1529,3645",
         "isMembers": true,
         "location": "Shayzien Encampment",
@@ -4757,6 +4798,17 @@
     ]
   },
   {
+    "group": "Pineapple",
+    "spawns": [
+      {
+        "coords": "3231,6087",
+        "isMembers": true,
+        "location": "Prifddinas - west on a table in Tatie's home",
+        "name": "Pineapple"
+      }
+    ]
+  },
+  {
     "group": "Plank",
     "spawns": [
       {
@@ -4931,6 +4983,12 @@
         "name": "Pot"
       },
       {
+        "coords": "3228,6058",
+        "isMembers": false,
+        "location": "Prifddinas - south-west in Guinevere's Dyes",
+        "name": "Pot"
+      },
+      {
         "coords": "1517,3587",
         "isMembers": true,
         "location": "Shayzien - Jennifer's General Supplies",
@@ -4965,7 +5023,7 @@
         "name": "Potato cactus"
       },
       {
-        "coords": "3179,9397",
+        "coords": "3179,9421",
         "isMembers": true,
         "location": "Kalphite Lair - Queen's chamber",
         "name": "Potato cactus"
@@ -5541,6 +5599,12 @@
         "isMembers": true,
         "location": "Darkmeyer Seamstress",
         "name": "Silk"
+      },
+      {
+        "coords": "3230,6070",
+        "isMembers": true,
+        "location": "Prifddinas - west inside Lliann's Wares",
+        "name": "Silk"
       }
     ]
   },
@@ -5754,6 +5818,12 @@
         "coords": "1951,4964",
         "isMembers": true,
         "location": "Keldagrim - Blast Furnace",
+        "name": "Spade"
+      },
+      {
+        "coords": "3219,6058",
+        "isMembers": true,
+        "location": "Prifddinas - west in Alwyn's house (estate agent)",
         "name": "Spade"
       },
       {
@@ -6084,6 +6154,12 @@
         "coords": "1244,3684",
         "isMembers": true,
         "location": "Kebos Lowlands - Mary and Gordon's house (1st floor)",
+        "name": "Thread"
+      },
+      {
+        "coords": "3229,6069",
+        "isMembers": true,
+        "location": "Prifddinas - west inside Lliann's Wares",
         "name": "Thread"
       },
       {
