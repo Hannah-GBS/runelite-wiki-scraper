@@ -3914,6 +3914,37 @@
         "quantity": "1"
       },
       {
+        "name": "Yew roots",
+        "quantity": "1"
+      },
+      {
+        "name": "Toadflax",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Antidote+(4).png|link=Antidote+(4)]]",
+      "name": "Antidote+(4)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "155",
+        "level": "68",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "name": "Coconut milk",
+        "quantity": "1"
+      },
+      {
         "name": "Irit leaf",
         "quantity": "1"
       }
@@ -8207,7 +8238,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">127,361,120</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">116,714,018</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11686,7 +11717,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">124,329,220</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">120,927,517</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15969,57 +16000,7 @@
     "ticks": "4"
   },
   {
-    "facilities": "Fire",
-    "materials": [
-      {
-        "name": "Raw sardine",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Burnt fish (sardine).png|link=Burnt fish (sardine)]]",
-      "name": "Burnt fish (sardine)",
-      "quantity": "1",
-      "txt": "Burnt fish"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "0",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "4"
-  },
-  {
     "facilities": "Cooking range",
-    "materials": [
-      {
-        "name": "Raw pike",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Burnt fish (trout).png|link=Burnt fish (trout)]]",
-      "name": "Burnt fish (trout)",
-      "quantity": "1",
-      "txt": "Burnt fish"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "20",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Fire",
     "materials": [
       {
         "name": "Raw pike",
@@ -16063,30 +16044,6 @@
     },
     "skills": [],
     "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "name": "Jogre bones",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Burnt jogre bones.png|link=Burnt jogre bones]]",
-      "name": "Burnt jogre bones",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "90",
-        "level": "30",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "",
-    "tools": "Tinderbox"
   },
   {
     "materials": [
@@ -16148,6 +16105,30 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Jogre bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Burnt jogre bones.png|link=Burnt jogre bones]]",
+      "name": "Burnt jogre bones",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "90",
+        "level": "30",
+        "name": "Firemaking"
+      }
+    ],
+    "ticks": "",
+    "tools": "Tinderbox"
   },
   {
     "materials": [
@@ -16341,30 +16322,6 @@
   },
   {
     "facilities": "Cooking range",
-    "materials": [
-      {
-        "name": "Raw shrimps",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Burnt shrimp.png|link=Burnt shrimp]]",
-      "name": "Burnt shrimp",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "0",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "4"
-  },
-  {
-    "facilities": "Fire",
     "materials": [
       {
         "name": "Raw shrimps",
@@ -17685,7 +17642,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "446",
         "level": "54",
         "name": "Cooking"
@@ -17725,7 +17682,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "446",
         "level": "54",
         "name": "Cooking"
@@ -17765,7 +17722,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "446",
         "level": "54",
         "name": "Cooking"
@@ -17804,7 +17761,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "446",
         "level": "54",
         "name": "Cooking"
@@ -18314,7 +18271,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "182",
         "level": "14",
         "name": "Cooking"
@@ -18346,7 +18303,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "182",
         "level": "14",
         "name": "Cooking"
@@ -18378,7 +18335,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "182",
         "level": "14",
         "name": "Cooking"
@@ -20419,9 +20376,9 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "20",
-        "level": "30",
+        "level": "20",
         "name": "Smithing"
       }
     ],
@@ -28838,7 +28795,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "347",
         "level": "39",
         "name": "Cooking"
@@ -28878,7 +28835,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "347",
         "level": "39",
         "name": "Cooking"
@@ -28918,7 +28875,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "347",
         "level": "39",
         "name": "Cooking"
@@ -30732,7 +30689,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "215",
         "level": "19",
         "name": "Cooking"
@@ -30772,7 +30729,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "215",
         "level": "19",
         "name": "Cooking"
@@ -30812,7 +30769,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "215",
         "level": "19",
         "name": "Cooking"
@@ -30947,7 +30904,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "0",
         "level": "50",
         "name": "Firemaking"
@@ -30974,7 +30931,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "0",
         "level": "50",
         "name": "Firemaking"
@@ -36481,7 +36438,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "0",
         "level": "50",
         "name": "Smithing"
@@ -37268,7 +37225,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "281",
         "level": "29",
         "name": "Cooking"
@@ -37308,7 +37265,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "281",
         "level": "29",
         "name": "Cooking"
@@ -37348,7 +37305,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "281",
         "level": "29",
         "name": "Cooking"
@@ -37388,7 +37345,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "281",
         "level": "29",
         "name": "Cooking"
@@ -40322,7 +40279,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "No",
         "experience": "5",
         "level": "3",
         "name": "Herblore"
@@ -46838,7 +46795,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "182",
         "level": "14",
         "name": "Cooking"
@@ -46878,7 +46835,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "314",
         "level": "34",
         "name": "Cooking"
@@ -47346,7 +47303,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "314",
         "level": "34",
         "name": "Cooking"
@@ -47386,7 +47343,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "314",
         "level": "34",
         "name": "Cooking"
@@ -49911,7 +49868,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "380",
         "level": "44",
         "name": "Cooking"
@@ -49951,7 +49908,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "480",
         "level": "44",
         "name": "Cooking"
@@ -49991,7 +49948,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "480",
         "level": "44",
         "name": "Cooking"
@@ -50031,7 +49988,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "480",
         "level": "44",
         "name": "Cooking"
@@ -55268,30 +55225,6 @@
   },
   {
     "facilities": "Cooking range",
-    "materials": [
-      {
-        "name": "Raw pike",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Pike.png|link=Pike]]",
-      "name": "Pike",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "80",
-        "level": "20",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Fire",
     "materials": [
       {
         "name": "Raw pike",
@@ -64147,30 +64080,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "Fire",
-    "materials": [
-      {
-        "name": "Raw sardine",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Sardine.png|link=Sardine]]",
-      "name": "Sardine",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "40",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
     "materials": [
       {
         "name": "Imbued heart",
@@ -66026,30 +65935,6 @@
     "ticks": "4"
   },
   {
-    "facilities": "Fire",
-    "materials": [
-      {
-        "name": "Raw shrimps",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Shrimps.png|link=Shrimps]]",
-      "name": "Shrimps",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "30",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "4"
-  },
-  {
     "materials": [
       {
         "name": "Tarromin potion (unf)",
@@ -67159,7 +67044,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "479",
         "level": "59",
         "name": "Cooking"
@@ -67199,7 +67084,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "215",
         "level": "59",
         "name": "Cooking"
@@ -67239,7 +67124,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "215",
         "level": "59",
         "name": "Cooking"
@@ -67279,7 +67164,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "215",
         "level": "59",
         "name": "Cooking"
@@ -78003,7 +77888,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "0",
         "level": "85",
         "name": "Smithing"
@@ -80195,7 +80080,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "314",
         "level": "34",
         "name": "Cooking"

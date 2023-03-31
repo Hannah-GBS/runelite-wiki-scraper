@@ -2791,7 +2791,7 @@
     "spawns": [
       {
         "coords": "2851,3372",
-        "isMembers": false,
+        "isMembers": true,
         "location": "Entrana - house north of the bridge",
         "name": "Egg"
       },
