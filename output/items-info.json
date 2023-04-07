@@ -9341,33 +9341,33 @@
   },
   {
     "examineText": "A piece of the map to Crandor.",
-    "group": "Map part",
+    "group": "Map part (Melzar)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 1535,
     "name": "Map part",
-    "url": "https://oldschool.runescape.wiki/w/Map_part",
-    "version": "Melzar"
+    "url": "https://oldschool.runescape.wiki/w/Map_part_(Melzar)",
+    "version": ""
   },
   {
     "examineText": "A piece of the map to Crandor.",
-    "group": "Map part",
+    "group": "Map part (Thalzar)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 1536,
     "name": "Map part",
-    "url": "https://oldschool.runescape.wiki/w/Map_part",
-    "version": "Thalzar"
+    "url": "https://oldschool.runescape.wiki/w/Map_part_(Thalzar)",
+    "version": ""
   },
   {
     "examineText": "A piece of the map to Crandor.",
-    "group": "Map part",
+    "group": "Map part (Lozar)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 1537,
     "name": "Map part",
-    "url": "https://oldschool.runescape.wiki/w/Map_part",
-    "version": "Lozar"
+    "url": "https://oldschool.runescape.wiki/w/Map_part_(Lozar)",
+    "version": ""
   },
   {
     "examineText": "A map of the route to Crandor.",
@@ -82911,12 +82911,12 @@
   },
   {
     "examineText": "Used for making things egg shaped.",
-    "group": "Egg mould",
+    "group": "Egg mould (2017 Easter event)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 21252,
     "name": "Egg mould",
-    "url": "https://oldschool.runescape.wiki/w/Egg_mould",
+    "url": "https://oldschool.runescape.wiki/w/Egg_mould_(2017_Easter_event)",
     "version": ""
   },
   {
@@ -110510,7 +110510,7 @@
     "version": ""
   },
   {
-    "examineText": "A seed that can be planted to grow a Tenacious Indigo Iris Seed.",
+    "examineText": "A seed that can be planted to grow a Tenacious Indigo Iris.",
     "group": "Tenacious indigo iris seed",
     "isMembers": false,
     "isTradeable": false,
@@ -112170,7 +112170,7 @@
     "version": "Worn"
   },
   {
-    "examineText": "A sign of your grace.",
+    "examineText": "For your graceful feet.",
     "group": "Graceful boots (Adventurer)",
     "isMembers": true,
     "isTradeable": false,
@@ -112180,7 +112180,7 @@
     "version": "Inventory"
   },
   {
-    "examineText": "A sign of your grace.",
+    "examineText": "For your graceful feet.",
     "group": "Graceful boots (Adventurer)",
     "isMembers": true,
     "isTradeable": false,
@@ -113970,7 +113970,7 @@
     "version": ""
   },
   {
-    "examineText": "Pie might just about meet the criteria.",
+    "examineText": "Pie might just about meet the critera.",
     "group": "Dwarf cake",
     "isMembers": false,
     "isTradeable": false,
@@ -114010,7 +114010,7 @@
     "version": ""
   },
   {
-    "examineText": "Look out, here come ToesTok-Jad!",
+    "examineText": "Look out, here comes ToesTok-Jad!",
     "group": "Jad slippers",
     "isMembers": false,
     "isTradeable": false,
@@ -114398,5 +114398,125 @@
     "name": "Abyssal dagger (bhp++)",
     "url": "https://oldschool.runescape.wiki/w/Abyssal_dagger_(bh)",
     "version": "Poison++"
+  },
+  {
+    "examineText": "Not so subtle.",
+    "group": "Giant bronze dagger",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27871,
+    "name": "Giant bronze dagger",
+    "url": "https://oldschool.runescape.wiki/w/Giant_bronze_dagger",
+    "version": ""
+  },
+  {
+    "examineText": "A decorated spade.",
+    "group": "Eastfloor spade",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27873,
+    "name": "Eastfloor spade",
+    "url": "https://oldschool.runescape.wiki/w/Eastfloor_spade",
+    "version": ""
+  },
+  {
+    "examineText": "An egg-cellent look.",
+    "group": "Nest hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27875,
+    "name": "Nest hat",
+    "url": "https://oldschool.runescape.wiki/w/Nest_hat",
+    "version": "Easter egg"
+  },
+  {
+    "examineText": "People won't stop chicken you out.",
+    "group": "Nest hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27877,
+    "name": "Nest hat",
+    "url": "https://oldschool.runescape.wiki/w/Nest_hat",
+    "version": "Chick"
+  },
+  {
+    "examineText": "An Easter egg.",
+    "group": "Easter egg (2023 Easter event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27878,
+    "name": "Easter egg",
+    "url": "https://oldschool.runescape.wiki/w/Easter_egg_(2023_Easter_event)",
+    "version": ""
+  },
+  {
+    "examineText": "A warm Easter egg.",
+    "group": "Warm easter egg",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27880,
+    "name": "Warm easter egg",
+    "url": "https://oldschool.runescape.wiki/w/Warm_easter_egg",
+    "version": ""
+  },
+  {
+    "examineText": "Half an Easter egg.",
+    "group": "Easter egg half",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27882,
+    "name": "Easter egg half",
+    "url": "https://oldschool.runescape.wiki/w/Easter_egg_half",
+    "version": ""
+  },
+  {
+    "examineText": "Used to make Easter eggs.",
+    "group": "Egg mould (2023 Easter event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27884,
+    "name": "Egg mould",
+    "url": "https://oldschool.runescape.wiki/w/Egg_mould_(2023_Easter_event)",
+    "version": ""
+  },
+  {
+    "examineText": "Used to make Easter eggs, filled with chocolate dust.",
+    "group": "Dusted egg mould",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27886,
+    "name": "Dusted egg mould",
+    "url": "https://oldschool.runescape.wiki/w/Dusted_egg_mould",
+    "version": ""
+  },
+  {
+    "examineText": "Used to make Easter eggs, filled with chocolate.",
+    "group": "Hot egg mould",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27888,
+    "name": "Hot egg mould",
+    "url": "https://oldschool.runescape.wiki/w/Hot_egg_mould",
+    "version": ""
+  },
+  {
+    "examineText": "It's a bucket of freezing milk.",
+    "group": "Bucket of freezing milk",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27890,
+    "name": "Bucket of freezing milk",
+    "url": "https://oldschool.runescape.wiki/w/Bucket_of_freezing_milk",
+    "version": ""
+  },
+  {
+    "examineText": "A pile of special Easter chocolate dust.",
+    "group": "Easter chocolate dust",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27892,
+    "name": "Easter chocolate dust",
+    "url": "https://oldschool.runescape.wiki/w/Easter_chocolate_dust",
+    "version": ""
   }
 ]
