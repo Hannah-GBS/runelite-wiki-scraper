@@ -6122,46 +6122,6 @@
   {
     "materials": [
       {
-        "name": "Bandos boots",
-        "quantity": "1"
-      },
-      {
-        "name": "Bandos armour ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bandos boots (or).png|link=Bandos boots (or)]]",
-      "name": "Bandos boots (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bandos chestplate",
-        "quantity": "1"
-      },
-      {
-        "name": "Bandos armour ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bandos chestplate (or).png|link=Bandos chestplate (or)]]",
-      "name": "Bandos chestplate (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
         "name": "Godsword blade",
         "quantity": "1"
       },
@@ -6198,26 +6158,6 @@
     },
     "skills": [],
     "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "name": "Bandos tassets",
-        "quantity": "1"
-      },
-      {
-        "name": "Bandos armour ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bandos tassets (or).png|link=Bandos tassets (or)]]",
-      "name": "Bandos tassets (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "facilities": "Ancient Forge",
@@ -8264,7 +8204,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">111,026,330</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">105,454,907</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11743,7 +11683,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">114,139,511</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">102,751,009</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -26755,66 +26695,6 @@
     "ticks": ""
   },
   {
-    "materials": [
-      {
-        "name": "Dagon'hai hat",
-        "quantity": "1"
-      },
-      {
-        "name": "Dagon'hai robes ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Dagon'hai hat (or).png|link=Dagon'hai hat (or)]]",
-      "name": "Dagon'hai hat (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Dagon'hai robe bottom",
-        "quantity": "1"
-      },
-      {
-        "name": "Dagon'hai robes ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Dagon'hai robe bottom (or).png|link=Dagon'hai robe bottom (or)]]",
-      "name": "Dagon'hai robe bottom (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Dagon'hai robe top",
-        "quantity": "1"
-      },
-      {
-        "name": "Dagon'hai robes ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Dagon'hai robe top (or).png|link=Dagon'hai robe top (or)]]",
-      "name": "Dagon'hai robe top (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
     "facilities": "Lectern (Ancient)",
     "materials": [
       {
@@ -29000,26 +28880,6 @@
   {
     "materials": [
       {
-        "name": "Dragon claws",
-        "quantity": "1"
-      },
-      {
-        "name": "Dragon claws ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Dragon claws (or).png|link=Dragon claws (or)]]",
-      "name": "Dragon claws (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
         "name": "Dragon crossbow (u)",
         "quantity": "1"
       },
@@ -29644,26 +29504,6 @@
     },
     "skills": [],
     "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "name": "Dragon warhammer",
-        "quantity": "1"
-      },
-      {
-        "name": "Dragon warhammer ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Dragon warhammer (or).png|link=Dragon warhammer (or)]]",
-      "name": "Dragon warhammer (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -31509,86 +31349,6 @@
       }
     ],
     "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "name": "Elder chaos hood",
-        "quantity": "1"
-      },
-      {
-        "name": "Elder chaos robes ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Elder chaos hood (or).png|link=Elder chaos hood (or)]]",
-      "name": "Elder chaos hood (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Elder chaos robe",
-        "quantity": "1"
-      },
-      {
-        "name": "Elder chaos robes ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Elder chaos robe (or).png|link=Elder chaos robe (or)]]",
-      "name": "Elder chaos robe (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Elder chaos top",
-        "quantity": "1"
-      },
-      {
-        "name": "Elder chaos robes ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Elder chaos top (or).png|link=Elder chaos top (or)]]",
-      "name": "Elder chaos top (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Elder maul",
-        "quantity": "1"
-      },
-      {
-        "name": "Elder maul ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Elder maul (or).png|link=Elder maul (or)]]",
-      "name": "Elder maul (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "materials": [
@@ -39325,26 +39085,6 @@
   {
     "materials": [
       {
-        "name": "Heavy ballista",
-        "quantity": "1"
-      },
-      {
-        "name": "Heavy ballista ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Heavy ballista (or).png|link=Heavy ballista (or)]]",
-      "name": "Heavy ballista (or)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
         "name": "Guam leaf",
         "quantity": "1"
       },
@@ -40051,7 +39791,7 @@
       {
         "boostable": "",
         "experience": "1",
-        "level": "?",
+        "level": "1",
         "name": "Cooking"
       }
     ],
@@ -40075,7 +39815,7 @@
       {
         "boostable": "",
         "experience": "1",
-        "level": "?",
+        "level": "1",
         "name": "Cooking"
       }
     ],
@@ -79444,7 +79184,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "0",
         "level": "85",
         "name": "Fletching"
@@ -80255,7 +79995,8 @@
     "output": {
       "image": "[[File:Wolfbone arrowtips.png|link=Wolfbone arrowtips]]",
       "name": "Wolfbone arrowtips",
-      "quantity": "4"
+      "quantity": "4",
+      "quantitynote": "Between 2 and 6 arrowtips are carved out of each wolf bone."
     },
     "skills": [
       {
