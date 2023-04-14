@@ -20830,13 +20830,13 @@
     "version": "24"
   },
   {
-    "examineText": "Do not use except in case of emergency.",
-    "group": "Lifeboat",
+    "examineText": "A tool to teleport you to various bosses and setup slayer tasks.",
+    "group": "Boss helper tool",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 3667,
-    "name": "Lifeboat",
-    "url": "https://oldschool.runescape.wiki/w/Lifeboat",
+    "name": "Boss helper tool",
+    "url": "https://oldschool.runescape.wiki/w/Boss_helper_tool",
     "version": ""
   },
   {
@@ -39171,12 +39171,12 @@
   },
   {
     "examineText": "There seems to be bits missing...",
-    "group": "Relic",
+    "group": "Relic (Devious Minds)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 6820,
     "name": "Relic",
-    "url": "https://oldschool.runescape.wiki/w/Relic",
+    "url": "https://oldschool.runescape.wiki/w/Relic_(Devious_Minds)",
     "version": ""
   },
   {
@@ -92873,7 +92873,7 @@
     "examineText": "Opens Larran's chests in the Wilderness.",
     "group": "Larran's key",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 23490,
     "name": "Larran's key",
     "url": "https://oldschool.runescape.wiki/w/Larran%27s_key",
@@ -102500,6 +102500,96 @@
     "version": ""
   },
   {
+    "examineText": "An axe that manipulates the very lifeforce of those who touch it.",
+    "group": "Soulreaper axe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25484,
+    "name": "Soulreaper axe",
+    "url": "https://oldschool.runescape.wiki/w/Soulreaper_axe",
+    "version": ""
+  },
+  {
+    "examineText": "An occult ring made of compounded blood.",
+    "group": "Ring of true blood",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25485,
+    "name": "Ring of true blood",
+    "url": "https://oldschool.runescape.wiki/w/Ring_of_true_blood",
+    "version": ""
+  },
+  {
+    "examineText": "An occult ring made of fractured ice.",
+    "group": "Ring of true ice",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25486,
+    "name": "Ring of true ice",
+    "url": "https://oldschool.runescape.wiki/w/Ring_of_true_ice",
+    "version": ""
+  },
+  {
+    "examineText": "An occult ring made of crystallised smoke.",
+    "group": "Ring of true smoke",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25487,
+    "name": "Ring of true smoke",
+    "url": "https://oldschool.runescape.wiki/w/Ring_of_true_smoke",
+    "version": ""
+  },
+  {
+    "examineText": "An occult ring made of bound shadow.",
+    "group": "Ring of true shadow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25488,
+    "name": "Ring of true shadow",
+    "url": "https://oldschool.runescape.wiki/w/Ring_of_true_shadow",
+    "version": ""
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of blood magic.",
+    "group": "Blood ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25489,
+    "name": "Blood ancient sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Blood_ancient_sceptre",
+    "version": ""
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of ice magic.",
+    "group": "Ice ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25490,
+    "name": "Ice ancient sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Ice_ancient_sceptre",
+    "version": ""
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of smoke magic.",
+    "group": "Smoke ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25491,
+    "name": "Smoke ancient sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Smoke_ancient_sceptre",
+    "version": ""
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of shadow magic.",
+    "group": "Shadow ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25492,
+    "name": "Shadow ancient sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_ancient_sceptre",
+    "version": ""
+  },
+  {
     "examineText": "Made from 100% real dragonhide.",
     "group": "Black d'hide chaps (beta)",
     "isMembers": true,
@@ -106473,7 +106563,7 @@
     "examineText": "An ancient mage's mask.",
     "group": "Virtus mask",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 26241,
     "name": "Virtus mask",
     "url": "https://oldschool.runescape.wiki/w/Virtus_mask",
@@ -106483,7 +106573,7 @@
     "examineText": "An ancient mage's robe top.",
     "group": "Virtus robe top",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 26243,
     "name": "Virtus robe top",
     "url": "https://oldschool.runescape.wiki/w/Virtus_robe_top",
@@ -106491,12 +106581,12 @@
   },
   {
     "examineText": "An ancient mage's robe legs.",
-    "group": "Virtus robe bottoms",
+    "group": "Virtus robe bottom",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 26245,
-    "name": "Virtus robe bottoms",
-    "url": "https://oldschool.runescape.wiki/w/Virtus_robe_bottoms",
+    "name": "Virtus robe bottom",
+    "url": "https://oldschool.runescape.wiki/w/Virtus_robe_bottom",
     "version": ""
   },
   {
