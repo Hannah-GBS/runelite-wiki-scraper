@@ -990,7 +990,7 @@
       {
         "coords": "3191,9820",
         "isMembers": false,
-        "location": "Varrock - west bank basement",
+        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Brass necklace"
       }
     ]
@@ -3103,7 +3103,7 @@
       {
         "coords": "3192,9822",
         "isMembers": false,
-        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn must be telekinetic grabbed.}}",
+        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Gold bar"
       }
     ]
@@ -3114,13 +3114,13 @@
       {
         "coords": "2068,8986",
         "isMembers": false,
-        "location": "Corsair Cove Dungeon{{Refn|name=telegrab|This spawn must be telekinetic grabbed.}}",
+        "location": "Corsair Cove Dungeon{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Gold necklace"
       },
       {
         "coords": "3192,9821",
         "isMembers": false,
-        "location": "Varrock - west bank basement {{Refn|name=telegrab|This spawn must be telekinetic grabbed.}}",
+        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Gold necklace"
       },
       {
@@ -3161,7 +3161,7 @@
       {
         "coords": "3195,9821",
         "isMembers": false,
-        "location": "Varrock - west bank basement",
+        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Gold ore"
       }
     ]

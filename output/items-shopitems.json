@@ -9918,7 +9918,7 @@
   },
   {
     "buyMultiplier": "600",
-    "isMembers": false,
+    "isMembers": true,
     "items": [
       {
         "currency": "Coins",
