@@ -829,6 +829,12 @@
         "name": "Bones"
       },
       {
+        "coords": "3162,3601",
+        "isMembers": false,
+        "location": "Wilderness - south-east of Ferox Enclave",
+        "name": "Bones"
+      },
+      {
         "coords": "2984,3683",
         "isMembers": false,
         "location": "Wilderness - western Ruins",
@@ -1665,6 +1671,12 @@
         "coords": "3719,3361",
         "isMembers": true,
         "location": "Slepe - Crombwick Manor",
+        "name": "Bucket"
+      },
+      {
+        "coords": "2633,9908",
+        "isMembers": true,
+        "location": "Temple of Ikov",
         "name": "Bucket"
       },
       {
