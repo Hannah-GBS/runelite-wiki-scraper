@@ -4767,7 +4767,7 @@
         "version": ""
       }
     ],
-    "location": "North Falador",
+    "location": "Falador",
     "name": "Cassie's Shield Shop.",
     "sellMultiplier": "1000"
   },
@@ -26482,6 +26482,14 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Silk",
+        "sellPrice": "2",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Silk",
         "sellPrice": "3",
         "stock": "inf",
         "version": ""
@@ -27030,6 +27038,14 @@
         "currency": "Points",
         "name": "Herb sack",
         "sellPrice": "750",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Looting bag",
+        "sellPrice": "10",
         "stock": "inf",
         "version": ""
       },
