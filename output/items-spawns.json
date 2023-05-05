@@ -2693,6 +2693,17 @@
     ]
   },
   {
+    "group": "Door key (Witch's House)",
+    "spawns": [
+      {
+        "coords": "2905,3475",
+        "isMembers": true,
+        "location": "Witch's House",
+        "name": "Door key (Witch's House)"
+      }
+    ]
+  },
+  {
     "group": "Dragon bitter",
     "spawns": [
       {
@@ -3109,7 +3120,7 @@
       {
         "coords": "1965,9082",
         "isMembers": false,
-        "location": "Corsair Cove Dungeon - northern end",
+        "location": "Corsair Cove Dungeon - northern end{{Refn|name=dragon_slayer|This spawn requires completion of Dragon Slayer I.}}",
         "name": "Gold bar"
       },
       {
@@ -4673,7 +4684,7 @@
       {
         "coords": "1794,3612",
         "isMembers": true,
-        "location": "Hosidius - eastern house with Fruit Stalls",
+        "location": "Hosidius - eastern house with Fruit Stalls (Telekinetic Grab)",
         "name": "Papyrus"
       },
       {
@@ -5526,6 +5537,17 @@
         "isMembers": true,
         "location": "Mos Le'Harmless - islands off the north-east coast",
         "name": "Seaweed"
+      }
+    ]
+  },
+  {
+    "group": "Shaman robe",
+    "spawns": [
+      {
+        "coords": "2617,9437",
+        "isMembers": true,
+        "location": "Ogre Enclave",
+        "name": "Shaman robe"
       }
     ]
   },

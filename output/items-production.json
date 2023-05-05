@@ -82,6 +82,171 @@
     "tools": "Ring mould"
   },
   {
+    "materials": [
+      {
+        "name": "Cupric sulfate",
+        "quantity": "1"
+      },
+      {
+        "name": "Sodium chloride",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:??? mixture (horrible).png|link=??? mixture (horrible)]]",
+      "name": "??? mixture (horrible)",
+      "quantity": "1",
+      "txt": "??? mixture"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Cupric sulfate",
+        "quantity": "1"
+      },
+      {
+        "name": "Gypsum",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:??? mixture (horrible).png|link=??? mixture (horrible)]]",
+      "name": "??? mixture (horrible)",
+      "quantity": "1",
+      "txt": "??? mixture"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Cupric sulfate",
+        "quantity": "1"
+      },
+      {
+        "name": "Acetic acid",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:??? mixture (horrible).png|link=??? mixture (horrible)]]",
+      "name": "??? mixture (horrible)",
+      "quantity": "1",
+      "txt": "??? mixture"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Cupric sulfate",
+        "quantity": "1"
+      },
+      {
+        "name": "Cupric ore powder",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:??? mixture (horrible).png|link=??? mixture (horrible)]]",
+      "name": "??? mixture (horrible)",
+      "quantity": "1",
+      "txt": "??? mixture"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Cupric sulfate",
+        "quantity": "1"
+      },
+      {
+        "name": "Tin ore powder",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:??? mixture (horrible).png|link=??? mixture (horrible)]]",
+      "name": "??? mixture (horrible)",
+      "quantity": "1",
+      "txt": "??? mixture"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Cupric sulfate",
+        "quantity": "1"
+      },
+      {
+        "name": "Vial of liquid",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:??? mixture (warm).png|link=??? mixture (warm)]]",
+      "name": "??? mixture (warm)",
+      "quantity": "1",
+      "txt": "??? mixture"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Gypsum",
+        "quantity": "1"
+      },
+      {
+        "name": "Vial of liquid",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:??? mixture (warm).png|link=??? mixture (warm)]]",
+      "name": "??? mixture (warm)",
+      "quantity": "1",
+      "txt": "??? mixture"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Lava trough",
+    "materials": [
+      {
+        "name": "A stone bowl",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:A stone bowl (full).png|link=A stone bowl (full)]]",
+      "name": "A stone bowl (full)",
+      "quantity": "1",
+      "txt": "A stone bowl"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "The Overseer",
     "materials": [
       {
@@ -5295,7 +5460,7 @@
     "skills": [
       {
         "boostable": "yes",
-        "experience": "13.05",
+        "experience": "13",
         "level": "40",
         "name": "Runecraft"
       }
@@ -8208,7 +8373,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">112,729,836</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">105,671,594</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -9932,7 +10097,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "15.75",
+        "experience": "15.7",
         "level": "77",
         "name": "Runecraft"
       }
@@ -11146,31 +11311,6 @@
     "facilities": "Body Altar",
     "materials": [
       {
-        "name": "Daeyalt essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Body rune.png|link=Body rune]]",
-      "name": "Body rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "11.25",
-        "level": "20",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Body tiara, Body talisman"
-  },
-  {
-    "facilities": "Body Altar",
-    "materials": [
-      {
         "name": "Guardian essence",
         "quantity": "1"
       }
@@ -11209,6 +11349,31 @@
       {
         "boostable": "yes",
         "experience": "75",
+        "level": "20",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Body tiara, Body talisman"
+  },
+  {
+    "facilities": "Body Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Body rune.png|link=Body rune]]",
+      "name": "Body rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "11.2",
         "level": "20",
         "name": "Runecraft"
       }
@@ -11687,7 +11852,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">114,578,081</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">107,601,845</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -17392,7 +17557,7 @@
     "skills": [
       {
         "boostable": "yes",
-        "experience": "12.75",
+        "experience": "12.7",
         "level": "35",
         "name": "Runecraft"
       }
@@ -30283,41 +30448,6 @@
     "facilities": "Air Altar",
     "materials": [
       {
-        "name": "Daeyalt essence",
-        "quantity": "1"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Earth talisman",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Dust rune.png|link=Dust rune]]",
-      "name": "Dust rune",
-      "quantity": "1",
-      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]].",
-      "subtxt": "Air Altar"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "12.45",
-        "level": "10",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Air tiara, Binding necklace, Magic Imbue"
-  },
-  {
-    "facilities": "Air Altar",
-    "materials": [
-      {
         "name": "Guardian essence",
         "quantity": "1"
       },
@@ -30453,6 +30583,41 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
+  },
+  {
+    "facilities": "Air Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth talisman",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dust rune.png|link=Dust rune]]",
+      "name": "Dust rune",
+      "quantity": "1",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]].",
+      "subtxt": "Air Altar"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "12.4",
+        "level": "10",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Air tiara, Binding necklace, Magic Imbue"
   },
   {
     "materials": [
@@ -31035,7 +31200,7 @@
     "skills": [
       {
         "boostable": "yes",
-        "experience": "9.75",
+        "experience": "9.7",
         "level": "9",
         "name": "Runecraft"
       }
@@ -31532,7 +31697,32 @@
       }
     ],
     "ticks": "4",
-    "tools": "Hammer, Battered book, Slashed book"
+    "tools": "Hammer, Battered book"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Elemental metal",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elemental shield.png|link=Elemental shield]]",
+      "name": "Elemental shield",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "20",
+        "level": "20",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer, Slashed book"
   },
   {
     "facilities": "Runic altar|Any elemental rune altar",
@@ -43698,7 +43888,7 @@
     "skills": [
       {
         "boostable": "yes",
-        "experience": "15.75",
+        "experience": "15.7",
         "level": "23",
         "name": "Runecraft"
       }
@@ -43805,31 +43995,6 @@
     "facilities": "Law Altar",
     "materials": [
       {
-        "name": "Daeyalt essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Law rune.png|link=Law rune]]",
-      "name": "Law rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "14.25",
-        "level": "54",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Law tiara, Law talisman"
-  },
-  {
-    "facilities": "Law Altar",
-    "materials": [
-      {
         "name": "Guardian essence",
         "quantity": "1"
       }
@@ -43849,6 +44014,31 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Law Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Law rune.png|link=Law rune]]",
+      "name": "Law rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "14.2",
+        "level": "54",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Law tiara, Law talisman"
   },
   {
     "facilities": "Law Altar",
@@ -47091,6 +47281,24 @@
     "ticks": "2"
   },
   {
+    "facilities": "Bunsen burner",
+    "materials": [
+      {
+        "name": "Metal spade",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Metal spade (head).png|link=Metal spade (head)]]",
+      "name": "Metal spade (head)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": ""
+  },
+  {
     "materials": [
       {
         "name": "Pot of cream",
@@ -47323,31 +47531,6 @@
     "facilities": "Mind Altar",
     "materials": [
       {
-        "name": "Daeyalt essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mind rune.png|link=Mind rune]]",
-      "name": "Mind rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "8.25",
-        "level": "2",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Mind tiara, Mind talisman"
-  },
-  {
-    "facilities": "Mind Altar",
-    "materials": [
-      {
         "name": "Guardian essence",
         "quantity": "1"
       }
@@ -47386,6 +47569,31 @@
       {
         "boostable": "yes",
         "experience": "55",
+        "level": "2",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Mind tiara, Mind talisman"
+  },
+  {
+    "facilities": "Mind Altar",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mind rune.png|link=Mind rune]]",
+      "name": "Mind rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "8.2",
         "level": "2",
         "name": "Runecraft"
       }
@@ -47638,7 +47846,7 @@
     "skills": [
       {
         "boostable": "yes",
-        "experience": "12.75",
+        "experience": "12.7",
         "level": "6",
         "name": "Runecraft"
       }
@@ -49975,7 +50183,7 @@
     "skills": [
       {
         "boostable": "yes",
-        "experience": "13.95",
+        "experience": "13.9",
         "level": "13",
         "name": "Runecraft"
       }
@@ -50080,7 +50288,7 @@
     "skills": [
       {
         "boostable": "yes",
-        "experience": "14.25",
+        "experience": "14.2",
         "level": "13",
         "name": "Runecraft"
       }
@@ -66556,6 +66764,40 @@
   {
     "materials": [
       {
+        "name": "Battered book",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Slashed book.png|link=Slashed book]]",
+      "name": "Slashed book",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Battered book",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Slashed book.png|link=Slashed book]]",
+      "name": "Slashed book",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
         "name": "Black mask",
         "quantity": "1"
       },
@@ -67540,7 +67782,7 @@
     "skills": [
       {
         "boostable": "yes",
-        "experience": "12.75",
+        "experience": "12.7",
         "level": "15",
         "name": "Runecraft"
       }
@@ -67645,7 +67887,7 @@
     "skills": [
       {
         "boostable": "yes",
-        "experience": "14.25",
+        "experience": "14.2",
         "level": "15",
         "name": "Runecraft"
       }
@@ -70145,7 +70387,7 @@
     "skills": [
       {
         "boostable": "yes",
-        "experience": "13.95",
+        "experience": "13.9",
         "level": "19",
         "name": "Runecraft"
       }
@@ -74604,6 +74846,258 @@
     ],
     "ticks": "3",
     "tools": "Tiara mould"
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (impression)",
+        "quantity": "1"
+      },
+      {
+        "name": "Cupric ore powder",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (copper).png|link=Tin (copper)]]",
+      "name": "Tin (copper)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (empty)",
+        "quantity": "1"
+      },
+      {
+        "name": "Gypsum",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (gypsum).png|link=Tin (gypsum)]]",
+      "name": "Tin (gypsum)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (gypsum)",
+        "quantity": "1"
+      },
+      {
+        "name": "Vial of liquid",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (hardening).png|link=Tin (hardening)]]",
+      "name": "Tin (hardening)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (key)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (impression).png|link=Tin (impression)]]",
+      "name": "Tin (impression)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Chisel (Recruitment Drive)"
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (key)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (impression).png|link=Tin (impression)]]",
+      "name": "Tin (impression)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Bronze wire (Recruitment Drive)"
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (key)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (impression).png|link=Tin (impression)]]",
+      "name": "Tin (impression)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Knife (Recruitment Drive)"
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (key)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (impression).png|link=Tin (impression)]]",
+      "name": "Tin (impression)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Chisel (Recruitment Drive)"
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (key)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (impression).png|link=Tin (impression)]]",
+      "name": "Tin (impression)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Bronze wire (Recruitment Drive)"
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (key)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (impression).png|link=Tin (impression)]]",
+      "name": "Tin (impression)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Knife (Recruitment Drive)"
+  },
+  {
+    "facilities": "Bunsen burner",
+    "materials": [
+      {
+        "name": "Tin (tin and copper)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (key).png|link=Tin (key)]]",
+      "name": "Tin (key)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (tin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Cupric ore powder",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (tin and copper).png|link=Tin (tin and copper)]]",
+      "name": "Tin (tin and copper)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (copper)",
+        "quantity": "1"
+      },
+      {
+        "name": "Tin ore powder",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (tin and copper).png|link=Tin (tin and copper)]]",
+      "name": "Tin (tin and copper)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Tin (impression)",
+        "quantity": "1"
+      },
+      {
+        "name": "Tin ore powder",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Tin (tin).png|link=Tin (tin)]]",
+      "name": "Tin (tin)",
+      "quantity": "1",
+      "txt": "Tin"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Cooking range",

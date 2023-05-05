@@ -110910,6 +110910,36 @@
     "version": "Gay"
   },
   {
+    "examineText": "A weapon forged from the wreckage of an airship.",
+    "group": "Light ballista (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27188,
+    "name": "Light ballista",
+    "url": "https://oldschool.runescape.wiki/w/Light_ballista_(Last_Man_Standing)",
+    "version": ""
+  },
+  {
+    "examineText": "Verac the Defiled's flail.",
+    "group": "Verac's flail (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27189,
+    "name": "Verac's flail",
+    "url": "https://oldschool.runescape.wiki/w/Verac%27s_flail_(Last_Man_Standing)",
+    "version": ""
+  },
+  {
+    "examineText": "Verac the Defiled's brassard.",
+    "group": "Verac's brassard (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27190,
+    "name": "Verac's brassard",
+    "url": "https://oldschool.runescape.wiki/w/Verac%27s_brassard_(Last_Man_Standing)",
+    "version": ""
+  },
+  {
     "examineText": "4 doses of Menaphite remedy.",
     "group": "Menaphite remedy",
     "isMembers": true,
@@ -114488,6 +114518,26 @@
     "name": "Abyssal dagger (bhp++)",
     "url": "https://oldschool.runescape.wiki/w/Abyssal_dagger_(bh)",
     "version": "Poison++"
+  },
+  {
+    "examineText": "",
+    "group": "Voidwaker (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27869,
+    "name": "Voidwaker",
+    "url": "https://oldschool.runescape.wiki/w/Voidwaker_(Last_Man_Standing)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Lightbearer (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27870,
+    "name": "Lightbearer",
+    "url": "https://oldschool.runescape.wiki/w/Lightbearer_(Last_Man_Standing)",
+    "version": ""
   },
   {
     "examineText": "Not so subtle.",
