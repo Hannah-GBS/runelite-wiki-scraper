@@ -2748,6 +2748,17 @@
     ]
   },
   {
+    "group": "Dwarf remains",
+    "spawns": [
+      {
+        "coords": "2567,3444",
+        "isMembers": true,
+        "location": "Watchtower south of Coal Trucks",
+        "name": "Dwarf remains"
+      }
+    ]
+  },
+  {
     "group": "Dwarven stout",
     "spawns": [
       {

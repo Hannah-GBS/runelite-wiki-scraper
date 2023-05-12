@@ -199,8 +199,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:??? mixture (warm).png|link=??? mixture (warm)]]",
-      "name": "??? mixture (warm)",
+      "image": "[[File:??? mixture (hot).png|link=??? mixture (hot)]]",
+      "name": "??? mixture (hot)",
       "quantity": "1",
       "txt": "??? mixture"
     },
@@ -8373,7 +8373,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">105,671,594</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">103,073,615</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -9960,6 +9960,23 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "facilities": "Drezel",
+    "materials": [
+      {
+        "name": "Murky water",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed water.png|link=Blessed water]]",
+      "name": "Blessed water",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -11852,7 +11869,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">107,601,845</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">104,182,644</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -35824,6 +35841,109 @@
     "tools": "Tiara mould"
   },
   {
+    "facilities": "Monument",
+    "materials": [
+      {
+        "name": "Candle",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Golden candle.png|link=Golden candle]]",
+      "name": "Golden candle",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Monument",
+    "materials": [
+      {
+        "name": "Lit candle",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Golden candle.png|link=Golden candle]]",
+      "name": "Golden candle",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Monument",
+    "materials": [
+      {
+        "name": "Feather",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Golden feather (Priest in Peril).png|link=Golden feather (Priest in Peril)]]",
+      "name": "Golden feather (Priest in Peril)",
+      "quantity": "1",
+      "txt": "Golden feather"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Monument",
+    "materials": [
+      {
+        "name": "Hammer",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Golden hammer.png|link=Golden hammer]]",
+      "name": "Golden hammer",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Monument",
+    "materials": [
+      {
+        "name": "Needle",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Golden needle.png|link=Golden needle]]",
+      "name": "Golden needle",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Monument",
+    "materials": [
+      {
+        "name": "Pot",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Golden pot.png|link=Golden pot]]",
+      "name": "Golden pot",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "name": "Prospector boots",
@@ -35902,6 +36022,23 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "facilities": "Monument",
+    "materials": [
+      {
+        "name": "Tinderbox",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Golden tinderbox.png|link=Golden tinderbox]]",
+      "name": "Golden tinderbox",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Spinning wheel",
@@ -41462,6 +41599,23 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Monument",
+    "materials": [
+      {
+        "name": "Golden key",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron key.png|link=Iron key]]",
+      "name": "Iron key",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -43995,30 +44149,6 @@
     "facilities": "Law Altar",
     "materials": [
       {
-        "name": "Guardian essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Law rune.png|link=Law rune]]",
-      "name": "Law rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "9.5",
-        "level": "54",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Law Altar",
-    "materials": [
-      {
         "name": "Daeyalt essence",
         "quantity": "1"
       }
@@ -44039,6 +44169,30 @@
     ],
     "ticks": "1",
     "tools": "Law tiara, Law talisman"
+  },
+  {
+    "facilities": "Law Altar",
+    "materials": [
+      {
+        "name": "Guardian essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Law rune.png|link=Law rune]]",
+      "name": "Law rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "9.5",
+        "level": "54",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Law Altar",
@@ -50355,6 +50509,23 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Well (Paterdomus)",
+    "materials": [
+      {
+        "name": "Bucket",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Murky water.png|link=Murky water]]",
+      "name": "Murky water",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -76173,8 +76344,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": "2",
-    "tools": "Knife"
+    "ticks": "2"
   },
   {
     "materials": [
@@ -76201,8 +76371,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": "2",
-    "tools": "Knife"
+    "ticks": "2"
   },
   {
     "materials": [
