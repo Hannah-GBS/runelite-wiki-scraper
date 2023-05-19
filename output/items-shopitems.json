@@ -10700,6 +10700,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Tithe",
+        "name": "Herb box",
+        "sellPrice": "30",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Tithe",
         "name": "Herb sack",
         "sellPrice": "250",
         "stock": "inf",

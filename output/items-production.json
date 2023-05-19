@@ -7039,6 +7039,28 @@
     "ticks": "4"
   },
   {
+    "facilities": "Smith",
+    "materials": [
+      {
+        "name": "Barrelchest anchor (broken)",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "230000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Barrelchest anchor.png|link=Barrelchest anchor]]",
+      "name": "Barrelchest anchor",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Book o' piracy"
+  },
+  {
     "facilities": "Ramarno",
     "materials": [
       {
@@ -8373,7 +8395,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">103,073,615</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">97,684,879</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10794,6 +10816,23 @@
     "ticks": "3"
   },
   {
+    "materials": [
+      {
+        "name": "Scaly blue dragonhide",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blue dragon scale.png|link=Blue dragon scale]]",
+      "name": "Blue dragon scale",
+      "quantity": "50"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Knife"
+  },
+  {
     "facilities": "Aggie",
     "materials": [
       {
@@ -11328,6 +11367,31 @@
     "facilities": "Body Altar",
     "materials": [
       {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Body rune.png|link=Body rune]]",
+      "name": "Body rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "11.2",
+        "level": "20",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Body tiara, Body talisman"
+  },
+  {
+    "facilities": "Body Altar",
+    "materials": [
+      {
         "name": "Guardian essence",
         "quantity": "1"
       }
@@ -11366,31 +11430,6 @@
       {
         "boostable": "yes",
         "experience": "75",
-        "level": "20",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Body tiara, Body talisman"
-  },
-  {
-    "facilities": "Body Altar",
-    "materials": [
-      {
-        "name": "Daeyalt essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Body rune.png|link=Body rune]]",
-      "name": "Body rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "11.2",
         "level": "20",
         "name": "Runecraft"
       }
@@ -11869,7 +11908,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">104,182,644</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">97,382,610</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -13186,9 +13225,9 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "15",
-        "level": "8",
+        "level": "1",
         "name": "Crafting"
       }
     ],
@@ -30465,6 +30504,41 @@
     "facilities": "Air Altar",
     "materials": [
       {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth talisman",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dust rune.png|link=Dust rune]]",
+      "name": "Dust rune",
+      "quantity": "1",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]].",
+      "subtxt": "Air Altar"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "12.4",
+        "level": "10",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Air tiara, Binding necklace, Magic Imbue"
+  },
+  {
+    "facilities": "Air Altar",
+    "materials": [
+      {
         "name": "Guardian essence",
         "quantity": "1"
       },
@@ -30600,41 +30674,6 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
-  },
-  {
-    "facilities": "Air Altar",
-    "materials": [
-      {
-        "name": "Daeyalt essence",
-        "quantity": "1"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Earth talisman",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Dust rune.png|link=Dust rune]]",
-      "name": "Dust rune",
-      "quantity": "1",
-      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]].",
-      "subtxt": "Air Altar"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "12.4",
-        "level": "10",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Air tiara, Binding necklace, Magic Imbue"
   },
   {
     "materials": [
@@ -32485,9 +32524,9 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "17.5",
-        "level": "19",
+        "level": "1",
         "name": "Crafting"
       }
     ],
@@ -36663,28 +36702,6 @@
   {
     "materials": [
       {
-        "name": "Granite maul (or)",
-        "quantity": "1"
-      },
-      {
-        "name": "Ornate maul handle",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Granite maul (or) (ornate handle).png|link=Granite maul (or)#Ornate handle]]",
-      "name": "Granite maul (or)",
-      "quantity": "1",
-      "txt": "Granite maul (or) (ornate handle)",
-      "version": "Ornate handle"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
-    "materials": [
-      {
         "name": "Granite maul",
         "quantity": "1"
       },
@@ -36724,6 +36741,28 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Granite maul (or)",
+        "quantity": "1"
+      },
+      {
+        "name": "Ornate maul handle",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Granite maul (or) (ornate handle).png|link=Granite maul (or)#Ornate handle]]",
+      "name": "Granite maul (or)",
+      "quantity": "1",
+      "txt": "Granite maul (or) (ornate handle)",
+      "version": "Ornate handle"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Dom Onion's Reward Shop",
@@ -39392,6 +39431,42 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Hay bale",
+    "materials": [
+      {
+        "name": "Empty sack",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hay sack.png|link=Hay sack]]",
+      "name": "Hay sack",
+      "quantity": "1",
+      "subtxt": "Hay bale"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Haystack",
+    "materials": [
+      {
+        "name": "Empty sack",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hay sack.png|link=Hay sack]]",
+      "name": "Hay sack",
+      "quantity": "1",
+      "subtxt": "Haystack"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -42830,11 +42905,11 @@
   {
     "materials": [
       {
-        "name": "Ugthanki & tomato",
+        "name": "Ugthanki & onion",
         "quantity": "1"
       },
       {
-        "name": "Onion",
+        "name": "Tomato",
         "quantity": "1"
       }
     ],
@@ -42858,11 +42933,11 @@
   {
     "materials": [
       {
-        "name": "Ugthanki & onion",
+        "name": "Ugthanki & tomato",
         "quantity": "1"
       },
       {
-        "name": "Tomato",
+        "name": "Onion",
         "quantity": "1"
       }
     ],
@@ -47685,6 +47760,31 @@
     "facilities": "Mind Altar",
     "materials": [
       {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mind rune.png|link=Mind rune]]",
+      "name": "Mind rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "8.2",
+        "level": "2",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Mind tiara, Mind talisman"
+  },
+  {
+    "facilities": "Mind Altar",
+    "materials": [
+      {
         "name": "Guardian essence",
         "quantity": "1"
       }
@@ -47723,31 +47823,6 @@
       {
         "boostable": "yes",
         "experience": "55",
-        "level": "2",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Mind tiara, Mind talisman"
-  },
-  {
-    "facilities": "Mind Altar",
-    "materials": [
-      {
-        "name": "Daeyalt essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mind rune.png|link=Mind rune]]",
-      "name": "Mind rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "8.2",
         "level": "2",
         "name": "Runecraft"
       }
@@ -50484,31 +50559,6 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
-  },
-  {
-    "facilities": "Apothecary",
-    "materials": [
-      {
-        "name": "Tin ore",
-        "quantity": "1"
-      },
-      {
-        "name": "Grain",
-        "quantity": "1"
-      },
-      {
-        "name": "Tomberries",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Murky potion.png|link=Murky potion]]",
-      "name": "Murky potion",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "facilities": "Well (Paterdomus)",
@@ -55484,9 +55534,9 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "10",
-        "level": "7",
+        "level": "1",
         "name": "Crafting"
       }
     ],
@@ -56517,9 +56567,9 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "20",
-        "level": "25",
+        "level": "1",
         "name": "Crafting"
       }
     ],
