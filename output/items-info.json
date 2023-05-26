@@ -5325,7 +5325,7 @@
     "isMembers": false,
     "isTradeable": true,
     "itemID": 799,
-    "name": "Bank note",
+    "name": "Template for cert",
     "url": "https://oldschool.runescape.wiki/w/Bank_note",
     "version": ""
   },
@@ -10560,7 +10560,7 @@
     "version": ""
   },
   {
-    "examineText": "Good for detailed Crafting.",
+    "examineText": "Good for detailed crafting.",
     "group": "Chisel",
     "isMembers": false,
     "isTradeable": true,
@@ -52023,7 +52023,7 @@
     "examineText": "This worm batta needs garnishing with equa leaves.",
     "group": "Unfinished batta (worm)",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 9481,
     "name": "Unfinished batta",
     "url": "https://oldschool.runescape.wiki/w/Unfinished_batta_(worm)",
@@ -68680,7 +68680,7 @@
     "version": ""
   },
   {
-    "examineText": "Unlocks the level 85 Target Teleport spell.",
+    "examineText": "Unlocks the level 85 Teleport to Target spell.",
     "group": "Target teleport scroll",
     "isMembers": true,
     "isTradeable": true,
@@ -89531,172 +89531,172 @@
   },
   {
     "examineText": "A powerful spear.",
-    "group": "Vesta's spear",
+    "group": "Vesta's spear (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22610,
     "name": "Vesta's spear",
-    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_spear",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_spear_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful longsword.",
-    "group": "Vesta's longsword",
+    "group": "Vesta's longsword (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22613,
     "name": "Vesta's longsword",
-    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_longsword",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_longsword_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful chainbody.",
-    "group": "Vesta's chainbody",
+    "group": "Vesta's chainbody (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22616,
     "name": "Vesta's chainbody",
-    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_chainbody",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_chainbody_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful plateskirt.",
-    "group": "Vesta's plateskirt",
+    "group": "Vesta's plateskirt (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22619,
     "name": "Vesta's plateskirt",
-    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_plateskirt",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_plateskirt_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful warhammer.",
-    "group": "Statius's warhammer",
+    "group": "Statius's warhammer (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22622,
     "name": "Statius's warhammer",
-    "url": "https://oldschool.runescape.wiki/w/Statius%27s_warhammer",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_warhammer_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful helmet.",
-    "group": "Statius's full helm",
+    "group": "Statius's full helm (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22625,
     "name": "Statius's full helm",
-    "url": "https://oldschool.runescape.wiki/w/Statius%27s_full_helm",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_full_helm_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful platebody.",
-    "group": "Statius's platebody",
+    "group": "Statius's platebody (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22628,
     "name": "Statius's platebody",
-    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platebody",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platebody_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful pair of platelegs.",
-    "group": "Statius's platelegs",
+    "group": "Statius's platelegs (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22631,
     "name": "Statius's platelegs",
-    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platelegs",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platelegs_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A vicious throwing axe.",
-    "group": "Morrigan's throwing axe",
+    "group": "Morrigan's throwing axe (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22634,
     "name": "Morrigan's throwing axe",
-    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_throwing_axe",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_throwing_axe_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A vicious javelin.",
-    "group": "Morrigan's javelin",
+    "group": "Morrigan's javelin (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22636,
     "name": "Morrigan's javelin",
-    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_javelin",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_javelin_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful coif.",
-    "group": "Morrigan's coif",
+    "group": "Morrigan's coif (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22638,
     "name": "Morrigan's coif",
-    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_coif",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_coif_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful leather body.",
-    "group": "Morrigan's leather body",
+    "group": "Morrigan's leather body (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22641,
     "name": "Morrigan's leather body",
-    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_body",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_body_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful pair of leather chaps.",
-    "group": "Morrigan's leather chaps",
+    "group": "Morrigan's leather chaps (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22644,
     "name": "Morrigan's leather chaps",
-    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_chaps",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_chaps_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful staff.",
-    "group": "Zuriel's staff",
+    "group": "Zuriel's staff (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22647,
     "name": "Zuriel's staff",
-    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_staff",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_staff_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful hood.",
-    "group": "Zuriel's hood",
+    "group": "Zuriel's hood (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22650,
     "name": "Zuriel's hood",
-    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_hood",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_hood_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful robe top.",
-    "group": "Zuriel's robe top",
+    "group": "Zuriel's robe top (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22653,
     "name": "Zuriel's robe top",
-    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_top",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_top_(Deadman_Mode)",
     "version": ""
   },
   {
     "examineText": "A powerful robe bottom.",
-    "group": "Zuriel's robe bottom",
+    "group": "Zuriel's robe bottom (Deadman Mode)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 22656,
     "name": "Zuriel's robe bottom",
-    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_bottom",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_bottom_(Deadman_Mode)",
     "version": ""
   },
   {
@@ -98690,7 +98690,7 @@
     "version": ""
   },
   {
-    "examineText": "Blighted so it can fight only in the Wilderness on Target worlds.",
+    "examineText": "Blighted so it can fight only in the Wilderness and Bounty Hunter on Bounty Hunter worlds.",
     "group": "Vesta's blighted longsword",
     "isMembers": true,
     "isTradeable": false,
@@ -98700,7 +98700,7 @@
     "version": "Active"
   },
   {
-    "examineText": "Blighted so it can fight only in the Wilderness on Target worlds, once activated.",
+    "examineText": "Blighted so it can fight only in the Wilderness and Bounty Hunter on Bounty Hunter worlds, once activated.",
     "group": "Vesta's blighted longsword",
     "isMembers": true,
     "isTradeable": false,
@@ -114230,6 +114230,16 @@
     "version": ""
   },
   {
+    "examineText": "A powerful chainbody.",
+    "group": "Vesta's chainbody (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27831,
+    "name": "Vesta's chainbody (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_chainbody_(bh)",
+    "version": "Activated"
+  },
+  {
     "examineText": "A powerful plateskirt.",
     "group": "Vesta's plateskirt (beta)",
     "isMembers": true,
@@ -114238,6 +114248,16 @@
     "name": "Vesta's plateskirt",
     "url": "https://oldschool.runescape.wiki/w/Vesta%27s_plateskirt_(beta)",
     "version": ""
+  },
+  {
+    "examineText": "A powerful plateskirt.",
+    "group": "Vesta's plateskirt (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27832,
+    "name": "Vesta's plateskirt (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_plateskirt_(bh)",
+    "version": "Activated"
   },
   {
     "examineText": "A powerful helmet.",
@@ -114250,6 +114270,16 @@
     "version": ""
   },
   {
+    "examineText": "A powerful helmet.",
+    "group": "Statius's full helm (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27833,
+    "name": "Statius's full helm (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_full_helm_(bh)",
+    "version": "Activated"
+  },
+  {
     "examineText": "A powerful platebody.",
     "group": "Statius's platebody (beta)",
     "isMembers": true,
@@ -114258,6 +114288,16 @@
     "name": "Statius's platebody",
     "url": "https://oldschool.runescape.wiki/w/Statius%27s_platebody_(beta)",
     "version": ""
+  },
+  {
+    "examineText": "A powerful platebody.",
+    "group": "Statius's platebody (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27834,
+    "name": "Statius's platebody (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platebody_(bh)",
+    "version": "Activated"
   },
   {
     "examineText": "A powerful pair of platelegs.",
@@ -114270,6 +114310,16 @@
     "version": ""
   },
   {
+    "examineText": "A powerful pair of platelegs.",
+    "group": "Statius's platelegs (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27835,
+    "name": "Statius's platelegs (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platelegs_(bh)",
+    "version": "Activated"
+  },
+  {
     "examineText": "A powerful coif.",
     "group": "Morrigan's coif (beta)",
     "isMembers": true,
@@ -114278,6 +114328,16 @@
     "name": "Morrigan's coif",
     "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_coif_(beta)",
     "version": ""
+  },
+  {
+    "examineText": "A powerful coif.",
+    "group": "Morrigan's coif (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27836,
+    "name": "Morrigan's coif (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_coif_(bh)",
+    "version": "Activated"
   },
   {
     "examineText": "A powerful leather body.",
@@ -114290,6 +114350,16 @@
     "version": ""
   },
   {
+    "examineText": "A powerful leather body.",
+    "group": "Morrigan's leather body (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27837,
+    "name": "Morrigan's leather body (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_body_(bh)",
+    "version": "Activated"
+  },
+  {
     "examineText": "A powerful pair of leather chaps.",
     "group": "Morrigan's leather chaps (beta)",
     "isMembers": true,
@@ -114298,6 +114368,16 @@
     "name": "Morrigan's leather chaps",
     "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_chaps_(beta)",
     "version": ""
+  },
+  {
+    "examineText": "A powerful pair of leather chaps.",
+    "group": "Morrigan's leather chaps (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27838,
+    "name": "Morrigan's leather chaps (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_chaps_(bh)",
+    "version": "Activated"
   },
   {
     "examineText": "A powerful hood.",
@@ -114310,6 +114390,16 @@
     "version": ""
   },
   {
+    "examineText": "A powerful hood.",
+    "group": "Zuriel's hood (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27839,
+    "name": "Zuriel's hood (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_hood_(bh)",
+    "version": "Activated"
+  },
+  {
     "examineText": "A powerful robe top.",
     "group": "Zuriel's robe top (beta)",
     "isMembers": true,
@@ -114320,6 +114410,16 @@
     "version": ""
   },
   {
+    "examineText": "A powerful robe top.",
+    "group": "Zuriel's robe top (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27840,
+    "name": "Zuriel's robe top (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_top_(bh)",
+    "version": "Activated"
+  },
+  {
     "examineText": "A powerful robe bottom.",
     "group": "Zuriel's robe bottom (beta)",
     "isMembers": true,
@@ -114328,6 +114428,26 @@
     "name": "Zuriel's robe bottom",
     "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_bottom_(beta)",
     "version": ""
+  },
+  {
+    "examineText": "A powerful robe bottom.",
+    "group": "Zuriel's robe bottom (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27841,
+    "name": "Zuriel's robe bottom (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_bottom_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A powerful chainbody.",
+    "group": "Corrupted vesta's chainbody (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27842,
+    "name": "Corrupted vesta's chainbody (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_vesta%27s_chainbody_(bh)",
+    "version": "Activated"
   },
   {
     "examineText": "A powerful chainbody.",
@@ -114341,6 +114461,16 @@
   },
   {
     "examineText": "A powerful plateskirt.",
+    "group": "Corrupted vesta's plateskirt (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27843,
+    "name": "Corrupted vesta's plateskirt (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_vesta%27s_plateskirt_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A powerful plateskirt.",
     "group": "Vesta's plateskirt (c)",
     "isMembers": true,
     "isTradeable": false,
@@ -114348,6 +114478,16 @@
     "name": "Vesta's plateskirt (c)",
     "url": "https://oldschool.runescape.wiki/w/Vesta%27s_plateskirt_(c)",
     "version": ""
+  },
+  {
+    "examineText": "A powerful helmet.",
+    "group": "Corrupted statius's full helm (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27844,
+    "name": "Corrupted statius's full helm (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_statius%27s_full_helm_(bh)",
+    "version": "Activated"
   },
   {
     "examineText": "A powerful helmet.",
@@ -114361,6 +114501,16 @@
   },
   {
     "examineText": "A powerful platebody.",
+    "group": "Corrupted statius's platebody (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27845,
+    "name": "Corrupted statius's platebody (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_statius%27s_platebody_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A powerful platebody.",
     "group": "Statius's platebody (c)",
     "isMembers": true,
     "isTradeable": false,
@@ -114368,6 +114518,16 @@
     "name": "Statius's platebody (c)",
     "url": "https://oldschool.runescape.wiki/w/Statius%27s_platebody_(c)",
     "version": ""
+  },
+  {
+    "examineText": "A powerful pair of platelegs.",
+    "group": "Corrupted statius's platelegs (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27846,
+    "name": "Corrupted statius's platelegs (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_statius%27s_platelegs_(bh)",
+    "version": "Activated"
   },
   {
     "examineText": "A powerful pair of platelegs.",
@@ -114381,6 +114541,16 @@
   },
   {
     "examineText": "A powerful coif.",
+    "group": "Corrupted morrigan's coif (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27847,
+    "name": "Corrupted morrigan's coif (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_morrigan%27s_coif_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A powerful coif.",
     "group": "Morrigan's coif (c)",
     "isMembers": true,
     "isTradeable": false,
@@ -114388,6 +114558,16 @@
     "name": "Morrigan's coif (c)",
     "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_coif_(c)",
     "version": ""
+  },
+  {
+    "examineText": "A powerful leather body.",
+    "group": "Corrupted morrigan's leather body (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27848,
+    "name": "Corrupted morrigan's leather body (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_morrigan%27s_leather_body_(bh)",
+    "version": "Activated"
   },
   {
     "examineText": "A powerful leather body.",
@@ -114401,6 +114581,16 @@
   },
   {
     "examineText": "A powerful pair of leather chaps.",
+    "group": "Corrupted morrigan's leather chaps (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27849,
+    "name": "Corrupted morrigan's leather chaps (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_morrigan%27s_leather_chaps_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A powerful pair of leather chaps.",
     "group": "Morrigan's leather chaps (c)",
     "isMembers": true,
     "isTradeable": false,
@@ -114408,6 +114598,16 @@
     "name": "Morrigan's leather chaps (c)",
     "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_chaps_(c)",
     "version": ""
+  },
+  {
+    "examineText": "A powerful hood.",
+    "group": "Corrupted zuriel's hood (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27850,
+    "name": "Corrupted zuriel's hood (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_zuriel%27s_hood_(bh)",
+    "version": "Activated"
   },
   {
     "examineText": "A powerful hood.",
@@ -114421,6 +114621,16 @@
   },
   {
     "examineText": "A powerful robe top.",
+    "group": "Corrupted zuriel's robe top (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27851,
+    "name": "Corrupted zuriel's robe top (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_zuriel%27s_robe_top_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A powerful robe top.",
     "group": "Zuriel's robe top (c)",
     "isMembers": true,
     "isTradeable": false,
@@ -114428,6 +114638,16 @@
     "name": "Zuriel's robe top (c)",
     "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_top_(c)",
     "version": ""
+  },
+  {
+    "examineText": "A powerful robe bottom.",
+    "group": "Corrupted zuriel's robe bottom (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27852,
+    "name": "Corrupted zuriel's robe bottom (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_zuriel%27s_robe_bottom_(bh)",
+    "version": "Activated"
   },
   {
     "examineText": "A powerful robe bottom.",
@@ -114440,7 +114660,7 @@
     "version": ""
   },
   {
-    "examineText": "A bow from a darker dimension.",
+    "examineText": "A bow from an even darker dimension.",
     "group": "Dark bow (bh)",
     "isMembers": true,
     "isTradeable": false,
@@ -114495,7 +114715,7 @@
     "isMembers": true,
     "isTradeable": false,
     "itemID": 27863,
-    "name": "Abyssal dagger (bhp)",
+    "name": "Abyssal dagger (bh)(p)",
     "url": "https://oldschool.runescape.wiki/w/Abyssal_dagger_(bh)",
     "version": "Poison"
   },
@@ -114505,7 +114725,7 @@
     "isMembers": true,
     "isTradeable": false,
     "itemID": 27865,
-    "name": "Abyssal dagger (bhp+)",
+    "name": "Abyssal dagger (bh)(p+)",
     "url": "https://oldschool.runescape.wiki/w/Abyssal_dagger_(bh)",
     "version": "Poison+"
   },
@@ -114515,7 +114735,7 @@
     "isMembers": true,
     "isTradeable": false,
     "itemID": 27867,
-    "name": "Abyssal dagger (bhp++)",
+    "name": "Abyssal dagger (bh)(p++)",
     "url": "https://oldschool.runescape.wiki/w/Abyssal_dagger_(bh)",
     "version": "Poison++"
   },
@@ -114657,6 +114877,786 @@
     "itemID": 27892,
     "name": "Easter chocolate dust",
     "url": "https://oldschool.runescape.wiki/w/Easter_chocolate_dust",
+    "version": ""
+  },
+  {
+    "examineText": "A scaled blue dragonhide.",
+    "group": "Scaly blue dragonhide",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 27897,
+    "name": "Scaly blue dragonhide",
+    "url": "https://oldschool.runescape.wiki/w/Scaly_blue_dragonhide",
+    "version": ""
+  },
+  {
+    "examineText": "A powerful spear.",
+    "group": "Vesta's spear (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27900,
+    "name": "Vesta's spear (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_spear_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A powerful spear, now inactive.",
+    "group": "Vesta's spear (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27902,
+    "name": "Vesta's spear (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_spear_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful longsword.",
+    "group": "Vesta's longsword (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27904,
+    "name": "Vesta's longsword (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_longsword_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A powerful longsword, now inactive.",
+    "group": "Vesta's longsword (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27906,
+    "name": "Vesta's longsword (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_longsword_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful warhammer.",
+    "group": "Statius's warhammer (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27908,
+    "name": "Statius's warhammer (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_warhammer_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A powerful warhammer, now inactive.",
+    "group": "Statius's warhammer (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27910,
+    "name": "Statius's warhammer (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_warhammer_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A vicious throwing axe.",
+    "group": "Morrigan's throwing axe (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27912,
+    "name": "Morrigan's throwing axe (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_throwing_axe_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A vicious throwing axe, now inactive.",
+    "group": "Morrigan's throwing axe (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27914,
+    "name": "Morrigan's throwing axe (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_throwing_axe_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A vicious javelin.",
+    "group": "Morrigan's javelin (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27916,
+    "name": "Morrigan's javelin (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_javelin_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A vicious javelin, now inactive.",
+    "group": "Morrigan's javelin (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27918,
+    "name": "Morrigan's javelin (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_javelin_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful staff.",
+    "group": "Zuriel's staff (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27920,
+    "name": "Zuriel's staff (bh)",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_staff_(bh)",
+    "version": "Activated"
+  },
+  {
+    "examineText": "A powerful staff, now inactive.",
+    "group": "Zuriel's staff (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27922,
+    "name": "Zuriel's staff (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_staff_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful chainbody, now inactive.",
+    "group": "Vesta's chainbody (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27925,
+    "name": "Vesta's chainbody (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_chainbody_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful plateskirt, now inactive.",
+    "group": "Vesta's plateskirt (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27928,
+    "name": "Vesta's plateskirt (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_plateskirt_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful helmet, now inactive.",
+    "group": "Statius's full helm (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27931,
+    "name": "Statius's full helm (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_full_helm_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful platebody, now inactive.",
+    "group": "Statius's platebody (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27934,
+    "name": "Statius's platebody (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platebody_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful pair of platelegs, now inactive.",
+    "group": "Statius's platelegs (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27937,
+    "name": "Statius's platelegs (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platelegs_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful coif, now inactive.",
+    "group": "Morrigan's coif (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27940,
+    "name": "Morrigan's coif (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_coif_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful leather body, now inactive.",
+    "group": "Morrigan's leather body (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27943,
+    "name": "Morrigan's leather body (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_body_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful pair of leather chaps, now inactive.",
+    "group": "Morrigan's leather chaps (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27946,
+    "name": "Morrigan's leather chaps (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_chaps_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful hood, now inactive.",
+    "group": "Zuriel's hood (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27949,
+    "name": "Zuriel's hood (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_hood_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful robe top, now inactive.",
+    "group": "Zuriel's robe top (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27952,
+    "name": "Zuriel's robe top (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_top_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful robe bottom, now inactive.",
+    "group": "Zuriel's robe bottom (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27955,
+    "name": "Zuriel's robe bottom (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_bottom_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful chainbody, now inactive.",
+    "group": "Corrupted vesta's chainbody (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27965,
+    "name": "Corrupted vesta's chainbody (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_vesta%27s_chainbody_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful plateskirt, now inactive.",
+    "group": "Corrupted vesta's plateskirt (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27968,
+    "name": "Corrupted vesta's plateskirt (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_vesta%27s_plateskirt_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful helmet, now inactive.",
+    "group": "Corrupted statius's full helm (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27971,
+    "name": "Corrupted statius's full helm (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_statius%27s_full_helm_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful platebody, now inactive.",
+    "group": "Corrupted statius's platebody (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27974,
+    "name": "Corrupted statius's platebody (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_statius%27s_platebody_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful pair of platelegs, now inactive.",
+    "group": "Corrupted statius's platelegs (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27977,
+    "name": "Corrupted statius's platelegs (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_statius%27s_platelegs_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful coif, now inactive.",
+    "group": "Corrupted morrigan's coif (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27980,
+    "name": "Corrupted morrigan's coif (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_morrigan%27s_coif_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful leather body, now inactive.",
+    "group": "Corrupted morrigan's leather body (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27983,
+    "name": "Corrupted morrigan's leather body (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_morrigan%27s_leather_body_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful pair of leather chaps, now inactive.",
+    "group": "Corrupted morrigan's leather chaps (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27986,
+    "name": "Corrupted morrigan's leather chaps (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_morrigan%27s_leather_chaps_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful hood, now inactive.",
+    "group": "Corrupted zuriel's hood (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27989,
+    "name": "Corrupted zuriel's hood (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_zuriel%27s_hood_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful robe top, now inactive.",
+    "group": "Corrupted zuriel's robe top (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27992,
+    "name": "Corrupted zuriel's robe top (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_zuriel%27s_robe_top_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "A powerful robe bottom, now inactive.",
+    "group": "Corrupted zuriel's robe bottom (bh)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27995,
+    "name": "Corrupted zuriel's robe bottom (bh)(inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_zuriel%27s_robe_bottom_(bh)",
+    "version": "Inactive"
+  },
+  {
+    "examineText": "An emblem from ancient times.",
+    "group": "Esoteric emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27997,
+    "name": "Esoteric emblem (tier 1)",
+    "url": "https://oldschool.runescape.wiki/w/Esoteric_emblem",
+    "version": "Tier 1"
+  },
+  {
+    "examineText": "An emblem from ancient times.",
+    "group": "Esoteric emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27999,
+    "name": "Esoteric emblem (tier 2)",
+    "url": "https://oldschool.runescape.wiki/w/Esoteric_emblem",
+    "version": "Tier 2"
+  },
+  {
+    "examineText": "An emblem from ancient times.",
+    "group": "Esoteric emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28001,
+    "name": "Esoteric emblem (tier 3)",
+    "url": "https://oldschool.runescape.wiki/w/Esoteric_emblem",
+    "version": "Tier 3"
+  },
+  {
+    "examineText": "An emblem from ancient times.",
+    "group": "Esoteric emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28003,
+    "name": "Esoteric emblem (tier 4)",
+    "url": "https://oldschool.runescape.wiki/w/Esoteric_emblem",
+    "version": "Tier 4"
+  },
+  {
+    "examineText": "An emblem from ancient times.",
+    "group": "Esoteric emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28005,
+    "name": "Esoteric emblem (tier 5)",
+    "url": "https://oldschool.runescape.wiki/w/Esoteric_emblem",
+    "version": "Tier 5"
+  },
+  {
+    "examineText": "An emblem from ancient times.",
+    "group": "Esoteric emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28007,
+    "name": "Esoteric emblem (tier 6)",
+    "url": "https://oldschool.runescape.wiki/w/Esoteric_emblem",
+    "version": "Tier 6"
+  },
+  {
+    "examineText": "An emblem from ancient times.",
+    "group": "Esoteric emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28009,
+    "name": "Esoteric emblem (tier 7)",
+    "url": "https://oldschool.runescape.wiki/w/Esoteric_emblem",
+    "version": "Tier 7"
+  },
+  {
+    "examineText": "An emblem from ancient times.",
+    "group": "Esoteric emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28011,
+    "name": "Esoteric emblem (tier 8)",
+    "url": "https://oldschool.runescape.wiki/w/Esoteric_emblem",
+    "version": "Tier 8"
+  },
+  {
+    "examineText": "An emblem from ancient times.",
+    "group": "Esoteric emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28013,
+    "name": "Esoteric emblem (tier 9)",
+    "url": "https://oldschool.runescape.wiki/w/Esoteric_emblem",
+    "version": "Tier 9"
+  },
+  {
+    "examineText": "An emblem from ancient times.",
+    "group": "Esoteric emblem",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28015,
+    "name": "Esoteric emblem (tier 10)",
+    "url": "https://oldschool.runescape.wiki/w/Esoteric_emblem",
+    "version": "Tier 10"
+  },
+  {
+    "examineText": "Use on various pieces of equipment to make them look fancier!",
+    "group": "Bounty hunter ornament kit",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28017,
+    "name": "Bounty hunter ornament kit",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_hunter_ornament_kit",
+    "version": ""
+  },
+  {
+    "examineText": "A powerful dagger.",
+    "group": "Dragon dagger (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28019,
+    "name": "Dragon dagger (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_dagger_(cr)",
+    "version": "Unpoisoned"
+  },
+  {
+    "examineText": "A powerful dagger.",
+    "group": "Dragon dagger (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28021,
+    "name": "Dragon dagger (p)(cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_dagger_(cr)",
+    "version": "Poison"
+  },
+  {
+    "examineText": "A powerful dagger.",
+    "group": "Dragon dagger (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28023,
+    "name": "Dragon dagger (p+)(cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_dagger_(cr)",
+    "version": "Poison+"
+  },
+  {
+    "examineText": "A powerful dagger.",
+    "group": "Dragon dagger (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28025,
+    "name": "Dragon dagger (p++)(cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_dagger_(cr)",
+    "version": "Poison++"
+  },
+  {
+    "examineText": "A spiky mace.",
+    "group": "Dragon mace (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28027,
+    "name": "Dragon mace (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_mace_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "A razor sharp sword.",
+    "group": "Dragon sword (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28029,
+    "name": "Dragon sword (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_sword_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "A vicious, curved sword.",
+    "group": "Dragon scimitar (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28031,
+    "name": "Dragon scimitar (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_scimitar_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "A very powerful sword.",
+    "group": "Dragon longsword (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28033,
+    "name": "Dragon longsword (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_longsword_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "Spikey, close combat weapon.",
+    "group": "Dragon warhammer (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28035,
+    "name": "Dragon warhammer (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_warhammer_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "A vicious looking axe.",
+    "group": "Dragon battleaxe (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28037,
+    "name": "Dragon battleaxe (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_battleaxe_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "A set of fighting claws.",
+    "group": "Dragon claws (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28039,
+    "name": "Dragon claws (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_claws_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "A dragon-tipped spear.",
+    "group": "Dragon spear (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28041,
+    "name": "Dragon spear (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_spear_(cr)",
+    "version": "Unpoisoned"
+  },
+  {
+    "examineText": "A poisoned dragon-tipped spear.",
+    "group": "Dragon spear (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28043,
+    "name": "Dragon spear (p)(cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_spear_(cr)",
+    "version": "Poison"
+  },
+  {
+    "examineText": "A poisoned dragon-tipped spear.",
+    "group": "Dragon spear (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28045,
+    "name": "Dragon spear (p+)(cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_spear_(cr)",
+    "version": "Poison+"
+  },
+  {
+    "examineText": "A poisoned dragon-tipped spear.",
+    "group": "Dragon spear (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28047,
+    "name": "Dragon spear (p++)(cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_spear_(cr)",
+    "version": "Poison++"
+  },
+  {
+    "examineText": "A poisoned dragon-tipped spear.",
+    "group": "Dragon halberd (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28049,
+    "name": "Dragon halberd (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_halberd_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "A two-handed Dragon Sword.",
+    "group": "Dragon 2h sword (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28051,
+    "name": "Dragon 2h sword (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_2h_sword_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "A dragon crossbow.",
+    "group": "Dragon crossbow (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28053,
+    "name": "Dragon crossbow (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_crossbow_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "These will protect my feet.",
+    "group": "Dragon boots (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28055,
+    "name": "Dragon boots (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_boots_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "Makes the wearer pretty intimidating.",
+    "group": "Dragon med helm (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28057,
+    "name": "Dragon med helm (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_med_helm_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "An ancient and powerful-looking Dragon Square Shield.",
+    "group": "Dragon sq shield (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28059,
+    "name": "Dragon sq shield (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_sq_shield_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "Heavy protective legwear.",
+    "group": "Dragon platelegs (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28061,
+    "name": "Dragon platelegs (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_platelegs_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "This looks pretty heavy.",
+    "group": "Dragon plateskirt (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28063,
+    "name": "Dragon plateskirt (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_plateskirt_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "A series of connected metal rings.",
+    "group": "Dragon chainbody (cr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28065,
+    "name": "Dragon chainbody (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_chainbody_(cr)",
+    "version": ""
+  },
+  {
+    "examineText": "A Penance Fighter torso armour.",
+    "group": "Fighter torso (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28067,
+    "name": "Fighter torso (or)",
+    "url": "https://oldschool.runescape.wiki/w/Fighter_torso_(or)",
+    "version": "Normal"
+  },
+  {
+    "examineText": "A Penance Fighter torso armour.",
+    "group": "Fighter torso (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28069,
+    "name": "Fighter torso (l)(or)",
+    "url": "https://oldschool.runescape.wiki/w/Fighter_torso_(or)",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A gift from Neitiznot's Burgher.",
+    "group": "Helm of neitiznot (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28070,
+    "name": "Helm of neitiznot (or)",
+    "url": "https://oldschool.runescape.wiki/w/Helm_of_neitiznot_(or)",
+    "version": ""
+  },
+  {
+    "examineText": "Use on a Dark Bow to imbue the weapon.",
+    "group": "Dark bow imbue scroll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28072,
+    "name": "Dark bow imbue scroll",
+    "url": "https://oldschool.runescape.wiki/w/Dark_bow_imbue_scroll",
+    "version": ""
+  },
+  {
+    "examineText": "Use on a Barrelchest Anchor to imbue the weapon.",
+    "group": "Barrelchest anchor imbue scroll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28074,
+    "name": "Barrelchest anchor imbue scroll",
+    "url": "https://oldschool.runescape.wiki/w/Barrelchest_anchor_imbue_scroll",
+    "version": ""
+  },
+  {
+    "examineText": "Use on a Dragon Mace to imbue the weapon.",
+    "group": "Dragon mace imbue scroll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28076,
+    "name": "Dragon mace imbue scroll",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_mace_imbue_scroll",
+    "version": ""
+  },
+  {
+    "examineText": "Use on a Dragon longsword to imbue the weapon.",
+    "group": "Dragon longsword imbue scroll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28078,
+    "name": "Dragon longsword imbue scroll",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_longsword_imbue_scroll",
+    "version": ""
+  },
+  {
+    "examineText": "Use on a Abyssal dagger to imbue the weapon.",
+    "group": "Abyssal dagger imbue scroll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28080,
+    "name": "Abyssal dagger imbue scroll",
+    "url": "https://oldschool.runescape.wiki/w/Abyssal_dagger_imbue_scroll",
     "version": ""
   }
 ]

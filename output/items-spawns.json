@@ -355,18 +355,6 @@
     "group": "Bird snare",
     "spawns": [
       {
-        "coords": "2167,2981",
-        "isMembers": true,
-        "location": "Isle of Souls - near spinning wheel",
-        "name": "Bird snare"
-      },
-      {
-        "coords": "1509, 3416",
-        "isMembers": true,
-        "location": "Land's End - Crate",
-        "name": "Bird snare"
-      },
-      {
         "coords": "3324,2742",
         "isMembers": true,
         "location": "Necropolis camps - south-east of Sophanem",
@@ -4656,17 +4644,6 @@
     ]
   },
   {
-    "group": "Orb of light",
-    "spawns": [
-      {
-        "coords": "2385,9685",
-        "isMembers": true,
-        "location": "Underground Pass - first level",
-        "name": "Orb of light"
-      }
-    ]
-  },
-  {
     "group": "Panning tray",
     "spawns": [
       {
@@ -5738,7 +5715,7 @@
         "name": "Small fishing net"
       },
       {
-        "coords": "3244,3157",
+        "coords": "3244,3159",
         "isMembers": false,
         "location": "Lumbridge Swamp - by the Fishing tutor",
         "name": "Small fishing net"
