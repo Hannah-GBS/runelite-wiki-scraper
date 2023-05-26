@@ -303,6 +303,26 @@
     "ticks": "3"
   },
   {
+    "materials": [
+      {
+        "name": "Abyssal dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Abyssal dagger imbue scroll",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Abyssal dagger (bh).png|link=Abyssal dagger (bh)]]",
+      "name": "Abyssal dagger (bh)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Rewards Guardian",
     "materials": [
       {
@@ -7039,6 +7059,48 @@
     "ticks": "4"
   },
   {
+    "facilities": "Smith",
+    "materials": [
+      {
+        "name": "Barrelchest anchor (broken)",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "230000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Barrelchest anchor.png|link=Barrelchest anchor]]",
+      "name": "Barrelchest anchor",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Book o' piracy"
+  },
+  {
+    "materials": [
+      {
+        "name": "Barrelchest anchor",
+        "quantity": "1"
+      },
+      {
+        "name": "Barrelchest anchor imbue scroll",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Barrelchest anchor (bh).png|link=Barrelchest anchor (bh)]]",
+      "name": "Barrelchest anchor (bh)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Ramarno",
     "materials": [
       {
@@ -8373,7 +8435,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">103,073,615</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">91,869,484</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10794,6 +10856,23 @@
     "ticks": "3"
   },
   {
+    "materials": [
+      {
+        "name": "Scaly blue dragonhide",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blue dragon scale.png|link=Blue dragon scale]]",
+      "name": "Blue dragon scale",
+      "quantity": "50"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Knife"
+  },
+  {
     "facilities": "Aggie",
     "materials": [
       {
@@ -11328,6 +11407,31 @@
     "facilities": "Body Altar",
     "materials": [
       {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Body rune.png|link=Body rune]]",
+      "name": "Body rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "11.2",
+        "level": "20",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Body tiara, Body talisman"
+  },
+  {
+    "facilities": "Body Altar",
+    "materials": [
+      {
         "name": "Guardian essence",
         "quantity": "1"
       }
@@ -11366,31 +11470,6 @@
       {
         "boostable": "yes",
         "experience": "75",
-        "level": "20",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Body tiara, Body talisman"
-  },
-  {
-    "facilities": "Body Altar",
-    "materials": [
-      {
-        "name": "Daeyalt essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Body rune.png|link=Body rune]]",
-      "name": "Body rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "11.2",
         "level": "20",
         "name": "Runecraft"
       }
@@ -11869,7 +11948,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">104,182,644</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">91,116,478</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -13186,9 +13265,9 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "15",
-        "level": "8",
+        "level": "1",
         "name": "Crafting"
       }
     ],
@@ -27019,6 +27098,26 @@
     "ticks": ""
   },
   {
+    "materials": [
+      {
+        "name": "Dark bow",
+        "quantity": "1"
+      },
+      {
+        "name": "Dark bow imbue scroll",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dark bow (bh).png|link=Dark bow (bh)]]",
+      "name": "Dark bow (bh)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Cooking range",
     "materials": [
       {
@@ -28788,6 +28887,26 @@
   {
     "materials": [
       {
+        "name": "Dragon 2h sword",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon 2h sword (cr).png|link=Dragon 2h sword (cr)]]",
+      "name": "Dragon 2h sword (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Headless arrow",
         "quantity": "15"
       },
@@ -28831,6 +28950,26 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon battleaxe",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon battleaxe (cr).png|link=Dragon battleaxe (cr)]]",
+      "name": "Dragon battleaxe (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Brewery",
@@ -29047,6 +29186,26 @@
         "quantity": "1"
       },
       {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon boots (cr).png|link=Dragon boots (cr)]]",
+      "name": "Dragon boots (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon boots",
+        "quantity": "1"
+      },
+      {
         "name": "Dragon boots ornament kit",
         "quantity": "1"
       }
@@ -29067,6 +29226,26 @@
         "quantity": "1"
       },
       {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon chainbody (cr).png|link=Dragon chainbody (cr)]]",
+      "name": "Dragon chainbody (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon chainbody",
+        "quantity": "1"
+      },
+      {
         "name": "Dragon chainbody ornament kit",
         "quantity": "1"
       }
@@ -29079,6 +29258,26 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon claws",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon claws (cr).png|link=Dragon claws (cr)]]",
+      "name": "Dragon claws (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -29110,6 +29309,26 @@
   {
     "materials": [
       {
+        "name": "Dragon crossbow",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon crossbow (cr).png|link=Dragon crossbow (cr)]]",
+      "name": "Dragon crossbow (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Magic stock",
         "quantity": "1"
       },
@@ -29134,6 +29353,26 @@
     ],
     "ticks": "2",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon dagger (cr).png|link=Dragon dagger (cr)]]",
+      "name": "Dragon dagger (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -29221,6 +29460,26 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon halberd",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon halberd (cr).png|link=Dragon halberd (cr)]]",
+      "name": "Dragon halberd (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -29420,6 +29679,106 @@
     "ticks": ""
   },
   {
+    "materials": [
+      {
+        "name": "Dragon longsword",
+        "quantity": "1"
+      },
+      {
+        "name": "Dragon longsword imbue scroll",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon longsword (bh).png|link=Dragon longsword (bh)]]",
+      "name": "Dragon longsword (bh)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon longsword",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon longsword (cr).png|link=Dragon longsword (cr)]]",
+      "name": "Dragon longsword (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon mace",
+        "quantity": "1"
+      },
+      {
+        "name": "Dragon mace imbue scroll",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon mace (bh).png|link=Dragon mace (bh)]]",
+      "name": "Dragon mace (bh)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon mace",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon mace (cr).png|link=Dragon mace (cr)]]",
+      "name": "Dragon mace (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon med helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon med helm (cr).png|link=Dragon med helm (cr)]]",
+      "name": "Dragon med helm (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Furnace",
     "materials": [
       {
@@ -29589,6 +29948,26 @@
         "quantity": "1"
       },
       {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon platelegs (cr).png|link=Dragon platelegs (cr)]]",
+      "name": "Dragon platelegs (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon platelegs",
+        "quantity": "1"
+      },
+      {
         "name": "Dragon legs/skirt ornament kit",
         "quantity": "1"
       }
@@ -29601,6 +29980,26 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon plateskirt",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon plateskirt (cr).png|link=Dragon plateskirt (cr)]]",
+      "name": "Dragon plateskirt (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -29646,6 +30045,26 @@
         "quantity": "1"
       },
       {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon scimitar (cr).png|link=Dragon scimitar (cr)]]",
+      "name": "Dragon scimitar (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon scimitar",
+        "quantity": "1"
+      },
+      {
         "name": "Dragon scimitar ornament kit",
         "quantity": "1"
       }
@@ -29658,6 +30077,26 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon spear (cr).png|link=Dragon spear (cr)]]",
+      "name": "Dragon spear (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -29695,6 +30134,26 @@
         "quantity": "1"
       },
       {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon sq shield (cr).png|link=Dragon sq shield (cr)]]",
+      "name": "Dragon sq shield (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon sq shield",
+        "quantity": "1"
+      },
+      {
         "name": "Dragon sq shield ornament kit",
         "quantity": "1"
       }
@@ -29707,6 +30166,46 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon sword",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon sword (cr).png|link=Dragon sword (cr)]]",
+      "name": "Dragon sword (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon warhammer",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon warhammer (cr).png|link=Dragon warhammer (cr)]]",
+      "name": "Dragon warhammer (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -30465,6 +30964,41 @@
     "facilities": "Air Altar",
     "materials": [
       {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth talisman",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dust rune.png|link=Dust rune]]",
+      "name": "Dust rune",
+      "quantity": "1",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]].",
+      "subtxt": "Air Altar"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "12.4",
+        "level": "10",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Air tiara, Binding necklace, Magic Imbue"
+  },
+  {
+    "facilities": "Air Altar",
+    "materials": [
+      {
         "name": "Guardian essence",
         "quantity": "1"
       },
@@ -30600,41 +31134,6 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
-  },
-  {
-    "facilities": "Air Altar",
-    "materials": [
-      {
-        "name": "Daeyalt essence",
-        "quantity": "1"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Earth talisman",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Dust rune.png|link=Dust rune]]",
-      "name": "Dust rune",
-      "quantity": "1",
-      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]].",
-      "subtxt": "Air Altar"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "12.4",
-        "level": "10",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Air tiara, Binding necklace, Magic Imbue"
   },
   {
     "materials": [
@@ -31552,6 +32051,86 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Elder chaos hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Elder chaos robes ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elder chaos hood (or).png|link=Elder chaos hood (or)]]",
+      "name": "Elder chaos hood (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Elder chaos robe",
+        "quantity": "1"
+      },
+      {
+        "name": "Elder chaos robes ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elder chaos robe (or).png|link=Elder chaos robe (or)]]",
+      "name": "Elder chaos robe (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Elder chaos top",
+        "quantity": "1"
+      },
+      {
+        "name": "Elder chaos robes ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elder chaos top (or).png|link=Elder chaos top (or)]]",
+      "name": "Elder chaos top (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Elder maul",
+        "quantity": "1"
+      },
+      {
+        "name": "Elder maul ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Elder maul (or).png|link=Elder maul (or)]]",
+      "name": "Elder maul (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -32485,9 +33064,9 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "17.5",
-        "level": "19",
+        "level": "1",
         "name": "Crafting"
       }
     ],
@@ -33932,6 +34511,26 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Fighter torso",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Fighter torso (or).png|link=Fighter torso (or)]]",
+      "name": "Fighter torso (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Farming patch",
@@ -36663,28 +37262,6 @@
   {
     "materials": [
       {
-        "name": "Granite maul (or)",
-        "quantity": "1"
-      },
-      {
-        "name": "Ornate maul handle",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Granite maul (or) (ornate handle).png|link=Granite maul (or)#Ornate handle]]",
-      "name": "Granite maul (or)",
-      "quantity": "1",
-      "txt": "Granite maul (or) (ornate handle)",
-      "version": "Ornate handle"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
-    "materials": [
-      {
         "name": "Granite maul",
         "quantity": "1"
       },
@@ -36724,6 +37301,28 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Granite maul (or)",
+        "quantity": "1"
+      },
+      {
+        "name": "Ornate maul handle",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Granite maul (or) (ornate handle).png|link=Granite maul (or)#Ornate handle]]",
+      "name": "Granite maul (or)",
+      "quantity": "1",
+      "txt": "Granite maul (or) (ornate handle)",
+      "version": "Ornate handle"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Dom Onion's Reward Shop",
@@ -39394,6 +39993,42 @@
     "ticks": "0"
   },
   {
+    "facilities": "Hay bale",
+    "materials": [
+      {
+        "name": "Empty sack",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hay sack.png|link=Hay sack]]",
+      "name": "Hay sack",
+      "quantity": "1",
+      "subtxt": "Hay bale"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Haystack",
+    "materials": [
+      {
+        "name": "Empty sack",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hay sack.png|link=Hay sack]]",
+      "name": "Hay sack",
+      "quantity": "1",
+      "subtxt": "Haystack"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "name": "Arrow shaft",
@@ -39446,6 +40081,46 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Heavy ballista",
+        "quantity": "1"
+      },
+      {
+        "name": "Heavy ballista ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Heavy ballista (or).png|link=Heavy ballista (or)]]",
+      "name": "Heavy ballista (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Helm of neitiznot",
+        "quantity": "1"
+      },
+      {
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Helm of neitiznot (or).png|link=Helm of neitiznot (or)]]",
+      "name": "Helm of neitiznot (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -42830,11 +43505,11 @@
   {
     "materials": [
       {
-        "name": "Ugthanki & tomato",
+        "name": "Ugthanki & onion",
         "quantity": "1"
       },
       {
-        "name": "Onion",
+        "name": "Tomato",
         "quantity": "1"
       }
     ],
@@ -42858,11 +43533,11 @@
   {
     "materials": [
       {
-        "name": "Ugthanki & onion",
+        "name": "Ugthanki & tomato",
         "quantity": "1"
       },
       {
-        "name": "Tomato",
+        "name": "Onion",
         "quantity": "1"
       }
     ],
@@ -46922,6 +47597,27 @@
     "tools": "Needle"
   },
   {
+    "materials": [
+      {
+        "name": "Assembler max cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Masori crafting kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Masori assembler max cape.png|link=Masori assembler max cape]]",
+      "name": "Masori assembler max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Needle"
+  },
+  {
     "facilities": "",
     "materials": [
       {
@@ -47685,6 +48381,31 @@
     "facilities": "Mind Altar",
     "materials": [
       {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mind rune.png|link=Mind rune]]",
+      "name": "Mind rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "8.2",
+        "level": "2",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Mind tiara, Mind talisman"
+  },
+  {
+    "facilities": "Mind Altar",
+    "materials": [
+      {
         "name": "Guardian essence",
         "quantity": "1"
       }
@@ -47723,31 +48444,6 @@
       {
         "boostable": "yes",
         "experience": "55",
-        "level": "2",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Mind tiara, Mind talisman"
-  },
-  {
-    "facilities": "Mind Altar",
-    "materials": [
-      {
-        "name": "Daeyalt essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mind rune.png|link=Mind rune]]",
-      "name": "Mind rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "8.2",
         "level": "2",
         "name": "Runecraft"
       }
@@ -50484,31 +51180,6 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
-  },
-  {
-    "facilities": "Apothecary",
-    "materials": [
-      {
-        "name": "Tin ore",
-        "quantity": "1"
-      },
-      {
-        "name": "Grain",
-        "quantity": "1"
-      },
-      {
-        "name": "Tomberries",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Murky potion.png|link=Murky potion]]",
-      "name": "Murky potion",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "facilities": "Well (Paterdomus)",
@@ -55484,9 +56155,9 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "10",
-        "level": "7",
+        "level": "1",
         "name": "Crafting"
       }
     ],
@@ -56517,9 +57188,9 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "20",
-        "level": "25",
+        "level": "1",
         "name": "Crafting"
       }
     ],
@@ -79125,28 +79796,6 @@
     "ticks": "0"
   },
   {
-    "facilities": "Dom Onion's Reward Shop",
-    "materials": [
-      {
-        "name": "Warrior ring",
-        "quantity": "1"
-      },
-      {
-        "name": "Nightmare Zone points",
-        "quantity": "650000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Warrior ring (i).png|link=Warrior ring (i)]]",
-      "name": "Warrior ring (i)",
-      "quantity": "1",
-      "subtxt": "Nightmare Zone"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
     "facilities": "Soul Wars Reward Shop",
     "materials": [
       {
@@ -79185,6 +79834,28 @@
       "name": "Warrior ring (i)",
       "quantity": "1",
       "subtxt": "Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Dom Onion's Reward Shop",
+    "materials": [
+      {
+        "name": "Warrior ring",
+        "quantity": "1"
+      },
+      {
+        "name": "Nightmare Zone points",
+        "quantity": "650000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Warrior ring (i).png|link=Warrior ring (i)]]",
+      "name": "Warrior ring (i)",
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
     },
     "skills": [],
     "ticks": "1"
