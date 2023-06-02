@@ -88,16 +88,61 @@
         "quantity": "1"
       },
       {
+        "name": "Vial of liquid",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:??? mixture (hot).png|link=??? mixture#Hot]]",
+      "name": "??? mixture",
+      "quantity": "1",
+      "txt": "??? mixture",
+      "version": "Hot"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Gypsum",
+        "quantity": "1"
+      },
+      {
+        "name": "Vial of liquid",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:??? mixture (warm).png|link=??? mixture#Warm]]",
+      "name": "??? mixture",
+      "quantity": "1",
+      "txt": "??? mixture",
+      "version": "Warm"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Cupric sulfate",
+        "quantity": "1"
+      },
+      {
         "name": "Sodium chloride",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:??? mixture (horrible).png|link=??? mixture (horrible)]]",
-      "name": "??? mixture (horrible)",
+      "image": "[[File:??? mixture (horrible).png|link=??? mixture#Horrible]]",
+      "name": "??? mixture",
       "quantity": "1",
-      "txt": "??? mixture"
+      "txt": "??? mixture",
+      "version": "Horrible"
     },
     "skills": [],
     "ticks": ""
@@ -115,10 +160,11 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:??? mixture (horrible).png|link=??? mixture (horrible)]]",
-      "name": "??? mixture (horrible)",
+      "image": "[[File:??? mixture (horrible).png|link=??? mixture#Horrible]]",
+      "name": "??? mixture",
       "quantity": "1",
-      "txt": "??? mixture"
+      "txt": "??? mixture",
+      "version": "Horrible"
     },
     "skills": [],
     "ticks": ""
@@ -136,10 +182,11 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:??? mixture (horrible).png|link=??? mixture (horrible)]]",
-      "name": "??? mixture (horrible)",
+      "image": "[[File:??? mixture (horrible).png|link=??? mixture#Horrible]]",
+      "name": "??? mixture",
       "quantity": "1",
-      "txt": "??? mixture"
+      "txt": "??? mixture",
+      "version": "Horrible"
     },
     "skills": [],
     "ticks": ""
@@ -157,10 +204,11 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:??? mixture (horrible).png|link=??? mixture (horrible)]]",
-      "name": "??? mixture (horrible)",
+      "image": "[[File:??? mixture (horrible).png|link=??? mixture#Horrible]]",
+      "name": "??? mixture",
       "quantity": "1",
-      "txt": "??? mixture"
+      "txt": "??? mixture",
+      "version": "Horrible"
     },
     "skills": [],
     "ticks": ""
@@ -178,52 +226,11 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:??? mixture (horrible).png|link=??? mixture (horrible)]]",
-      "name": "??? mixture (horrible)",
+      "image": "[[File:??? mixture (horrible).png|link=??? mixture#Horrible]]",
+      "name": "??? mixture",
       "quantity": "1",
-      "txt": "??? mixture"
-    },
-    "skills": [],
-    "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "name": "Cupric sulfate",
-        "quantity": "1"
-      },
-      {
-        "name": "Vial of liquid",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:??? mixture (hot).png|link=??? mixture (hot)]]",
-      "name": "??? mixture (hot)",
-      "quantity": "1",
-      "txt": "??? mixture"
-    },
-    "skills": [],
-    "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "name": "Gypsum",
-        "quantity": "1"
-      },
-      {
-        "name": "Vial of liquid",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:??? mixture (warm).png|link=??? mixture (warm)]]",
-      "name": "??? mixture (warm)",
-      "quantity": "1",
-      "txt": "??? mixture"
+      "txt": "??? mixture",
+      "version": "Horrible"
     },
     "skills": [],
     "ticks": ""
@@ -233,15 +240,17 @@
     "materials": [
       {
         "name": "A stone bowl",
-        "quantity": "1"
+        "quantity": "1",
+        "version": "Empty"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:A stone bowl (full).png|link=A stone bowl (full)]]",
-      "name": "A stone bowl (full)",
+      "image": "[[File:A stone bowl (full).png|link=A stone bowl#Full]]",
+      "name": "A stone bowl",
       "quantity": "1",
-      "txt": "A stone bowl"
+      "txt": "A stone bowl",
+      "version": "Full"
     },
     "skills": [],
     "ticks": ""
@@ -8435,7 +8444,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">91,869,484</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">89,985,200</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11948,7 +11957,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">91,116,478</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">94,609,908</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -29912,7 +29921,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "2000",
         "level": "90",
         "name": "Smithing"
@@ -39627,28 +39636,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "Eodan",
-    "materials": [
-      {
-        "name": "Cowhide",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "30"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Hard leather.png|link=Hard leather]]",
-      "name": "Hard leather",
-      "quantity": "1",
-      "subtxt": "Eodan"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
     "materials": [
       {
         "name": "Cowhide",
@@ -44961,28 +44948,6 @@
       "name": "Leather",
       "quantity": "1",
       "subtxt": "Sbott"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Eodan",
-    "materials": [
-      {
-        "name": "Cowhide",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "10"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Leather.png|link=Leather]]",
-      "name": "Leather",
-      "quantity": "1",
-      "subtxt": "Eodan"
     },
     "skills": [],
     "ticks": "1"
@@ -64009,6 +63974,74 @@
     "tools": "Tarn's diary"
   },
   {
+    "facilities": "Dom Onion's Reward Shop",
+    "materials": [
+      {
+        "name": "Salve amulet",
+        "quantity": "1"
+      },
+      {
+        "name": "Nightmare Zone points",
+        "quantity": "800000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
+      "name": "Salve amulet(ei)",
+      "quantity": "1",
+      "subtxt": "Total - Nightmare Zone"
+    },
+    "skills": [],
+    "ticks": "Varies",
+    "tools": "Tarn's diary"
+  },
+  {
+    "facilities": "Soul Wars Reward Shop",
+    "materials": [
+      {
+        "name": "Salve amulet",
+        "quantity": "1"
+      },
+      {
+        "name": "Zeal Tokens",
+        "quantity": "320"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
+      "name": "Salve amulet(ei)",
+      "quantity": "1",
+      "subtxt": "Total - Soul Wars"
+    },
+    "skills": [],
+    "ticks": "Varies",
+    "tools": "Tarn's diary"
+  },
+  {
+    "materials": [
+      {
+        "name": "Salve amulet",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
+      "name": "Salve amulet(ei)",
+      "quantity": "1",
+      "subtxt": "Total - Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "Varies",
+    "tools": "Tarn's diary"
+  },
+  {
     "materials": [
       {
         "name": "Salve amulet(i)",
@@ -64089,74 +64122,6 @@
     },
     "skills": [],
     "ticks": "1"
-  },
-  {
-    "facilities": "Dom Onion's Reward Shop",
-    "materials": [
-      {
-        "name": "Salve amulet",
-        "quantity": "1"
-      },
-      {
-        "name": "Nightmare Zone points",
-        "quantity": "800000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
-      "name": "Salve amulet(ei)",
-      "quantity": "1",
-      "subtxt": "Total - Nightmare Zone"
-    },
-    "skills": [],
-    "ticks": "Varies",
-    "tools": "Tarn's diary"
-  },
-  {
-    "facilities": "Soul Wars Reward Shop",
-    "materials": [
-      {
-        "name": "Salve amulet",
-        "quantity": "1"
-      },
-      {
-        "name": "Zeal Tokens",
-        "quantity": "320"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
-      "name": "Salve amulet(ei)",
-      "quantity": "1",
-      "subtxt": "Total - Soul Wars"
-    },
-    "skills": [],
-    "ticks": "Varies",
-    "tools": "Tarn's diary"
-  },
-  {
-    "materials": [
-      {
-        "name": "Salve amulet",
-        "quantity": "1"
-      },
-      {
-        "name": "Scroll of imbuing",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
-      "name": "Salve amulet(ei)",
-      "quantity": "1",
-      "subtxt": "Total - Emir's Arena"
-    },
-    "skills": [],
-    "ticks": "Varies",
-    "tools": "Tarn's diary"
   },
   {
     "facilities": "Dom Onion's Reward Shop",
@@ -68857,28 +68822,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "Eodan",
-    "materials": [
-      {
-        "name": "Snake hide",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "200"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Snakeskin.png|link=Snakeskin]]",
-      "name": "Snakeskin",
-      "quantity": "1",
-      "subtxt": "Eodan"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
     "facilities": "Tannery",
     "materials": [
       {
@@ -68918,28 +68861,6 @@
       "name": "Snakeskin",
       "quantity": "1",
       "subtxt": "Sbott"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Eodan",
-    "materials": [
-      {
-        "name": "Snake hide (swamp)",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "150"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Snakeskin.png|link=Snakeskin]]",
-      "name": "Snakeskin",
-      "quantity": "1",
-      "subtxt": "Eodan"
     },
     "skills": [],
     "ticks": "1"
@@ -69015,6 +68936,50 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Eodan",
+    "materials": [
+      {
+        "name": "Snake hide",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "150"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snakeskin.png|link=Snakeskin]]",
+      "name": "Snakeskin",
+      "quantity": "1",
+      "subtxt": "Eodan"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Eodan",
+    "materials": [
+      {
+        "name": "Snake hide (swamp)",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "200"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snakeskin.png|link=Snakeskin]]",
+      "name": "Snakeskin",
+      "quantity": "1",
+      "subtxt": "Eodan"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [

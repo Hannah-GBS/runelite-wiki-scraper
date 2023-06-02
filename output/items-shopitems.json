@@ -4064,7 +4064,7 @@
     "isMembers": true,
     "items": [
       {
-        "buyPrice": "N/A",
+        "buyPrice": "120",
         "currency": "Points",
         "name": "Abyssal dagger imbue scroll",
         "sellPrice": "150",
@@ -4072,7 +4072,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "60",
         "currency": "Points",
         "name": "Barrelchest anchor imbue scroll",
         "sellPrice": "75",
@@ -4160,7 +4160,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "40",
         "currency": "Points",
         "name": "Bounty hunter ornament kit",
         "sellPrice": "50",
@@ -4168,7 +4168,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "80",
         "currency": "Points",
         "name": "Dark bow imbue scroll",
         "sellPrice": "100",
@@ -4176,7 +4176,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "40",
         "currency": "Points",
         "name": "Dragon longsword imbue scroll",
         "sellPrice": "50",
@@ -4184,7 +4184,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "40",
         "currency": "Points",
         "name": "Dragon mace imbue scroll",
         "sellPrice": "50",
@@ -4192,7 +4192,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "40",
         "currency": "Points",
         "name": "Elder chaos robes ornament kit",
         "sellPrice": "50",
@@ -4200,7 +4200,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "40",
         "currency": "Points",
         "name": "Elder maul ornament kit",
         "sellPrice": "50",
@@ -4216,7 +4216,7 @@
         "version": ""
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "40",
         "currency": "Points",
         "name": "Heavy ballista ornament kit",
         "sellPrice": "50",
@@ -4227,38 +4227,6 @@
         "buyPrice": "N/A",
         "currency": "Points",
         "name": "Morrigan's coif",
-        "sellPrice": "550",
-        "stock": "inf",
-        "version": ""
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
-        "name": "Morrigan's javelin",
-        "sellPrice": "650",
-        "stock": "inf",
-        "version": ""
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
-        "name": "Morrigan's leather body",
-        "sellPrice": "800",
-        "stock": "inf",
-        "version": ""
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
-        "name": "Morrigan's leather chaps",
-        "sellPrice": "650",
-        "stock": "inf",
-        "version": ""
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
-        "name": "Morrigan's throwing axe",
         "sellPrice": "400",
         "stock": "inf",
         "version": ""
@@ -4266,8 +4234,40 @@
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Statius's full helm",
+        "name": "Morrigan's javelin",
         "sellPrice": "550",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Morrigan's leather body",
+        "sellPrice": "600",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Morrigan's leather chaps",
+        "sellPrice": "500",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Morrigan's throwing axe",
+        "sellPrice": "300",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Statius's full helm",
+        "sellPrice": "400",
         "stock": "inf",
         "version": ""
       },
@@ -4275,7 +4275,7 @@
         "buyPrice": "N/A",
         "currency": "Points",
         "name": "Statius's platebody",
-        "sellPrice": "800",
+        "sellPrice": "600",
         "stock": "inf",
         "version": ""
       },
@@ -4283,7 +4283,7 @@
         "buyPrice": "N/A",
         "currency": "Points",
         "name": "Statius's platelegs",
-        "sellPrice": "650",
+        "sellPrice": "500",
         "stock": "inf",
         "version": ""
       },
@@ -4291,7 +4291,7 @@
         "buyPrice": "N/A",
         "currency": "Points",
         "name": "Statius's warhammer",
-        "sellPrice": "550",
+        "sellPrice": "450",
         "stock": "inf",
         "version": ""
       },
@@ -4307,7 +4307,7 @@
         "buyPrice": "N/A",
         "currency": "Points",
         "name": "Vesta's chainbody",
-        "sellPrice": "800",
+        "sellPrice": "600",
         "stock": "inf",
         "version": ""
       },
@@ -4315,46 +4315,6 @@
         "buyPrice": "N/A",
         "currency": "Points",
         "name": "Vesta's longsword",
-        "sellPrice": "750",
-        "stock": "inf",
-        "version": ""
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
-        "name": "Vesta's plateskirt",
-        "sellPrice": "750",
-        "stock": "inf",
-        "version": ""
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
-        "name": "Vesta's spear",
-        "sellPrice": "400",
-        "stock": "inf",
-        "version": ""
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
-        "name": "Zuriel's hood",
-        "sellPrice": "400",
-        "stock": "inf",
-        "version": ""
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
-        "name": "Zuriel's robe bottom",
-        "sellPrice": "550",
-        "stock": "inf",
-        "version": ""
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
-        "name": "Zuriel's robe top",
         "sellPrice": "650",
         "stock": "inf",
         "version": ""
@@ -4362,8 +4322,48 @@
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Zuriel's staff",
+        "name": "Vesta's plateskirt",
+        "sellPrice": "550",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Vesta's spear",
+        "sellPrice": "300",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Zuriel's hood",
+        "sellPrice": "300",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Zuriel's robe bottom",
         "sellPrice": "400",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Zuriel's robe top",
+        "sellPrice": "500",
+        "stock": "inf",
+        "version": ""
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Zuriel's staff",
+        "sellPrice": "300",
         "stock": "inf",
         "version": ""
       }
