@@ -2971,12 +2971,12 @@
   },
   {
     "examineText": "Useless without the head.",
-    "group": "Axe handle",
+    "group": "Axe handle (historical)",
     "isMembers": false,
     "isTradeable": true,
     "itemID": 492,
     "name": "Axe handle",
-    "url": "https://oldschool.runescape.wiki/w/Axe_handle",
+    "url": "https://oldschool.runescape.wiki/w/Axe_handle_(historical)",
     "version": "Standard"
   },
   {
@@ -10307,7 +10307,7 @@
     "itemID": 1706,
     "name": "Amulet of glory(1)",
     "url": "https://oldschool.runescape.wiki/w/Amulet_of_glory",
-    "version": "(1)"
+    "version": "1"
   },
   {
     "examineText": "A dragonstone amulet with 2 magic charges.",
@@ -10317,7 +10317,7 @@
     "itemID": 1708,
     "name": "Amulet of glory(2)",
     "url": "https://oldschool.runescape.wiki/w/Amulet_of_glory",
-    "version": "(2)"
+    "version": "2"
   },
   {
     "examineText": "A dragonstone amulet with 3 magic charges.",
@@ -10327,7 +10327,7 @@
     "itemID": 1710,
     "name": "Amulet of glory(3)",
     "url": "https://oldschool.runescape.wiki/w/Amulet_of_glory",
-    "version": "(3)"
+    "version": "3"
   },
   {
     "examineText": "A dragonstone amulet with 4 magic charges.",
@@ -10337,7 +10337,7 @@
     "itemID": 1712,
     "name": "Amulet of glory(4)",
     "url": "https://oldschool.runescape.wiki/w/Amulet_of_glory",
-    "version": "(4)"
+    "version": "4"
   },
   {
     "examineText": "It needs a string so I can wear it.",
@@ -22017,7 +22017,7 @@
     "itemID": 3853,
     "name": "Games necklace(8)",
     "url": "https://oldschool.runescape.wiki/w/Games_necklace",
-    "version": "(8)"
+    "version": "8"
   },
   {
     "examineText": "An enchanted necklace.",
@@ -22027,7 +22027,7 @@
     "itemID": 3855,
     "name": "Games necklace(7)",
     "url": "https://oldschool.runescape.wiki/w/Games_necklace",
-    "version": "(7)"
+    "version": "7"
   },
   {
     "examineText": "An enchanted necklace.",
@@ -22037,7 +22037,7 @@
     "itemID": 3857,
     "name": "Games necklace(6)",
     "url": "https://oldschool.runescape.wiki/w/Games_necklace",
-    "version": "(6)"
+    "version": "6"
   },
   {
     "examineText": "An enchanted necklace.",
@@ -22047,7 +22047,7 @@
     "itemID": 3859,
     "name": "Games necklace(5)",
     "url": "https://oldschool.runescape.wiki/w/Games_necklace",
-    "version": "(5)"
+    "version": "5"
   },
   {
     "examineText": "An enchanted necklace.",
@@ -22057,7 +22057,7 @@
     "itemID": 3861,
     "name": "Games necklace(4)",
     "url": "https://oldschool.runescape.wiki/w/Games_necklace",
-    "version": "(4)"
+    "version": "4"
   },
   {
     "examineText": "An enchanted necklace.",
@@ -22067,7 +22067,7 @@
     "itemID": 3863,
     "name": "Games necklace(3)",
     "url": "https://oldschool.runescape.wiki/w/Games_necklace",
-    "version": "(3)"
+    "version": "3"
   },
   {
     "examineText": "An enchanted necklace.",
@@ -22077,7 +22077,7 @@
     "itemID": 3865,
     "name": "Games necklace(2)",
     "url": "https://oldschool.runescape.wiki/w/Games_necklace",
-    "version": "(2)"
+    "version": "2"
   },
   {
     "examineText": "An enchanted necklace.",
@@ -22087,7 +22087,7 @@
     "itemID": 3867,
     "name": "Games necklace(1)",
     "url": "https://oldschool.runescape.wiki/w/Games_necklace",
-    "version": "(1)"
+    "version": "1"
   },
   {
     "examineText": "A comfy stool.",
@@ -46071,12 +46071,12 @@
   },
   {
     "examineText": "Useless without the head.",
-    "group": "Axe handle",
+    "group": "Axe handle (historical)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 7952,
     "name": "Axe handle",
-    "url": "https://oldschool.runescape.wiki/w/Axe_handle",
+    "url": "https://oldschool.runescape.wiki/w/Axe_handle_(historical)",
     "version": "Dragon"
   },
   {
@@ -64807,7 +64807,7 @@
     "itemID": 11976,
     "name": "Amulet of glory(5)",
     "url": "https://oldschool.runescape.wiki/w/Amulet_of_glory",
-    "version": "(5)"
+    "version": "5"
   },
   {
     "examineText": "A dragonstone amulet with 6 magic charges.",
@@ -64817,7 +64817,7 @@
     "itemID": 11978,
     "name": "Amulet of glory(6)",
     "url": "https://oldschool.runescape.wiki/w/Amulet_of_glory",
-    "version": "(6)"
+    "version": "6"
   },
   {
     "examineText": "An enchanted ring with five teleport charges.",
@@ -71728,16 +71728,6 @@
     "name": "Rock golem",
     "url": "https://oldschool.runescape.wiki/w/Rock_golem",
     "version": "Rock"
-  },
-  {
-    "examineText": "Looks like it's gotten through a lot of wood.",
-    "group": "Beaver",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13322,
-    "name": "Beaver",
-    "url": "https://oldschool.runescape.wiki/w/Beaver",
-    "version": ""
   },
   {
     "examineText": "Fluffy and cute, keep away from fire!",
@@ -83287,7 +83277,7 @@
     "itemID": 21314,
     "name": "Rainbow scarf",
     "url": "https://oldschool.runescape.wiki/w/Rainbow_scarf",
-    "version": ""
+    "version": "Pride"
   },
   {
     "examineText": "Crossbow bolts with amethyst broad tips.",
@@ -114221,16 +114211,6 @@
   },
   {
     "examineText": "A powerful chainbody.",
-    "group": "Vesta's chainbody (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27831,
-    "name": "Vesta's chainbody",
-    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_chainbody_(beta)",
-    "version": ""
-  },
-  {
-    "examineText": "A powerful chainbody.",
     "group": "Vesta's chainbody (bh)",
     "isMembers": true,
     "isTradeable": false,
@@ -114238,16 +114218,6 @@
     "name": "Vesta's chainbody (bh)",
     "url": "https://oldschool.runescape.wiki/w/Vesta%27s_chainbody_(bh)",
     "version": "Activated"
-  },
-  {
-    "examineText": "A powerful plateskirt.",
-    "group": "Vesta's plateskirt (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27832,
-    "name": "Vesta's plateskirt",
-    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_plateskirt_(beta)",
-    "version": ""
   },
   {
     "examineText": "A powerful plateskirt.",
@@ -114261,16 +114231,6 @@
   },
   {
     "examineText": "A powerful helmet.",
-    "group": "Statius's full helm (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27833,
-    "name": "Statius's full helm",
-    "url": "https://oldschool.runescape.wiki/w/Statius%27s_full_helm_(beta)",
-    "version": ""
-  },
-  {
-    "examineText": "A powerful helmet.",
     "group": "Statius's full helm (bh)",
     "isMembers": true,
     "isTradeable": false,
@@ -114278,16 +114238,6 @@
     "name": "Statius's full helm (bh)",
     "url": "https://oldschool.runescape.wiki/w/Statius%27s_full_helm_(bh)",
     "version": "Activated"
-  },
-  {
-    "examineText": "A powerful platebody.",
-    "group": "Statius's platebody (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27834,
-    "name": "Statius's platebody",
-    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platebody_(beta)",
-    "version": ""
   },
   {
     "examineText": "A powerful platebody.",
@@ -114301,16 +114251,6 @@
   },
   {
     "examineText": "A powerful pair of platelegs.",
-    "group": "Statius's platelegs (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27835,
-    "name": "Statius's platelegs",
-    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platelegs_(beta)",
-    "version": ""
-  },
-  {
-    "examineText": "A powerful pair of platelegs.",
     "group": "Statius's platelegs (bh)",
     "isMembers": true,
     "isTradeable": false,
@@ -114318,16 +114258,6 @@
     "name": "Statius's platelegs (bh)",
     "url": "https://oldschool.runescape.wiki/w/Statius%27s_platelegs_(bh)",
     "version": "Activated"
-  },
-  {
-    "examineText": "A powerful coif.",
-    "group": "Morrigan's coif (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27836,
-    "name": "Morrigan's coif",
-    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_coif_(beta)",
-    "version": ""
   },
   {
     "examineText": "A powerful coif.",
@@ -114341,16 +114271,6 @@
   },
   {
     "examineText": "A powerful leather body.",
-    "group": "Morrigan's leather body (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27837,
-    "name": "Morrigan's leather body",
-    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_body_(beta)",
-    "version": ""
-  },
-  {
-    "examineText": "A powerful leather body.",
     "group": "Morrigan's leather body (bh)",
     "isMembers": true,
     "isTradeable": false,
@@ -114358,16 +114278,6 @@
     "name": "Morrigan's leather body (bh)",
     "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_body_(bh)",
     "version": "Activated"
-  },
-  {
-    "examineText": "A powerful pair of leather chaps.",
-    "group": "Morrigan's leather chaps (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27838,
-    "name": "Morrigan's leather chaps",
-    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_chaps_(beta)",
-    "version": ""
   },
   {
     "examineText": "A powerful pair of leather chaps.",
@@ -114381,16 +114291,6 @@
   },
   {
     "examineText": "A powerful hood.",
-    "group": "Zuriel's hood (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27839,
-    "name": "Zuriel's hood",
-    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_hood_(beta)",
-    "version": ""
-  },
-  {
-    "examineText": "A powerful hood.",
     "group": "Zuriel's hood (bh)",
     "isMembers": true,
     "isTradeable": false,
@@ -114401,16 +114301,6 @@
   },
   {
     "examineText": "A powerful robe top.",
-    "group": "Zuriel's robe top (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27840,
-    "name": "Zuriel's robe top",
-    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_top_(beta)",
-    "version": ""
-  },
-  {
-    "examineText": "A powerful robe top.",
     "group": "Zuriel's robe top (bh)",
     "isMembers": true,
     "isTradeable": false,
@@ -114418,16 +114308,6 @@
     "name": "Zuriel's robe top (bh)",
     "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_top_(bh)",
     "version": "Activated"
-  },
-  {
-    "examineText": "A powerful robe bottom.",
-    "group": "Zuriel's robe bottom (beta)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27841,
-    "name": "Zuriel's robe bottom",
-    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_bottom_(beta)",
-    "version": ""
   },
   {
     "examineText": "A powerful robe bottom.",
@@ -114450,16 +114330,6 @@
     "version": "Activated"
   },
   {
-    "examineText": "A powerful chainbody.",
-    "group": "Vesta's chainbody (c)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27842,
-    "name": "Vesta's chainbody (c)",
-    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_chainbody_(c)",
-    "version": ""
-  },
-  {
     "examineText": "A powerful plateskirt.",
     "group": "Corrupted vesta's plateskirt (bh)",
     "isMembers": true,
@@ -114468,16 +114338,6 @@
     "name": "Corrupted vesta's plateskirt (bh)",
     "url": "https://oldschool.runescape.wiki/w/Corrupted_vesta%27s_plateskirt_(bh)",
     "version": "Activated"
-  },
-  {
-    "examineText": "A powerful plateskirt.",
-    "group": "Vesta's plateskirt (c)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27843,
-    "name": "Vesta's plateskirt (c)",
-    "url": "https://oldschool.runescape.wiki/w/Vesta%27s_plateskirt_(c)",
-    "version": ""
   },
   {
     "examineText": "A powerful helmet.",
@@ -114490,16 +114350,6 @@
     "version": "Activated"
   },
   {
-    "examineText": "A powerful helmet.",
-    "group": "Statius's full helm (c)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27844,
-    "name": "Statius's full helm (c)",
-    "url": "https://oldschool.runescape.wiki/w/Statius%27s_full_helm_(c)",
-    "version": ""
-  },
-  {
     "examineText": "A powerful platebody.",
     "group": "Corrupted statius's platebody (bh)",
     "isMembers": true,
@@ -114508,16 +114358,6 @@
     "name": "Corrupted statius's platebody (bh)",
     "url": "https://oldschool.runescape.wiki/w/Corrupted_statius%27s_platebody_(bh)",
     "version": "Activated"
-  },
-  {
-    "examineText": "A powerful platebody.",
-    "group": "Statius's platebody (c)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27845,
-    "name": "Statius's platebody (c)",
-    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platebody_(c)",
-    "version": ""
   },
   {
     "examineText": "A powerful pair of platelegs.",
@@ -114530,16 +114370,6 @@
     "version": "Activated"
   },
   {
-    "examineText": "A powerful pair of platelegs.",
-    "group": "Statius's platelegs (c)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27846,
-    "name": "Statius's platelegs (c)",
-    "url": "https://oldschool.runescape.wiki/w/Statius%27s_platelegs_(c)",
-    "version": ""
-  },
-  {
     "examineText": "A powerful coif.",
     "group": "Corrupted morrigan's coif (bh)",
     "isMembers": true,
@@ -114548,16 +114378,6 @@
     "name": "Corrupted morrigan's coif (bh)",
     "url": "https://oldschool.runescape.wiki/w/Corrupted_morrigan%27s_coif_(bh)",
     "version": "Activated"
-  },
-  {
-    "examineText": "A powerful coif.",
-    "group": "Morrigan's coif (c)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27847,
-    "name": "Morrigan's coif (c)",
-    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_coif_(c)",
-    "version": ""
   },
   {
     "examineText": "A powerful leather body.",
@@ -114570,16 +114390,6 @@
     "version": "Activated"
   },
   {
-    "examineText": "A powerful leather body.",
-    "group": "Morrigan's leather body (c)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27848,
-    "name": "Morrigan's leather body (c)",
-    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_body_(c)",
-    "version": ""
-  },
-  {
     "examineText": "A powerful pair of leather chaps.",
     "group": "Corrupted morrigan's leather chaps (bh)",
     "isMembers": true,
@@ -114588,16 +114398,6 @@
     "name": "Corrupted morrigan's leather chaps (bh)",
     "url": "https://oldschool.runescape.wiki/w/Corrupted_morrigan%27s_leather_chaps_(bh)",
     "version": "Activated"
-  },
-  {
-    "examineText": "A powerful pair of leather chaps.",
-    "group": "Morrigan's leather chaps (c)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27849,
-    "name": "Morrigan's leather chaps (c)",
-    "url": "https://oldschool.runescape.wiki/w/Morrigan%27s_leather_chaps_(c)",
-    "version": ""
   },
   {
     "examineText": "A powerful hood.",
@@ -114610,16 +114410,6 @@
     "version": "Activated"
   },
   {
-    "examineText": "A powerful hood.",
-    "group": "Zuriel's hood (c)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27850,
-    "name": "Zuriel's hood (c)",
-    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_hood_(c)",
-    "version": ""
-  },
-  {
     "examineText": "A powerful robe top.",
     "group": "Corrupted zuriel's robe top (bh)",
     "isMembers": true,
@@ -114630,16 +114420,6 @@
     "version": "Activated"
   },
   {
-    "examineText": "A powerful robe top.",
-    "group": "Zuriel's robe top (c)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27851,
-    "name": "Zuriel's robe top (c)",
-    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_top_(c)",
-    "version": ""
-  },
-  {
     "examineText": "A powerful robe bottom.",
     "group": "Corrupted zuriel's robe bottom (bh)",
     "isMembers": true,
@@ -114648,16 +114428,6 @@
     "name": "Corrupted zuriel's robe bottom (bh)",
     "url": "https://oldschool.runescape.wiki/w/Corrupted_zuriel%27s_robe_bottom_(bh)",
     "version": "Activated"
-  },
-  {
-    "examineText": "A powerful robe bottom.",
-    "group": "Zuriel's robe bottom (c)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 27852,
-    "name": "Zuriel's robe bottom (c)",
-    "url": "https://oldschool.runescape.wiki/w/Zuriel%27s_robe_bottom_(c)",
-    "version": ""
   },
   {
     "examineText": "A bow from an even darker dimension.",
@@ -115657,6 +115427,366 @@
     "itemID": 28080,
     "name": "Abyssal dagger imbue scroll",
     "url": "https://oldschool.runescape.wiki/w/Abyssal_dagger_imbue_scroll",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Bounty crate (tier 1)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28082,
+    "name": "Bounty crate (tier 1)",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_crate_(tier_1)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Bounty crate (tier 2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28084,
+    "name": "Bounty crate (tier 2)",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_crate_(tier_2)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Bounty crate (tier 3)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28086,
+    "name": "Bounty crate (tier 3)",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_crate_(tier_3)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Bounty crate (tier 4)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28088,
+    "name": "Bounty crate (tier 4)",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_crate_(tier_4)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Bounty crate (tier 5)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28090,
+    "name": "Bounty crate (tier 5)",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_crate_(tier_5)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Bounty crate (tier 6)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28092,
+    "name": "Bounty crate (tier 6)",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_crate_(tier_6)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Bounty crate (tier 7)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28094,
+    "name": "Bounty crate (tier 7)",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_crate_(tier_7)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Bounty crate (tier 8)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28096,
+    "name": "Bounty crate (tier 8)",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_crate_(tier_8)",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Bounty crate (tier 9)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28098,
+    "name": "Bounty crate (tier 9)",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_crate_(tier_9)",
+    "version": ""
+  },
+  {
+    "examineText": "It's a scroll of hastily written poetry.",
+    "group": "Quinton's poetry scroll",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28100,
+    "name": "Quinton's poetry scroll",
+    "url": "https://oldschool.runescape.wiki/w/Quinton%27s_poetry_scroll",
+    "version": "Initial"
+  },
+  {
+    "examineText": "It's a scroll of hastily written poetry.",
+    "group": "Gregory's poetry scroll",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28101,
+    "name": "Gregory's poetry scroll",
+    "url": "https://oldschool.runescape.wiki/w/Gregory%27s_poetry_scroll",
+    "version": "Initial"
+  },
+  {
+    "examineText": "It's a scroll of hastily written poetry.",
+    "group": "Bethan's poetry scroll",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28102,
+    "name": "Bethan's poetry scroll",
+    "url": "https://oldschool.runescape.wiki/w/Bethan%27s_poetry_scroll",
+    "version": "Initial"
+  },
+  {
+    "examineText": "It's a scroll of hastily written poetry.",
+    "group": "Tabbitha's poetry scroll",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28103,
+    "name": "Tabbitha's poetry scroll",
+    "url": "https://oldschool.runescape.wiki/w/Tabbitha%27s_poetry_scroll",
+    "version": "Initial"
+  },
+  {
+    "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
+    "group": "Tabbitha's poetry scroll",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28104,
+    "name": "Tabbitha's poetry scroll (h)",
+    "url": "https://oldschool.runescape.wiki/w/Tabbitha%27s_poetry_scroll",
+    "version": "With riddle"
+  },
+  {
+    "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
+    "group": "Gregory's poetry scroll",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28105,
+    "name": "Gregory's poetry scroll (h)",
+    "url": "https://oldschool.runescape.wiki/w/Gregory%27s_poetry_scroll",
+    "version": "With riddle"
+  },
+  {
+    "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
+    "group": "Bethan's poetry scroll",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28106,
+    "name": "Bethan's poetry scroll (h)",
+    "url": "https://oldschool.runescape.wiki/w/Bethan%27s_poetry_scroll",
+    "version": "With riddle"
+  },
+  {
+    "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
+    "group": "Quinton's poetry scroll",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28107,
+    "name": "Quinton's poetry scroll (h)",
+    "url": "https://oldschool.runescape.wiki/w/Quinton%27s_poetry_scroll",
+    "version": "With riddle"
+  },
+  {
+    "examineText": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
+    "group": "Rainbow scarf",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28108,
+    "name": "Colourful scarf",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_scarf",
+    "version": "Bisexual"
+  },
+  {
+    "examineText": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
+    "group": "Rainbow scarf",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28109,
+    "name": "Colourful scarf",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_scarf",
+    "version": "Asexual"
+  },
+  {
+    "examineText": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
+    "group": "Rainbow scarf",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28110,
+    "name": "Colourful scarf",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_scarf",
+    "version": "Transgender"
+  },
+  {
+    "examineText": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
+    "group": "Rainbow scarf",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28111,
+    "name": "Colourful scarf",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_scarf",
+    "version": "Pansexual"
+  },
+  {
+    "examineText": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
+    "group": "Rainbow scarf",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28112,
+    "name": "Colourful scarf",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_scarf",
+    "version": "Non-binary"
+  },
+  {
+    "examineText": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
+    "group": "Rainbow scarf",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28113,
+    "name": "Colourful scarf",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_scarf",
+    "version": "Genderqueer"
+  },
+  {
+    "examineText": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
+    "group": "Rainbow scarf",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28114,
+    "name": "Colourful scarf",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_scarf",
+    "version": "Lesbian"
+  },
+  {
+    "examineText": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
+    "group": "Rainbow scarf",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28115,
+    "name": "Colourful scarf",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_scarf",
+    "version": "Gay"
+  },
+  {
+    "examineText": "Colourful, warm and fashionable!",
+    "group": "Rainbow jumper",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28116,
+    "name": "Rainbow jumper",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_jumper",
+    "version": "Pride"
+  },
+  {
+    "examineText": "Colourful, warm and fashionable!",
+    "group": "Rainbow jumper",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28118,
+    "name": "Colourful jumper",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_jumper",
+    "version": "Bisexual"
+  },
+  {
+    "examineText": "Colourful, warm and fashionable!",
+    "group": "Rainbow jumper",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28119,
+    "name": "Colourful jumper",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_jumper",
+    "version": "Asexual"
+  },
+  {
+    "examineText": "Colourful, warm and fashionable!",
+    "group": "Rainbow jumper",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28120,
+    "name": "Colourful jumper",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_jumper",
+    "version": "Transgender"
+  },
+  {
+    "examineText": "Colourful, warm and fashionable!",
+    "group": "Rainbow jumper",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28121,
+    "name": "Colourful jumper",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_jumper",
+    "version": "Pansexual"
+  },
+  {
+    "examineText": "Colourful, warm and fashionable!",
+    "group": "Rainbow jumper",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28122,
+    "name": "Colourful jumper",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_jumper",
+    "version": "Non-binary"
+  },
+  {
+    "examineText": "Colourful, warm and fashionable!",
+    "group": "Rainbow jumper",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28123,
+    "name": "Colourful jumper",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_jumper",
+    "version": "Genderqueer"
+  },
+  {
+    "examineText": "Colourful, warm and fashionable!",
+    "group": "Rainbow jumper",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28124,
+    "name": "Colourful jumper",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_jumper",
+    "version": "Lesbian"
+  },
+  {
+    "examineText": "Colourful, warm and fashionable!",
+    "group": "Rainbow jumper",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28125,
+    "name": "Colourful jumper",
+    "url": "https://oldschool.runescape.wiki/w/Rainbow_jumper",
+    "version": "Gay"
+  },
+  {
+    "examineText": "I wish to find inspiration! Will this jacket help?",
+    "group": "Poet's jacket",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28126,
+    "name": "Poet's jacket",
+    "url": "https://oldschool.runescape.wiki/w/Poet%27s_jacket",
+    "version": ""
+  },
+  {
+    "examineText": "You gotta really put your heart into firing this thing.",
+    "group": "Love crossbow",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28128,
+    "name": "Love crossbow",
+    "url": "https://oldschool.runescape.wiki/w/Love_crossbow",
     "version": ""
   }
 ]
