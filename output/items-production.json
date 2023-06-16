@@ -8215,28 +8215,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "Eodan",
-    "materials": [
-      {
-        "name": "Black dragonhide",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "200"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Black dragon leather.png|link=Black dragon leather]]",
-      "name": "Black dragon leather",
-      "quantity": "1",
-      "subtxt": "Eodan"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
     "materials": [
       {
         "name": "Black dragonhide",
@@ -8513,7 +8491,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">98,751,156</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">94,294,164</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -12035,7 +12013,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">99,336,055</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">98,112,349</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -33526,29 +33504,6 @@
         "quantity": "1"
       },
       {
-        "name": "Raw bass",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Enchanted lyre.png|link=Enchanted lyre]]",
-      "name": "Enchanted lyre",
-      "quantity": "1",
-      "subtxt": "2 charges"
-    },
-    "skills": [],
-    "ticks": "1",
-    "tools": "Ring of charos (a)"
-  },
-  {
-    "facilities": "Fossegrimen",
-    "materials": [
-      {
-        "name": "Lyre",
-        "quantity": "1"
-      },
-      {
         "name": "Raw shark",
         "quantity": "1"
       }
@@ -33606,6 +33561,29 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "facilities": "Fossegrimen",
+    "materials": [
+      {
+        "name": "Lyre",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw bass",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Enchanted lyre.png|link=Enchanted lyre]]",
+      "name": "Enchanted lyre",
+      "quantity": "1",
+      "subtxt": "2 charges"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Ring of charos(a)"
   },
   {
     "facilities": "Fossegrimen",
@@ -44880,7 +44858,25 @@
       "image": "[[File:Lava scale shard.png|link=Lava scale shard]]",
       "name": "Lava scale shard",
       "quantity": "4.5",
-      "quantitynote": "Without the hard Wilderness diary, players receive between 3-6 lava scale shards.<br/>With the hard Wilderness diary, players receive between 6-9 lava scale shards"
+      "quantitynote": "Yields between 3-6 lava scale shards"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Lava scale",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lava scale shard.png|link=Lava scale shard]]",
+      "name": "Lava scale shard",
+      "quantity": "7.5",
+      "quantitynote": "Yields between 6-9 lava scale shards"
     },
     "skills": [],
     "ticks": "0",
@@ -44897,7 +44893,8 @@
     "output": {
       "image": "[[File:Lava scale shard.png|link=Lava scale shard]]",
       "name": "Lava scale shard",
-      "quantity": "3"
+      "quantity": "3",
+      "quantitynote": "Yields between 1-5 lava scale shards"
     },
     "skills": [],
     "ticks": "",
@@ -59563,28 +59560,6 @@
       "name": "Red dragon leather",
       "quantity": "1",
       "subtxt": "Sbott"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Eodan",
-    "materials": [
-      {
-        "name": "Red dragonhide",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "200"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Red dragon leather.png|link=Red dragon leather]]",
-      "name": "Red dragon leather",
-      "quantity": "1",
-      "subtxt": "Eodan"
     },
     "skills": [],
     "ticks": "1"

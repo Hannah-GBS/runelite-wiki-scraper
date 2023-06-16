@@ -37025,7 +37025,7 @@
     "isMembers": true,
     "isTradeable": false,
     "itemID": 6465,
-    "name": "Ring of charos (a)",
+    "name": "Ring of charos(a)",
     "url": "https://oldschool.runescape.wiki/w/Ring_of_charos",
     "version": "Activated"
   },
@@ -57947,146 +57947,6 @@
     "itemID": 10600,
     "name": "Kgp id card",
     "url": "https://oldschool.runescape.wiki/w/Kgp_id_card",
-    "version": ""
-  },
-  {
-    "examineText": "A large piece of Sarachnis' shell.",
-    "group": "Sarachnis chitin",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10639,
-    "name": "Sarachnis chitin",
-    "url": "https://oldschool.runescape.wiki/w/Sarachnis_chitin",
-    "version": ""
-  },
-  {
-    "examineText": "Essence left behind from a vanquished vampire.",
-    "group": "Vampyric essence",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10641,
-    "name": "Vampyric essence",
-    "url": "https://oldschool.runescape.wiki/w/Vampyric_essence",
-    "version": ""
-  },
-  {
-    "examineText": "A strange sigil obtained from a powerful creature found in the wilderness.",
-    "group": "Forinthry sigil",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10644,
-    "name": "Forinthry sigil",
-    "url": "https://oldschool.runescape.wiki/w/Forinthry_sigil",
-    "version": ""
-  },
-  {
-    "examineText": "A large sharp piece of the phantom muspah, solid to the touch yet ethereal in nature.",
-    "group": "Muspah spike",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10646,
-    "name": "Muspah spike",
-    "url": "https://oldschool.runescape.wiki/w/Muspah_spike",
-    "version": ""
-  },
-  {
-    "examineText": "An emblem to Zaros found on one of their followers.",
-    "group": "Zarosian emblem",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10647,
-    "name": "Zarosian emblem",
-    "url": "https://oldschool.runescape.wiki/w/Zarosian_emblem",
-    "version": ""
-  },
-  {
-    "examineText": "A large piece of crystal.",
-    "group": "Crystal chunk",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10648,
-    "name": "Crystal chunk",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_chunk",
-    "version": ""
-  },
-  {
-    "examineText": "A coin looted from the tomb of Osmumten.",
-    "group": "Osmumten's coin",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10649,
-    "name": "Osmumten's coin",
-    "url": "https://oldschool.runescape.wiki/w/Osmumten%27s_coin",
-    "version": ""
-  },
-  {
-    "examineText": "A brick found within the Hallowed Sepulchre.",
-    "group": "Hallowed bricks",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10651,
-    "name": "Hallowed bricks",
-    "url": "https://oldschool.runescape.wiki/w/Hallowed_bricks",
-    "version": ""
-  },
-  {
-    "examineText": "A piece of essence infused with abyssal energy, unable to be used for Runecraft.",
-    "group": "Abyssal-tainted essence",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10652,
-    "name": "Abyssal-tainted essence",
-    "url": "https://oldschool.runescape.wiki/w/Abyssal-tainted_essence",
-    "version": ""
-  },
-  {
-    "examineText": "A large piece of a casket.",
-    "group": "Casket piece",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10654,
-    "name": "Casket piece",
-    "url": "https://oldschool.runescape.wiki/w/Casket_piece",
-    "version": ""
-  },
-  {
-    "examineText": "A large piece of Barronite unable to be broken down further.",
-    "group": "Chunk of barronite",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10657,
-    "name": "Chunk of barronite",
-    "url": "https://oldschool.runescape.wiki/w/Chunk_of_barronite",
-    "version": ""
-  },
-  {
-    "examineText": "A piece of fabric torn from Death's robe.",
-    "group": "Death's fabric",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10658,
-    "name": "Death's fabric",
-    "url": "https://oldschool.runescape.wiki/w/Death%27s_fabric",
-    "version": ""
-  },
-  {
-    "examineText": "A large shard mined from a shooting star.",
-    "group": "Star shard",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10659,
-    "name": "Star shard",
-    "url": "https://oldschool.runescape.wiki/w/Star_shard",
-    "version": ""
-  },
-  {
-    "examineText": "A container containing shifting water trying to return to Tempoross.",
-    "group": "Tempoross remnant",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10661,
-    "name": "Tempoross remnant",
-    "url": "https://oldschool.runescape.wiki/w/Tempoross_remnant",
     "version": ""
   },
   {
@@ -82495,7 +82355,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 21205,
-    "name": "Elder maul (Last Man Standing)",
+    "name": "Elder maul",
     "url": "https://oldschool.runescape.wiki/w/Elder_maul_(Last_Man_Standing)",
     "version": ""
   },
@@ -102501,42 +102361,42 @@
   },
   {
     "examineText": "An occult ring made of compounded blood.",
-    "group": "Ring of true blood",
+    "group": "Ultor ring",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25485,
-    "name": "Ring of true blood",
-    "url": "https://oldschool.runescape.wiki/w/Ring_of_true_blood",
+    "name": "Ultor ring",
+    "url": "https://oldschool.runescape.wiki/w/Ultor_ring",
     "version": ""
   },
   {
     "examineText": "An occult ring made of fractured ice.",
-    "group": "Ring of true ice",
+    "group": "Magus ring",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25486,
-    "name": "Ring of true ice",
-    "url": "https://oldschool.runescape.wiki/w/Ring_of_true_ice",
+    "name": "Magus ring",
+    "url": "https://oldschool.runescape.wiki/w/Magus_ring",
     "version": ""
   },
   {
     "examineText": "An occult ring made of crystallised smoke.",
-    "group": "Ring of true smoke",
+    "group": "Ventor ring",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25487,
-    "name": "Ring of true smoke",
-    "url": "https://oldschool.runescape.wiki/w/Ring_of_true_smoke",
+    "name": "Ventor ring",
+    "url": "https://oldschool.runescape.wiki/w/Ventor_ring",
     "version": ""
   },
   {
     "examineText": "An occult ring made of bound shadow.",
-    "group": "Ring of true shadow",
+    "group": "Bellator ring",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25488,
-    "name": "Ring of true shadow",
-    "url": "https://oldschool.runescape.wiki/w/Ring_of_true_shadow",
+    "name": "Bellator ring",
+    "url": "https://oldschool.runescape.wiki/w/Bellator_ring",
     "version": ""
   },
   {
@@ -107985,7 +107845,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26607,
-    "name": "Treasure clue one",
+    "name": "Treasure clue two",
     "url": "https://oldschool.runescape.wiki/w/Treasure_clue_two",
     "version": ""
   },
@@ -108785,7 +108645,7 @@
     "isMembers": true,
     "isTradeable": false,
     "itemID": 26730,
-    "name": "Wristbands of the arena (icl)",
+    "name": "Wristbands of the arena (ilc)",
     "url": "https://oldschool.runescape.wiki/w/Wristbands_of_the_arena_(i)",
     "version": "Charged and Locked"
   },
@@ -110537,16 +110397,6 @@
     "itemID": 27031,
     "name": "Smiths gloves (i)",
     "url": "https://oldschool.runescape.wiki/w/Smiths_gloves_(i)",
-    "version": ""
-  },
-  {
-    "examineText": "A DEV TOOL.",
-    "group": "Giants foundry tester",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27033,
-    "name": "Giants foundry tester",
-    "url": "https://oldschool.runescape.wiki/w/Giants_foundry_tester",
     "version": ""
   },
   {
@@ -114570,86 +114420,6 @@
     "version": "Chick"
   },
   {
-    "examineText": "An Easter egg.",
-    "group": "Easter egg (2023 Easter event)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27878,
-    "name": "Easter egg",
-    "url": "https://oldschool.runescape.wiki/w/Easter_egg_(2023_Easter_event)",
-    "version": ""
-  },
-  {
-    "examineText": "A warm Easter egg.",
-    "group": "Warm easter egg",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27880,
-    "name": "Warm easter egg",
-    "url": "https://oldschool.runescape.wiki/w/Warm_easter_egg",
-    "version": ""
-  },
-  {
-    "examineText": "Half an Easter egg.",
-    "group": "Easter egg half",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27882,
-    "name": "Easter egg half",
-    "url": "https://oldschool.runescape.wiki/w/Easter_egg_half",
-    "version": ""
-  },
-  {
-    "examineText": "Used to make Easter eggs.",
-    "group": "Egg mould (2023 Easter event)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27884,
-    "name": "Egg mould",
-    "url": "https://oldschool.runescape.wiki/w/Egg_mould_(2023_Easter_event)",
-    "version": ""
-  },
-  {
-    "examineText": "Used to make Easter eggs, filled with chocolate dust.",
-    "group": "Dusted egg mould",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27886,
-    "name": "Dusted egg mould",
-    "url": "https://oldschool.runescape.wiki/w/Dusted_egg_mould",
-    "version": ""
-  },
-  {
-    "examineText": "Used to make Easter eggs, filled with chocolate.",
-    "group": "Hot egg mould",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27888,
-    "name": "Hot egg mould",
-    "url": "https://oldschool.runescape.wiki/w/Hot_egg_mould",
-    "version": ""
-  },
-  {
-    "examineText": "It's a bucket of freezing milk.",
-    "group": "Bucket of freezing milk",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27890,
-    "name": "Bucket of freezing milk",
-    "url": "https://oldschool.runescape.wiki/w/Bucket_of_freezing_milk",
-    "version": ""
-  },
-  {
-    "examineText": "A pile of special Easter chocolate dust.",
-    "group": "Easter chocolate dust",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 27892,
-    "name": "Easter chocolate dust",
-    "url": "https://oldschool.runescape.wiki/w/Easter_chocolate_dust",
-    "version": ""
-  },
-  {
     "examineText": "A scaled blue dragonhide.",
     "group": "Scaly blue dragonhide",
     "isMembers": true,
@@ -115527,7 +115297,7 @@
     "itemID": 28100,
     "name": "Quinton's poetry scroll",
     "url": "https://oldschool.runescape.wiki/w/Quinton%27s_poetry_scroll",
-    "version": "Initial"
+    "version": "Unfinished"
   },
   {
     "examineText": "It's a scroll of hastily written poetry.",
@@ -115537,7 +115307,7 @@
     "itemID": 28101,
     "name": "Gregory's poetry scroll",
     "url": "https://oldschool.runescape.wiki/w/Gregory%27s_poetry_scroll",
-    "version": "Initial"
+    "version": "Unfinished"
   },
   {
     "examineText": "It's a scroll of hastily written poetry.",
@@ -115547,7 +115317,7 @@
     "itemID": 28102,
     "name": "Bethan's poetry scroll",
     "url": "https://oldschool.runescape.wiki/w/Bethan%27s_poetry_scroll",
-    "version": "Initial"
+    "version": "Unfinished"
   },
   {
     "examineText": "It's a scroll of hastily written poetry.",
@@ -115557,7 +115327,7 @@
     "itemID": 28103,
     "name": "Tabbitha's poetry scroll",
     "url": "https://oldschool.runescape.wiki/w/Tabbitha%27s_poetry_scroll",
-    "version": "Initial"
+    "version": "Unfinished"
   },
   {
     "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
@@ -115567,7 +115337,7 @@
     "itemID": 28104,
     "name": "Tabbitha's poetry scroll (h)",
     "url": "https://oldschool.runescape.wiki/w/Tabbitha%27s_poetry_scroll",
-    "version": "With riddle"
+    "version": "Hints"
   },
   {
     "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
@@ -115577,7 +115347,7 @@
     "itemID": 28105,
     "name": "Gregory's poetry scroll (h)",
     "url": "https://oldschool.runescape.wiki/w/Gregory%27s_poetry_scroll",
-    "version": "With riddle"
+    "version": "Hints"
   },
   {
     "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
@@ -115587,7 +115357,7 @@
     "itemID": 28106,
     "name": "Bethan's poetry scroll (h)",
     "url": "https://oldschool.runescape.wiki/w/Bethan%27s_poetry_scroll",
-    "version": "With riddle"
+    "version": "Hints"
   },
   {
     "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
@@ -115597,7 +115367,7 @@
     "itemID": 28107,
     "name": "Quinton's poetry scroll (h)",
     "url": "https://oldschool.runescape.wiki/w/Quinton%27s_poetry_scroll",
-    "version": "With riddle"
+    "version": "Hints"
   },
   {
     "examineText": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
@@ -115787,6 +115557,36 @@
     "itemID": 28128,
     "name": "Love crossbow",
     "url": "https://oldschool.runescape.wiki/w/Love_crossbow",
+    "version": ""
+  },
+  {
+    "examineText": "A mysterious icon.",
+    "group": "Strange icon",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28130,
+    "name": "Strange icon",
+    "url": "https://oldschool.runescape.wiki/w/Strange_icon",
+    "version": ""
+  },
+  {
+    "examineText": "Good for rubbing.",
+    "group": "Dusty lamp",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28132,
+    "name": "Dusty lamp",
+    "url": "https://oldschool.runescape.wiki/w/Dusty_lamp",
+    "version": ""
+  },
+  {
+    "examineText": "A map of the Barrows Crypt.",
+    "group": "Crypt map",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28133,
+    "name": "Crypt map",
+    "url": "https://oldschool.runescape.wiki/w/Crypt_map",
     "version": ""
   }
 ]
