@@ -34561,52 +34561,52 @@
   },
   {
     "examineText": "A pile of Oak tree leaves.",
-    "group": "Leaves (oak)",
+    "group": "Oak leaves",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 6022,
-    "name": "Leaves",
-    "url": "https://oldschool.runescape.wiki/w/Leaves_(oak)",
+    "name": "Oak leaves",
+    "url": "https://oldschool.runescape.wiki/w/Oak_leaves",
     "version": ""
   },
   {
     "examineText": "A pile of Willow tree leaves.",
-    "group": "Leaves (willow)",
+    "group": "Willow leaves",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 6024,
-    "name": "Leaves",
-    "url": "https://oldschool.runescape.wiki/w/Leaves_(willow)",
+    "name": "Willow leaves",
+    "url": "https://oldschool.runescape.wiki/w/Willow_leaves",
     "version": ""
   },
   {
     "examineText": "A pile of Yew tree leaves.",
-    "group": "Leaves (yew)",
+    "group": "Yew leaves",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 6026,
-    "name": "Leaves",
-    "url": "https://oldschool.runescape.wiki/w/Leaves_(yew)",
+    "name": "Yew leaves",
+    "url": "https://oldschool.runescape.wiki/w/Yew_leaves",
     "version": ""
   },
   {
     "examineText": "A pile of Maple tree leaves.",
-    "group": "Leaves (maple)",
+    "group": "Maple leaves",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 6028,
-    "name": "Leaves",
-    "url": "https://oldschool.runescape.wiki/w/Leaves_(maple)",
+    "name": "Maple leaves",
+    "url": "https://oldschool.runescape.wiki/w/Maple_leaves",
     "version": ""
   },
   {
     "examineText": "A pile of Magic tree leaves.",
-    "group": "Leaves (magic)",
+    "group": "Magic leaves",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 6030,
-    "name": "Leaves",
-    "url": "https://oldschool.runescape.wiki/w/Leaves_(magic)",
+    "name": "Magic leaves",
+    "url": "https://oldschool.runescape.wiki/w/Magic_leaves",
     "version": ""
   },
   {
@@ -71588,6 +71588,16 @@
     "name": "Rock golem",
     "url": "https://oldschool.runescape.wiki/w/Rock_golem",
     "version": "Rock"
+  },
+  {
+    "examineText": "Looks like it's gotten through a lot of wood.",
+    "group": "Beaver",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 13322,
+    "name": "Beaver",
+    "url": "https://oldschool.runescape.wiki/w/Beaver",
+    "version": "Normal"
   },
   {
     "examineText": "Fluffy and cute, keep away from fire!",
@@ -115750,86 +115760,6 @@
     "version": ""
   },
   {
-    "examineText": "It's a scroll of hastily written poetry.",
-    "group": "Quinton's poetry scroll",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28100,
-    "name": "Quinton's poetry scroll",
-    "url": "https://oldschool.runescape.wiki/w/Quinton%27s_poetry_scroll",
-    "version": "Unfinished"
-  },
-  {
-    "examineText": "It's a scroll of hastily written poetry.",
-    "group": "Gregory's poetry scroll",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28101,
-    "name": "Gregory's poetry scroll",
-    "url": "https://oldschool.runescape.wiki/w/Gregory%27s_poetry_scroll",
-    "version": "Unfinished"
-  },
-  {
-    "examineText": "It's a scroll of hastily written poetry.",
-    "group": "Bethan's poetry scroll",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28102,
-    "name": "Bethan's poetry scroll",
-    "url": "https://oldschool.runescape.wiki/w/Bethan%27s_poetry_scroll",
-    "version": "Unfinished"
-  },
-  {
-    "examineText": "It's a scroll of hastily written poetry.",
-    "group": "Tabbitha's poetry scroll",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28103,
-    "name": "Tabbitha's poetry scroll",
-    "url": "https://oldschool.runescape.wiki/w/Tabbitha%27s_poetry_scroll",
-    "version": "Unfinished"
-  },
-  {
-    "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
-    "group": "Tabbitha's poetry scroll",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28104,
-    "name": "Tabbitha's poetry scroll (h)",
-    "url": "https://oldschool.runescape.wiki/w/Tabbitha%27s_poetry_scroll",
-    "version": "Hints"
-  },
-  {
-    "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
-    "group": "Gregory's poetry scroll",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28105,
-    "name": "Gregory's poetry scroll (h)",
-    "url": "https://oldschool.runescape.wiki/w/Gregory%27s_poetry_scroll",
-    "version": "Hints"
-  },
-  {
-    "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
-    "group": "Bethan's poetry scroll",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28106,
-    "name": "Bethan's poetry scroll (h)",
-    "url": "https://oldschool.runescape.wiki/w/Bethan%27s_poetry_scroll",
-    "version": "Hints"
-  },
-  {
-    "examineText": "It's a scroll of hastily written poetry with a riddle on the back.",
-    "group": "Quinton's poetry scroll",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28107,
-    "name": "Quinton's poetry scroll (h)",
-    "url": "https://oldschool.runescape.wiki/w/Quinton%27s_poetry_scroll",
-    "version": "Hints"
-  },
-  {
     "examineText": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
     "group": "Rainbow scarf",
     "isMembers": false,
@@ -116048,5 +115978,465 @@
     "name": "Crypt map",
     "url": "https://oldschool.runescape.wiki/w/Crypt_map",
     "version": ""
+  },
+  {
+    "examineText": "Tree bark infused with magical energy and valued by foresters.",
+    "group": "Anima-infused bark",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28134,
+    "name": "Anima-infused bark",
+    "url": "https://oldschool.runescape.wiki/w/Anima-infused_bark",
+    "version": ""
+  },
+  {
+    "examineText": "Holds assorted forestry gear.",
+    "group": "Forestry kit",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28136,
+    "name": "Forestry kit",
+    "url": "https://oldschool.runescape.wiki/w/Forestry_kit",
+    "version": ""
+  },
+  {
+    "examineText": "A weirdly shaped log. Perhaps a beaver would be interested in this?",
+    "group": "Funky shaped log",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28138,
+    "name": "Funky shaped log",
+    "url": "https://oldschool.runescape.wiki/w/Funky_shaped_log",
+    "version": ""
+  },
+  {
+    "examineText": "A lumber jack's favourite tool, other than an axe, of course.",
+    "group": "Log basket",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28140,
+    "name": "Log basket",
+    "url": "https://oldschool.runescape.wiki/w/Log_basket",
+    "version": "Closed"
+  },
+  {
+    "examineText": "A lumber jack's favourite tool, other than an axe, of course.",
+    "group": "Log basket",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28142,
+    "name": "Open log basket",
+    "url": "https://oldschool.runescape.wiki/w/Log_basket",
+    "version": "Open"
+  },
+  {
+    "examineText": "The most efficient woodcutting utility out there.",
+    "group": "Forestry basket",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28143,
+    "name": "Forestry basket",
+    "url": "https://oldschool.runescape.wiki/w/Forestry_basket",
+    "version": "Closed"
+  },
+  {
+    "examineText": "The most efficient woodcutting utility out there.",
+    "group": "Forestry basket",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28145,
+    "name": "Open forestry basket",
+    "url": "https://oldschool.runescape.wiki/w/Forestry_basket",
+    "version": "Open"
+  },
+  {
+    "examineText": "With some rope, adamantite bars and steel nails, I can create a sturdy harness.",
+    "group": "Log brace",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28146,
+    "name": "Log brace",
+    "url": "https://oldschool.runescape.wiki/w/Log_brace",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Sturdy harness",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28149,
+    "name": "Sturdy harness",
+    "url": "https://oldschool.runescape.wiki/w/Sturdy_harness",
+    "version": ""
+  },
+  {
+    "examineText": "A sacrifice to nature in the hope of an increase of yield in logs.",
+    "group": "Nature offerings",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28152,
+    "name": "Nature offerings",
+    "url": "https://oldschool.runescape.wiki/w/Nature_offerings",
+    "version": ""
+  },
+  {
+    "examineText": "I can use items with this for nature offerings.",
+    "group": "Ritual mulch",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28154,
+    "name": "Ritual mulch",
+    "url": "https://oldschool.runescape.wiki/w/Ritual_mulch",
+    "version": ""
+  },
+  {
+    "examineText": "Mmm this looks tasty.",
+    "group": "Forester's ration",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28157,
+    "name": "Forester's ration",
+    "url": "https://oldschool.runescape.wiki/w/Forester%27s_ration",
+    "version": ""
+  },
+  {
+    "examineText": "An ingredient for the secateurs attachment.",
+    "group": "Secateurs blade",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28161,
+    "name": "Secateurs blade",
+    "url": "https://oldschool.runescape.wiki/w/Secateurs_blade",
+    "version": ""
+  },
+  {
+    "examineText": "Collects leaves when chopping trees.",
+    "group": "Secateurs attachment",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28161,
+    "name": "Secateurs attachment",
+    "url": "https://oldschool.runescape.wiki/w/Secateurs_attachment",
+    "version": ""
+  },
+  {
+    "examineText": "A pouch for your dirty work clothes!",
+    "group": "Clothes pouch",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28163,
+    "name": "Clothes pouch",
+    "url": "https://oldschool.runescape.wiki/w/Clothes_pouch",
+    "version": ""
+  },
+  {
+    "examineText": "A step-by-step guide to crafting your very own clothes pouch!",
+    "group": "Clothes pouch blueprint",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28166,
+    "name": "Clothes pouch blueprint",
+    "url": "https://oldschool.runescape.wiki/w/Clothes_pouch_blueprint",
+    "version": ""
+  },
+  {
+    "examineText": "You'll certainly be alright wearing these.",
+    "group": "Forestry top",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28169,
+    "name": "Forestry top",
+    "url": "https://oldschool.runescape.wiki/w/Forestry_top",
+    "version": ""
+  },
+  {
+    "examineText": "You'll certainly be alright wearing these.",
+    "group": "Forestry legs",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28171,
+    "name": "Forestry legs",
+    "url": "https://oldschool.runescape.wiki/w/Forestry_legs",
+    "version": ""
+  },
+  {
+    "examineText": "You'll certainly be alright wearing these.",
+    "group": "Forestry hat",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28173,
+    "name": "Forestry hat",
+    "url": "https://oldschool.runescape.wiki/w/Forestry_hat",
+    "version": ""
+  },
+  {
+    "examineText": "You'll certainly be alright wearing these.",
+    "group": "Forestry boots",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28175,
+    "name": "Forestry boots",
+    "url": "https://oldschool.runescape.wiki/w/Forestry_boots",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Axe handle",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28177,
+    "name": "Axe handle",
+    "url": "https://oldschool.runescape.wiki/w/Axe_handle",
+    "version": ""
+  },
+  {
+    "examineText": "They're magicly expeditious.",
+    "group": "Leprechaun charm",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28179,
+    "name": "Leprechaun charm",
+    "url": "https://oldschool.runescape.wiki/w/Leprechaun_charm",
+    "version": ""
+  },
+  {
+    "examineText": "I wonder how these can be used to attract a leprechaun?",
+    "group": "Clover insignia",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28181,
+    "name": "Clover insignia",
+    "url": "https://oldschool.runescape.wiki/w/Clover_insignia",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Mulch",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28183,
+    "name": "Mulch",
+    "url": "https://oldschool.runescape.wiki/w/Mulch",
+    "version": ""
+  },
+  {
+    "examineText": "A handy helper for spreading pollen.",
+    "group": "Bee on a stick",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28184,
+    "name": "Bee on a stick",
+    "url": "https://oldschool.runescape.wiki/w/Bee_on_a_stick",
+    "version": ""
+  },
+  {
+    "examineText": "Carefully processed pollen that might make bees friendly.",
+    "group": "Powdered pollen",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28190,
+    "name": "Powdered pollen",
+    "url": "https://oldschool.runescape.wiki/w/Powdered_pollen",
+    "version": ""
+  },
+  {
+    "examineText": "Strange pollen freshly obtained from a flowering bush, useful for cross-pollination.",
+    "group": "Strange pollen",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28192,
+    "name": "Strange pollen",
+    "url": "https://oldschool.runescape.wiki/w/Strange_pollen",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Unfired cup",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28193,
+    "name": "Unfired cup",
+    "url": "https://oldschool.runescape.wiki/w/Unfired_cup",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Bronze 2h axe",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 28196,
+    "name": "Bronze 2h axe",
+    "url": "https://oldschool.runescape.wiki/w/Bronze_2h_axe",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Iron 2h axe",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 28199,
+    "name": "Iron 2h axe",
+    "url": "https://oldschool.runescape.wiki/w/Iron_2h_axe",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Steel 2h axe",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 28202,
+    "name": "Steel 2h axe",
+    "url": "https://oldschool.runescape.wiki/w/Steel_2h_axe",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Black 2h axe",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 28205,
+    "name": "Black 2h axe",
+    "url": "https://oldschool.runescape.wiki/w/Black_2h_axe",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Mithril 2h axe",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 28208,
+    "name": "Mithril 2h axe",
+    "url": "https://oldschool.runescape.wiki/w/Mithril_2h_axe",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Adamant 2h axe",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 28211,
+    "name": "Adamant 2h axe",
+    "url": "https://oldschool.runescape.wiki/w/Adamant_2h_axe",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Rune 2h axe",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 28214,
+    "name": "Rune 2h axe",
+    "url": "https://oldschool.runescape.wiki/w/Rune_2h_axe",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "Dragon 2h axe",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 28217,
+    "name": "Dragon 2h axe",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_2h_axe",
+    "version": ""
+  },
+  {
+    "examineText": "",
+    "group": "3rd age 2h axe",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 28226,
+    "name": "3rd age 2h axe",
+    "url": "https://oldschool.runescape.wiki/w/3rd_age_2h_axe",
+    "version": ""
+  },
+  {
+    "examineText": "Looks like it's gotten through a lot of wood.",
+    "group": "Beaver",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28229,
+    "name": "Beaver",
+    "url": "https://oldschool.runescape.wiki/w/Beaver",
+    "version": "Oak"
+  },
+  {
+    "examineText": "Looks like it's gotten through a lot of wood.",
+    "group": "Beaver",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28230,
+    "name": "Beaver",
+    "url": "https://oldschool.runescape.wiki/w/Beaver",
+    "version": "Willow"
+  },
+  {
+    "examineText": "Looks like it's gotten through a lot of wood.",
+    "group": "Beaver",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28231,
+    "name": "Beaver",
+    "url": "https://oldschool.runescape.wiki/w/Beaver",
+    "version": "Maple"
+  },
+  {
+    "examineText": "Looks like it's gotten through a lot of wood.",
+    "group": "Beaver",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28232,
+    "name": "Beaver",
+    "url": "https://oldschool.runescape.wiki/w/Beaver",
+    "version": "Yew"
+  },
+  {
+    "examineText": "Looks like it's gotten through a lot of wood.",
+    "group": "Beaver",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28233,
+    "name": "Beaver",
+    "url": "https://oldschool.runescape.wiki/w/Beaver",
+    "version": "Magic"
+  },
+  {
+    "examineText": "Looks like it's gotten through a lot of wood.",
+    "group": "Beaver",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28234,
+    "name": "Beaver",
+    "url": "https://oldschool.runescape.wiki/w/Beaver",
+    "version": "Redwood"
+  },
+  {
+    "examineText": "Looks like it's gotten through a lot of wood.",
+    "group": "Beaver",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28235,
+    "name": "Beaver",
+    "url": "https://oldschool.runescape.wiki/w/Beaver",
+    "version": "Teak"
+  },
+  {
+    "examineText": "Looks like it's gotten through a lot of wood.",
+    "group": "Beaver",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28236,
+    "name": "Beaver",
+    "url": "https://oldschool.runescape.wiki/w/Beaver",
+    "version": "Mahogany"
+  },
+  {
+    "examineText": "Looks like it's gotten through a lot of wood.",
+    "group": "Beaver",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28237,
+    "name": "Beaver",
+    "url": "https://oldschool.runescape.wiki/w/Beaver",
+    "version": "Arctic Pine"
   }
 ]
