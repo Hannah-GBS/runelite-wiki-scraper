@@ -7421,13 +7421,13 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "10",
         "level": "50",
         "name": "Hunter"
       },
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "35",
         "name": "Woodcutting"
       }
@@ -8460,7 +8460,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">101,985,983</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">108,049,123</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11982,7 +11982,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">106,081,289</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">107,761,407</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18720,6 +18720,10 @@
   },
   {
     "materials": [
+      {
+        "name": "Clothes pouch blueprint",
+        "quantity": "1"
+      },
       {
         "name": "Thread",
         "quantity": "1"
@@ -35310,6 +35314,234 @@
   {
     "materials": [
       {
+        "name": "Cooked meat",
+        "quantity": "1"
+      },
+      {
+        "name": "Leaves",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forester's ration.png|link=Forester's ration]]",
+      "name": "Forester's ration",
+      "quantity": "3",
+      "subtxt": "Leaves"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "51.1",
+        "level": "35",
+        "name": "Cooking"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "35",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Cooked meat",
+        "quantity": "1"
+      },
+      {
+        "name": "Oak leaves",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forester's ration.png|link=Forester's ration]]",
+      "name": "Forester's ration",
+      "quantity": "3",
+      "subtxt": "Oak leaves"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "51.1",
+        "level": "35",
+        "name": "Cooking"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "35",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Cooked meat",
+        "quantity": "1"
+      },
+      {
+        "name": "Willow leaves",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forester's ration.png|link=Forester's ration]]",
+      "name": "Forester's ration",
+      "quantity": "3",
+      "subtxt": "Willow leaves"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "51.1",
+        "level": "35",
+        "name": "Cooking"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "35",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Cooked meat",
+        "quantity": "1"
+      },
+      {
+        "name": "Maple leaves",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forester's ration.png|link=Forester's ration]]",
+      "name": "Forester's ration",
+      "quantity": "3",
+      "subtxt": "Maple leaves"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "51.1",
+        "level": "35",
+        "name": "Cooking"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "35",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Cooked meat",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew leaves",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forester's ration.png|link=Forester's ration]]",
+      "name": "Forester's ration",
+      "quantity": "3",
+      "subtxt": "Yew leaves"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "51.1",
+        "level": "35",
+        "name": "Cooking"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "35",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Cooked meat",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic leaves",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forester's ration.png|link=Forester's ration]]",
+      "name": "Forester's ration",
+      "quantity": "3",
+      "subtxt": "Magic leaves"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "51.1",
+        "level": "35",
+        "name": "Cooking"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "35",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Forestry kit",
+        "quantity": "1"
+      },
+      {
+        "name": "Log basket",
+        "quantity": "1"
+      },
+      {
+        "name": "Sturdy harness",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forestry basket.png|link=Forestry basket]]",
+      "name": "Forestry basket",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Ancient brew(1)",
         "quantity": "1"
       },
@@ -45324,19 +45556,19 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "56",
         "level": "70",
         "name": "Crafting"
       },
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "70",
         "name": "Woodcutting"
       },
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "35",
         "name": "Farming"
       }
@@ -52665,6 +52897,237 @@
       "quantity": "1"
     },
     "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Ritual mulch",
+        "quantity": "1"
+      },
+      {
+        "name": "Avantoe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Nature offerings.png|link=Nature offerings]]",
+      "name": "Nature offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "50",
+        "name": "Farming"
+      },
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "68",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Ritual mulch",
+        "quantity": "1"
+      },
+      {
+        "name": "Kwuarm",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Nature offerings.png|link=Nature offerings]]",
+      "name": "Nature offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "50",
+        "name": "Farming"
+      },
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "68",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Ritual mulch",
+        "quantity": "1"
+      },
+      {
+        "name": "Snapdragon",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Nature offerings.png|link=Nature offerings]]",
+      "name": "Nature offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "50",
+        "name": "Farming"
+      },
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "68",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Ritual mulch",
+        "quantity": "1"
+      },
+      {
+        "name": "Cadantine",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Nature offerings.png|link=Nature offerings]]",
+      "name": "Nature offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "50",
+        "name": "Farming"
+      },
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "68",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Ritual mulch",
+        "quantity": "1"
+      },
+      {
+        "name": "Lantadyme",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Nature offerings.png|link=Nature offerings]]",
+      "name": "Nature offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "50",
+        "name": "Farming"
+      },
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "68",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Ritual mulch",
+        "quantity": "1"
+      },
+      {
+        "name": "Dwarf weed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Nature offerings.png|link=Nature offerings]]",
+      "name": "Nature offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "50",
+        "name": "Farming"
+      },
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "68",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Ritual mulch",
+        "quantity": "1"
+      },
+      {
+        "name": "Torstol",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Nature offerings.png|link=Nature offerings]]",
+      "name": "Nature offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "50",
+        "name": "Farming"
+      },
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "68",
+        "name": "Woodcutting"
+      }
+    ],
     "ticks": ""
   },
   {
@@ -65407,6 +65870,39 @@
     "ticks": ""
   },
   {
+    "materials": [
+      {
+        "name": "Secateurs blade",
+        "quantity": "1"
+      },
+      {
+        "name": "Iron bar",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Secateurs attachment.png|link=Secateurs attachment]]",
+      "name": "Secateurs attachment",
+      "quantity": "50"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "35",
+        "name": "Woodcutting"
+      },
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "35",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": ""
+  },
+  {
     "facilities": "Dom Onion's Reward Shop",
     "materials": [
       {
@@ -74185,6 +74681,47 @@
   {
     "materials": [
       {
+        "name": "Log brace",
+        "quantity": "1"
+      },
+      {
+        "name": "Steel nails",
+        "quantity": "45"
+      },
+      {
+        "name": "Rope",
+        "quantity": "2"
+      },
+      {
+        "name": "Adamantite bar",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sturdy harness.png|link=Sturdy harness]]",
+      "name": "Sturdy harness",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "75",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "75",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Defence potion(3)",
         "quantity": "1"
       },
@@ -76750,7 +77287,7 @@
         "name": "Fletching"
       }
     ],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Chisel"
   },
   {
