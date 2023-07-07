@@ -45890,7 +45890,7 @@
     "version": ""
   },
   {
-    "examineText": "\"Best before 1st May 2014.\"",
+    "examineText": "Best before 1st May 2014.",
     "group": "Easter egg (2014 Easter event)",
     "isMembers": true,
     "isTradeable": false,
@@ -45900,7 +45900,7 @@
     "version": "Blue"
   },
   {
-    "examineText": "\"Best before 1st May 2014.\"",
+    "examineText": "Best before 1st May 2014.",
     "group": "Easter egg (2014 Easter event)",
     "isMembers": true,
     "isTradeable": false,
@@ -45910,7 +45910,7 @@
     "version": "Special"
   },
   {
-    "examineText": "\"Best before 1st May 2014.\"",
+    "examineText": "Best before 1st May 2014.",
     "group": "Easter egg (2014 Easter event)",
     "isMembers": true,
     "isTradeable": false,
@@ -45920,7 +45920,7 @@
     "version": "Green"
   },
   {
-    "examineText": "\"Best before 1st May 2014.\"",
+    "examineText": "Best before 1st May 2014.",
     "group": "Easter egg (2014 Easter event)",
     "isMembers": true,
     "isTradeable": false,
@@ -45930,7 +45930,7 @@
     "version": "Red"
   },
   {
-    "examineText": "\"Best before 1st May 2014.\"",
+    "examineText": "Best before 1st May 2014.",
     "group": "Easter egg (2014 Easter event)",
     "isMembers": true,
     "isTradeable": false,
@@ -45940,7 +45940,7 @@
     "version": "Pink"
   },
   {
-    "examineText": "\"Best before 1st May 2014.\"",
+    "examineText": "Best before 1st May 2014.",
     "group": "Easter egg (2014 Easter event)",
     "isMembers": true,
     "isTradeable": false,
@@ -115670,7 +115670,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains a small amount of coins and supplies.",
     "group": "Bounty crate (tier 1)",
     "isMembers": true,
     "isTradeable": false,
@@ -115680,7 +115680,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains a small amount of coins and supplies.",
     "group": "Bounty crate (tier 2)",
     "isMembers": true,
     "isTradeable": false,
@@ -115690,7 +115690,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains a small amount of coins and supplies.",
     "group": "Bounty crate (tier 3)",
     "isMembers": true,
     "isTradeable": false,
@@ -115700,7 +115700,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains a moderate amount of coins and supplies.",
     "group": "Bounty crate (tier 4)",
     "isMembers": true,
     "isTradeable": false,
@@ -115710,7 +115710,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains a moderate amount of coins and supplies.",
     "group": "Bounty crate (tier 5)",
     "isMembers": true,
     "isTradeable": false,
@@ -115720,7 +115720,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains a moderate amount of coins and supplies.",
     "group": "Bounty crate (tier 6)",
     "isMembers": true,
     "isTradeable": false,
@@ -115730,7 +115730,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains a lot of coins and supplies.",
     "group": "Bounty crate (tier 7)",
     "isMembers": true,
     "isTradeable": false,
@@ -115740,7 +115740,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains a lot of coins and supplies.",
     "group": "Bounty crate (tier 8)",
     "isMembers": true,
     "isTradeable": false,
@@ -115750,7 +115750,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "Contains a lot of coins and supplies.",
     "group": "Bounty crate (tier 9)",
     "isMembers": true,
     "isTradeable": false,
@@ -115990,7 +115990,7 @@
     "version": ""
   },
   {
-    "examineText": "Holds assorted forestry gear.",
+    "examineText": "Holds assorted Forestry gear.",
     "group": "Forestry kit",
     "isMembers": false,
     "isTradeable": false,
@@ -116010,7 +116010,7 @@
     "version": ""
   },
   {
-    "examineText": "A lumber jack's favourite tool, other than an axe, of course.",
+    "examineText": "A lumberjack's favourite tool, other than an axe, of course.",
     "group": "Log basket",
     "isMembers": true,
     "isTradeable": false,
@@ -116020,7 +116020,7 @@
     "version": "Closed"
   },
   {
-    "examineText": "A lumber jack's favourite tool, other than an axe, of course.",
+    "examineText": "A lumberjack's favourite tool, other than an axe, of course.",
     "group": "Log basket",
     "isMembers": true,
     "isTradeable": false,
@@ -116060,7 +116060,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "I can use this to combine the forestry kit and log basket into one tool.",
     "group": "Sturdy harness",
     "isMembers": true,
     "isTradeable": true,
@@ -116104,7 +116104,7 @@
     "group": "Secateurs blade",
     "isMembers": true,
     "isTradeable": true,
-    "itemID": 28161,
+    "itemID": 28159,
     "name": "Secateurs blade",
     "url": "https://oldschool.runescape.wiki/w/Secateurs_blade",
     "version": ""
@@ -116140,7 +116140,7 @@
     "version": ""
   },
   {
-    "examineText": "You'll certainly be alright wearing these.",
+    "examineText": "You'll certainly be alright wearing this.",
     "group": "Forestry top",
     "isMembers": true,
     "isTradeable": false,
@@ -116160,7 +116160,7 @@
     "version": ""
   },
   {
-    "examineText": "You'll certainly be alright wearing these.",
+    "examineText": "You'll certainly be alright wearing this.",
     "group": "Forestry hat",
     "isMembers": true,
     "isTradeable": false,
@@ -116180,7 +116180,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A bigger axe handle.",
     "group": "Axe handle",
     "isMembers": true,
     "isTradeable": false,
@@ -116210,7 +116210,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A nutritional mulch made of different natural ingredients.",
     "group": "Mulch",
     "isMembers": false,
     "isTradeable": false,
@@ -116250,7 +116250,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "I need to put this in a pottery oven.",
     "group": "Unfired cup",
     "isMembers": true,
     "isTradeable": true,
@@ -116260,7 +116260,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A woodcutter's axe.",
     "group": "Bronze 2h axe",
     "isMembers": false,
     "isTradeable": true,
@@ -116270,7 +116270,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A woodcutter's axe.",
     "group": "Iron 2h axe",
     "isMembers": false,
     "isTradeable": true,
@@ -116280,7 +116280,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A woodcutter's axe.",
     "group": "Steel 2h axe",
     "isMembers": false,
     "isTradeable": true,
@@ -116290,7 +116290,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A woodcutter's axe.",
     "group": "Black 2h axe",
     "isMembers": false,
     "isTradeable": true,
@@ -116300,7 +116300,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A woodcutter's axe.",
     "group": "Mithril 2h axe",
     "isMembers": false,
     "isTradeable": true,
@@ -116310,7 +116310,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A woodcutter's axe.",
     "group": "Adamant 2h axe",
     "isMembers": false,
     "isTradeable": true,
@@ -116320,7 +116320,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A woodcutter's axe.",
     "group": "Rune 2h axe",
     "isMembers": false,
     "isTradeable": true,
@@ -116330,7 +116330,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A woodcutter's axe.",
     "group": "Dragon 2h axe",
     "isMembers": false,
     "isTradeable": true,
@@ -116340,7 +116340,7 @@
     "version": ""
   },
   {
-    "examineText": "",
+    "examineText": "A beautifully crafted axe, shaped by ancient smiths.",
     "group": "3rd age 2h axe",
     "isMembers": false,
     "isTradeable": true,

@@ -3131,7 +3131,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -8460,7 +8460,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">108,049,123</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">111,716,777</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11982,7 +11982,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">107,761,407</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">115,184,192</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18742,19 +18742,18 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "47",
         "level": "50",
         "name": "Crafting"
       },
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "50",
         "name": "Woodcutting"
       }
     ],
-    "ticks": "",
-    "tools": "Needle"
+    "ticks": "3"
   },
   {
     "materials": [
@@ -33022,6 +33021,30 @@
     "tools": "Glassblowing pipe"
   },
   {
+    "facilities": "Pottery Oven",
+    "materials": [
+      {
+        "name": "Unfired cup",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Empty cup.png|link=Empty cup]]",
+      "name": "Empty cup",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "8.5",
+        "level": "3",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "7"
+  },
+  {
     "materials": [
       {
         "name": "Molten glass",
@@ -34398,7 +34421,7 @@
     },
     "skills": [
       {
-        "boostable": "No",
+        "boostable": "Yes",
         "experience": "180",
         "level": "98",
         "name": "Herblore"
@@ -35538,6 +35561,234 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Forestry Shop",
+    "materials": [
+      {
+        "name": "Lumberjack boots",
+        "quantity": "1"
+      },
+      {
+        "name": "Anima-infused bark",
+        "quantity": "1250"
+      },
+      {
+        "name": "Oak logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Willow logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Teak logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Maple logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Mahogany logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Arctic pine logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Yew logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Magic logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Redwood logs",
+        "quantity": "60"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forestry boots.png|link=Forestry boots]]",
+      "name": "Forestry boots",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Forestry Shop",
+    "materials": [
+      {
+        "name": "Lumberjack hat",
+        "quantity": "1"
+      },
+      {
+        "name": "Anima-infused bark",
+        "quantity": "1250"
+      },
+      {
+        "name": "Oak logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Willow logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Teak logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Maple logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Mahogany logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Arctic pine logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Yew logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Magic logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Redwood logs",
+        "quantity": "60"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forestry hat.png|link=Forestry hat]]",
+      "name": "Forestry hat",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Forestry Shop",
+    "materials": [
+      {
+        "name": "Lumberjack legs",
+        "quantity": "1"
+      },
+      {
+        "name": "Anima-infused bark",
+        "quantity": "1250"
+      },
+      {
+        "name": "Oak logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Willow logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Teak logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Maple logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Mahogany logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Arctic pine logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Yew logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Magic logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Redwood logs",
+        "quantity": "60"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forestry legs.png|link=Forestry legs]]",
+      "name": "Forestry legs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Forestry Shop",
+    "materials": [
+      {
+        "name": "Lumberjack top",
+        "quantity": "1"
+      },
+      {
+        "name": "Anima-infused bark",
+        "quantity": "1250"
+      },
+      {
+        "name": "Oak logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Willow logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Teak logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Maple logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Mahogany logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Arctic pine logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Yew logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Magic logs",
+        "quantity": "60"
+      },
+      {
+        "name": "Redwood logs",
+        "quantity": "60"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Forestry top.png|link=Forestry top]]",
+      "name": "Forestry top",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -45355,7 +45606,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "16.2",
+        "experience": "16.3",
         "level": "7",
         "name": "Crafting"
       }
@@ -45556,7 +45807,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "56",
+        "experience": "62.5",
         "level": "70",
         "name": "Crafting"
       },
@@ -52919,13 +53170,13 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "50",
         "name": "Farming"
       },
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "68",
         "name": "Woodcutting"
       }
@@ -52952,13 +53203,13 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "50",
         "name": "Farming"
       },
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "68",
         "name": "Woodcutting"
       }
@@ -52985,13 +53236,13 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "50",
         "name": "Farming"
       },
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "68",
         "name": "Woodcutting"
       }
@@ -53018,13 +53269,13 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "50",
         "name": "Farming"
       },
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "68",
         "name": "Woodcutting"
       }
@@ -53051,13 +53302,13 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "50",
         "name": "Farming"
       },
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "68",
         "name": "Woodcutting"
       }
@@ -53084,13 +53335,13 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "50",
         "name": "Farming"
       },
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "68",
         "name": "Woodcutting"
       }
@@ -53117,13 +53368,13 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "50",
         "name": "Farming"
       },
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "68",
         "name": "Woodcutting"
       }
@@ -65889,18 +66140,24 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
+        "level": "35",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
         "level": "35",
         "name": "Woodcutting"
       },
       {
         "boostable": "",
-        "experience": "?",
-        "level": "35",
-        "name": "Smithing"
+        "experience": "32",
+        "level": "1",
+        "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "3"
   },
   {
     "facilities": "Dom Onion's Reward Shop",
@@ -74705,13 +74962,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "0",
         "level": "75",
         "name": "Smithing"
       },
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "0",
         "level": "75",
         "name": "Woodcutting"
@@ -79425,6 +79682,30 @@
         "boostable": "Yes",
         "experience": "18",
         "level": "8",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "facilities": "Potter's Wheel",
+    "materials": [
+      {
+        "name": "Soft clay",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Unfired cup.png|link=Unfired cup]]",
+      "name": "Unfired cup",
+      "quantity": "4"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "8.5",
+        "level": "3",
         "name": "Crafting"
       }
     ],
