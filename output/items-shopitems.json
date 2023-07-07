@@ -14180,6 +14180,57 @@
         "version": "Inventory"
       }
     ],
+    "location": "Rogues' Den",
+    "name": "Grace",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "800",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Mark of grace",
+        "name": "Amylase pack",
+        "stock": "1000",
+        "version": ""
+      },
+      {
+        "currency": "Mark of grace",
+        "name": "Graceful boots",
+        "stock": "100",
+        "version": "Inventory"
+      },
+      {
+        "currency": "Mark of grace",
+        "name": "Graceful cape",
+        "stock": "100",
+        "version": "Inventory"
+      },
+      {
+        "currency": "Mark of grace",
+        "name": "Graceful gloves",
+        "stock": "100",
+        "version": "Inventory"
+      },
+      {
+        "currency": "Mark of grace",
+        "name": "Graceful hood",
+        "stock": "100",
+        "version": "Inventory"
+      },
+      {
+        "currency": "Mark of grace",
+        "name": "Graceful legs",
+        "stock": "100",
+        "version": "Inventory"
+      },
+      {
+        "currency": "Mark of grace",
+        "name": "Graceful top",
+        "stock": "100",
+        "version": "Inventory"
+      }
+    ],
     "location": "Rogues' Den (Burthorpe)",
     "name": "Grace's Graceful Clothing",
     "sellMultiplier": "1000"
