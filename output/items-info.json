@@ -102363,7 +102363,7 @@
     "examineText": "An axe that manipulates the very lifeforce of those who touch it.",
     "group": "Soulreaper axe",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 25484,
     "name": "Soulreaper axe",
     "url": "https://oldschool.runescape.wiki/w/Soulreaper_axe",
@@ -102373,7 +102373,7 @@
     "examineText": "An occult ring made of compounded blood.",
     "group": "Ultor ring",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 25485,
     "name": "Ultor ring",
     "url": "https://oldschool.runescape.wiki/w/Ultor_ring",
@@ -102391,12 +102391,12 @@
   },
   {
     "examineText": "An occult ring made of crystallised smoke.",
-    "group": "Ventor ring",
+    "group": "Venator ring",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25487,
-    "name": "Ventor ring",
-    "url": "https://oldschool.runescape.wiki/w/Ventor_ring",
+    "name": "Venator ring",
+    "url": "https://oldschool.runescape.wiki/w/Venator_ring",
     "version": ""
   },
   {
