@@ -26657,7 +26657,7 @@
     "itemID": 4646,
     "name": "Spell",
     "url": "https://oldschool.runescape.wiki/w/Spell_(unobtainable_item)",
-    "version": "Carrallangar Teleport"
+    "version": "Carrallanger Teleport"
   },
   {
     "examineText": "It's a Spell.",
@@ -27741,12 +27741,12 @@
   },
   {
     "examineText": "Some strange liquid given to you by Zavistic Rarve.",
-    "group": "Strange potion",
+    "group": "Strange potion (Zogre Flesh Eaters)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 4836,
     "name": "Strange potion",
-    "url": "https://oldschool.runescape.wiki/w/Strange_potion",
+    "url": "https://oldschool.runescape.wiki/w/Strange_potion_(Zogre_Flesh_Eaters)",
     "version": ""
   },
   {
@@ -68000,13 +68000,13 @@
     "version": ""
   },
   {
-    "examineText": "A teleport to Carrallangar, in level 19 Wilderness.",
-    "group": "Carrallangar teleport (tablet)",
+    "examineText": "A teleport to Carrallanger, in level 19 Wilderness.",
+    "group": "Carrallanger teleport (tablet)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 12776,
-    "name": "Carrallangar teleport",
-    "url": "https://oldschool.runescape.wiki/w/Carrallangar_teleport_(tablet)",
+    "name": "Carrallanger teleport",
+    "url": "https://oldschool.runescape.wiki/w/Carrallanger_teleport_(tablet)",
     "version": ""
   },
   {
@@ -102360,96 +102360,6 @@
     "version": ""
   },
   {
-    "examineText": "An axe that manipulates the very lifeforce of those who touch it.",
-    "group": "Soulreaper axe",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 25484,
-    "name": "Soulreaper axe",
-    "url": "https://oldschool.runescape.wiki/w/Soulreaper_axe",
-    "version": ""
-  },
-  {
-    "examineText": "An occult ring made of compounded blood.",
-    "group": "Ultor ring",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 25485,
-    "name": "Ultor ring",
-    "url": "https://oldschool.runescape.wiki/w/Ultor_ring",
-    "version": ""
-  },
-  {
-    "examineText": "An occult ring made of fractured ice.",
-    "group": "Magus ring",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25486,
-    "name": "Magus ring",
-    "url": "https://oldschool.runescape.wiki/w/Magus_ring",
-    "version": ""
-  },
-  {
-    "examineText": "An occult ring made of crystallised smoke.",
-    "group": "Venator ring",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25487,
-    "name": "Venator ring",
-    "url": "https://oldschool.runescape.wiki/w/Venator_ring",
-    "version": ""
-  },
-  {
-    "examineText": "An occult ring made of bound shadow.",
-    "group": "Bellator ring",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25488,
-    "name": "Bellator ring",
-    "url": "https://oldschool.runescape.wiki/w/Bellator_ring",
-    "version": ""
-  },
-  {
-    "examineText": "A very old and powerful stick, enhanced with the power of blood magic.",
-    "group": "Blood ancient sceptre",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25489,
-    "name": "Blood ancient sceptre",
-    "url": "https://oldschool.runescape.wiki/w/Blood_ancient_sceptre",
-    "version": ""
-  },
-  {
-    "examineText": "A very old and powerful stick, enhanced with the power of ice magic.",
-    "group": "Ice ancient sceptre",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25490,
-    "name": "Ice ancient sceptre",
-    "url": "https://oldschool.runescape.wiki/w/Ice_ancient_sceptre",
-    "version": ""
-  },
-  {
-    "examineText": "A very old and powerful stick, enhanced with the power of smoke magic.",
-    "group": "Smoke ancient sceptre",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25491,
-    "name": "Smoke ancient sceptre",
-    "url": "https://oldschool.runescape.wiki/w/Smoke_ancient_sceptre",
-    "version": ""
-  },
-  {
-    "examineText": "A very old and powerful stick, enhanced with the power of shadow magic.",
-    "group": "Shadow ancient sceptre",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25492,
-    "name": "Shadow ancient sceptre",
-    "url": "https://oldschool.runescape.wiki/w/Shadow_ancient_sceptre",
-    "version": ""
-  },
-  {
     "examineText": "Made from 100% real dragonhide.",
     "group": "Black d'hide chaps (beta)",
     "isMembers": true,
@@ -116438,5 +116348,1755 @@
     "name": "Beaver",
     "url": "https://oldschool.runescape.wiki/w/Beaver",
     "version": "Arctic Pine"
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of blood magic.",
+    "group": "Blood ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28238,
+    "name": "Blood ancient sceptre (broken)",
+    "url": "https://oldschool.runescape.wiki/w/Blood_ancient_sceptre",
+    "version": "Broken"
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of smoke magic.",
+    "group": "Smoke ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28240,
+    "name": "Smoke ancient sceptre (broken)",
+    "url": "https://oldschool.runescape.wiki/w/Smoke_ancient_sceptre",
+    "version": "Broken"
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of ice magic.",
+    "group": "Ice ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28242,
+    "name": "Ice ancient sceptre (broken)",
+    "url": "https://oldschool.runescape.wiki/w/Ice_ancient_sceptre",
+    "version": "Broken"
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of shadow magic.",
+    "group": "Shadow ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28244,
+    "name": "Shadow ancient sceptre (broken)",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_ancient_sceptre",
+    "version": "Broken"
+  },
+  {
+    "examineText": "Born in the shadows.",
+    "group": "Wisp",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28246,
+    "name": "Wisp",
+    "url": "https://oldschool.runescape.wiki/w/Wisp",
+    "version": ""
+  },
+  {
+    "examineText": "A tiny headless executioner.",
+    "group": "Butch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28248,
+    "name": "Butch",
+    "url": "https://oldschool.runescape.wiki/w/Butch",
+    "version": ""
+  },
+  {
+    "examineText": "Better keep an eye on this one.",
+    "group": "Baron",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28250,
+    "name": "Baron",
+    "url": "https://oldschool.runescape.wiki/w/Baron",
+    "version": ""
+  },
+  {
+    "examineText": "A small creature deformed by the Abyss.",
+    "group": "Lil'viathan",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28252,
+    "name": "Lil'viathan",
+    "url": "https://oldschool.runescape.wiki/w/Lil%27viathan",
+    "version": ""
+  },
+  {
+    "examineText": "An ancient warrior's full helm.",
+    "group": "Sanguine torva full helm",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28254,
+    "name": "Sanguine torva full helm",
+    "url": "https://oldschool.runescape.wiki/w/Sanguine_torva_full_helm",
+    "version": ""
+  },
+  {
+    "examineText": "An ancient warrior's platebody.",
+    "group": "Sanguine torva platebody",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28256,
+    "name": "Sanguine torva platebody",
+    "url": "https://oldschool.runescape.wiki/w/Sanguine_torva_platebody",
+    "version": ""
+  },
+  {
+    "examineText": "An ancient warrior's platelegs.",
+    "group": "Sanguine torva platelegs",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28258,
+    "name": "Sanguine torva platelegs",
+    "url": "https://oldschool.runescape.wiki/w/Sanguine_torva_platelegs",
+    "version": ""
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of blood magic.",
+    "group": "Blood ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28260,
+    "name": "Blood ancient sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Blood_ancient_sceptre",
+    "version": "Normal"
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of ice magic.",
+    "group": "Ice ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28262,
+    "name": "Ice ancient sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Ice_ancient_sceptre",
+    "version": "Normal"
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of smoke magic.",
+    "group": "Smoke ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28264,
+    "name": "Smoke ancient sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Smoke_ancient_sceptre",
+    "version": "Normal"
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of shadow magic.",
+    "group": "Shadow ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28266,
+    "name": "Shadow ancient sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_ancient_sceptre",
+    "version": "Normal"
+  },
+  {
+    "examineText": "Made of condensed blood energy.",
+    "group": "Blood quartz",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28268,
+    "name": "Blood quartz",
+    "url": "https://oldschool.runescape.wiki/w/Blood_quartz",
+    "version": ""
+  },
+  {
+    "examineText": "Made of condensed ice energy.",
+    "group": "Ice quartz",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28270,
+    "name": "Ice quartz",
+    "url": "https://oldschool.runescape.wiki/w/Ice_quartz",
+    "version": ""
+  },
+  {
+    "examineText": "Made of condensed shadow energy.",
+    "group": "Shadow quartz",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28272,
+    "name": "Shadow quartz",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_quartz",
+    "version": ""
+  },
+  {
+    "examineText": "Made of condensed smoke energy.",
+    "group": "Smoke quartz",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28274,
+    "name": "Smoke quartz",
+    "url": "https://oldschool.runescape.wiki/w/Smoke_quartz",
+    "version": ""
+  },
+  {
+    "examineText": "A dense clump of corroded metal.",
+    "group": "Chromium ingot",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28276,
+    "name": "Chromium ingot",
+    "url": "https://oldschool.runescape.wiki/w/Chromium_ingot",
+    "version": ""
+  },
+  {
+    "examineText": "A fragment of ancient power.",
+    "group": "Bellator vestige",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28279,
+    "name": "Bellator vestige",
+    "url": "https://oldschool.runescape.wiki/w/Bellator_vestige",
+    "version": ""
+  },
+  {
+    "examineText": "A fragment of ancient power.",
+    "group": "Magus vestige",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28281,
+    "name": "Magus vestige",
+    "url": "https://oldschool.runescape.wiki/w/Magus_vestige",
+    "version": ""
+  },
+  {
+    "examineText": "A fragment of ancient power.",
+    "group": "Venator vestige",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28283,
+    "name": "Venator vestige",
+    "url": "https://oldschool.runescape.wiki/w/Venator_vestige",
+    "version": ""
+  },
+  {
+    "examineText": "A fragment of ancient power.",
+    "group": "Ultor vestige",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28285,
+    "name": "Ultor vestige",
+    "url": "https://oldschool.runescape.wiki/w/Ultor_vestige",
+    "version": ""
+  },
+  {
+    "examineText": "Ancient energy that has been fused with the symbol of a berserker.",
+    "group": "Ultor icon",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28287,
+    "name": "Ultor icon",
+    "url": "https://oldschool.runescape.wiki/w/Ultor_icon",
+    "version": ""
+  },
+  {
+    "examineText": "Ancient energy that has been fused with the symbol of an archer.",
+    "group": "Venator icon",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28289,
+    "name": "Venator icon",
+    "url": "https://oldschool.runescape.wiki/w/Venator_icon",
+    "version": ""
+  },
+  {
+    "examineText": "Ancient energy that has been fused with the symbol of a seer.",
+    "group": "Magus icon",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28291,
+    "name": "Magus icon",
+    "url": "https://oldschool.runescape.wiki/w/Magus_icon",
+    "version": ""
+  },
+  {
+    "examineText": "Ancient energy that has been fused with the symbol of a warrior.",
+    "group": "Bellator icon",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28293,
+    "name": "Bellator icon",
+    "url": "https://oldschool.runescape.wiki/w/Bellator_icon",
+    "version": ""
+  },
+  {
+    "examineText": "The icon of a berserker",
+    "group": "Berserker icon",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28295,
+    "name": "Berserker icon",
+    "url": "https://oldschool.runescape.wiki/w/Berserker_icon",
+    "version": ""
+  },
+  {
+    "examineText": "The icon of an archer.",
+    "group": "Archer icon",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28298,
+    "name": "Archer icon",
+    "url": "https://oldschool.runescape.wiki/w/Archer_icon",
+    "version": ""
+  },
+  {
+    "examineText": "The icon of a warrior.",
+    "group": "Warrior icon",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28301,
+    "name": "Warrior icon",
+    "url": "https://oldschool.runescape.wiki/w/Warrior_icon",
+    "version": ""
+  },
+  {
+    "examineText": "The icon of an archer.",
+    "group": "Seers icon",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28304,
+    "name": "Seers icon",
+    "url": "https://oldschool.runescape.wiki/w/Seers_icon",
+    "version": ""
+  },
+  {
+    "examineText": "An occult ring that grants immense physical power.",
+    "group": "Ultor ring",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28307,
+    "name": "Ultor ring",
+    "url": "https://oldschool.runescape.wiki/w/Ultor_ring",
+    "version": ""
+  },
+  {
+    "examineText": "An occult ring that grants immense dexterity.",
+    "group": "Venator ring",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28310,
+    "name": "Venator ring",
+    "url": "https://oldschool.runescape.wiki/w/Venator_ring",
+    "version": ""
+  },
+  {
+    "examineText": "An occult ring that grants immense magical power.",
+    "group": "Magus ring",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28313,
+    "name": "Magus ring",
+    "url": "https://oldschool.runescape.wiki/w/Magus_ring",
+    "version": ""
+  },
+  {
+    "examineText": "An occult ring that grants immense slicing power.",
+    "group": "Bellator ring",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28316,
+    "name": "Bellator ring",
+    "url": "https://oldschool.runescape.wiki/w/Bellator_ring",
+    "version": ""
+  },
+  {
+    "examineText": "The head of an axe that has killed hundreds.",
+    "group": "Executioner's axe head",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28319,
+    "name": "Executioner's axe head",
+    "url": "https://oldschool.runescape.wiki/w/Executioner%27s_axe_head",
+    "version": ""
+  },
+  {
+    "examineText": "It's still moving...",
+    "group": "Eye of the duke",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28321,
+    "name": "Eye of the duke",
+    "url": "https://oldschool.runescape.wiki/w/Eye_of_the_duke",
+    "version": ""
+  },
+  {
+    "examineText": "A staff that writhes with shadows.",
+    "group": "Siren's staff",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28323,
+    "name": "Siren's staff",
+    "url": "https://oldschool.runescape.wiki/w/Siren%27s_staff",
+    "version": ""
+  },
+  {
+    "examineText": "The lure of an ancient beast.",
+    "group": "Leviathan's lure",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28325,
+    "name": "Leviathan's lure",
+    "url": "https://oldschool.runescape.wiki/w/Leviathan%27s_lure",
+    "version": ""
+  },
+  {
+    "examineText": "A powerful ring used to see into other realms...",
+    "group": "Ring of shadows",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28327,
+    "name": "Ring of shadows",
+    "url": "https://oldschool.runescape.wiki/w/Ring_of_shadows",
+    "version": "Charged"
+  },
+  {
+    "examineText": "A powerful ring used to see into other realms...",
+    "group": "Ring of shadows",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28329,
+    "name": "Ring of shadows (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Ring_of_shadows",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "Strange glowing symbols are inscribed upon this tablet.",
+    "group": "Strangled tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28330,
+    "name": "Strangled tablet",
+    "url": "https://oldschool.runescape.wiki/w/Strangled_tablet",
+    "version": ""
+  },
+  {
+    "examineText": "Strange glowing symbols are inscribed upon this tablet.",
+    "group": "Sirenic tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28331,
+    "name": "Sirenic tablet",
+    "url": "https://oldschool.runescape.wiki/w/Sirenic_tablet",
+    "version": ""
+  },
+  {
+    "examineText": "Strange glowing symbols are inscribed upon this tablet.",
+    "group": "Scarred tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28332,
+    "name": "Scarred tablet",
+    "url": "https://oldschool.runescape.wiki/w/Scarred_tablet",
+    "version": ""
+  },
+  {
+    "examineText": "Strange glowing symbols are inscribed upon this tablet.",
+    "group": "Frozen tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28333,
+    "name": "Frozen tablet",
+    "url": "https://oldschool.runescape.wiki/w/Frozen_tablet",
+    "version": ""
+  },
+  {
+    "examineText": "A mysterious orb of unknown power. What could it do?",
+    "group": "Awakener's orb",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28334,
+    "name": "Awakener's orb",
+    "url": "https://oldschool.runescape.wiki/w/Awakener%27s_orb",
+    "version": ""
+  },
+  {
+    "examineText": "Facilitates the imbuing of blood runes into ancient armour.",
+    "group": "Ancient blood ornament kit",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28336,
+    "name": "Ancient blood ornament kit",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_blood_ornament_kit",
+    "version": ""
+  },
+  {
+    "examineText": "An axe that manipulates the very lifeforce of those who touch it.",
+    "group": "Soulreaper axe",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28338,
+    "name": "Soulreaper axe",
+    "url": "https://oldschool.runescape.wiki/w/Soulreaper_axe",
+    "version": ""
+  },
+  {
+    "examineText": "A cold mushroom.",
+    "group": "Musca mushroom",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28341,
+    "name": "Musca mushroom",
+    "url": "https://oldschool.runescape.wiki/w/Musca_mushroom",
+    "version": ""
+  },
+  {
+    "examineText": "Mushroom in powder form.",
+    "group": "Musca powder",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28342,
+    "name": "Musca powder",
+    "url": "https://oldschool.runescape.wiki/w/Musca_powder",
+    "version": ""
+  },
+  {
+    "examineText": "A cold mushroom.",
+    "group": "Holos mushroom",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28343,
+    "name": "Holos mushroom",
+    "url": "https://oldschool.runescape.wiki/w/Holos_mushroom",
+    "version": ""
+  },
+  {
+    "examineText": "Mushroom in powder form.",
+    "group": "Holos powder",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28344,
+    "name": "Holos powder",
+    "url": "https://oldschool.runescape.wiki/w/Holos_powder",
+    "version": ""
+  },
+  {
+    "examineText": "A cold mushroom.",
+    "group": "Arder mushroom",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28345,
+    "name": "Arder mushroom",
+    "url": "https://oldschool.runescape.wiki/w/Arder_mushroom",
+    "version": ""
+  },
+  {
+    "examineText": "Mushroom in powder form.",
+    "group": "Arder powder",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28346,
+    "name": "Arder powder",
+    "url": "https://oldschool.runescape.wiki/w/Arder_powder",
+    "version": ""
+  },
+  {
+    "examineText": "A cold mushroom.",
+    "group": "Resper mushroom",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28347,
+    "name": "Resper mushroom",
+    "url": "https://oldschool.runescape.wiki/w/Resper_mushroom",
+    "version": ""
+  },
+  {
+    "examineText": "Mushroom in powder form.",
+    "group": "Resper powder",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28348,
+    "name": "Resper powder",
+    "url": "https://oldschool.runescape.wiki/w/Resper_powder",
+    "version": ""
+  },
+  {
+    "examineText": "A strange salt from deep underground.",
+    "group": "Salax salt",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28349,
+    "name": "Salax salt",
+    "url": "https://oldschool.runescape.wiki/w/Salax_salt",
+    "version": ""
+  },
+  {
+    "examineText": "A nasty fungal poison.",
+    "group": "Musca-holos poison",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28350,
+    "name": "Musca-holos poison",
+    "url": "https://oldschool.runescape.wiki/w/Musca-holos_poison",
+    "version": ""
+  },
+  {
+    "examineText": "A nasty fungal poison.",
+    "group": "Arder-musca poison",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28351,
+    "name": "Arder-musca poison",
+    "url": "https://oldschool.runescape.wiki/w/Arder-musca_poison",
+    "version": ""
+  },
+  {
+    "examineText": "A nasty fungal poison.",
+    "group": "Musca-resper poison",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28352,
+    "name": "Musca-resper poison",
+    "url": "https://oldschool.runescape.wiki/w/Musca-resper_poison",
+    "version": ""
+  },
+  {
+    "examineText": "A nasty fungal poison.",
+    "group": "Holos-arder poison",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28353,
+    "name": "Holos-arder poison",
+    "url": "https://oldschool.runescape.wiki/w/Holos-arder_poison",
+    "version": ""
+  },
+  {
+    "examineText": "A nasty fungal poison.",
+    "group": "Resper-holos poison",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28354,
+    "name": "Resper-holos poison",
+    "url": "https://oldschool.runescape.wiki/w/Resper-holos_poison",
+    "version": ""
+  },
+  {
+    "examineText": "A nasty fungal poison.",
+    "group": "Arder-resper poison",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28355,
+    "name": "Arder-resper poison",
+    "url": "https://oldschool.runescape.wiki/w/Arder-resper_poison",
+    "version": ""
+  },
+  {
+    "examineText": "It's vibrating with energy!",
+    "group": "Blackstone fragment",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28356,
+    "name": "Blackstone fragment",
+    "url": "https://oldschool.runescape.wiki/w/Blackstone_fragment",
+    "version": "Glowing"
+  },
+  {
+    "examineText": "A strange shard of dark stone with various modifications.",
+    "group": "Blackstone fragment",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28357,
+    "name": "Blackstone fragment",
+    "url": "https://oldschool.runescape.wiki/w/Blackstone_fragment",
+    "version": "Normal"
+  },
+  {
+    "examineText": "A mysterious icon.",
+    "group": "Strange icon (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28360,
+    "name": "Strange icon",
+    "url": "https://oldschool.runescape.wiki/w/Strange_icon_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "Part of a mysterious icon.",
+    "group": "Icon segment",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28361,
+    "name": "Icon segment",
+    "url": "https://oldschool.runescape.wiki/w/Icon_segment",
+    "version": "Palm and thumb"
+  },
+  {
+    "examineText": "Part of a mysterious icon.",
+    "group": "Icon segment",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28362,
+    "name": "Icon segment",
+    "url": "https://oldschool.runescape.wiki/w/Icon_segment",
+    "version": "Fingers"
+  },
+  {
+    "examineText": "A very long coil of rope.",
+    "group": "Very long rope",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28363,
+    "name": "Very long rope",
+    "url": "https://oldschool.runescape.wiki/w/Very_long_rope",
+    "version": ""
+  },
+  {
+    "examineText": "A torch that can pierce the Shadow Realm.",
+    "group": "Basic shadow torch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28364,
+    "name": "Basic shadow torch",
+    "url": "https://oldschool.runescape.wiki/w/Basic_shadow_torch",
+    "version": ""
+  },
+  {
+    "examineText": "A torch that can pierce the Shadow Realm.",
+    "group": "Superior shadow torch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28365,
+    "name": "Superior shadow torch",
+    "url": "https://oldschool.runescape.wiki/w/Superior_shadow_torch",
+    "version": ""
+  },
+  {
+    "examineText": "A torch that can pierce the Shadow Realm.",
+    "group": "Perfected shadow torch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28366,
+    "name": "Perfected shadow torch",
+    "url": "https://oldschool.runescape.wiki/w/Perfected_shadow_torch",
+    "version": ""
+  },
+  {
+    "examineText": "Keeps the shadows at bay.",
+    "group": "Shadow blocker",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28367,
+    "name": "Shadow blocker",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_blocker",
+    "version": ""
+  },
+  {
+    "examineText": "Helps to protect you from the influence of the Shadow Realm.",
+    "group": "Revitalising idol",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28368,
+    "name": "Revitalising idol",
+    "url": "https://oldschool.runescape.wiki/w/Revitalising_idol",
+    "version": ""
+  },
+  {
+    "examineText": "A strange magical portal.",
+    "group": "Anima portal",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28369,
+    "name": "Anima portal",
+    "url": "https://oldschool.runescape.wiki/w/Anima_portal",
+    "version": ""
+  },
+  {
+    "examineText": "A strange key that seems to flicker in and out of existence.",
+    "group": "Shadow key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28370,
+    "name": "Shadow key",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_key",
+    "version": "Purple"
+  },
+  {
+    "examineText": "A strange key that seems to flicker in and out of existence.",
+    "group": "Shadow key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28371,
+    "name": "Shadow key",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_key",
+    "version": "Blue"
+  },
+  {
+    "examineText": "A strange key that seems to flicker in and out of existence.",
+    "group": "Shadow key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28372,
+    "name": "Shadow key",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_key",
+    "version": "White"
+  },
+  {
+    "examineText": "A strange key that seems to flicker in and out of existence.",
+    "group": "Shadow key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28373,
+    "name": "Shadow key",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_key",
+    "version": "Red"
+  },
+  {
+    "examineText": "A strange key that seems to flicker in and out of existence.",
+    "group": "Shadow key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28374,
+    "name": "Shadow key",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_key",
+    "version": "Green"
+  },
+  {
+    "examineText": "A design for something called an Anima Portal.",
+    "group": "Anima portal schematic",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28375,
+    "name": "Anima portal schematic",
+    "url": "https://oldschool.runescape.wiki/w/Anima_portal_schematic",
+    "version": ""
+  },
+  {
+    "examineText": "A design for something called a Revitalising Idol.",
+    "group": "Revitalising idol schematic",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28376,
+    "name": "Revitalising idol schematic",
+    "url": "https://oldschool.runescape.wiki/w/Revitalising_idol_schematic",
+    "version": ""
+  },
+  {
+    "examineText": "A design for something called a Shadow Blocker.",
+    "group": "Shadow blocker schematic",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28377,
+    "name": "Shadow blocker schematic",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_blocker_schematic",
+    "version": ""
+  },
+  {
+    "examineText": "A design for a basic shadow torch.",
+    "group": "Basic shadow torch schematic",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28378,
+    "name": "Basic shadow torch schematic",
+    "url": "https://oldschool.runescape.wiki/w/Basic_shadow_torch_schematic",
+    "version": ""
+  },
+  {
+    "examineText": "A design for a superior shadow torch.",
+    "group": "Superior shadow torch schematic",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28379,
+    "name": "Superior shadow torch schematic",
+    "url": "https://oldschool.runescape.wiki/w/Superior_shadow_torch_schematic",
+    "version": ""
+  },
+  {
+    "examineText": "A design for a perfected shadow torch.",
+    "group": "Perfected shadow torch schematic",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28380,
+    "name": "Perfected shadow torch schematic",
+    "url": "https://oldschool.runescape.wiki/w/Perfected_shadow_torch_schematic",
+    "version": ""
+  },
+  {
+    "examineText": "A note about a potion.",
+    "group": "Potion note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28382,
+    "name": "Potion note",
+    "url": "https://oldschool.runescape.wiki/w/Potion_note",
+    "version": ""
+  },
+  {
+    "examineText": "A strange potion.",
+    "group": "Strange potion (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28383,
+    "name": "Strange potion",
+    "url": "https://oldschool.runescape.wiki/w/Strange_potion_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "You can obtain some more in the Stranglewood.",
+    "group": "Korbal herb",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28384,
+    "name": "Korbal herb",
+    "url": "https://oldschool.runescape.wiki/w/Korbal_herb",
+    "version": ""
+  },
+  {
+    "examineText": "Some strange berries.",
+    "group": "Argian berries",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28385,
+    "name": "Argian berries",
+    "url": "https://oldschool.runescape.wiki/w/Argian_berries",
+    "version": ""
+  },
+  {
+    "examineText": "It needs some ingredients adding to it.",
+    "group": "Unfinished serum",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28386,
+    "name": "Unfinished serum",
+    "url": "https://oldschool.runescape.wiki/w/Unfinished_serum",
+    "version": "Step 1"
+  },
+  {
+    "examineText": "It needs some ingredients adding to it.",
+    "group": "Unfinished serum",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28387,
+    "name": "Unfinished serum",
+    "url": "https://oldschool.runescape.wiki/w/Unfinished_serum",
+    "version": "Step 2"
+  },
+  {
+    "examineText": "It smells horrible.",
+    "group": "Strangler serum",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28388,
+    "name": "Strangler serum",
+    "url": "https://oldschool.runescape.wiki/w/Strangler_serum",
+    "version": ""
+  },
+  {
+    "examineText": "A very old key.",
+    "group": "Temple key (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28389,
+    "name": "Temple key",
+    "url": "https://oldschool.runescape.wiki/w/Temple_key_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "Seems pretty sturdy!",
+    "group": "Barricade (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28390,
+    "name": "Barricade",
+    "url": "https://oldschool.runescape.wiki/w/Barricade_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "A small satchel of explosives.",
+    "group": "Satchel (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28392,
+    "name": "Satchel",
+    "url": "https://oldschool.runescape.wiki/w/Satchel_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "Magically detonates the nearest satchel of explosives. Cool!",
+    "group": "Detonator",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28393,
+    "name": "Detonator",
+    "url": "https://oldschool.runescape.wiki/w/Detonator",
+    "version": ""
+  },
+  {
+    "examineText": "A page of a journal written long ago.",
+    "group": "Tatty page",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28394,
+    "name": "Tatty page",
+    "url": "https://oldschool.runescape.wiki/w/Tatty_page",
+    "version": "Day 1"
+  },
+  {
+    "examineText": "A page of a journal written long ago.",
+    "group": "Tatty page",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28395,
+    "name": "Tatty page",
+    "url": "https://oldschool.runescape.wiki/w/Tatty_page",
+    "version": "Day 2"
+  },
+  {
+    "examineText": "A page of a journal written long ago.",
+    "group": "Tatty page",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28396,
+    "name": "Tatty page",
+    "url": "https://oldschool.runescape.wiki/w/Tatty_page",
+    "version": "Day 3"
+  },
+  {
+    "examineText": "A page of a journal written long ago.",
+    "group": "Tatty page",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28397,
+    "name": "Tatty page",
+    "url": "https://oldschool.runescape.wiki/w/Tatty_page",
+    "version": "Day 4"
+  },
+  {
+    "examineText": "A page of a journal written long ago.",
+    "group": "Tatty page",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28398,
+    "name": "Tatty page",
+    "url": "https://oldschool.runescape.wiki/w/Tatty_page",
+    "version": "Day 5"
+  },
+  {
+    "examineText": "A page of a journal written long ago.",
+    "group": "Tatty page",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28399,
+    "name": "Tatty page",
+    "url": "https://oldschool.runescape.wiki/w/Tatty_page",
+    "version": "Day 6"
+  },
+  {
+    "examineText": "A page of a journal written long ago.",
+    "group": "Tatty page",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28400,
+    "name": "Tatty page",
+    "url": "https://oldschool.runescape.wiki/w/Tatty_page",
+    "version": "Day 7"
+  },
+  {
+    "examineText": "It's covered in dirt.",
+    "group": "Mucky note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28401,
+    "name": "Mucky note",
+    "url": "https://oldschool.runescape.wiki/w/Mucky_note",
+    "version": ""
+  },
+  {
+    "examineText": "An empty cell for storing runic energy.",
+    "group": "Uncharged cell (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28402,
+    "name": "Uncharged cell",
+    "url": "https://oldschool.runescape.wiki/w/Uncharged_cell_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "It's been charged with ancient runic energy.",
+    "group": "Charged cell",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28403,
+    "name": "Charged cell",
+    "url": "https://oldschool.runescape.wiki/w/Charged_cell",
+    "version": ""
+  },
+  {
+    "examineText": "An ancient medallion that once belonged to Vardorvis.",
+    "group": "Vardorvis' medallion",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28404,
+    "name": "Vardorvis' medallion",
+    "url": "https://oldschool.runescape.wiki/w/Vardorvis%27_medallion",
+    "version": ""
+  },
+  {
+    "examineText": "An ancient medallion that once belonged to Perseriya.",
+    "group": "Perseriya's medallion",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28405,
+    "name": "Perseriya's medallion",
+    "url": "https://oldschool.runescape.wiki/w/Perseriya%27s_medallion",
+    "version": ""
+  },
+  {
+    "examineText": "An ancient medallion that once belonged to Duke Sucellus.",
+    "group": "Sucellus' medallion",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28406,
+    "name": "Sucellus' medallion",
+    "url": "https://oldschool.runescape.wiki/w/Sucellus%27_medallion",
+    "version": ""
+  },
+  {
+    "examineText": "An ancient medallion that once belonged to the Whisperer.",
+    "group": "Whisperer's medallion",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28407,
+    "name": "Whisperer's medallion",
+    "url": "https://oldschool.runescape.wiki/w/Whisperer%27s_medallion",
+    "version": ""
+  },
+  {
+    "examineText": "I could use this to pick a lock.",
+    "group": "Hair clip (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28408,
+    "name": "Hair clip",
+    "url": "https://oldschool.runescape.wiki/w/Hair_clip_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "Good for rubbing.",
+    "group": "Ancient lamp",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28409,
+    "name": "Ancient lamp",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_lamp",
+    "version": ""
+  },
+  {
+    "examineText": "A mysterious archaeologist.",
+    "group": "Dr banikan (item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28410,
+    "name": "Dr banikan",
+    "url": "https://oldschool.runescape.wiki/w/Dr_banikan_(item)",
+    "version": ""
+  },
+  {
+    "examineText": "A letter written to a prisoner.",
+    "group": "Prisoner's letter",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28412,
+    "name": "Prisoner's letter",
+    "url": "https://oldschool.runescape.wiki/w/Prisoner%27s_letter",
+    "version": ""
+  },
+  {
+    "examineText": "A dangerous looking knife.",
+    "group": "Knife (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28413,
+    "name": "Knife",
+    "url": "https://oldschool.runescape.wiki/w/Knife_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "Good for detailed crafting.",
+    "group": "Chisel (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28414,
+    "name": "Chisel",
+    "url": "https://oldschool.runescape.wiki/w/Chisel_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "For picking tough locks.",
+    "group": "Lockpick (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28415,
+    "name": "Lockpick",
+    "url": "https://oldschool.runescape.wiki/w/Lockpick_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "An old key with a sapphire attached.",
+    "group": "Sapphire key (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28416,
+    "name": "Sapphire key",
+    "url": "https://oldschool.runescape.wiki/w/Sapphire_key_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "An old key with an emerald attached.",
+    "group": "Emerald key (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28417,
+    "name": "Emerald key",
+    "url": "https://oldschool.runescape.wiki/w/Emerald_key_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "An old key with a ruby attached.",
+    "group": "Ruby key (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28418,
+    "name": "Ruby key",
+    "url": "https://oldschool.runescape.wiki/w/Ruby_key_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "An old key with a diamond attached.",
+    "group": "Diamond key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28419,
+    "name": "Diamond key",
+    "url": "https://oldschool.runescape.wiki/w/Diamond_key",
+    "version": ""
+  },
+  {
+    "examineText": "An old key with a dragonstone attached.",
+    "group": "Dragonstone key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28420,
+    "name": "Dragonstone key",
+    "url": "https://oldschool.runescape.wiki/w/Dragonstone_key",
+    "version": ""
+  },
+  {
+    "examineText": "An old key with an onyx attached.",
+    "group": "Onyx key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28421,
+    "name": "Onyx key",
+    "url": "https://oldschool.runescape.wiki/w/Onyx_key",
+    "version": ""
+  },
+  {
+    "examineText": "Some very old rations.",
+    "group": "Rations",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28422,
+    "name": "Rations",
+    "url": "https://oldschool.runescape.wiki/w/Rations",
+    "version": ""
+  },
+  {
+    "examineText": "A note about item requisitions.",
+    "group": "Requisition note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28423,
+    "name": "Requisition note",
+    "url": "https://oldschool.runescape.wiki/w/Requisition_note",
+    "version": ""
+  },
+  {
+    "examineText": "A note with some sort of grid on it.",
+    "group": "Grid note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28424,
+    "name": "Grid note",
+    "url": "https://oldschool.runescape.wiki/w/Grid_note",
+    "version": ""
+  },
+  {
+    "examineText": "A note with some code conversions on it.",
+    "group": "Code converter",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28425,
+    "name": "Code converter",
+    "url": "https://oldschool.runescape.wiki/w/Code_converter",
+    "version": ""
+  },
+  {
+    "examineText": "Strange magic is keeping it lit.",
+    "group": "Magic lantern",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28426,
+    "name": "Magic lantern",
+    "url": "https://oldschool.runescape.wiki/w/Magic_lantern",
+    "version": ""
+  },
+  {
+    "examineText": "A small device with a slider in it.",
+    "group": "Strange slider",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28427,
+    "name": "Strange slider",
+    "url": "https://oldschool.runescape.wiki/w/Strange_slider",
+    "version": ""
+  },
+  {
+    "examineText": "A note about a library.",
+    "group": "Library note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28428,
+    "name": "Library note",
+    "url": "https://oldschool.runescape.wiki/w/Library_note",
+    "version": ""
+  },
+  {
+    "examineText": "A letter written long ago.",
+    "group": "Warning letter",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28429,
+    "name": "Warning letter",
+    "url": "https://oldschool.runescape.wiki/w/Warning_letter",
+    "version": ""
+  },
+  {
+    "examineText": "A strange-looking key.",
+    "group": "Odd key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28430,
+    "name": "Odd key",
+    "url": "https://oldschool.runescape.wiki/w/Odd_key",
+    "version": ""
+  },
+  {
+    "examineText": "A note with some orders on it.",
+    "group": "Orders note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28431,
+    "name": "Orders note",
+    "url": "https://oldschool.runescape.wiki/w/Orders_note",
+    "version": ""
+  },
+  {
+    "examineText": "A note about refugees.",
+    "group": "Refugees note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28432,
+    "name": "Refugees note",
+    "url": "https://oldschool.runescape.wiki/w/Refugees_note",
+    "version": ""
+  },
+  {
+    "examineText": "A note with a request on it.",
+    "group": "Request note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28433,
+    "name": "Request note",
+    "url": "https://oldschool.runescape.wiki/w/Request_note",
+    "version": ""
+  },
+  {
+    "examineText": "A note with a prayer on it.",
+    "group": "Prayer note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28434,
+    "name": "Prayer note",
+    "url": "https://oldschool.runescape.wiki/w/Prayer_note",
+    "version": ""
+  },
+  {
+    "examineText": "A thank you message.",
+    "group": "Thank you note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28435,
+    "name": "Thank you note",
+    "url": "https://oldschool.runescape.wiki/w/Thank_you_note",
+    "version": ""
+  },
+  {
+    "examineText": "A note about a protest.",
+    "group": "Protest note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28436,
+    "name": "Protest note",
+    "url": "https://oldschool.runescape.wiki/w/Protest_note",
+    "version": ""
+  },
+  {
+    "examineText": "A note with evacuation details on it.",
+    "group": "Evacuation note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28437,
+    "name": "Evacuation note",
+    "url": "https://oldschool.runescape.wiki/w/Evacuation_note",
+    "version": ""
+  },
+  {
+    "examineText": "A very old tablet with something carved into it.",
+    "group": "Old tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28438,
+    "name": "Old tablet",
+    "url": "https://oldschool.runescape.wiki/w/Old_tablet",
+    "version": ""
+  },
+  {
+    "examineText": "A very old tablet with something carved into it.",
+    "group": "Damp tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28439,
+    "name": "Damp tablet",
+    "url": "https://oldschool.runescape.wiki/w/Damp_tablet",
+    "version": "Incident report"
+  },
+  {
+    "examineText": "A very old tablet with something carved into it.",
+    "group": "Damp tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28440,
+    "name": "Damp tablet",
+    "url": "https://oldschool.runescape.wiki/w/Damp_tablet",
+    "version": "Rejoice"
+  },
+  {
+    "examineText": "A key covered in... brain juice?",
+    "group": "Slimy key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28441,
+    "name": "Slimy key",
+    "url": "https://oldschool.runescape.wiki/w/Slimy_key",
+    "version": ""
+  },
+  {
+    "examineText": "Best keep this away from naked flames.",
+    "group": "Gunpowder (Desert Treasure II - The Fallen Empire)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28442,
+    "name": "Gunpowder",
+    "url": "https://oldschool.runescape.wiki/w/Gunpowder_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "version": ""
+  },
+  {
+    "examineText": "I'm sure this was food at one point.",
+    "group": "Scarred scraps",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28443,
+    "name": "Scarred scraps",
+    "url": "https://oldschool.runescape.wiki/w/Scarred_scraps",
+    "version": ""
+  },
+  {
+    "examineText": "Contains scribbles of a madman.",
+    "group": "Withered note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28444,
+    "name": "Withered note",
+    "url": "https://oldschool.runescape.wiki/w/Withered_note",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Earth nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28445,
+    "name": "Earth nerve",
+    "url": "https://oldschool.runescape.wiki/w/Earth_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Water nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28446,
+    "name": "Water nerve",
+    "url": "https://oldschool.runescape.wiki/w/Water_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Fire nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28447,
+    "name": "Fire nerve",
+    "url": "https://oldschool.runescape.wiki/w/Fire_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Air nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28448,
+    "name": "Air nerve",
+    "url": "https://oldschool.runescape.wiki/w/Air_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Mind nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28449,
+    "name": "Mind nerve",
+    "url": "https://oldschool.runescape.wiki/w/Mind_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Soul nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28450,
+    "name": "Soul nerve",
+    "url": "https://oldschool.runescape.wiki/w/Soul_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Nature nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28451,
+    "name": "Nature nerve",
+    "url": "https://oldschool.runescape.wiki/w/Nature_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Smoke nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28452,
+    "name": "Smoke nerve",
+    "url": "https://oldschool.runescape.wiki/w/Smoke_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Blood nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28453,
+    "name": "Blood nerve",
+    "url": "https://oldschool.runescape.wiki/w/Blood_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Law nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28454,
+    "name": "Law nerve",
+    "url": "https://oldschool.runescape.wiki/w/Law_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Cosmic nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28455,
+    "name": "Cosmic nerve",
+    "url": "https://oldschool.runescape.wiki/w/Cosmic_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Astral nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28456,
+    "name": "Astral nerve",
+    "url": "https://oldschool.runescape.wiki/w/Astral_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Wrath nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28457,
+    "name": "Wrath nerve",
+    "url": "https://oldschool.runescape.wiki/w/Wrath_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Dust nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28458,
+    "name": "Dust nerve",
+    "url": "https://oldschool.runescape.wiki/w/Dust_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Steam nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28459,
+    "name": "Steam nerve",
+    "url": "https://oldschool.runescape.wiki/w/Steam_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A very poweful nerve.",
+    "group": "Lava nerve",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28460,
+    "name": "Lava nerve",
+    "url": "https://oldschool.runescape.wiki/w/Lava_nerve",
+    "version": ""
+  },
+  {
+    "examineText": "A book of notes and observations.",
+    "group": "Abyssal observations",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28461,
+    "name": "Abyssal observations",
+    "url": "https://oldschool.runescape.wiki/w/Abyssal_observations",
+    "version": ""
+  },
+  {
+    "examineText": "For holding things together.",
+    "group": "Crimson fibre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28462,
+    "name": "Crimson fibre",
+    "url": "https://oldschool.runescape.wiki/w/Crimson_fibre",
+    "version": ""
+  },
+  {
+    "examineText": "For holding things together.",
+    "group": "Radiant fibre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28463,
+    "name": "Radiant fibre",
+    "url": "https://oldschool.runescape.wiki/w/Radiant_fibre",
+    "version": ""
+  },
+  {
+    "examineText": "A questionable source of light.",
+    "group": "Illuminating lure",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28464,
+    "name": "Illuminating lure",
+    "url": "https://oldschool.runescape.wiki/w/Illuminating_lure",
+    "version": ""
+  },
+  {
+    "examineText": "A very old tablet with something carved into it.",
+    "group": "Slimy tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28465,
+    "name": "Slimy tablet",
+    "url": "https://oldschool.runescape.wiki/w/Slimy_tablet",
+    "version": "Part 1"
+  },
+  {
+    "examineText": "A very old tablet with something carved into it.",
+    "group": "Slimy tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28466,
+    "name": "Slimy tablet",
+    "url": "https://oldschool.runescape.wiki/w/Slimy_tablet",
+    "version": "Part 2"
+  },
+  {
+    "examineText": "An old note written on a strange fleshy material.",
+    "group": "Gooey note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28467,
+    "name": "Gooey note",
+    "url": "https://oldschool.runescape.wiki/w/Gooey_note",
+    "version": "Part 1"
+  },
+  {
+    "examineText": "A very old tablet with something carved into it.",
+    "group": "Slimy tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28467,
+    "name": "Slimy tablet",
+    "url": "https://oldschool.runescape.wiki/w/Slimy_tablet",
+    "version": "Part 3"
+  },
+  {
+    "examineText": "An old note written on a strange fleshy material.",
+    "group": "Gooey note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28468,
+    "name": "Gooey note",
+    "url": "https://oldschool.runescape.wiki/w/Gooey_note",
+    "version": "Part 2"
+  },
+  {
+    "examineText": "An old note written on a strange fleshy material.",
+    "group": "Gooey note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28469,
+    "name": "Gooey note",
+    "url": "https://oldschool.runescape.wiki/w/Gooey_note",
+    "version": "Part 3"
+  },
+  {
+    "examineText": "Very stinky.",
+    "group": "Stink bomb",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28471,
+    "name": "Stink bomb",
+    "url": "https://oldschool.runescape.wiki/w/Stink_bomb",
+    "version": ""
   }
 ]
