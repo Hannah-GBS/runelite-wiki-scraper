@@ -691,6 +691,12 @@
         "name": "Bones"
       },
       {
+        "coords": "3393,2800",
+        "isMembers": true,
+        "location": "Ruins of Ullek",
+        "name": "Bones"
+      },
+      {
         "coords": "1449,3621",
         "isMembers": true,
         "location": "Shayzien - Giant Pit",
@@ -1348,6 +1354,17 @@
         "isMembers": false,
         "location": "Draynor Manor (ground floor)",
         "name": "Bronze Med Helm"
+      }
+    ]
+  },
+  {
+    "group": "Bronze nails",
+    "spawns": [
+      {
+        "coords": "3325,2727",
+        "isMembers": true,
+        "location": "Necropolis",
+        "name": "Bronze nails(5)"
       }
     ]
   },
@@ -3383,6 +3400,12 @@
         "name": "Hammer"
       },
       {
+        "coords": "3435,2835",
+        "isMembers": true,
+        "location": "Ruins of Ullek",
+        "name": "Hammer"
+      },
+      {
         "coords": "3429,9931",
         "isMembers": true,
         "location": "Slayer Tower basement",
@@ -3685,6 +3708,12 @@
         "coords": "1466,3513",
         "isMembers": true,
         "location": "Ruins of Morra (must be telegrabbed)",
+        "name": "Iron scimitar"
+      },
+      {
+        "coords": "",
+        "isMembers": true,
+        "location": "Southwest corner of the Southwest temple in The Stranglewood (must be telegrabbed)",
         "name": "Iron scimitar"
       },
       {
@@ -5357,6 +5386,12 @@
         "name": "Rope"
       },
       {
+        "coords": "3395,2799",
+        "isMembers": true,
+        "location": "Ruins of Ullek",
+        "name": "Rope"
+      },
+      {
         "coords": "3169,2836",
         "isMembers": true,
         "location": "Ruins of Unkah",
@@ -6466,6 +6501,12 @@
   {
     "group": "Waterskin",
     "spawns": [
+      {
+        "coords": "3302,2739",
+        "isMembers": true,
+        "location": "Necropolis",
+        "name": "Waterskin(4)"
+      },
       {
         "coords": "3172,2857",
         "isMembers": true,
