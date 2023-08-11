@@ -3674,6 +3674,23 @@
   {
     "materials": [
       {
+        "name": "Ancient icon",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ancient essence.png|link=Ancient essence]]",
+      "name": "Ancient essence",
+      "quantity": "5000"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
         "name": "Godsword blade",
         "quantity": "1"
       },
@@ -3738,6 +3755,27 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Elbis",
+    "materials": [
+      {
+        "name": "Ancient staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Ancient icon",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ancient sceptre.png|link=Ancient sceptre]]",
+      "name": "Ancient sceptre",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Strange Machine (wyvern shield)|Strange Machine",
@@ -4665,6 +4703,29 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Archers ring",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Archer icon.png|link=Archer icon]]",
+      "name": "Archer icon",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "400",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
     "facilities": "Dom Onion's Reward Shop",
     "materials": [
       {
@@ -4833,6 +4894,48 @@
       }
     ],
     "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Arder mushroom",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Arder powder.png|link=Arder powder]]",
+      "name": "Arder powder",
+      "quantity": "6"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "facilities": "Fermentation Vat",
+    "materials": [
+      {
+        "name": "Arder powder",
+        "quantity": "6"
+      },
+      {
+        "name": "Musca powder",
+        "quantity": "6"
+      },
+      {
+        "name": "Salax salt",
+        "quantity": "6"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Arder-musca poison.png|link=Arder-musca poison]]",
+      "name": "Arder-musca poison",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -5416,6 +5519,26 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Cosmic nerve",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth nerve",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Astral nerve.png|link=Astral nerve]]",
+      "name": "Astral nerve",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Astral Altar",
@@ -7267,6 +7390,23 @@
     "ticks": ""
   },
   {
+    "materials": [
+      {
+        "name": "Battered book",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Battered key.png|link=Battered key]]",
+      "name": "Battered key",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Knife"
+  },
+  {
     "facilities": "Lectern (Arceuus)",
     "materials": [
       {
@@ -7420,7 +7560,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "10",
         "level": "50",
         "name": "Hunter"
@@ -7459,6 +7599,78 @@
     "tools": "Glassblowing pipe"
   },
   {
+    "materials": [
+      {
+        "name": "Bellator vestige",
+        "quantity": "1"
+      },
+      {
+        "name": "Warrior icon",
+        "quantity": "1"
+      },
+      {
+        "name": "Blood rune",
+        "quantity": "500"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bellator icon.png|link=Bellator icon]]",
+      "name": "Bellator icon",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "400",
+        "level": "90",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Bellator icon",
+        "quantity": "1"
+      },
+      {
+        "name": "Chromium ingot",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bellator ring.png|link=Bellator ring]]",
+      "name": "Bellator ring",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "90",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "2500",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Ring mould"
+  },
+  {
     "facilities": "Patchy",
     "materials": [
       {
@@ -7483,6 +7695,29 @@
     "skills": [],
     "ticks": "1",
     "tools": "Book o' piracy"
+  },
+  {
+    "materials": [
+      {
+        "name": "Berserker ring",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Berserker icon.png|link=Berserker icon]]",
+      "name": "Berserker icon",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "400",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
   },
   {
     "materials": [
@@ -8460,7 +8695,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">120,270,982</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">125,903,556</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10138,6 +10373,46 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient sceptre",
+        "quantity": "1"
+      },
+      {
+        "name": "Blood quartz",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blood ancient sceptre.png|link=Blood ancient sceptre]]",
+      "name": "Blood ancient sceptre",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Water nerve",
+        "quantity": "1"
+      },
+      {
+        "name": "Mind nerve",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blood nerve.png|link=Blood nerve]]",
+      "name": "Blood nerve",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -11982,7 +12257,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">119,234,504</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">127,661,638</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -17210,10 +17485,10 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Carrallangar teleport (tablet).png|link=Carrallangar teleport (tablet)]]",
-      "name": "Carrallangar teleport (tablet)",
+      "image": "[[File:Carrallanger teleport (tablet).png|link=Carrallanger teleport (tablet)]]",
+      "name": "Carrallanger teleport (tablet)",
       "quantity": "1",
-      "txt": "Carrallangar teleport"
+      "txt": "Carrallanger teleport"
     },
     "skills": [
       {
@@ -18013,6 +18288,7 @@
     "ticks": "3"
   },
   {
+    "facilities": "Brewery",
     "materials": [
       {
         "name": "Bucket of water",
@@ -20480,6 +20756,26 @@
     "ticks": "1"
   },
   {
+    "materials": [
+      {
+        "name": "Nature nerve",
+        "quantity": "1"
+      },
+      {
+        "name": "Soul nerve",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cosmic nerve.png|link=Cosmic nerve]]",
+      "name": "Cosmic nerve",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Cosmic Altar",
     "materials": [
       {
@@ -20951,7 +21247,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "3",
+    "ticks": "0",
     "tools": "Pestle and mortar"
   },
   {
@@ -23634,6 +23930,24 @@
       "name": "Crystal halberd",
       "quantity": "1",
       "subtxt": "Ilfeen"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Islwyn",
+    "materials": [
+      {
+        "name": "Coins",
+        "quantity": "750000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal halberd.png|link=Crystal halberd]]",
+      "name": "Crystal halberd",
+      "quantity": "1",
+      "subtxt": "Islwyn"
     },
     "skills": [],
     "ticks": "0"
@@ -30997,6 +31311,26 @@
     "ticks": "18"
   },
   {
+    "materials": [
+      {
+        "name": "Air nerve",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth nerve",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dust nerve.png|link=Dust nerve]]",
+      "name": "Dust nerve",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Air Altar",
     "materials": [
       {
@@ -36118,7 +36452,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Pestle and mortar"
   },
   {
@@ -38793,7 +39127,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "1",
+    "ticks": "0",
     "tools": "Pestle and mortar"
   },
   {
@@ -41564,6 +41898,26 @@
     "ticks": ""
   },
   {
+    "materials": [
+      {
+        "name": "Ancient sceptre",
+        "quantity": "1"
+      },
+      {
+        "name": "Ice quartz",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ice ancient sceptre.png|link=Ice ancient sceptre]]",
+      "name": "Ice ancient sceptre",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Lectern (Lunar)",
     "materials": [
       {
@@ -43822,7 +44176,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "3",
+    "ticks": "0",
     "tools": "Pestle and mortar"
   },
   {
@@ -43839,7 +44193,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "3",
+    "ticks": "0",
     "tools": "Pestle and mortar"
   },
   {
@@ -43856,7 +44210,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "3",
+    "ticks": "0",
     "tools": "Pestle and mortar"
   },
   {
@@ -45089,6 +45443,26 @@
     "ticks": "1"
   },
   {
+    "materials": [
+      {
+        "name": "Earth nerve",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire nerve",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lava nerve.png|link=Lava nerve]]",
+      "name": "Lava nerve",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Earth Altar",
     "materials": [
       {
@@ -45351,6 +45725,26 @@
     "skills": [],
     "ticks": "",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Earth nerve",
+        "quantity": "1"
+      },
+      {
+        "name": "Mind nerve",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Law nerve.png|link=Law nerve]]",
+      "name": "Law nerve",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Law Altar",
@@ -47390,6 +47784,78 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Magus vestige",
+        "quantity": "1"
+      },
+      {
+        "name": "Seers icon",
+        "quantity": "1"
+      },
+      {
+        "name": "Blood rune",
+        "quantity": "500"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Magus icon.png|link=Magus icon]]",
+      "name": "Magus icon",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "400",
+        "level": "90",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Magus icon",
+        "quantity": "1"
+      },
+      {
+        "name": "Chromium ingot",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Magus ring.png|link=Magus ring]]",
+      "name": "Magus ring",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "90",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "2500",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Ring mould"
   },
   {
     "materials": [
@@ -51803,6 +52269,23 @@
   {
     "materials": [
       {
+        "name": "Musca mushroom",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Musca powder.png|link=Musca powder]]",
+      "name": "Musca powder",
+      "quantity": "6"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
         "name": "Fried mushrooms",
         "quantity": "1"
       },
@@ -53145,6 +53628,26 @@
     "output": {
       "image": "[[File:Mystic water staff.png|link=Mystic water staff]]",
       "name": "Mystic water staff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Water nerve",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth nerve",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Nature nerve.png|link=Nature nerve]]",
+      "name": "Nature nerve",
       "quantity": "1"
     },
     "skills": [],
@@ -63157,6 +63660,42 @@
     ],
     "members": "Yes",
     "output": {
+      "image": "[[File:Rune heraldic helm (Guthix).png|link=Rune heraldic helm (Guthix)]]",
+      "name": "Rune heraldic helm (Guthix)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "37",
+        "level": "38",
+        "name": "Crafting"
+      },
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "16",
+        "name": "Construction"
+      },
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "70",
+        "name": "Prayer"
+      }
+    ],
+    "ticks": "6"
+  },
+  {
+    "facilities": "Pluming stand",
+    "materials": [
+      {
+        "name": "Rune full helm",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
       "image": "[[File:Rune heraldic helm (HAM).png|link=Rune heraldic helm (HAM)]]",
       "name": "Rune heraldic helm (HAM)",
       "quantity": "1"
@@ -63324,42 +63863,6 @@
         "experience": "0",
         "level": "16",
         "name": "Construction"
-      }
-    ],
-    "ticks": "6"
-  },
-  {
-    "facilities": "Pluming stand",
-    "materials": [
-      {
-        "name": "Rune full helm",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Rune heraldic helm (Saradomin).png|link=Rune heraldic helm (Saradomin)]]",
-      "name": "Rune heraldic helm (Saradomin)",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "37",
-        "level": "38",
-        "name": "Crafting"
-      },
-      {
-        "boostable": "No",
-        "experience": "0",
-        "level": "16",
-        "name": "Construction"
-      },
-      {
-        "boostable": "No",
-        "experience": "0",
-        "level": "70",
-        "name": "Prayer"
       }
     ],
     "ticks": "6"
@@ -65494,6 +65997,78 @@
   {
     "materials": [
       {
+        "name": "Torva full helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Ancient blood ornament kit",
+        "quantity": "1"
+      },
+      {
+        "name": "Blood rune",
+        "quantity": "20000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sanguine torva full helm.png|link=Sanguine torva full helm]]",
+      "name": "Sanguine torva full helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Torva platebody",
+        "quantity": "1"
+      },
+      {
+        "name": "Ancient blood ornament kit",
+        "quantity": "1"
+      },
+      {
+        "name": "Blood rune",
+        "quantity": "20000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sanguine torva platebody.png|link=Sanguine torva platebody]]",
+      "name": "Sanguine torva platebody",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Torva platelegs",
+        "quantity": "1"
+      },
+      {
+        "name": "Ancient blood ornament kit",
+        "quantity": "1"
+      },
+      {
+        "name": "Blood rune",
+        "quantity": "20000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sanguine torva platelegs.png|link=Sanguine torva platelegs]]",
+      "name": "Sanguine torva platelegs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Uncut sapphire",
         "quantity": "1"
       }
@@ -66158,6 +66733,29 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Seers ring",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Seers icon.png|link=Seers icon]]",
+      "name": "Seers icon",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "400",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
   },
   {
     "facilities": "Dom Onion's Reward Shop",
@@ -66855,6 +67453,26 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient sceptre",
+        "quantity": "1"
+      },
+      {
+        "name": "Shadow quartz",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Shadow ancient sceptre.png|link=Shadow ancient sceptre]]",
+      "name": "Shadow ancient sceptre",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Bone grinder",
@@ -68573,23 +69191,6 @@
   {
     "materials": [
       {
-        "name": "Battered book",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Slashed book.png|link=Slashed book]]",
-      "name": "Slashed book",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
         "name": "Black mask",
         "quantity": "1"
       },
@@ -69511,6 +70112,46 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient sceptre",
+        "quantity": "1"
+      },
+      {
+        "name": "Smoke quartz",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Smoke ancient sceptre.png|link=Smoke ancient sceptre]]",
+      "name": "Smoke ancient sceptre",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Air nerve",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire nerve",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Smoke nerve.png|link=Smoke nerve]]",
+      "name": "Smoke nerve",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Air Altar",
@@ -70444,6 +71085,26 @@
     "ticks": "3"
   },
   {
+    "materials": [
+      {
+        "name": "Mind nerve",
+        "quantity": "1"
+      },
+      {
+        "name": "Mind nerve",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Soul nerve.png|link=Soul nerve]]",
+      "name": "Soul nerve",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Soul Altar",
     "materials": [
       {
@@ -70466,6 +71127,38 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Leviathan's lure",
+        "quantity": "1"
+      },
+      {
+        "name": "Siren's staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Executioner's axe head",
+        "quantity": "1"
+      },
+      {
+        "name": "Eye of the duke",
+        "quantity": "1"
+      },
+      {
+        "name": "Blood rune",
+        "quantity": "2000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Soulreaper axe.png|link=Soulreaper axe]]",
+      "name": "Soulreaper axe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "5"
   },
   {
     "facilities": "Anvil",
@@ -72068,6 +72761,26 @@
     "output": {
       "image": "[[File:Steam battlestaff (or).png|link=Steam battlestaff (or)]]",
       "name": "Steam battlestaff (or)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Fire nerve",
+        "quantity": "1"
+      },
+      {
+        "name": "Water nerve",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steam nerve.png|link=Steam nerve]]",
+      "name": "Steam nerve",
       "quantity": "1"
     },
     "skills": [],
@@ -74438,6 +75151,37 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Unfinished serum",
+        "quantity": "1"
+      },
+      {
+        "name": "Korbal herb",
+        "quantity": "1"
+      },
+      {
+        "name": "Argian berries",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Strangler serum.png|link=Strangler serum]]",
+      "name": "Strangler serum",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "?",
+        "level": "62",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
   },
   {
     "materials": [
@@ -78573,6 +79317,78 @@
   {
     "materials": [
       {
+        "name": "Ultor vestige",
+        "quantity": "1"
+      },
+      {
+        "name": "Berserker icon",
+        "quantity": "1"
+      },
+      {
+        "name": "Blood rune",
+        "quantity": "500"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ultor icon.png|link=Ultor icon]]",
+      "name": "Ultor icon",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "400",
+        "level": "90",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Ultor icon",
+        "quantity": "1"
+      },
+      {
+        "name": "Chromium ingot",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ultor ring.png|link=Ultor ring]]",
+      "name": "Ultor ring",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "90",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "2500",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Ring mould"
+  },
+  {
+    "materials": [
+      {
         "name": "Supercompost",
         "quantity": "1"
       },
@@ -80319,6 +81135,78 @@
   {
     "materials": [
       {
+        "name": "Venator vestige",
+        "quantity": "1"
+      },
+      {
+        "name": "Archer icon",
+        "quantity": "1"
+      },
+      {
+        "name": "Blood rune",
+        "quantity": "500"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Venator icon.png|link=Venator icon]]",
+      "name": "Venator icon",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "400",
+        "level": "90",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Venator icon",
+        "quantity": "1"
+      },
+      {
+        "name": "Chromium ingot",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Venator ring.png|link=Venator ring]]",
+      "name": "Venator ring",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "90",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "2500",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Ring mould"
+  },
+  {
+    "materials": [
+      {
         "name": "Vesta's longsword (inactive)",
         "quantity": "1"
       },
@@ -80765,6 +81653,29 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Warrior ring",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Warrior icon.png|link=Warrior icon]]",
+      "name": "Warrior icon",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "400",
+        "level": "80",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
   },
   {
     "facilities": "Soul Wars Reward Shop",
@@ -82661,6 +83572,26 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "name": "Blood nerve",
+        "quantity": "1"
+      },
+      {
+        "name": "Smoke nerve",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Wrath nerve.png|link=Wrath nerve]]",
+      "name": "Wrath nerve",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Wrath Altar",
     "materials": [
       {
@@ -83831,7 +84762,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "6"
   },
   {
     "materials": [
