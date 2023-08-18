@@ -6038,6 +6038,17 @@
     ]
   },
   {
+    "group": "Steel scimitar",
+    "spawns": [
+      {
+        "coords": "3258,6057",
+        "isMembers": true,
+        "location": "Prifddinas - on a table in Iorwerth's Arms",
+        "name": "Steel scimitar"
+      }
+    ]
+  },
+  {
     "group": "Steel sword",
     "spawns": [
       {
