@@ -54900,6 +54900,126 @@
     "version": ""
   },
   {
+    "examineText": "Almost invisible in the snow.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9953,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Polar kebbit"
+  },
+  {
+    "examineText": "One of the most common species of kebbit.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9954,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Common kebbit"
+  },
+  {
+    "examineText": "Just one of the many different varieties of kebbit.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9955,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Feldip weasel"
+  },
+  {
+    "examineText": "Almost invisible in the sand.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9956,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Desert devil"
+  },
+  {
+    "examineText": "Curls up into a ball to protect itself from attack.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9957,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Prickly kebbit"
+  },
+  {
+    "examineText": "It uses its tail to hunt and skewer fish.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9958,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Barb-tailed kebbit"
+  },
+  {
+    "examineText": "Now that's a big overbite.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9959,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Sabre-toothed kebbit"
+  },
+  {
+    "examineText": "It seems to be on a permanent sugar rush.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9960,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Spotted kebbit"
+  },
+  {
+    "examineText": "Curls up into a ball to protect itself from attack.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9961,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Razor-backed kebbit"
+  },
+  {
+    "examineText": "That's a mean looking set of claws.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9962,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Wild kebbit"
+  },
+  {
+    "examineText": "Quieter than a ninja mouse in slippers.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9963,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Dark kebbit"
+  },
+  {
+    "examineText": "Now you see it, now you don't.",
+    "group": "Kebbit (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 9964,
+    "name": "Kebbit (unobtainable item)",
+    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
+    "version": "Dashing kebbit"
+  },
+  {
     "examineText": "This certainly needs cooking!",
     "group": "Raw bird meat",
     "isMembers": true,
@@ -104160,7 +104280,7 @@
     "version": ""
   },
   {
-    "examineText": "Random scribbles about some stone. They looks to be very old.",
+    "examineText": "Random scribbles about some stone. They look to be very old.",
     "group": "Research notes (A Kingdom Divided)",
     "isMembers": true,
     "isTradeable": false,
@@ -116465,7 +116585,7 @@
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28260,
-    "name": "Blood ancient sceptre",
+    "name": "Blood ancient sceptre (l)",
     "url": "https://oldschool.runescape.wiki/w/Blood_ancient_sceptre",
     "version": "Normal"
   },
@@ -117011,12 +117131,12 @@
   },
   {
     "examineText": "A mysterious icon.",
-    "group": "Strange icon (Desert Treasure II - The Fallen Empire)",
+    "group": "Strange icon (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28360,
     "name": "Strange icon",
-    "url": "https://oldschool.runescape.wiki/w/Strange_icon_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Strange_icon_(Desert_Treasure_II)",
     "version": ""
   },
   {
@@ -117231,12 +117351,12 @@
   },
   {
     "examineText": "A strange potion.",
-    "group": "Strange potion (Desert Treasure II - The Fallen Empire)",
+    "group": "Strange potion (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28383,
     "name": "Strange potion",
-    "url": "https://oldschool.runescape.wiki/w/Strange_potion_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Strange_potion_(Desert_Treasure_II)",
     "version": ""
   },
   {
@@ -117291,32 +117411,32 @@
   },
   {
     "examineText": "A very old key.",
-    "group": "Temple key (Desert Treasure II - The Fallen Empire)",
+    "group": "Temple key (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28389,
     "name": "Temple key",
-    "url": "https://oldschool.runescape.wiki/w/Temple_key_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Temple_key_(Desert_Treasure_II)",
     "version": ""
   },
   {
     "examineText": "Seems pretty sturdy!",
-    "group": "Barricade (Desert Treasure II - The Fallen Empire)",
+    "group": "Barricade (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28390,
     "name": "Barricade",
-    "url": "https://oldschool.runescape.wiki/w/Barricade_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Barricade_(Desert_Treasure_II)",
     "version": ""
   },
   {
     "examineText": "A small satchel of explosives.",
-    "group": "Satchel (Desert Treasure II - The Fallen Empire)",
+    "group": "Satchel (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28392,
     "name": "Satchel",
-    "url": "https://oldschool.runescape.wiki/w/Satchel_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Satchel_(Desert_Treasure_II)",
     "version": ""
   },
   {
@@ -117411,12 +117531,12 @@
   },
   {
     "examineText": "An empty cell for storing runic energy.",
-    "group": "Uncharged cell (Desert Treasure II - The Fallen Empire)",
+    "group": "Uncharged cell (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28402,
     "name": "Uncharged cell",
-    "url": "https://oldschool.runescape.wiki/w/Uncharged_cell_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Uncharged_cell_(Desert_Treasure_II)",
     "version": ""
   },
   {
@@ -117471,12 +117591,12 @@
   },
   {
     "examineText": "I could use this to pick a lock.",
-    "group": "Hair clip (Desert Treasure II - The Fallen Empire)",
+    "group": "Hair clip (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28408,
     "name": "Hair clip",
-    "url": "https://oldschool.runescape.wiki/w/Hair_clip_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Hair_clip_(Desert_Treasure_II)",
     "version": ""
   },
   {
@@ -117511,62 +117631,62 @@
   },
   {
     "examineText": "A dangerous looking knife.",
-    "group": "Knife (Desert Treasure II - The Fallen Empire)",
+    "group": "Knife (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28413,
     "name": "Knife",
-    "url": "https://oldschool.runescape.wiki/w/Knife_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Knife_(Desert_Treasure_II)",
     "version": ""
   },
   {
     "examineText": "Good for detailed crafting.",
-    "group": "Chisel (Desert Treasure II - The Fallen Empire)",
+    "group": "Chisel (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28414,
     "name": "Chisel",
-    "url": "https://oldschool.runescape.wiki/w/Chisel_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Chisel_(Desert_Treasure_II)",
     "version": ""
   },
   {
     "examineText": "For picking tough locks.",
-    "group": "Lockpick (Desert Treasure II - The Fallen Empire)",
+    "group": "Lockpick (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28415,
     "name": "Lockpick",
-    "url": "https://oldschool.runescape.wiki/w/Lockpick_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Lockpick_(Desert_Treasure_II)",
     "version": ""
   },
   {
     "examineText": "An old key with a sapphire attached.",
-    "group": "Sapphire key (Desert Treasure II - The Fallen Empire)",
+    "group": "Sapphire key (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28416,
     "name": "Sapphire key",
-    "url": "https://oldschool.runescape.wiki/w/Sapphire_key_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Sapphire_key_(Desert_Treasure_II)",
     "version": ""
   },
   {
     "examineText": "An old key with an emerald attached.",
-    "group": "Emerald key (Desert Treasure II - The Fallen Empire)",
+    "group": "Emerald key (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28417,
     "name": "Emerald key",
-    "url": "https://oldschool.runescape.wiki/w/Emerald_key_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Emerald_key_(Desert_Treasure_II)",
     "version": ""
   },
   {
     "examineText": "An old key with a ruby attached.",
-    "group": "Ruby key (Desert Treasure II - The Fallen Empire)",
+    "group": "Ruby key (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28418,
     "name": "Ruby key",
-    "url": "https://oldschool.runescape.wiki/w/Ruby_key_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Ruby_key_(Desert_Treasure_II)",
     "version": ""
   },
   {
@@ -117801,12 +117921,12 @@
   },
   {
     "examineText": "Best keep this away from naked flames.",
-    "group": "Gunpowder (Desert Treasure II - The Fallen Empire)",
+    "group": "Gunpowder (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28442,
     "name": "Gunpowder",
-    "url": "https://oldschool.runescape.wiki/w/Gunpowder_(Desert_Treasure_II_-_The_Fallen_Empire)",
+    "url": "https://oldschool.runescape.wiki/w/Gunpowder_(Desert_Treasure_II)",
     "version": ""
   },
   {
@@ -118098,5 +118218,45 @@
     "name": "Stink bomb",
     "url": "https://oldschool.runescape.wiki/w/Stink_bomb",
     "version": ""
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of blood magic.",
+    "group": "Blood ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28473,
+    "name": "Blood ancient sceptre (l)",
+    "url": "https://oldschool.runescape.wiki/w/Blood_ancient_sceptre",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of ice magic.",
+    "group": "Ice ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28474,
+    "name": "Ice ancient sceptre (l)",
+    "url": "https://oldschool.runescape.wiki/w/Ice_ancient_sceptre",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of smoke magic.",
+    "group": "Smoke ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28475,
+    "name": "Smoke ancient sceptre (l)",
+    "url": "https://oldschool.runescape.wiki/w/Smoke_ancient_sceptre",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A very old and powerful stick, enhanced with the power of shadow magic.",
+    "group": "Shadow ancient sceptre",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28476,
+    "name": "Shadow ancient sceptre (l)",
+    "url": "https://oldschool.runescape.wiki/w/Shadow_ancient_sceptre",
+    "version": "Locked"
   }
 ]
