@@ -118258,5 +118258,495 @@
     "name": "Shadow ancient sceptre (l)",
     "url": "https://oldschool.runescape.wiki/w/Shadow_ancient_sceptre",
     "version": "Locked"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of sustenance",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28477,
+    "name": "Sigil of sustenance",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_sustenance",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of the hunter",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28477,
+    "name": "Sigil of the hunter",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_hunter",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of sustenance",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28478,
+    "name": "Sigil of sustenance",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_sustenance",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of the hunter",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28478,
+    "name": "Sigil of the hunter",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_hunter",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of hoarding",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28480,
+    "name": "Sigil of sustenance",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_hoarding",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of hoarding",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28481,
+    "name": "Sigil of sustenance",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_hoarding",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of the alchemaniac",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28483,
+    "name": "Sigil of the alchemaniac",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_alchemaniac",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of the alchemaniac",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28484,
+    "name": "Sigil of the alchemaniac",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_alchemaniac",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of resistance",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28489,
+    "name": "Sigil of resistance",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_resistance",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of resistance",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28490,
+    "name": "Sigil of resistance",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_resistance",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of agile fortune",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28492,
+    "name": "Sigil of agile fortune",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_agile_fortune",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of agile fortune",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28493,
+    "name": "Sigil of agile fortune",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_agile_fortune",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of the food master",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28495,
+    "name": "Sigil of the food master",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_food_master",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of the food master",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28496,
+    "name": "Sigil of the food master",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_food_master",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of the well-fed",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28498,
+    "name": "Sigil of the well-fed",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_well-fed",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of the well-fed",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28499,
+    "name": "Sigil of the well-fed",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_well-fed",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of the infernal chef",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28501,
+    "name": "Sigil of the infernal chef",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_infernal_chef",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of the infernal chef",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28502,
+    "name": "Sigil of the infernal chef",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_infernal_chef",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of the infernal smith",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28504,
+    "name": "Sigil of the infernal smith",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_infernal_smith",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of the infernal smith",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28505,
+    "name": "Sigil of the infernal smith",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_infernal_smith",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of the lightbearer",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28507,
+    "name": "Sigil of the lightbearer",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_lightbearer",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of the lightbearer",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28508,
+    "name": "Sigil of the lightbearer",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_lightbearer",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of the bloodhound",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28510,
+    "name": "Sigil of the bloodhound",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_bloodhound",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of the bloodhound",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28511,
+    "name": "Sigil of the bloodhound",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_bloodhound",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of precision",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28513,
+    "name": "Sigil of precision",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_precision",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of precision",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28514,
+    "name": "Sigil of precision",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_precision",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of the augmented thrall",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28516,
+    "name": "Sigil of the augmented thrall",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_augmented_thrall",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of the augmented thrall",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28517,
+    "name": "Sigil of the augmented thrall",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_augmented_thrall",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of faith",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28519,
+    "name": "Sigil of faith",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_faith",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of faith",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28520,
+    "name": "Sigil of faith",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_faith",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of titanium",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28522,
+    "name": "Sigil of titanium",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_titanium",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of titanium",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28523,
+    "name": "Sigil of titanium",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_titanium",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of the ninja",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28525,
+    "name": "Sigil of the ninja",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_ninja",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of the ninja",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28526,
+    "name": "Sigil of the ninja",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_ninja",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of woodcraft",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28528,
+    "name": "Sigil of woodcraft",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_woodcraft",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of woodcraft",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28529,
+    "name": "Sigil of woodcraft",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_woodcraft",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A truly fearsome weapon.",
+    "group": "Corrupted voidwaker",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28531,
+    "name": "Corrupted voidwaker",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_voidwaker",
+    "version": ""
+  },
+  {
+    "examineText": "A set of fighting claws.",
+    "group": "Corrupted dragon claws",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28534,
+    "name": "Corrupted dragon claws",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_dragon_claws",
+    "version": ""
+  },
+  {
+    "examineText": "A beautiful, heavy sword.",
+    "group": "Corrupted armadyl godsword",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28537,
+    "name": "Corrupted armadyl godsword",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_armadyl_godsword",
+    "version": ""
+  },
+  {
+    "examineText": "A mystical bow carved from the twisted remains of the Great Olm.",
+    "group": "Corrupted twisted bow",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28537,
+    "name": "Corrupted twisted bow",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_twisted_bow",
+    "version": ""
+  },
+  {
+    "examineText": "A powerful scythe.",
+    "group": "Corrupted scythe of vitur",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28543,
+    "name": "Corrupted scythe of vitur",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_scythe_of_vitur",
+    "version": "Charged"
+  },
+  {
+    "examineText": "A powerful scythe. It is currently uncharged.",
+    "group": "Corrupted scythe of vitur",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28545,
+    "name": "Corrupted scythe of vitur (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_scythe_of_vitur",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "An ancient staff created using a higher power.",
+    "group": "Corrupted tumeken's shadow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28547,
+    "name": "Corrupted tumeken's shadow",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_tumeken%27s_shadow",
+    "version": "Charged"
+  },
+  {
+    "examineText": "An ancient staff created using a higher power.",
+    "group": "Corrupted tumeken's shadow",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28549,
+    "name": "Corrupted tumeken's shadow (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_tumeken%27s_shadow",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "",
+    "group": "Quest lamp",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28551,
+    "name": "Quest lamp",
+    "url": "https://oldschool.runescape.wiki/w/Quest_lamp",
+    "version": ""
+  },
+  {
+    "examineText": "A magic rock! This one casts the Vengeance spell.",
+    "group": "Trinket of vengeance",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28561,
+    "name": "Trinket of vengeance",
+    "url": "https://oldschool.runescape.wiki/w/Trinket_of_vengeance",
+    "version": ""
+  },
+  {
+    "examineText": "A magic rock! This one smells funny and lets you teleport.",
+    "group": "Trinket of fairies",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28564,
+    "name": "Trinket of fairies",
+    "url": "https://oldschool.runescape.wiki/w/Trinket_of_fairies",
+    "version": ""
+  },
+  {
+    "examineText": "A magic rock! This one gives you a random blighted weapon instead.",
+    "group": "Trinket of advanced weaponry",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28567,
+    "name": "Trinket of advanced weaponry",
+    "url": "https://oldschool.runescape.wiki/w/Trinket_of_advanced_weaponry",
+    "version": ""
+  },
+  {
+    "examineText": "A magic rock! This one gives you random thralls.",
+    "group": "Trinket of undead",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28570,
+    "name": "Trinket of undead",
+    "url": "https://oldschool.runescape.wiki/w/Trinket_of_undead",
+    "version": ""
   }
 ]
