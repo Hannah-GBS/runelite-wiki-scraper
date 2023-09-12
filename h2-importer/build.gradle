@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.notenoughrunes'
+version = '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.slf4j', name: 'slf4j-api', version: '1.7.32'
+    implementation group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.25'
+    
+    compileOnly group: 'org.projectlombok', name: 'lombok', version: '1.18.20'
+    annotationProcessor group: 'org.projectlombok', name: 'lombok', version: '1.18.20'
+    
+    implementation group: 'com.google.code.findbugs', name: 'jsr305', version: '3.0.2'
+
+    // try to make these match the versions in rl/plugin hub
+    implementation group: 'com.h2database', name: 'h2', version: '2.1.212'
+    implementation group: 'com.google.code.gson', name: 'gson', version: '2.8.5'
+}
+
+application {
+    mainClass = 'com.notenoughrunes.H2Importer'
+}
+
+sourceCompatibility = JavaVersion.VERSION_11
+targetCompatibility = JavaVersion.VERSION_11

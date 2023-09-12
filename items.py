@@ -96,7 +96,7 @@ def get_shop_items():
 
                 shop_item = {
                     "name": store_line_data["name"],
-                    "version": version,
+                    "version": version if version else None,
                     "stock": store_line_data["stock"],
                     "currency": store_table_data["currency"] if "currency" in store_table_data else "Coins"
                 }
@@ -238,7 +238,7 @@ def get_item_info():
                 obj = {
                     "name": base["name"],
                     "group": name,
-                    "version": base["version"] if "version" in base else "",
+                    "version": base["version"] if "version" in base else None,
                     "isMembers": True if base["members"] == "Yes" else False,
                     "isTradeable": True if base["tradeable"] == "Yes" else False,
                     "examineText": re.sub(regex, "", base["examine"]) if "examine" in base and "Clue scroll" not in base["name"] else "",
