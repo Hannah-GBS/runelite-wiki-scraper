@@ -1,5 +1,6 @@
 package com.notenoughrunes;
 
+import com.notenoughrunes.model.NERInfoItem;
 import com.notenoughrunes.steps.CreateTables;
 import com.notenoughrunes.steps.ImportItems;
 import com.notenoughrunes.steps.ImportProductions;
@@ -12,10 +13,14 @@ import java.nio.file.Files;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.commons.text.similarity.LevenshteinDistance;
 
 @Slf4j
 @RequiredArgsConstructor
@@ -81,6 +86,24 @@ public class H2Importer
 		}
 		
 		return sb.toString();
+	}
+
+	public static int getItemId(Set<NERInfoItem> items, String itemName, String version) {
+		Set<NERInfoItem> matchedItems = items.stream()
+			.filter(item -> item.getName().contains(itemName) || itemName.contains(item.getName())
+			|| item.getGroup().contains(itemName) || itemName.contains(item.getGroup()))
+			.collect(Collectors.toSet());
+
+		return matchedItems.stream()
+			.min(compareNameAndGroup(itemName, version))
+			.orElse(new NERInfoItem("null item", "", "", "", "", 0, false, false))
+			.getItemID();
+	}
+
+	private static Comparator<NERInfoItem> compareNameAndGroup(String itemName, String version) {
+		return Comparator.comparing((NERInfoItem item) -> new LevenshteinDistance().apply(item.getName(), itemName))
+			.thenComparing(item -> new LevenshteinDistance().apply(item.getGroup(), itemName))
+			.thenComparing(item -> new LevenshteinDistance().apply(item.getVersion() != null ? item.getVersion() : "", version != null ? version : ""));
 	}
 
 }

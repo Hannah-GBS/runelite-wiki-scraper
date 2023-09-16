@@ -143,7 +143,10 @@ def ask_category_drop_sources(category_name: str) -> Dict[str, object]:
             code = mw.parse(page, skip_style_tags=True)
 
             for (vid, version) in util.each_version("Infobox Item", code):
-                items.append(version["name"].strip())
+                if "name" in version:
+                    items.append(version["name"].strip())
+                else:
+                    continue
 
 
         except (KeyboardInterrupt, SystemExit):

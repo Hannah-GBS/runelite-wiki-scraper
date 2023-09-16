@@ -1,5 +1,7 @@
 package com.notenoughrunes.steps;
 
+import com.notenoughrunes.H2Importer;
+import com.notenoughrunes.model.NERInfoItem;
 import com.notenoughrunes.model.NERProductionMaterial;
 import com.notenoughrunes.model.NERProductionRecipe;
 import com.notenoughrunes.model.NERProductionSkill;
@@ -16,21 +18,23 @@ public class ImportProductions implements ImportStep
 
 	//language=SQL
 	private static final String INSERT_RECIPE =
-		"INSERT INTO PRODUCTION_RECIPES (TICKS, FACILITIES, TOOLS, IS_MEMBERS, OUTPUT_ITEM_NAME, OUTPUT_ITEM_VERSION, OUTPUT_QUANTITY, OUTPUT_QUANTITY_NOTE, OUTPUT_SUBTEXT) VALUES (" +
+		"INSERT INTO PRODUCTION_RECIPES (TICKS, FACILITIES, TOOLS, IS_MEMBERS, OUTPUT_ITEM_NAME, OUTPUT_ITEM_VERSION, OUTPUT_ITEM_ID, OUTPUT_QUANTITY, OUTPUT_QUANTITY_NOTE, OUTPUT_SUBTEXT) VALUES (" +
 			"?," + // 1 ticks
 			"?," + // 2 facilities
 			"?," + // 3 tools
 			"?," + // 4 is_members
 			"?," + // 5 item_name
 			"?," + // 6 item_version
-			"?," + // 7 quantity
-			"?," + // 8 quantity_note
-			"?" + // 9 subtext
+			"?," + // 7 item_id
+			"?," + // 8 quantity
+			"?," + // 9 quantity_note
+			"?" + // 10 subtext
 			")";
 	
 	//language=SQL
 	private static final String INSERT_MATERIAL =
-		"INSERT INTO PRODUCTION_MATERIALS (RECIPE_ID, ITEM_NAME, ITEM_VERSION, QUANTITY) VALUES (" +
+		"INSERT INTO PRODUCTION_MATERIALS (RECIPE_ID, ITEM_NAME, ITEM_VERSION, ITEM_ID, QUANTITY) VALUES (" +
+			"?," +
 			"?," +
 			"?," +
 			"?," +
@@ -51,13 +55,14 @@ public class ImportProductions implements ImportStep
 	public void run(Connection db) throws Exception
 	{
 		Set<NERProductionRecipe> recipes = ReadJsonFiles.getItemProductionData();
+		Set<NERInfoItem> infoItems = ReadJsonFiles.getItemInfoData();
 		
 		for (NERProductionRecipe recipe : recipes)
 		{
 			int recipeId;
 			try (PreparedStatement ps = db.prepareStatement(INSERT_RECIPE, Statement.RETURN_GENERATED_KEYS))
 			{
-				writeRecipe(recipe, ps);
+				writeRecipe(recipe, ps, infoItems);
 				ps.executeUpdate();
 
 				ResultSet rs = ps.getGeneratedKeys();
@@ -74,7 +79,7 @@ public class ImportProductions implements ImportStep
 			{
 				for (NERProductionMaterial material : recipe.getMaterials())
 				{
-					writeMaterial(recipeId, material, ps);
+					writeMaterial(recipeId, material, ps, infoItems);
 					ps.addBatch();
 				}
 				
@@ -94,7 +99,7 @@ public class ImportProductions implements ImportStep
 		}
 	}
 	
-	private void writeRecipe(NERProductionRecipe recipe, PreparedStatement ps) throws Exception
+	private void writeRecipe(NERProductionRecipe recipe, PreparedStatement ps, Set<NERInfoItem> items) throws Exception
 	{
 		int ix = 1;
 		ps.setString(ix++, recipe.getTicks());
@@ -103,17 +108,19 @@ public class ImportProductions implements ImportStep
 		ps.setBoolean(ix++, recipe.isMembers());
 		ps.setString(ix++, recipe.getOutput().getName());
 		ps.setString(ix++, recipe.getOutput().getVersion());
+		ps.setInt(ix++, H2Importer.getItemId(items, recipe.getOutput().getName(), recipe.getOutput().getVersion()));
 		ps.setString(ix++, recipe.getOutput().getQuantity());
 		ps.setString(ix++, recipe.getOutput().getQuantityNote());
 		ps.setString(ix++, recipe.getOutput().getSubtext());
 	}
 	
-	private void writeMaterial(int recipeId, NERProductionMaterial material, PreparedStatement ps) throws Exception
+	private void writeMaterial(int recipeId, NERProductionMaterial material, PreparedStatement ps, Set<NERInfoItem> items) throws Exception
 	{
 		int ix = 1;
 		ps.setInt(ix++, recipeId);
 		ps.setString(ix++, material.getName());
 		ps.setString(ix++, material.getVersion());
+		ps.setInt(ix++, H2Importer.getItemId(items, material.getName(), material.getVersion()));
 		ps.setString(ix++, material.getQuantity());
 	}
 	

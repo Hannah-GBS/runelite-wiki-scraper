@@ -230,7 +230,7 @@ def get_item_info():
                 for param, value in version.items():
                     base[param.strip()] = value.strip()
 
-                if "hist" in base["id"] or "beta" in base["id"] or base["name"].lower() == "null":
+                if "hist" in base["id"] or "beta" in base["id"] or ("name" in base and base["name"].lower() == "null") or base["id"] == "":
                     continue
 
                 item_id = int(base["id"].split(",")[0])

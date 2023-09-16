@@ -1,5 +1,7 @@
 package com.notenoughrunes.steps;
 
+import com.notenoughrunes.H2Importer;
+import com.notenoughrunes.model.NERInfoItem;
 import com.notenoughrunes.model.NERShop;
 import com.notenoughrunes.model.NERShopItem;
 import java.sql.Connection;
@@ -25,7 +27,8 @@ public class ImportShops implements ImportStep
 
 	//language=SQL
 	private static final String INSERT_SHOP_ITEM =
-		"INSERT INTO SHOP_ITEMS (ITEM_NAME, ITEM_VERSION, SHOP_ID, CURRENCY, STOCK, BUY_PRICE, SELL_PRICE) VALUES (" +
+		"INSERT INTO SHOP_ITEMS (ITEM_NAME, ITEM_VERSION, ITEM_ID, SHOP_ID, CURRENCY, STOCK, BUY_PRICE, SELL_PRICE) VALUES (" +
+			"?," +
 			"?," +
 			"?," +
 			"?," +
@@ -39,6 +42,8 @@ public class ImportShops implements ImportStep
 	public void run(Connection db) throws Exception
 	{
 		Set<NERShop> shops = ReadJsonFiles.getItemShopData();
+		Set<NERInfoItem> infoItems = ReadJsonFiles.getItemInfoData();
+
 		for (NERShop shop : shops)
 		{
 			int shopId;
@@ -56,7 +61,7 @@ public class ImportShops implements ImportStep
 			{
 				for (NERShopItem item : shop.getItems())
 				{
-					writeShopItem(item, shopId, ps);
+					writeShopItem(item, shopId, ps, infoItems);
 					ps.addBatch();
 				}
 
@@ -74,11 +79,12 @@ public class ImportShops implements ImportStep
 		ps.setBoolean(ix++, shop.isMembers());
 	}
 
-	private void writeShopItem(NERShopItem item, int shopId, PreparedStatement ps) throws SQLException
+	private void writeShopItem(NERShopItem item, int shopId, PreparedStatement ps, Set<NERInfoItem> items) throws SQLException
 	{
 		int ix = 1;
 		ps.setString(ix++, item.getName());
 		ps.setString(ix++, item.getVersion());
+		ps.setInt(ix++, H2Importer.getItemId(items, item.getName(), item.getVersion()));
 		ps.setInt(ix++, shopId);
 		ps.setString(ix++, item.getCurrency());
 		ps.setString(ix++, item.getStock());
