@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - master
+      - sqlite
 
 jobs:
   build:
@@ -30,42 +31,25 @@ jobs:
     - name: Scrape wiki
       run: |
         pipenv run python main.py
-        mv output/checksums output/checksums.bak
-        mv output/items-drop-sources.json output/items-drop-sources.json.bak
-        mv output/items-drop-sources.min.json output/items-drop-sources.min.json.bak
-        mv output/items-info.json output/items-info.json.bak
-        mv output/items-info.min.json output/items-info.min.json.bak
-        mv output/items-production.json output/items-production.json.bak
-        mv output/items-production.min.json output/items-production.min.json.bak
-        mv output/items-shopitems.json output/items-shopitems.json.bak
-        mv output/items-shopitems.min.json output/items-shopitems.min.json.bak
-        mv output/items-spawns.json output/items-spawns.json.bak
-        mv output/items-spawns.min.json output/items-spawns.min.json.bak
     - name: Run h2-importer
       run: |
         pushd h2-importer
-          ./gradlew run --args="../output ../output/data.h2"
+          ./gradlew run --args="../output ../output/data.sqlite"
         popd
     - name: Generate H2 checksum
       run: |
-        sha256sum ./output/data.h2.mv.db > ./output/data.h2.mv.db.sha256.bak
-        mv ./output/data.h2.mv.db ./output/data.h2.mv.db.bak
+        sha256sum ./output/data.sqlite | cut -d " " -f 1 > ./output/data.sqlite.sha256
     - name: Copy to target branch
       run: |
-        git checkout --force wiki-data
-        mv output/checksums.bak output/checksums
-        mv output/items-drop-sources.json.bak output/items-drop-sources.json
-        mv output/items-drop-sources.min.json.bak output/items-drop-sources.min.json
-        mv output/items-info.json.bak output/items-info.json
-        mv output/items-info.min.json.bak output/items-info.min.json
-        mv output/items-production.json.bak output/items-production.json
-        mv output/items-production.min.json.bak output/items-production.min.json
-        mv output/items-shopitems.json.bak output/items-shopitems.json
-        mv output/items-shopitems.min.json.bak output/items-shopitems.min.json
-        mv output/items-spawns.json.bak output/items-spawns.json
-        mv output/items-spawns.min.json.bak output/items-spawns.min.json
-        mv ./output/data.h2.mv.db.bak ./output/data.h2.mv.db
-        mv ./output/data.h2.mv.db.sha256.bak ./output/data.h2.mv.db.sha256
+        git config user.name temp
+        git config user.email temp@temp.com
+        git checkout -b wiki-data-temp
+        git add ./output
+        git commit -m "temp data"
+        git checkout wiki-data
+        git checkout --force wiki-data-temp ./output
+        git config --unset user.name
+        git config --unset user.email
     - name: Get current date
       id: date
       run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
@@ -73,17 +57,7 @@ jobs:
       with:
         token: ${{ secrets.PAT }}
         add-paths: |
-          output/checksums
-          output/items-drop-sources.json
-          output/items-drop-sources.min.json
-          output/items-info.json
-          output/items-info.min.json
-          output/items-production.json
-          output/items-production.min.json
-          output/items-shopitems.json
-          output/items-shopitems.min.json
-          output/items-spawns.json
-          output/items-spawns.min.json
+          output/
         branch: wiki-data-${{ steps.date.outputs.date }}
         base: wiki-data
         title: Wiki scrape data ${{ steps.date.outputs.date }}
