@@ -18,6 +18,11 @@ jobs:
     - uses: actions/setup-python@v4
       with:
         python-version: '3.9'
+    - uses: actions/setup-java@v3
+      with:
+        distribution: temurin
+        java-version: 11
+    - uses: gradle/gradle-build-action@v2
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pipenv
@@ -36,6 +41,15 @@ jobs:
         mv output/items-shopitems.min.json output/items-shopitems.min.json.bak
         mv output/items-spawns.json output/items-spawns.json.bak
         mv output/items-spawns.min.json output/items-spawns.min.json.bak
+    - name: Run h2-importer
+      run: |
+        pushd h2-importer
+          ./gradlew run --args="../output ../output/data.h2"
+        popd
+    - name: Generate H2 checksum
+      run: |
+        sha256sum ./output/data.h2.mv.db > ./output/data.h2.mv.db.sha256.bak
+        mv ./output/data.h2.mv.db ./output/data.h2.mv.db.bak
     - name: Copy to target branch
       run: |
         git checkout --force wiki-data
@@ -50,6 +64,8 @@ jobs:
         mv output/items-shopitems.min.json.bak output/items-shopitems.min.json
         mv output/items-spawns.json.bak output/items-spawns.json
         mv output/items-spawns.min.json.bak output/items-spawns.min.json
+        mv ./output/data.h2.mv.db.bak ./output/data.h2.mv.db
+        mv ./output/data.h2.mv.db.sha256.bak ./output/data.h2.mv.db.sha256
     - name: Get current date
       id: date
       run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
