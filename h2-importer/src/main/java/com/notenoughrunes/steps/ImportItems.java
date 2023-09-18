@@ -15,20 +15,21 @@ public class ImportItems implements ImportStep
 
 	//language=SQL
 	private static final String INSERT_ITEM_GROUP =
-		"INSERT INTO ITEM_GROUPS (NAME) VALUES (?)";
+		"INSERT INTO ITEM_GROUPS (NAME) VALUES (?);";
 
 	//language=SQL
 	private static final String INSERT_ITEM =
-		"INSERT INTO ITEMS (ID, NAME, EXAMINE_TEXT, GROUP_ID, VERSION, URL, IS_MEMBERS, IS_TRADEABLE) VALUES (" +
+		"INSERT INTO ITEMS (ID, NAME, EXAMINE_TEXT, GROUP_ID, VERSION, URL, IS_MEMBERS, IS_TRADEABLE, SEARCH_NAME) VALUES (" +
 			"?," +
 			"?," +
 			"?," +
-			"SELECT ID FROM ITEM_GROUPS WHERE NAME = ?," +
+			"(SELECT ID FROM ITEM_GROUPS WHERE NAME = ?)," +
+			"?," +
 			"?," +
 			"?," +
 			"?," +
 			"?" +
-			")";
+			");";
 
 	@Override
 	public void run(Connection db) throws Exception
@@ -48,6 +49,7 @@ public class ImportItems implements ImportStep
 
 			stmt.executeBatch();
 		}
+		db.commit();
 
 		Map<Integer, String> seenIds = new HashMap<>();
 		try (PreparedStatement stmt = db.prepareStatement(INSERT_ITEM))
@@ -71,12 +73,14 @@ public class ImportItems implements ImportStep
 				stmt.setString(ix++, item.getUrl());
 				stmt.setBoolean(ix++, item.isMembers());
 				stmt.setBoolean(ix++, item.isTradeable());
+				stmt.setString(ix++, item.getName().toLowerCase());
 				stmt.addBatch();
 				seenIds.put(item.getItemID(), item.getName());
 			}
 
 			stmt.executeBatch();
 		}
+		db.commit();
 	}
 
 }

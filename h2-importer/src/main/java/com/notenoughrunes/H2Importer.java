@@ -12,6 +12,10 @@ import java.io.File;
 import java.nio.file.Files;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.time.Duration;
+import java.time.Instant;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
@@ -26,6 +30,8 @@ import org.apache.commons.text.similarity.LevenshteinDistance;
 @RequiredArgsConstructor
 public class H2Importer
 {
+
+	public static final String SELECT_LAST = "SELECT last_insert_rowid()";
 	
 	@Getter
 	private static File inputDir;
@@ -53,37 +59,39 @@ public class H2Importer
 		}
 
 		String outputPath = new File(args[1]).getAbsolutePath();
-		File outputFile = new File(outputPath + ".mv.db"); // h2 add .mv.db suffix
+		File outputFile = new File(outputPath);
 		if (outputFile.exists())
 		{
 			log.warn("Output file {} already exists, overwriting...", outputFile);
 			Files.delete(outputFile.toPath());
 		}
 
-		Connection dbConn = DriverManager.getConnection(
-			buildConnectionString(
-				outputPath,
-				"TRACE_LEVEL_SYSTEM_OUT=1", // ERROR
-				"TRACE_LEVEL_FILE=0", // OFF
-				"MODE=MYSQL"
-			)
-		);
-
-		for (ImportStep step : STEPS)
+		try (Connection dbConn = DriverManager.getConnection(
+			buildConnectionString(outputPath)
+		))
 		{
-			step.run(dbConn);
+			dbConn.setAutoCommit(false);
+			for (ImportStep step : STEPS)
+			{
+				String stepName = step.getClass().getSimpleName();
+				log.info("[{}] Start", stepName);
+				Instant start = Instant.now();
+				step.run(dbConn);
+				Duration elapsed = Duration.between(start, Instant.now());
+				log.info("[{}] Complete ({})", stepName, elapsed);
+			}
 		}
 	}
 	
 	private static String buildConnectionString(String fileName, String... parameters) 
 	{
-		StringBuilder sb = new StringBuilder("jdbc:h2:file:");
+		StringBuilder sb = new StringBuilder("jdbc:sqlite:");
 		sb.append(fileName);
 		
-		for (String p : parameters) {
-			sb.append(';');
-			sb.append(p);
-		}
+//		for (String p : parameters) {
+//			sb.append(';');
+//			sb.append(p);
+//		}
 		
 		return sb.toString();
 	}
@@ -104,6 +112,21 @@ public class H2Importer
 		return Comparator.comparing((NERInfoItem item) -> new LevenshteinDistance().apply(item.getName(), itemName))
 			.thenComparing(item -> new LevenshteinDistance().apply(item.getGroup(), itemName))
 			.thenComparing(item -> new LevenshteinDistance().apply(item.getVersion() != null ? item.getVersion() : "", version != null ? version : ""));
+	}
+
+	public static int getLast(Connection db) throws Exception
+	{
+		try (PreparedStatement ps = db.prepareStatement(SELECT_LAST))
+		{
+			ResultSet rs = ps.executeQuery();
+			rs.first();
+			return rs.getInt(1);
+		}
+		catch (Exception e)
+		{
+			log.error("select last failed");
+			throw e;
+		}
 	}
 
 }

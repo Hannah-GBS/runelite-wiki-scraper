@@ -53,6 +53,7 @@ public class ImportSpawnsDrops implements ImportStep
 
 			ps.executeBatch();
 		}
+		db.commit();
 
 		Set<NERDropItem> drops = ReadJsonFiles.getItemDropData();
 		try (PreparedStatement ps = db.prepareStatement(INSERT_DROP))
@@ -68,6 +69,7 @@ public class ImportSpawnsDrops implements ImportStep
 
 			ps.executeBatch();
 		}
+		db.commit();
 	}
 
 	private void writeSpawn(NERSpawnItem spawn, String group, PreparedStatement ps) throws SQLException

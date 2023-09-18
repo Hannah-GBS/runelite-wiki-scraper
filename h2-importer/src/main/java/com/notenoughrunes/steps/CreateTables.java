@@ -18,7 +18,8 @@ public class CreateTables implements ImportStep
 
 		try (Statement stmt = db.createStatement())
 		{
-			stmt.execute(createTablesSql);
+			stmt.executeUpdate(createTablesSql);
 		}
+		db.commit();
 	}
 }

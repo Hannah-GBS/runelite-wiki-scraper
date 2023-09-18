@@ -1,6 +1,8 @@
 package com.notenoughrunes.steps;
 
 import com.notenoughrunes.H2Importer;
+import static com.notenoughrunes.H2Importer.SELECT_LAST;
+import static com.notenoughrunes.H2Importer.getLast;
 import com.notenoughrunes.model.NERInfoItem;
 import com.notenoughrunes.model.NERProductionMaterial;
 import com.notenoughrunes.model.NERProductionRecipe;
@@ -29,7 +31,7 @@ public class ImportProductions implements ImportStep
 			"?," + // 8 quantity
 			"?," + // 9 quantity_note
 			"?" + // 10 subtext
-			")";
+			") RETURNING ID";
 	
 	//language=SQL
 	private static final String INSERT_MATERIAL =
@@ -56,25 +58,23 @@ public class ImportProductions implements ImportStep
 	{
 		Set<NERProductionRecipe> recipes = ReadJsonFiles.getItemProductionData();
 		Set<NERInfoItem> infoItems = ReadJsonFiles.getItemInfoData();
-		
+
 		for (NERProductionRecipe recipe : recipes)
 		{
 			int recipeId;
-			try (PreparedStatement ps = db.prepareStatement(INSERT_RECIPE, Statement.RETURN_GENERATED_KEYS))
+			try (PreparedStatement ps = db.prepareStatement(INSERT_RECIPE))
 			{
 				writeRecipe(recipe, ps, infoItems);
-				ps.executeUpdate();
-
-				ResultSet rs = ps.getGeneratedKeys();
-				rs.first();
-				recipeId = rs.getInt("ID");
+				ResultSet rs = ps.executeQuery();
+				rs.next();
+				recipeId = rs.getInt(1);
 			}
 			catch (Exception e)
 			{
 				log.error("recipe insert failed for {}", recipe);
 				throw e;
 			}
-			
+
 			try (PreparedStatement ps = db.prepareStatement(INSERT_MATERIAL))
 			{
 				for (NERProductionMaterial material : recipe.getMaterials())
@@ -85,7 +85,7 @@ public class ImportProductions implements ImportStep
 				
 				ps.executeBatch();
 			}
-			
+
 			try (PreparedStatement ps = db.prepareStatement(INSERT_SKILL))
 			{
 				for (NERProductionSkill material : recipe.getSkills())
@@ -97,6 +97,7 @@ public class ImportProductions implements ImportStep
 				ps.executeBatch();
 			}
 		}
+		db.commit();
 	}
 	
 	private void writeRecipe(NERProductionRecipe recipe, PreparedStatement ps, Set<NERInfoItem> items) throws Exception

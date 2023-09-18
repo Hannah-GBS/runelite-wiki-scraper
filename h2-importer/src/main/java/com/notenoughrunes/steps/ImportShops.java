@@ -1,6 +1,7 @@
 package com.notenoughrunes.steps;
 
 import com.notenoughrunes.H2Importer;
+import static com.notenoughrunes.H2Importer.getLast;
 import com.notenoughrunes.model.NERInfoItem;
 import com.notenoughrunes.model.NERShop;
 import com.notenoughrunes.model.NERShopItem;
@@ -23,7 +24,7 @@ public class ImportShops implements ImportStep
 			"?," +
 			"?," +
 			"?" +
-			")";
+			") RETURNING ID";
 
 	//language=SQL
 	private static final String INSERT_SHOP_ITEM =
@@ -50,11 +51,9 @@ public class ImportShops implements ImportStep
 			try (PreparedStatement ps = db.prepareStatement(INSERT_SHOP, Statement.RETURN_GENERATED_KEYS))
 			{
 				writeShop(shop, ps);
-				ps.executeUpdate();
-
-				ResultSet rs = ps.getGeneratedKeys();
-				rs.first();
-				shopId = rs.getInt("ID");
+				ResultSet rs = ps.executeQuery();
+				rs.next();
+				shopId = rs.getInt(1);
 			}
 
 			try (PreparedStatement ps = db.prepareStatement(INSERT_SHOP_ITEM))
@@ -68,6 +67,7 @@ public class ImportShops implements ImportStep
 				ps.executeBatch();
 			}
 		}
+		db.commit();
 	}
 
 	private void writeShop(NERShop shop, PreparedStatement ps) throws SQLException
