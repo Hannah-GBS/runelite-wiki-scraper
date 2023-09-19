@@ -275,6 +275,12 @@
         "name": "Beer glass"
       },
       {
+        "coords": "2563, 2867",
+        "isMembers": false,
+        "location": "Corsair Cove (1st floor)",
+        "name": "Beer glass"
+      },
+      {
         "coords": "1643,3628",
         "isMembers": true,
         "location": "Hosidius - Mess hall",
@@ -290,6 +296,12 @@
         "coords": "3238, 6119",
         "isMembers": true,
         "location": "Prifddinas - Hefin Inn",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "1531,3638",
+        "isMembers": true,
+        "location": "Shayzien Encampment",
         "name": "Beer glass"
       }
     ]
@@ -3529,7 +3541,7 @@
         "name": "Iron bar"
       },
       {
-        "coords": "2176,3429",
+        "coords": "2169,3430",
         "isMembers": true,
         "location": "Mynydd",
         "name": "Iron bar"
@@ -3609,7 +3621,7 @@
     "group": "Iron knife",
     "spawns": [
       {
-        "coords": "2176,3429",
+        "coords": "2170,3432",
         "isMembers": true,
         "location": "Mynydd summit",
         "name": "Iron Knife"
