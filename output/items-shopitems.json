@@ -17324,14 +17324,6 @@
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Blighted bind sack",
-        "sellPrice": "1",
-        "stock": "\u221e",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
         "name": "Blighted entangle sack",
         "sellPrice": "1",
         "stock": "\u221e",
@@ -17349,14 +17341,6 @@
         "buyPrice": "N/A",
         "currency": "Points",
         "name": "Blighted manta ray",
-        "sellPrice": "1",
-        "stock": "\u221e",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
-        "name": "Blighted snare sack",
         "sellPrice": "1",
         "stock": "\u221e",
         "version": null
@@ -22522,6 +22506,101 @@
     "name": "Nigel"
   },
   {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Zeal Tokens",
+        "name": "Blighted ancient ice sack",
+        "sellPrice": "10",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Zeal Tokens",
+        "name": "Blighted anglerfish",
+        "sellPrice": "10",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Zeal Tokens",
+        "name": "Blighted entangle sack",
+        "sellPrice": "10",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Zeal Tokens",
+        "name": "Blighted karambwan",
+        "sellPrice": "10",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Zeal Tokens",
+        "name": "Blighted manta ray",
+        "sellPrice": "10",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Zeal Tokens",
+        "name": "Blighted super restore(4)",
+        "sellPrice": "10",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Zeal Tokens",
+        "name": "Blighted teleport spell sack",
+        "sellPrice": "10",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Zeal Tokens",
+        "name": "Blighted vengeance sack",
+        "sellPrice": "10",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Zeal Tokens",
+        "name": "Ectoplasmator",
+        "sellPrice": "250",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Zeal Tokens",
+        "name": "Soul cape",
+        "sellPrice": "2500",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Zeal Tokens",
+        "name": "Spoils of war",
+        "sellPrice": "30",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Isle of Souls",
+    "name": "Nomad"
+  },
+  {
     "buyMultiplier": "600",
     "isMembers": false,
     "items": [
@@ -24312,14 +24391,6 @@
         "buyPrice": "N/A",
         "currency": "Points",
         "name": "Blighted surge sack",
-        "sellPrice": "10",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Points",
-        "name": "Blighted wave sack",
         "sellPrice": "10",
         "stock": "inf",
         "version": null
@@ -27543,14 +27614,6 @@
       {
         "buyPrice": "N/A",
         "currency": "Zeal Tokens",
-        "name": "Blighted bind sack",
-        "sellPrice": "10",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
         "name": "Blighted entangle sack",
         "sellPrice": "10",
         "stock": "inf",
@@ -27568,14 +27631,6 @@
         "buyPrice": "N/A",
         "currency": "Zeal Tokens",
         "name": "Blighted manta ray",
-        "sellPrice": "10",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Blighted snare sack",
         "sellPrice": "10",
         "stock": "inf",
         "version": null
