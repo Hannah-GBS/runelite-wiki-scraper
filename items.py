@@ -4,7 +4,8 @@ import os
 import re
 import traceback
 from operator import itemgetter
-from typing import Dict
+from typing import Dict, List
+from mwparserfromhell.nodes import Template
 
 import api
 import mwparserfromhell as mw
@@ -55,12 +56,12 @@ def get_shop_items():
             continue
 
         try:
-            items = []
             code = mw.parse(page, skip_style_tags=True)
             store_infobox = code.filter_templates(matches=lambda t: t.name.matches("Infobox Shop"))
 
             if len(store_infobox) < 1:
                 store_infobox = code.filter_templates(matches=lambda t: t.name.matches("Infobox NPC"))
+                code.filter_templates()
                 if len(store_infobox) < 1:
                     continue
 
@@ -68,58 +69,75 @@ def get_shop_items():
             for param in store_infobox[0].params:
                 infobox_data[param.name.strip()] = param.value.strip()
 
-            store_table_head = code.filter_templates(matches=lambda t: t.name.matches("StoreTableHead"))
-            store_lines = code.filter_templates(matches=lambda t: t.name.matches("StoreLine"))
-            if len(store_table_head) < 1 or len(store_lines) < 1:
+            raw_page_stores: List[Template] = code.filter_templates(matches=lambda t: t.name.matches("StoreTableHead") or t.name.matches("StoreLine"))
+            page_stores= []
+            current_store_table = []
+            for index, item in enumerate(raw_page_stores):
+                if item.name == "StoreTableHead":
+                    if index != 0:
+                        page_stores.append(current_store_table)
+                        current_store_table = []
+                    else:
+                        current_store_table = []
+                current_store_table.append(item)
+            page_stores.append(current_store_table)
+
+            if len(page_stores) < 1 or page_stores[0] == []:
                 continue
 
-            store_table_data: Dict[str, str] = {}
-            for param in store_table_head[0].params:
-                store_table_data[param.name.strip()] = param.value.strip()
+            for page_store in page_stores:
+                items = []
+                store_table_data: Dict[str, str] = {}
+                for param in page_store[0].params:
+                    store_table_data[param.name.strip()] = param.value.strip()
 
-            if "smw" in store_table_data:
-                if store_table_data["smw"].lower() == "no":
-                    continue
-
-            for store_line in store_lines:
-                store_line_data: Dict[str, str] = {}
-                for param in store_line.params:
-                    store_line_data[param.name.strip()] = param.value.strip()
-                if "smw" in store_line_data:
-                    if store_line_data["smw"].lower() == "no":
+                if "smw" in store_table_data:
+                    if store_table_data["smw"].lower() == "no":
                         continue
 
-                version = ""
+                for store_line in page_store:
+                    if store_line.name == "StoreTableHead":
+                        continue
 
-                if "smwname" in store_line_data and "#" in store_line_data["smwname"]:
-                    version = store_line_data["smwname"].split("#")[1]
+                    store_line_data: Dict[str, str] = {}
+                    for param in store_line.params:
+                        store_line_data[param.name.strip()] = param.value.strip()
+                    if "smw" in store_line_data:
+                        if store_line_data["smw"].lower() == "no":
+                            continue
 
-                shop_item = {
-                    "name": store_line_data["name"],
-                    "version": version if version else None,
-                    "stock": store_line_data["stock"],
-                    "currency": store_table_data["currency"] if "currency" in store_table_data else "Coins"
+                    version = ""
+
+                    if "smwname" in store_line_data and "#" in store_line_data["smwname"]:
+                        version = store_line_data["smwname"].split("#")[1]
+
+
+                    shop_item = {
+                        "name": store_line_data["name"],
+                        "version": version if version else None,
+                        "stock": store_line_data["stock"],
+                        "currency": store_table_data["currency"] if "currency" in store_table_data else "Coins"
+                    }
+                    if "sell" in store_line_data:
+                        shop_item["sellPrice"] = store_line_data["sell"]
+                    if "buy" in store_line_data:
+                        shop_item["buyPrice"] = store_line_data["buy"]
+                    items.append(shop_item)
+
+                sorted_items = sorted(items, key=itemgetter("name"))
+
+                shop_info = {
+                    "name": name + " " + store_table_data["namenotes"] if "namenotes" in store_table_data else name,
+                    "location": format_location(infobox_data["location"]) if "location" in infobox_data else "",
+                    "isMembers": True if ("members" in infobox_data and infobox_data["members"] == "Yes") else False,
+                    "items": sorted_items
                 }
-                if "sell" in store_line_data:
-                    shop_item["sellPrice"] = store_line_data["sell"]
-                if "buy" in store_line_data:
-                    shop_item["buyPrice"] = store_line_data["buy"]
-                items.append(shop_item)
+                if "sellmultiplier" in store_table_data:
+                    shop_info["sellMultiplier"] = store_table_data["sellmultiplier"]
+                if "buymultiplier" in store_table_data:
+                    shop_info["buyMultiplier"] = store_table_data["buymultiplier"]
 
-            sorted_items = sorted(items, key=itemgetter("name"))
-
-            shop_info = {
-                "name": name,
-                "location": format_location(infobox_data["location"]) if "location" in infobox_data else "",
-                "isMembers": True if ("members" in infobox_data and infobox_data["members"] == "Yes") else False,
-                "items": sorted_items
-            }
-            if "sellmultiplier" in store_table_data:
-                shop_info["sellMultiplier"] = store_table_data["sellmultiplier"]
-            if "buymultiplier" in store_table_data:
-                shop_info["buyMultiplier"] = store_table_data["buymultiplier"]
-
-            shop_items.append(shop_info)
+                shop_items.append(shop_info)
 
         except (KeyboardInterrupt, SystemExit):
             raise
@@ -236,7 +254,7 @@ def get_item_info():
                 item_id = int(base["id"].split(",")[0])
 
                 obj = {
-                    "name": base["name"],
+                    "name": base["name"] if "name" in base else name,
                     "group": name,
                     "version": base["version"] if "version" in base else None,
                     "isMembers": True if base["members"] == "Yes" else False,
