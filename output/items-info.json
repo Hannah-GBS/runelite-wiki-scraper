@@ -88391,12 +88391,12 @@
   },
   {
     "examineText": "It's a cyan crystal.",
-    "group": "Cyan crystal (Tale of the Righteous)",
+    "group": "Cyan crystal (Tale of the Righteous, interface item)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 22366,
     "name": "Cyan crystal",
-    "url": "https://oldschool.runescape.wiki/w/Cyan_crystal_(Tale_of_the_Righteous)",
+    "url": "https://oldschool.runescape.wiki/w/Cyan_crystal_(Tale_of_the_Righteous,_interface_item)",
     "version": null
   },
   {
@@ -116451,12 +116451,12 @@
   },
   {
     "examineText": "A bigger axe handle.",
-    "group": "Axe handle",
+    "group": "Felling axe handle",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 28177,
-    "name": "Axe handle",
-    "url": "https://oldschool.runescape.wiki/w/Axe_handle",
+    "name": "Felling axe handle",
+    "url": "https://oldschool.runescape.wiki/w/Felling_axe_handle",
     "version": null
   },
   {
@@ -116608,6 +116608,26 @@
     "name": "Dragon 2h axe",
     "url": "https://oldschool.runescape.wiki/w/Dragon_2h_axe",
     "version": null
+  },
+  {
+    "examineText": "A woodcutter's axe.",
+    "group": "Crystal 2h axe",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 28220,
+    "name": "Crystal 2h axe",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_2h_axe",
+    "version": "Active"
+  },
+  {
+    "examineText": "A woodcutter's axe.",
+    "group": "Crystal 2h axe",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 28223,
+    "name": "Crystal 2h axe",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_2h_axe",
+    "version": "Inactive"
   },
   {
     "examineText": "A beautifully crafted axe, shaped by ancient smiths.",
@@ -119053,7 +119073,7 @@
     "examineText": "A magical warped weapon.",
     "group": "Warped sceptre",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 28585,
     "name": "Warped sceptre",
     "url": "https://oldschool.runescape.wiki/w/Warped_sceptre",
