@@ -117981,12 +117981,12 @@
   },
   {
     "examineText": "Some very old rations.",
-    "group": "Rations",
+    "group": "Rations (Desert Treasure II)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28422,
     "name": "Rations",
-    "url": "https://oldschool.runescape.wiki/w/Rations",
+    "url": "https://oldschool.runescape.wiki/w/Rations_(Desert_Treasure_II)",
     "version": null
   },
   {
@@ -119118,5 +119118,55 @@
     "name": "Magic lamp (magic)",
     "url": "https://oldschool.runescape.wiki/w/Magic_lamp_(The_Path_of_Glouphrie)",
     "version": "Magic"
+  },
+  {
+    "examineText": "An amalgamation of abyssal tissue, fluids and pure essence.",
+    "group": "Tainted essence chunk",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28591,
+    "name": "Tainted essence chunk",
+    "url": "https://oldschool.runescape.wiki/w/Tainted_essence_chunk",
+    "version": null
+  },
+  {
+    "examineText": "An abyssal extract amplifying the creation of air, water, earth, fire, mind and body runes.",
+    "group": "Warped extract",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28593,
+    "name": "Warped extract",
+    "url": "https://oldschool.runescape.wiki/w/Warped_extract",
+    "version": null
+  },
+  {
+    "examineText": "An abyssal extract amplifying the creation of chaos, cosmic and combination runes.",
+    "group": "Twisted extract",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28595,
+    "name": "Twisted extract",
+    "url": "https://oldschool.runescape.wiki/w/Twisted_extract",
+    "version": null
+  },
+  {
+    "examineText": "An abyssal extract amplifying the creation of nature, law, astral and death runes.",
+    "group": "Mangled extract",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28597,
+    "name": "Mangled extract",
+    "url": "https://oldschool.runescape.wiki/w/Mangled_extract",
+    "version": null
+  },
+  {
+    "examineText": "An abyssal extract amplifying the creation of blood, soul and wrath runes.",
+    "group": "Scarred extract",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28599,
+    "name": "Scarred extract",
+    "url": "https://oldschool.runescape.wiki/w/Scarred_extract",
+    "version": null
   }
 ]

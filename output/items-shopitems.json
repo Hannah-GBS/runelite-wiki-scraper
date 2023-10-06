@@ -20198,6 +20198,30 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Ava's accumulator",
+        "sellPrice": "7000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Ava's assembler",
+        "sellPrice": "7000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Ava's attractor",
+        "sellPrice": "7000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Barrelchest anchor",
         "sellPrice": "290000",
         "stock": "inf",
@@ -20246,6 +20270,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Book of the dead",
+        "sellPrice": "9500",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Book of war",
         "sellPrice": "14000",
         "stock": "inf",
@@ -20264,6 +20296,14 @@
         "currency": "Coins",
         "name": "Cape of legends",
         "sellPrice": "1900",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Chronicle",
+        "sellPrice": "500",
         "stock": "inf",
         "version": null
       },
@@ -20392,6 +20432,14 @@
         "currency": "Coins",
         "name": "Holy book",
         "sellPrice": "12000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Ivandis flail",
+        "sellPrice": "30000",
         "stock": "inf",
         "version": null
       },
@@ -23002,101 +23050,6 @@
     ],
     "location": "Lumbridge graveyard",
     "name": "Nigel"
-  },
-  {
-    "isMembers": true,
-    "items": [
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Blighted ancient ice sack",
-        "sellPrice": "10",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Blighted anglerfish",
-        "sellPrice": "10",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Blighted entangle sack",
-        "sellPrice": "10",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Blighted karambwan",
-        "sellPrice": "10",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Blighted manta ray",
-        "sellPrice": "10",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Blighted super restore(4)",
-        "sellPrice": "10",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Blighted teleport spell sack",
-        "sellPrice": "10",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Blighted vengeance sack",
-        "sellPrice": "10",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Ectoplasmator",
-        "sellPrice": "250",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Soul cape",
-        "sellPrice": "2500",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Zeal Tokens",
-        "name": "Spoils of war",
-        "sellPrice": "30",
-        "stock": "inf",
-        "version": null
-      }
-    ],
-    "location": "Isle of Souls",
-    "name": "Nomad"
   },
   {
     "buyMultiplier": "600",
