@@ -3401,6 +3401,29 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Beer",
+        "sellPrice": "2",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Stew",
+        "sellPrice": "20",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Keldagrim east",
+    "name": "Barmaid"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Cocktail shaker",
         "sellPrice": "20",
         "stock": "inf",

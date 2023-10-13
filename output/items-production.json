@@ -8712,7 +8712,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">110,423,860</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">117,468,082</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -8732,38 +8732,22 @@
     "ticks": "5"
   },
   {
-    "facilities": "Singing bowl",
     "materials": [
       {
-        "name": "Enhanced crystal weapon seed",
+        "name": "Blade of saeldor (c)",
         "quantity": "1"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "1000"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
-      "name": "Blade of saeldor (c)",
-      "quantity": "1"
+      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
     },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "8"
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -8781,7 +8765,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
       "name": "Blade of saeldor (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Upgrade"
     },
     "skills": [
       {
@@ -8800,6 +8785,41 @@
     "ticks": "3"
   },
   {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Enhanced crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1",
+      "subtxt": "Full process"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "8"
+  },
+  {
     "materials": [
       {
         "name": "Blade of saeldor (c) (Amlodd)",
@@ -8814,7 +8834,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
       "name": "Blade of saeldor (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -8834,7 +8855,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
       "name": "Blade of saeldor (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -8854,7 +8876,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
       "name": "Blade of saeldor (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -8874,7 +8897,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
       "name": "Blade of saeldor (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -8894,7 +8918,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
       "name": "Blade of saeldor (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -8914,7 +8939,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
       "name": "Blade of saeldor (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -8934,7 +8960,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
       "name": "Blade of saeldor (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -8974,7 +9001,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
       "name": "Blade of saeldor (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -8994,7 +9022,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
       "name": "Blade of saeldor (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -9014,7 +9043,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
       "name": "Blade of saeldor (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -9034,7 +9064,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
       "name": "Blade of saeldor (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -9054,7 +9085,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
       "name": "Blade of saeldor (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -9074,7 +9106,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Amlodd).png|link=Blade of saeldor (c) (Amlodd)]]",
       "name": "Blade of saeldor (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -9114,7 +9147,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
       "name": "Blade of saeldor (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -9134,7 +9168,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
       "name": "Blade of saeldor (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -9154,7 +9189,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
       "name": "Blade of saeldor (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -9174,7 +9210,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
       "name": "Blade of saeldor (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -9194,7 +9231,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
       "name": "Blade of saeldor (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -9214,7 +9252,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Cadarn).png|link=Blade of saeldor (c) (Cadarn)]]",
       "name": "Blade of saeldor (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -9254,7 +9293,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
       "name": "Blade of saeldor (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -9274,7 +9314,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
       "name": "Blade of saeldor (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -9294,7 +9335,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
       "name": "Blade of saeldor (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -9314,7 +9356,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
       "name": "Blade of saeldor (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -9334,7 +9377,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
       "name": "Blade of saeldor (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -9354,7 +9398,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Crwys).png|link=Blade of saeldor (c) (Crwys)]]",
       "name": "Blade of saeldor (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -9394,7 +9439,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
       "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -9414,7 +9460,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
       "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -9434,7 +9481,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
       "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -9454,7 +9502,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
       "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -9474,7 +9523,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
       "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -9494,7 +9544,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Iorwerth).png|link=Blade of saeldor (c) (Iorwerth)]]",
       "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -9534,7 +9585,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
       "name": "Blade of saeldor (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -9554,7 +9606,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
       "name": "Blade of saeldor (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -9574,7 +9627,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
       "name": "Blade of saeldor (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -9594,7 +9648,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
       "name": "Blade of saeldor (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -9614,7 +9669,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
       "name": "Blade of saeldor (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -9634,7 +9690,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Ithell).png|link=Blade of saeldor (c) (Ithell)]]",
       "name": "Blade of saeldor (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -9674,7 +9731,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
       "name": "Blade of saeldor (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -9694,7 +9752,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
       "name": "Blade of saeldor (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -9714,7 +9773,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
       "name": "Blade of saeldor (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -9734,7 +9794,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
       "name": "Blade of saeldor (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -9754,7 +9815,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
       "name": "Blade of saeldor (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -9774,7 +9836,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Meilyr).png|link=Blade of saeldor (c) (Meilyr)]]",
       "name": "Blade of saeldor (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -9814,7 +9877,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
       "name": "Blade of saeldor (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -9834,7 +9898,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
       "name": "Blade of saeldor (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -9854,7 +9919,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
       "name": "Blade of saeldor (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -9874,7 +9940,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
       "name": "Blade of saeldor (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -9894,7 +9961,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
       "name": "Blade of saeldor (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -9914,7 +9982,8 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Trahaearn).png|link=Blade of saeldor (c) (Trahaearn)]]",
       "name": "Blade of saeldor (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -12274,7 +12343,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">115,284,581</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">115,769,778</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -12294,38 +12363,22 @@
     "ticks": "5"
   },
   {
-    "facilities": "Singing bowl",
     "materials": [
       {
-        "name": "Enhanced crystal weapon seed",
+        "name": "Bow of faerdhinen (c)",
         "quantity": "1"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "2000"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
-      "name": "Bow of faerdhinen (c)",
-      "quantity": "1"
+      "image": "[[File:Bow of faerdhinen (inactive).png|link=Bow of faerdhinen#(inactive)]]",
+      "name": "Bow of faerdhinen",
+      "quantity": "1",
+      "txt": "Bow of faerdhinen (inactive)",
+      "version": "(inactive)"
     },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "5"
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -12343,7 +12396,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
       "name": "Bow of faerdhinen (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Upgrade"
     },
     "skills": [
       {
@@ -12362,6 +12416,41 @@
     "ticks": "3"
   },
   {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Enhanced crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "2000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1",
+      "subtxt": "Full process"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "5"
+  },
+  {
     "materials": [
       {
         "name": "Bow of faerdhinen (c) (Amlodd)",
@@ -12376,7 +12465,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
       "name": "Bow of faerdhinen (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -12396,7 +12486,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
       "name": "Bow of faerdhinen (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -12416,7 +12507,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
       "name": "Bow of faerdhinen (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -12436,7 +12528,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
       "name": "Bow of faerdhinen (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -12456,7 +12549,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
       "name": "Bow of faerdhinen (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -12476,7 +12570,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
       "name": "Bow of faerdhinen (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -12496,7 +12591,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c).png|link=Bow of faerdhinen (c)]]",
       "name": "Bow of faerdhinen (c)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -12536,7 +12632,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
       "name": "Bow of faerdhinen (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -12556,7 +12653,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
       "name": "Bow of faerdhinen (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -12576,7 +12674,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
       "name": "Bow of faerdhinen (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -12596,7 +12695,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
       "name": "Bow of faerdhinen (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -12616,7 +12716,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
       "name": "Bow of faerdhinen (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -12636,7 +12737,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|link=Bow of faerdhinen (c) (Amlodd)]]",
       "name": "Bow of faerdhinen (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -12676,7 +12778,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
       "name": "Bow of faerdhinen (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -12696,7 +12799,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
       "name": "Bow of faerdhinen (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -12716,7 +12820,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
       "name": "Bow of faerdhinen (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -12736,7 +12841,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
       "name": "Bow of faerdhinen (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -12756,7 +12862,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
       "name": "Bow of faerdhinen (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -12776,7 +12883,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|link=Bow of faerdhinen (c) (Cadarn)]]",
       "name": "Bow of faerdhinen (c) (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -12816,7 +12924,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
       "name": "Bow of faerdhinen (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -12836,7 +12945,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
       "name": "Bow of faerdhinen (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -12856,7 +12966,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
       "name": "Bow of faerdhinen (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -12876,7 +12987,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
       "name": "Bow of faerdhinen (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -12896,7 +13008,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
       "name": "Bow of faerdhinen (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -12916,7 +13029,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Crwys).png|link=Bow of faerdhinen (c) (Crwys)]]",
       "name": "Bow of faerdhinen (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -12956,7 +13070,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
       "name": "Bow of faerdhinen (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -12976,7 +13091,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
       "name": "Bow of faerdhinen (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -12996,7 +13112,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
       "name": "Bow of faerdhinen (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -13016,7 +13133,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
       "name": "Bow of faerdhinen (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -13036,7 +13154,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
       "name": "Bow of faerdhinen (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -13056,7 +13175,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|link=Bow of faerdhinen (c) (Iorwerth)]]",
       "name": "Bow of faerdhinen (c) (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -13096,7 +13216,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
       "name": "Bow of faerdhinen (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -13116,7 +13237,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
       "name": "Bow of faerdhinen (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -13136,7 +13258,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
       "name": "Bow of faerdhinen (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -13156,7 +13279,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
       "name": "Bow of faerdhinen (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -13176,7 +13300,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
       "name": "Bow of faerdhinen (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -13196,7 +13321,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Ithell).png|link=Bow of faerdhinen (c) (Ithell)]]",
       "name": "Bow of faerdhinen (c) (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -13236,7 +13362,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
       "name": "Bow of faerdhinen (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -13256,7 +13383,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
       "name": "Bow of faerdhinen (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -13276,7 +13404,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
       "name": "Bow of faerdhinen (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -13296,7 +13425,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
       "name": "Bow of faerdhinen (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -13316,7 +13446,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
       "name": "Bow of faerdhinen (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -13336,7 +13467,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|link=Bow of faerdhinen (c) (Meilyr)]]",
       "name": "Bow of faerdhinen (c) (Meilyr)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -13376,7 +13508,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
       "name": "Bow of faerdhinen (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -13396,7 +13529,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
       "name": "Bow of faerdhinen (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -13416,7 +13550,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
       "name": "Bow of faerdhinen (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -13436,7 +13571,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
       "name": "Bow of faerdhinen (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -13456,7 +13592,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
       "name": "Bow of faerdhinen (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -13476,7 +13613,8 @@
     "output": {
       "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|link=Bow of faerdhinen (c) (Trahaearn)]]",
       "name": "Bow of faerdhinen (c) (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -21375,7 +21513,8 @@
     "output": {
       "image": "[[File:Crystal body.png|link=Crystal body]]",
       "name": "Crystal body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Creation"
     },
     "skills": [
       {
@@ -21408,7 +21547,8 @@
     "output": {
       "image": "[[File:Crystal body.png|link=Crystal body]]",
       "name": "Crystal body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -21428,7 +21568,8 @@
     "output": {
       "image": "[[File:Crystal body.png|link=Crystal body]]",
       "name": "Crystal body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -21448,7 +21589,8 @@
     "output": {
       "image": "[[File:Crystal body.png|link=Crystal body]]",
       "name": "Crystal body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -21468,7 +21610,8 @@
     "output": {
       "image": "[[File:Crystal body.png|link=Crystal body]]",
       "name": "Crystal body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -21488,7 +21631,8 @@
     "output": {
       "image": "[[File:Crystal body.png|link=Crystal body]]",
       "name": "Crystal body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -21508,7 +21652,8 @@
     "output": {
       "image": "[[File:Crystal body.png|link=Crystal body]]",
       "name": "Crystal body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -21528,7 +21673,8 @@
     "output": {
       "image": "[[File:Crystal body.png|link=Crystal body]]",
       "name": "Crystal body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -21568,7 +21714,8 @@
     "output": {
       "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
       "name": "Crystal body (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -21588,7 +21735,8 @@
     "output": {
       "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
       "name": "Crystal body (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -21608,7 +21756,8 @@
     "output": {
       "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
       "name": "Crystal body (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -21628,7 +21777,8 @@
     "output": {
       "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
       "name": "Crystal body (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -21648,7 +21798,8 @@
     "output": {
       "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
       "name": "Crystal body (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -21668,7 +21819,8 @@
     "output": {
       "image": "[[File:Crystal body (Amlodd).png|link=Crystal body (Amlodd)]]",
       "name": "Crystal body (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -21708,7 +21860,8 @@
     "output": {
       "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
       "name": "Crystal body (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -21728,7 +21881,8 @@
     "output": {
       "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
       "name": "Crystal body (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -21748,7 +21902,8 @@
     "output": {
       "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
       "name": "Crystal body (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -21768,7 +21923,8 @@
     "output": {
       "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
       "name": "Crystal body (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -21788,7 +21944,8 @@
     "output": {
       "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
       "name": "Crystal body (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -21808,7 +21965,8 @@
     "output": {
       "image": "[[File:Crystal body (Cadarn).png|link=Crystal body (Cadarn)]]",
       "name": "Crystal body (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -21848,7 +22006,8 @@
     "output": {
       "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
       "name": "Crystal body (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -21868,7 +22027,8 @@
     "output": {
       "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
       "name": "Crystal body (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -21888,7 +22048,8 @@
     "output": {
       "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
       "name": "Crystal body (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -21908,7 +22069,8 @@
     "output": {
       "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
       "name": "Crystal body (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -21928,7 +22090,8 @@
     "output": {
       "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
       "name": "Crystal body (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -21948,7 +22111,8 @@
     "output": {
       "image": "[[File:Crystal body (Crwys).png|link=Crystal body (Crwys)]]",
       "name": "Crystal body (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -21988,7 +22152,8 @@
     "output": {
       "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
       "name": "Crystal body (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -22008,7 +22173,8 @@
     "output": {
       "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
       "name": "Crystal body (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -22028,7 +22194,8 @@
     "output": {
       "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
       "name": "Crystal body (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -22048,7 +22215,8 @@
     "output": {
       "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
       "name": "Crystal body (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -22068,7 +22236,8 @@
     "output": {
       "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
       "name": "Crystal body (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -22088,7 +22257,8 @@
     "output": {
       "image": "[[File:Crystal body (Hefin).png|link=Crystal body (Hefin)]]",
       "name": "Crystal body (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -22128,7 +22298,8 @@
     "output": {
       "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
       "name": "Crystal body (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -22148,7 +22319,8 @@
     "output": {
       "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
       "name": "Crystal body (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -22168,7 +22340,8 @@
     "output": {
       "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
       "name": "Crystal body (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -22188,7 +22361,8 @@
     "output": {
       "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
       "name": "Crystal body (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -22208,7 +22382,8 @@
     "output": {
       "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
       "name": "Crystal body (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -22228,7 +22403,8 @@
     "output": {
       "image": "[[File:Crystal body (Iorwerth).png|link=Crystal body (Iorwerth)]]",
       "name": "Crystal body (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -22268,7 +22444,8 @@
     "output": {
       "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
       "name": "Crystal body (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -22288,7 +22465,8 @@
     "output": {
       "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
       "name": "Crystal body (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -22308,7 +22486,8 @@
     "output": {
       "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
       "name": "Crystal body (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -22328,7 +22507,8 @@
     "output": {
       "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
       "name": "Crystal body (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -22348,7 +22528,8 @@
     "output": {
       "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
       "name": "Crystal body (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -22368,7 +22549,8 @@
     "output": {
       "image": "[[File:Crystal body (Ithell).png|link=Crystal body (Ithell)]]",
       "name": "Crystal body (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -22408,7 +22590,8 @@
     "output": {
       "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
       "name": "Crystal body (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -22428,7 +22611,8 @@
     "output": {
       "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
       "name": "Crystal body (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -22448,7 +22632,8 @@
     "output": {
       "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
       "name": "Crystal body (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -22468,7 +22653,8 @@
     "output": {
       "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
       "name": "Crystal body (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -22488,7 +22674,8 @@
     "output": {
       "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
       "name": "Crystal body (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -22508,7 +22695,8 @@
     "output": {
       "image": "[[File:Crystal body (Trahaearn).png|link=Crystal body (Trahaearn)]]",
       "name": "Crystal body (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -24166,7 +24354,8 @@
     "output": {
       "image": "[[File:Crystal helm.png|link=Crystal helm]]",
       "name": "Crystal helm",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Creation"
     },
     "skills": [
       {
@@ -24199,7 +24388,8 @@
     "output": {
       "image": "[[File:Crystal helm.png|link=Crystal helm]]",
       "name": "Crystal helm",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -24219,7 +24409,8 @@
     "output": {
       "image": "[[File:Crystal helm.png|link=Crystal helm]]",
       "name": "Crystal helm",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -24239,7 +24430,8 @@
     "output": {
       "image": "[[File:Crystal helm.png|link=Crystal helm]]",
       "name": "Crystal helm",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -24259,7 +24451,8 @@
     "output": {
       "image": "[[File:Crystal helm.png|link=Crystal helm]]",
       "name": "Crystal helm",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -24279,7 +24472,8 @@
     "output": {
       "image": "[[File:Crystal helm.png|link=Crystal helm]]",
       "name": "Crystal helm",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -24299,7 +24493,8 @@
     "output": {
       "image": "[[File:Crystal helm.png|link=Crystal helm]]",
       "name": "Crystal helm",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -24319,7 +24514,8 @@
     "output": {
       "image": "[[File:Crystal helm.png|link=Crystal helm]]",
       "name": "Crystal helm",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -24359,7 +24555,8 @@
     "output": {
       "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
       "name": "Crystal helm (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -24379,7 +24576,8 @@
     "output": {
       "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
       "name": "Crystal helm (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -24399,7 +24597,8 @@
     "output": {
       "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
       "name": "Crystal helm (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -24419,7 +24618,8 @@
     "output": {
       "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
       "name": "Crystal helm (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -24439,7 +24639,8 @@
     "output": {
       "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
       "name": "Crystal helm (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -24459,7 +24660,8 @@
     "output": {
       "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
       "name": "Crystal helm (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -24499,7 +24701,8 @@
     "output": {
       "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
       "name": "Crystal helm (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -24519,7 +24722,8 @@
     "output": {
       "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
       "name": "Crystal helm (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -24539,7 +24743,8 @@
     "output": {
       "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
       "name": "Crystal helm (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -24559,7 +24764,8 @@
     "output": {
       "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
       "name": "Crystal helm (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -24579,7 +24785,8 @@
     "output": {
       "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
       "name": "Crystal helm (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -24599,7 +24806,8 @@
     "output": {
       "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
       "name": "Crystal helm (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -24639,7 +24847,8 @@
     "output": {
       "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
       "name": "Crystal helm (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -24659,7 +24868,8 @@
     "output": {
       "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
       "name": "Crystal helm (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -24679,7 +24889,8 @@
     "output": {
       "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
       "name": "Crystal helm (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -24699,7 +24910,8 @@
     "output": {
       "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
       "name": "Crystal helm (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -24719,7 +24931,8 @@
     "output": {
       "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
       "name": "Crystal helm (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -24739,7 +24952,8 @@
     "output": {
       "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
       "name": "Crystal helm (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -24779,7 +24993,8 @@
     "output": {
       "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
       "name": "Crystal helm (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -24799,7 +25014,8 @@
     "output": {
       "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
       "name": "Crystal helm (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -24819,7 +25035,8 @@
     "output": {
       "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
       "name": "Crystal helm (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -24839,7 +25056,8 @@
     "output": {
       "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
       "name": "Crystal helm (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -24859,7 +25077,8 @@
     "output": {
       "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
       "name": "Crystal helm (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -24879,7 +25098,8 @@
     "output": {
       "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
       "name": "Crystal helm (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -24919,7 +25139,8 @@
     "output": {
       "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
       "name": "Crystal helm (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -24939,7 +25160,8 @@
     "output": {
       "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
       "name": "Crystal helm (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -24959,7 +25181,8 @@
     "output": {
       "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
       "name": "Crystal helm (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -24979,7 +25202,8 @@
     "output": {
       "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
       "name": "Crystal helm (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -24999,7 +25223,8 @@
     "output": {
       "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
       "name": "Crystal helm (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -25019,7 +25244,8 @@
     "output": {
       "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
       "name": "Crystal helm (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -25059,7 +25285,8 @@
     "output": {
       "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
       "name": "Crystal helm (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -25079,7 +25306,8 @@
     "output": {
       "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
       "name": "Crystal helm (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -25099,7 +25327,8 @@
     "output": {
       "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
       "name": "Crystal helm (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -25119,7 +25348,8 @@
     "output": {
       "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
       "name": "Crystal helm (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -25139,7 +25369,8 @@
     "output": {
       "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
       "name": "Crystal helm (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -25159,7 +25390,8 @@
     "output": {
       "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
       "name": "Crystal helm (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -25199,7 +25431,8 @@
     "output": {
       "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
       "name": "Crystal helm (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -25219,7 +25452,8 @@
     "output": {
       "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
       "name": "Crystal helm (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -25239,7 +25473,8 @@
     "output": {
       "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
       "name": "Crystal helm (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -25259,7 +25494,8 @@
     "output": {
       "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
       "name": "Crystal helm (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -25279,7 +25515,8 @@
     "output": {
       "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
       "name": "Crystal helm (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -25299,7 +25536,8 @@
     "output": {
       "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
       "name": "Crystal helm (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -25474,7 +25712,8 @@
     "output": {
       "image": "[[File:Crystal legs.png|link=Crystal legs]]",
       "name": "Crystal legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Creation"
     },
     "skills": [
       {
@@ -25507,7 +25746,8 @@
     "output": {
       "image": "[[File:Crystal legs.png|link=Crystal legs]]",
       "name": "Crystal legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -25527,7 +25767,8 @@
     "output": {
       "image": "[[File:Crystal legs.png|link=Crystal legs]]",
       "name": "Crystal legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -25547,7 +25788,8 @@
     "output": {
       "image": "[[File:Crystal legs.png|link=Crystal legs]]",
       "name": "Crystal legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -25567,7 +25809,8 @@
     "output": {
       "image": "[[File:Crystal legs.png|link=Crystal legs]]",
       "name": "Crystal legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -25587,7 +25830,8 @@
     "output": {
       "image": "[[File:Crystal legs.png|link=Crystal legs]]",
       "name": "Crystal legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -25607,7 +25851,8 @@
     "output": {
       "image": "[[File:Crystal legs.png|link=Crystal legs]]",
       "name": "Crystal legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -25627,7 +25872,8 @@
     "output": {
       "image": "[[File:Crystal legs.png|link=Crystal legs]]",
       "name": "Crystal legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -25667,7 +25913,8 @@
     "output": {
       "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
       "name": "Crystal legs (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -25687,7 +25934,8 @@
     "output": {
       "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
       "name": "Crystal legs (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -25707,7 +25955,8 @@
     "output": {
       "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
       "name": "Crystal legs (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -25727,7 +25976,8 @@
     "output": {
       "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
       "name": "Crystal legs (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -25747,7 +25997,8 @@
     "output": {
       "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
       "name": "Crystal legs (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -25767,7 +26018,8 @@
     "output": {
       "image": "[[File:Crystal legs (Amlodd).png|link=Crystal legs (Amlodd)]]",
       "name": "Crystal legs (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -25807,7 +26059,8 @@
     "output": {
       "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
       "name": "Crystal legs (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -25827,7 +26080,8 @@
     "output": {
       "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
       "name": "Crystal legs (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -25847,7 +26101,8 @@
     "output": {
       "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
       "name": "Crystal legs (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -25867,7 +26122,8 @@
     "output": {
       "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
       "name": "Crystal legs (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -25887,7 +26143,8 @@
     "output": {
       "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
       "name": "Crystal legs (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -25907,7 +26164,8 @@
     "output": {
       "image": "[[File:Crystal legs (Cadarn).png|link=Crystal legs (Cadarn)]]",
       "name": "Crystal legs (Cadarn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -25947,7 +26205,8 @@
     "output": {
       "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
       "name": "Crystal legs (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -25967,7 +26226,8 @@
     "output": {
       "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
       "name": "Crystal legs (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -25987,7 +26247,8 @@
     "output": {
       "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
       "name": "Crystal legs (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -26007,7 +26268,8 @@
     "output": {
       "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
       "name": "Crystal legs (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -26027,7 +26289,8 @@
     "output": {
       "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
       "name": "Crystal legs (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -26047,7 +26310,8 @@
     "output": {
       "image": "[[File:Crystal legs (Crwys).png|link=Crystal legs (Crwys)]]",
       "name": "Crystal legs (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -26087,7 +26351,8 @@
     "output": {
       "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
       "name": "Crystal legs (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -26107,7 +26372,8 @@
     "output": {
       "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
       "name": "Crystal legs (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -26127,7 +26393,8 @@
     "output": {
       "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
       "name": "Crystal legs (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -26147,7 +26414,8 @@
     "output": {
       "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
       "name": "Crystal legs (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -26167,7 +26435,8 @@
     "output": {
       "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
       "name": "Crystal legs (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -26187,7 +26456,8 @@
     "output": {
       "image": "[[File:Crystal legs (Hefin).png|link=Crystal legs (Hefin)]]",
       "name": "Crystal legs (Hefin)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -26227,7 +26497,8 @@
     "output": {
       "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
       "name": "Crystal legs (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -26247,7 +26518,8 @@
     "output": {
       "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
       "name": "Crystal legs (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -26267,7 +26539,8 @@
     "output": {
       "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
       "name": "Crystal legs (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -26287,7 +26560,8 @@
     "output": {
       "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
       "name": "Crystal legs (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -26307,7 +26581,8 @@
     "output": {
       "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
       "name": "Crystal legs (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -26327,7 +26602,8 @@
     "output": {
       "image": "[[File:Crystal legs (Iorwerth).png|link=Crystal legs (Iorwerth)]]",
       "name": "Crystal legs (Iorwerth)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -26367,7 +26643,8 @@
     "output": {
       "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
       "name": "Crystal legs (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -26387,7 +26664,8 @@
     "output": {
       "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
       "name": "Crystal legs (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -26407,7 +26685,8 @@
     "output": {
       "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
       "name": "Crystal legs (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -26427,7 +26706,8 @@
     "output": {
       "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
       "name": "Crystal legs (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -26447,7 +26727,8 @@
     "output": {
       "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
       "name": "Crystal legs (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -26467,7 +26748,8 @@
     "output": {
       "image": "[[File:Crystal legs (Ithell).png|link=Crystal legs (Ithell)]]",
       "name": "Crystal legs (Ithell)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -26507,7 +26789,8 @@
     "output": {
       "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
       "name": "Crystal legs (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -26527,7 +26810,8 @@
     "output": {
       "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
       "name": "Crystal legs (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
     },
     "skills": [],
     "ticks": "0"
@@ -26547,7 +26831,8 @@
     "output": {
       "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
       "name": "Crystal legs (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -26567,7 +26852,8 @@
     "output": {
       "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
       "name": "Crystal legs (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
     },
     "skills": [],
     "ticks": "0"
@@ -26587,7 +26873,8 @@
     "output": {
       "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
       "name": "Crystal legs (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -26607,7 +26894,8 @@
     "output": {
       "image": "[[File:Crystal legs (Trahaearn).png|link=Crystal legs (Trahaearn)]]",
       "name": "Crystal legs (Trahaearn)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -44348,30 +44636,6 @@
   {
     "materials": [
       {
-        "name": "Raw karambwanji",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Karambwanji paste (raw).png|link=Karambwanji paste]]",
-      "name": "Karambwanji paste",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "0",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
         "name": "Karambwanji",
         "quantity": "1"
       }
@@ -44391,6 +44655,30 @@
       }
     ],
     "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw karambwanji",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Karambwanji paste (raw).png|link=Karambwanji paste]]",
+      "name": "Karambwanji paste",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "0",
     "tools": "Pestle and mortar"
   },
   {
@@ -44452,7 +44740,27 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Karamjan rum (sliced banana)",
+        "quantity": "1"
+      },
+      {
+        "name": "Banana",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Karamjan rum (banana).png|link=Karamjan rum (banana)]]",
+      "name": "Karamjan rum (banana)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -44472,7 +44780,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -59039,7 +59347,7 @@
         "name": "Herblore"
       }
     ],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "facilities": "Apothecary",
@@ -68865,7 +69173,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Sickle mould"
   },
   {
@@ -69952,7 +70260,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "1",
+    "ticks": "0",
     "tools": "Knife"
   },
   {
@@ -77327,7 +77635,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -77357,7 +77665,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -77387,7 +77695,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "facilities": "Eluned",
@@ -77476,6 +77784,34 @@
       }
     ],
     "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bruised banana",
+        "quantity": "1"
+      },
+      {
+        "name": "Old wool",
+        "quantity": "1"
+      },
+      {
+        "name": "Smelly sock",
+        "quantity": "1"
+      },
+      {
+        "name": "Spooky egg",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Terrifying charm.png|link=Terrifying charm]]",
+      "name": "Terrifying charm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Preparation Table",
@@ -81440,7 +81776,7 @@
         "name": "Herblore"
       }
     ],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -81462,12 +81798,12 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "0",
+        "experience": "10",
         "level": "14",
         "name": "Herblore"
       }
     ],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "facilities": "Water",
