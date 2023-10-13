@@ -2365,6 +2365,12 @@
         "name": "Coins"
       },
       {
+        "coords": "3371,9252",
+        "isMembers": true,
+        "location": "Scabaras Dungeon",
+        "name": "Coins"
+      },
+      {
         "coords": "1439,3590",
         "isMembers": true,
         "location": "Shayzien - Secluded Chapel",
@@ -3237,6 +3243,12 @@
         "isMembers": true,
         "location": "King Black Dragon Lair",
         "name": "Gold ring"
+      },
+      {
+        "coords": "3369,9246",
+        "isMembers": true,
+        "location": "Scabaras Dungeon",
+        "name": "Gold ring"
       }
     ]
   },
@@ -3541,6 +3553,12 @@
         "name": "Iron bar"
       },
       {
+        "coords": "2918,10327",
+        "isMembers": true,
+        "location": "Ghorrock Dungeon",
+        "name": "Iron bar"
+      },
+      {
         "coords": "2169,3430",
         "isMembers": true,
         "location": "Mynydd",
@@ -3723,9 +3741,9 @@
         "name": "Iron scimitar"
       },
       {
-        "coords": "",
+        "coords": "1098,3339",
         "isMembers": true,
-        "location": "Southwest corner of the Southwest temple in The Stranglewood (must be telegrabbed)",
+        "location": "South-west corner of the south-western temple in the Stranglewood (must be telegrabbed)",
         "name": "Iron scimitar"
       },
       {
@@ -4894,6 +4912,12 @@
         "name": "Plank"
       },
       {
+        "coords": "2915,10342",
+        "isMembers": true,
+        "location": "Ghorrock Dungeon",
+        "name": "Plank"
+      },
+      {
         "coords": "2265,2888",
         "isMembers": true,
         "location": "Isle of Souls",
@@ -5887,6 +5911,12 @@
         "coords": "1951,4964",
         "isMembers": true,
         "location": "Keldagrim - Blast Furnace",
+        "name": "Spade"
+      },
+      {
+        "coords": "3355,2758",
+        "isMembers": true,
+        "location": "Necropolis",
         "name": "Spade"
       },
       {
