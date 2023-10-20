@@ -119168,5 +119168,65 @@
     "name": "Scarred extract",
     "url": "https://oldschool.runescape.wiki/w/Scarred_extract",
     "version": null
+  },
+  {
+    "examineText": "This is made of the finest spidersilk.",
+    "group": "Cobweb cape",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28601,
+    "name": "Cobweb cape",
+    "url": "https://oldschool.runescape.wiki/w/Cobweb_cape",
+    "version": null
+  },
+  {
+    "examineText": "Provider of mental cobwebs.",
+    "group": "Spider hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28603,
+    "name": "Spider hat",
+    "url": "https://oldschool.runescape.wiki/w/Spider_hat",
+    "version": "Common"
+  },
+  {
+    "examineText": "Provider of mental cobwebs.",
+    "group": "Spider hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28605,
+    "name": "Spider hat",
+    "url": "https://oldschool.runescape.wiki/w/Spider_hat",
+    "version": "Venenatis"
+  },
+  {
+    "examineText": "Provider of mental cobwebs.",
+    "group": "Spider hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28607,
+    "name": "Spider hat",
+    "url": "https://oldschool.runescape.wiki/w/Spider_hat",
+    "version": "Verzik"
+  },
+  {
+    "examineText": "Provider of mental cobwebs.",
+    "group": "Spider hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28609,
+    "name": "Spider hat",
+    "url": "https://oldschool.runescape.wiki/w/Spider_hat",
+    "version": "Sarachnis"
+  },
+  {
+    "examineText": "Provider of mental cobwebs.",
+    "group": "Spider hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 28611,
+    "name": "Spider hat",
+    "url": "https://oldschool.runescape.wiki/w/Spider_hat",
+    "version": "Old"
   }
 ]
