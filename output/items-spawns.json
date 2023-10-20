@@ -1874,6 +1874,17 @@
     ]
   },
   {
+    "group": "Burnt bread",
+    "spawns": [
+      {
+        "coords": "1976,9077",
+        "isMembers": false,
+        "location": "Corsair Cove Resource Area",
+        "name": "Burnt bread"
+      }
+    ]
+  },
+  {
     "group": "Burnt fish (anchovies)",
     "spawns": [
       {
