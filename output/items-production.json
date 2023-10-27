@@ -82,6 +82,28 @@
     "tools": "Ring mould"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Felling axe handle",
+        "quantity": "1"
+      },
+      {
+        "name": "3rd age axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:3rd age felling axe.png|link=3rd age felling axe]]",
+      "name": "3rd age felling axe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "name": "Cupric sulfate",
@@ -849,6 +871,28 @@
       }
     ],
     "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Felling axe handle",
+        "quantity": "1"
+      },
+      {
+        "name": "Adamant axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant felling axe.png|link=Adamant felling axe]]",
+      "name": "Adamant felling axe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
     "tools": "Hammer"
   },
   {
@@ -8493,6 +8537,28 @@
     "tools": "Pestle and mortar"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Felling axe handle",
+        "quantity": "1"
+      },
+      {
+        "name": "Black axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black felling axe.png|link=Black felling axe]]",
+      "name": "Black felling axe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "name": "Goblin mail",
@@ -8697,6 +8763,24 @@
     "ticks": "3"
   },
   {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -8712,7 +8796,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">107,680,853</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">111,449,351</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -8730,24 +8814,6 @@
       }
     ],
     "ticks": "5"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -12343,7 +12409,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">109,944,792</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">109,884,983</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14685,6 +14751,28 @@
       }
     ],
     "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Felling axe handle",
+        "quantity": "1"
+      },
+      {
+        "name": "Bronze axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze felling axe.png|link=Bronze felling axe]]",
+      "name": "Bronze felling axe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
     "tools": "Hammer"
   },
   {
@@ -24164,6 +24252,28 @@
     "facilities": "Singing bowl",
     "materials": [
       {
+        "name": "Felling axe handle",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal felling axe.png|link=Crystal felling axe]]",
+      "name": "Crystal felling axe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": ""
+  },
+  {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
         "name": "Crystal weapon seed",
         "quantity": "1"
       },
@@ -30190,6 +30300,35 @@
     "ticks": "1"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Felling axe handle",
+        "quantity": "1"
+      },
+      {
+        "name": "Dragon axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon felling axe.png|link=Dragon felling axe]]",
+      "name": "Dragon felling axe",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "?",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "name": "Dragon arrow",
@@ -36091,7 +36230,7 @@
   {
     "materials": [
       {
-        "name": "Cooked meat",
+        "name": "Sardine",
         "quantity": "1"
       },
       {
@@ -36103,7 +36242,7 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "3",
+      "quantity": "2",
       "subtxt": "Leaves"
     },
     "skills": [
@@ -36125,7 +36264,7 @@
   {
     "materials": [
       {
-        "name": "Cooked meat",
+        "name": "Sardine",
         "quantity": "1"
       },
       {
@@ -36137,7 +36276,7 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "3",
+      "quantity": "4",
       "subtxt": "Oak leaves"
     },
     "skills": [
@@ -36159,7 +36298,7 @@
   {
     "materials": [
       {
-        "name": "Cooked meat",
+        "name": "Sardine",
         "quantity": "1"
       },
       {
@@ -36171,7 +36310,7 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "3",
+      "quantity": "6",
       "subtxt": "Willow leaves"
     },
     "skills": [
@@ -36193,7 +36332,7 @@
   {
     "materials": [
       {
-        "name": "Cooked meat",
+        "name": "Sardine",
         "quantity": "1"
       },
       {
@@ -36205,7 +36344,7 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "3",
+      "quantity": "8",
       "subtxt": "Maple leaves"
     },
     "skills": [
@@ -36227,7 +36366,7 @@
   {
     "materials": [
       {
-        "name": "Cooked meat",
+        "name": "Sardine",
         "quantity": "1"
       },
       {
@@ -36239,7 +36378,7 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "3",
+      "quantity": "10",
       "subtxt": "Yew leaves"
     },
     "skills": [
@@ -36261,7 +36400,7 @@
   {
     "materials": [
       {
-        "name": "Cooked meat",
+        "name": "Sardine",
         "quantity": "1"
       },
       {
@@ -36273,7 +36412,7 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "3",
+      "quantity": "12",
       "subtxt": "Magic leaves"
     },
     "skills": [
@@ -43460,6 +43599,28 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Felling axe handle",
+        "quantity": "1"
+      },
+      {
+        "name": "Iron axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron felling axe.png|link=Iron felling axe]]",
+      "name": "Iron felling axe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "name": "Iron arrow",
@@ -46658,7 +46819,7 @@
         "name": "Farming"
       }
     ],
-    "ticks": ""
+    "ticks": "3"
   },
   {
     "materials": [
@@ -50843,6 +51004,28 @@
       }
     ],
     "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Felling axe handle",
+        "quantity": "1"
+      },
+      {
+        "name": "Mithril axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril felling axe.png|link=Mithril felling axe]]",
+      "name": "Mithril felling axe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
     "tools": "Hammer"
   },
   {
@@ -56887,6 +57070,40 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Egg cushion",
+        "quantity": "1"
+      },
+      {
+        "name": "Limestone",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Padded spoon.png|link=Padded spoon]]",
+      "name": "Padded spoon",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "37.5",
+        "level": "35",
+        "name": "Mining"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "25",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Chisel"
+  },
+  {
     "facilities": "Lectern (Ancient)",
     "materials": [
       {
@@ -57887,6 +58104,488 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal charm",
+        "quantity": "1"
+      },
+      {
+        "name": "Assorted flowers",
+        "quantity": "3"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Petal circlet.png|link=Petal circlet]]",
+      "name": "Petal circlet",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "50",
+        "name": "Woodcutting"
+      },
+      {
+        "boostable": "",
+        "experience": "63.5",
+        "level": "50",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal charm",
+        "quantity": "1"
+      },
+      {
+        "name": "Black flowers",
+        "quantity": "3"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Petal circlet.png|link=Petal circlet]]",
+      "name": "Petal circlet",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "50",
+        "name": "Woodcutting"
+      },
+      {
+        "boostable": "",
+        "experience": "63.5",
+        "level": "50",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal charm",
+        "quantity": "1"
+      },
+      {
+        "name": "Blue flowers",
+        "quantity": "3"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Petal circlet.png|link=Petal circlet]]",
+      "name": "Petal circlet",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "50",
+        "name": "Woodcutting"
+      },
+      {
+        "boostable": "",
+        "experience": "63.5",
+        "level": "50",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal charm",
+        "quantity": "1"
+      },
+      {
+        "name": "Mixed flowers",
+        "quantity": "3"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Petal circlet.png|link=Petal circlet]]",
+      "name": "Petal circlet",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "50",
+        "name": "Woodcutting"
+      },
+      {
+        "boostable": "",
+        "experience": "63.5",
+        "level": "50",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal charm",
+        "quantity": "1"
+      },
+      {
+        "name": "Orange flowers",
+        "quantity": "3"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Petal circlet.png|link=Petal circlet]]",
+      "name": "Petal circlet",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "50",
+        "name": "Woodcutting"
+      },
+      {
+        "boostable": "",
+        "experience": "63.5",
+        "level": "50",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal charm",
+        "quantity": "1"
+      },
+      {
+        "name": "Purple flowers",
+        "quantity": "3"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Petal circlet.png|link=Petal circlet]]",
+      "name": "Petal circlet",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "50",
+        "name": "Woodcutting"
+      },
+      {
+        "boostable": "",
+        "experience": "63.5",
+        "level": "50",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal charm",
+        "quantity": "1"
+      },
+      {
+        "name": "Red flowers",
+        "quantity": "3"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Petal circlet.png|link=Petal circlet]]",
+      "name": "Petal circlet",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "50",
+        "name": "Woodcutting"
+      },
+      {
+        "boostable": "",
+        "experience": "63.5",
+        "level": "50",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal charm",
+        "quantity": "1"
+      },
+      {
+        "name": "White flowers",
+        "quantity": "3"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Petal circlet.png|link=Petal circlet]]",
+      "name": "Petal circlet",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "50",
+        "name": "Woodcutting"
+      },
+      {
+        "boostable": "",
+        "experience": "63.5",
+        "level": "50",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal charm",
+        "quantity": "1"
+      },
+      {
+        "name": "Yellow flowers",
+        "quantity": "3"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Petal circlet.png|link=Petal circlet]]",
+      "name": "Petal circlet",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "50",
+        "name": "Woodcutting"
+      },
+      {
+        "boostable": "",
+        "experience": "63.5",
+        "level": "50",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal charm",
+        "quantity": "1"
+      },
+      {
+        "name": "White lily",
+        "quantity": "3"
+      },
+      {
+        "name": "Ball of wool",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Petal circlet.png|link=Petal circlet]]",
+      "name": "Petal circlet",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "50",
+        "name": "Woodcutting"
+      },
+      {
+        "boostable": "",
+        "experience": "63.5",
+        "level": "50",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Pheasant tail feathers",
+        "quantity": "15"
+      },
+      {
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Pheasant boots.png|link=Pheasant boots]]",
+      "name": "Pheasant boots",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "2",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Pheasant tail feathers",
+        "quantity": "15"
+      },
+      {
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Pheasant cape.png|link=Pheasant cape]]",
+      "name": "Pheasant cape",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "2",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Pheasant tail feathers",
+        "quantity": "15"
+      },
+      {
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Pheasant hat.png|link=Pheasant hat]]",
+      "name": "Pheasant hat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "2",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Pheasant tail feathers",
+        "quantity": "15"
+      },
+      {
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Pheasant legs.png|link=Pheasant legs]]",
+      "name": "Pheasant legs",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "2",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
   },
   {
     "materials": [
@@ -62401,7 +63100,7 @@
       },
       {
         "name": "Nightmare Zone points",
-        "quantity": "325000"
+        "quantity": "725000"
       }
     ],
     "members": "Yes",
@@ -63930,6 +64629,28 @@
     "skills": [],
     "ticks": "0",
     "tools": "Pestle and mortar"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Felling axe handle",
+        "quantity": "1"
+      },
+      {
+        "name": "Rune axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune felling axe.png|link=Rune felling axe]]",
+      "name": "Rune felling axe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -69535,10 +70256,16 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "0",
         "level": "21",
         "name": "Cooking"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "20",
+        "name": "Firemaking"
       }
     ],
     "ticks": "0",
@@ -69563,10 +70290,16 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "0",
         "level": "11",
         "name": "Cooking"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "20",
+        "name": "Firemaking"
       }
     ],
     "ticks": "0"
@@ -69616,10 +70349,16 @@
     },
     "skills": [
       {
-        "boostable": "Yes",
+        "boostable": "",
         "experience": "0",
         "level": "16",
         "name": "Cooking"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "20",
+        "name": "Firemaking"
       }
     ],
     "ticks": "0",
@@ -70888,6 +71627,49 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
+  },
+  {
+    "materials": [
+      {
+        "name": "Smoker fuel",
+        "quantity": "1"
+      },
+      {
+        "name": "Steel bar",
+        "quantity": "1"
+      },
+      {
+        "name": "Leather",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Smoker canister.png|link=Smoker canister]]",
+      "name": "Smoker canister",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "37",
+        "name": "Herblore"
+      },
+      {
+        "boostable": "",
+        "experience": "37.5",
+        "level": "53",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "53",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3"
   },
   {
     "materials": [
@@ -74069,6 +74851,28 @@
       }
     ],
     "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Felling axe handle",
+        "quantity": "1"
+      },
+      {
+        "name": "Steel axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel felling axe.png|link=Steel felling axe]]",
+      "name": "Steel felling axe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
     "tools": "Hammer"
   },
   {
@@ -78955,6 +79759,45 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Trap disarmer blueprint",
+        "quantity": "1"
+      },
+      {
+        "name": "Bronze wire",
+        "quantity": "1"
+      },
+      {
+        "name": "Iron bar",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Trap disarmer.png|link=Trap disarmer]]",
+      "name": "Trap disarmer",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "16",
+        "name": "Hunter"
+      },
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "15",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Hammer"
   },
   {
     "facilities": "Soul Wars Reward Shop",
