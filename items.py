@@ -236,7 +236,7 @@ def get_item_info():
             code = mw.parse(page, skip_style_tags=True)
 
             gone = code.filter_templates(matches=lambda t: t.name.matches("Gone"))
-            if len(gone) < 1:
+            if len(gone) > 0:
                 continue
 
             versions = {}
