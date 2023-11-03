@@ -22915,21 +22915,6 @@
     "sellMultiplier": "1000"
   },
   {
-    "isMembers": false,
-    "items": [
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Rope",
-        "sellPrice": "15",
-        "stock": "inf",
-        "version": null
-      }
-    ],
-    "location": "",
-    "name": "Ned"
-  },
-  {
     "buyMultiplier": "200",
     "isMembers": false,
     "items": [
