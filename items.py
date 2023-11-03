@@ -235,6 +235,10 @@ def get_item_info():
         try:
             code = mw.parse(page, skip_style_tags=True)
 
+            gone = code.filter_templates(matches=lambda t: t.name.matches("Gone"))
+            if len(gone) < 1:
+                continue
+
             versions = {}
 
             for (vid, version) in util.each_version("Infobox Item", code, include_base=True):
