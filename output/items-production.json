@@ -8784,6 +8784,24 @@
     "ticks": "3"
   },
   {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -8799,7 +8817,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">103,261,136</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">103,687,121</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -8817,24 +8835,6 @@
       }
     ],
     "ticks": "5"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -12430,7 +12430,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">105,738,832</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">101,881,166</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -23122,6 +23122,23 @@
     "ticks": "1"
   },
   {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Crystal chime seed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal chime.png|link=Crystal chime]]",
+      "name": "Crystal chime",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "name": "Crystal crown (Ithell)",
@@ -27319,7 +27336,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "0"
+    "ticks": ""
   },
   {
     "materials": [
@@ -33405,6 +33422,7 @@
     "output": {
       "image": "[[File:Elite void robe.png|link=Elite void robe]]",
       "name": "Elite void robe",
+      "outputnote": "In <span class=\"plink-template\">[[File:Trailblazer Reloaded League icon.png|link=Trailblazer Reloaded]]</span>[[Trailblazer Reloaded|Trailblazer Reloaded]], elite Void Knight robes require <span class=\"tbz-region \" data-tbz-area=\"asgarnia\">[[File:Asgarnia Area Badge.png|Asgarnia|link=Trailblazer Reloaded League/Areas/Asgarnia]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Asgarnia|Asgarnia]]</span><span class=\"tbz-check\">\u2713</span></span>, <span class=\"tbz-region \" data-tbz-area=\"kandarin\">[[File:Kandarin Area Badge.png|Kandarin|link=Trailblazer Reloaded League/Areas/Kandarin]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Kandarin|Kandarin]]</span><span class=\"tbz-check\">\u2713</span></span>, and <span class=\"tbz-region \" data-tbz-area=\"tirannwn\">[[File:Tirannwn Area Badge.png|Tirannwn|link=Trailblazer Reloaded League/Areas/Tirannwn]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Tirannwn|Tirannwn]]</span><span class=\"tbz-check\">\u2713</span></span> to obtain.",
       "quantity": "1"
     },
     "skills": [],
@@ -33446,6 +33464,7 @@
     "output": {
       "image": "[[File:Elite void top.png|link=Elite void top]]",
       "name": "Elite void top",
+      "outputnote": "In <span class=\"plink-template\">[[File:Trailblazer Reloaded League icon.png|link=Trailblazer Reloaded]]</span>[[Trailblazer Reloaded|Trailblazer Reloaded]], elite Void Knight robes require <span class=\"tbz-region \" data-tbz-area=\"asgarnia\">[[File:Asgarnia Area Badge.png|Asgarnia|link=Trailblazer Reloaded League/Areas/Asgarnia]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Asgarnia|Asgarnia]]</span><span class=\"tbz-check\">\u2713</span></span>, <span class=\"tbz-region \" data-tbz-area=\"kandarin\">[[File:Kandarin Area Badge.png|Kandarin|link=Trailblazer Reloaded League/Areas/Kandarin]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Kandarin|Kandarin]]</span><span class=\"tbz-check\">\u2713</span></span>, and <span class=\"tbz-region \" data-tbz-area=\"tirannwn\">[[File:Tirannwn Area Badge.png|Tirannwn|link=Trailblazer Reloaded League/Areas/Tirannwn]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Tirannwn|Tirannwn]]</span><span class=\"tbz-check\">\u2713</span></span> to obtain.",
       "quantity": "1"
     },
     "skills": [],
@@ -35497,6 +35516,7 @@
     "output": {
       "image": "[[File:Ferocious gloves.png|link=Ferocious gloves]]",
       "name": "Ferocious gloves",
+      "outputnote": "In <span class=\"plink-template\">[[File:Trailblazer Reloaded League icon.png|link=Trailblazer Reloaded]]</span>[[Trailblazer Reloaded|Trailblazer Reloaded]], [[Dragon Slayer II]] completion requires unlocking the <span class=\"tbz-region \" data-tbz-area=\"fremennik\">[[File:Fremennik Area Badge.png|Fremennik|link=Trailblazer Reloaded League/Areas/Fremennik]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Fremennik|Fremennik]]</span><span class=\"tbz-check\">\u2713</span></span> region.",
       "quantity": "1"
     },
     "skills": [],
@@ -46865,7 +46885,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "62.5",
         "level": "70",
         "name": "Crafting"
@@ -72663,6 +72683,7 @@
     "output": {
       "image": "[[File:Soulreaper axe.png|link=Soulreaper axe]]",
       "name": "Soulreaper axe",
+      "outputnote": "In <span class=\"plink-template\">[[File:Trailblazer Reloaded League icon.png|link=Trailblazer Reloaded]]</span>[[Trailblazer Reloaded|Trailblazer Reloaded]], [[the Forgotten Four]] can all drop any piece of the axe, all of which require at least <span class=\"tbz-region \" data-tbz-area=\"desert\">[[File:Desert Area Badge.png|Desert|link=Trailblazer Reloaded League/Areas/Desert]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Desert|Desert]]</span><span class=\"tbz-check\">\u2713</span></span> to access.",
       "quantity": "1"
     },
     "skills": [
