@@ -68980,7 +68980,7 @@
     "version": null
   },
   {
-    "examineText": "A disconcertingly purple egg",
+    "examineText": "A disconcertingly rotten egg.",
     "group": "Rotten egg",
     "isMembers": false,
     "isTradeable": false,
@@ -82580,7 +82580,7 @@
     "version": null
   },
   {
-    "examineText": "You really don't want to wear it inside-out.",
+    "examineText": "You don't want to wear it inside-out.",
     "group": "Turquoise slayer helmet",
     "isMembers": true,
     "isTradeable": false,
@@ -94060,6 +94060,66 @@
     "version": null
   },
   {
+    "examineText": "Contains a beginner clue scroll.",
+    "group": "Scroll box (beginner)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24361,
+    "name": "Scroll box (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(beginner)",
+    "version": null
+  },
+  {
+    "examineText": "Contains an easy clue scroll.",
+    "group": "Scroll box (easy)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24362,
+    "name": "Scroll box (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(easy)",
+    "version": null
+  },
+  {
+    "examineText": "Contains a medium clue scroll.",
+    "group": "Scroll box (medium)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24363,
+    "name": "Scroll box (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(medium)",
+    "version": null
+  },
+  {
+    "examineText": "Contains a hard clue scroll.",
+    "group": "Scroll box (hard)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24364,
+    "name": "Scroll box (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(hard)",
+    "version": null
+  },
+  {
+    "examineText": "Contains an elite clue scroll.",
+    "group": "Scroll box (elite)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24365,
+    "name": "Scroll box (elite)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(elite)",
+    "version": null
+  },
+  {
+    "examineText": "Contains a master clue scroll.",
+    "group": "Scroll box (master)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24366,
+    "name": "Scroll box (master)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(master)",
+    "version": null
+  },
+  {
     "examineText": "Looks like a cabbage.",
     "group": "Cabbage (unobtainable item)",
     "isMembers": false,
@@ -96970,6 +97030,26 @@
     "version": null
   },
   {
+    "examineText": "A squishy mushroom from a fairy ring.",
+    "group": "Fairy mushroom",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25102,
+    "name": "Fairy mushroom",
+    "url": "https://oldschool.runescape.wiki/w/Fairy_mushroom",
+    "version": null
+  },
+  {
+    "examineText": "A strong enough memory can take you back to a familiar place.",
+    "group": "Crystal of memories",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25104,
+    "name": "Crystal of memories",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_of_memories",
+    "version": null
+  },
+  {
     "examineText": "It seems larger on the inside than it is on the outside.",
     "group": "Extradimensional bag",
     "isMembers": true,
@@ -96988,6 +97068,36 @@
     "name": "Extradimensional bag",
     "url": "https://oldschool.runescape.wiki/w/Extradimensional_bag",
     "version": "Open"
+  },
+  {
+    "examineText": "A very powerful axe in the colours of the Trailblazer League.",
+    "group": "Trailblazer axe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25110,
+    "name": "Trailblazer axe",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_axe",
+    "version": null
+  },
+  {
+    "examineText": "A very powerful pickaxe in the colours of the Trailblazer League.",
+    "group": "Trailblazer pickaxe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25112,
+    "name": "Trailblazer pickaxe",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_pickaxe",
+    "version": null
+  },
+  {
+    "examineText": "A very powerful harpoon in the colours of the Trailblazer League.",
+    "group": "Trailblazer harpoon",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25114,
+    "name": "Trailblazer harpoon",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_harpoon",
+    "version": null
   },
   {
     "examineText": "Special tomato to do league things.",
@@ -103517,6 +103627,16 @@
     "itemID": 26541,
     "name": "Shattered relics mystic ornament kit",
     "url": "https://oldschool.runescape.wiki/w/Shattered_relics_mystic_ornament_kit",
+    "version": null
+  },
+  {
+    "examineText": "A powerful tome filled with the knowledge of the magical arts.",
+    "group": "Arcane grimoire",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26551,
+    "name": "Arcane grimoire",
+    "url": "https://oldschool.runescape.wiki/w/Arcane_grimoire",
     "version": null
   },
   {
@@ -112610,7 +112730,7 @@
     "version": null
   },
   {
-    "examineText": "You can obtain some more in the Stranglewood.",
+    "examineText": "A strange herb.",
     "group": "Korbal herb",
     "isMembers": true,
     "isTradeable": false,
@@ -113710,24 +113830,24 @@
     "version": "Un-attuned"
   },
   {
-    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "examineText": "A sigil attuned to you with great power.",
     "group": "Sigil of the lightbearer",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 28507,
     "name": "Sigil of the lightbearer",
     "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_lightbearer",
-    "version": "Un-attuned"
+    "version": "Attuned"
   },
   {
-    "examineText": "A sigil attuned to you with great power.",
+    "examineText": "A power enhancing sigil not yet attuned to you.",
     "group": "Sigil of the lightbearer",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 28508,
     "name": "Sigil of the lightbearer",
     "url": "https://oldschool.runescape.wiki/w/Sigil_of_the_lightbearer",
-    "version": "Attuned"
+    "version": "Un-attuned"
   },
   {
     "examineText": "A sigil attuned to you with great power.",
@@ -113980,7 +114100,7 @@
     "version": null
   },
   {
-    "examineText": "A magic rock! This one gives you a random blighted weapon instead.",
+    "examineText": "A magic rock! This one gives you a random corrupted weapon instead.",
     "group": "Trinket of advanced weaponry",
     "isMembers": true,
     "isTradeable": true,
@@ -114000,7 +114120,7 @@
     "version": null
   },
   {
-    "examineText": "",
+    "examineText": "Opens a chest in Golrie's caves (used in the Path of Glouphrie quest).",
     "group": "Chest key (The Path of Glouphrie)",
     "isMembers": true,
     "isTradeable": false,
@@ -114480,13 +114600,403 @@
     "version": null
   },
   {
-    "examineText": "A sturdy piece of beehive, useful for constructing your own beehive.",
+    "examineText": "A sturdy piece of a beehive, useful for constructing your own beehive.",
     "group": "Sturdy beehive parts",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28674,
     "name": "Sturdy beehive parts",
     "url": "https://oldschool.runescape.wiki/w/Sturdy_beehive_parts",
+    "version": null
+  },
+  {
+    "examineText": "Used on the Dinh's Bulwark to give it a theme from Leagues IV: Trailblazer Reloaded.",
+    "group": "Trailblazer reloaded bulwark ornament kit",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28684,
+    "name": "Trailblazer reloaded bulwark ornament kit",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_bulwark_ornament_kit",
+    "version": null
+  },
+  {
+    "examineText": "An uncharged Toxic Blowpipe that fires darts coated with venom... And fire.",
+    "group": "Blazing blowpipe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28687,
+    "name": "Blazing blowpipe (empty)",
+    "url": "https://oldschool.runescape.wiki/w/Blazing_blowpipe",
+    "version": "Empty"
+  },
+  {
+    "examineText": "A Toxic Blowpipe that fires darts coated with venom... And fire.",
+    "group": "Blazing blowpipe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28688,
+    "name": "Blazing blowpipe",
+    "url": "https://oldschool.runescape.wiki/w/Blazing_blowpipe",
+    "version": "Charged"
+  },
+  {
+    "examineText": "Used on an uncharged Toxic Blowpipe to give it the a theme from Leagues IV: Trailblazer Reloaded.",
+    "group": "Trailblazer reloaded blowpipe ornament kit",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28690,
+    "name": "Trailblazer reloaded blowpipe ornament kit",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_blowpipe_ornament_kit",
+    "version": null
+  },
+  {
+    "examineText": "A scroll which unlocks the Trailblazer Reloaded Alchemy animation.",
+    "group": "Trailblazer reloaded alchemy scroll",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28693,
+    "name": "Trailblazer reloaded alchemy scroll",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_alchemy_scroll",
+    "version": null
+  },
+  {
+    "examineText": "A scroll which unlocks the Trailblazer Reloaded Vengeance animation.",
+    "group": "Trailblazer reloaded vengeance scroll",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28696,
+    "name": "Trailblazer reloaded vengeance scroll",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_vengeance_scroll",
+    "version": null
+  },
+  {
+    "examineText": "A scroll which unlocks the Trailblazer Reloaded death and respawn animation.",
+    "group": "Trailblazer reloaded death scroll",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28699,
+    "name": "Trailblazer reloaded death scroll",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_death_scroll",
+    "version": null
+  },
+  {
+    "examineText": "A banner showcasing the colours of Leagues IV: Trailblazer Reloaded.",
+    "group": "Trailblazer reloaded banner",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28702,
+    "name": "Trailblazer reloaded banner",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_banner",
+    "version": null
+  },
+  {
+    "examineText": "A scroll which unlocks the Trailblazer Reloaded Home Teleport animation.",
+    "group": "Trailblazer reloaded home teleport scroll",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28705,
+    "name": "Trailblazer reloaded home teleport scroll",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_home_teleport_scroll",
+    "version": null
+  },
+  {
+    "examineText": "Used on an Ornate rejuvination pool inside your Player owned house to give it a theme from Leagues IV: Trailblazer Reloaded.",
+    "group": "Trailblazer reloaded rejuvenation pool scroll",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28708,
+    "name": "Trailblazer reloaded rejuvenation pool scroll",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_rejuvenation_pool_scroll",
+    "version": null
+  },
+  {
+    "examineText": "The headgear of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded headband (t1)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28712,
+    "name": "Trailblazer reloaded headband (t1)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_headband_(t1)",
+    "version": null
+  },
+  {
+    "examineText": "The shirt of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded top (t1)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28715,
+    "name": "Trailblazer reloaded top (t1)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_top_(t1)",
+    "version": null
+  },
+  {
+    "examineText": "The trousers of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded trousers (t1)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28718,
+    "name": "Trailblazer reloaded trousers (t1)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_trousers_(t1)",
+    "version": null
+  },
+  {
+    "examineText": "The boots of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded boots (t1)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28721,
+    "name": "Trailblazer reloaded boots (t1)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_boots_(t1)",
+    "version": null
+  },
+  {
+    "examineText": "The headgear of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded headband (t2)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28724,
+    "name": "Trailblazer reloaded headband (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_headband_(t2)",
+    "version": null
+  },
+  {
+    "examineText": "The shirt of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded top (t2)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28727,
+    "name": "Trailblazer reloaded top (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_top_(t2)",
+    "version": null
+  },
+  {
+    "examineText": "The trousers of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded trousers (t2)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28730,
+    "name": "Trailblazer reloaded trousers (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_trousers_(t2)",
+    "version": null
+  },
+  {
+    "examineText": "The boots of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded boots (t2)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28733,
+    "name": "Trailblazer reloaded boots (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_boots_(t2)",
+    "version": null
+  },
+  {
+    "examineText": "The headgear of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded headband (t3)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28736,
+    "name": "Trailblazer reloaded headband (t3)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_headband_(t3)",
+    "version": null
+  },
+  {
+    "examineText": "The shirt of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded top (t3)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28739,
+    "name": "Trailblazer reloaded top (t3)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_top_(t3)",
+    "version": null
+  },
+  {
+    "examineText": "The trousers of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded trousers (t3)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28742,
+    "name": "Trailblazer reloaded trousers (t3)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_trousers_(t3)",
+    "version": null
+  },
+  {
+    "examineText": "The boots of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded boots (t3)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28745,
+    "name": "Trailblazer reloaded boots (t3)",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_boots_(t3)",
+    "version": null
+  },
+  {
+    "examineText": "The torch of a Trailblazer Reloaded Relic Hunter.",
+    "group": "Trailblazer reloaded torch",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28748,
+    "name": "Trailblazer reloaded torch",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_torch",
+    "version": null
+  },
+  {
+    "examineText": "A Dragon Trophy awarded for participating in Leagues IV: Trailblazer Reloaded (15th Nov 2023 to 10th Jan 2024).",
+    "group": "Trailblazer reloaded dragon trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28751,
+    "name": "Trailblazer reloaded dragon trophy",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_dragon_trophy",
+    "version": null
+  },
+  {
+    "examineText": "A Rune Trophy awarded for participating in Leagues IV: Trailblazer Reloaded (15th Nov 2023 to 10th Jan 2024).",
+    "group": "Trailblazer reloaded rune trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28753,
+    "name": "Trailblazer reloaded rune trophy",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_rune_trophy",
+    "version": null
+  },
+  {
+    "examineText": "An Adamant Trophy awarded for participating in Leagues IV: Trailblazer Reloaded (15th Nov 2023 to 10th Jan 2024).",
+    "group": "Trailblazer reloaded adamant trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28755,
+    "name": "Trailblazer reloaded adamant trophy",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_adamant_trophy",
+    "version": null
+  },
+  {
+    "examineText": "A Mithril Trophy awarded for participating in Leagues IV: Trailblazer Reloaded (15th Nov 2023 to 10th Jan 2024).",
+    "group": "Trailblazer reloaded mithril trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28757,
+    "name": "Trailblazer reloaded mithril trophy",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_mithril_trophy",
+    "version": null
+  },
+  {
+    "examineText": "A Steel Trophy awarded for participating in Leagues IV: Trailblazer Reloaded (15th Nov 2023 to 10th Jan 2024).",
+    "group": "Trailblazer reloaded steel trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28759,
+    "name": "Trailblazer reloaded steel trophy",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_steel_trophy",
+    "version": null
+  },
+  {
+    "examineText": "An Iron Trophy awarded for participating in Leagues IV: Trailblazer Reloaded (15th Nov 2023 to 10th Jan 2024).",
+    "group": "Trailblazer reloaded iron trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28761,
+    "name": "Trailblazer reloaded iron trophy",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_iron_trophy",
+    "version": null
+  },
+  {
+    "examineText": "A Bronze Trophy awarded for participating in Leagues IV: Trailblazer Reloaded (15th Nov 2023 to 10th Jan 2024).",
+    "group": "Trailblazer reloaded bronze trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28763,
+    "name": "Trailblazer reloaded bronze trophy",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_bronze_trophy",
+    "version": null
+  },
+  {
+    "examineText": "A pendant which can whisk you to all sorts of locations.",
+    "group": "Globetrotter pendant",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28765,
+    "name": "Globetrotter pendant",
+    "url": "https://oldschool.runescape.wiki/w/Globetrotter_pendant",
+    "version": null
+  },
+  {
+    "examineText": "A magical note that fell out of a banker's pocket.",
+    "group": "Banker's note (item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28767,
+    "name": "Banker's note",
+    "url": "https://oldschool.runescape.wiki/w/Banker%27s_note_(item)",
+    "version": null
+  },
+  {
+    "examineText": "A horn to call your loyal guardian.",
+    "group": "Guardian horn",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28769,
+    "name": "Guardian horn",
+    "url": "https://oldschool.runescape.wiki/w/Guardian_horn",
+    "version": null
+  },
+  {
+    "examineText": "Greaves that give you blazing speed.",
+    "group": "Sage's greaves",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28771,
+    "name": "Sage's greaves",
+    "url": "https://oldschool.runescape.wiki/w/Sage%27s_greaves",
+    "version": null
+  },
+  {
+    "examineText": "A precisely carved weapon to be used at a precise time.",
+    "group": "Sage's axe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28773,
+    "name": "Sage's axe",
+    "url": "https://oldschool.runescape.wiki/w/Sage%27s_axe",
+    "version": null
+  },
+  {
+    "examineText": "A powerful tome filled with the knowledge of dangerous prayers.",
+    "group": "Ruinous powers (item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28775,
+    "name": "Ruinous powers",
+    "url": "https://oldschool.runescape.wiki/w/Ruinous_powers_(item)",
+    "version": null
+  },
+  {
+    "examineText": "A set containing Trailblazer Reloaded boots (t1), Trailblazer Reloaded trousers (t1), Trailblazer Reloaded top (t1) and Trailblazer Reloaded hood (t1).",
+    "group": "Trailblazer reloaded relic hunter (t1) armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28777,
+    "name": "Trailblazer reloaded relic hunter (t1) armour set",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_relic_hunter_(t1)_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing Trailblazer Reloaded boots (t2), Trailblazer Reloaded trousers (t2), Trailblazer Reloaded top (t2) and Trailblazer Reloaded hood (t2).",
+    "group": "Trailblazer reloaded relic hunter (t2) armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28780,
+    "name": "Trailblazer reloaded relic hunter (t2) armour set",
+    "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_relic_hunter_(t2)_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing Trailblazer Reloaded boots (t3), Trailblazer Reloaded trousers (t3), Trailblazer Reloaded top (t3) and Trailblazer Reloaded hood (t3).",
+    "group": "Strailblazer reloaded relic hunter (t3) armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28783,
+    "name": "Strailblazer reloaded relic hunter (t3) armour set",
+    "url": "https://oldschool.runescape.wiki/w/Strailblazer_reloaded_relic_hunter_(t3)_armour_set",
     "version": null
   }
 ]
