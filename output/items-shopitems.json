@@ -20866,6 +20866,101 @@
     "name": "Leagues Reward Shop"
   },
   {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Trailblazer Reloaded Relic Hunter (T1)",
+        "sellPrice": "1000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Trailblazer Reloaded Relic Hunter (T2)",
+        "sellPrice": "5000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Trailblazer Reloaded Relic Hunter (T3)",
+        "sellPrice": "18000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Trailblazer reloaded alchemy scroll",
+        "sellPrice": "2000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Trailblazer reloaded banner",
+        "sellPrice": "500",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Trailblazer reloaded blowpipe ornament kit",
+        "sellPrice": "6000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Trailblazer reloaded bulwark ornament kit",
+        "sellPrice": "10000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Trailblazer reloaded death scroll",
+        "sellPrice": "3000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Trailblazer reloaded home teleport scroll",
+        "sellPrice": "1000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Trailblazer reloaded rejuvenation pool scroll",
+        "sellPrice": "9000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Trailblazer reloaded vengeance scroll",
+        "sellPrice": "7000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle",
+    "name": "Leagues Reward Shop"
+  },
+  {
     "buyMultiplier": "400",
     "isMembers": true,
     "items": [
@@ -22476,6 +22571,12 @@
       },
       {
         "currency": "Coins",
+        "name": "Box trap",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
         "name": "Bucket",
         "stock": "3",
         "version": null
@@ -22526,6 +22627,12 @@
         "currency": "Coins",
         "name": "Newcomer map",
         "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pestle and mortar",
+        "stock": "10",
         "version": null
       },
       {
