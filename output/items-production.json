@@ -6539,6 +6539,7 @@
       "quantity": "3"
     },
     "skills": [],
+    "ticks": "4",
     "tools": "Hammer"
   },
   {
@@ -6556,6 +6557,7 @@
       "quantity": "2"
     },
     "skills": [],
+    "ticks": "4",
     "tools": "Hammer"
   },
   {
@@ -8817,7 +8819,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">98,663,346</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">95,913,080</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10404,6 +10406,26 @@
     ],
     "ticks": "1",
     "tools": "Page 2, Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Toxic blowpipe (empty)",
+        "quantity": "1"
+      },
+      {
+        "name": "Trailblazer reloaded blowpipe ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blazing blowpipe (empty).png|link=Blazing blowpipe (empty)]]",
+      "name": "Blazing blowpipe (empty)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Gujuo",
@@ -12430,7 +12452,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">97,900,276</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">95,476,710</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -28010,19 +28032,18 @@
         "quantity": "1"
       },
       {
-        "name": "Green dark bow paint",
+        "name": "Dark bow imbue scroll",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Dark bow (green).png|link=Dark bow#Green]]",
-      "name": "Dark bow",
-      "quantity": "1",
-      "version": "Green"
+      "image": "[[File:Dark bow (bh).png|link=Dark bow (bh)]]",
+      "name": "Dark bow (bh)",
+      "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -28037,10 +28058,10 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Dark bow (blue).png|link=Dark bow#Blue]]",
-      "name": "Dark bow",
+      "image": "[[File:Dark bow (blue).png|link=Dark bow (blue)]]",
+      "name": "Dark bow (blue)",
       "quantity": "1",
-      "version": "Blue"
+      "txt": "Dark bow"
     },
     "skills": [],
     "ticks": ""
@@ -28052,16 +28073,16 @@
         "quantity": "1"
       },
       {
-        "name": "Yellow dark bow paint",
+        "name": "Green dark bow paint",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Dark bow (yellow).png|link=Dark bow#Yellow]]",
-      "name": "Dark bow",
+      "image": "[[File:Dark bow (green).png|link=Dark bow (green)]]",
+      "name": "Dark bow (green)",
       "quantity": "1",
-      "version": "Yellow"
+      "txt": "Dark bow"
     },
     "skills": [],
     "ticks": ""
@@ -28079,10 +28100,10 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Dark bow (white).png|link=Dark bow#White]]",
-      "name": "Dark bow",
+      "image": "[[File:Dark bow (white).png|link=Dark bow (white)]]",
+      "name": "Dark bow (white)",
       "quantity": "1",
-      "version": "White"
+      "txt": "Dark bow"
     },
     "skills": [],
     "ticks": ""
@@ -28094,18 +28115,19 @@
         "quantity": "1"
       },
       {
-        "name": "Dark bow imbue scroll",
+        "name": "Yellow dark bow paint",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Dark bow (bh).png|link=Dark bow (bh)]]",
-      "name": "Dark bow (bh)",
-      "quantity": "1"
+      "image": "[[File:Dark bow (yellow).png|link=Dark bow (yellow)]]",
+      "name": "Dark bow (yellow)",
+      "quantity": "1",
+      "txt": "Dark bow"
     },
     "skills": [],
-    "ticks": "0"
+    "ticks": ""
   },
   {
     "facilities": "Cooking range",
@@ -28896,6 +28918,26 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dinh's bulwark",
+        "quantity": "1"
+      },
+      {
+        "name": "Trailblazer reloaded bulwark ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dinh's blazing bulwark.png|link=Dinh's blazing bulwark]]",
+      "name": "Dinh's blazing bulwark",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -43337,6 +43379,95 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Iron ore",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Iron bar.png|link=Iron bar]]",
+      "name": "Iron bar",
+      "quantity": "1",
+      "quantitynote": "50% chance without [[ring of forging]]",
+      "subtxt": "Normal furnace"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "12.5",
+        "level": "15",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Blast Furnace",
+    "materials": [
+      {
+        "name": "Iron ore",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron bar.png|link=Iron bar]]",
+      "name": "Iron bar",
+      "quantity": "1",
+      "subtxt": "Blast Furnace"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "12.5",
+        "level": "15",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "11"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron ore",
+        "quantity": "1"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "4"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Iron bar.png|link=Iron bar]]",
+      "name": "Iron bar",
+      "quantity": "1",
+      "subtxt": "Superheat"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "12.5",
+        "level": "15",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "53",
+        "level": "43",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -44093,7 +44224,7 @@
       }
     ],
     "ticks": "4",
-    "tools": "Hammer"
+    "tools": ""
   },
   {
     "facilities": "Barbarian anvil",
@@ -68291,7 +68422,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "1",
     "tools": "Chisel"
   },
   {
@@ -79714,6 +79845,7 @@
         "name": "Smithing"
       }
     ],
+    "ticks": "13",
     "tools": "Hammer"
   },
   {
@@ -79742,6 +79874,7 @@
         "name": "Smithing"
       }
     ],
+    "ticks": "13",
     "tools": "Hammer"
   },
   {
@@ -79770,6 +79903,7 @@
         "name": "Smithing"
       }
     ],
+    "ticks": "13",
     "tools": "Hammer"
   },
   {
@@ -81464,6 +81598,33 @@
     "materials": [
       {
         "name": "Cooked meat",
+        "quantity": "1"
+      },
+      {
+        "name": "Pie shell",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Uncooked meat pie.png|link=Uncooked meat pie]]",
+      "name": "Uncooked meat pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "20",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Cooked chicken",
         "quantity": "1"
       },
       {
