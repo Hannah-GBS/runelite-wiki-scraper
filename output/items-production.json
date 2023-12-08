@@ -19734,33 +19734,6 @@
     "ticks": "120"
   },
   {
-    "materials": [
-      {
-        "name": "Harralander potion (unf)",
-        "quantity": "1"
-      },
-      {
-        "name": "Volcanic ash",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Compost potion(3).png|link=Compost potion(3)]]",
-      "name": "Compost potion(3)",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "60",
-        "level": "22",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
     "facilities": "Furnace",
     "materials": [
       {
@@ -64216,7 +64189,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "6",
+        "experience": "6.3",
         "level": "63",
         "name": "Fletching"
       }

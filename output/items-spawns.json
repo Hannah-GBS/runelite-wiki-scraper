@@ -3221,7 +3221,7 @@
         "name": "Gold ore"
       },
       {
-        "coords": "3146,3734",
+        "coords": "3165,3739",
         "isMembers": false,
         "location": "Ruins (east), level 27 Wilderness",
         "name": "Gold ore"
@@ -5588,6 +5588,12 @@
         "coords": "2693,3727",
         "isMembers": true,
         "location": "Fremennik Province - north of Keldagrim entrance",
+        "name": "Seaweed"
+      },
+      {
+        "coords": "2254,2785",
+        "isMembers": true,
+        "location": "Isle of Souls",
         "name": "Seaweed"
       },
       {

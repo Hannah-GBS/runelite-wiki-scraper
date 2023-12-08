@@ -22571,12 +22571,6 @@
       },
       {
         "currency": "Coins",
-        "name": "Box trap",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
         "name": "Bucket",
         "stock": "3",
         "version": null
@@ -22631,12 +22625,6 @@
       },
       {
         "currency": "Coins",
-        "name": "Pestle and mortar",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
         "name": "Pot",
         "stock": "5",
         "version": null
@@ -22663,6 +22651,27 @@
         "currency": "Coins",
         "name": "Tinderbox",
         "stock": "2",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge",
+    "name": "Lumbridge General Store",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "isMembers": false,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Box trap",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pestle and mortar",
+        "stock": "10",
         "version": null
       }
     ],
