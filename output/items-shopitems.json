@@ -18057,6 +18057,21 @@
     "sellMultiplier": "1000"
   },
   {
+    "buyMultiplier": "600",
+    "isMembers": false,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Black platelegs",
+        "stock": "1",
+        "version": null
+      }
+    ],
+    "location": "Varrock",
+    "name": "Horvik's Armour Shop.",
+    "sellMultiplier": "1000"
+  },
+  {
     "isMembers": true,
     "items": [
       {
