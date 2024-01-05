@@ -544,6 +544,66 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Adamant arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant arrow(p).png|link=Adamant arrow(p)]]",
+      "name": "Adamant arrow(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant arrow(p+).png|link=Adamant arrow(p+)]]",
+      "name": "Adamant arrow(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant arrow(p++).png|link=Adamant arrow(p++)]]",
+      "name": "Adamant arrow(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -643,6 +703,66 @@
         "name": "Fletching"
       }
     ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant bolts (p).png|link=Adamant bolts (p)]]",
+      "name": "Adamant bolts (p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant bolts (p+).png|link=Adamant bolts (p+)]]",
+      "name": "Adamant bolts (p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant bolts (p++).png|link=Adamant bolts (p++)]]",
+      "name": "Adamant bolts (p++)",
+      "quantity": "5"
+    },
+    "skills": [],
     "ticks": "0"
   },
   {
@@ -879,6 +999,66 @@
     ],
     "ticks": "5",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant dart(p).png|link=Adamant dart(p)]]",
+      "name": "Adamant dart(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant dart(p+).png|link=Adamant dart(p+)]]",
+      "name": "Adamant dart(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant dart(p++).png|link=Adamant dart(p++)]]",
+      "name": "Adamant dart(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -1536,6 +1716,66 @@
     "tools": "Hammer"
   },
   {
+    "materials": [
+      {
+        "name": "Adamant javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant javelin(p).png|link=Adamant javelin(p)]]",
+      "name": "Adamant javelin(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant javelin(p+).png|link=Adamant javelin(p+)]]",
+      "name": "Adamant javelin(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant javelin(p++).png|link=Adamant javelin(p++)]]",
+      "name": "Adamant javelin(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -2084,6 +2324,66 @@
     ],
     "ticks": "5",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant knife(p).png|link=Adamant knife(p)]]",
+      "name": "Adamant knife(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant knife(p+).png|link=Adamant knife(p+)]]",
+      "name": "Adamant knife(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant knife(p++).png|link=Adamant knife(p++)]]",
+      "name": "Adamant knife(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -2948,6 +3248,66 @@
   {
     "materials": [
       {
+        "name": "Amethyst arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Amethyst arrow(p).png|link=Amethyst arrow(p)]]",
+      "name": "Amethyst arrow(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Amethyst arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Amethyst arrow(p+).png|link=Amethyst arrow(p+)]]",
+      "name": "Amethyst arrow(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Amethyst arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Amethyst arrow(p++).png|link=Amethyst arrow(p++)]]",
+      "name": "Amethyst arrow(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Amethyst",
         "quantity": "1"
       }
@@ -3074,6 +3434,66 @@
   {
     "materials": [
       {
+        "name": "Amethyst dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Amethyst dart(p).png|link=Amethyst dart(p)]]",
+      "name": "Amethyst dart(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Amethyst dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Amethyst dart(p+).png|link=Amethyst dart(p+)]]",
+      "name": "Amethyst dart(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Amethyst dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Amethyst dart(p++).png|link=Amethyst dart(p++)]]",
+      "name": "Amethyst dart(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Amethyst arrow",
         "quantity": "1"
       },
@@ -3141,6 +3561,66 @@
     ],
     "ticks": "2",
     "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Amethyst javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Amethyst javelin(p).png|link=Amethyst javelin(p)]]",
+      "name": "Amethyst javelin(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Amethyst javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Amethyst javelin(p+).png|link=Amethyst javelin(p+)]]",
+      "name": "Amethyst javelin(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Amethyst javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Amethyst javelin(p++).png|link=Amethyst javelin(p++)]]",
+      "name": "Amethyst javelin(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Wizard Mizgog",
@@ -5197,7 +5677,7 @@
       }
     ],
     "ticks": "4",
-    "tools": "Hammer, Chisel"
+    "tools": "Chisel"
   },
   {
     "materials": [
@@ -5221,7 +5701,7 @@
       }
     ],
     "ticks": "4",
-    "tools": "Hammer, Chisel"
+    "tools": "Chisel"
   },
   {
     "materials": [
@@ -5245,7 +5725,7 @@
       }
     ],
     "ticks": "4",
-    "tools": "Hammer, Chisel"
+    "tools": "Chisel"
   },
   {
     "materials": [
@@ -8400,6 +8880,66 @@
   {
     "materials": [
       {
+        "name": "Black dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black dart(p).png|link=Black dart(p)]]",
+      "name": "Black dart(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black dart(p+).png|link=Black dart(p+)]]",
+      "name": "Black dart(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black dart(p++).png|link=Black dart(p++)]]",
+      "name": "Black dart(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Desert robe",
         "quantity": "1"
       },
@@ -8600,6 +9140,66 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black knife(p).png|link=Black knife(p)]]",
+      "name": "Black knife(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black knife(p+).png|link=Black knife(p+)]]",
+      "name": "Black knife(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black knife(p++).png|link=Black knife(p++)]]",
+      "name": "Black knife(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Dom Onion's Reward Shop",
@@ -8819,7 +9419,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">92,144,981</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">97,330,780</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11732,6 +12332,66 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "name": "Blurite bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blurite bolts (p).png|link=Blurite bolts (p)]]",
+      "name": "Blurite bolts (p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blurite bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blurite bolts (p+).png|link=Blurite bolts (p+)]]",
+      "name": "Blurite bolts (p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blurite bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blurite bolts (p++).png|link=Blurite bolts (p++)]]",
+      "name": "Blurite bolts (p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -12452,7 +13112,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">95,079,251</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">99,353,026</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14340,6 +15000,66 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Bronze arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze arrow(p).png|link=Bronze arrow(p)]]",
+      "name": "Bronze arrow(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze arrow(p+).png|link=Bronze arrow(p+)]]",
+      "name": "Bronze arrow(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze arrow(p++).png|link=Bronze arrow(p++)]]",
+      "name": "Bronze arrow(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -14539,6 +15259,66 @@
         "name": "Fletching"
       }
     ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze bolts (p).png|link=Bronze bolts (p)]]",
+      "name": "Bronze bolts (p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze bolts (p+).png|link=Bronze bolts (p+)]]",
+      "name": "Bronze bolts (p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze bolts (p++).png|link=Bronze bolts (p++)]]",
+      "name": "Bronze bolts (p++)",
+      "quantity": "5"
+    },
+    "skills": [],
     "ticks": "0"
   },
   {
@@ -14797,6 +15577,66 @@
     "tools": "Hammer"
   },
   {
+    "materials": [
+      {
+        "name": "Bronze dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze dart(p).png|link=Bronze dart(p)]]",
+      "name": "Bronze dart(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze dart(p+).png|link=Bronze dart(p+)]]",
+      "name": "Bronze dart(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze dart(p++).png|link=Bronze dart(p++)]]",
+      "name": "Bronze dart(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -14952,6 +15792,66 @@
     "tools": "Hammer"
   },
   {
+    "materials": [
+      {
+        "name": "Bronze javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze javelin(p).png|link=Bronze javelin(p)]]",
+      "name": "Bronze javelin(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze javelin(p+).png|link=Bronze javelin(p+)]]",
+      "name": "Bronze javelin(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze javelin(p++).png|link=Bronze javelin(p++)]]",
+      "name": "Bronze javelin(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Leela",
     "materials": [
       {
@@ -15075,6 +15975,66 @@
     ],
     "ticks": "5",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze knife(p).png|link=Bronze knife(p)]]",
+      "name": "Bronze knife(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze knife(p+).png|link=Bronze knife(p+)]]",
+      "name": "Bronze knife(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze knife(p++).png|link=Bronze knife(p++)]]",
+      "name": "Bronze knife(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -17250,6 +18210,22 @@
       }
     ],
     "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "name": "Jar generator",
+        "quantity": "0.01"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Butterfly jar.png|link=Butterfly jar]]",
+      "name": "Butterfly jar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -29953,6 +30929,66 @@
   {
     "materials": [
       {
+        "name": "Dragon arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon arrow(p).png|link=Dragon arrow(p)]]",
+      "name": "Dragon arrow(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon arrow(p+).png|link=Dragon arrow(p+)]]",
+      "name": "Dragon arrow(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon arrow(p++).png|link=Dragon arrow(p++)]]",
+      "name": "Dragon arrow(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Dragon axe",
         "quantity": "1"
       },
@@ -30175,6 +31211,66 @@
         "name": "Fletching"
       }
     ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon bolts (p).png|link=Dragon bolts (p)]]",
+      "name": "Dragon bolts (p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon bolts (p+).png|link=Dragon bolts (p+)]]",
+      "name": "Dragon bolts (p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon bolts (p++).png|link=Dragon bolts (p++)]]",
+      "name": "Dragon bolts (p++)",
+      "quantity": "5"
+    },
+    "skills": [],
     "ticks": "0"
   },
   {
@@ -30423,6 +31519,66 @@
   {
     "materials": [
       {
+        "name": "Dragon dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon dart(p).png|link=Dragon dart(p)]]",
+      "name": "Dragon dart(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon dart(p+).png|link=Dragon dart(p+)]]",
+      "name": "Dragon dart(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon dart(p++).png|link=Dragon dart(p++)]]",
+      "name": "Dragon dart(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Dragon defender",
         "quantity": "1"
       },
@@ -30637,6 +31793,66 @@
     "ticks": "1"
   },
   {
+    "materials": [
+      {
+        "name": "Dragon javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon javelin(p).png|link=Dragon javelin(p)]]",
+      "name": "Dragon javelin(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon javelin(p+).png|link=Dragon javelin(p+)]]",
+      "name": "Dragon javelin(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon javelin(p++).png|link=Dragon javelin(p++)]]",
+      "name": "Dragon javelin(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Dragon forge",
     "materials": [
       {
@@ -30725,6 +31941,66 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon knife(p).png|link=Dragon knife(p)]]",
+      "name": "Dragon knife(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon knife(p+).png|link=Dragon knife(p+)]]",
+      "name": "Dragon knife(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon knife(p++).png|link=Dragon knife(p++)]]",
+      "name": "Dragon knife(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -43317,6 +44593,66 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Iron arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron arrow(p).png|link=Iron arrow(p)]]",
+      "name": "Iron arrow(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron arrow(p+).png|link=Iron arrow(p+)]]",
+      "name": "Iron arrow(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron arrow(p++).png|link=Iron arrow(p++)]]",
+      "name": "Iron arrow(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -43505,6 +44841,66 @@
         "name": "Fletching"
       }
     ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron bolts (p).png|link=Iron bolts (p)]]",
+      "name": "Iron bolts (p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron bolts (p+).png|link=Iron bolts (p+)]]",
+      "name": "Iron bolts (p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron bolts (p++).png|link=Iron bolts (p++)]]",
+      "name": "Iron bolts (p++)",
+      "quantity": "5"
+    },
+    "skills": [],
     "ticks": "0"
   },
   {
@@ -43718,6 +45114,26 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "name": "Iron dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron dart (p).png|link=Iron dart (p)]]",
+      "name": "Iron dart (p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -43741,6 +45157,46 @@
     ],
     "ticks": "5",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron dart(p+).png|link=Iron dart(p+)]]",
+      "name": "Iron dart(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron dart(p++).png|link=Iron dart(p++)]]",
+      "name": "Iron dart(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -43898,6 +45354,66 @@
     "tools": "Hammer"
   },
   {
+    "materials": [
+      {
+        "name": "Iron javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron javelin(p).png|link=Iron javelin(p)]]",
+      "name": "Iron javelin(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron javelin(p+).png|link=Iron javelin(p+)]]",
+      "name": "Iron javelin(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron javelin(p++).png|link=Iron javelin(p++)]]",
+      "name": "Iron javelin(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Monument",
     "materials": [
       {
@@ -43963,6 +45479,66 @@
     ],
     "ticks": "5",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron knife(p).png|link=Iron knife(p)]]",
+      "name": "Iron knife(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron knife(p+).png|link=Iron knife(p+)]]",
+      "name": "Iron knife(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron knife(p++).png|link=Iron knife(p++)]]",
+      "name": "Iron knife(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -50709,6 +52285,66 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Mithril arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril arrow(p).png|link=Mithril arrow(p)]]",
+      "name": "Mithril arrow(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril arrow(p+).png|link=Mithril arrow(p+)]]",
+      "name": "Mithril arrow(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril arrow(p++).png|link=Mithril arrow(p++)]]",
+      "name": "Mithril arrow(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -50941,6 +52577,66 @@
         "name": "Fletching"
       }
     ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril bolts (p).png|link=Mithril bolts (p)]]",
+      "name": "Mithril bolts (p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril bolts (p+).png|link=Mithril bolts (p+)]]",
+      "name": "Mithril bolts (p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril bolts (p++).png|link=Mithril bolts (p++)]]",
+      "name": "Mithril bolts (p++)",
+      "quantity": "5"
+    },
+    "skills": [],
     "ticks": "0"
   },
   {
@@ -51179,6 +52875,66 @@
     "tools": "Hammer"
   },
   {
+    "materials": [
+      {
+        "name": "Mithril dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril dart(p).png|link=Mithril dart(p)]]",
+      "name": "Mithril dart(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril dart(p+).png|link=Mithril dart(p+)]]",
+      "name": "Mithril dart(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril dart(p++).png|link=Mithril dart(p++)]]",
+      "name": "Mithril dart(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -51334,6 +53090,66 @@
     "tools": "Hammer"
   },
   {
+    "materials": [
+      {
+        "name": "Mithril javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril javelin(p).png|link=Mithril javelin(p)]]",
+      "name": "Mithril javelin(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril javelin(p+).png|link=Mithril javelin(p+)]]",
+      "name": "Mithril javelin(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril javelin(p++).png|link=Mithril javelin(p++)]]",
+      "name": "Mithril javelin(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -51382,6 +53198,66 @@
     ],
     "ticks": "5",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril knife(p).png|link=Mithril knife(p)]]",
+      "name": "Mithril knife(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril knife(p+).png|link=Mithril knife(p+)]]",
+      "name": "Mithril knife(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril knife(p++).png|link=Mithril knife(p++)]]",
+      "name": "Mithril knife(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -64597,6 +66473,66 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Rune arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune arrow(p).png|link=Rune arrow(p)]]",
+      "name": "Rune arrow(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune arrow(p+).png|link=Rune arrow(p+)]]",
+      "name": "Rune arrow(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune arrow(p++).png|link=Rune arrow(p++)]]",
+      "name": "Rune arrow(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -64872,6 +66808,66 @@
     ],
     "ticks": "5",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune dart(p).png|link=Rune dart(p)]]",
+      "name": "Rune dart(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune dart(p+).png|link=Rune dart(p+)]]",
+      "name": "Rune dart(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune dart(p++).png|link=Rune dart(p++)]]",
+      "name": "Rune dart(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -65566,6 +67562,66 @@
     "tools": "Hammer"
   },
   {
+    "materials": [
+      {
+        "name": "Rune javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune javelin(p).png|link=Rune javelin(p)]]",
+      "name": "Rune javelin(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune javelin(p+).png|link=Rune javelin(p+)]]",
+      "name": "Rune javelin(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune javelin(p++).png|link=Rune javelin(p++)]]",
+      "name": "Rune javelin(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -66114,6 +68170,66 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune knife(p).png|link=Rune knife(p)]]",
+      "name": "Rune knife(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune knife(p+).png|link=Rune knife(p+)]]",
+      "name": "Rune knife(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune knife(p++).png|link=Rune knife(p++)]]",
+      "name": "Rune knife(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -66691,6 +68807,66 @@
         "name": "Fletching"
       }
     ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Runite bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Runite bolts (p).png|link=Runite bolts (p)]]",
+      "name": "Runite bolts (p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Runite bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Runite bolts (p+).png|link=Runite bolts (p+)]]",
+      "name": "Runite bolts (p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Runite bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Runite bolts (p++).png|link=Runite bolts (p++)]]",
+      "name": "Runite bolts (p++)",
+      "quantity": "5"
+    },
+    "skills": [],
     "ticks": "0"
   },
   {
@@ -74652,6 +76828,66 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Steel arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel arrow(p).png|link=Steel arrow(p)]]",
+      "name": "Steel arrow(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel arrow(p+).png|link=Steel arrow(p+)]]",
+      "name": "Steel arrow(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel arrow",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel arrow(p++).png|link=Steel arrow(p++)]]",
+      "name": "Steel arrow(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -74884,6 +77120,66 @@
         "name": "Fletching"
       }
     ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel bolts (p).png|link=Steel bolts (p)]]",
+      "name": "Steel bolts (p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel bolts (p+).png|link=Steel bolts (p+)]]",
+      "name": "Steel bolts (p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel bolts",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel bolts (p++).png|link=Steel bolts (p++)]]",
+      "name": "Steel bolts (p++)",
+      "quantity": "5"
+    },
+    "skills": [],
     "ticks": "0"
   },
   {
@@ -75140,6 +77436,66 @@
     ],
     "ticks": "5",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel dart(p).png|link=Steel dart(p)]]",
+      "name": "Steel dart(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel dart(p+).png|link=Steel dart(p+)]]",
+      "name": "Steel dart(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel dart",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel dart(p++).png|link=Steel dart(p++)]]",
+      "name": "Steel dart(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -75797,6 +78153,66 @@
     "tools": "Hammer"
   },
   {
+    "materials": [
+      {
+        "name": "Steel javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel javelin(p).png|link=Steel javelin(p)]]",
+      "name": "Steel javelin(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel javelin(p+).png|link=Steel javelin(p+)]]",
+      "name": "Steel javelin(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel javelin",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel javelin(p++).png|link=Steel javelin(p++)]]",
+      "name": "Steel javelin(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -76345,6 +78761,66 @@
     ],
     "ticks": "5",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel knife(p).png|link=Steel knife(p)]]",
+      "name": "Steel knife(p)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel knife(p+).png|link=Steel knife(p+)]]",
+      "name": "Steel knife(p+)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel knife",
+        "quantity": "5"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel knife(p++).png|link=Steel knife(p++)]]",
+      "name": "Steel knife(p++)",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
