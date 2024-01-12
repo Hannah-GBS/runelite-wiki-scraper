@@ -2269,7 +2269,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow",
+        "name": "Crossbow (item)",
         "stock": "2",
         "version": null
       },
@@ -9305,7 +9305,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow",
+        "name": "Crossbow (item)",
         "stock": "2",
         "version": null
       },
@@ -13881,81 +13881,6 @@
     "name": "Francis"
   },
   {
-    "buyMultiplier": "500",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Raw anchovies",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw bass",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw cod",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw herring",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw lobster",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw mackerel",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw sardine",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw shark",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw shrimps",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw swordfish",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw tuna",
-        "stock": "0",
-        "version": null
-      }
-    ],
-    "location": "Port Piscarilius",
-    "name": "Frankie's Fishing Emporium (0% favour)",
-    "sellMultiplier": "2000"
-  },
-  {
     "buyMultiplier": "950",
     "isMembers": true,
     "items": [
@@ -14028,231 +13953,6 @@
     ],
     "location": "Port Piscarilius",
     "name": "Frankie's Fishing Emporium (100% favour)",
-    "sellMultiplier": "1000"
-  },
-  {
-    "buyMultiplier": "600",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Raw anchovies",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw bass",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw cod",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw herring",
-        "stock": "25",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw lobster",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw mackerel",
-        "stock": "25",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw sardine",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw shark",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw shrimps",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw swordfish",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw tuna",
-        "stock": "0",
-        "version": null
-      }
-    ],
-    "location": "Port Piscarilius",
-    "name": "Frankie's Fishing Emporium (25% favour)",
-    "sellMultiplier": "1500"
-  },
-  {
-    "buyMultiplier": "750",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Raw anchovies",
-        "stock": "25",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw bass",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw cod",
-        "stock": "25",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw herring",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw lobster",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw mackerel",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw sardine",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw shark",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw shrimps",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw swordfish",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw tuna",
-        "stock": "25",
-        "version": null
-      }
-    ],
-    "location": "Port Piscarilius",
-    "name": "Frankie's Fishing Emporium (50% favour)",
-    "sellMultiplier": "1250"
-  },
-  {
-    "buyMultiplier": "850",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Raw anchovies",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw bass",
-        "stock": "25",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw cod",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw herring",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw lobster",
-        "stock": "25",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw mackerel",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw sardine",
-        "stock": "250",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw shark",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw shrimps",
-        "stock": "250",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw swordfish",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Raw tuna",
-        "stock": "50",
-        "version": null
-      }
-    ],
-    "location": "Port Piscarilius",
-    "name": "Frankie's Fishing Emporium (75% favour)",
     "sellMultiplier": "1000"
   },
   {
@@ -16723,7 +16423,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow",
+        "name": "Crossbow (item)",
         "stock": "2",
         "version": null
       },
@@ -17578,7 +17278,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow",
+        "name": "Crossbow (item)",
         "stock": "2",
         "version": null
       },
@@ -21419,7 +21119,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow",
+        "name": "Crossbow (item)",
         "stock": "5",
         "version": null
       },
@@ -22499,7 +22199,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow",
+        "name": "Crossbow (item)",
         "stock": "2",
         "version": null
       },

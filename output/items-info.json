@@ -5501,12 +5501,12 @@
   },
   {
     "examineText": "This fires crossbow bolts.",
-    "group": "Crossbow",
+    "group": "Crossbow (item)",
     "isMembers": false,
     "isTradeable": true,
     "itemID": 837,
     "name": "Crossbow",
-    "url": "https://oldschool.runescape.wiki/w/Crossbow",
+    "url": "https://oldschool.runescape.wiki/w/Crossbow_(item)",
     "version": null
   },
   {
@@ -74350,16 +74350,6 @@
     "version": null
   },
   {
-    "examineText": "Army issue all-purpose medical pack.",
-    "group": "Shayzien medpack",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13382,
-    "name": "Shayzien medpack",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_medpack",
-    "version": null
-  },
-  {
     "examineText": "An old scrap of cloth, containing remnants of Xeric's forgotten magicks.",
     "group": "Xerician fabric",
     "isMembers": true,
@@ -75597,316 +75587,6 @@
     "itemID": 13537,
     "name": "Transportation incantations",
     "url": "https://oldschool.runescape.wiki/w/Transportation_incantations",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply gloves (1)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13538,
-    "name": "Shayzien supply gloves (1)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_gloves_(1)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply boots (1)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13539,
-    "name": "Shayzien supply boots (1)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_boots_(1)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply helm (1)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13540,
-    "name": "Shayzien supply helm (1)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_helm_(1)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply greaves (1)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13541,
-    "name": "Shayzien supply greaves (1)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_greaves_(1)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply platebody (1)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13542,
-    "name": "Shayzien supply platebody (1)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_platebody_(1)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply gloves (2)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13543,
-    "name": "Shayzien supply gloves (2)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_gloves_(2)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply boots (2)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13544,
-    "name": "Shayzien supply boots (2)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_boots_(2)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply helm (2)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13545,
-    "name": "Shayzien supply helm (2)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_helm_(2)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply greaves (2)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13546,
-    "name": "Shayzien supply greaves (2)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_greaves_(2)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply platebody (2)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13547,
-    "name": "Shayzien supply platebody (2)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_platebody_(2)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply gloves (3)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13548,
-    "name": "Shayzien supply gloves (3)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_gloves_(3)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply boots (3)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13549,
-    "name": "Shayzien supply boots (3)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_boots_(3)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply helm (3)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13550,
-    "name": "Shayzien supply helm (3)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_helm_(3)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply greaves (3)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13551,
-    "name": "Shayzien supply greaves (3)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_greaves_(3)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply platebody (3)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13552,
-    "name": "Shayzien supply platebody (3)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_platebody_(3)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply gloves (4)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13553,
-    "name": "Shayzien supply gloves (4)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_gloves_(4)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply boots (4)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13554,
-    "name": "Shayzien supply boots (4)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_boots_(4)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply helm (4)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13555,
-    "name": "Shayzien supply helm (4)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_helm_(4)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply greaves (4)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13556,
-    "name": "Shayzien supply greaves (4)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_greaves_(4)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply platebody (4)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13557,
-    "name": "Shayzien supply platebody (4)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_platebody_(4)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply gloves (5)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13558,
-    "name": "Shayzien supply gloves (5)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_gloves_(5)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply boots (5)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13559,
-    "name": "Shayzien supply boots (5)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_boots_(5)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply helm (5)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13560,
-    "name": "Shayzien supply helm (5)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_helm_(5)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply greaves (5)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13561,
-    "name": "Shayzien supply greaves (5)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_greaves_(5)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply platebody (5)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13562,
-    "name": "Shayzien supply platebody (5)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_platebody_(5)",
-    "version": null
-  },
-  {
-    "examineText": "Shayzien supplies could be packed in here.",
-    "group": "Shayzien supply crate",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 13563,
-    "name": "Shayzien supply crate",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_crate",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply set (1)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13565,
-    "name": "Shayzien supply set (1)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_set_(1)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply set (2)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13566,
-    "name": "Shayzien supply set (2)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_set_(2)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply set (3)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13567,
-    "name": "Shayzien supply set (3)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_set_(3)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply set (4)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13568,
-    "name": "Shayzien supply set (4)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_set_(4)",
-    "version": null
-  },
-  {
-    "examineText": "Supplies for the Shayzien soldiers.",
-    "group": "Shayzien supply set (5)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13569,
-    "name": "Shayzien supply set (5)",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_supply_set_(5)",
     "version": null
   },
   {
@@ -77817,16 +77497,6 @@
     "itemID": 19665,
     "name": "Damaged monkey tail",
     "url": "https://oldschool.runescape.wiki/w/Damaged_monkey_tail",
-    "version": null
-  },
-  {
-    "examineText": "Configuration details for operating the Lovakengj Minecart Network.",
-    "group": "Minecart control scroll",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 19668,
-    "name": "Minecart control scroll",
-    "url": "https://oldschool.runescape.wiki/w/Minecart_control_scroll",
     "version": null
   },
   {
@@ -87330,16 +87000,6 @@
     "version": "The Depths of Despair"
   },
   {
-    "examineText": "I can use this to gain Hosidius Favour.",
-    "group": "Hosidius favour certificate",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 21759,
-    "name": "Hosidius favour certificate",
-    "url": "https://oldschool.runescape.wiki/w/Hosidius_favour_certificate",
-    "version": null
-  },
-  {
     "examineText": "The memoirs of a former ruler, written by his young heir.",
     "group": "Kharedst's memoirs",
     "isMembers": true,
@@ -87417,16 +87077,6 @@
     "itemID": 21774,
     "name": "Letter",
     "url": "https://oldschool.runescape.wiki/w/Letter_(The_Queen_of_Thieves)",
-    "version": null
-  },
-  {
-    "examineText": "I can use this to gain Piscarilius Favour.",
-    "group": "Piscarilius favour certificate",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 21775,
-    "name": "Piscarilius favour certificate",
-    "url": "https://oldschool.runescape.wiki/w/Piscarilius_favour_certificate",
     "version": null
   },
   {
@@ -90400,16 +90050,6 @@
     "version": null
   },
   {
-    "examineText": "I can use this to gain Shayzien Favour.",
-    "group": "Shayzien favour certificate",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 22365,
-    "name": "Shayzien favour certificate",
-    "url": "https://oldschool.runescape.wiki/w/Shayzien_favour_certificate",
-    "version": null
-  },
-  {
     "examineText": "It's a cyan crystal.",
     "group": "Cyan crystal (Tale of the Righteous, interface item)",
     "isMembers": true,
@@ -90417,16 +90057,6 @@
     "itemID": 22366,
     "name": "Cyan crystal",
     "url": "https://oldschool.runescape.wiki/w/Cyan_crystal_(Tale_of_the_Righteous,_interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "I can use this to gain Kourend favour.",
-    "group": "Kourend favour certificate",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 22367,
-    "name": "Kourend favour certificate",
-    "url": "https://oldschool.runescape.wiki/w/Kourend_favour_certificate",
     "version": null
   },
   {
@@ -92130,16 +91760,6 @@
     "version": null
   },
   {
-    "examineText": "I can use this to gain Lovakengj Favour.",
-    "group": "Lovakengj favour certificate",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 22760,
-    "name": "Lovakengj favour certificate",
-    "url": "https://oldschool.runescape.wiki/w/Lovakengj_favour_certificate",
-    "version": null
-  },
-  {
     "examineText": "Very good for hitting things!",
     "group": "Dinh's hammer",
     "isMembers": true,
@@ -92287,16 +91907,6 @@
     "itemID": 22775,
     "name": "Ancient letter",
     "url": "https://oldschool.runescape.wiki/w/Ancient_letter",
-    "version": null
-  },
-  {
-    "examineText": "I can use this to gain Arceuus favour.",
-    "group": "Arceuus favour certificate",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 22777,
-    "name": "Arceuus favour certificate",
-    "url": "https://oldschool.runescape.wiki/w/Arceuus_favour_certificate",
     "version": null
   },
   {
@@ -93411,13 +93021,13 @@
   },
   {
     "examineText": "I love rubbing things!",
-    "group": "Antique lamp (Architectural Alliance)",
-    "isMembers": true,
+    "group": "Antique lamp (A Kingdom Divided)",
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 23082,
     "name": "Antique lamp",
-    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_(Architectural_Alliance)",
-    "version": null
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_(A_Kingdom_Divided)",
+    "version": "1"
   },
   {
     "examineText": "Unlocks Konar's chest found atop Mount Karuulm.",
@@ -106227,7 +105837,7 @@
     "itemID": 25820,
     "name": "Antique lamp",
     "url": "https://oldschool.runescape.wiki/w/Antique_lamp_(A_Kingdom_Divided)",
-    "version": null
+    "version": "2"
   },
   {
     "examineText": "Down with the Council!",
@@ -120797,6 +120407,16 @@
     "itemID": 28788,
     "name": "Snowglobe helmet",
     "url": "https://oldschool.runescape.wiki/w/Snowglobe_helmet",
+    "version": null
+  },
+  {
+    "examineText": "A teleport to Kourend Castle.",
+    "group": "Kourend castle teleport (tablet)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28790,
+    "name": "Kourend castle teleport",
+    "url": "https://oldschool.runescape.wiki/w/Kourend_castle_teleport_(tablet)",
     "version": null
   }
 ]
