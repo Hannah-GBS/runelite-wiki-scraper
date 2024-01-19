@@ -2269,7 +2269,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow (item)",
+        "name": "Crossbow",
         "stock": "2",
         "version": null
       },
@@ -9305,7 +9305,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow (item)",
+        "name": "Crossbow",
         "stock": "2",
         "version": null
       },
@@ -10347,6 +10347,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Icy jumper",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Inverted santa hat",
         "sellPrice": "0",
         "stock": "inf",
@@ -10764,6 +10772,14 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Snow leopard toy",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Snowglobe helmet",
         "sellPrice": "0",
         "stock": "inf",
         "version": null
@@ -13952,7 +13968,7 @@
       }
     ],
     "location": "Port Piscarilius",
-    "name": "Frankie's Fishing Emporium (100% favour)",
+    "name": "Frankie's Fishing Emporium",
     "sellMultiplier": "1000"
   },
   {
@@ -16423,7 +16439,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow (item)",
+        "name": "Crossbow",
         "stock": "2",
         "version": null
       },
@@ -17278,7 +17294,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow (item)",
+        "name": "Crossbow",
         "stock": "2",
         "version": null
       },
@@ -17748,21 +17764,6 @@
       {
         "currency": "Coins",
         "name": "Studded chaps",
-        "stock": "1",
-        "version": null
-      }
-    ],
-    "location": "Varrock",
-    "name": "Horvik's Armour Shop.",
-    "sellMultiplier": "1000"
-  },
-  {
-    "buyMultiplier": "600",
-    "isMembers": false,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Black platelegs",
         "stock": "1",
         "version": null
       }
@@ -21119,7 +21120,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow (item)",
+        "name": "Crossbow",
         "stock": "5",
         "version": null
       },
@@ -22199,7 +22200,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Crossbow (item)",
+        "name": "Crossbow",
         "stock": "2",
         "version": null
       },
@@ -22366,27 +22367,6 @@
         "currency": "Coins",
         "name": "Tinderbox",
         "stock": "2",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge",
-    "name": "Lumbridge General Store",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "isMembers": false,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Box trap",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pestle and mortar",
-        "stock": "10",
         "version": null
       }
     ],
