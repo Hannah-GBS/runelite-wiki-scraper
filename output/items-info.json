@@ -5501,12 +5501,12 @@
   },
   {
     "examineText": "This fires crossbow bolts.",
-    "group": "Crossbow (item)",
+    "group": "Crossbow",
     "isMembers": false,
     "isTradeable": true,
     "itemID": 837,
     "name": "Crossbow",
-    "url": "https://oldschool.runescape.wiki/w/Crossbow_(item)",
+    "url": "https://oldschool.runescape.wiki/w/Crossbow",
     "version": null
   },
   {
@@ -74670,16 +74670,6 @@
     "version": null
   },
   {
-    "examineText": "Used in the farming industry of Hosidius.",
-    "group": "Sulphurous fertiliser",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13419,
-    "name": "Sulphurous fertiliser",
-    "url": "https://oldschool.runescape.wiki/w/Sulphurous_fertiliser",
-    "version": null
-  },
-  {
     "examineText": "It's amazing how much fertiliser Gricoller can fit in one bucket.",
     "group": "Gricoller's fertiliser",
     "isMembers": true,
@@ -74757,16 +74747,6 @@
     "itemID": 13428,
     "name": "Logavano fruit",
     "url": "https://oldschool.runescape.wiki/w/Logavano_fruit",
-    "version": null
-  },
-  {
-    "examineText": "Some freshly caught fish.",
-    "group": "Fresh fish",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13429,
-    "name": "Fresh fish",
-    "url": "https://oldschool.runescape.wiki/w/Fresh_fish",
     "version": null
   },
   {
@@ -75348,106 +75328,6 @@
     "name": "Book of arcane knowledge",
     "url": "https://oldschool.runescape.wiki/w/Book_of_arcane_knowledge",
     "version": null
-  },
-  {
-    "examineText": "Dark secrets from ancient times.",
-    "group": "Dark manuscript",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13514,
-    "name": "Dark manuscript",
-    "url": "https://oldschool.runescape.wiki/w/Dark_manuscript",
-    "version": "1"
-  },
-  {
-    "examineText": "Dark secrets from ancient times.",
-    "group": "Dark manuscript",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13515,
-    "name": "Dark manuscript",
-    "url": "https://oldschool.runescape.wiki/w/Dark_manuscript",
-    "version": "2"
-  },
-  {
-    "examineText": "Dark secrets from ancient times.",
-    "group": "Dark manuscript",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13516,
-    "name": "Dark manuscript",
-    "url": "https://oldschool.runescape.wiki/w/Dark_manuscript",
-    "version": "3"
-  },
-  {
-    "examineText": "Dark secrets from ancient times.",
-    "group": "Dark manuscript",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13517,
-    "name": "Dark manuscript",
-    "url": "https://oldschool.runescape.wiki/w/Dark_manuscript",
-    "version": "4"
-  },
-  {
-    "examineText": "Dark secrets from ancient times.",
-    "group": "Dark manuscript",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13518,
-    "name": "Dark manuscript",
-    "url": "https://oldschool.runescape.wiki/w/Dark_manuscript",
-    "version": "5"
-  },
-  {
-    "examineText": "Dark secrets from ancient times.",
-    "group": "Dark manuscript",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13519,
-    "name": "Dark manuscript",
-    "url": "https://oldschool.runescape.wiki/w/Dark_manuscript",
-    "version": "6"
-  },
-  {
-    "examineText": "Dark secrets from ancient times.",
-    "group": "Dark manuscript",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13520,
-    "name": "Dark manuscript",
-    "url": "https://oldschool.runescape.wiki/w/Dark_manuscript",
-    "version": "7"
-  },
-  {
-    "examineText": "Dark secrets from ancient times.",
-    "group": "Dark manuscript",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13521,
-    "name": "Dark manuscript",
-    "url": "https://oldschool.runescape.wiki/w/Dark_manuscript",
-    "version": "8"
-  },
-  {
-    "examineText": "Dark secrets from ancient times.",
-    "group": "Dark manuscript",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13522,
-    "name": "Dark manuscript",
-    "url": "https://oldschool.runescape.wiki/w/Dark_manuscript",
-    "version": "9"
-  },
-  {
-    "examineText": "Dark secrets from ancient times.",
-    "group": "Dark manuscript",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13523,
-    "name": "Dark manuscript",
-    "url": "https://oldschool.runescape.wiki/w/Dark_manuscript",
-    "version": "10"
   },
   {
     "examineText": "Census of King Rada III, by Matthias Vorseth.",
@@ -99330,66 +99210,6 @@
     "version": null
   },
   {
-    "examineText": "Contains a beginner clue scroll.",
-    "group": "Scroll box (beginner)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24361,
-    "name": "Scroll box (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(beginner)",
-    "version": null
-  },
-  {
-    "examineText": "Contains an easy clue scroll.",
-    "group": "Scroll box (easy)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24362,
-    "name": "Scroll box (easy)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(easy)",
-    "version": null
-  },
-  {
-    "examineText": "Contains a medium clue scroll.",
-    "group": "Scroll box (medium)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24363,
-    "name": "Scroll box (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(medium)",
-    "version": null
-  },
-  {
-    "examineText": "Contains a hard clue scroll.",
-    "group": "Scroll box (hard)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24364,
-    "name": "Scroll box (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(hard)",
-    "version": null
-  },
-  {
-    "examineText": "Contains an elite clue scroll.",
-    "group": "Scroll box (elite)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24365,
-    "name": "Scroll box (elite)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(elite)",
-    "version": null
-  },
-  {
-    "examineText": "Contains a master clue scroll.",
-    "group": "Scroll box (master)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24366,
-    "name": "Scroll box (master)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(master)",
-    "version": null
-  },
-  {
     "examineText": "Looks like a cabbage.",
     "group": "Cabbage (unobtainable item)",
     "isMembers": false,
@@ -102310,26 +102130,6 @@
     "version": null
   },
   {
-    "examineText": "A squishy mushroom from a fairy ring.",
-    "group": "Fairy mushroom",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25102,
-    "name": "Fairy mushroom",
-    "url": "https://oldschool.runescape.wiki/w/Fairy_mushroom",
-    "version": null
-  },
-  {
-    "examineText": "A strong enough memory can take you back to a familiar place.",
-    "group": "Crystal of memories",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25104,
-    "name": "Crystal of memories",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_of_memories",
-    "version": null
-  },
-  {
     "examineText": "It seems larger on the inside than it is on the outside.",
     "group": "Extradimensional bag",
     "isMembers": true,
@@ -102348,36 +102148,6 @@
     "name": "Extradimensional bag",
     "url": "https://oldschool.runescape.wiki/w/Extradimensional_bag",
     "version": "Open"
-  },
-  {
-    "examineText": "A very powerful axe in the colours of the Trailblazer League.",
-    "group": "Trailblazer axe",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25110,
-    "name": "Trailblazer axe",
-    "url": "https://oldschool.runescape.wiki/w/Trailblazer_axe",
-    "version": null
-  },
-  {
-    "examineText": "A very powerful pickaxe in the colours of the Trailblazer League.",
-    "group": "Trailblazer pickaxe",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25112,
-    "name": "Trailblazer pickaxe",
-    "url": "https://oldschool.runescape.wiki/w/Trailblazer_pickaxe",
-    "version": null
-  },
-  {
-    "examineText": "A very powerful harpoon in the colours of the Trailblazer League.",
-    "group": "Trailblazer harpoon",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 25114,
-    "name": "Trailblazer harpoon",
-    "url": "https://oldschool.runescape.wiki/w/Trailblazer_harpoon",
-    "version": null
   },
   {
     "examineText": "Special tomato to do league things.",
@@ -109007,16 +108777,6 @@
     "itemID": 26541,
     "name": "Shattered relics mystic ornament kit",
     "url": "https://oldschool.runescape.wiki/w/Shattered_relics_mystic_ornament_kit",
-    "version": null
-  },
-  {
-    "examineText": "A powerful tome filled with the knowledge of the magical arts.",
-    "group": "Arcane grimoire",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 26551,
-    "name": "Arcane grimoire",
-    "url": "https://oldschool.runescape.wiki/w/Arcane_grimoire",
     "version": null
   },
   {
@@ -120307,66 +120067,6 @@
     "itemID": 28763,
     "name": "Trailblazer reloaded bronze trophy",
     "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_bronze_trophy",
-    "version": null
-  },
-  {
-    "examineText": "A pendant which can whisk you to all sorts of locations.",
-    "group": "Globetrotter pendant",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 28765,
-    "name": "Globetrotter pendant",
-    "url": "https://oldschool.runescape.wiki/w/Globetrotter_pendant",
-    "version": null
-  },
-  {
-    "examineText": "A magical note that fell out of a banker's pocket.",
-    "group": "Banker's note (item)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 28767,
-    "name": "Banker's note",
-    "url": "https://oldschool.runescape.wiki/w/Banker%27s_note_(item)",
-    "version": null
-  },
-  {
-    "examineText": "A horn to call your loyal guardian.",
-    "group": "Guardian horn",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 28769,
-    "name": "Guardian horn",
-    "url": "https://oldschool.runescape.wiki/w/Guardian_horn",
-    "version": null
-  },
-  {
-    "examineText": "Greaves that give you blazing speed.",
-    "group": "Sage's greaves",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 28771,
-    "name": "Sage's greaves",
-    "url": "https://oldschool.runescape.wiki/w/Sage%27s_greaves",
-    "version": null
-  },
-  {
-    "examineText": "A precisely carved weapon to be used at a precise time.",
-    "group": "Sage's axe",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 28773,
-    "name": "Sage's axe",
-    "url": "https://oldschool.runescape.wiki/w/Sage%27s_axe",
-    "version": null
-  },
-  {
-    "examineText": "A powerful tome filled with the knowledge of dangerous prayers.",
-    "group": "Ruinous powers (item)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 28775,
-    "name": "Ruinous powers",
-    "url": "https://oldschool.runescape.wiki/w/Ruinous_powers_(item)",
     "version": null
   },
   {

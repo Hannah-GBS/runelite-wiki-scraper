@@ -3202,6 +3202,25 @@
   {
     "materials": [
       {
+        "name": "Pot lid",
+        "quantity": "1"
+      },
+      {
+        "name": "Pot",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Airtight pot.png|link=Airtight pot]]",
+      "name": "Airtight pot",
+      "quantity": "1"
+    },
+    "skills": []
+  },
+  {
+    "materials": [
+      {
         "name": "Pineapple chunks",
         "quantity": "1"
       },
@@ -5278,7 +5297,8 @@
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "",
+    "tools": "Chisel"
   },
   {
     "facilities": "Dom Onion's Reward Shop",
@@ -7899,6 +7919,30 @@
     "ticks": "4"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Big bass",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bass.png|link=Bass]]",
+      "name": "Bass",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "130",
+        "level": "43",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
     "materials": [
       {
         "name": "Cadantine blood potion (unf)",
@@ -8274,7 +8318,8 @@
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "",
+    "tools": "Chisel"
   },
   {
     "materials": [
@@ -9401,7 +9446,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">98,948,287</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">115,720,038</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -13112,7 +13157,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">97,548,146</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">112,703,607</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -34765,7 +34810,6 @@
     "output": {
       "image": "[[File:Elite void robe.png|link=Elite void robe]]",
       "name": "Elite void robe",
-      "outputnote": "In <span class=\"plink-template\">[[File:Trailblazer Reloaded League icon.png|link=Trailblazer Reloaded]]</span>[[Trailblazer Reloaded|Trailblazer Reloaded]], elite Void Knight robes require <span class=\"tbz-region \" data-tbz-area=\"asgarnia\">[[File:Asgarnia Area Badge.png|Asgarnia|link=Trailblazer Reloaded League/Areas/Asgarnia]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Asgarnia|Asgarnia]]</span><span class=\"tbz-check\">\u2713</span></span>, <span class=\"tbz-region \" data-tbz-area=\"kandarin\">[[File:Kandarin Area Badge.png|Kandarin|link=Trailblazer Reloaded League/Areas/Kandarin]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Kandarin|Kandarin]]</span><span class=\"tbz-check\">\u2713</span></span>, and <span class=\"tbz-region \" data-tbz-area=\"tirannwn\">[[File:Tirannwn Area Badge.png|Tirannwn|link=Trailblazer Reloaded League/Areas/Tirannwn]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Tirannwn|Tirannwn]]</span><span class=\"tbz-check\">\u2713</span></span> to obtain.",
       "quantity": "1"
     },
     "skills": [],
@@ -34807,7 +34851,6 @@
     "output": {
       "image": "[[File:Elite void top.png|link=Elite void top]]",
       "name": "Elite void top",
-      "outputnote": "In <span class=\"plink-template\">[[File:Trailblazer Reloaded League icon.png|link=Trailblazer Reloaded]]</span>[[Trailblazer Reloaded|Trailblazer Reloaded]], elite Void Knight robes require <span class=\"tbz-region \" data-tbz-area=\"asgarnia\">[[File:Asgarnia Area Badge.png|Asgarnia|link=Trailblazer Reloaded League/Areas/Asgarnia]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Asgarnia|Asgarnia]]</span><span class=\"tbz-check\">\u2713</span></span>, <span class=\"tbz-region \" data-tbz-area=\"kandarin\">[[File:Kandarin Area Badge.png|Kandarin|link=Trailblazer Reloaded League/Areas/Kandarin]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Kandarin|Kandarin]]</span><span class=\"tbz-check\">\u2713</span></span>, and <span class=\"tbz-region \" data-tbz-area=\"tirannwn\">[[File:Tirannwn Area Badge.png|Tirannwn|link=Trailblazer Reloaded League/Areas/Tirannwn]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Tirannwn|Tirannwn]]</span><span class=\"tbz-check\">\u2713</span></span> to obtain.",
       "quantity": "1"
     },
     "skills": [],
@@ -36859,7 +36902,6 @@
     "output": {
       "image": "[[File:Ferocious gloves.png|link=Ferocious gloves]]",
       "name": "Ferocious gloves",
-      "outputnote": "In <span class=\"plink-template\">[[File:Trailblazer Reloaded League icon.png|link=Trailblazer Reloaded]]</span>[[Trailblazer Reloaded|Trailblazer Reloaded]], [[Dragon Slayer II]] completion requires unlocking the <span class=\"tbz-region \" data-tbz-area=\"fremennik\">[[File:Fremennik Area Badge.png|Fremennik|link=Trailblazer Reloaded League/Areas/Fremennik]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Fremennik|Fremennik]]</span><span class=\"tbz-check\">\u2713</span></span> region.",
       "quantity": "1"
     },
     "skills": [],
@@ -70811,7 +70853,8 @@
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "",
+    "tools": "Chisel"
   },
   {
     "facilities": "Dom Onion's Reward Shop",
@@ -71556,6 +71599,30 @@
     "materials": [
       {
         "name": "Raw shark",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Shark.png|link=Shark]]",
+      "name": "Shark",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "210",
+        "level": "80",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Big shark",
         "quantity": "1"
       }
     ],
@@ -75293,7 +75360,6 @@
     "output": {
       "image": "[[File:Soulreaper axe.png|link=Soulreaper axe]]",
       "name": "Soulreaper axe",
-      "outputnote": "In <span class=\"plink-template\">[[File:Trailblazer Reloaded League icon.png|link=Trailblazer Reloaded]]</span>[[Trailblazer Reloaded|Trailblazer Reloaded]], [[the Forgotten Four]] can all drop any piece of the axe, all of which require at least <span class=\"tbz-region \" data-tbz-area=\"desert\">[[File:Desert Area Badge.png|Desert|link=Trailblazer Reloaded League/Areas/Desert]] <span class=\"tbz-name\">[[Trailblazer Reloaded League/Areas/Desert|Desert]]</span><span class=\"tbz-check\">\u2713</span></span> to access.",
       "quantity": "1"
     },
     "skills": [
@@ -80004,6 +80070,90 @@
     "facilities": "Taxidermist",
     "materials": [
       {
+        "name": "Big bass",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed big bass.png|link=Stuffed big bass]]",
+      "name": "Stuffed big bass",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Big harpoonfish",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "3500"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed big harpoonfish.png|link=Stuffed big harpoonfish]]",
+      "name": "Stuffed big harpoonfish",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Big shark",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "5000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed big shark.png|link=Stuffed big shark]]",
+      "name": "Stuffed big shark",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Big swordfish",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "2500"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Stuffed big swordfish.png|link=Stuffed big swordfish]]",
+      "name": "Stuffed big swordfish",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
         "name": "Cockatrice head",
         "quantity": "1"
       },
@@ -80251,33 +80401,6 @@
     },
     "skills": [],
     "ticks": "2"
-  },
-  {
-    "materials": [
-      {
-        "name": "Compost",
-        "quantity": "1"
-      },
-      {
-        "name": "Saltpetre",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Sulphurous fertiliser.png|link=Sulphurous fertiliser]]",
-      "name": "Sulphurous fertiliser",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Farming"
-      }
-    ],
-    "ticks": "0"
   },
   {
     "facilities": "Cooking range",
@@ -80958,6 +81081,34 @@
     "ticks": "120"
   },
   {
+    "materials": [
+      {
+        "name": "Compost",
+        "quantity": "1"
+      },
+      {
+        "name": "Saltpetre",
+        "quantity": "3"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Supercompost.png|link=Supercompost]]",
+      "name": "Supercompost",
+      "quantity": "1",
+      "subtxt": "Saltpetre"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Farming"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
     "facilities": "Bone grinder",
     "materials": [
       {
@@ -81211,6 +81362,30 @@
     "materials": [
       {
         "name": "Raw swordfish",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Swordfish.png|link=Swordfish]]",
+      "name": "Swordfish",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "140",
+        "level": "45",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Big swordfish",
         "quantity": "1"
       }
     ],
@@ -86252,7 +86427,8 @@
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "",
+    "tools": "Chisel"
   },
   {
     "facilities": "Soul Wars Reward Shop",

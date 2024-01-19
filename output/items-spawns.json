@@ -1236,6 +1236,12 @@
         "name": "Bronze axe"
       },
       {
+        "coords": "3097,3239",
+        "isMembers": false,
+        "location": "Draynor Village - near Friendly Forester",
+        "name": "Bronze axe"
+      },
+      {
         "coords": "3368,3238",
         "isMembers": false,
         "location": "Emir's Arena",
@@ -1263,6 +1269,12 @@
         "coords": "2678,3731",
         "isMembers": true,
         "location": "Rellekka - near the rock crabs",
+        "name": "Bronze axe"
+      },
+      {
+        "coords": "2729,3479",
+        "isMembers": true,
+        "location": "Seers' Village - near Friendly Forester",
         "name": "Bronze axe"
       },
       {
@@ -2558,7 +2570,7 @@
     ]
   },
   {
-    "group": "Crossbow (item)",
+    "group": "Crossbow",
     "spawns": [
       {
         "coords": "1512,3423",
@@ -5957,7 +5969,7 @@
       {
         "coords": "3426,9958",
         "isMembers": true,
-        "location": "Slayer Tower basement",
+        "location": "Slayer Tower basement (requires Telekinetic Grab)",
         "name": "Spade"
       },
       {
