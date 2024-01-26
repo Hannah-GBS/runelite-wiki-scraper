@@ -120118,5 +120118,65 @@
     "name": "Kourend castle teleport",
     "url": "https://oldschool.runescape.wiki/w/Kourend_castle_teleport_(tablet)",
     "version": null
+  },
+  {
+    "examineText": "A spiky mace hardened with Scurrius' spine.",
+    "group": "Bone mace",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28792,
+    "name": "Bone mace",
+    "url": "https://oldschool.runescape.wiki/w/Bone_mace",
+    "version": null
+  },
+  {
+    "examineText": "A shortbow made out of yew and Scurrius' spine, but still effective.",
+    "group": "Bone shortbow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28794,
+    "name": "Bone shortbow",
+    "url": "https://oldschool.runescape.wiki/w/Bone_shortbow",
+    "version": null
+  },
+  {
+    "examineText": "A slightly magical stick intertwined with Scurrius' spine.",
+    "group": "Bone staff",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28796,
+    "name": "Bone staff",
+    "url": "https://oldschool.runescape.wiki/w/Bone_staff",
+    "version": null
+  },
+  {
+    "examineText": "This can be attached to a Battlestaff, Rune Mace or Yew Shortbow.",
+    "group": "Scurrius' spine",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28798,
+    "name": "Scurrius' spine",
+    "url": "https://oldschool.runescape.wiki/w/Scurrius%27_spine",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Antique lamp (Historian Aldo)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28800,
+    "name": "Antique lamp",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_(Historian_Aldo)",
+    "version": null
+  },
+  {
+    "examineText": "I wonder if it sits.",
+    "group": "Scurry",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28801,
+    "name": "Scurry",
+    "url": "https://oldschool.runescape.wiki/w/Scurry",
+    "version": null
   }
 ]
