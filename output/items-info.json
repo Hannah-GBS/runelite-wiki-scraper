@@ -11680,7 +11680,7 @@
     "version": null
   },
   {
-    "examineText": "Yuck I don't like cabbage.",
+    "examineText": "An enigmatic cabbage.",
     "group": "Cabbage (Draynor Manor)",
     "isMembers": false,
     "isTradeable": true,
@@ -62907,16 +62907,6 @@
     "itemID": 11339,
     "name": "My notes",
     "url": "https://oldschool.runescape.wiki/w/My_notes",
-    "version": null
-  },
-  {
-    "examineText": "A record of Otto's instructions to me.",
-    "group": "Barbarian skills",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 11340,
-    "name": "Barbarian skills",
-    "url": "https://oldschool.runescape.wiki/w/Barbarian_skills",
     "version": null
   },
   {
@@ -116730,26 +116720,6 @@
     "version": null
   },
   {
-    "examineText": "They're magicly expeditious.",
-    "group": "Leprechaun charm",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28179,
-    "name": "Leprechaun charm",
-    "url": "https://oldschool.runescape.wiki/w/Leprechaun_charm",
-    "version": null
-  },
-  {
-    "examineText": "I wonder how these can be used to attract a leprechaun?",
-    "group": "Clover insignia",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28181,
-    "name": "Clover insignia",
-    "url": "https://oldschool.runescape.wiki/w/Clover_insignia",
-    "version": null
-  },
-  {
     "examineText": "A nutritional mulch made of different natural ingredients.",
     "group": "Mulch",
     "isMembers": false,
@@ -116758,26 +116728,6 @@
     "name": "Mulch",
     "url": "https://oldschool.runescape.wiki/w/Mulch",
     "version": "One ingredient"
-  },
-  {
-    "examineText": "A handy helper for spreading pollen.",
-    "group": "Bee on a stick",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28184,
-    "name": "Bee on a stick",
-    "url": "https://oldschool.runescape.wiki/w/Bee_on_a_stick",
-    "version": null
-  },
-  {
-    "examineText": "Carefully processed pollen that might make bees friendly.",
-    "group": "Powdered pollen",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28190,
-    "name": "Powdered pollen",
-    "url": "https://oldschool.runescape.wiki/w/Powdered_pollen",
-    "version": null
   },
   {
     "examineText": "Strange pollen freshly obtained from a flowering bush, useful for cross-pollination.",
@@ -119590,26 +119540,6 @@
     "version": null
   },
   {
-    "examineText": "This fuel is used to create Smoker canisters that can pacify wild bees.",
-    "group": "Smoker fuel",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28644,
-    "name": "Smoker fuel",
-    "url": "https://oldschool.runescape.wiki/w/Smoker_fuel",
-    "version": null
-  },
-  {
-    "examineText": "If used correctly, smoker canisters can pacify wild bees.",
-    "group": "Smoker canister",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28646,
-    "name": "Smoker canister",
-    "url": "https://oldschool.runescape.wiki/w/Smoker_canister",
-    "version": null
-  },
-  {
     "examineText": "A nutritional mulch made of different natural ingredients.",
     "group": "Mulch",
     "isMembers": false,
@@ -119630,26 +119560,6 @@
     "version": "Three ingredients"
   },
   {
-    "examineText": "A small charm used to make Petal Circlet.",
-    "group": "Crystal charm",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28651,
-    "name": "Crystal charm",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_charm",
-    "version": null
-  },
-  {
-    "examineText": "These can be used to attract a Dryad.",
-    "group": "Petal circlet",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28653,
-    "name": "Petal circlet",
-    "url": "https://oldschool.runescape.wiki/w/Petal_circlet",
-    "version": null
-  },
-  {
     "examineText": "A gift from a Dryad.",
     "group": "Petal garland",
     "isMembers": true,
@@ -119657,26 +119567,6 @@
     "itemID": 28655,
     "name": "Petal garland",
     "url": "https://oldschool.runescape.wiki/w/Petal_garland",
-    "version": null
-  },
-  {
-    "examineText": "This spoon has been padded with a tiny cushion to protect any eggs picked up with it.",
-    "group": "Padded spoon",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 28657,
-    "name": "Padded spoon",
-    "url": "https://oldschool.runescape.wiki/w/Padded_spoon",
-    "version": null
-  },
-  {
-    "examineText": "A tiny cushion, just about big enough for an egg.",
-    "group": "Egg cushion",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28659,
-    "name": "Egg cushion",
-    "url": "https://oldschool.runescape.wiki/w/Egg_cushion",
     "version": null
   },
   {
@@ -119697,26 +119587,6 @@
     "itemID": 28663,
     "name": "Golden pheasant egg",
     "url": "https://oldschool.runescape.wiki/w/Golden_pheasant_egg",
-    "version": null
-  },
-  {
-    "examineText": "Used to safely disarm fox poacher traps.",
-    "group": "Trap disarmer",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28665,
-    "name": "Trap disarmer",
-    "url": "https://oldschool.runescape.wiki/w/Trap_disarmer",
-    "version": null
-  },
-  {
-    "examineText": "A step-by-step guide to crafting a set of trap disarmers.",
-    "group": "Trap disarmer blueprint",
-    "isMembers": false,
-    "isTradeable": true,
-    "itemID": 28667,
-    "name": "Trap disarmer blueprint",
-    "url": "https://oldschool.runescape.wiki/w/Trap_disarmer_blueprint",
     "version": null
   },
   {
