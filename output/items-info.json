@@ -53333,7 +53333,7 @@
     "examineText": "This vegetable batta needs garnishing with equa leaves.",
     "group": "Unfinished batta (vegetable)",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 9486,
     "name": "Unfinished batta",
     "url": "https://oldschool.runescape.wiki/w/Unfinished_batta_(vegetable)",
@@ -62050,16 +62050,6 @@
     "version": null
   },
   {
-    "examineText": "Complete Shield of Arrav.",
-    "group": "Restored shield (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 11164,
-    "name": "Restored shield",
-    "url": "https://oldschool.runescape.wiki/w/Restored_shield_(unobtainable_item)",
-    "version": null
-  },
-  {
     "examineText": "Former property of the Phoenix Gang.",
     "group": "Phoenix crossbow (unobtainable item)",
     "isMembers": false,
@@ -65627,7 +65617,7 @@
     "itemID": 11916,
     "name": "Slice of birthday cake",
     "url": "https://oldschool.runescape.wiki/w/Slice_of_birthday_cake",
-    "version": "2020"
+    "version": "2024"
   },
   {
     "examineText": "A present to the community from Mods Archie, Ash, Ayiza, Curse, Ed, Ghost, Jed, John C, Kieren, Mat K, Maz, Roq, Ry, Stone, Sween, TomH, Weath, West & Wolf.",
@@ -120068,5 +120058,105 @@
     "name": "Scurry",
     "url": "https://oldschool.runescape.wiki/w/Scurry",
     "version": null
+  },
+  {
+    "examineText": "A key found while tracking zombies (Used in the Defender of Varrock quest).",
+    "group": "Grubby key (Defender of Varrock)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28803,
+    "name": "Grubby key",
+    "url": "https://oldschool.runescape.wiki/w/Grubby_key_(Defender_of_Varrock)",
+    "version": null
+  },
+  {
+    "examineText": "An empty bottle.",
+    "group": "Bottle (Defender of Varrock)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28804,
+    "name": "Bottle",
+    "url": "https://oldschool.runescape.wiki/w/Bottle_(Defender_of_Varrock)",
+    "version": null
+  },
+  {
+    "examineText": "A bottle of red mist.",
+    "group": "Bottle of mist",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28805,
+    "name": "Bottle of mist",
+    "url": "https://oldschool.runescape.wiki/w/Bottle_of_mist",
+    "version": null
+  },
+  {
+    "examineText": "A deposit of strange glowing ore that has been imbued with chaos magic.",
+    "group": "Imbued barronite",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28806,
+    "name": "Imbued barronite",
+    "url": "https://oldschool.runescape.wiki/w/Imbued_barronite",
+    "version": null
+  },
+  {
+    "examineText": "The legendary Shield of Arrav.",
+    "group": "Shield of arrav (item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28807,
+    "name": "Shield of arrav",
+    "url": "https://oldschool.runescape.wiki/w/Shield_of_arrav_(item)",
+    "version": null
+  },
+  {
+    "examineText": "This lists each of the founding elders of the Council of Avarrocka.",
+    "group": "List of elders",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28808,
+    "name": "List of elders",
+    "url": "https://oldschool.runescape.wiki/w/List_of_elders",
+    "version": null
+  },
+  {
+    "examineText": "A wise explorer.",
+    "group": "Elias white (item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28809,
+    "name": "Elias white",
+    "url": "https://oldschool.runescape.wiki/w/Elias_white_(item)",
+    "version": null
+  },
+  {
+    "examineText": "A rusty yet powerful axe.",
+    "group": "Zombie axe",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28810,
+    "name": "Zombie axe",
+    "url": "https://oldschool.runescape.wiki/w/Zombie_axe",
+    "version": null
+  },
+  {
+    "examineText": "An old rusty axe. It needs repairing before it can be used.",
+    "group": "Broken zombie axe",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28813,
+    "name": "Broken zombie axe",
+    "url": "https://oldschool.runescape.wiki/w/Broken_zombie_axe",
+    "version": null
+  },
+  {
+    "examineText": "I wonder what happens if I rub it...",
+    "group": "Antique lamp (Varrock Museum)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28820,
+    "name": "Antique lamp",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_(Varrock_Museum)",
+    "version": "Defender of Varrock"
   }
 ]
