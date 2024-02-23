@@ -5600,9 +5600,9 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "2.5",
-        "level": "1",
+        "level": "3",
         "name": "Herblore"
       }
     ],
@@ -9408,7 +9408,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">111,400,505</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">115,463,359</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -12803,6 +12803,32 @@
     "tools": "Chisel"
   },
   {
+    "facilities": "Historian Aldo",
+    "materials": [
+      {
+        "name": "Rune mace",
+        "quantity": "1"
+      },
+      {
+        "name": "Scurrius' spine",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "50000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bone mace.png|link=Bone mace]]",
+      "name": "Bone mace",
+      "quantity": "1",
+      "subtxt": "Historian Aldo"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -12823,20 +12849,20 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "yes",
         "experience": "300",
         "level": "35",
         "name": "Smithing"
       }
     ],
-    "ticks": "",
+    "ticks": "5",
     "tools": "Hammer"
   },
   {
     "facilities": "Historian Aldo",
     "materials": [
       {
-        "name": "Rune mace",
+        "name": "Yew shortbow",
         "quantity": "1"
       },
       {
@@ -12850,8 +12876,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Bone mace.png|link=Bone mace]]",
-      "name": "Bone mace",
+      "image": "[[File:Bone shortbow.png|link=Bone shortbow]]",
+      "name": "Bone shortbow",
       "quantity": "1",
       "subtxt": "Historian Aldo"
     },
@@ -12879,21 +12905,25 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "yes",
         "experience": "300",
         "level": "35",
         "name": "Fletching"
       }
     ],
-    "ticks": "3",
+    "ticks": "0",
     "tools": "Knife"
   },
   {
     "facilities": "Historian Aldo",
     "materials": [
       {
-        "name": "Yew shortbow",
+        "name": "Battlestaff",
         "quantity": "1"
+      },
+      {
+        "name": "Chaos rune",
+        "quantity": "1000"
       },
       {
         "name": "Scurrius' spine",
@@ -12906,8 +12936,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Bone shortbow.png|link=Bone shortbow]]",
-      "name": "Bone shortbow",
+      "image": "[[File:Bone staff.png|link=Bone staff]]",
+      "name": "Bone staff",
       "quantity": "1",
       "subtxt": "Historian Aldo"
     },
@@ -12939,44 +12969,14 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "yes",
         "experience": "300",
         "level": "35",
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "0",
     "tools": "chisel"
-  },
-  {
-    "facilities": "Historian Aldo",
-    "materials": [
-      {
-        "name": "Battlestaff",
-        "quantity": "1"
-      },
-      {
-        "name": "Chaos rune",
-        "quantity": "1000"
-      },
-      {
-        "name": "Scurrius' spine",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "50000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bone staff.png|link=Bone staff]]",
-      "name": "Bone staff",
-      "quantity": "1",
-      "subtxt": "Historian Aldo"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "materials": [
@@ -13295,7 +13295,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">111,189,881</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">116,205,620</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -69166,7 +69166,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Tarn's diary"
   },
   {
@@ -74991,9 +74991,9 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "No",
         "experience": "400",
-        "level": "?",
+        "level": "75",
         "name": "Magic"
       }
     ],
@@ -89292,6 +89292,56 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Broken zombie axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Zombie axe.png|link=Zombie axe]]",
+      "name": "Zombie axe",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "500",
+        "level": "70",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Broken zombie axe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Zombie axe.png|link=Zombie axe]]",
+      "name": "Zombie axe",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "500",
+        "level": "70",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Hammer"
   },
   {
     "facilities": "Zooknock",
