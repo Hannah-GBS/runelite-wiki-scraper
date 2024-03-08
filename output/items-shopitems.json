@@ -4427,7 +4427,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "320",
         "currency": "Points",
         "name": "Morrigan's coif",
         "sellPrice": "400",
@@ -4435,7 +4435,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "440",
         "currency": "Points",
         "name": "Morrigan's javelin",
         "sellPrice": "550",
@@ -4443,7 +4443,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "480",
         "currency": "Points",
         "name": "Morrigan's leather body",
         "sellPrice": "600",
@@ -4451,7 +4451,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "400",
         "currency": "Points",
         "name": "Morrigan's leather chaps",
         "sellPrice": "500",
@@ -4459,7 +4459,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "240",
         "currency": "Points",
         "name": "Morrigan's throwing axe",
         "sellPrice": "300",
@@ -4467,7 +4467,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "320",
         "currency": "Points",
         "name": "Statius's full helm",
         "sellPrice": "400",
@@ -4475,7 +4475,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "480",
         "currency": "Points",
         "name": "Statius's platebody",
         "sellPrice": "600",
@@ -4483,7 +4483,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "400",
         "currency": "Points",
         "name": "Statius's platelegs",
         "sellPrice": "500",
@@ -4491,7 +4491,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "360",
         "currency": "Points",
         "name": "Statius's warhammer",
         "sellPrice": "450",
@@ -4507,7 +4507,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "480",
         "currency": "Points",
         "name": "Vesta's chainbody",
         "sellPrice": "600",
@@ -4515,7 +4515,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "520",
         "currency": "Points",
         "name": "Vesta's longsword",
         "sellPrice": "650",
@@ -4523,7 +4523,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "440",
         "currency": "Points",
         "name": "Vesta's plateskirt",
         "sellPrice": "550",
@@ -4531,7 +4531,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "240",
         "currency": "Points",
         "name": "Vesta's spear",
         "sellPrice": "300",
@@ -4539,7 +4539,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "240",
         "currency": "Points",
         "name": "Zuriel's hood",
         "sellPrice": "300",
@@ -4547,7 +4547,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "320",
         "currency": "Points",
         "name": "Zuriel's robe bottom",
         "sellPrice": "400",
@@ -4555,7 +4555,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "400",
         "currency": "Points",
         "name": "Zuriel's robe top",
         "sellPrice": "500",
@@ -4563,7 +4563,7 @@
         "version": null
       },
       {
-        "buyPrice": "N/A",
+        "buyPrice": "240",
         "currency": "Points",
         "name": "Zuriel's staff",
         "sellPrice": "300",
@@ -15861,57 +15861,6 @@
     ],
     "location": "Grand Tree",
     "name": "Gnome Waiter",
-    "sellMultiplier": "1000"
-  },
-  {
-    "buyMultiplier": "800",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Mark of grace",
-        "name": "Amylase pack",
-        "stock": "1000",
-        "version": null
-      },
-      {
-        "currency": "Mark of grace",
-        "name": "Graceful boots",
-        "stock": "100",
-        "version": "Inventory"
-      },
-      {
-        "currency": "Mark of grace",
-        "name": "Graceful cape",
-        "stock": "100",
-        "version": "Inventory"
-      },
-      {
-        "currency": "Mark of grace",
-        "name": "Graceful gloves",
-        "stock": "100",
-        "version": "Inventory"
-      },
-      {
-        "currency": "Mark of grace",
-        "name": "Graceful hood",
-        "stock": "100",
-        "version": "Inventory"
-      },
-      {
-        "currency": "Mark of grace",
-        "name": "Graceful legs",
-        "stock": "100",
-        "version": "Inventory"
-      },
-      {
-        "currency": "Mark of grace",
-        "name": "Graceful top",
-        "stock": "100",
-        "version": "Inventory"
-      }
-    ],
-    "location": "Rogues' Den",
-    "name": "Grace",
     "sellMultiplier": "1000"
   },
   {
