@@ -9393,24 +9393,6 @@
     "ticks": "3"
   },
   {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -9426,7 +9408,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">115,418,265</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">112,556,206</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -9444,6 +9426,24 @@
       }
     ],
     "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -13295,7 +13295,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">119,639,752</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">117,345,956</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -38031,11 +38031,11 @@
   {
     "materials": [
       {
-        "name": "Shark",
+        "name": "Bass",
         "quantity": "1"
       },
       {
-        "name": "Magic leaves",
+        "name": "Yew leaves",
         "quantity": "1"
       }
     ],
@@ -38043,8 +38043,8 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "36",
-      "subtxt": "Magic leaves"
+      "quantity": "20",
+      "subtxt": "Yew leaves"
     },
     "skills": [
       {
@@ -38065,11 +38065,11 @@
   {
     "materials": [
       {
-        "name": "Bass",
+        "name": "Shark",
         "quantity": "1"
       },
       {
-        "name": "Yew leaves",
+        "name": "Magic leaves",
         "quantity": "1"
       }
     ],
@@ -38077,8 +38077,8 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "20",
-      "subtxt": "Yew leaves"
+      "quantity": "36",
+      "subtxt": "Magic leaves"
     },
     "skills": [
       {
@@ -69235,51 +69235,6 @@
     "tools": "Tarn's diary"
   },
   {
-    "facilities": "Soul Wars Reward Shop",
-    "materials": [
-      {
-        "name": "Salve amulet",
-        "quantity": "1"
-      },
-      {
-        "name": "Zeal Tokens",
-        "quantity": "320"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
-      "name": "Salve amulet(ei)",
-      "quantity": "1",
-      "subtxt": "Total - Soul Wars"
-    },
-    "skills": [],
-    "ticks": "Varies",
-    "tools": "Tarn's diary"
-  },
-  {
-    "materials": [
-      {
-        "name": "Salve amulet",
-        "quantity": "1"
-      },
-      {
-        "name": "Scroll of imbuing",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
-      "name": "Salve amulet(ei)",
-      "quantity": "1",
-      "subtxt": "Total - Emir's Arena"
-    },
-    "skills": [],
-    "ticks": "Varies",
-    "tools": "Tarn's diary"
-  },
-  {
     "materials": [
       {
         "name": "Salve amulet(i)",
@@ -69343,6 +69298,28 @@
     "facilities": "Dom Onion's Reward Shop",
     "materials": [
       {
+        "name": "Salve amulet (e)",
+        "quantity": "1"
+      },
+      {
+        "name": "Nightmare Zone points",
+        "quantity": "800000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
+      "name": "Salve amulet(ei)",
+      "quantity": "1",
+      "subtxt": "Nightmare Zone"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Dom Onion's Reward Shop",
+    "materials": [
+      {
         "name": "Salve amulet",
         "quantity": "1"
       },
@@ -69363,15 +69340,15 @@
     "tools": "Tarn's diary"
   },
   {
-    "facilities": "Dom Onion's Reward Shop",
+    "facilities": "Soul Wars Reward Shop",
     "materials": [
       {
-        "name": "Salve amulet (e)",
+        "name": "Salve amulet",
         "quantity": "1"
       },
       {
-        "name": "Nightmare Zone points",
-        "quantity": "800000"
+        "name": "Zeal Tokens",
+        "quantity": "320"
       }
     ],
     "members": "Yes",
@@ -69379,10 +69356,33 @@
       "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
       "name": "Salve amulet(ei)",
       "quantity": "1",
-      "subtxt": "Nightmare Zone"
+      "subtxt": "Total - Soul Wars"
     },
     "skills": [],
-    "ticks": "1"
+    "ticks": "Varies",
+    "tools": "Tarn's diary"
+  },
+  {
+    "materials": [
+      {
+        "name": "Salve amulet",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of imbuing",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Salve amulet(ei).png|link=Salve amulet(ei)]]",
+      "name": "Salve amulet(ei)",
+      "quantity": "1",
+      "subtxt": "Total - Emir's Arena"
+    },
+    "skills": [],
+    "ticks": "Varies",
+    "tools": "Tarn's diary"
   },
   {
     "facilities": "Soul Wars Reward Shop",
@@ -82229,7 +82229,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "40",
+        "experience": "39",
         "level": "48",
         "name": "Fletching"
       }
