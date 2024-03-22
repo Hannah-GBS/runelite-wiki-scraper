@@ -164,6 +164,159 @@
     "sellMultiplier": "1300"
   },
   {
+    "buyMultiplier": "700",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Barley",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Basket",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Basket pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cabbage",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Compost",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Compost pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty sack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Filled plant pot",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Gardening trowel",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grain",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Onion",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Plant cure",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Plant pot pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Potato",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rake",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sack pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Secateurs",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Seed dibber",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spade",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sweetcorn",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Watering can",
+        "stock": "10",
+        "version": null
+      }
+    ],
+    "location": "Ortis Farm",
+    "name": "Agelus's Farm Shop",
+    "sellMultiplier": "1000"
+  },
+  {
     "buyMultiplier": "550",
     "isMembers": true,
     "items": [
@@ -2438,6 +2591,171 @@
     "sellMultiplier": "1050"
   },
   {
+    "buyMultiplier": "650",
+    "isMembers": false,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Amulet mould",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bolt mould",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bracelet mould",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chisel",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Glassblowing pipe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Hammer",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Necklace mould",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Needle",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Ring mould",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Shears",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Thread",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tiara mould",
+        "stock": "0",
+        "version": null
+      }
+    ],
+    "location": "Civitas illa Fortis",
+    "name": "Artima's Crafting Supplies",
+    "sellMultiplier": "1000"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Beer",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Cider",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Gin",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Jug of wine",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Meat pie",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Moon-lite",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Rum",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Stew",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Sunbeam ale",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Vodka",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Whisky",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Outer Fortis",
+    "name": "Atlazora's Rest"
+  },
+  {
     "buyMultiplier": "600",
     "isMembers": false,
     "items": [
@@ -3448,6 +3766,90 @@
     ],
     "location": "1st floor of the Grand Tree. <br/> {{*}} East of the Grand Tree",
     "name": "Barman (Blurberry Bar)"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Beer",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Cider",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Gin",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Jug of wine",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Meat pie",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Moon-lite",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Rum",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Stew",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Sunbeam ale",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Vodka",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Whisky",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Outer Fortis",
+    "name": "Bartender (Atlazora's Rest)"
   },
   {
     "isMembers": true,
@@ -5139,6 +5541,252 @@
     "sellMultiplier": "1300"
   },
   {
+    "buyMultiplier": "600",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Adamant dagger",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Adamant sq shield",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Adamant sword",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Adamant warhammer",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze dagger",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze sq shield",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze sword",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze warhammer",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron dagger",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron sq shield",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron sword",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron warhammer",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril dagger",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril sq shield",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril sword",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril warhammer",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel dagger",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel sq shield",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel sword",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel warhammer",
+        "stock": "4",
+        "version": null
+      }
+    ],
+    "location": "Cam Torum",
+    "name": "Cam Torum Blacksmith",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "400",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze pickaxe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Charcoal",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chisel",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Hammer",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Knife",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Needle",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pestle and mortar",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pie dish",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rope",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spade",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Thread",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tinderbox",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Unlit torch",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "Cam Torum",
+    "name": "Cam Torum General Store",
+    "sellMultiplier": "1300"
+  },
+  {
     "buyMultiplier": "400",
     "isMembers": true,
     "items": [
@@ -5603,6 +6251,477 @@
     ],
     "location": "Castle Wars",
     "name": "Castle Wars Ticket Exchange"
+  },
+  {
+    "buyMultiplier": "700",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Banana",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cabbage",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Coconut",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "20",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Onion",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Orange",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Papaya fruit",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pineapple",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Potato",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw bass",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw beef",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw chicken",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw cod",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw herring",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw rabbit",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw swordfish",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw tuna",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Redberries",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Strawberry",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sweetcorn",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Watermelon",
+        "stock": "0",
+        "version": null
+      }
+    ],
+    "location": "Civitas illa Fortis",
+    "name": "Cobado",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "700",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Banana",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cabbage",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Coconut",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "20",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Onion",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Orange",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Papaya fruit",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pineapple",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Potato",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw bass",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw beef",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw chicken",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw cod",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw herring",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw rabbit",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw swordfish",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw tuna",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Redberries",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Strawberry",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sweetcorn",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Watermelon",
+        "stock": "0",
+        "version": null
+      }
+    ],
+    "location": "Civitas illa Fortis",
+    "name": "Cobado's Groceries",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "700",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Diamond",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Diamond amulet",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Diamond bracelet",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Diamond necklace",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Diamond ring",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Emerald",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Emerald amulet",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Emerald bracelet",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Emerald necklace",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Emerald ring",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Gold amulet",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Gold amulet",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Gold bracelet",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Gold necklace",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Gold necklace",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Gold ring",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Ruby",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Ruby amulet",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Ruby bracelet",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Ruby necklace",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Ruby ring",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sapphire",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sapphire amulet",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sapphire bracelet",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sapphire necklace",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sapphire ring",
+        "stock": "0",
+        "version": null
+      }
+    ],
+    "location": "Cam Torum",
+    "name": "Conara's Jewels",
+    "sellMultiplier": "1000"
   },
   {
     "buyMultiplier": "500",
@@ -13534,6 +14653,81 @@
     "sellMultiplier": "1000"
   },
   {
+    "buyMultiplier": "550",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Black skirt",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Blue cape",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Blue skirt",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Brown apron",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Green cape",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Leather boots",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Leather gloves",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pink skirt",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Red cape",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "White apron",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Yellow cape",
+        "stock": "4",
+        "version": null
+      }
+    ],
+    "location": "Civitas illa Fortis",
+    "name": "Floria's Fashion",
+    "sellMultiplier": "1000"
+  },
+  {
     "buyMultiplier": "700",
     "isMembers": true,
     "items": [
@@ -13748,6 +14942,432 @@
     ],
     "location": "Seers' Village",
     "name": "Forester's Arms"
+  },
+  {
+    "buyMultiplier": "600",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Adamant longsword",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Adamant platebody",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Adamant platelegs",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Adamant plateskirt",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Adamant scimitar",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Adamant spear",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze longsword",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze platebody",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze platelegs",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze plateskirt",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze scimitar",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze spear",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron longsword",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron platebody",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron platelegs",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron plateskirt",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron scimitar",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron spear",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril longsword",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril platebody",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril platelegs",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril plateskirt",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril scimitar",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril spear",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel longsword",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel platebody",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel platelegs",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel plateskirt",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel scimitar",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel spear",
+        "stock": "4",
+        "version": null
+      }
+    ],
+    "location": "Civitas illa Fortis",
+    "name": "Fortis Blacksmith",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "950",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bear fur",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Common kebbit fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Desert devil fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Feldip weasel fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fox fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Graahk fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grey wolf fur",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jaguar fur",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Kyatt fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Larupia fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Moonlight antelope fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Polar kebbit fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sunlight antelope fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tatty graahk fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tatty kyatt fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tatty larupia fur",
+        "stock": "0",
+        "version": null
+      }
+    ],
+    "location": "Civitas illa Fortis",
+    "name": "Fortis Fur Stall",
+    "sellMultiplier": "1200"
+  },
+  {
+    "buyMultiplier": "800",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Diamond",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Emerald",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Ruby",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sapphire",
+        "stock": "2",
+        "version": null
+      }
+    ],
+    "location": "Civitas illa Fortis",
+    "name": "Fortis Gem Stall",
+    "sellMultiplier": "1500"
+  },
+  {
+    "buyMultiplier": "400",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chisel",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Hammer",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Knife",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Needle",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rope",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spade",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Thread",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tinderbox",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "Civitas illa Fortis",
+    "name": "Fortis General Store",
+    "sellMultiplier": "1300"
   },
   {
     "isMembers": false,
@@ -17737,6 +19357,57 @@
     "name": "Hudo"
   },
   {
+    "buyMultiplier": "700",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Empty vial pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Eye of newt",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Eye of newt pack",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pestle and mortar",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Vial",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Vial of water",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Water-filled vial pack",
+        "stock": "100",
+        "version": null
+      }
+    ],
+    "location": "Cam Torum",
+    "name": "Huita's Herbal Supplies",
+    "sellMultiplier": "1000"
+  },
+  {
     "isMembers": true,
     "items": [
       {
@@ -17861,6 +19532,87 @@
     ],
     "location": "North-east of the Sorcerer's Tower",
     "name": "Ignatius Vulcan"
+  },
+  {
+    "buyMultiplier": "400",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bird snare",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bird snare pack",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Box trap",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Box trap pack",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Butterfly jar",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Butterfly net",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Magic box",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Magic imp box pack",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Noose wand",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rabbit snare",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Teasing stick",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Unlit torch",
+        "stock": "20",
+        "version": null
+      }
+    ],
+    "location": "Hunters' Guild",
+    "name": "Imia's Supplies",
+    "sellMultiplier": "1300"
   },
   {
     "isMembers": true,
@@ -24002,6 +25754,111 @@
     "sellMultiplier": "1000"
   },
   {
+    "buyMultiplier": "600",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Air rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Air rune pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Body rune",
+        "stock": "3000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chaos rune",
+        "stock": "1000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chaos rune pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Death rune",
+        "stock": "500",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Earth rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Earth rune pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fire rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fire rune pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Law rune",
+        "stock": "500",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mind rune",
+        "stock": "3000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mind rune pack",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Nature rune",
+        "stock": "500",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Water rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Water rune pack",
+        "stock": "100",
+        "version": null
+      }
+    ],
+    "location": "Cam Torum",
+    "name": "Nahta",
+    "sellMultiplier": "1000"
+  },
+  {
     "buyMultiplier": "400",
     "isMembers": true,
     "items": [
@@ -24997,6 +26854,105 @@
     "sellMultiplier": "1100"
   },
   {
+    "buyMultiplier": "",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chisel",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Hammer",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Knife",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Needle",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rope",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spade",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Thread",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tinderbox",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "Outer Fortis",
+    "name": "Outer Fortis General Store",
+    "sellMultiplier": ""
+  },
+  {
     "buyMultiplier": "400",
     "isMembers": false,
     "items": [
@@ -25061,6 +27017,135 @@
     ],
     "location": "Shilo Village",
     "name": "Paramaya Inn"
+  },
+  {
+    "buyMultiplier": "400",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bear fur",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Common kebbit fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Desert devil fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Feldip weasel fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fox fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fur",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Graahk fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grey wolf fur",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jaguar fur",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Kyatt fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Larupia fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mixed hide base",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Moonlight antelope fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Needle",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Polar kebbit fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sunlight antelope fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tatty graahk fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tatty kyatt fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tatty larupia fur",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Thread",
+        "stock": "100",
+        "version": null
+      }
+    ],
+    "location": "Hunter Guild",
+    "name": "Pellem's Fur Store",
+    "sellMultiplier": "1300"
   },
   {
     "buyMultiplier": "550",
@@ -25247,6 +27332,240 @@
     ],
     "location": "Volcanic Mine",
     "name": "Petrified Pete's Ore Shop",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "700",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bait pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Big fishing net",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Feather",
+        "stock": "1000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Feather pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fishing bait",
+        "stock": "1000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fishing rod",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fly fishing rod",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Harpoon",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Lobster pot",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw bass",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw cod",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw herring",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw lobster",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw mackerel",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw sardine",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw swordfish",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw tuna",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Small fishing net",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "South-east of Sunset Coast",
+    "name": "Picaria",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "700",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bait pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Big fishing net",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Feather",
+        "stock": "1000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Feather pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fishing bait",
+        "stock": "1000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fishing rod",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fly fishing rod",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Harpoon",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Lobster pot",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw bass",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw cod",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw herring",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw lobster",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw mackerel",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw sardine",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw swordfish",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw tuna",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Small fishing net",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "Sunset Coast",
+    "name": "Picaria's Fishing Shop",
     "sellMultiplier": "1000"
   },
   {
@@ -29552,6 +31871,51 @@
     "name": "Speedrunning Reward Shop"
   },
   {
+    "buyMultiplier": "400",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Adamant mace",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze mace",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron mace",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril mace",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rune mace",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel mace",
+        "stock": "4",
+        "version": null
+      }
+    ],
+    "location": "Outer Fortis",
+    "name": "Spike's Spikes",
+    "sellMultiplier": "1000"
+  },
+  {
     "isMembers": true,
     "items": [
       {
@@ -29565,6 +31929,93 @@
     ],
     "location": "Coal Trucks",
     "name": "Stankers"
+  },
+  {
+    "buyMultiplier": "400",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bronze axe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze pickaxe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Charcoal",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chisel",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Hammer",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Knife",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Papyrus",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rope",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spade",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tinderbox",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Unlit torch",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "Sunset Coast",
+    "name": "Sunset Coast General Store",
+    "sellMultiplier": "1300"
   },
   {
     "isMembers": false,
@@ -30106,9 +32557,107 @@
         "version": null
       }
     ],
-    "location": "Miscellania dungeon",
+    "location": "Miscellania and Etceteria dungeon",
     "name": "The Esoterican Arms",
     "sellMultiplier": "1000"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Beer",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Cider",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Cup of tea",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Eclipse wine",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Gin",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Jug of wine",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Meat pie",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Moon-lite",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Rum",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Stew",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Sunbeam ale",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Vodka",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Whisky",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Outer Fortis",
+    "name": "The Flaming Arrow"
   },
   {
     "buyMultiplier": "550",
@@ -30351,6 +32900,83 @@
     "sellMultiplier": "1100"
   },
   {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Beer",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Cider",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Dwarven stout",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Jug of wine",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Meat pie",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Steamforge brew",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Stew",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Sun-shine",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Whisky",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Wizard's mind bomb",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Cam Torum",
+    "name": "The Lost Pickaxe"
+  },
+  {
     "isMembers": false,
     "items": [
       {
@@ -30397,6 +33023,111 @@
     ],
     "location": "Mos Le'Harmless",
     "name": "The Other Inn.",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "600",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Air rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Air rune pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Body rune",
+        "stock": "3000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chaos rune",
+        "stock": "1000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chaos rune pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Death rune",
+        "stock": "500",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Earth rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Earth rune pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fire rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fire rune pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Law rune",
+        "stock": "500",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mind rune",
+        "stock": "3000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mind rune pack",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Nature rune",
+        "stock": "500",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Water rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Water rune pack",
+        "stock": "100",
+        "version": null
+      }
+    ],
+    "location": "Cam Torum",
+    "name": "The Runic Emporium",
     "sellMultiplier": "1000"
   },
   {
@@ -30686,6 +33417,75 @@
     "items": [
       {
         "currency": "Coins",
+        "name": "Adamant full helm",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Adamant med helm",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze full helm",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze med helm",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron full helm",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron med helm",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril full helm",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril med helm",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel full helm",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel med helm",
+        "stock": "4",
+        "version": null
+      }
+    ],
+    "location": "Sunset Coast",
+    "name": "Thurid's Brain Buckets",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "600",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
         "name": "Air rune",
         "stock": "5000",
         "version": null
@@ -30815,6 +33615,63 @@
     ],
     "location": "Dorgesh-Kaan market",
     "name": "Tindar"
+  },
+  {
+    "buyMultiplier": "600",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Adamant pickaxe",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze pickaxe",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chisel",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Hammer",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron pickaxe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril pickaxe",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rune pickaxe",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel pickaxe",
+        "stock": "4",
+        "version": null
+      }
+    ],
+    "location": "Cam Torum",
+    "name": "Tizoro's Pickaxes",
+    "sellMultiplier": "1000"
   },
   {
     "buyMultiplier": "600",
@@ -34419,6 +37276,57 @@
     ],
     "location": "Shilo Village",
     "name": "Yanni Salika"
+  },
+  {
+    "buyMultiplier": "550",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Apple pie",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bread",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fish pie",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Garden pie",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Meat pie",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Redberry pie",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "Cam Torum",
+    "name": "Yarnio's Baked Goods",
+    "sellMultiplier": "1000"
   },
   {
     "buyMultiplier": "600",

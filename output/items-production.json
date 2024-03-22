@@ -7871,6 +7871,27 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Basic quetzal whistle blueprint",
+        "quantity": "1"
+      },
+      {
+        "name": "Willow logs",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Basic quetzal whistle.png|link=Basic quetzal whistle]]",
+      "name": "Basic quetzal whistle",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Knife"
+  },
+  {
     "facilities": "Loom",
     "materials": [
       {
@@ -9393,6 +9414,204 @@
     "ticks": "3"
   },
   {
+    "materials": [
+      {
+        "name": "Black warlock_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
+      "name": "Black warlock mix (2)",
+      "quantity": "1",
+      "subtxt": "Raw Wild Kebbit"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black warlock_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw larupia",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
+      "name": "Black warlock mix (2)",
+      "quantity": "1",
+      "subtxt": "Larupia"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black warlock_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
+      "name": "Black warlock mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed Kebbit"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black warlock_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw graahk",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
+      "name": "Black warlock mix (2)",
+      "quantity": "1",
+      "subtxt": "Graahk"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black warlock_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw kyatt",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
+      "name": "Black warlock mix (2)",
+      "quantity": "1",
+      "subtxt": "Kyatt"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black warlock_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw pyre fox",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
+      "name": "Black warlock mix (2)",
+      "quantity": "1",
+      "subtxt": "Pyre fox"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black warlock_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw sunlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
+      "name": "Black warlock mix (2)",
+      "quantity": "1",
+      "subtxt": "Sunlight Antelope"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black warlock_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw dashing kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
+      "name": "Black warlock mix (2)",
+      "quantity": "1",
+      "subtxt": "Dashing Kebbit"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black warlock_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw moonlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
+      "name": "Black warlock mix (2)",
+      "quantity": "1",
+      "subtxt": "Moonlight Antelope"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -9408,7 +9627,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">112,556,206</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">117,714,361</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -13295,7 +13514,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">117,345,956</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">116,540,748</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -17786,6 +18005,30 @@
     "ticks": "1"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw sunlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Burnt antelope.png|link=Burnt antelope]]",
+      "name": "Burnt antelope",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "68",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
     "materials": [
       {
         "name": "Raw guanic bat (0)",
@@ -20436,6 +20679,43 @@
     "tools": "Pestle and mortar"
   },
   {
+    "facilities": "Teak eagle lectern",
+    "materials": [
+      {
+        "name": "Law rune",
+        "quantity": "2"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Soft clay",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Civitas illa fortis teleport (tablet).png|link=Civitas illa fortis teleport (tablet)]]",
+      "name": "Civitas illa fortis teleport (tablet)",
+      "quantity": "1",
+      "txt": "Civitas illa fortis teleport"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "64",
+        "level": "54",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
     "materials": [
       {
         "name": "Silk",
@@ -20935,6 +21215,54 @@
     "facilities": "Cooking range",
     "materials": [
       {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked barb-tailed kebbit.png|link=Cooked barb-tailed kebbit]]",
+      "name": "Cooked barb-tailed kebbit",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "106",
+        "level": "32",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw bream",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked bream.png|link=Cooked bream]]",
+      "name": "Cooked bream",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "40",
+        "level": "30",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
         "name": "Raw chicken",
         "quantity": "1"
       }
@@ -21087,6 +21415,30 @@
     "facilities": "Cooking range",
     "materials": [
       {
+        "name": "Raw dashing kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked dashing kebbit.png|link=Cooked dashing kebbit]]",
+      "name": "Cooked dashing kebbit",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "215",
+        "level": "82",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
         "name": "Raw fishcake",
         "quantity": "1"
       }
@@ -21102,6 +21454,30 @@
         "boostable": "Yes",
         "experience": "100",
         "level": "31",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw graahk",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked graahk.png|link=Cooked graahk]]",
+      "name": "Cooked graahk",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "?",
+        "level": "41",
         "name": "Cooking"
       }
     ],
@@ -21151,6 +21527,54 @@
         "boostable": "No",
         "experience": "190",
         "level": "30",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw kyatt",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked kyatt.png|link=Cooked kyatt]]",
+      "name": "Cooked kyatt",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "?",
+        "level": "51",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw larupia",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked larupia.png|link=Cooked larupia]]",
+      "name": "Cooked larupia",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "92",
+        "level": "31",
         "name": "Cooking"
       }
     ],
@@ -21309,6 +21733,30 @@
     "facilities": "Cooking range",
     "materials": [
       {
+        "name": "Raw moonlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked moonlight antelope.png|link=Cooked moonlight antelope]]",
+      "name": "Cooked moonlight antelope",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "220",
+        "level": "92",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
         "name": "Raw mystery meat",
         "quantity": "1"
       }
@@ -21352,6 +21800,30 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw pyre fox",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked pyre fox.png|link=Cooked pyre fox]]",
+      "name": "Cooked pyre fox",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "154",
+        "level": "59",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "facilities": "Cooking range",
@@ -21405,6 +21877,30 @@
     "facilities": "Cooking range",
     "materials": [
       {
+        "name": "Raw sunlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked sunlight antelope.png|link=Cooked sunlight antelope]]",
+      "name": "Cooked sunlight antelope",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "175",
+        "level": "68",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
         "name": "Sweetcorn",
         "quantity": "1"
       }
@@ -21424,6 +21920,30 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked wild kebbit.png|link=Cooked wild kebbit]]",
+      "name": "Cooked wild kebbit",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "73",
+        "level": "23",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "materials": [
@@ -36486,6 +37006,31 @@
   {
     "materials": [
       {
+        "name": "Basic quetzal whistle",
+        "quantity": "1"
+      },
+      {
+        "name": "Enhanced quetzal whistle blueprint",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew logs",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Enhanced quetzal whistle.png|link=Enhanced quetzal whistle]]",
+      "name": "Enhanced quetzal whistle",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
         "name": "Kbd heads",
         "quantity": "1"
       }
@@ -44067,6 +44612,66 @@
   {
     "materials": [
       {
+        "name": "Teak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Jerboa tail",
+        "quantity": "5"
+      },
+      {
+        "name": "Hunter spear tips",
+        "quantity": "5"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hunter's spear.png|link=Hunter's spear]]",
+      "name": "Hunter's spear",
+      "quantity": "5"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "9.5",
+        "level": "60",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight antelope antler",
+        "quantity": "1"
+      },
+      {
+        "name": "Hunters' crossbow",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hunters' sunlight crossbow.png|link=Hunters' sunlight crossbow]]",
+      "name": "Hunters' sunlight crossbow",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "74",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
         "name": "Hunter potion(2)",
         "quantity": "1"
       },
@@ -45145,6 +45750,34 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Swamp tar",
+        "quantity": "15"
+      },
+      {
+        "name": "Irit leaf",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Irit tar.png|link=Irit tar]]",
+      "name": "Irit tar",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "85",
+        "level": "55",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
   },
   {
     "facilities": "Anvil",
@@ -46973,6 +47606,61 @@
     "ticks": "20"
   },
   {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Jug of sunfire wine",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Jug of blessed sunfire wine.png|link=Jug of blessed sunfire wine]]",
+      "name": "Jug of blessed sunfire wine",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Jug of wine",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Jug of blessed wine.png|link=Jug of blessed wine]]",
+      "name": "Jug of blessed wine",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunfire splinters",
+        "quantity": "2"
+      },
+      {
+        "name": "Jug of wine",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Jug of sunfire wine.png|link=Jug of sunfire wine]]",
+      "name": "Jug of sunfire wine",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Pestle and mortar"
+  },
+  {
     "facilities": "Water",
     "materials": [
       {
@@ -47396,7 +48084,7 @@
     "output": {
       "image": "[[File:Kebbit bolts.png|link=Kebbit bolts]]",
       "name": "Kebbit bolts",
-      "quantity": "6"
+      "quantity": "12"
     },
     "skills": [
       {
@@ -48169,6 +48857,70 @@
     },
     "skills": [],
     "ticks": "117"
+  },
+  {
+    "materials": [
+      {
+        "name": "Medium fur pouch",
+        "quantity": "1"
+      },
+      {
+        "name": "Kyatt fur",
+        "quantity": "3"
+      },
+      {
+        "name": "Thread",
+        "quantity": "0.2"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Large fur pouch.png|link=Large fur pouch]]",
+      "name": "Large fur pouch",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "60",
+        "level": "65",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Small meat pouch",
+        "quantity": "1"
+      },
+      {
+        "name": "Sunlight antelope fur",
+        "quantity": "3"
+      },
+      {
+        "name": "Thread",
+        "quantity": "0.2"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Large meat pouch.png|link=Large meat pouch]]",
+      "name": "Large meat pouch",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "60",
+        "level": "65",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
   },
   {
     "materials": [
@@ -49356,7 +50108,7 @@
     "output": {
       "image": "[[File:Long kebbit bolts.png|link=Long kebbit bolts]]",
       "name": "Long kebbit bolts",
-      "quantity": "6"
+      "quantity": "12"
     },
     "skills": [
       {
@@ -51032,6 +51784,30 @@
     "tools": "Knife"
   },
   {
+    "materials": [
+      {
+        "name": "Jerboa tail",
+        "quantity": "1"
+      },
+      {
+        "name": "Smooth leaf",
+        "quantity": "1"
+      },
+      {
+        "name": "Sticky leaf",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Makeshift poultice.png|link=Makeshift poultice]]",
+      "name": "Makeshift poultice",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Volcanic Forge",
     "materials": [
       {
@@ -52096,6 +52872,38 @@
     },
     "skills": [],
     "ticks": "117"
+  },
+  {
+    "materials": [
+      {
+        "name": "Small fur pouch",
+        "quantity": "1"
+      },
+      {
+        "name": "Graahk fur",
+        "quantity": "3"
+      },
+      {
+        "name": "Thread",
+        "quantity": "0.2"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Medium fur pouch.png|link=Medium fur pouch]]",
+      "name": "Medium fur pouch",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "40",
+        "level": "50",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
   },
   {
     "facilities": "Bone grinder",
@@ -54411,6 +55219,134 @@
   {
     "materials": [
       {
+        "name": "Mixed hide base",
+        "quantity": "1"
+      },
+      {
+        "name": "Sunlight antelope fur",
+        "quantity": "1"
+      },
+      {
+        "name": "Thread",
+        "quantity": "0.2"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mixed hide boots.png|link=Mixed hide boots]]",
+      "name": "Mixed hide boots",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "75",
+        "level": "69",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mixed hide base",
+        "quantity": "1"
+      },
+      {
+        "name": "Jaguar fur",
+        "quantity": "1"
+      },
+      {
+        "name": "Thread",
+        "quantity": "0.2"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mixed hide cape.png|link=Mixed hide cape]]",
+      "name": "Mixed hide cape",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "62",
+        "level": "68",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mixed hide base",
+        "quantity": "1"
+      },
+      {
+        "name": "Fox fur",
+        "quantity": "3"
+      },
+      {
+        "name": "Thread",
+        "quantity": "0.2"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mixed hide legs.png|link=Mixed hide legs]]",
+      "name": "Mixed hide legs",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "210",
+        "level": "71",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mixed hide base",
+        "quantity": "1"
+      },
+      {
+        "name": "Sunlight antelope fur",
+        "quantity": "2"
+      },
+      {
+        "name": "Thread",
+        "quantity": "0.2"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mixed hide top.png|link=Mixed hide top]]",
+      "name": "Mixed hide top",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "150",
+        "level": "72",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
         "name": "Pineapple",
         "quantity": "2"
       },
@@ -55132,6 +56068,47 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Moonlight antelope antler",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight antler bolts.png|link=Moonlight antler bolts]]",
+      "name": "Moonlight antler bolts",
+      "quantity": "12"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "12",
+        "level": "72",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight grub",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight grub paste.png|link=Moonlight grub paste]]",
+      "name": "Moonlight grub paste",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Pestle and mortar"
+  },
+  {
     "facilities": "Brewery",
     "materials": [
       {
@@ -55290,6 +56267,54 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw moonlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
+      "name": "Moonlight moth mix (2)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Vial of water",
+        "quantity": "1"
+      },
+      {
+        "name": "Moonlight grub paste",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight potion(4).png|link=Moonlight potion(4)]]",
+      "name": "Moonlight potion(4)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "No",
+        "level": "38",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
   },
   {
     "facilities": "Cooking range",
@@ -60753,6 +61778,31 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Enhanced quetzal whistle",
+        "quantity": "1"
+      },
+      {
+        "name": "Perfected quetzal whistle blueprint",
+        "quantity": "1"
+      },
+      {
+        "name": "Redwood logs",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Perfected quetzal whistle.png|link=Perfected quetzal whistle]]",
+      "name": "Perfected quetzal whistle",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -70138,6 +71188,204 @@
   {
     "materials": [
       {
+        "name": "Sapphire_glacialis_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
+      "name": "Sapphire glacialis mix (2)",
+      "quantity": "1",
+      "subtxt": "Raw Wild Kebbit"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sapphire_glacialis_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw larupia",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
+      "name": "Sapphire glacialis mix (2)",
+      "quantity": "1",
+      "subtxt": "Larupia"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sapphire_glacialis_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
+      "name": "Sapphire glacialis mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed Kebbit"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sapphire_glacialis_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw graahk",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
+      "name": "Sapphire glacialis mix (2)",
+      "quantity": "1",
+      "subtxt": "Graahk"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sapphire_glacialis_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw kyatt",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
+      "name": "Sapphire glacialis mix (2)",
+      "quantity": "1",
+      "subtxt": "Kyatt"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sapphire_glacialis_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw pyre fox",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
+      "name": "Sapphire glacialis mix (2)",
+      "quantity": "1",
+      "subtxt": "Pyre fox"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sapphire_glacialis_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw sunlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
+      "name": "Sapphire glacialis mix (2)",
+      "quantity": "1",
+      "subtxt": "Sunlight Antelope"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sapphire_glacialis_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw dashing kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
+      "name": "Sapphire glacialis mix (2)",
+      "quantity": "1",
+      "subtxt": "Dashing Kebbit"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sapphire_glacialis_(item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw moonlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
+      "name": "Sapphire glacialis mix (2)",
+      "quantity": "1",
+      "subtxt": "Moonlight Antelope"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
         "name": "Bullseye lantern (unf)",
         "quantity": "1"
       },
@@ -73926,6 +75174,62 @@
     },
     "skills": [],
     "ticks": "117"
+  },
+  {
+    "materials": [
+      {
+        "name": "Larupia fur",
+        "quantity": "4"
+      },
+      {
+        "name": "Thread",
+        "quantity": "0.2"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Small fur pouch.png|link=Small fur pouch]]",
+      "name": "Small fur pouch",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "20",
+        "level": "35",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Fox fur",
+        "quantity": "4"
+      },
+      {
+        "name": "Thread",
+        "quantity": "0.2"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Small meat pouch.png|link=Small meat pouch]]",
+      "name": "Small meat pouch",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "30",
+        "level": "35",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
   },
   {
     "facilities": "Bone grinder",
@@ -80145,6 +81449,30 @@
     ],
     "ticks": "1",
     "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight antelope antler",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight antler bolts.png|link=Sunlight antler bolts]]",
+      "name": "Sunlight antler bolts",
+      "quantity": "12"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "62",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Chisel"
   },
   {
     "materials": [
