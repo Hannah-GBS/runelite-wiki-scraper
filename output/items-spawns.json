@@ -298,6 +298,12 @@
         "name": "Beer glass"
       },
       {
+        "coords": "1673,3155",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - Sunrise Palace (1st floor)",
+        "name": "Beer glass"
+      },
+      {
         "coords": "2563, 2867",
         "isMembers": false,
         "location": "Corsair Cove (1st floor)",
@@ -348,6 +354,18 @@
         "coords": "2658,3676",
         "isMembers": true,
         "location": "Rellekka - longhall bar",
+        "name": "Beer tankard"
+      },
+      {
+        "coords": "1519,2989",
+        "isMembers": true,
+        "location": "Sunset Coast 1st floor",
+        "name": "Beer tankard"
+      },
+      {
+        "coords": "1522,2986",
+        "isMembers": true,
+        "location": "Sunset Coast 2nd floor",
         "name": "Beer tankard"
       }
     ]
@@ -1115,6 +1133,18 @@
         "isMembers": false,
         "location": "Gwenith - inside Preswylwyr Dall's home",
         "name": "Bread"
+      },
+      {
+        "coords": "1672,3159",
+        "isMembers": true,
+        "location": "Sunrise Palace 1st floor",
+        "name": "Bread"
+      },
+      {
+        "coords": "1521,2987",
+        "isMembers": true,
+        "location": "Sunset Coast 2nd floor",
+        "name": "Bread"
       }
     ]
   },
@@ -1431,6 +1461,12 @@
         "coords": "2801,4572",
         "isMembers": true,
         "location": "Abandoned Mine - level 2",
+        "name": "Bronze dagger"
+      },
+      {
+        "coords": "1624,3166",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
         "name": "Bronze dagger"
       },
       {
@@ -1902,6 +1938,12 @@
         "name": "Bucket of water"
       },
       {
+        "coords": "1435,9587",
+        "isMembers": true,
+        "location": "Cam Torum - 1st floor of The Lost Pickaxe",
+        "name": "Bucket of water"
+      },
+      {
         "coords": "2820,3452",
         "isMembers": true,
         "location": "Catherby - Caleb's house",
@@ -2236,6 +2278,12 @@
         "name": "Lit candle"
       },
       {
+        "coords": "1451,3193",
+        "isMembers": true,
+        "location": "The Teomat - northern building",
+        "name": "Lit candle"
+      },
+      {
         "coords": "3208,3395",
         "isMembers": true,
         "location": "Varrock Swordshop (1st floor)",
@@ -2370,6 +2418,12 @@
         "coords": "1452,9585",
         "isMembers": true,
         "location": "Cam Torum - on a crate in blacksmith basement",
+        "name": "Chisel"
+      },
+      {
+        "coords": "1657,3142",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - on a crate in the Fortis Blacksmith store",
         "name": "Chisel"
       },
       {
@@ -3067,7 +3121,7 @@
       {
         "coords": "1555,3035",
         "isMembers": true,
-        "location": "Hunter Guild 1st floor",
+        "location": "Guildmaster Apatura's quarters, top floor",
         "name": "Eclipse wine"
       }
     ]
@@ -3421,6 +3475,12 @@
     "group": "Gold bar",
     "spawns": [
       {
+        "coords": "1743,3176",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - thieves hideout (1st floor){{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "name": "Gold bar"
+      },
+      {
         "coords": "2057,8985",
         "isMembers": false,
         "location": "Corsair Cove Dungeon - eastern end{{Refn|name=telegrab}}",
@@ -3539,7 +3599,7 @@
       {
         "coords": "1561,3045",
         "isMembers": true,
-        "location": "Hunter Guild 1st floor",
+        "location": "Hunter Guild (1st floor)",
         "name": "Grain"
       },
       {
@@ -3552,6 +3612,12 @@
         "coords": "1682,3677",
         "isMembers": true,
         "location": "Kingstown - Councillor Hughes' house (2nd floor)",
+        "name": "Grain"
+      },
+      {
+        "coords": "1512,2996",
+        "isMembers": true,
+        "location": "Sunset Coast (1st floor)",
         "name": "Grain"
       }
     ]
@@ -3634,7 +3700,7 @@
       },
       {
         "coords": "1639,2924",
-        "isMembers": false,
+        "isMembers": true,
         "location": "Colossal Wyrm Remains",
         "name": "Hammer"
       },
@@ -3948,6 +4014,17 @@
     ]
   },
   {
+    "group": "Iron dart",
+    "spawns": [
+      {
+        "coords": "1614,3176",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Iron dart"
+      }
+    ]
+  },
+  {
     "group": "Iron full helm",
     "spawns": [
       {
@@ -4056,6 +4133,12 @@
         "coords": "2672,3728",
         "isMembers": true,
         "location": "Rellekka - near the rock crabs",
+        "name": "Iron pickaxe"
+      },
+      {
+        "coords": "1690,2904",
+        "isMembers": true,
+        "location": "Varlamore - between the Harpie bug swarms",
         "name": "Iron pickaxe"
       },
       {
@@ -5158,6 +5241,12 @@
     "group": "Papyrus",
     "spawns": [
       {
+        "coords": "1672,3159",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - Sunrise Palace (1st floor)",
+        "name": "Papyrus"
+      },
+      {
         "coords": "3290,3033",
         "isMembers": true,
         "location": "Desert Mining Camp - Captain Siad's office (1st floor)",
@@ -5197,6 +5286,12 @@
         "coords": "3698,3338",
         "isMembers": true,
         "location": "Slepe - eastern and western houses (1st floor)",
+        "name": "Papyrus"
+      },
+      {
+        "coords": "1452,3193",
+        "isMembers": true,
+        "location": "The Teomat - northern building",
         "name": "Papyrus"
       }
     ]
@@ -5871,7 +5966,7 @@
       {
         "coords": "1769,3100",
         "isMembers": true,
-        "location": "Civitas illa Fortis 1st floor",
+        "location": "Civitas illa Fortis (1st floor)",
         "name": "Rope"
       },
       {
@@ -5944,6 +6039,12 @@
         "coords": "3169,2836",
         "isMembers": true,
         "location": "Ruins of Unkah",
+        "name": "Rope"
+      },
+      {
+        "coords": "1518,2996",
+        "isMembers": true,
+        "location": "Sunset Coast (1st floor)",
         "name": "Rope"
       },
       {
@@ -6343,7 +6444,7 @@
       {
         "coords": "1523,2976",
         "isMembers": true,
-        "location": "Sunset Coast",
+        "location": "Sunset Coast{{Refn|Ironmen cannot pick up this spawn.|group=i}}",
         "name": "Small fishing net"
       },
       {
@@ -6551,6 +6652,17 @@
     ]
   },
   {
+    "group": "Steamforge brew",
+    "spawns": [
+      {
+        "coords": "1467,9553",
+        "isMembers": true,
+        "location": "Cam Torum - upstairs in house east of Sonalo",
+        "name": "Steamforge brew"
+      }
+    ]
+  },
+  {
     "group": "Steel arrowtips",
     "spawns": [
       {
@@ -6729,7 +6841,7 @@
       {
         "coords": "1716,3117",
         "isMembers": true,
-        "location": "Civitas illa Fortis",
+        "location": "Civitas illa Fortis - The Flaming Arrow",
         "name": "Sunbeam ale"
       }
     ]
@@ -6792,6 +6904,17 @@
         "coords": "1476,9552",
         "isMembers": true,
         "location": "Cam Torum",
+        "name": "Sweetcorn"
+      }
+    ]
+  },
+  {
+    "group": "Sweetcorn (bowl)",
+    "spawns": [
+      {
+        "coords": "1574,3139",
+        "isMembers": true,
+        "location": "Ortus Farm",
         "name": "Sweetcorn"
       }
     ]
@@ -7019,6 +7142,12 @@
         "name": "Tinderbox"
       },
       {
+        "coords": "1520,2982",
+        "isMembers": true,
+        "location": "Sunset Coast (1st floor)",
+        "name": "Unlit torch"
+      },
+      {
         "coords": "2324,9800",
         "isMembers": true,
         "location": "Underground Pass dwarf camp",
@@ -7061,13 +7190,24 @@
     ]
   },
   {
+    "group": "Torch",
+    "spawns": [
+      {
+        "coords": "1508,2984",
+        "isMembers": true,
+        "location": "Sunset Coast (1st floor)",
+        "name": "Unlit torch"
+      }
+    ]
+  },
+  {
     "group": "Trapper's tipple",
     "spawns": [
       {
         "coords": "1561,9452",
         "isMembers": true,
-        "location": "Hunter Guild - basement",
-        "name": "Trapper&#39;s tipple"
+        "location": "Hunter Guild - The Burrow pub",
+        "name": "Trapper's tipple"
       }
     ]
   },
