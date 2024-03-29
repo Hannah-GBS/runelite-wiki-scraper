@@ -440,6 +440,54 @@
   {
     "materials": [
       {
+        "name": "Ava's accumulator",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Accumulator max cape.png|link=Accumulator max cape]]",
+      "name": "Accumulator max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ava's accumulator",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Accumulator max hood.png|link=Accumulator max hood]]",
+      "name": "Accumulator max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Thammaron's sceptre (u)",
         "quantity": "1"
       },
@@ -5553,6 +5601,54 @@
     "ticks": "1"
   },
   {
+    "materials": [
+      {
+        "name": "Ardougne cloak 4",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ardougne max cape.png|link=Ardougne max cape]]",
+      "name": "Ardougne max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ardougne cloak 4",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ardougne max hood.png|link=Ardougne max hood]]",
+      "name": "Ardougne max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Teak eagle lectern",
     "materials": [
       {
@@ -6090,6 +6186,54 @@
     "output": {
       "image": "[[File:Asgoldian ale.png|link=Asgoldian ale]]",
       "name": "Asgoldian ale",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ava's assembler",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Assembler max cape.png|link=Assembler max cape]]",
+      "name": "Assembler max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ava's assembler",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Assembler max hood.png|link=Assembler max hood]]",
+      "name": "Assembler max hood",
       "quantity": "1"
     },
     "skills": [],
@@ -7888,7 +8032,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Knife"
   },
   {
@@ -9416,7 +9560,7 @@
   {
     "materials": [
       {
-        "name": "Black warlock_(item)",
+        "name": "Black warlock (item)",
         "quantity": "1"
       },
       {
@@ -9432,13 +9576,13 @@
       "subtxt": "Raw Wild Kebbit"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Black warlock_(item)",
+        "name": "Black warlock (item)",
         "quantity": "1"
       },
       {
@@ -9454,13 +9598,13 @@
       "subtxt": "Larupia"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Black warlock_(item)",
+        "name": "Black warlock (item)",
         "quantity": "1"
       },
       {
@@ -9476,13 +9620,13 @@
       "subtxt": "Barb-tailed Kebbit"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Black warlock_(item)",
+        "name": "Black warlock (item)",
         "quantity": "1"
       },
       {
@@ -9498,13 +9642,13 @@
       "subtxt": "Graahk"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Black warlock_(item)",
+        "name": "Black warlock (item)",
         "quantity": "1"
       },
       {
@@ -9520,13 +9664,13 @@
       "subtxt": "Kyatt"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Black warlock_(item)",
+        "name": "Black warlock (item)",
         "quantity": "1"
       },
       {
@@ -9542,13 +9686,13 @@
       "subtxt": "Pyre fox"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Black warlock_(item)",
+        "name": "Black warlock (item)",
         "quantity": "1"
       },
       {
@@ -9564,13 +9708,13 @@
       "subtxt": "Sunlight Antelope"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Black warlock_(item)",
+        "name": "Black warlock (item)",
         "quantity": "1"
       },
       {
@@ -9586,13 +9730,13 @@
       "subtxt": "Dashing Kebbit"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Black warlock_(item)",
+        "name": "Black warlock (item)",
         "quantity": "1"
       },
       {
@@ -9608,7 +9752,7 @@
       "subtxt": "Moonlight Antelope"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
@@ -9627,7 +9771,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">117,714,361</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">129,227,826</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11254,6 +11398,211 @@
     "ticks": "0"
   },
   {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Bat bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessd bat bones.png|link=Blessd bat bones]]",
+      "name": "Blessd bat bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Babydragon bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed babydragon bones.png|link=Blessed babydragon bones]]",
+      "name": "Blessed babydragon bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Wyrmling bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed babywyrm bones.png|link=Blessed babywyrm bones]]",
+      "name": "Blessed babywyrm bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Big bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed big bones.png|link=Blessed big bones]]",
+      "name": "Blessed big bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "4"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed bone statuette",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "125"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bones.png|link=Blessed bones]]",
+      "name": "Blessed bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Shrine of Ralos",
+    "materials": [
+      {
+        "name": "Dizana's quiver",
+        "quantity": "1"
+      },
+      {
+        "name": "Sunfire splinters",
+        "quantity": "150000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed dizana's quiver.png|link=Blessed dizana's quiver]]",
+      "name": "Blessed dizana's quiver",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Dragon bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed dragon bones.png|link=Blessed dragon bones]]",
+      "name": "Blessed dragon bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Drake bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed drake bones.png|link=Blessed drake bones]]",
+      "name": "Blessed drake bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Fayrg bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed fayrg bones.png|link=Blessed fayrg bones]]",
+      "name": "Blessed fayrg bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Gujuo",
     "materials": [
       {
@@ -11276,6 +11625,74 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Hydra bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed hydra bones.png|link=Blessed hydra bones]]",
+      "name": "Blessed hydra bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Lava dragon bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed lava dragon bones.png|link=Blessed lava dragon bones]]",
+      "name": "Blessed lava dragon bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Ourg bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed ourg bones.png|link=Blessed ourg bones]]",
+      "name": "Blessed ourg bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Raurg bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed raurg bones.png|link=Blessed raurg bones]]",
+      "name": "Blessed raurg bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -11305,6 +11722,23 @@
     "ticks": ""
   },
   {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Superior dragon bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed superior dragon bones.png|link=Blessed superior dragon bones]]",
+      "name": "Blessed superior dragon bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Drezel",
     "materials": [
       {
@@ -11316,6 +11750,57 @@
     "output": {
       "image": "[[File:Blessed water.png|link=Blessed water]]",
       "name": "Blessed water",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Wyrm bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed wyrm bones.png|link=Blessed wyrm bones]]",
+      "name": "Blessed wyrm bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Wyvern bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed wyvern bones.png|link=Blessed wyvern bones]]",
+      "name": "Blessed wyvern bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Zogre bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed zogre bones.png|link=Blessed zogre bones]]",
+      "name": "Blessed zogre bones",
       "quantity": "1"
     },
     "skills": [],
@@ -13514,7 +13999,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">116,540,748</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">127,414,113</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18005,30 +18490,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "Cooking range",
-    "materials": [
-      {
-        "name": "Raw sunlight antelope",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Burnt antelope.png|link=Burnt antelope]]",
-      "name": "Burnt antelope",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "0",
-        "level": "68",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "4"
-  },
-  {
     "materials": [
       {
         "name": "Raw guanic bat (0)",
@@ -21252,7 +21713,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "40",
+        "experience": "45",
         "level": "30",
         "name": "Cooking"
       }
@@ -21476,7 +21937,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "124",
         "level": "41",
         "name": "Cooking"
       }
@@ -21549,7 +22010,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "143",
         "level": "51",
         "name": "Cooking"
       }
@@ -21752,6 +22213,30 @@
       }
     ],
     "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw moss lizard",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked moss lizard.png|link=Cooked moss lizard]]",
+      "name": "Cooked moss lizard",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "60",
+        "level": "30",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Cooking range",
@@ -29653,6 +30138,23 @@
     "tools": "Watering can"
   },
   {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Dagannoth bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dagannoth bones (blessed).png|link=Dagannoth bones (blessed)]]",
+      "name": "Dagannoth bones (blessed)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Bone grinder",
     "materials": [
       {
@@ -31542,6 +32044,54 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed dizana's quiver",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dizana's max cape.png|link=Dizana's max cape]]",
+      "name": "Dizana's max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed dizana's quiver",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dizana's max hood.png|link=Dizana's max hood]]",
+      "name": "Dizana's max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -37025,7 +37575,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Knife"
   },
   {
@@ -37800,6 +38350,54 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Fire cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Fire max cape.png|link=Fire max cape]]",
+      "name": "Fire max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Fire cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Fire max hood.png|link=Fire max hood]]",
+      "name": "Fire max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Obelisk of Fire",
@@ -42679,6 +43277,54 @@
   {
     "materials": [
       {
+        "name": "Guthix cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Guthix max cape.png|link=Guthix max cape]]",
+      "name": "Guthix max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Guthix cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Guthix max hood.png|link=Guthix max hood]]",
+      "name": "Guthix max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Marrentill",
         "quantity": "1"
       },
@@ -44638,7 +45284,7 @@
         "name": "Fletching"
       }
     ],
-    "ticks": "0",
+    "ticks": "3",
     "tools": "Knife"
   },
   {
@@ -44660,7 +45306,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "0",
         "level": "74",
         "name": "Fletching"
@@ -44863,6 +45509,102 @@
   {
     "materials": [
       {
+        "name": "Imbued guthix cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Imbued guthix max cape.png|link=Imbued guthix max cape]]",
+      "name": "Imbued guthix max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Imbued guthix cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Imbued guthix max hood.png|link=Imbued guthix max hood]]",
+      "name": "Imbued guthix max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Imbued saradomin cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Imbued saradomin max cape.png|link=Imbued saradomin max cape]]",
+      "name": "Imbued saradomin max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Imbued saradomin cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Imbued saradomin max hood.png|link=Imbued saradomin max hood]]",
+      "name": "Imbued saradomin max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Refined tephra",
         "quantity": "1"
       }
@@ -44882,6 +45624,54 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Imbued zamorak cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Imbued zamorak max cape.png|link=Imbued zamorak max cape]]",
+      "name": "Imbued zamorak max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Imbued zamorak cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Imbued zamorak max hood.png|link=Imbued zamorak max hood]]",
+      "name": "Imbued zamorak max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Ramarno",
@@ -45589,6 +46379,54 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Infernal cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Infernal max cape.png|link=Infernal max cape]]",
+      "name": "Infernal max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Infernal cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Infernal max hood.png|link=Infernal max hood]]",
+      "name": "Infernal max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -47637,7 +48475,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "1"
+    "ticks": "0"
   },
   {
     "materials": [
@@ -48913,7 +49751,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "60",
         "level": "65",
         "name": "Crafting"
@@ -52369,6 +53207,35 @@
   {
     "materials": [
       {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Masori assembler",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Masori assembler max cape.png|link=Masori assembler max cape]]",
+      "name": "Masori assembler max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Assembler max hood",
+        "quantity": "1"
+      },
+      {
         "name": "Assembler max cape",
         "quantity": "1"
       },
@@ -52390,6 +53257,10 @@
   {
     "materials": [
       {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
         "name": "Max cape",
         "quantity": "1"
       },
@@ -52400,8 +53271,33 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Masori assembler max cape.png|link=Masori assembler max cape]]",
-      "name": "Masori assembler max cape",
+      "image": "[[File:Masori assembler max hood.png|link=Masori assembler max hood]]",
+      "name": "Masori assembler max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Assembler max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Assembler max cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Masori crafting kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Masori assembler max hood.png|link=Masori assembler max hood]]",
+      "name": "Masori assembler max hood",
       "quantity": "1"
     },
     "skills": [],
@@ -55245,7 +56141,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Needle"
   },
   {
@@ -55277,7 +56173,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Needle"
   },
   {
@@ -55309,7 +56205,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Needle"
   },
   {
@@ -55341,7 +56237,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Needle"
   },
   {
@@ -56275,6 +57171,182 @@
         "quantity": "1"
       },
       {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
+      "name": "Moonlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Raw Wild Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw larupia",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
+      "name": "Moonlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Larupia"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
+      "name": "Moonlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw graahk",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
+      "name": "Moonlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Graahk"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw kyatt",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
+      "name": "Moonlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Kyatt"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw pyre fox",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
+      "name": "Moonlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Pyre fox"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw sunlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
+      "name": "Moonlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Sunlight Antelope"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw dashing kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
+      "name": "Moonlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Dashing Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight moth (item)",
+        "quantity": "1"
+      },
+      {
         "name": "Raw moonlight antelope",
         "quantity": "1"
       }
@@ -56283,10 +57355,11 @@
     "output": {
       "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
       "name": "Moonlight moth mix (2)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Moonlight Antelope"
     },
     "skills": [],
-    "ticks": "1",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
@@ -56309,12 +57382,12 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "No",
+        "experience": "0",
         "level": "38",
         "name": "Herblore"
       }
     ],
-    "ticks": ""
+    "ticks": "2"
   },
   {
     "facilities": "Cooking range",
@@ -57957,6 +59030,54 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Mythical cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mythical max cape.png|link=Mythical max cape]]",
+      "name": "Mythical max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mythical cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mythical max hood.png|link=Mythical max hood]]",
+      "name": "Mythical max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -61801,7 +62922,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Knife"
   },
   {
@@ -67415,6 +68536,204 @@
     "ticks": "3"
   },
   {
+    "materials": [
+      {
+        "name": "Ruby harvest (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
+      "name": "Ruby harvest mix (2)",
+      "quantity": "1",
+      "subtxt": "Raw Wild Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ruby harvest (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw larupia",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
+      "name": "Ruby harvest mix (2)",
+      "quantity": "1",
+      "subtxt": "Larupia"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ruby harvest (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
+      "name": "Ruby harvest mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ruby harvest (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw graahk",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
+      "name": "Ruby harvest mix (2)",
+      "quantity": "1",
+      "subtxt": "Graahk"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ruby harvest (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw kyatt",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
+      "name": "Ruby harvest mix (2)",
+      "quantity": "1",
+      "subtxt": "Kyatt"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ruby harvest (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw pyre fox",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
+      "name": "Ruby harvest mix (2)",
+      "quantity": "1",
+      "subtxt": "Pyre fox"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ruby harvest (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw sunlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
+      "name": "Ruby harvest mix (2)",
+      "quantity": "1",
+      "subtxt": "Sunlight Antelope"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ruby harvest (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw dashing kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
+      "name": "Ruby harvest mix (2)",
+      "quantity": "1",
+      "subtxt": "Dashing Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ruby harvest (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw moonlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
+      "name": "Ruby harvest mix (2)",
+      "quantity": "1",
+      "subtxt": "Moonlight Antelope"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
     "facilities": "Furnace",
     "materials": [
       {
@@ -71188,7 +72507,7 @@
   {
     "materials": [
       {
-        "name": "Sapphire_glacialis_(item)",
+        "name": "Sapphire glacialis (item)",
         "quantity": "1"
       },
       {
@@ -71204,13 +72523,13 @@
       "subtxt": "Raw Wild Kebbit"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Sapphire_glacialis_(item)",
+        "name": "Sapphire glacialis (item)",
         "quantity": "1"
       },
       {
@@ -71226,13 +72545,13 @@
       "subtxt": "Larupia"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Sapphire_glacialis_(item)",
+        "name": "Sapphire glacialis (item)",
         "quantity": "1"
       },
       {
@@ -71248,13 +72567,13 @@
       "subtxt": "Barb-tailed Kebbit"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Sapphire_glacialis_(item)",
+        "name": "Sapphire glacialis (item)",
         "quantity": "1"
       },
       {
@@ -71270,13 +72589,13 @@
       "subtxt": "Graahk"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Sapphire_glacialis_(item)",
+        "name": "Sapphire glacialis (item)",
         "quantity": "1"
       },
       {
@@ -71292,13 +72611,13 @@
       "subtxt": "Kyatt"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Sapphire_glacialis_(item)",
+        "name": "Sapphire glacialis (item)",
         "quantity": "1"
       },
       {
@@ -71314,13 +72633,13 @@
       "subtxt": "Pyre fox"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Sapphire_glacialis_(item)",
+        "name": "Sapphire glacialis (item)",
         "quantity": "1"
       },
       {
@@ -71336,13 +72655,13 @@
       "subtxt": "Sunlight Antelope"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Sapphire_glacialis_(item)",
+        "name": "Sapphire glacialis (item)",
         "quantity": "1"
       },
       {
@@ -71358,13 +72677,13 @@
       "subtxt": "Dashing Kebbit"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
     "materials": [
       {
-        "name": "Sapphire_glacialis_(item)",
+        "name": "Sapphire glacialis (item)",
         "quantity": "1"
       },
       {
@@ -71380,7 +72699,7 @@
       "subtxt": "Moonlight Antelope"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Pestle and mortar"
   },
   {
@@ -71547,6 +72866,54 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Saradomin cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Saradomin max cape.png|link=Saradomin max cape]]",
+      "name": "Saradomin max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Saradomin cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Saradomin max hood.png|link=Saradomin max hood]]",
+      "name": "Saradomin max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -71735,6 +73102,27 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "",
+    "materials": [
+      {
+        "name": "Burnt page",
+        "quantity": "1"
+      },
+      {
+        "name": "Sunfire rune",
+        "quantity": "100"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Searing page.png|link=Searing page]]",
+      "name": "Searing page",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -75991,6 +77379,204 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snowy knight (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
+      "name": "Snowy knight mix (2)",
+      "quantity": "1",
+      "subtxt": "Raw Wild Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snowy knight (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw larupia",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
+      "name": "Snowy knight mix (2)",
+      "quantity": "1",
+      "subtxt": "Larupia"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snowy knight (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
+      "name": "Snowy knight mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snowy knight (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw graahk",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
+      "name": "Snowy knight mix (2)",
+      "quantity": "1",
+      "subtxt": "Graahk"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snowy knight (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw kyatt",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
+      "name": "Snowy knight mix (2)",
+      "quantity": "1",
+      "subtxt": "Kyatt"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snowy knight (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw pyre fox",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
+      "name": "Snowy knight mix (2)",
+      "quantity": "1",
+      "subtxt": "Pyre fox"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snowy knight (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw sunlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
+      "name": "Snowy knight mix (2)",
+      "quantity": "1",
+      "subtxt": "Sunlight Antelope"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snowy knight (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw dashing kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
+      "name": "Snowy knight mix (2)",
+      "quantity": "1",
+      "subtxt": "Dashing Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snowy knight (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw moonlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
+      "name": "Snowy knight mix (2)",
+      "quantity": "1",
+      "subtxt": "Moonlight Antelope"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
   },
   {
     "facilities": "Cooking range",
@@ -81451,6 +83037,72 @@
     "tools": "Pestle and mortar"
   },
   {
+    "facilities": "Shrine of Ralos",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Sunfire splinters",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunfire rune.png|link=Sunfire rune]]",
+      "name": "Sunfire rune",
+      "quantity": "1",
+      "quantitynote": "60% extra runes while wearing [[Raiments of the Eye]] set."
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "4.5",
+        "level": "33",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Shrine of Ralos",
+    "materials": [
+      {
+        "name": "Daeyalt essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Sunfire splinters",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunfire rune.png|link=Sunfire rune]]",
+      "name": "Sunfire rune",
+      "quantity": "1",
+      "quantitynote": "60% extra runes while wearing [[Raiments of the Eye]] set."
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "unknown",
+        "level": "33",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Sunlight antelope antler",
@@ -81473,6 +83125,204 @@
     ],
     "ticks": "3",
     "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
+      "name": "Sunlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Raw Wild Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw larupia",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
+      "name": "Sunlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Larupia"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
+      "name": "Sunlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw graahk",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
+      "name": "Sunlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Graahk"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw kyatt",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
+      "name": "Sunlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Kyatt"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw pyre fox",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
+      "name": "Sunlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Pyre fox"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw sunlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
+      "name": "Sunlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Sunlight Antelope"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw dashing kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
+      "name": "Sunlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Dashing Kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw moonlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
+      "name": "Sunlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Moonlight Antelope"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
   },
   {
     "materials": [
@@ -90375,6 +92225,54 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Zamorak cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Zamorak max cape.png|link=Zamorak max cape]]",
+      "name": "Zamorak max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Zamorak cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Zamorak max hood.png|link=Zamorak max hood]]",
+      "name": "Zamorak max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [

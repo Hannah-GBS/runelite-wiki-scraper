@@ -56537,7 +56537,7 @@
     "itemID": 10053,
     "name": "Wood camo top",
     "url": "https://oldschool.runescape.wiki/w/Wood_camo_top",
-    "version": null
+    "version": "Inventory"
   },
   {
     "examineText": "These should make me harder to spot in wooded areas.",
@@ -56547,7 +56547,7 @@
     "itemID": 10055,
     "name": "Wood camo legs",
     "url": "https://oldschool.runescape.wiki/w/Wood_camo_legs",
-    "version": null
+    "version": "Inventory"
   },
   {
     "examineText": "This should make me harder to spot in jungle areas.",
@@ -56557,7 +56557,7 @@
     "itemID": 10057,
     "name": "Jungle camo top",
     "url": "https://oldschool.runescape.wiki/w/Jungle_camo_top",
-    "version": null
+    "version": "Inventory"
   },
   {
     "examineText": "These should make me harder to spot in jungle areas.",
@@ -56567,7 +56567,7 @@
     "itemID": 10059,
     "name": "Jungle camo legs",
     "url": "https://oldschool.runescape.wiki/w/Jungle_camo_legs",
-    "version": null
+    "version": "Inventory"
   },
   {
     "examineText": "This should make me harder to spot in desert areas.",
@@ -56577,7 +56577,7 @@
     "itemID": 10061,
     "name": "Desert camo top",
     "url": "https://oldschool.runescape.wiki/w/Desert_camo_top",
-    "version": null
+    "version": "Inventory"
   },
   {
     "examineText": "These should make me harder to spot in desert areas.",
@@ -56587,7 +56587,7 @@
     "itemID": 10063,
     "name": "Desert camo legs",
     "url": "https://oldschool.runescape.wiki/w/Desert_camo_legs",
-    "version": null
+    "version": "Inventory"
   },
   {
     "examineText": "This should make me harder to spot in polar areas.",
@@ -56597,7 +56597,7 @@
     "itemID": 10065,
     "name": "Polar camo top",
     "url": "https://oldschool.runescape.wiki/w/Polar_camo_top",
-    "version": null
+    "version": "Inventory"
   },
   {
     "examineText": "These should make me harder to spot in polar areas.",
@@ -56607,7 +56607,7 @@
     "itemID": 10067,
     "name": "Polar camo legs",
     "url": "https://oldschool.runescape.wiki/w/Polar_camo_legs",
-    "version": null
+    "version": "Inventory"
   },
   {
     "examineText": "A surprisingly aerodynamic cape.",
@@ -120150,6 +120150,16 @@
     "version": "Defender of Varrock"
   },
   {
+    "examineText": "A pouch full of coins taken from the pockets of an elf.",
+    "group": "Coin pouch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28822,
+    "name": "Coin pouch",
+    "url": "https://oldschool.runescape.wiki/w/Coin_pouch",
+    "version": "Wealthy citizen"
+  },
+  {
     "examineText": "A teleport to Civitas illa Fortis.",
     "group": "Civitas illa fortis teleport (tablet)",
     "isMembers": true,
@@ -120218,6 +120228,86 @@
     "name": "Irit tar",
     "url": "https://oldschool.runescape.wiki/w/Irit_tar",
     "version": null
+  },
+  {
+    "examineText": "These should make me harder to spot in wooded areas.",
+    "group": "Wood camo legs",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28839,
+    "name": "Wood camo legs",
+    "url": "https://oldschool.runescape.wiki/w/Wood_camo_legs",
+    "version": "Worn"
+  },
+  {
+    "examineText": "This should make me harder to spot in wooded areas.",
+    "group": "Wood camo top",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28842,
+    "name": "Wood camo top",
+    "url": "https://oldschool.runescape.wiki/w/Wood_camo_top",
+    "version": "Worn"
+  },
+  {
+    "examineText": "This should make me harder to spot in jungle areas.",
+    "group": "Jungle camo top",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28845,
+    "name": "Jungle camo top",
+    "url": "https://oldschool.runescape.wiki/w/Jungle_camo_top",
+    "version": "Worn"
+  },
+  {
+    "examineText": "These should make me harder to spot in jungle areas.",
+    "group": "Jungle camo legs",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28848,
+    "name": "Jungle camo legs",
+    "url": "https://oldschool.runescape.wiki/w/Jungle_camo_legs",
+    "version": "Worn"
+  },
+  {
+    "examineText": "This should make me harder to spot in desert areas.",
+    "group": "Desert camo top",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28851,
+    "name": "Desert camo top",
+    "url": "https://oldschool.runescape.wiki/w/Desert_camo_top",
+    "version": "Worn"
+  },
+  {
+    "examineText": "These should make me harder to spot in desert areas.",
+    "group": "Desert camo legs",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28854,
+    "name": "Desert camo legs",
+    "url": "https://oldschool.runescape.wiki/w/Desert_camo_legs",
+    "version": "Worn"
+  },
+  {
+    "examineText": "This should make me harder to spot in polar areas.",
+    "group": "Polar camo top",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28857,
+    "name": "Polar camo top",
+    "url": "https://oldschool.runescape.wiki/w/Polar_camo_top",
+    "version": "Worn"
+  },
+  {
+    "examineText": "These should make me harder to spot in polar areas.",
+    "group": "Polar camo legs",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28860,
+    "name": "Polar camo legs",
+    "url": "https://oldschool.runescape.wiki/w/Polar_camo_legs",
+    "version": "Worn"
   },
   {
     "examineText": "A weapon made of horn and bone.",
@@ -120473,7 +120563,7 @@
     "examineText": "It's still warm to the touch.",
     "group": "Searing page",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 28931,
     "name": "Searing page",
     "url": "https://oldschool.runescape.wiki/w/Searing_page",
@@ -121450,40 +121540,40 @@
     "version": null
   },
   {
-    "examineText": "\"Oh dear, it's totally burnt!\"",
+    "examineText": "Oh dear, it's totally burnt!",
     "group": "Burnt kebbit",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 29155,
     "name": "Burnt kebbit",
     "url": "https://oldschool.runescape.wiki/w/Burnt_kebbit",
     "version": null
   },
   {
-    "examineText": "\"Oh dear, it's totally burnt!\"",
+    "examineText": "Oh dear, it's totally burnt!",
     "group": "Burnt large beast",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 29157,
     "name": "Burnt large beast",
     "url": "https://oldschool.runescape.wiki/w/Burnt_large_beast",
     "version": null
   },
   {
-    "examineText": "\"Oh dear, it's totally burnt!\"",
+    "examineText": "Oh dear, it's totally burnt!",
     "group": "Burnt antelope",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 29159,
     "name": "Burnt antelope",
     "url": "https://oldschool.runescape.wiki/w/Burnt_antelope",
     "version": null
   },
   {
-    "examineText": "\"Oh dear, it's totally burnt!\"",
+    "examineText": "Oh dear, it's totally burnt!",
     "group": "Burnt fox meat",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 29161,
     "name": "Burnt fox meat",
     "url": "https://oldschool.runescape.wiki/w/Burnt_fox_meat",
@@ -121921,32 +122011,32 @@
   },
   {
     "examineText": "I wonder what might be caught in this.",
-    "group": "Hunters' loot sack (tier 1)",
+    "group": "Hunters' loot sack (adept)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 29244,
-    "name": "Hunters' loot sack (tier 1)",
-    "url": "https://oldschool.runescape.wiki/w/Hunters%27_loot_sack_(tier_1)",
+    "name": "Hunters' loot sack (adept)",
+    "url": "https://oldschool.runescape.wiki/w/Hunters%27_loot_sack_(adept)",
     "version": null
   },
   {
     "examineText": "I wonder what might be caught in this.",
-    "group": "Hunters' loot sack (tier 2)",
+    "group": "Hunters' loot sack (expert)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 29246,
-    "name": "Hunters' loot sack (tier 2)",
-    "url": "https://oldschool.runescape.wiki/w/Hunters%27_loot_sack_(tier_2)",
+    "name": "Hunters' loot sack (expert)",
+    "url": "https://oldschool.runescape.wiki/w/Hunters%27_loot_sack_(expert)",
     "version": null
   },
   {
     "examineText": "I wonder what might be caught in this.",
-    "group": "Hunters' loot sack (tier 3)",
+    "group": "Hunters' loot sack (master)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 29248,
-    "name": "Hunters' loot sack (tier 3)",
-    "url": "https://oldschool.runescape.wiki/w/Hunters%27_loot_sack_(tier_3)",
+    "name": "Hunters' loot sack (master)",
+    "url": "https://oldschool.runescape.wiki/w/Hunters%27_loot_sack_(master)",
     "version": null
   },
   {
@@ -122200,7 +122290,7 @@
     "version": null
   },
   {
-    "examineText": "Holds assorted hunting equipment",
+    "examineText": "Holds assorted hunting equipment.",
     "group": "Huntsman's kit",
     "isMembers": true,
     "isTradeable": false,
@@ -122287,7 +122377,7 @@
     "itemID": 29338,
     "name": "Blessed bone statuette",
     "url": "https://oldschool.runescape.wiki/w/Blessed_bone_statuette",
-    "version": "1"
+    "version": "Eagle"
   },
   {
     "examineText": "A statuette carved from the finest blessed bone.",
@@ -122297,7 +122387,7 @@
     "itemID": 29340,
     "name": "Blessed bone statuette",
     "url": "https://oldschool.runescape.wiki/w/Blessed_bone_statuette",
-    "version": "2"
+    "version": "Fox"
   },
   {
     "examineText": "A statuette carved from the finest blessed bone.",
@@ -122307,7 +122397,7 @@
     "itemID": 29342,
     "name": "Blessed bone statuette",
     "url": "https://oldschool.runescape.wiki/w/Blessed_bone_statuette",
-    "version": "3"
+    "version": "Buffalo"
   },
   {
     "examineText": "Bones blessed at an exposed altar.",
@@ -122531,12 +122621,12 @@
   },
   {
     "examineText": "A small token.",
-    "group": "Token (Moons of Peril)",
+    "group": "Token (Varlamore)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 29388,
     "name": "Token",
-    "url": "https://oldschool.runescape.wiki/w/Token_(Moons_of_Peril)",
+    "url": "https://oldschool.runescape.wiki/w/Token_(Varlamore)",
     "version": null
   },
   {
@@ -122627,6 +122717,86 @@
     "itemID": 29428,
     "name": "Chef's notes",
     "url": "https://oldschool.runescape.wiki/w/Chef%27s_notes",
+    "version": null
+  },
+  {
+    "examineText": "Eggciting secrets lie within!",
+    "group": "Yolklore of ayaster",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29431,
+    "name": "Yolklore of ayaster",
+    "url": "https://oldschool.runescape.wiki/w/Yolklore_of_ayaster",
+    "version": null
+  },
+  {
+    "examineText": "An eggsquisite tome.",
+    "group": "Book of egg",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29433,
+    "name": "Book of egg",
+    "url": "https://oldschool.runescape.wiki/w/Book_of_egg",
+    "version": null
+  },
+  {
+    "examineText": "Keeps an egg priest's knees nice and warm.",
+    "group": "Egg priest robe",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29437,
+    "name": "Egg priest robe",
+    "url": "https://oldschool.runescape.wiki/w/Egg_priest_robe",
+    "version": null
+  },
+  {
+    "examineText": "I feel closer to the eggs when I am wearing this.",
+    "group": "Egg priest robe top",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29439,
+    "name": "Egg priest robe top",
+    "url": "https://oldschool.runescape.wiki/w/Egg_priest_robe_top",
+    "version": null
+  },
+  {
+    "examineText": "I feel closer to the eggs when I am wearing this.",
+    "group": "Egg priest necklace",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29441,
+    "name": "Egg priest necklace",
+    "url": "https://oldschool.runescape.wiki/w/Egg_priest_necklace",
+    "version": null
+  },
+  {
+    "examineText": "An egg mitre.",
+    "group": "Egg priest mitre",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29443,
+    "name": "Egg priest mitre",
+    "url": "https://oldschool.runescape.wiki/w/Egg_priest_mitre",
+    "version": null
+  },
+  {
+    "examineText": "A bit mucky.",
+    "group": "Easter egg (mined)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29445,
+    "name": "Easter egg (mined)",
+    "url": "https://oldschool.runescape.wiki/w/Easter_egg_(mined)",
+    "version": null
+  },
+  {
+    "examineText": "Great for keeping animated eggs subdued.",
+    "group": "Eggnappin' sack",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29446,
+    "name": "Eggnappin' sack",
+    "url": "https://oldschool.runescape.wiki/w/Eggnappin%27_sack",
     "version": null
   }
 ]
