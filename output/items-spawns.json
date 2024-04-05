@@ -749,6 +749,12 @@
         "name": "Bones"
       },
       {
+        "coords": "1828,3139",
+        "isMembers": true,
+        "location": "North of the Fortis Colosseum",
+        "name": "Bones"
+      },
+      {
         "coords": "2362,9404",
         "isMembers": true,
         "location": "Observatory Dungeon",
@@ -4203,6 +4209,12 @@
   {
     "group": "Iron sword",
     "spawns": [
+      {
+        "coords": "1494,3177",
+        "isMembers": true,
+        "location": "Bandits' camp north-east of Ralos' Rise",
+        "name": "Iron sword"
+      },
       {
         "coords": "1569,3547",
         "isMembers": true,
