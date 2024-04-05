@@ -93320,6 +93320,16 @@
     "version": null
   },
   {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - RUG DETER",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
+    "version": null
+  },
+  {
     "examineText": "You can sense strange powers emanating from it.",
     "group": "Strange device",
     "isMembers": false,
@@ -120150,7 +120160,7 @@
     "version": "Defender of Varrock"
   },
   {
-    "examineText": "A pouch full of coins taken from the pockets of an elf.",
+    "examineText": "A pouch full of coins taken from the pockets of a wealthy citizen.",
     "group": "Coin pouch",
     "isMembers": true,
     "isTradeable": false,
@@ -120340,16 +120350,6 @@
     "version": null
   },
   {
-    "examineText": "Antler of a moonlight antelope.",
-    "group": "Moonlight antler",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 28887,
-    "name": "Moonlight antler",
-    "url": "https://oldschool.runescape.wiki/w/Moonlight_antler",
-    "version": null
-  },
-  {
     "examineText": "There's a sunlight moth in here.",
     "group": "Sunlight moth (item)",
     "isMembers": true,
@@ -120418,6 +120418,16 @@
     "name": "Dizana's max cape (l)",
     "url": "https://oldschool.runescape.wiki/w/Dizana%27s_max_cape",
     "version": "Locked"
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - LAME T",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28907,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_LAME_T",
+    "version": null
   },
   {
     "examineText": "",
@@ -120887,16 +120897,6 @@
     "itemID": 28983,
     "name": "Fox's report",
     "url": "https://oldschool.runescape.wiki/w/Fox%27s_report",
-    "version": null
-  },
-  {
-    "examineText": "A pot of crushed baby wyrm bones.",
-    "group": "Baby dragon bonemeal (Varlamore)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 28984,
-    "name": "Baby dragon bonemeal",
-    "url": "https://oldschool.runescape.wiki/w/Baby_dragon_bonemeal_(Varlamore)",
     "version": null
   },
   {
@@ -122722,7 +122722,7 @@
   {
     "examineText": "Eggciting secrets lie within!",
     "group": "Yolklore of ayaster",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 29431,
     "name": "Yolklore of ayaster",
