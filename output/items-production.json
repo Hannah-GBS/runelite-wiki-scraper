@@ -9771,7 +9771,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">130,202,113</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">137,555,129</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11398,23 +11398,6 @@
     "ticks": "0"
   },
   {
-    "facilities": "Exposed altar",
-    "materials": [
-      {
-        "name": "Bat bones",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blessd bat bones.png|link=Blessd bat bones]]",
-      "name": "Blessd bat bones",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
     "facilities": "Turael",
     "materials": [
       {
@@ -11464,6 +11447,23 @@
     "output": {
       "image": "[[File:Blessed babywyrm bones.png|link=Blessed babywyrm bones]]",
       "name": "Blessed babywyrm bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Bat bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bat bones.png|link=Blessed bat bones]]",
+      "name": "Blessed bat bones",
       "quantity": "1"
     },
     "skills": [],
@@ -11546,6 +11546,390 @@
       "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
       "name": "Blessed bone shards",
       "quantity": "45"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed big bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "12"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed zogre bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "18"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed babywyrm bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "21"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed babydragon bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "24"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed wyrm bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "42"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed wyvern bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "58"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed dragon bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "58"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed drake bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "64"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed fayrg bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "67"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed lava dragon bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "68"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed raurg bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "77"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed hydra bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "93"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dagannoth bones (blessed)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "100"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed ourg bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "115"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed superior dragon bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "121"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed bat bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "5"
     },
     "skills": [
       {
@@ -14051,7 +14435,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">129,948,239</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">137,587,992</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -69573,7 +69957,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "5",
         "level": "41",
         "name": "Smithing"
@@ -91051,7 +91435,7 @@
         "name": "Fletching"
       }
     ],
-    "ticks": "",
+    "ticks": "2",
     "tools": "Chisel"
   },
   {

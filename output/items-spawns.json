@@ -109,6 +109,12 @@
     "group": "Ashes",
     "spawns": [
       {
+        "coords": "1494,3177",
+        "isMembers": true,
+        "location": "Bandits' camp north-east of Ralos' Rise",
+        "name": "Ashes"
+      },
+      {
         "coords": "3752,9780",
         "isMembers": true,
         "location": "Sisterhood Sanctuary",
@@ -1063,7 +1069,7 @@
       {
         "coords": "1631,3092",
         "isMembers": true,
-        "location": "Civitas illa Fortis - upstairs on a table in the small building in southwest corner",
+        "location": "Civitas illa Fortis - upstairs on a table in the small building in southwest corner. Note: Ironmen cannot loot it.",
         "name": "Box trap"
       },
       {
@@ -1138,6 +1144,12 @@
         "coords": "2209,3414",
         "isMembers": false,
         "location": "Gwenith - inside Preswylwyr Dall's home",
+        "name": "Bread"
+      },
+      {
+        "coords": "1770,3072",
+        "isMembers": true,
+        "location": "Outer Fortis 1st floor",
         "name": "Bread"
       },
       {
@@ -2032,6 +2044,12 @@
     "group": "Burnt bones",
     "spawns": [
       {
+        "coords": "1809,9466",
+        "isMembers": true,
+        "location": "Cave south of Colosseum(inaccessible)",
+        "name": "Burnt bones"
+      },
+      {
         "coords": "1456,10094",
         "isMembers": true,
         "location": "Chasm of Fire - lowest level",
@@ -2137,7 +2155,7 @@
       {
         "coords": "2026,5621",
         "isMembers": true,
-        "location": "Crash Site Cavern entrance",
+        "location": "Crash Site Cavern entrance (unreachable)",
         "name": "Burnt fish"
       }
     ]
@@ -3580,6 +3598,18 @@
         "name": "Gold ring"
       },
       {
+        "coords": "2398,5867",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 3",
+        "name": "Gold ring"
+      },
+      {
+        "coords": "2553,5855",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 4",
+        "name": "Gold ring"
+      },
+      {
         "coords": "3107,10268",
         "isMembers": true,
         "location": "King Black Dragon Lair",
@@ -3988,6 +4018,12 @@
         "name": "Iron dagger"
       },
       {
+        "coords": "1573,3140",
+        "isMembers": true,
+        "location": "Ortus Farm (1st floor)",
+        "name": "Iron dagger"
+      },
+      {
         "coords": "3192,2838",
         "isMembers": true,
         "location": "Ruins of Unkah",
@@ -4095,6 +4131,12 @@
   {
     "group": "Iron med helm",
     "spawns": [
+      {
+        "coords": "2562,5985",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 2",
+        "name": "Iron med helm"
+      },
       {
         "coords": "2540,3249",
         "isMembers": true,
@@ -4213,6 +4255,12 @@
         "coords": "1494,3177",
         "isMembers": true,
         "location": "Bandits' camp north-east of Ralos' Rise",
+        "name": "Iron sword"
+      },
+      {
+        "coords": "2561,5983",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 2",
         "name": "Iron sword"
       },
       {
@@ -4683,6 +4731,12 @@
         "coords": "3210,9615",
         "isMembers": false,
         "location": "Lumbridge Castle cellar",
+        "name": "Leather boots"
+      },
+      {
+        "coords": "1590,3128",
+        "isMembers": true,
+        "location": "Ortus Farm (1st floor)",
         "name": "Leather boots"
       },
       {
@@ -5640,6 +5694,12 @@
         "coords": "1583,3130",
         "isMembers": true,
         "location": "Ortus Farm",
+        "name": "Pot"
+      },
+      {
+        "coords": "1705,3070",
+        "isMembers": true,
+        "location": "Outer Fortis 1st floor",
         "name": "Pot"
       },
       {
@@ -6783,6 +6843,17 @@
         "isMembers": true,
         "location": "Prifddinas - on a table in Iorwerth's Arms",
         "name": "Steel scimitar"
+      }
+    ]
+  },
+  {
+    "group": "Steel spear",
+    "spawns": [
+      {
+        "coords": "1349,9565",
+        "isMembers": true,
+        "location": "Neypotzli",
+        "name": "Burn Chicken"
       }
     ]
   },
