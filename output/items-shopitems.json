@@ -2663,7 +2663,7 @@
       {
         "currency": "Coins",
         "name": "Tiara mould",
-        "stock": "0",
+        "stock": "4",
         "version": null
       }
     ],
@@ -12945,29 +12945,6 @@
     "location": "Dwarven Mine",
     "name": "Dwarven shopping store",
     "sellMultiplier": "1300"
-  },
-  {
-    "isMembers": true,
-    "items": [
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Ancient signet",
-        "sellPrice": "0",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Ancient staff",
-        "sellPrice": "80000",
-        "stock": "1",
-        "version": null
-      }
-    ],
-    "location": "",
-    "name": "Eblis"
   },
   {
     "buyMultiplier": "400",
@@ -23424,6 +23401,30 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Imbued guthix cape",
+        "sellPrice": "250000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Imbued saradomin cape",
+        "sellPrice": "250000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Imbued zamorak cape",
+        "sellPrice": "250000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Ivandis flail",
         "sellPrice": "30000",
         "stock": "inf",
@@ -25635,111 +25636,6 @@
     ],
     "location": "2nd floor of Myths' Guild",
     "name": "Myths' Guild Weaponry",
-    "sellMultiplier": "1000"
-  },
-  {
-    "buyMultiplier": "600",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Air rune",
-        "stock": "5000",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Air rune pack",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Body rune",
-        "stock": "3000",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chaos rune",
-        "stock": "1000",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chaos rune pack",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Death rune",
-        "stock": "500",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Earth rune",
-        "stock": "5000",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Earth rune pack",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Fire rune",
-        "stock": "5000",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Fire rune pack",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Law rune",
-        "stock": "500",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Mind rune",
-        "stock": "3000",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Mind rune pack",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Nature rune",
-        "stock": "500",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Water rune",
-        "stock": "5000",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Water rune pack",
-        "stock": "100",
-        "version": null
-      }
-    ],
-    "location": "Cam Torum",
-    "name": "Nahta",
     "sellMultiplier": "1000"
   },
   {
@@ -30815,123 +30711,6 @@
     "location": "Emir's Arena",
     "name": "Shop of Distaste",
     "sellMultiplier": "1000"
-  },
-  {
-    "buyMultiplier": "400",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bowl",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bronze pickaxe",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Charcoal",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chisel",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Hammer",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Knife",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Needle",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pestle and mortar",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pie dish",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Rope",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spade",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Thread",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tinderbox",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Unlit torch",
-        "stock": "5",
-        "version": null
-      }
-    ],
-    "location": "Cam Torum",
-    "name": "Shopkeeper (Cam Torum)",
-    "sellMultiplier": "1300"
   },
   {
     "buyMultiplier": "550",
