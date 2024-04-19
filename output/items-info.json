@@ -15611,16 +15611,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (easy)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2677,
-    "name": "Clue scroll (easy)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (easy) - Search the chest in the Duke of Lumbridge's bedroom",
     "isMembers": true,
     "isTradeable": false,
@@ -16038,16 +16028,6 @@
     "name": "Casket (easy)",
     "url": "https://oldschool.runescape.wiki/w/Casket_(unobtainable_item)",
     "version": "Falador"
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (hard)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2722,
-    "name": "Clue scroll (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)",
-    "version": null
   },
   {
     "examineText": "",
@@ -16551,6 +16531,16 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (hard) - A bag belt only?",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 2793,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_A_bag_belt_only%3F",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (hard) - The keeper of Melzars Spare? Skeleton? Anar?",
     "isMembers": true,
     "isTradeable": false,
@@ -16597,16 +16587,6 @@
     "itemID": 2799,
     "name": "Clue scroll (hard)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Generally_speaking,_his_nose_was_very_bent",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (medium)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2801,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)",
     "version": null
   },
   {
@@ -16831,22 +16811,22 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (medium) - Speak to Hazelmere",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2841,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Speak_to_Hazelmere",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (medium) - Speak to Hazelmere.",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 2841,
     "name": "Clue scroll (medium)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Speak_to_Hazelmere.",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - Speak to Hazelmere",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 2841,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Speak_to_Hazelmere",
     "version": null
   },
   {
@@ -42461,16 +42441,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (hard) - A bag belt only?",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 7245,
-    "name": "Clue scroll (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_A_bag_belt_only%3F",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (hard) - Covered in shadows",
     "isMembers": true,
     "isTradeable": false,
@@ -42567,16 +42537,6 @@
     "itemID": 7255,
     "name": "Clue scroll (hard)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Try_not_to_let_yourself_be_dazzled_when_you_search_these_drawers",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (hard, cryptic 39)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 7255,
-    "name": "Clue scroll (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard,_cryptic_39)",
     "version": null
   },
   {
@@ -56025,7 +55985,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9953,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Polar kebbit"
   },
@@ -56035,7 +55995,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9954,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Common kebbit"
   },
@@ -56045,7 +56005,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9955,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Feldip weasel"
   },
@@ -56055,7 +56015,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9956,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Desert devil"
   },
@@ -56065,7 +56025,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9957,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Prickly kebbit"
   },
@@ -56075,7 +56035,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9958,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Barb-tailed kebbit"
   },
@@ -56085,7 +56045,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9959,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Sabre-toothed kebbit"
   },
@@ -56095,7 +56055,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9960,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Spotted kebbit"
   },
@@ -56105,7 +56065,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9961,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Razor-backed kebbit"
   },
@@ -56115,7 +56075,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9962,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Wild kebbit"
   },
@@ -56125,7 +56085,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9963,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Dark kebbit"
   },
@@ -56135,7 +56095,7 @@
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9964,
-    "name": "Kebbit (unobtainable item)",
+    "name": "Kebbit",
     "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
     "version": "Dashing kebbit"
   },
@@ -57261,6 +57221,16 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (easy) - Yawn in Draynor Marketplace",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10184,
+    "name": "Clue scroll (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_Yawn_in_Draynor_Marketplace",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (easy) - Panic in the Limestone Mine",
     "isMembers": true,
     "isTradeable": false,
@@ -57327,6 +57297,16 @@
     "itemID": 10198,
     "name": "Clue scroll (easy)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_Think_in_middle_of_the_wheat_field_by_the_Lumbridge_mill",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (easy) - Dance at the crossroads north of Draynor",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10200,
+    "name": "Clue scroll (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_Dance_at_the_crossroads_north_of_Draynor",
     "version": null
   },
   {
@@ -66507,16 +66487,6 @@
     "itemID": 12071,
     "name": "Clue scroll (medium)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_HEORIC",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (elite)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 12073,
-    "name": "Clue scroll (elite)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)",
     "version": null
   },
   {
@@ -78407,6 +78377,26 @@
     "itemID": 19835,
     "name": "Clue scroll (master)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)_-_01.30N_08.11W",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (master) - 01.54S 08.54W",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 19835,
+    "name": "Clue scroll (master)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)_-_01.54S_08.54W",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (master) - 02.09S 06.58W",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 19835,
+    "name": "Clue scroll (master)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)_-_02.09S_06.58W",
     "version": null
   },
   {
@@ -93321,12 +93311,12 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (hard) - 24.22N 17.15E",
+    "group": "Clue scroll (hard) - 23.30N 16.33E",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 23169,
     "name": "Clue scroll (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_24.22N_17.15E",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_23.30N_16.33E",
     "version": null
   },
   {
@@ -118925,7 +118915,7 @@
     "isMembers": true,
     "isTradeable": true,
     "itemID": 28480,
-    "name": "Sigil of sustenance",
+    "name": "Sigil of hoarding",
     "url": "https://oldschool.runescape.wiki/w/Sigil_of_hoarding",
     "version": "Attuned"
   },
@@ -118935,7 +118925,7 @@
     "isMembers": true,
     "isTradeable": true,
     "itemID": 28481,
-    "name": "Sigil of sustenance",
+    "name": "Sigil of hoarding",
     "url": "https://oldschool.runescape.wiki/w/Sigil_of_hoarding",
     "version": "Un-attuned"
   },
@@ -120410,23 +120400,23 @@
     "version": null
   },
   {
-    "examineText": "These should make me harder to spot in wooded areas.",
-    "group": "Wood camo legs",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28839,
-    "name": "Wood camo legs",
-    "url": "https://oldschool.runescape.wiki/w/Wood_camo_legs",
-    "version": "Worn"
-  },
-  {
     "examineText": "This should make me harder to spot in wooded areas.",
     "group": "Wood camo top",
     "isMembers": true,
     "isTradeable": true,
-    "itemID": 28842,
+    "itemID": 28839,
     "name": "Wood camo top",
     "url": "https://oldschool.runescape.wiki/w/Wood_camo_top",
+    "version": "Worn"
+  },
+  {
+    "examineText": "These should make me harder to spot in wooded areas.",
+    "group": "Wood camo legs",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 28842,
+    "name": "Wood camo legs",
+    "url": "https://oldschool.runescape.wiki/w/Wood_camo_legs",
     "version": "Worn"
   },
   {
@@ -121630,7 +121620,7 @@
     "version": null
   },
   {
-    "examineText": "Mmm this looks tasty.",
+    "examineText": "Mmm, this looks tasty.",
     "group": "Cooked barb-tailed kebbit",
     "isMembers": true,
     "isTradeable": true,
@@ -122040,7 +122030,7 @@
     "version": null
   },
   {
-    "examineText": "I wouldn\u2019t want to get caught on that.",
+    "examineText": "I wouldn't want to get caught on that.",
     "group": "Graahk horn spur",
     "isMembers": true,
     "isTradeable": false,
@@ -122310,7 +122300,7 @@
     "version": null
   },
   {
-    "examineText": "An enchanted quetzal whistle crafted from yew logs.",
+    "examineText": "An enhanced quetzal whistle crafted from yew logs.",
     "group": "Enhanced quetzal whistle",
     "isMembers": true,
     "isTradeable": false,
@@ -122820,7 +122810,7 @@
     "version": null
   },
   {
-    "examineText": "A dwarven delight from Cam Tourum.",
+    "examineText": "A dwarven delight from Cam Torum.",
     "group": "Steamforge brew",
     "isMembers": true,
     "isTradeable": true,
@@ -122890,16 +122880,6 @@
     "version": null
   },
   {
-    "examineText": "Eggciting secrets lie within!",
-    "group": "Yolklore of ayaster",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 29431,
-    "name": "Yolklore of ayaster",
-    "url": "https://oldschool.runescape.wiki/w/Yolklore_of_ayaster",
-    "version": null
-  },
-  {
     "examineText": "An eggsquisite tome.",
     "group": "Book of egg",
     "isMembers": false,
@@ -122947,26 +122927,6 @@
     "itemID": 29443,
     "name": "Egg priest mitre",
     "url": "https://oldschool.runescape.wiki/w/Egg_priest_mitre",
-    "version": null
-  },
-  {
-    "examineText": "A bit mucky.",
-    "group": "Easter egg (mined)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 29445,
-    "name": "Easter egg (mined)",
-    "url": "https://oldschool.runescape.wiki/w/Easter_egg_(mined)",
-    "version": null
-  },
-  {
-    "examineText": "Great for keeping animated eggs subdued.",
-    "group": "Eggnappin' sack",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 29446,
-    "name": "Eggnappin' sack",
-    "url": "https://oldschool.runescape.wiki/w/Eggnappin%27_sack",
     "version": null
   },
   {
