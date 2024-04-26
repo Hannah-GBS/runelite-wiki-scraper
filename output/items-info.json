@@ -66721,12 +66721,12 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (elite) - 24.45N 17.24E",
+    "group": "Clue scroll (elite) - 24.20N 18.50E",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 12097,
     "name": "Clue scroll (elite)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)_-_24.45N_17.24E",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)_-_24.20N_18.50E",
     "version": null
   },
   {
@@ -114283,7 +114283,7 @@
     "examineText": "A bow used by hunters from a forgotten empire.",
     "group": "Venator bow",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 27612,
     "name": "Venator bow (uncharged)",
     "url": "https://oldschool.runescape.wiki/w/Venator_bow",
@@ -122387,7 +122387,7 @@
     "itemID": 29295,
     "name": "Small meat pouch",
     "url": "https://oldschool.runescape.wiki/w/Small_meat_pouch",
-    "version": null
+    "version": "Closed"
   },
   {
     "examineText": "A large pouch for carrying raw meat.",
@@ -122397,7 +122397,7 @@
     "itemID": 29297,
     "name": "Large meat pouch",
     "url": "https://oldschool.runescape.wiki/w/Large_meat_pouch",
-    "version": null
+    "version": "Closed"
   },
   {
     "examineText": "A small pouch for carrying animal furs.",
@@ -122407,7 +122407,7 @@
     "itemID": 29299,
     "name": "Small fur pouch",
     "url": "https://oldschool.runescape.wiki/w/Small_fur_pouch",
-    "version": null
+    "version": "Closed"
   },
   {
     "examineText": "A medium-sized pouch for carrying animal furs.",
@@ -122417,7 +122417,7 @@
     "itemID": 29301,
     "name": "Medium fur pouch",
     "url": "https://oldschool.runescape.wiki/w/Medium_fur_pouch",
-    "version": null
+    "version": "Closed"
   },
   {
     "examineText": "A large pouch for carrying animal furs.",
@@ -122427,7 +122427,7 @@
     "itemID": 29303,
     "name": "Large fur pouch",
     "url": "https://oldschool.runescape.wiki/w/Large_fur_pouch",
-    "version": null
+    "version": "Closed"
   },
   {
     "examineText": "Throw it... Or don't.",
@@ -122968,5 +122968,55 @@
     "name": "Wilderness agility ticket",
     "url": "https://oldschool.runescape.wiki/w/Wilderness_agility_ticket",
     "version": null
+  },
+  {
+    "examineText": "A small pouch for carrying raw meat.",
+    "group": "Small meat pouch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29462,
+    "name": "Small meat pouch (open)",
+    "url": "https://oldschool.runescape.wiki/w/Small_meat_pouch",
+    "version": "Open"
+  },
+  {
+    "examineText": "A large pouch for carrying raw meat.",
+    "group": "Large meat pouch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29464,
+    "name": "Large meat pouch (open)",
+    "url": "https://oldschool.runescape.wiki/w/Large_meat_pouch",
+    "version": "Open"
+  },
+  {
+    "examineText": "A small pouch for carrying animal furs.",
+    "group": "Small fur pouch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29466,
+    "name": "Small fur pouch (open)",
+    "url": "https://oldschool.runescape.wiki/w/Small_fur_pouch",
+    "version": "Open"
+  },
+  {
+    "examineText": "A medium-sized pouch for carrying animal furs.",
+    "group": "Medium fur pouch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29468,
+    "name": "Medium fur pouch (open)",
+    "url": "https://oldschool.runescape.wiki/w/Medium_fur_pouch",
+    "version": "Open"
+  },
+  {
+    "examineText": "A large pouch for carrying animal furs.",
+    "group": "Large fur pouch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29470,
+    "name": "Large fur pouch (open)",
+    "url": "https://oldschool.runescape.wiki/w/Large_fur_pouch",
+    "version": "Open"
   }
 ]

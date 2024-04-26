@@ -9564,28 +9564,6 @@
         "quantity": "1"
       },
       {
-        "name": "Raw wild kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
-      "name": "Black warlock mix (2)",
-      "quantity": "1",
-      "subtxt": "Raw Wild Kebbit"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Black warlock (item)",
-        "quantity": "1"
-      },
-      {
         "name": "Raw larupia",
         "quantity": "1"
       }
@@ -9596,28 +9574,6 @@
       "name": "Black warlock mix (2)",
       "quantity": "1",
       "subtxt": "Larupia"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Black warlock (item)",
-        "quantity": "1"
-      },
-      {
-        "name": "Raw barb-tailed kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
-      "name": "Black warlock mix (2)",
-      "quantity": "1",
-      "subtxt": "Barb-tailed Kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -9696,6 +9652,50 @@
         "quantity": "1"
       },
       {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
+      "name": "Black warlock mix (2)",
+      "quantity": "1",
+      "subtxt": "Wild kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black warlock (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
+      "name": "Black warlock mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black warlock (item)",
+        "quantity": "1"
+      },
+      {
         "name": "Raw sunlight antelope",
         "quantity": "1"
       }
@@ -9705,7 +9705,7 @@
       "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
       "name": "Black warlock mix (2)",
       "quantity": "1",
-      "subtxt": "Sunlight Antelope"
+      "subtxt": "Sunlight antelope"
     },
     "skills": [],
     "ticks": "3",
@@ -9727,7 +9727,7 @@
       "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
       "name": "Black warlock mix (2)",
       "quantity": "1",
-      "subtxt": "Dashing Kebbit"
+      "subtxt": "Dashing kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -9749,7 +9749,7 @@
       "image": "[[File:Black warlock mix (2).png|link=Black warlock mix (2)]]",
       "name": "Black warlock mix (2)",
       "quantity": "1",
-      "subtxt": "Moonlight Antelope"
+      "subtxt": "Moonlight antelope"
     },
     "skills": [],
     "ticks": "3",
@@ -9771,7 +9771,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">129,547,013</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">134,265,725</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14435,7 +14435,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">128,918,772</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">134,997,443</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -57668,28 +57668,6 @@
         "quantity": "1"
       },
       {
-        "name": "Raw wild kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
-      "name": "Moonlight moth mix (2)",
-      "quantity": "1",
-      "subtxt": "Raw Wild Kebbit"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Moonlight moth (item)",
-        "quantity": "1"
-      },
-      {
         "name": "Raw larupia",
         "quantity": "1"
       }
@@ -57700,28 +57678,6 @@
       "name": "Moonlight moth mix (2)",
       "quantity": "1",
       "subtxt": "Larupia"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Moonlight moth (item)",
-        "quantity": "1"
-      },
-      {
-        "name": "Raw barb-tailed kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
-      "name": "Moonlight moth mix (2)",
-      "quantity": "1",
-      "subtxt": "Barb-tailed Kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -57800,6 +57756,50 @@
         "quantity": "1"
       },
       {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
+      "name": "Moonlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Wild kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
+      "name": "Moonlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Moonlight moth (item)",
+        "quantity": "1"
+      },
+      {
         "name": "Raw sunlight antelope",
         "quantity": "1"
       }
@@ -57809,7 +57809,7 @@
       "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
       "name": "Moonlight moth mix (2)",
       "quantity": "1",
-      "subtxt": "Sunlight Antelope"
+      "subtxt": "Sunlight antelope"
     },
     "skills": [],
     "ticks": "3",
@@ -57831,7 +57831,7 @@
       "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
       "name": "Moonlight moth mix (2)",
       "quantity": "1",
-      "subtxt": "Dashing Kebbit"
+      "subtxt": "Dashing kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -57853,7 +57853,7 @@
       "image": "[[File:Moonlight moth mix (2).png|link=Moonlight moth mix (2)]]",
       "name": "Moonlight moth mix (2)",
       "quantity": "1",
-      "subtxt": "Moonlight Antelope"
+      "subtxt": "Moonlight antelope"
     },
     "skills": [],
     "ticks": "3",
@@ -69081,28 +69081,6 @@
         "quantity": "1"
       },
       {
-        "name": "Raw wild kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
-      "name": "Ruby harvest mix (2)",
-      "quantity": "1",
-      "subtxt": "Raw Wild Kebbit"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Ruby harvest (item)",
-        "quantity": "1"
-      },
-      {
         "name": "Raw larupia",
         "quantity": "1"
       }
@@ -69113,28 +69091,6 @@
       "name": "Ruby harvest mix (2)",
       "quantity": "1",
       "subtxt": "Larupia"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Ruby harvest (item)",
-        "quantity": "1"
-      },
-      {
-        "name": "Raw barb-tailed kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
-      "name": "Ruby harvest mix (2)",
-      "quantity": "1",
-      "subtxt": "Barb-tailed Kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -69213,6 +69169,50 @@
         "quantity": "1"
       },
       {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
+      "name": "Ruby harvest mix (2)",
+      "quantity": "1",
+      "subtxt": "Wild kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ruby harvest (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
+      "name": "Ruby harvest mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ruby harvest (item)",
+        "quantity": "1"
+      },
+      {
         "name": "Raw sunlight antelope",
         "quantity": "1"
       }
@@ -69222,7 +69222,7 @@
       "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
       "name": "Ruby harvest mix (2)",
       "quantity": "1",
-      "subtxt": "Sunlight Antelope"
+      "subtxt": "Sunlight antelope"
     },
     "skills": [],
     "ticks": "3",
@@ -69244,7 +69244,7 @@
       "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
       "name": "Ruby harvest mix (2)",
       "quantity": "1",
-      "subtxt": "Dashing Kebbit"
+      "subtxt": "Dashing kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -69266,7 +69266,7 @@
       "image": "[[File:Ruby harvest mix (2).png|link=Ruby harvest mix (2)]]",
       "name": "Ruby harvest mix (2)",
       "quantity": "1",
-      "subtxt": "Moonlight Antelope"
+      "subtxt": "Moonlight antelope"
     },
     "skills": [],
     "ticks": "3",
@@ -73050,28 +73050,6 @@
         "quantity": "1"
       },
       {
-        "name": "Raw wild kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
-      "name": "Sapphire glacialis mix (2)",
-      "quantity": "1",
-      "subtxt": "Raw Wild Kebbit"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Sapphire glacialis (item)",
-        "quantity": "1"
-      },
-      {
         "name": "Raw larupia",
         "quantity": "1"
       }
@@ -73082,28 +73060,6 @@
       "name": "Sapphire glacialis mix (2)",
       "quantity": "1",
       "subtxt": "Larupia"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Sapphire glacialis (item)",
-        "quantity": "1"
-      },
-      {
-        "name": "Raw barb-tailed kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
-      "name": "Sapphire glacialis mix (2)",
-      "quantity": "1",
-      "subtxt": "Barb-tailed Kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -73182,6 +73138,50 @@
         "quantity": "1"
       },
       {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
+      "name": "Sapphire glacialis mix (2)",
+      "quantity": "1",
+      "subtxt": "Wild kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sapphire glacialis (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
+      "name": "Sapphire glacialis mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sapphire glacialis (item)",
+        "quantity": "1"
+      },
+      {
         "name": "Raw sunlight antelope",
         "quantity": "1"
       }
@@ -73191,7 +73191,7 @@
       "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
       "name": "Sapphire glacialis mix (2)",
       "quantity": "1",
-      "subtxt": "Sunlight Antelope"
+      "subtxt": "Sunlight antelope"
     },
     "skills": [],
     "ticks": "3",
@@ -73213,7 +73213,7 @@
       "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
       "name": "Sapphire glacialis mix (2)",
       "quantity": "1",
-      "subtxt": "Dashing Kebbit"
+      "subtxt": "Dashing kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -73235,7 +73235,7 @@
       "image": "[[File:Sapphire glacialis mix (2).png|link=Sapphire glacialis mix (2)]]",
       "name": "Sapphire glacialis mix (2)",
       "quantity": "1",
-      "subtxt": "Moonlight Antelope"
+      "subtxt": "Moonlight antelope"
     },
     "skills": [],
     "ticks": "3",
@@ -77926,28 +77926,6 @@
         "quantity": "1"
       },
       {
-        "name": "Raw wild kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
-      "name": "Snowy knight mix (2)",
-      "quantity": "1",
-      "subtxt": "Raw Wild Kebbit"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Snowy knight (item)",
-        "quantity": "1"
-      },
-      {
         "name": "Raw larupia",
         "quantity": "1"
       }
@@ -77958,28 +77936,6 @@
       "name": "Snowy knight mix (2)",
       "quantity": "1",
       "subtxt": "Larupia"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Snowy knight (item)",
-        "quantity": "1"
-      },
-      {
-        "name": "Raw barb-tailed kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
-      "name": "Snowy knight mix (2)",
-      "quantity": "1",
-      "subtxt": "Barb-tailed Kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -78058,6 +78014,50 @@
         "quantity": "1"
       },
       {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
+      "name": "Snowy knight mix (2)",
+      "quantity": "1",
+      "subtxt": "Wild kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snowy knight (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
+      "name": "Snowy knight mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snowy knight (item)",
+        "quantity": "1"
+      },
+      {
         "name": "Raw sunlight antelope",
         "quantity": "1"
       }
@@ -78067,7 +78067,7 @@
       "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
       "name": "Snowy knight mix (2)",
       "quantity": "1",
-      "subtxt": "Sunlight Antelope"
+      "subtxt": "Sunlight antelope"
     },
     "skills": [],
     "ticks": "3",
@@ -78089,7 +78089,7 @@
       "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
       "name": "Snowy knight mix (2)",
       "quantity": "1",
-      "subtxt": "Dashing Kebbit"
+      "subtxt": "Dashing kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -78111,7 +78111,7 @@
       "image": "[[File:Snowy knight mix (2).png|link=Snowy knight mix (2)]]",
       "name": "Snowy knight mix (2)",
       "quantity": "1",
-      "subtxt": "Moonlight Antelope"
+      "subtxt": "Moonlight antelope"
     },
     "skills": [],
     "ticks": "3",
@@ -83707,28 +83707,6 @@
         "quantity": "1"
       },
       {
-        "name": "Raw wild kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
-      "name": "Sunlight moth mix (2)",
-      "quantity": "1",
-      "subtxt": "Raw Wild Kebbit"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Sunlight moth (item)",
-        "quantity": "1"
-      },
-      {
         "name": "Raw larupia",
         "quantity": "1"
       }
@@ -83739,28 +83717,6 @@
       "name": "Sunlight moth mix (2)",
       "quantity": "1",
       "subtxt": "Larupia"
-    },
-    "skills": [],
-    "ticks": "3",
-    "tools": "Pestle and mortar"
-  },
-  {
-    "materials": [
-      {
-        "name": "Sunlight moth (item)",
-        "quantity": "1"
-      },
-      {
-        "name": "Raw barb-tailed kebbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
-      "name": "Sunlight moth mix (2)",
-      "quantity": "1",
-      "subtxt": "Barb-tailed Kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -83839,6 +83795,50 @@
         "quantity": "1"
       },
       {
+        "name": "Raw wild kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
+      "name": "Sunlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Wild kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight moth (item)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw barb-tailed kebbit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
+      "name": "Sunlight moth mix (2)",
+      "quantity": "1",
+      "subtxt": "Barb-tailed kebbit"
+    },
+    "skills": [],
+    "ticks": "3",
+    "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sunlight moth (item)",
+        "quantity": "1"
+      },
+      {
         "name": "Raw sunlight antelope",
         "quantity": "1"
       }
@@ -83848,7 +83848,7 @@
       "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
       "name": "Sunlight moth mix (2)",
       "quantity": "1",
-      "subtxt": "Sunlight Antelope"
+      "subtxt": "Sunlight antelope"
     },
     "skills": [],
     "ticks": "3",
@@ -83870,7 +83870,7 @@
       "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
       "name": "Sunlight moth mix (2)",
       "quantity": "1",
-      "subtxt": "Dashing Kebbit"
+      "subtxt": "Dashing kebbit"
     },
     "skills": [],
     "ticks": "3",
@@ -83892,7 +83892,7 @@
       "image": "[[File:Sunlight moth mix (2).png|link=Sunlight moth mix (2)]]",
       "name": "Sunlight moth mix (2)",
       "quantity": "1",
-      "subtxt": "Moonlight Antelope"
+      "subtxt": "Moonlight antelope"
     },
     "skills": [],
     "ticks": "3",
