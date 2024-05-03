@@ -21501,12 +21501,12 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (hard, coordinates 26)",
+    "group": "Clue scroll (hard) - 05.35S 26.30E",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 3550,
     "name": "Clue scroll (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard,_coordinates_26)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_05.35S_26.30E",
     "version": null
   },
   {
@@ -57631,16 +57631,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (medium) - Cry on the shore of Catherby beach",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 10266,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Cry_on_the_shore_of_Catherby_beach",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (medium) - Jump for joy in Yanille bank",
     "isMembers": true,
     "isTradeable": false,
@@ -66267,6 +66257,16 @@
     "itemID": 12025,
     "name": "Clue scroll (medium)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Clap_in_Seers_court_house",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - Cry on the shore of Catherby beach",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 12027,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Cry_on_the_shore_of_Catherby_beach",
     "version": null
   },
   {
@@ -85771,22 +85771,22 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (elite) - CIRR JAD",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 21524,
+    "name": "Clue scroll (elite)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)_-_CIRR_JAD",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (elite) - Cirr Jad",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 21524,
     "name": "Clue scroll (elite)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)_-_Cirr_Jad",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (elite, anagram 12)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 21524,
-    "name": "Clue scroll (elite)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite,_anagram_12)",
     "version": null
   },
   {
