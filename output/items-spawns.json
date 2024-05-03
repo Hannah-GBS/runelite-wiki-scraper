@@ -1129,6 +1129,12 @@
     "group": "Bread",
     "spawns": [
       {
+        "coords": "1415,9555",
+        "isMembers": true,
+        "location": "Cam Torum - basement of the south-western homes",
+        "name": "Bread"
+      },
+      {
         "coords": "2037,8980",
         "isMembers": false,
         "location": "Corsair Cove Dungeon",
@@ -4009,6 +4015,17 @@
     ]
   },
   {
+    "group": "Iron battleaxe",
+    "spawns": [
+      {
+        "coords": "1700,3185",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Iron battleaxe"
+      }
+    ]
+  },
+  {
     "group": "Iron dagger",
     "spawns": [
       {
@@ -4305,7 +4322,7 @@
       {
         "coords": "1737,3168",
         "isMembers": true,
-        "location": "Civitas illa Fortis",
+        "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Jug"
       },
       {
@@ -4725,6 +4742,12 @@
         "coords": "3302,3190",
         "isMembers": false,
         "location": "Al Kharid",
+        "name": "Leather boots"
+      },
+      {
+        "coords": "1701,3186",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
         "name": "Leather boots"
       },
       {
@@ -6561,7 +6584,7 @@
       {
         "coords": "1736,3168",
         "isMembers": true,
-        "location": "Civitas illa Fortis",
+        "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Snape grass"
       },
       {
@@ -7179,7 +7202,7 @@
       {
         "coords": "1737,3169",
         "isMembers": true,
-        "location": "Civitas illa Fortis",
+        "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Tinderbox"
       },
       {
