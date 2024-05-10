@@ -1791,12 +1791,12 @@
   },
   {
     "examineText": "I found this in a cave beneath the Tree Gnome Village (used in the Waterfall Quest).",
-    "group": "Key (Tree Gnome Village dungeon)",
+    "group": "Key (Tree Gnome Village Dungeon)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 293,
     "name": "Key",
-    "url": "https://oldschool.runescape.wiki/w/Key_(Tree_Gnome_Village_dungeon)",
+    "url": "https://oldschool.runescape.wiki/w/Key_(Tree_Gnome_Village_Dungeon)",
     "version": null
   },
   {
@@ -15951,16 +15951,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (easy) - A crate found in the tower of a church",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2711,
-    "name": "Clue scroll (easy)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_A_crate_found_in_the_tower_of_a_church",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (easy) - Look in the ground floor crates of houses in Falador",
     "isMembers": true,
     "isTradeable": false,
@@ -17881,12 +17871,12 @@
   },
   {
     "examineText": "I can exchange these for further experience or items.",
-    "group": "Agility arena ticket",
+    "group": "Agility arena ticket (discontinued)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 2996,
     "name": "Agility arena ticket",
-    "url": "https://oldschool.runescape.wiki/w/Agility_arena_ticket",
+    "url": "https://oldschool.runescape.wiki/w/Agility_arena_ticket_(discontinued)",
     "version": null
   },
   {
@@ -85460,7 +85450,7 @@
     "version": null
   },
   {
-    "examineText": "These will help me mine Silver, Coal and Gold.",
+    "examineText": "These will help me mine Iron, Silver, Coal and Gold.",
     "group": "Mining gloves",
     "isMembers": true,
     "isTradeable": false,
@@ -85470,7 +85460,7 @@
     "version": null
   },
   {
-    "examineText": "These will help me mine Mithril, Adamantite and Runite.",
+    "examineText": "These will help me mine Sandstone, Granite, Mithril and Adamantite. As well as improve mining Iron, Silver, Coal and Gold.",
     "group": "Superior mining gloves",
     "isMembers": true,
     "isTradeable": false,
@@ -85580,7 +85570,7 @@
     "version": "Filled"
   },
   {
-    "examineText": "These will help me mine Silver, Coal, Gold, Mithril, Adamantite, Runite and Amethyst.",
+    "examineText": "These will help me mine Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Sandstone, Granite, Mithril, Adamantite.",
     "group": "Expert mining gloves",
     "isMembers": true,
     "isTradeable": false,
@@ -93381,26 +93371,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - Cheer at Iffie Nitter",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Cheer_at_Iffie_Nitter",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - Clap at Bob's Brilliant Axes",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Clap_at_Bob%27s_Brilliant_Axes",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - Always walking around the castle grounds",
     "isMembers": true,
     "isTradeable": false,
@@ -93427,6 +93397,26 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Cheer at Iffie Nitter",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Cheer_at_Iffie_Nitter",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Clap at Bob's Brilliant Axes",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Clap_at_Bob%27s_Brilliant_Axes",
     "version": null
   },
   {
@@ -123018,5 +123008,25 @@
     "name": "Large fur pouch (open)",
     "url": "https://oldschool.runescape.wiki/w/Large_fur_pouch",
     "version": "Open"
+  },
+  {
+    "examineText": "I can exchange these for further experience.",
+    "group": "Agility arena ticket",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29480,
+    "name": "Agility arena ticket",
+    "url": "https://oldschool.runescape.wiki/w/Agility_arena_ticket",
+    "version": null
+  },
+  {
+    "examineText": "I can exchange these for items.",
+    "group": "Brimhaven voucher",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29482,
+    "name": "Brimhaven voucher",
+    "url": "https://oldschool.runescape.wiki/w/Brimhaven_voucher",
+    "version": null
   }
 ]
