@@ -317,6 +317,68 @@
     "sellMultiplier": "1000"
   },
   {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Brimhaven voucher",
+        "name": "Amylase pack",
+        "sellPrice": "60",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Brimhaven voucher",
+        "name": "Graceful outfit",
+        "sellPrice": "250",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Brimhaven voucher",
+        "name": "Pirate's hook",
+        "sellPrice": "800",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Brimhaven voucher",
+        "name": "Snapdragon",
+        "sellPrice": "10",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Brimhaven voucher",
+        "name": "Toadflax",
+        "sellPrice": "3",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Brimhaven",
+    "name": "Agility Arena Store"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Agility arena ticket",
+        "name": "Agility",
+        "sellPrice": "1",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Brimhaven",
+    "name": "Agility Arena Store"
+  },
+  {
     "buyMultiplier": "550",
     "isMembers": true,
     "items": [
@@ -5344,40 +5406,7 @@
   },
   {
     "isMembers": true,
-    "items": [
-      {
-        "buyPrice": "N/A",
-        "currency": "Agility arena ticket",
-        "name": "Graceful outfit",
-        "sellPrice": "250",
-        "stock": "\u221e",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Agility arena ticket",
-        "name": "Pirate's hook",
-        "sellPrice": "800",
-        "stock": "\u221e",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Agility arena ticket",
-        "name": "Snapdragon",
-        "sellPrice": "10",
-        "stock": "\u221e",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Agility arena ticket",
-        "name": "Toadflax",
-        "sellPrice": "3",
-        "stock": "\u221e",
-        "version": null
-      }
-    ],
+    "items": [],
     "location": "Brimhaven",
     "name": "Brimhaven Agility Arena Ticket Exchange"
   },
@@ -5481,7 +5510,7 @@
       {
         "currency": "Coins",
         "name": "Adamant warhammer",
-        "stock": "2",
+        "stock": "1",
         "version": null
       },
       {
@@ -24877,8 +24906,10 @@
         "version": "Unidentified minerals"
       },
       {
+        "buyPrice": "32",
         "currency": "Unidentified minerals",
         "name": "Mining gloves",
+        "sellPrice": "40",
         "stock": "100",
         "version": null
       },
@@ -24889,8 +24920,10 @@
         "version": "Unidentified minerals"
       },
       {
+        "buyPrice": "80",
         "currency": "Unidentified minerals",
         "name": "Superior mining gloves",
+        "sellPrice": "100",
         "stock": "100",
         "version": null
       }
@@ -33244,7 +33277,7 @@
       {
         "currency": "Coins",
         "name": "Dynamite",
-        "stock": "1000",
+        "stock": "2000",
         "version": null
       },
       {
