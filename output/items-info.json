@@ -15951,6 +15951,16 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (easy) - A crate found in the tower of a church",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 2711,
+    "name": "Clue scroll (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_A_crate_found_in_the_tower_of_a_church",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (easy) - Look in the ground floor crates of houses in Falador",
     "isMembers": true,
     "isTradeable": false,
@@ -16797,16 +16807,6 @@
     "itemID": 2839,
     "name": "Clue scroll (medium)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_In_a_town_where_wizards_are_known_to_gather",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (medium) - Speak to Hazelmere.",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2841,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Speak_to_Hazelmere.",
     "version": null
   },
   {
@@ -50620,16 +50620,6 @@
     "version": null
   },
   {
-    "examineText": "Piratical currency.",
-    "group": "Pieces of eight",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 8951,
-    "name": "Pieces of eight",
-    "url": "https://oldschool.runescape.wiki/w/Pieces_of_eight",
-    "version": null
-  },
-  {
     "examineText": "...You can sail the seven seas...",
     "group": "Blue naval shirt",
     "isMembers": true,
@@ -67311,16 +67301,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (easy) - Al Kharid Mine",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 12179,
-    "name": "Clue scroll (easy)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_Al_Kharid_Mine",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (easy) - Al Kharid mine",
     "isMembers": true,
     "isTradeable": false,
@@ -78544,7 +78524,7 @@
     "group": "Clue scroll (hard) - I have many arms, but legs I have just one",
     "isMembers": true,
     "isTradeable": false,
-    "itemID": 19860,
+    "itemID": 19858,
     "name": "Clue scroll (hard)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_I_have_many_arms,_but_legs_I_have_just_one",
     "version": null
@@ -85460,7 +85440,7 @@
     "version": null
   },
   {
-    "examineText": "These will help me mine Sandstone, Granite, Mithril and Adamantite. As well as improve mining Iron, Silver, Coal and Gold.",
+    "examineText": "These will help me mine Mithril and Adamantite. As well as improve mining Iron, Silver, Coal and Gold.",
     "group": "Superior mining gloves",
     "isMembers": true,
     "isTradeable": false,
@@ -85570,7 +85550,7 @@
     "version": "Filled"
   },
   {
-    "examineText": "These will help me mine Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Sandstone, Granite, Mithril, Adamantite.",
+    "examineText": "These will help me mine Sandstone, Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.",
     "group": "Expert mining gloves",
     "isMembers": true,
     "isTradeable": false,
@@ -85757,16 +85737,6 @@
     "itemID": 21521,
     "name": "Teak bird house",
     "url": "https://oldschool.runescape.wiki/w/Teak_bird_house",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (elite) - CIRR JAD",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 21524,
-    "name": "Clue scroll (elite)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)_-_CIRR_JAD",
     "version": null
   },
   {
@@ -93372,7 +93342,7 @@
   {
     "examineText": "",
     "group": "Clue scroll (beginner) - Always walking around the castle grounds",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
@@ -93442,7 +93412,7 @@
   {
     "examineText": "",
     "group": "Clue scroll (beginner) - In the place Duke Horacio calls home",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
@@ -93452,7 +93422,7 @@
   {
     "examineText": "",
     "group": "Clue scroll (beginner) - In a village of barbarians",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
@@ -93462,7 +93432,7 @@
   {
     "examineText": "",
     "group": "Clue scroll (beginner) - Near the open desert I reside",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
@@ -107671,142 +107641,142 @@
   },
   {
     "examineText": "Engraved within, it reads \"We stand alone - together\".",
-    "group": "Group iron helm",
+    "group": "Group ironman helm",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26156,
-    "name": "Group iron helm",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_helm",
+    "name": "Group ironman helm",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_helm",
     "version": null
   },
   {
     "examineText": "A platebody representing your group of two.",
-    "group": "Group iron platebody",
+    "group": "Group ironman platebody",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26158,
-    "name": "Group iron platebody",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_platebody",
+    "name": "Group ironman platebody",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_platebody",
     "version": "II"
   },
   {
     "examineText": "A platebody representing your group of three.",
-    "group": "Group iron platebody",
+    "group": "Group ironman platebody",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26160,
-    "name": "Group iron platebody",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_platebody",
+    "name": "Group ironman platebody",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_platebody",
     "version": "III"
   },
   {
     "examineText": "A platebody representing your group of four.",
-    "group": "Group iron platebody",
+    "group": "Group ironman platebody",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26162,
-    "name": "Group iron platebody",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_platebody",
+    "name": "Group ironman platebody",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_platebody",
     "version": "IV"
   },
   {
     "examineText": "A platebody representing your group of five.",
-    "group": "Group iron platebody",
+    "group": "Group ironman platebody",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26164,
-    "name": "Group iron platebody",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_platebody",
+    "name": "Group ironman platebody",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_platebody",
     "version": "V"
   },
   {
     "examineText": "Protects your legs while still stylish.",
-    "group": "Group iron platelegs",
+    "group": "Group ironman platelegs",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26166,
-    "name": "Group iron platelegs",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_platelegs",
+    "name": "Group ironman platelegs",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_platelegs",
     "version": null
   },
   {
     "examineText": "Brace yourself.",
-    "group": "Group iron bracers",
+    "group": "Group ironman bracers",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26168,
-    "name": "Group iron bracers",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_bracers",
+    "name": "Group ironman bracers",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_bracers",
     "version": null
   },
   {
     "examineText": "A symbol of the most epic adventurers - with nerves of steel and hearts of iron.",
-    "group": "Hardcore group iron helm",
+    "group": "Hardcore group ironman helm",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26170,
-    "name": "Hardcore group iron helm",
-    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_iron_helm",
+    "name": "Hardcore group ironman helm",
+    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_ironman_helm",
     "version": null
   },
   {
     "examineText": "A platebody representing your Hardcore group of two.",
-    "group": "Hardcore group iron platebody",
+    "group": "Hardcore group ironman platebody",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26172,
-    "name": "Hardcore group iron platebody",
-    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_iron_platebody",
+    "name": "Hardcore group ironman platebody",
+    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_ironman_platebody",
     "version": "II"
   },
   {
     "examineText": "A platebody representing your Hardcore group of three.",
-    "group": "Hardcore group iron platebody",
+    "group": "Hardcore group ironman platebody",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26174,
-    "name": "Hardcore group iron platebody",
-    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_iron_platebody",
+    "name": "Hardcore group ironman platebody",
+    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_ironman_platebody",
     "version": "III"
   },
   {
     "examineText": "A platebody representing your Hardcore group of four.",
-    "group": "Hardcore group iron platebody",
+    "group": "Hardcore group ironman platebody",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26176,
-    "name": "Hardcore group iron platebody",
-    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_iron_platebody",
+    "name": "Hardcore group ironman platebody",
+    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_ironman_platebody",
     "version": "IV"
   },
   {
     "examineText": "A platebody representing your Hardcore group of five.",
-    "group": "Hardcore group iron platebody",
+    "group": "Hardcore group ironman platebody",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26178,
-    "name": "Hardcore group iron platebody",
-    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_iron_platebody",
+    "name": "Hardcore group ironman platebody",
+    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_ironman_platebody",
     "version": "V"
   },
   {
     "examineText": "Guarding your legs - one of your most powerful tools of escaping.",
-    "group": "Hardcore group iron platelegs",
+    "group": "Hardcore group ironman platelegs",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26180,
-    "name": "Hardcore group iron platelegs",
-    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_iron_platelegs",
+    "name": "Hardcore group ironman platelegs",
+    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_ironman_platelegs",
     "version": null
   },
   {
     "examineText": "Brace yourself.",
-    "group": "Hardcore group iron bracers",
+    "group": "Hardcore group ironman bracers",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 26182,
-    "name": "Hardcore group iron bracers",
-    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_iron_bracers",
+    "name": "Hardcore group ironman bracers",
+    "url": "https://oldschool.runescape.wiki/w/Hardcore_group_ironman_bracers",
     "version": null
   },
   {
@@ -111681,72 +111651,72 @@
   },
   {
     "examineText": "Engraved within, it reads \"Ranked or not: We stand alone - together\".",
-    "group": "Group iron helm (unranked)",
+    "group": "Group ironman helm (unranked)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 27042,
-    "name": "Group iron helm (unranked)",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_helm_(unranked)",
+    "name": "Group ironman helm (unranked)",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_helm_(unranked)",
     "version": null
   },
   {
     "examineText": "Protects your legs while still stylish.",
-    "group": "Group iron platelegs (unranked)",
+    "group": "Group ironman platelegs (unranked)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 27044,
-    "name": "Group iron platelegs (unranked)",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_platelegs_(unranked)",
+    "name": "Group ironman platelegs (unranked)",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_platelegs_(unranked)",
     "version": null
   },
   {
     "examineText": "Brace yourself.",
-    "group": "Group iron bracers (unranked)",
+    "group": "Group ironman bracers (unranked)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 27046,
-    "name": "Group iron bracers (unranked)",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_bracers_(unranked)",
+    "name": "Group ironman bracers (unranked)",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_bracers_(unranked)",
     "version": null
   },
   {
     "examineText": "A platebody representing your group of two.",
-    "group": "Group iron platebody (unranked)",
+    "group": "Group ironman platebody (unranked)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 27048,
-    "name": "Group iron platebody (unranked)",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_platebody_(unranked)",
+    "name": "Group ironman platebody (unranked)",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_platebody_(unranked)",
     "version": "II"
   },
   {
     "examineText": "A platebody representing your group of three.",
-    "group": "Group iron platebody (unranked)",
+    "group": "Group ironman platebody (unranked)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 27050,
-    "name": "Group iron platebody (unranked)",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_platebody_(unranked)",
+    "name": "Group ironman platebody (unranked)",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_platebody_(unranked)",
     "version": "III"
   },
   {
     "examineText": "A platebody representing your group of four.",
-    "group": "Group iron platebody (unranked)",
+    "group": "Group ironman platebody (unranked)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 27052,
-    "name": "Group iron platebody (unranked)",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_platebody_(unranked)",
+    "name": "Group ironman platebody (unranked)",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_platebody_(unranked)",
     "version": "IV"
   },
   {
     "examineText": "A platebody representing your group of five.",
-    "group": "Group iron platebody (unranked)",
+    "group": "Group ironman platebody (unranked)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 27054,
-    "name": "Group iron platebody (unranked)",
-    "url": "https://oldschool.runescape.wiki/w/Group_iron_platebody_(unranked)",
+    "name": "Group ironman platebody (unranked)",
+    "url": "https://oldschool.runescape.wiki/w/Group_ironman_platebody_(unranked)",
     "version": "V"
   },
   {
@@ -120631,12 +120601,12 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (easy) - Search the bookshelf with a skull on it inside the Burrow",
+    "group": "Clue scroll (easy) - Search the food barrel at the top of the Hunter Guild",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28913,
     "name": "Clue scroll (easy)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_Search_the_bookshelf_with_a_skull_on_it_inside_the_Burrow",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_Search_the_food_barrel_at_the_top_of_the_Hunter_Guild",
     "version": null
   },
   {
