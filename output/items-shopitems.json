@@ -19147,7 +19147,7 @@
       }
     ],
     "location": "Trouble Brewing",
-    "name": "Honest Jimmy's House of Stuff.",
+    "name": "Honest Jimmy's House of Stuff",
     "sellMultiplier": "10000"
   },
   {
@@ -27234,6 +27234,38 @@
       {
         "buyPrice": "N/A",
         "currency": "Volcanic Mine points",
+        "name": "Prospector boots",
+        "sellPrice": "21,000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Volcanic Mine points",
+        "name": "Prospector helmet",
+        "sellPrice": "26,000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Volcanic Mine points",
+        "name": "Prospector jacket",
+        "sellPrice": "39,000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Volcanic Mine points",
+        "name": "Prospector legs",
+        "sellPrice": "34,000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Volcanic Mine points",
         "name": "Pyrophosphite",
         "sellPrice": "70",
         "stock": "inf",
@@ -31234,10 +31266,9 @@
         "version": null
       },
       {
-        "buyPrice": "91",
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Enchanted gem",
-        "sellPrice": "N/A",
         "stock": "50",
         "version": null
       },
@@ -31251,7 +31282,6 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Fishing explosive",
-        "sellPrice": "91",
         "stock": "5000",
         "version": null
       },
