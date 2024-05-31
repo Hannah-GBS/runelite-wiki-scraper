@@ -34411,12 +34411,12 @@
   },
   {
     "examineText": "A stool for milking",
-    "group": "Stool",
+    "group": "Stool (animation item)",
     "isMembers": false,
     "isTradeable": true,
     "itemID": 5732,
     "name": "Stool",
-    "url": "https://oldschool.runescape.wiki/w/Stool",
+    "url": "https://oldschool.runescape.wiki/w/Stool_(animation_item)",
     "version": null
   },
   {
@@ -50617,6 +50617,16 @@
     "itemID": 8950,
     "name": "Pirate hat",
     "url": "https://oldschool.runescape.wiki/w/Pirate_hat",
+    "version": null
+  },
+  {
+    "examineText": "Piratical currency.",
+    "group": "Pieces of eight (discontinued)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 8951,
+    "name": "Pieces of eight",
+    "url": "https://oldschool.runescape.wiki/w/Pieces_of_eight_(discontinued)",
     "version": null
   },
   {
@@ -122997,6 +123007,16 @@
     "itemID": 29482,
     "name": "Brimhaven voucher",
     "url": "https://oldschool.runescape.wiki/w/Brimhaven_voucher",
+    "version": null
+  },
+  {
+    "examineText": "An cursed amulet of magic.",
+    "group": "Cursed amulet of magic",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 29486,
+    "name": "Cursed amulet of magic",
+    "url": "https://oldschool.runescape.wiki/w/Cursed_amulet_of_magic",
     "version": null
   }
 ]
