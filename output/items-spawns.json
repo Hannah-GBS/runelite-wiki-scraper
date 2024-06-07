@@ -257,6 +257,12 @@
         "name": "Beer"
       },
       {
+        "coords": "2952,9962",
+        "isMembers": false,
+        "location": "Old School Museum - Lower floor (Telegrab only)",
+        "name": "Beer"
+      },
+      {
         "coords": "1775,3679",
         "isMembers": true,
         "location": "Port Piscarilius - The Legless Faun pub",
@@ -1075,7 +1081,7 @@
       {
         "coords": "2164,2983",
         "isMembers": true,
-        "location": "Isle of Souls - near spinning wheel",
+        "location": "Isle of Souls - near spinning wheel (telegrab)",
         "name": "Box trap"
       },
       {

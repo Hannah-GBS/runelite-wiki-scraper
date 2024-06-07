@@ -5510,7 +5510,7 @@
       {
         "currency": "Coins",
         "name": "Adamant warhammer",
-        "stock": "1",
+        "stock": "2",
         "version": null
       },
       {
@@ -11443,6 +11443,22 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Pumpkin lantern",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Rainbow cape",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Rainbow crown shirt",
         "sellPrice": "0",
         "stock": "inf",
         "version": null
