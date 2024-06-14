@@ -101,7 +101,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "5",
         "level": "61",
         "name": "Smithing"
@@ -1153,7 +1153,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "5",
         "level": "31",
         "name": "Smithing"
@@ -9363,7 +9363,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "5",
         "level": "11",
         "name": "Smithing"
@@ -9850,7 +9850,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">142,499,294</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">142,735,436</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14514,7 +14514,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">143,330,348</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">145,476,647</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -30963,7 +30963,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
   },
   {
     "materials": [
@@ -30983,7 +30983,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
   },
   {
     "materials": [
@@ -31003,7 +31003,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
   },
   {
     "materials": [
@@ -33419,7 +33419,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "5",
         "level": "61",
         "name": "Smithing"
@@ -51343,7 +51343,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
   },
   {
     "materials": [
@@ -51363,7 +51363,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
   },
   {
     "materials": [
@@ -51383,7 +51383,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
   },
   {
     "materials": [
@@ -55818,7 +55818,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "5",
         "level": "21",
         "name": "Smithing"
@@ -81365,7 +81365,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "5",
         "level": "6",
         "name": "Smithing"
