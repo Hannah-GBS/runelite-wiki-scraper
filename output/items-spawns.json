@@ -755,6 +755,12 @@
         "name": "Bones"
       },
       {
+        "coords": "1588,3765",
+        "isMembers": true,
+        "location": "Lovakengj - north-west of the Kourend Castle",
+        "name": "Bones"
+      },
+      {
         "coords": "2925,3251",
         "isMembers": false,
         "location": "Melzar's Maze, upstairs",
@@ -6346,6 +6352,12 @@
         "coords": "2485,2928",
         "isMembers": true,
         "location": "Feldip Hills - north of the Corsair Cove Resource Area",
+        "name": "Skull"
+      },
+      {
+        "coords": "1591,3760",
+        "isMembers": true,
+        "location": "Lovakengj - north-west of the Kourend Castle",
         "name": "Skull"
       },
       {
