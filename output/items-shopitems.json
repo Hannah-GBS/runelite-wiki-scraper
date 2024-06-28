@@ -33218,7 +33218,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Frog token",
-        "name": "Prince outfit",
+        "name": "Lamp",
         "sellPrice": "1",
         "stock": "inf",
         "version": null
@@ -33226,7 +33226,15 @@
       {
         "buyPrice": "N/A",
         "currency": "Frog token",
-        "name": "Princess outfit",
+        "name": "Royal frog costume",
+        "sellPrice": "1",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Frog token",
+        "name": "Royal frog costume",
         "sellPrice": "1",
         "stock": "inf",
         "version": null
