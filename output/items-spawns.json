@@ -1396,6 +1396,12 @@
     "group": "Bronze axe",
     "spawns": [
       {
+        "coords": "1683,2975",
+        "isMembers": true,
+        "location": "Avium Savannah - near Marcellus's house",
+        "name": "Bronze axe"
+      },
+      {
         "coords": "2795,3161",
         "isMembers": true,
         "location": "Brimhaven - Dead Man's Chest pub",
@@ -1429,6 +1435,12 @@
         "coords": "3232,3296",
         "isMembers": false,
         "location": "Lumbridge - outside Seth Groats's house",
+        "name": "Bronze axe"
+      },
+      {
+        "coords": "2805,3703",
+        "isMembers": true,
+        "location": "Mountain Camp - in the cave",
         "name": "Bronze axe"
       },
       {
@@ -6133,7 +6145,7 @@
       {
         "coords": "3196,9822",
         "isMembers": false,
-        "location": "Varrock - west bank basement",
+        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Ruby ring"
       }
     ]
@@ -6710,6 +6722,17 @@
         "isMembers": false,
         "location": "Wilderness - north-east of the Bone Yard",
         "name": "Steel dagger"
+      }
+    ]
+  },
+  {
+    "group": "Steel knife",
+    "spawns": [
+      {
+        "coords": "2805,3703",
+        "isMembers": true,
+        "location": "Mountain Camp - in the cave",
+        "name": "Steel knife"
       }
     ]
   },
