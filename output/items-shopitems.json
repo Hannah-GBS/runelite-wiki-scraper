@@ -21919,6 +21919,21 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Slayer cape",
+        "sellPrice": "99000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Shilo Village",
+    "name": "Kuradal"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Golden fleece",
         "sellPrice": "1000",
         "stock": "inf",
@@ -33361,83 +33376,73 @@
     "name": "Thurgo"
   },
   {
-    "buyMultiplier": "600",
+    "buyMultiplier": "400",
     "isMembers": true,
     "items": [
       {
         "currency": "Coins",
         "name": "Adamant full helm",
-        "sellPrice": "4576",
         "stock": "2",
         "version": null
       },
       {
         "currency": "Coins",
         "name": "Adamant med helm",
-        "sellPrice": "2496",
         "stock": "2",
         "version": null
       },
       {
         "currency": "Coins",
         "name": "Bronze full helm",
-        "sellPrice": "57",
         "stock": "5",
         "version": null
       },
       {
         "currency": "Coins",
         "name": "Bronze med helm",
-        "sellPrice": "31",
         "stock": "5",
         "version": null
       },
       {
         "currency": "Coins",
         "name": "Iron full helm",
-        "sellPrice": "200",
         "stock": "4",
         "version": null
       },
       {
         "currency": "Coins",
         "name": "Iron med helm",
-        "sellPrice": "109",
         "stock": "4",
         "version": null
       },
       {
         "currency": "Coins",
         "name": "Mithril full helm",
-        "sellPrice": "1859",
         "stock": "3",
         "version": null
       },
       {
         "currency": "Coins",
         "name": "Mithril med helm",
-        "sellPrice": "1014",
         "stock": "3",
         "version": null
       },
       {
         "currency": "Coins",
         "name": "Steel full helm",
-        "sellPrice": "715",
         "stock": "4",
         "version": null
       },
       {
         "currency": "Coins",
         "name": "Steel med helm",
-        "sellPrice": "390",
         "stock": "4",
         "version": null
       }
     ],
     "location": "Sunset Coast",
     "name": "Thurid's Brain Buckets",
-    "sellMultiplier": "1000"
+    "sellMultiplier": "1300"
   },
   {
     "buyMultiplier": "600",
