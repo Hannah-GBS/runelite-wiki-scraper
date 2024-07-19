@@ -5873,6 +5873,26 @@
         "quantity": "1"
       },
       {
+        "name": "Armageddon weapon scroll",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Armadyl godsword (deadman).png|link=Armadyl godsword (deadman)]]",
+      "name": "Armadyl godsword (deadman)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Armadyl godsword",
+        "quantity": "1"
+      },
+      {
         "name": "Armadyl godsword ornament kit",
         "quantity": "1"
       }
@@ -9886,7 +9906,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">135,756,063</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">135,226,345</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -12360,6 +12380,41 @@
   {
     "materials": [
       {
+        "name": "Super combat potion(4)",
+        "quantity": "1"
+      },
+      {
+        "name": "Ranging potion(4)",
+        "quantity": "1"
+      },
+      {
+        "name": "Super magic potion (4)",
+        "quantity": "1"
+      },
+      {
+        "name": "Chitin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blighted overload (4).png|link=Blighted overload (4)]]",
+      "name": "Blighted overload (4)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "83",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
         "name": "Ivandis flail",
         "quantity": "1"
       },
@@ -13934,22 +13989,6 @@
   {
     "materials": [
       {
-        "name": "Bone claw",
-        "quantity": "2"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bone claws.png|link=Bone claws]]",
-      "name": "Bone claws",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": ""
-  },
-  {
-    "materials": [
-      {
         "name": "Skull sceptre",
         "quantity": "1"
       }
@@ -14566,7 +14605,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">138,364,856</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">135,451,110</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19072,6 +19111,22 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Burning claw",
+        "quantity": "2"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Burning claws.png|link=Burning claws]]",
+      "name": "Burning claws",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -30844,6 +30899,26 @@
         "quantity": "1"
       },
       {
+        "name": "Armageddon weapon scroll",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dark bow (deadman).png|link=Dark bow (deadman)]]",
+      "name": "Dark bow (deadman)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Dark bow",
+        "quantity": "1"
+      },
+      {
         "name": "Green dark bow paint",
         "quantity": "1"
       }
@@ -36834,13 +36909,14 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "yes",
         "experience": "730",
         "level": "74",
         "name": "Smithing"
       }
     ],
-    "ticks": ""
+    "ticks": "5",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -46189,6 +46265,26 @@
         "quantity": "1"
       },
       {
+        "name": "Armageddon cape fabric",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Imbued guthix cape (deadman).png|link=Imbued guthix cape (deadman)]]",
+      "name": "Imbued guthix cape (deadman)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Imbued guthix cape",
+        "quantity": "1"
+      },
+      {
         "name": "Max hood",
         "quantity": "1"
       },
@@ -46229,6 +46325,26 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Imbued saradomin cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Armageddon cape fabric",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Imbued saradomin cape (deadman).png|link=Imbued saradomin cape (deadman)]]",
+      "name": "Imbued saradomin cape (deadman)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -46301,6 +46417,26 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Imbued zamorak cape",
+        "quantity": "1"
+      },
+      {
+        "name": "Armageddon cape fabric",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Imbued zamorak cape (deadman).png|link=Imbued zamorak cape (deadman)]]",
+      "name": "Imbued zamorak cape (deadman)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -51594,6 +51730,31 @@
       }
     ],
     "ticks": "4"
+  },
+  {
+    "facilities": "Forestry Shop",
+    "materials": [
+      {
+        "name": "Anima-infused bark",
+        "quantity": "3000"
+      },
+      {
+        "name": "Maple logs",
+        "quantity": "300"
+      },
+      {
+        "name": "Yew logs",
+        "quantity": "300"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Log brace.png|link=Log brace]]",
+      "name": "Log brace",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -65835,13 +65996,14 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "730",
         "level": "74",
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "",
+    "tools": "hammer"
   },
   {
     "materials": [
@@ -68660,31 +68822,6 @@
     "facilities": "Fire",
     "materials": [
       {
-        "name": "Raw beast meat",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Roast beast meat.png|link=Roast beast meat]]",
-      "name": "Roast beast meat",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "62",
-        "level": "21",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Iron spit"
-  },
-  {
-    "facilities": "Fire",
-    "materials": [
-      {
         "name": "Skewered beast",
         "quantity": "1"
       }
@@ -68728,31 +68865,6 @@
       }
     ],
     "ticks": "3"
-  },
-  {
-    "facilities": "Fire",
-    "materials": [
-      {
-        "name": "Raw rabbit",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Roast rabbit.png|link=Roast rabbit]]",
-      "name": "Roast rabbit",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "72.5",
-        "level": "16",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Iron spit"
   },
   {
     "facilities": "Fire",
@@ -74023,13 +74135,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "730",
         "level": "74",
         "name": "Fletching"
       }
     ],
-    "ticks": ""
+    "ticks": "6"
   },
   {
     "facilities": "Cooking range",
@@ -76522,10 +76634,6 @@
       {
         "name": "Raw bird meat",
         "quantity": "1"
-      },
-      {
-        "name": "Iron spit",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -76548,7 +76656,8 @@
         "name": "Firemaking"
       }
     ],
-    "ticks": "0"
+    "ticks": "0",
+    "tools": "Iron spit"
   },
   {
     "materials": [
@@ -84167,6 +84276,22 @@
   {
     "materials": [
       {
+        "name": "Dizana's quiver",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Sunfire splinters.png|link=Sunfire splinters]]",
+      "name": "Sunfire splinters",
+      "quantity": "4000"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Sunlight antelope antler",
         "quantity": "1"
       }
@@ -84812,6 +84937,33 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Truth serum (While Guthix Sleeps)",
+        "quantity": "1"
+      },
+      {
+        "name": "Enriched snapdragon",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Super truth serum.png|link=Super truth serum]]",
+      "name": "Super truth serum",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "65",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -90150,6 +90302,26 @@
   {
     "materials": [
       {
+        "name": "Voidwaker",
+        "quantity": "1"
+      },
+      {
+        "name": "Armageddon weapon scroll",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Voidwaker (deadman).png|link=Voidwaker (deadman)]]",
+      "name": "Voidwaker (deadman)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
         "name": "Nightmare staff",
         "quantity": "1"
       },
@@ -90162,6 +90334,26 @@
     "output": {
       "image": "[[File:Volatile nightmare staff.png|link=Volatile nightmare staff]]",
       "name": "Volatile nightmare staff",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Volatile nightmare staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Armageddon weapon scroll",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Volatile nightmare staff (deadman).png|link=Volatile nightmare staff (deadman)]]",
+      "name": "Volatile nightmare staff (deadman)",
       "quantity": "1"
     },
     "skills": [],

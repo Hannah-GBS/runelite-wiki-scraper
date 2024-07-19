@@ -4970,7 +4970,7 @@
     "version": null
   },
   {
-    "examineText": "A book to translate the ancient gnome language into English.",
+    "examineText": "A book to translate the ancient gnome language.",
     "group": "Translation book",
     "isMembers": true,
     "isTradeable": false,
@@ -82251,12 +82251,12 @@
   },
   {
     "examineText": "A key crafted from ruby (Used in the Halloween 2016 event).",
-    "group": "Ruby key",
+    "group": "Ruby key (Misthalin Mystery)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 20767,
     "name": "Ruby key",
-    "url": "https://oldschool.runescape.wiki/w/Ruby_key",
+    "url": "https://oldschool.runescape.wiki/w/Ruby_key_(Misthalin_Mystery)",
     "version": "Halloween"
   },
   {
@@ -84201,12 +84201,12 @@
   },
   {
     "examineText": "A key crafted from ruby (Used in the Misthalin Mystery quest).",
-    "group": "Ruby key",
+    "group": "Ruby key (Misthalin Mystery)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 21053,
     "name": "Ruby key",
-    "url": "https://oldschool.runescape.wiki/w/Ruby_key",
+    "url": "https://oldschool.runescape.wiki/w/Ruby_key_(Misthalin_Mystery)",
     "version": "Quest"
   },
   {
@@ -103503,7 +103503,7 @@
     "examineText": "Keeps my chest protected.",
     "group": "Bloodbark body",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 25404,
     "name": "Bloodbark body",
     "url": "https://oldschool.runescape.wiki/w/Bloodbark_body",
@@ -123681,22 +123681,22 @@
   },
   {
     "examineText": "An intact, lightly smouldering claw.",
-    "group": "Bone claw",
+    "group": "Burning claw",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29574,
-    "name": "Bone claw",
-    "url": "https://oldschool.runescape.wiki/w/Bone_claw",
+    "name": "Burning claw",
+    "url": "https://oldschool.runescape.wiki/w/Burning_claw",
     "version": null
   },
   {
     "examineText": "Torn from the hands of ancient demons.",
-    "group": "Bone claws",
+    "group": "Burning claws",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29577,
-    "name": "Bone claws",
-    "url": "https://oldschool.runescape.wiki/w/Bone_claws",
+    "name": "Burning claws",
+    "url": "https://oldschool.runescape.wiki/w/Burning_claws",
     "version": null
   },
   {
@@ -123778,5 +123778,405 @@
     "name": "Duradel's notes",
     "url": "https://oldschool.runescape.wiki/w/Duradel%27s_notes",
     "version": null
+  },
+  {
+    "examineText": "A bow from an even darker dimension.",
+    "group": "Corrupted dark bow",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29599,
+    "name": "Corrupted dark bow",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_dark_bow",
+    "version": null
+  },
+  {
+    "examineText": "An ancient staff corrupted by darkness. A volatile orb has been added to it.",
+    "group": "Corrupted volatile nightmare staff",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29602,
+    "name": "Corrupted volatile nightmare staff",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_volatile_nightmare_staff",
+    "version": null
+  },
+  {
+    "examineText": "A beautiful, heavy sword.",
+    "group": "Armadyl godsword (deadman)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29605,
+    "name": "Armadyl godsword (deadman)",
+    "url": "https://oldschool.runescape.wiki/w/Armadyl_godsword_(deadman)",
+    "version": null
+  },
+  {
+    "examineText": "A truly fearsome weapon.",
+    "group": "Voidwaker (deadman)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29607,
+    "name": "Voidwaker (deadman)",
+    "url": "https://oldschool.runescape.wiki/w/Voidwaker_(deadman)",
+    "version": null
+  },
+  {
+    "examineText": "An ancient staff corrupted by darkness. A volatile orb has been added to it.",
+    "group": "Volatile nightmare staff (deadman)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29609,
+    "name": "Volatile nightmare staff (deadman)",
+    "url": "https://oldschool.runescape.wiki/w/Volatile_nightmare_staff_(deadman)",
+    "version": null
+  },
+  {
+    "examineText": "A bow from a darker dimension.",
+    "group": "Dark bow (deadman)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29611,
+    "name": "Dark bow (deadman)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_bow_(deadman)",
+    "version": null
+  },
+  {
+    "examineText": "A cape from the almighty god Zamorak, imbued with great power.",
+    "group": "Imbued zamorak cape (deadman)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29613,
+    "name": "Imbued zamorak cape (deadman)",
+    "url": "https://oldschool.runescape.wiki/w/Imbued_zamorak_cape_(deadman)",
+    "version": null
+  },
+  {
+    "examineText": "A cape from the almighty god Guthix, imbued with great power.",
+    "group": "Imbued guthix cape (deadman)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29615,
+    "name": "Imbued guthix cape (deadman)",
+    "url": "https://oldschool.runescape.wiki/w/Imbued_guthix_cape_(deadman)",
+    "version": null
+  },
+  {
+    "examineText": "A cape from the almighty god Saradomin, imbued with great power.",
+    "group": "Imbued saradomin cape (deadman)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29617,
+    "name": "Imbued saradomin cape (deadman)",
+    "url": "https://oldschool.runescape.wiki/w/Imbued_saradomin_cape_(deadman)",
+    "version": null
+  },
+  {
+    "examineText": "A fearsome yet stylish souvenir from Deadman: Armageddon.",
+    "group": "Armageddon rug",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29619,
+    "name": "Armageddon rug",
+    "url": "https://oldschool.runescape.wiki/w/Armageddon_rug",
+    "version": null
+  },
+  {
+    "examineText": "A scroll which unlocks the Deadman: Armageddon home teleport animation.",
+    "group": "Armageddon teleport scroll",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29622,
+    "name": "Armageddon teleport scroll",
+    "url": "https://oldschool.runescape.wiki/w/Armageddon_teleport_scroll",
+    "version": null
+  },
+  {
+    "examineText": "Take this to Nigel to give the Armadyl Godsword, Volatile Nightmare Staff, Dark Bow or Voidwaker a cosmetic theme from Deadman: Armageddon.",
+    "group": "Armageddon weapon scroll",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29625,
+    "name": "Armageddon weapon scroll",
+    "url": "https://oldschool.runescape.wiki/w/Armageddon_weapon_scroll",
+    "version": null
+  },
+  {
+    "examineText": "Take this to Nigel to give the imbued Saradomin, Guthix or Zamorak Cape a cosmetic theme from Deadman: Armageddon.",
+    "group": "Armageddon cape fabric",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29628,
+    "name": "Armageddon cape fabric",
+    "url": "https://oldschool.runescape.wiki/w/Armageddon_cape_fabric",
+    "version": null
+  },
+  {
+    "examineText": "4 doses of blighted overload potion.",
+    "group": "Blighted overload",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29631,
+    "name": "Blighted overload (4)",
+    "url": "https://oldschool.runescape.wiki/w/Blighted_overload",
+    "version": "4 dose"
+  },
+  {
+    "examineText": "3 doses of blighted overload potion.",
+    "group": "Blighted overload",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29634,
+    "name": "Blighted overload (3)",
+    "url": "https://oldschool.runescape.wiki/w/Blighted_overload",
+    "version": "3 dose"
+  },
+  {
+    "examineText": "2 doses of blighted overload potion.",
+    "group": "Blighted overload",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29637,
+    "name": "Blighted overload (2)",
+    "url": "https://oldschool.runescape.wiki/w/Blighted_overload",
+    "version": "2 dose"
+  },
+  {
+    "examineText": "1 dose of blighted overload potion.",
+    "group": "Blighted overload",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29640,
+    "name": "Blighted overload (1)",
+    "url": "https://oldschool.runescape.wiki/w/Blighted_overload",
+    "version": "1 dose"
+  },
+  {
+    "examineText": "A fibrous substance used to create powerful potions.",
+    "group": "Chitin",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29643,
+    "name": "Chitin",
+    "url": "https://oldschool.runescape.wiki/w/Chitin",
+    "version": null
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of meticulousness",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29648,
+    "name": "Sigil of meticulousness",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_meticulousness",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of meticulousness",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29649,
+    "name": "Sigil of meticulousness",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_meticulousness",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of revoked limitation",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29651,
+    "name": "Sigil of revoked limitation",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_revoked_limitation",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of revoked limitation",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29652,
+    "name": "Sigil of revoked limitation",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_revoked_limitation",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of rampart",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29654,
+    "name": "Sigil of rampart",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_rampart",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of rampart",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29655,
+    "name": "Sigil of rampart",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_rampart",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of deception",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29657,
+    "name": "Sigil of deception",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_deception",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of deception",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29658,
+    "name": "Sigil of deception",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_deception",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of lithe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29660,
+    "name": "Sigil of lithe",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_lithe",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of lithe",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29661,
+    "name": "Sigil of lithe",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_lithe",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of adroit",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29663,
+    "name": "Sigil of adroit",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_adroit",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of adroit",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29664,
+    "name": "Sigil of adroit",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_adroit",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of onslaught",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29666,
+    "name": "Sigil of lithe",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_onslaught",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of onslaught",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29667,
+    "name": "Sigil of lithe",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_onslaught",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of restoration",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29669,
+    "name": "Sigil of restoration",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_restoration",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of restoration",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29670,
+    "name": "Sigil of restoration",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_restoration",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of swashbuckler",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29672,
+    "name": "Sigil of swashbuckler",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_swashbuckler",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of swashbuckler",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29673,
+    "name": "Sigil of swashbuckler",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_swashbuckler",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of gunslinger",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29675,
+    "name": "Sigil of gunslinger",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_gunslinger",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of gunslinger",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29676,
+    "name": "Sigil of gunslinger",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_gunslinger",
+    "version": "Un-attuned"
+  },
+  {
+    "examineText": "A sigil attuned to you with great power.",
+    "group": "Sigil of arcane swiftness",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29678,
+    "name": "Sigil of arcane swiftness",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_arcane_swiftness",
+    "version": "Attuned"
+  },
+  {
+    "examineText": "A power enhancing sigil not yet attuned to you.",
+    "group": "Sigil of arcane swiftness",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29679,
+    "name": "Sigil of arcane swiftness",
+    "url": "https://oldschool.runescape.wiki/w/Sigil_of_arcane_swiftness",
+    "version": "Un-attuned"
   }
 ]
