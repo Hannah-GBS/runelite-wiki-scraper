@@ -6318,7 +6318,7 @@
       {
         "currency": "Coins",
         "name": "Redberries",
-        "stock": "3",
+        "stock": "2",
         "version": null
       },
       {
@@ -25954,7 +25954,7 @@
       }
     ],
     "location": "Draynor Village",
-    "name": "Ned's Handmade Rope (100% Wool - not yak, honest!)",
+    "name": "Ned's Handmade Rope (100% Wool)",
     "sellMultiplier": "1000"
   },
   {
@@ -25969,7 +25969,7 @@
       }
     ],
     "location": "Draynor Village",
-    "name": "Ned's Handmade Rope (100% Wool - not yak, honest!) Fremennik Isles",
+    "name": "Ned's Handmade Rope (100% Wool) Fremennik Isles",
     "sellMultiplier": "900"
   },
   {
@@ -26055,6 +26055,45 @@
     "location": "Neitiznot",
     "name": "Neitiznot supplies.",
     "sellMultiplier": "1050"
+  },
+  {
+    "isMembers": false,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Deadman Points",
+        "name": "Armageddon cape fabric",
+        "sellPrice": "6000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Deadman Points",
+        "name": "Armageddon rug",
+        "sellPrice": "3000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Deadman Points",
+        "name": "Armageddon teleport scroll",
+        "sellPrice": "9000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Deadman Points",
+        "name": "Armageddon weapon scroll",
+        "sellPrice": "12000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge graveyard",
+    "name": "Nigel"
   },
   {
     "isMembers": false,
