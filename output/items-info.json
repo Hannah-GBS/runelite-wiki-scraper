@@ -41031,12 +41031,12 @@
   },
   {
     "examineText": "This lens has a pinkish tinge to it.",
-    "group": "Rose tinted lens",
+    "group": "Rose-tinted lens",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 6956,
-    "name": "Rose tinted lens",
-    "url": "https://oldschool.runescape.wiki/w/Rose_tinted_lens",
+    "name": "Rose-tinted lens",
+    "url": "https://oldschool.runescape.wiki/w/Rose-tinted_lens",
     "version": null
   },
   {
@@ -124178,5 +124178,15 @@
     "name": "Sigil of arcane swiftness",
     "url": "https://oldschool.runescape.wiki/w/Sigil_of_arcane_swiftness",
     "version": "Un-attuned"
+  },
+  {
+    "examineText": "Teleports you to the Ancient Guthixian Temple.",
+    "group": "Guthixian temple teleport",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29684,
+    "name": "Guthixian temple teleport",
+    "url": "https://oldschool.runescape.wiki/w/Guthixian_temple_teleport",
+    "version": null
   }
 ]

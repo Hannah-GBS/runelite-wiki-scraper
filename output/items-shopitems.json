@@ -10405,6 +10405,45 @@
     "name": "Dead Man's Chest"
   },
   {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Deadman Points",
+        "name": "Armageddon cape fabric",
+        "sellPrice": "6000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Deadman Points",
+        "name": "Armageddon rug",
+        "sellPrice": "3000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Deadman Points",
+        "name": "Armageddon teleport scroll",
+        "sellPrice": "9000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Deadman Points",
+        "name": "Armageddon weapon scroll",
+        "sellPrice": "12000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge graveyard",
+    "name": "Deadman Reward Store"
+  },
+  {
     "isMembers": false,
     "items": [
       {
