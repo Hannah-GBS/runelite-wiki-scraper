@@ -5564,69 +5564,12 @@
     "output": {
       "image": "[[File:Arctic pyre logs.png|link=Arctic pyre logs]]",
       "name": "Arctic pyre logs",
-      "quantity": "1",
-      "subtxt": "2-dose oil"
+      "quantity": "1"
     },
     "skills": [
       {
         "boostable": "",
-        "experience": "12",
-        "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Arctic pine logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Sacred oil(3)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Arctic pyre logs.png|link=Arctic pyre logs]]",
-      "name": "Arctic pyre logs",
-      "quantity": "1",
-      "subtxt": "3-dose oil"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "12",
-        "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Arctic pine logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Sacred oil(4)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Arctic pyre logs.png|link=Arctic pyre logs]]",
-      "name": "Arctic pyre logs",
-      "quantity": "1",
-      "subtxt": "4-dose oil"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "16",
+        "experience": "10",
         "level": "1",
         "name": "Firemaking"
       }
@@ -9907,7 +9850,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">134,849,486</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">139,785,292</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14606,7 +14549,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">134,721,802</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">141,725,998</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -39792,7 +39735,7 @@
   {
     "materials": [
       {
-        "name": "Sardine",
+        "name": "Tuna",
         "quantity": "1"
       },
       {
@@ -39804,7 +39747,7 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "2",
+      "quantity": "4",
       "subtxt": "Leaves"
     },
     "skills": [
@@ -39826,7 +39769,7 @@
   {
     "materials": [
       {
-        "name": "Sardine",
+        "name": "Tuna",
         "quantity": "1"
       },
       {
@@ -39838,7 +39781,7 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "4",
+      "quantity": "8",
       "subtxt": "Oak leaves"
     },
     "skills": [
@@ -39860,7 +39803,7 @@
   {
     "materials": [
       {
-        "name": "Sardine",
+        "name": "Tuna",
         "quantity": "1"
       },
       {
@@ -39872,7 +39815,7 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "6",
+      "quantity": "12",
       "subtxt": "Willow leaves"
     },
     "skills": [
@@ -39894,7 +39837,7 @@
   {
     "materials": [
       {
-        "name": "Sardine",
+        "name": "Tuna",
         "quantity": "1"
       },
       {
@@ -39906,7 +39849,7 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "8",
+      "quantity": "16",
       "subtxt": "Maple leaves"
     },
     "skills": [
@@ -39928,7 +39871,7 @@
   {
     "materials": [
       {
-        "name": "Bass",
+        "name": "Tuna",
         "quantity": "1"
       },
       {
@@ -39962,7 +39905,7 @@
   {
     "materials": [
       {
-        "name": "Shark",
+        "name": "Tuna",
         "quantity": "1"
       },
       {
@@ -39974,7 +39917,7 @@
     "output": {
       "image": "[[File:Forester's ration.png|link=Forester's ration]]",
       "name": "Forester's ration",
-      "quantity": "36",
+      "quantity": "24",
       "subtxt": "Magic leaves"
     },
     "skills": [
@@ -52905,7 +52848,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "16",
+        "experience": "20",
         "level": "1",
         "name": "Firemaking"
       }
@@ -53307,41 +53250,12 @@
     "output": {
       "image": "[[File:Mahogany pyre logs.png|link=Mahogany pyre logs]]",
       "name": "Mahogany pyre logs",
-      "quantity": "1",
-      "subtxt": "3-dose oil"
+      "quantity": "1"
     },
     "skills": [
       {
         "boostable": "",
-        "experience": "12",
-        "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Mahogany logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Sacred oil(4)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mahogany pyre logs.png|link=Mahogany pyre logs]]",
-      "name": "Mahogany pyre logs",
-      "quantity": "1",
-      "subtxt": "4-dose oil"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "16",
+        "experience": "15",
         "level": "1",
         "name": "Firemaking"
       }
@@ -53655,41 +53569,12 @@
     "output": {
       "image": "[[File:Maple pyre logs.png|link=Maple pyre logs]]",
       "name": "Maple pyre logs",
-      "quantity": "1",
-      "subtxt": "3-dose oil"
+      "quantity": "1"
     },
     "skills": [
       {
         "boostable": "",
-        "experience": "12",
-        "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Maple logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Sacred oil(4)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Maple pyre logs.png|link=Maple pyre logs]]",
-      "name": "Maple pyre logs",
-      "quantity": "1",
-      "subtxt": "4-dose oil"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "16",
+        "experience": "15",
         "level": "1",
         "name": "Firemaking"
       }
@@ -61015,69 +60900,12 @@
     "output": {
       "image": "[[File:Oak pyre logs.png|link=Oak pyre logs]]",
       "name": "Oak pyre logs",
-      "quantity": "1",
-      "subtxt": "2-dose oil"
+      "quantity": "1"
     },
     "skills": [
       {
         "boostable": "",
         "experience": "10",
-        "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Oak logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Sacred oil(3)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Oak pyre logs.png|link=Oak pyre logs]]",
-      "name": "Oak pyre logs",
-      "quantity": "1",
-      "subtxt": "3-dose oil"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "12",
-        "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Oak logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Sacred oil(4)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Oak pyre logs.png|link=Oak pyre logs]]",
-      "name": "Oak pyre logs",
-      "quantity": "1",
-      "subtxt": "4-dose oil"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "16",
         "level": "1",
         "name": "Firemaking"
       }
@@ -66352,69 +66180,12 @@
     "output": {
       "image": "[[File:Pyre logs.png|link=Pyre logs]]",
       "name": "Pyre logs",
-      "quantity": "1",
-      "subtxt": "2-dose oil"
+      "quantity": "1"
     },
     "skills": [
       {
         "boostable": "",
         "experience": "10",
-        "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Sacred oil(3)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Pyre logs.png|link=Pyre logs]]",
-      "name": "Pyre logs",
-      "quantity": "1",
-      "subtxt": "3-dose oil"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "12",
-        "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Sacred oil(4)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Pyre logs.png|link=Pyre logs]]",
-      "name": "Pyre logs",
-      "quantity": "1",
-      "subtxt": "4-dose oil"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "16",
         "level": "1",
         "name": "Firemaking"
       }
@@ -67884,12 +67655,12 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "16",
+        "experience": "20",
         "level": "1",
         "name": "Firemaking"
       }
     ],
-    "ticks": "0"
+    "ticks": "4"
   },
   {
     "materials": [
@@ -71986,6 +71757,23 @@
     ],
     "ticks": "5",
     "tools": "Hammer"
+  },
+  {
+    "facilities": "Bank",
+    "materials": [
+      {
+        "name": "Rune pouch note",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune pouch.png|link=Rune pouch]]",
+      "name": "Rune pouch",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Anvil",
@@ -85751,41 +85539,12 @@
     "output": {
       "image": "[[File:Teak pyre logs.png|link=Teak pyre logs]]",
       "name": "Teak pyre logs",
-      "quantity": "1",
-      "subtxt": "3-dose oil"
+      "quantity": "1"
     },
     "skills": [
       {
         "boostable": "",
-        "experience": "12",
-        "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Teak logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Sacred oil(4)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Teak pyre logs.png|link=Teak pyre logs]]",
-      "name": "Teak pyre logs",
-      "quantity": "1",
-      "subtxt": "4-dose oil"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "16",
+        "experience": "15",
         "level": "1",
         "name": "Firemaking"
       }
@@ -91719,41 +91478,12 @@
     "output": {
       "image": "[[File:Willow pyre logs.png|link=Willow pyre logs]]",
       "name": "Willow pyre logs",
-      "quantity": "1",
-      "subtxt": "3-dose oil"
+      "quantity": "1"
     },
     "skills": [
       {
         "boostable": "",
-        "experience": "12",
-        "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Willow logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Sacred oil(4)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Willow pyre logs.png|link=Willow pyre logs]]",
-      "name": "Willow pyre logs",
-      "quantity": "1",
-      "subtxt": "4-dose oil"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "16",
+        "experience": "15",
         "level": "1",
         "name": "Firemaking"
       }
@@ -93245,7 +92975,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "16",
+        "experience": "20",
         "level": "1",
         "name": "Firemaking"
       }
