@@ -14808,6 +14808,165 @@
     "name": "Forester's Arms"
   },
   {
+    "isMembers": false,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Cape pouch",
+        "sellPrice": "2500",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Clothes pouch blueprint",
+        "sellPrice": "10000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Felling axe handle",
+        "sellPrice": "10000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Forestry boots",
+        "sellPrice": "1250",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Forestry hat",
+        "sellPrice": "1250",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Forestry kit",
+        "sellPrice": "Free",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Forestry legs",
+        "sellPrice": "1250",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Forestry top",
+        "sellPrice": "1250",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Funky shaped log",
+        "sellPrice": "15000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Log basket",
+        "sellPrice": "5000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Log brace",
+        "sellPrice": "3000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Lumberjack boots",
+        "sellPrice": "1000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Lumberjack hat",
+        "sellPrice": "1200",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Lumberjack legs",
+        "sellPrice": "1300",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Lumberjack top",
+        "sellPrice": "1500",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Ritual mulch",
+        "sellPrice": "150",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Sawmill voucher",
+        "sellPrice": "150",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Secateurs blade",
+        "sellPrice": "20",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Twitcher's gloves",
+        "sellPrice": "5000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "",
+    "name": "Forestry Shop"
+  },
+  {
     "buyMultiplier": "800",
     "isMembers": true,
     "items": [
@@ -23382,6 +23541,14 @@
         "currency": "Coins",
         "name": "Desert amulet",
         "sellPrice": "200",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Drakan's medallion",
+        "sellPrice": "30000",
         "stock": "inf",
         "version": null
       },
