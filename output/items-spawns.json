@@ -331,7 +331,7 @@
         "coords": "1555,9461",
         "isMembers": true,
         "location": "Hunter Guild - basement",
-        "name": "Trapper&#39;s tipple"
+        "name": "Beer glass"
       },
       {
         "coords": "1724,3073",
@@ -1286,16 +1286,16 @@
         "name": "Broken glass"
       },
       {
-        "coords": "1735,3079",
+        "coords": "1725,3079",
         "isMembers": true,
         "location": "Outer Fortis (inaccessible)",
-        "name": "Logs"
+        "name": "Broken glass"
       },
       {
         "coords": "1726,3076",
         "isMembers": true,
         "location": "Outer Fortis - 1st floor (inaccessible)",
-        "name": "Logs"
+        "name": "Broken glass"
       },
       {
         "coords": "3734,3358",
@@ -1561,13 +1561,13 @@
         "coords": "3077,9778",
         "isMembers": false,
         "location": "Draynor Manor (Count Draynor's basement)",
-        "name": "Bronze Med Helm"
+        "name": "Bronze med helm"
       },
       {
         "coords": "3122,3360",
         "isMembers": false,
         "location": "Draynor Manor (ground floor)",
-        "name": "Bronze Med Helm"
+        "name": "Bronze med helm"
       }
     ]
   },
@@ -1584,7 +1584,7 @@
         "coords": "3325,2727",
         "isMembers": true,
         "location": "Necropolis",
-        "name": "Bronze nails(5)"
+        "name": "Bronze nails"
       }
     ]
   },
@@ -1788,6 +1788,12 @@
         "coords": "1667,3124",
         "isMembers": true,
         "location": "Civitas illa Fortis",
+        "name": "Bucket"
+      },
+      {
+        "coords": "3359,4777",
+        "isMembers": false,
+        "location": "Clan Wars - Free for all",
         "name": "Bucket"
       },
       {
@@ -2231,7 +2237,7 @@
         "coords": "1500, 3423",
         "isMembers": true,
         "location": "Land's End - Crate",
-        "name": "Butterfly Net"
+        "name": "Butterfly net"
       }
     ]
   },
@@ -2549,13 +2555,13 @@
         "coords": "3143,3453",
         "isMembers": false,
         "location": "Cooks' Guild",
-        "name": "Chocolate Bar"
+        "name": "Chocolate bar"
       },
       {
         "coords": "2384,4440",
         "isMembers": true,
         "location": "Zanaris - south of the bank",
-        "name": "Chocolate Bar"
+        "name": "Chocolate bar"
       }
     ]
   },
@@ -2868,7 +2874,7 @@
         "coords": "2947,3898",
         "isMembers": false,
         "location": "Frozen Waste Plateau - south of the gate",
-        "name": "Cosmic Rune"
+        "name": "Cosmic rune"
       }
     ]
   },
@@ -2924,31 +2930,31 @@
         "coords": "2903,3441",
         "isMembers": true,
         "location": "Taverley - building directly west of the tree patch",
-        "name": "Cup of Tea"
+        "name": "Cup of tea"
       },
       {
         "coords": "2886,3412",
         "isMembers": true,
         "location": "Taverley - south-west of Jatix's Herblore Shop",
-        "name": "Cup of Tea"
+        "name": "Cup of tea"
       },
       {
         "coords": "3490,3059",
         "isMembers": true,
         "location": "Uzer Oasis - inside Ali the Tea Seller's house",
-        "name": "Cup of Tea"
+        "name": "Cup of tea"
       },
       {
         "coords": "3271,3413",
         "isMembers": true,
         "location": "Varrock - Ye olde Tea Shoppe.",
-        "name": "Cup of Tea"
+        "name": "Cup of tea"
       },
       {
         "coords": "1621,3501",
         "isMembers": true,
         "location": "Woodcutting Guild - inside Sawmill operator building",
-        "name": "Cup of Tea"
+        "name": "Cup of tea"
       }
     ]
   },
@@ -4148,7 +4154,7 @@
         "coords": "2170,3432",
         "isMembers": true,
         "location": "Mynydd summit",
-        "name": "Iron Knife"
+        "name": "Iron knife"
       }
     ]
   },
@@ -4178,6 +4184,12 @@
   {
     "group": "Iron med helm",
     "spawns": [
+      {
+        "coords": "1616,2963",
+        "isMembers": true,
+        "location": "Avium Savannah",
+        "name": "Iron med helm"
+      },
       {
         "coords": "2562,5985",
         "isMembers": true,
@@ -6069,7 +6081,126 @@
         "coords": "2443,9653",
         "isMembers": true,
         "location": "Underground Pass - first level fail area",
-        "name": "Rock"
+        "name": "Rock (elemental)"
+      }
+    ]
+  },
+  {
+    "group": "Rope",
+    "spawns": [
+      {
+        "coords": "1493,3859",
+        "isMembers": true,
+        "location": "Blast mine - in the south building",
+        "name": "Rope"
+      },
+      {
+        "coords": "2700,10163",
+        "isMembers": true,
+        "location": "Brine Rat Cavern",
+        "name": "Rope"
+      },
+      {
+        "coords": "3223,9933",
+        "isMembers": false,
+        "location": "Bryophyta's lair",
+        "name": "Rope"
+      },
+      {
+        "coords": "1765,3103",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Rope"
+      },
+      {
+        "coords": "1769,3100",
+        "isMembers": true,
+        "location": "Civitas illa Fortis (1st floor)",
+        "name": "Rope"
+      },
+      {
+        "coords": "2023,8985",
+        "isMembers": false,
+        "location": "Corsair Cove Dungeon",
+        "name": "Rope"
+      },
+      {
+        "coords": "2137,2993",
+        "isMembers": true,
+        "location": "Crumbling Tower on the Isle of Souls",
+        "name": "Rope"
+      },
+      {
+        "coords": "3642,3337",
+        "isMembers": true,
+        "location": "Darkmeyer - lower tier",
+        "name": "Rope"
+      },
+      {
+        "coords": "2785,3279",
+        "isMembers": true,
+        "location": "Fishing Platform",
+        "name": "Rope"
+      },
+      {
+        "coords": "2571,3026",
+        "isMembers": true,
+        "location": "Gu'Tanoth - Toban's island",
+        "name": "Rope"
+      },
+      {
+        "coords": "1297,3720",
+        "isMembers": true,
+        "location": "Kebos Lowlands - east of the Farming Guild",
+        "name": "Rope"
+      },
+      {
+        "coords": "2904,3152",
+        "isMembers": false,
+        "location": "Musa Point - Karamja General Store",
+        "name": "Rope"
+      },
+      {
+        "coords": "1582,3124",
+        "isMembers": true,
+        "location": "Ortus Farm",
+        "name": "Rope"
+      },
+      {
+        "coords": "1771,3039",
+        "isMembers": true,
+        "location": "Outer Fortis",
+        "name": "Rope"
+      },
+      {
+        "coords": "2728,10220",
+        "isMembers": true,
+        "location": "Rellekka Hunter area - polar eagle lair",
+        "name": "Rope"
+      },
+      {
+        "coords": "3395,2799",
+        "isMembers": true,
+        "location": "Ruins of Ullek",
+        "name": "Rope"
+      },
+      {
+        "coords": "3169,2836",
+        "isMembers": true,
+        "location": "Ruins of Unkah",
+        "name": "Rope"
+      },
+      {
+        "coords": "1518,2996",
+        "isMembers": true,
+        "location": "Sunset Coast (1st floor)",
+        "name": "Rope"
+      },
+      {
+        "coords": "2885,3943",
+        "isMembers": true,
+        "location": "Weiss",
+        "name": "Rope"
       }
     ]
   },
@@ -6783,7 +6914,7 @@
         "coords": "3085,3859",
         "isMembers": false,
         "location": "Wilderness - Lava Maze",
-        "name": "Steel Platebody"
+        "name": "Steel platebody"
       }
     ]
   },
@@ -7191,7 +7322,7 @@
         "coords": "1520,2982",
         "isMembers": true,
         "location": "Sunset Coast (1st floor)",
-        "name": "Unlit torch"
+        "name": "Tinderbox"
       },
       {
         "coords": "2324,9800",
@@ -7515,6 +7646,12 @@
   {
     "group": "Wooden shield",
     "spawns": [
+      {
+        "coords": "1619,2957",
+        "isMembers": true,
+        "location": "Avium Savannah",
+        "name": "Wooden shield"
+      },
       {
         "coords": "3361,3154",
         "isMembers": false,

@@ -100250,7 +100250,7 @@
     "version": "Inactive"
   },
   {
-    "examineText": "Enough power for a Vengeance, blighted so it can be used only in the Wilderness.",
+    "examineText": "Enough power for a Vengeance or or  Vengeance Other, blighted so it can be used only in the Wilderness.",
     "group": "Blighted vengeance sack",
     "isMembers": true,
     "isTradeable": true,
@@ -119163,7 +119163,7 @@
     "examineText": "A sigil attuned to you with great power.",
     "group": "Sigil of titanium",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 28522,
     "name": "Sigil of titanium",
     "url": "https://oldschool.runescape.wiki/w/Sigil_of_titanium",
@@ -119203,7 +119203,7 @@
     "examineText": "A sigil attuned to you with great power.",
     "group": "Sigil of woodcraft",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 28528,
     "name": "Sigil of woodcraft",
     "url": "https://oldschool.runescape.wiki/w/Sigil_of_woodcraft",
