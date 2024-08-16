@@ -7912,18 +7912,18 @@
     "materials": [
       {
         "name": "Bronze bolts",
-        "quantity": "1"
+        "quantity": "10"
       },
       {
         "name": "Barb bolttips",
-        "quantity": "1"
+        "quantity": "10"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Barbed bolts.png|link=Barbed bolts]]",
       "name": "Barbed bolts",
-      "quantity": "1"
+      "quantity": "10"
     },
     "skills": [
       {
@@ -9835,24 +9835,6 @@
     "tools": "Pestle and mortar"
   },
   {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -9868,7 +9850,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">143,888,453</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">147,555,188</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -9886,6 +9868,24 @@
       }
     ],
     "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -14549,7 +14549,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">143,723,331</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">149,609,849</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -36584,7 +36584,8 @@
     "output": {
       "image": "[[File:Elemental shield.png|link=Elemental shield]]",
       "name": "Elemental shield",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Battered book"
     },
     "skills": [
       {
@@ -36609,7 +36610,8 @@
     "output": {
       "image": "[[File:Elemental shield.png|link=Elemental shield]]",
       "name": "Elemental shield",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Slashed book"
     },
     "skills": [
       {
@@ -39568,7 +39570,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "facilities": "Lectern (Lunar)",
@@ -44097,7 +44099,7 @@
         "quantity": "1"
       },
       {
-        "name": "Herb tea mix (harralander, marrentill, and guam)",
+        "name": "Herb tea mix (harralander, marrentill and guam)",
         "quantity": "1"
       }
     ],
@@ -45062,7 +45064,7 @@
       "subtxt": "Hay bale"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "2"
   },
   {
     "facilities": "Haystack",
@@ -45080,7 +45082,7 @@
       "subtxt": "Haystack"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "2"
   },
   {
     "materials": [
@@ -45553,8 +45555,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Herb tea mix (harralander, marrentill, and guam).png|link=Herb tea mix (harralander, marrentill, and guam)]]",
-      "name": "Herb tea mix (harralander, marrentill, and guam)",
+      "image": "[[File:Herb tea mix (harralander, marrentill and guam).png|link=Herb tea mix (harralander, marrentill and guam)]]",
+      "name": "Herb tea mix (harralander, marrentill and guam)",
       "quantity": "1",
       "txt": "Herb tea mix"
     },
@@ -45581,8 +45583,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Herb tea mix (harralander, marrentill, and guam).png|link=Herb tea mix (harralander, marrentill, and guam)]]",
-      "name": "Herb tea mix (harralander, marrentill, and guam)",
+      "image": "[[File:Herb tea mix (harralander, marrentill and guam).png|link=Herb tea mix (harralander, marrentill and guam)]]",
+      "name": "Herb tea mix (harralander, marrentill and guam)",
       "quantity": "1",
       "txt": "Herb tea mix"
     },
@@ -45609,8 +45611,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Herb tea mix (harralander, marrentill, and guam).png|link=Herb tea mix (harralander, marrentill, and guam)]]",
-      "name": "Herb tea mix (harralander, marrentill, and guam)",
+      "image": "[[File:Herb tea mix (harralander, marrentill and guam).png|link=Herb tea mix (harralander, marrentill and guam)]]",
+      "name": "Herb tea mix (harralander, marrentill and guam)",
       "quantity": "1",
       "txt": "Herb tea mix"
     },
