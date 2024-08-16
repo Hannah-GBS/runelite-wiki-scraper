@@ -68281,12 +68281,12 @@
   },
   {
     "examineText": "Miaow!",
-    "group": "Cat mask",
+    "group": "Cat h",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 12361,
-    "name": "Cat mask",
-    "url": "https://oldschool.runescape.wiki/w/Cat_mask",
+    "name": "Cat h",
+    "url": "https://oldschool.runescape.wiki/w/Cat_h",
     "version": null
   },
   {
@@ -124187,6 +124187,36 @@
     "itemID": 29684,
     "name": "Guthixian temple teleport",
     "url": "https://oldschool.runescape.wiki/w/Guthixian_temple_teleport",
+    "version": null
+  },
+  {
+    "examineText": "She saw scope for improvement.",
+    "group": "Amy's saw (off-hand)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29774,
+    "name": "Amy's saw (off-hand)",
+    "url": "https://oldschool.runescape.wiki/w/Amy%27s_saw_(off-hand)",
+    "version": null
+  },
+  {
+    "examineText": "It's good for holding and hitting things!",
+    "group": "Imcando hammer (offhand)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29775,
+    "name": "Imcando hammer (offhand)",
+    "url": "https://oldschool.runescape.wiki/w/Imcando_hammer_(offhand)",
+    "version": null
+  },
+  {
+    "examineText": "A torch made from the wood of the magical Bruma tree.",
+    "group": "Bruma torch (off-hand)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29777,
+    "name": "Bruma torch (off-hand)",
+    "url": "https://oldschool.runescape.wiki/w/Bruma_torch_(off-hand)",
     "version": null
   }
 ]
