@@ -386,6 +386,126 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "name": "Abyssal dagger (bh)",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Abyssal dagger (bh)(p).png|link=Abyssal dagger (bh)(p)]]",
+      "name": "Abyssal dagger (bh)(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Abyssal dagger (bh)",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Abyssal dagger (bh)(p+).png|link=Abyssal dagger (bh)(p+)]]",
+      "name": "Abyssal dagger (bh)(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Abyssal dagger (bh)",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Abyssal dagger (bh)(p++).png|link=Abyssal dagger (bh)(p++)]]",
+      "name": "Abyssal dagger (bh)(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Abyssal dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Abyssal dagger (p).png|link=Abyssal dagger (p)]]",
+      "name": "Abyssal dagger (p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Abyssal dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Abyssal dagger (p+).png|link=Abyssal dagger (p+)]]",
+      "name": "Abyssal dagger (p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Abyssal dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Abyssal dagger (p++).png|link=Abyssal dagger (p++)]]",
+      "name": "Abyssal dagger (p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Rewards Guardian",
     "materials": [
       {
@@ -1024,6 +1144,66 @@
   {
     "materials": [
       {
+        "name": "Adamant dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant dagger(p).png|link=Adamant dagger(p)]]",
+      "name": "Adamant dagger(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant dagger(p+).png|link=Adamant dagger(p+)]]",
+      "name": "Adamant dagger(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant dagger(p++).png|link=Adamant dagger(p++)]]",
+      "name": "Adamant dagger(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Adamant dart tip",
         "quantity": "10"
       },
@@ -1235,6 +1415,86 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant hasta(kp).png|link=Adamant hasta(kp)]]",
+      "name": "Adamant hasta(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant hasta(p).png|link=Adamant hasta(p)]]",
+      "name": "Adamant hasta(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant hasta(p+).png|link=Adamant hasta(p+)]]",
+      "name": "Adamant hasta(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant hasta(p++).png|link=Adamant hasta(p++)]]",
+      "name": "Adamant hasta(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Pluming stand",
@@ -2661,6 +2921,86 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant spear(kp).png|link=Adamant spear(kp)]]",
+      "name": "Adamant spear(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant spear(p).png|link=Adamant spear(p)]]",
+      "name": "Adamant spear(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant spear(p+).png|link=Adamant spear(p+)]]",
+      "name": "Adamant spear(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Adamant spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Adamant spear(p++).png|link=Adamant spear(p++)]]",
+      "name": "Adamant spear(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -6841,9 +7181,8 @@
   {
     "materials": [
       {
-        "name": "Baby mole",
-        "quantity": "1",
-        "version": "Mole-rat"
+        "name": "Baby mole-rat",
+        "quantity": "1"
       },
       {
         "name": "Mole skin",
@@ -6872,11 +7211,9 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Baby mole-rat.png|link=Baby mole#Mole-rat]]",
-      "name": "Baby mole",
-      "quantity": "1",
-      "txt": "Baby mole-rat",
-      "version": "Mole-rat"
+      "image": "[[File:Baby mole-rat.png|link=Baby mole-rat]]",
+      "name": "Baby mole-rat",
+      "quantity": "1"
     },
     "skills": [],
     "ticks": "0"
@@ -9131,6 +9468,66 @@
   {
     "materials": [
       {
+        "name": "Black dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black dagger(p).png|link=Black dagger(p)]]",
+      "name": "Black dagger(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black dagger(p+).png|link=Black dagger(p+)]]",
+      "name": "Black dagger(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black dagger(p++).png|link=Black dagger(p++)]]",
+      "name": "Black dagger(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Black dart",
         "quantity": "5"
       },
@@ -9588,6 +9985,86 @@
   {
     "materials": [
       {
+        "name": "Black spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black spear(kp).png|link=Black spear(kp)]]",
+      "name": "Black spear(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black spear(p).png|link=Black spear(p)]]",
+      "name": "Black spear(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black spear(p+).png|link=Black spear(p+)]]",
+      "name": "Black spear(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Black spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Black spear(p++).png|link=Black spear(p++)]]",
+      "name": "Black spear(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Kebbit claws",
         "quantity": "1"
       },
@@ -9835,6 +10312,24 @@
     "tools": "Pestle and mortar"
   },
   {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -9850,7 +10345,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">147,555,188</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">164,142,707</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -9868,24 +10363,6 @@
       }
     ],
     "ticks": "5"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -13889,7 +14366,7 @@
     "output": {
       "image": "[[File:Body rune.png|link=Body rune]]",
       "name": "Body rune",
-      "quantity": "10"
+      "quantity": "11"
     },
     "skills": [
       {
@@ -13929,6 +14406,66 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bone dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bone dagger (p).png|link=Bone dagger (p)]]",
+      "name": "Bone dagger (p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bone dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bone dagger (p+).png|link=Bone dagger (p+)]]",
+      "name": "Bone dagger (p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bone dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bone dagger (p++).png|link=Bone dagger (p++)]]",
+      "name": "Bone dagger (p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -14549,7 +15086,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">149,609,849</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">163,641,588</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -16981,6 +17518,66 @@
   {
     "materials": [
       {
+        "name": "Bronze dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze dagger(p).png|link=Bronze dagger(p)]]",
+      "name": "Bronze dagger(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze dagger(p+).png|link=Bronze dagger(p+)]]",
+      "name": "Bronze dagger(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze dagger(p++).png|link=Bronze dagger(p++)]]",
+      "name": "Bronze dagger(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Bronze dart tip",
         "quantity": "10"
       },
@@ -17168,11 +17765,11 @@
     "facilities": "Barbarian anvil",
     "materials": [
       {
-        "name": "Logs",
+        "name": "Bronze bar",
         "quantity": "1"
       },
       {
-        "name": "Bronze bar",
+        "name": "Logs",
         "quantity": "1"
       }
     ],
@@ -17192,6 +17789,86 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze hasta(kp).png|link=Bronze hasta(kp)]]",
+      "name": "Bronze hasta(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze hasta(p).png|link=Bronze hasta(p)]]",
+      "name": "Bronze hasta(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze hasta(p+).png|link=Bronze hasta(p+)]]",
+      "name": "Bronze hasta(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze hasta(p++).png|link=Bronze hasta(p++)]]",
+      "name": "Bronze hasta(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -17338,6 +18015,7 @@
       "image": "[[File:Bronze key (Recruitment Drive).png|link=Bronze key (Recruitment Drive)]]",
       "name": "Bronze key (Recruitment Drive)",
       "quantity": "1",
+      "subtxt": "Chisel",
       "txt": "Bronze key"
     },
     "skills": [],
@@ -17356,6 +18034,7 @@
       "image": "[[File:Bronze key (Recruitment Drive).png|link=Bronze key (Recruitment Drive)]]",
       "name": "Bronze key (Recruitment Drive)",
       "quantity": "1",
+      "subtxt": "Bronze wire",
       "txt": "Bronze key"
     },
     "skills": [],
@@ -17374,6 +18053,7 @@
       "image": "[[File:Bronze key (Recruitment Drive).png|link=Bronze key (Recruitment Drive)]]",
       "name": "Bronze key (Recruitment Drive)",
       "quantity": "1",
+      "subtxt": "Knife",
       "txt": "Bronze key"
     },
     "skills": [],
@@ -17743,6 +18423,86 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze spear(kp).png|link=Bronze spear(kp)]]",
+      "name": "Bronze spear(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze spear(p).png|link=Bronze spear(p)]]",
+      "name": "Bronze spear(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze spear(p+).png|link=Bronze spear(p+)]]",
+      "name": "Bronze spear(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bronze spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bronze spear(p++).png|link=Bronze spear(p++)]]",
+      "name": "Bronze spear(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -19991,9 +20751,8 @@
         "quantity": "1"
       },
       {
-        "name": "Black candle",
-        "quantity": "1",
-        "version": "Lit"
+        "name": "Lit black candle",
+        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -20046,9 +20805,8 @@
         "quantity": "1"
       },
       {
-        "name": "Candle",
-        "quantity": "1",
-        "version": "lit"
+        "name": "Lit candle",
+        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -20810,7 +21568,7 @@
     "output": {
       "image": "[[File:Chaos rune.png|link=Chaos rune]]",
       "name": "Chaos rune",
-      "quantity": "10"
+      "quantity": "11"
     },
     "skills": [
       {
@@ -21871,6 +22629,31 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Forestry Shop",
+    "materials": [
+      {
+        "name": "Anima-infused bark",
+        "quantity": "10000"
+      },
+      {
+        "name": "Willow logs",
+        "quantity": "300"
+      },
+      {
+        "name": "Maple logs",
+        "quantity": "300"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Clothes pouch blueprint.png|link=Clothes pouch blueprint]]",
+      "name": "Clothes pouch blueprint",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -33384,6 +34167,126 @@
   {
     "materials": [
       {
+        "name": "Dragon dagger (cr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon dagger (p)(cr).png|link=Dragon dagger (p)(cr)]]",
+      "name": "Dragon dagger (p)(cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon dagger (cr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon dagger (p+)(cr).png|link=Dragon dagger (p+)(cr)]]",
+      "name": "Dragon dagger (p+)(cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon dagger (cr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon dagger (p++)(cr).png|link=Dragon dagger (p++)(cr)]]",
+      "name": "Dragon dagger (p++)(cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon dagger(p).png|link=Dragon dagger(p)]]",
+      "name": "Dragon dagger(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon dagger(p+).png|link=Dragon dagger(p+)]]",
+      "name": "Dragon dagger(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon dagger(p++).png|link=Dragon dagger(p++)]]",
+      "name": "Dragon dagger(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Dragon dart tip",
         "quantity": "10"
       },
@@ -33596,6 +34499,86 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon hasta(kp).png|link=Dragon hasta(kp)]]",
+      "name": "Dragon hasta(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon hasta(p).png|link=Dragon hasta(p)]]",
+      "name": "Dragon hasta(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon hasta(p+).png|link=Dragon hasta(p+)]]",
+      "name": "Dragon hasta(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon hasta(p++).png|link=Dragon hasta(p++)]]",
+      "name": "Dragon hasta(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -34309,6 +35292,146 @@
     "output": {
       "image": "[[File:Dragon spear (cr).png|link=Dragon spear (cr)]]",
       "name": "Dragon spear (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon spear (cr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon spear (p)(cr).png|link=Dragon spear (p)(cr)]]",
+      "name": "Dragon spear (p)(cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon spear (cr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon spear (p+)(cr).png|link=Dragon spear (p+)(cr)]]",
+      "name": "Dragon spear (p+)(cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon spear (cr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon spear (p++)(cr).png|link=Dragon spear (p++)(cr)]]",
+      "name": "Dragon spear (p++)(cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon spear(kp).png|link=Dragon spear(kp)]]",
+      "name": "Dragon spear(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon spear(p).png|link=Dragon spear(p)]]",
+      "name": "Dragon spear(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon spear(p+).png|link=Dragon spear(p+)]]",
+      "name": "Dragon spear(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Dragon spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dragon spear(p++).png|link=Dragon spear(p++)]]",
+      "name": "Dragon spear(p++)",
       "quantity": "1"
     },
     "skills": [],
@@ -37663,10 +38786,6 @@
       {
         "name": "Monkey dentures",
         "quantity": "1"
-      },
-      {
-        "name": "M'amulet mould",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
@@ -37677,7 +38796,7 @@
     },
     "skills": [],
     "ticks": "",
-    "tools": ""
+    "tools": "M'amulet mould"
   },
   {
     "facilities": "Cauldron of Thunder",
@@ -42265,17 +43384,15 @@
         "quantity": "1"
       },
       {
-        "name": "Ornate maul handle",
+        "name": "Granite clamp",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Granite maul (ornate handle).png|link=Granite maul#Ornate handle]]",
-      "name": "Granite maul",
-      "quantity": "1",
-      "txt": "Granite maul (ornate handle)",
-      "version": "Ornate handle"
+      "image": "[[File:Granite maul (clamp).png|link=Granite maul (clamp)]]",
+      "name": "Granite maul (clamp)",
+      "quantity": "1"
     },
     "skills": [],
     "ticks": "1"
@@ -42287,14 +43404,14 @@
         "quantity": "1"
       },
       {
-        "name": "Granite clamp",
+        "name": "Ornate maul handle",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Granite maul (or).png|link=Granite maul (or)]]",
-      "name": "Granite maul (or)",
+      "image": "[[File:Granite maul (ornate handle).png|link=Granite maul (ornate handle)]]",
+      "name": "Granite maul (ornate handle)",
       "quantity": "1"
     },
     "skills": [],
@@ -42303,9 +43420,8 @@
   {
     "materials": [
       {
-        "name": "Granite maul",
-        "quantity": "1",
-        "version": "Ornate handle"
+        "name": "Granite maul (ornate handle)",
+        "quantity": "1"
       },
       {
         "name": "Granite clamp",
@@ -42314,11 +43430,9 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Granite maul (or) (ornate handle).png|link=Granite maul (or)#Ornate handle]]",
-      "name": "Granite maul (or)",
-      "quantity": "1",
-      "txt": "Granite maul (or) (ornate handle)",
-      "version": "Ornate handle"
+      "image": "[[File:Granite maul (ornate handle, clamp).png|link=Granite maul (ornate handle, clamp)]]",
+      "name": "Granite maul (ornate handle, clamp)",
+      "quantity": "1"
     },
     "skills": [],
     "ticks": ""
@@ -42326,7 +43440,7 @@
   {
     "materials": [
       {
-        "name": "Granite maul (or)",
+        "name": "Granite maul (clamp)",
         "quantity": "1"
       },
       {
@@ -42336,11 +43450,9 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Granite maul (or) (ornate handle).png|link=Granite maul (or)#Ornate handle]]",
-      "name": "Granite maul (or)",
-      "quantity": "1",
-      "txt": "Granite maul (or) (ornate handle)",
-      "version": "Ornate handle"
+      "image": "[[File:Granite maul (ornate handle, clamp).png|link=Granite maul (ornate handle, clamp)]]",
+      "name": "Granite maul (ornate handle, clamp)",
+      "quantity": "1"
     },
     "skills": [],
     "ticks": "1"
@@ -47966,6 +49078,66 @@
   {
     "materials": [
       {
+        "name": "Iron dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron dagger(p).png|link=Iron dagger(p)]]",
+      "name": "Iron dagger(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron dagger(p+).png|link=Iron dagger(p+)]]",
+      "name": "Iron dagger(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron dagger(p++).png|link=Iron dagger(p++)]]",
+      "name": "Iron dagger(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Iron dart tip",
         "quantity": "10"
       },
@@ -48153,11 +49325,11 @@
     "facilities": "Barbarian anvil",
     "materials": [
       {
-        "name": "Oak logs",
+        "name": "Iron bar",
         "quantity": "1"
       },
       {
-        "name": "Iron bar",
+        "name": "Oak logs",
         "quantity": "1"
       }
     ],
@@ -48177,6 +49349,86 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron hasta(kp).png|link=Iron hasta(kp)]]",
+      "name": "Iron hasta(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron hasta(p).png|link=Iron hasta(p)]]",
+      "name": "Iron hasta(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron hasta(p+).png|link=Iron hasta(p+)]]",
+      "name": "Iron hasta(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron hasta(p++).png|link=Iron hasta(p++)]]",
+      "name": "Iron hasta(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -48695,6 +49947,86 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron spear(kp).png|link=Iron spear(kp)]]",
+      "name": "Iron spear(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron spear(p).png|link=Iron spear(p)]]",
+      "name": "Iron spear(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron spear(p+).png|link=Iron spear(p+)]]",
+      "name": "Iron spear(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Iron spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Iron spear(p++).png|link=Iron spear(p++)]]",
+      "name": "Iron spear(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -49808,6 +51140,66 @@
     "output": {
       "image": "[[File:Keris partisan of the sun.png|link=Keris partisan of the sun]]",
       "name": "Keris partisan of the sun",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Keris",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Keris(p).png|link=Keris(p)]]",
+      "name": "Keris(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Keris",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Keris(p+).png|link=Keris(p+)]]",
+      "name": "Keris(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Keris",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Keris(p++).png|link=Keris(p++)]]",
+      "name": "Keris(p++)",
       "quantity": "1"
     },
     "skills": [],
@@ -53235,6 +54627,32 @@
     "ticks": "1"
   },
   {
+    "facilities": "Sawmill",
+    "materials": [
+      {
+        "name": "Mahogany logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "1500"
+      },
+      {
+        "name": "Sawmill voucher",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mahogany plank.png|link=Mahogany plank]]",
+      "name": "Mahogany plank",
+      "quantity": "2",
+      "subtxt": "Sawmill"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Mahogany logs",
@@ -53262,6 +54680,50 @@
       "image": "[[File:Mahogany plank.png|link=Mahogany plank]]",
       "name": "Mahogany plank",
       "quantity": "1",
+      "subtxt": "Plank Make"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "90",
+        "level": "86",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mahogany logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "1050"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Astral rune",
+        "quantity": "2"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "15"
+      },
+      {
+        "name": "Sawmill voucher",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mahogany plank.png|link=Mahogany plank]]",
+      "name": "Mahogany plank",
+      "quantity": "2",
       "subtxt": "Plank Make"
     },
     "skills": [
@@ -53798,14 +55260,14 @@
     "facilities": "Cooking range",
     "materials": [
       {
-        "name": "Pasty jogre bones",
+        "name": "Pasty jogre bones (burnt raw)",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Marinated j' bones (burnt).png|link=Marinated j' bones]]",
-      "name": "Marinated j' bones",
+      "image": "[[File:Marinated j' bones (burnt).png|link=Marinated j' bones (burnt)]]",
+      "name": "Marinated j' bones (burnt)",
       "quantity": "1"
     },
     "skills": [],
@@ -53815,14 +55277,14 @@
     "facilities": "Cooking range",
     "materials": [
       {
-        "name": "Pasty jogre bones",
+        "name": "Pasty jogre bones (normal cooked)",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Marinated j' bones (normal).png|link=Marinated j' bones]]",
-      "name": "Marinated j' bones",
+      "image": "[[File:Marinated j' bones (normal).png|link=Marinated j' bones (normal)]]",
+      "name": "Marinated j' bones (normal)",
       "quantity": "1"
     },
     "skills": [],
@@ -54542,7 +56004,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "40",
         "level": "50",
         "name": "Crafting"
@@ -54907,7 +56369,7 @@
     "output": {
       "image": "[[File:Mind rune.png|link=Mind rune]]",
       "name": "Mind rune",
-      "quantity": "10"
+      "quantity": "11"
     },
     "skills": [
       {
@@ -55880,6 +57342,66 @@
   {
     "materials": [
       {
+        "name": "Mithril dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril dagger(p).png|link=Mithril dagger(p)]]",
+      "name": "Mithril dagger(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril dagger(p+).png|link=Mithril dagger(p+)]]",
+      "name": "Mithril dagger(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril dagger(p++).png|link=Mithril dagger(p++)]]",
+      "name": "Mithril dagger(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Mithril dart tip",
         "quantity": "10"
       },
@@ -56067,11 +57589,11 @@
     "facilities": "Barbarian anvil",
     "materials": [
       {
-        "name": "Maple logs",
+        "name": "Mithril bar",
         "quantity": "1"
       },
       {
-        "name": "Mithril bar",
+        "name": "Maple logs",
         "quantity": "1"
       }
     ],
@@ -56091,6 +57613,86 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril hasta(kp).png|link=Mithril hasta(kp)]]",
+      "name": "Mithril hasta(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril hasta(p).png|link=Mithril hasta(p)]]",
+      "name": "Mithril hasta(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril hasta(p+).png|link=Mithril hasta(p+)]]",
+      "name": "Mithril hasta(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril hasta(p++).png|link=Mithril hasta(p++)]]",
+      "name": "Mithril hasta(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -56567,6 +58169,86 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril spear(kp).png|link=Mithril spear(kp)]]",
+      "name": "Mithril spear(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril spear(p).png|link=Mithril spear(p)]]",
+      "name": "Mithril spear(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril spear(p+).png|link=Mithril spear(p+)]]",
+      "name": "Mithril spear(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mithril spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mithril spear(p++).png|link=Mithril spear(p++)]]",
+      "name": "Mithril spear(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -60885,6 +62567,32 @@
     "ticks": "1"
   },
   {
+    "facilities": "Sawmill",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "250"
+      },
+      {
+        "name": "Sawmill voucher",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Oak plank.png|link=Oak plank]]",
+      "name": "Oak plank",
+      "quantity": "2",
+      "subtxt": "Sawmill"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Oak logs",
@@ -60912,6 +62620,50 @@
       "image": "[[File:Oak plank.png|link=Oak plank]]",
       "name": "Oak plank",
       "quantity": "1",
+      "subtxt": "Plank Make"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "90",
+        "level": "86",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "175"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Astral rune",
+        "quantity": "2"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "15"
+      },
+      {
+        "name": "Sawmill voucher",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Oak plank.png|link=Oak plank]]",
+      "name": "Oak plank",
+      "quantity": "2",
       "subtxt": "Plank Make"
     },
     "skills": [
@@ -63242,33 +64994,6 @@
   {
     "materials": [
       {
-        "name": "Part mud pie (compost)",
-        "quantity": "1"
-      },
-      {
-        "name": "Bowl of water",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Part mud pie (water).png|link=Part mud pie (water)]]",
-      "name": "Part mud pie (water)",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "29",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "materials": [
-      {
         "name": "Strawberry",
         "quantity": "1"
       },
@@ -64886,6 +66611,32 @@
     "ticks": "1"
   },
   {
+    "facilities": "Sawmill",
+    "materials": [
+      {
+        "name": "Logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "100"
+      },
+      {
+        "name": "Sawmill voucher",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Plank.png|link=Plank]]",
+      "name": "Plank",
+      "quantity": "2",
+      "subtxt": "Sawmill"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Logs",
@@ -64913,6 +66664,50 @@
       "image": "[[File:Plank.png|link=Plank]]",
       "name": "Plank",
       "quantity": "1",
+      "subtxt": "Plank Make"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "90",
+        "level": "86",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "70"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Astral rune",
+        "quantity": "2"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "15"
+      },
+      {
+        "name": "Sawmill voucher",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Plank.png|link=Plank]]",
+      "name": "Plank",
+      "quantity": "2",
       "subtxt": "Plank Make"
     },
     "skills": [
@@ -70151,6 +71946,66 @@
   {
     "materials": [
       {
+        "name": "Rune dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune dagger(p).png|link=Rune dagger(p)]]",
+      "name": "Rune dagger(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune dagger(p+).png|link=Rune dagger(p+)]]",
+      "name": "Rune dagger(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune dagger(p++).png|link=Rune dagger(p++)]]",
+      "name": "Rune dagger(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Rune dart tip",
         "quantity": "10"
       },
@@ -70375,11 +72230,11 @@
     "facilities": "Barbarian anvil",
     "materials": [
       {
-        "name": "Magic logs",
+        "name": "Runite bar",
         "quantity": "1"
       },
       {
-        "name": "Runite bar",
+        "name": "Magic logs",
         "quantity": "1"
       }
     ],
@@ -70399,6 +72254,86 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune hasta(kp).png|link=Rune hasta(kp)]]",
+      "name": "Rune hasta(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune hasta(p).png|link=Rune hasta(p)]]",
+      "name": "Rune hasta(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune hasta(p+).png|link=Rune hasta(p+)]]",
+      "name": "Rune hasta(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune hasta(p++).png|link=Rune hasta(p++)]]",
+      "name": "Rune hasta(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Pluming stand",
@@ -71961,6 +73896,86 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune spear(kp).png|link=Rune spear(kp)]]",
+      "name": "Rune spear(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune spear(p).png|link=Rune spear(p)]]",
+      "name": "Rune spear(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune spear(p+).png|link=Rune spear(p+)]]",
+      "name": "Rune spear(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rune spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rune spear(p++).png|link=Rune spear(p++)]]",
+      "name": "Rune spear(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Anvil",
@@ -76440,6 +78455,57 @@
   {
     "materials": [
       {
+        "name": "Thatch spar light",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Skewer stick.png|link=Skewer stick]]",
+      "name": "Skewer stick",
+      "quantity": "4"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Machete"
+  },
+  {
+    "materials": [
+      {
+        "name": "Thatch spar med",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Skewer stick.png|link=Skewer stick]]",
+      "name": "Skewer stick",
+      "quantity": "4"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Machete"
+  },
+  {
+    "materials": [
+      {
+        "name": "Thatch spar dense",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Skewer stick.png|link=Skewer stick]]",
+      "name": "Skewer stick",
+      "quantity": "4"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Machete"
+  },
+  {
+    "materials": [
+      {
         "name": "Raw beast meat",
         "quantity": "1"
       }
@@ -79437,29 +81503,6 @@
   {
     "materials": [
       {
-        "name": "Spirit seedling (w)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Spirit sapling.png|link=Spirit sapling]]",
-      "name": "Spirit sapling",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "83",
-        "name": "Farming"
-      }
-    ],
-    "ticks": "Varies"
-  },
-  {
-    "materials": [
-      {
         "name": "Filled plant pot",
         "quantity": "1"
       },
@@ -81377,6 +83420,66 @@
   {
     "materials": [
       {
+        "name": "Steel dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel dagger(p).png|link=Steel dagger(p)]]",
+      "name": "Steel dagger(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel dagger(p+).png|link=Steel dagger(p+)]]",
+      "name": "Steel dagger(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel dagger(p++).png|link=Steel dagger(p++)]]",
+      "name": "Steel dagger(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Steel dart tip",
         "quantity": "10"
       },
@@ -81564,11 +83667,11 @@
     "facilities": "Barbarian anvil",
     "materials": [
       {
-        "name": "Willow logs",
+        "name": "Steel bar",
         "quantity": "1"
       },
       {
-        "name": "Steel bar",
+        "name": "Willow logs",
         "quantity": "1"
       }
     ],
@@ -81588,6 +83691,86 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel hasta(kp).png|link=Steel hasta(kp)]]",
+      "name": "Steel hasta(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel hasta(p).png|link=Steel hasta(p)]]",
+      "name": "Steel hasta(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel hasta(p+).png|link=Steel hasta(p+)]]",
+      "name": "Steel hasta(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel hasta",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel hasta(p++).png|link=Steel hasta(p++)]]",
+      "name": "Steel hasta(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Pluming stand",
@@ -83066,6 +85249,86 @@
     "tools": "Hammer"
   },
   {
+    "materials": [
+      {
+        "name": "Steel spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Karambwan paste (poison)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel spear(kp).png|link=Steel spear(kp)]]",
+      "name": "Steel spear(kp)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel spear(p).png|link=Steel spear(p)]]",
+      "name": "Steel spear(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel spear(p+).png|link=Steel spear(p+)]]",
+      "name": "Steel spear(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Steel spear",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steel spear(p++).png|link=Steel spear(p++)]]",
+      "name": "Steel spear(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -83269,11 +85532,7 @@
   {
     "materials": [
       {
-        "name": "Unfinished serum",
-        "quantity": "1"
-      },
-      {
-        "name": "Korbal herb",
+        "name": "Unfinished serum (step 2)",
         "quantity": "1"
       },
       {
@@ -84795,7 +87054,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "No",
         "experience": "0",
         "level": "65",
         "name": "Herblore"
@@ -85524,6 +87783,32 @@
     "ticks": "1"
   },
   {
+    "facilities": "Sawmill",
+    "materials": [
+      {
+        "name": "Teak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "500"
+      },
+      {
+        "name": "Sawmill voucher",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Teak plank.png|link=Teak plank]]",
+      "name": "Teak plank",
+      "quantity": "2",
+      "subtxt": "Sawmill"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Teak logs",
@@ -85551,6 +87836,50 @@
       "image": "[[File:Teak plank.png|link=Teak plank]]",
       "name": "Teak plank",
       "quantity": "1",
+      "subtxt": "Plank Make"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "90",
+        "level": "86",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Teak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "350"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Astral rune",
+        "quantity": "2"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "15"
+      },
+      {
+        "name": "Sawmill voucher",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Teak plank.png|link=Teak plank]]",
+      "name": "Teak plank",
+      "quantity": "2",
       "subtxt": "Plank Make"
     },
     "skills": [
@@ -85984,8 +88313,7 @@
     "output": {
       "image": "[[File:Tin (copper).png|link=Tin (copper)]]",
       "name": "Tin (copper)",
-      "quantity": "1",
-      "txt": "Tin"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": ""
@@ -86005,8 +88333,7 @@
     "output": {
       "image": "[[File:Tin (gypsum).png|link=Tin (gypsum)]]",
       "name": "Tin (gypsum)",
-      "quantity": "1",
-      "txt": "Tin"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": ""
@@ -86026,8 +88353,7 @@
     "output": {
       "image": "[[File:Tin (hardening).png|link=Tin (hardening)]]",
       "name": "Tin (hardening)",
-      "quantity": "1",
-      "txt": "Tin"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": ""
@@ -86044,7 +88370,7 @@
       "image": "[[File:Tin (impression).png|link=Tin (impression)]]",
       "name": "Tin (impression)",
       "quantity": "1",
-      "txt": "Tin"
+      "subtxt": "Chisel"
     },
     "skills": [],
     "ticks": "",
@@ -86062,7 +88388,7 @@
       "image": "[[File:Tin (impression).png|link=Tin (impression)]]",
       "name": "Tin (impression)",
       "quantity": "1",
-      "txt": "Tin"
+      "subtxt": "Bronze wire"
     },
     "skills": [],
     "ticks": "",
@@ -86080,7 +88406,7 @@
       "image": "[[File:Tin (impression).png|link=Tin (impression)]]",
       "name": "Tin (impression)",
       "quantity": "1",
-      "txt": "Tin"
+      "subtxt": "Knife"
     },
     "skills": [],
     "ticks": "",
@@ -86098,8 +88424,7 @@
     "output": {
       "image": "[[File:Tin (key).png|link=Tin (key)]]",
       "name": "Tin (key)",
-      "quantity": "1",
-      "txt": "Tin"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": ""
@@ -86119,8 +88444,7 @@
     "output": {
       "image": "[[File:Tin (tin and copper).png|link=Tin (tin and copper)]]",
       "name": "Tin (tin and copper)",
-      "quantity": "1",
-      "txt": "Tin"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": ""
@@ -86140,8 +88464,7 @@
     "output": {
       "image": "[[File:Tin (tin and copper).png|link=Tin (tin and copper)]]",
       "name": "Tin (tin and copper)",
-      "quantity": "1",
-      "txt": "Tin"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": ""
@@ -86161,8 +88484,7 @@
     "output": {
       "image": "[[File:Tin (tin).png|link=Tin (tin)]]",
       "name": "Tin (tin)",
-      "quantity": "1",
-      "txt": "Tin"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": ""
@@ -89065,6 +91387,33 @@
     "ticks": "1"
   },
   {
+    "materials": [
+      {
+        "name": "Unfinished serum (step 1)",
+        "quantity": "1"
+      },
+      {
+        "name": "Korbal herb",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Unfinished serum (step 2).png|link=Unfinished serum (step 2)]]",
+      "name": "Unfinished serum (step 2)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "62",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "facilities": "Potter's Wheel",
     "materials": [
       {
@@ -90761,23 +93110,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "Water Pump (The Gauntlet)",
-    "materials": [
-      {
-        "name": "Vial (corrupted)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Water-filled vial.png|link=Water-filled vial]]",
-      "name": "Water-filled vial",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
     "facilities": "Lectern (Lunar)",
     "materials": [
       {
@@ -91219,6 +93551,66 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "White dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:White dagger(p).png|link=White dagger(p)]]",
+      "name": "White dagger(p)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "White dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:White dagger(p+).png|link=White dagger(p+)]]",
+      "name": "White dagger(p+)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "White dagger",
+        "quantity": "1"
+      },
+      {
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:White dagger(p++).png|link=White dagger(p++)]]",
+      "name": "White dagger(p++)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Aggie",
