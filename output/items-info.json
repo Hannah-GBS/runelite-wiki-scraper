@@ -16731,22 +16731,22 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (medium, map 2)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2829,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium,_map_2)",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (medium) - To the east of the Ranging guild",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 2829,
     "name": "Clue scroll (medium)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_To_the_east_of_the_Ranging_guild",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium, map 2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 2829,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium,_map_2)",
     "version": null
   },
   {
@@ -21657,6 +21657,16 @@
     "itemID": 3575,
     "name": "Clue scroll (hard)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Citric_cellar",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - Small shoe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 3577,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Small_shoe",
     "version": null
   },
   {
@@ -49143,7 +49153,7 @@
     "examineText": "How does it all fit in there?",
     "group": "Mahogany telescope (flatpack)",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 8648,
     "name": "Mahogany telescope",
     "url": "https://oldschool.runescape.wiki/w/Mahogany_telescope_(flatpack)",
@@ -57551,6 +57561,16 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (hard) - Blow a kiss between the tables in Shilo Village bank",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 10252,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Blow_a_kiss_between_the_tables_in_Shilo_Village_bank",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (medium) - Dance in the centre of Canifis",
     "isMembers": true,
     "isTradeable": false,
@@ -62080,7 +62100,7 @@
     "version": "Left"
   },
   {
-    "examineText": "I can use this to claim a reward from the King, if I get the other half..",
+    "examineText": "I can use this to claim a reward from the King, if I get the other half.",
     "group": "Half certificate",
     "isMembers": false,
     "isTradeable": true,
@@ -111950,6 +111970,36 @@
     "version": "Gay"
   },
   {
+    "examineText": "Guthix blessed dragonhide chaps.",
+    "group": "Guthix chaps (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27180,
+    "name": "Guthix chaps",
+    "url": "https://oldschool.runescape.wiki/w/Guthix_chaps_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Zamorak blessed dragonhide chaps.",
+    "group": "Zamorak chaps (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27181,
+    "name": "Zamorak chaps",
+    "url": "https://oldschool.runescape.wiki/w/Zamorak_chaps_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Saradomin blessed dragonhide chaps.",
+    "group": "Saradomin chaps (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27182,
+    "name": "Saradomin chaps",
+    "url": "https://oldschool.runescape.wiki/w/Saradomin_chaps_(Last_Man_Standing)",
+    "version": null
+  },
+  {
     "examineText": "A weapon forged from the wreckage of an airship.",
     "group": "Light ballista (Last Man Standing)",
     "isMembers": false,
@@ -124218,5 +124268,245 @@
     "name": "Bruma torch (off-hand)",
     "url": "https://oldschool.runescape.wiki/w/Bruma_torch_(off-hand)",
     "version": null
+  },
+  {
+    "examineText": "Looks nourishing, to the right beast.",
+    "group": "Coagulated venom",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29781,
+    "name": "Coagulated venom",
+    "url": "https://oldschool.runescape.wiki/w/Coagulated_venom",
+    "version": null
+  },
+  {
+    "examineText": "Teleports you to Morytania Spider Cave.",
+    "group": "Spider cave teleport",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29782,
+    "name": "Spider cave teleport",
+    "url": "https://oldschool.runescape.wiki/w/Spider_cave_teleport",
+    "version": null
+  },
+  {
+    "examineText": "Looks spicy!",
+    "group": "Araxyte venom sack",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29784,
+    "name": "Araxyte venom sack",
+    "url": "https://oldschool.runescape.wiki/w/Araxyte_venom_sack",
+    "version": null
+  },
+  {
+    "examineText": "Handy that this comes in an easily transportable jar.",
+    "group": "Jar of venom",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29786,
+    "name": "Jar of venom",
+    "url": "https://oldschool.runescape.wiki/w/Jar_of_venom",
+    "version": null
+  },
+  {
+    "examineText": "Do spiders even have heads?",
+    "group": "Araxyte head",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29788,
+    "name": "Araxyte head",
+    "url": "https://oldschool.runescape.wiki/w/Araxyte_head",
+    "version": null
+  },
+  {
+    "examineText": "A powerful piece of venomous weaponry.",
+    "group": "Noxious point",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29790,
+    "name": "Noxious point",
+    "url": "https://oldschool.runescape.wiki/w/Noxious_point",
+    "version": null
+  },
+  {
+    "examineText": "A powerful piece of venomous weaponry.",
+    "group": "Noxious blade",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29792,
+    "name": "Noxious blade",
+    "url": "https://oldschool.runescape.wiki/w/Noxious_blade",
+    "version": null
+  },
+  {
+    "examineText": "A powerful piece of venomous weaponry.",
+    "group": "Noxious pommel",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29794,
+    "name": "Noxious pommel",
+    "url": "https://oldschool.runescape.wiki/w/Noxious_pommel",
+    "version": null
+  },
+  {
+    "examineText": "A venomous halberd created from the parts of an araxyte.",
+    "group": "Noxious halberd",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29796,
+    "name": "Noxious halberd",
+    "url": "https://oldschool.runescape.wiki/w/Noxious_halberd",
+    "version": null
+  },
+  {
+    "examineText": "A still dripping venomous fang from a powerful araxyte.",
+    "group": "Araxyte fang",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29799,
+    "name": "Araxyte fang",
+    "url": "https://oldschool.runescape.wiki/w/Araxyte_fang",
+    "version": null
+  },
+  {
+    "examineText": "A very powerful zenyte amulet, infused with araxyte venom.",
+    "group": "Amulet of rancour",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29801,
+    "name": "Amulet of rancour",
+    "url": "https://oldschool.runescape.wiki/w/Amulet_of_rancour",
+    "version": "Regular"
+  },
+  {
+    "examineText": "A very powerful zenyte amulet, infused with araxyte venom.",
+    "group": "Amulet of rancour",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29804,
+    "name": "Amulet of rancour (s)",
+    "url": "https://oldschool.runescape.wiki/w/Amulet_of_rancour",
+    "version": "Silver"
+  },
+  {
+    "examineText": "Boots that are surrounded with spider folicles. Great web resistance!",
+    "group": "Aranea boots",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29806,
+    "name": "Aranea boots",
+    "url": "https://oldschool.runescape.wiki/w/Aranea_boots",
+    "version": null
+  },
+  {
+    "examineText": "A tatty note found inside the araxyte spider cave.",
+    "group": "Venom-riddled note",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29809,
+    "name": "Venom-riddled note",
+    "url": "https://oldschool.runescape.wiki/w/Venom-riddled_note",
+    "version": null
+  },
+  {
+    "examineText": "You don't want to wear it inside-out.",
+    "group": "Araxyte slayer helmet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29816,
+    "name": "Araxyte slayer helmet",
+    "url": "https://oldschool.runescape.wiki/w/Araxyte_slayer_helmet",
+    "version": null
+  },
+  {
+    "examineText": "You really don't want to wear it inside-out.",
+    "group": "Araxyte slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29818,
+    "name": "Araxyte slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Araxyte_slayer_helmet_(i)",
+    "version": "Nightmare Zone"
+  },
+  {
+    "examineText": "You really don't want to wear it inside-out.",
+    "group": "Araxyte slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29820,
+    "name": "Araxyte slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Araxyte_slayer_helmet_(i)",
+    "version": "Soul Wars"
+  },
+  {
+    "examineText": "You really don't want to wear it inside-out.",
+    "group": "Araxyte slayer helmet (i)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29822,
+    "name": "Araxyte slayer helmet (i)",
+    "url": "https://oldschool.runescape.wiki/w/Araxyte_slayer_helmet_(i)",
+    "version": "Emir's Arena"
+  },
+  {
+    "examineText": "4 doses of extended super antivenom potion.",
+    "group": "Extended anti-venom+",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29824,
+    "name": "Extended anti-venom+(4)",
+    "url": "https://oldschool.runescape.wiki/w/Extended_anti-venom%2B",
+    "version": "4 dose"
+  },
+  {
+    "examineText": "3 doses of extended super antivenom potion.",
+    "group": "Extended anti-venom+",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29827,
+    "name": "Extended anti-venom+(3)",
+    "url": "https://oldschool.runescape.wiki/w/Extended_anti-venom%2B",
+    "version": "3 dose"
+  },
+  {
+    "examineText": "2 doses of extended super antivenom potion.",
+    "group": "Extended anti-venom+",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29830,
+    "name": "Extended anti-venom+(2)",
+    "url": "https://oldschool.runescape.wiki/w/Extended_anti-venom%2B",
+    "version": "2 dose"
+  },
+  {
+    "examineText": "1 dose of extended super antivenom potion.",
+    "group": "Extended anti-venom+",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 29833,
+    "name": "Extended anti-venom+(1)",
+    "url": "https://oldschool.runescape.wiki/w/Extended_anti-venom%2B",
+    "version": "1 dose"
+  },
+  {
+    "examineText": "Looks like a respectable gentleman.",
+    "group": "Nid",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29836,
+    "name": "Nid",
+    "url": "https://oldschool.runescape.wiki/w/Nid",
+    "version": "Nid"
+  },
+  {
+    "examineText": "Really hope she doesn't crawl into my mouth while I sleep.",
+    "group": "Nid",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29838,
+    "name": "Rax",
+    "url": "https://oldschool.runescape.wiki/w/Nid",
+    "version": "Rax"
   }
 ]
