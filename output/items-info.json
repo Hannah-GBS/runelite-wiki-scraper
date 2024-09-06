@@ -16731,22 +16731,22 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (medium) - To the east of the Ranging guild",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2829,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_To_the_east_of_the_Ranging_guild",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (medium, map 2)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 2829,
     "name": "Clue scroll (medium)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium,_map_2)",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - To the east of the Ranging guild",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 2829,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_To_the_east_of_the_Ranging_guild",
     "version": null
   },
   {
@@ -93111,6 +93111,66 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (medium) - Karamja Jam",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23138,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Karamja_Jam",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - Faerie",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23139,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Faerie",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - Forgotten",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23140,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Forgotten",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - Catch Me If You Can",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23141,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Catch_Me_If_You_Can",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - Cave of Beasts",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23142,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Cave_of_Beasts",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - Devils May Care",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23143,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Devils_May_Care",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (elite) - More resources than I can handle",
     "isMembers": true,
     "isTradeable": false,
@@ -93221,6 +93281,66 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (easy) - Vision",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23155,
+    "name": "Clue scroll (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_Vision",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (easy) - The Forlorn Homestead",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23156,
+    "name": "Clue scroll (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_The_Forlorn_Homestead",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (easy) - Tiptoe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23157,
+    "name": "Clue scroll (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_Tiptoe",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (easy) - Rugged Terrain",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23158,
+    "name": "Clue scroll (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_Rugged_Terrain",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (easy) - On the Shore",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23159,
+    "name": "Clue scroll (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_On_the_Shore",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (easy) - Alone",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23160,
+    "name": "Clue scroll (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(easy)_-_Alone",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (easy) - Talk to Charles at Port Piscarilius",
     "isMembers": true,
     "isTradeable": false,
@@ -93327,6 +93447,86 @@
     "itemID": 23172,
     "name": "Clue scroll (hard)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_IWPPLQTP",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - Scorpia Dances",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23174,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Scorpia_Dances",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - Complication",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23175,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Complication",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - Subterranea",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23176,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Subterranea",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - Little Cave of Horrors",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23177,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Little_Cave_of_Horrors",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - Roc and Roll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23178,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Roc_and_Roll",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - La Mort",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23179,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_La_Mort",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - Fossilised",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23180,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Fossilised",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - Hells Bells",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 23181,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Hells_Bells",
     "version": null
   },
   {
@@ -100980,6 +101180,16 @@
     "version": "5"
   },
   {
+    "examineText": "",
+    "group": "Clue scroll (elite) - Lament for the Hallowed",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24773,
+    "name": "Clue scroll (elite)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)_-_Lament_for_the_Hallowed",
+    "version": null
+  },
+  {
     "examineText": "It's literally a pint of blood.",
     "group": "Blood pint",
     "isMembers": true,
@@ -105467,6 +105677,16 @@
     "itemID": 25791,
     "name": "Clue scroll (hard)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Dig_in_the_lair_of_red_wings",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - Regal Pomp",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25792,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Regal_Pomp",
     "version": null
   },
   {
@@ -111201,6 +111421,16 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (elite) - The Pharaoh",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26943,
+    "name": "Clue scroll (elite)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)_-_The_Pharaoh",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (elite) - 14.13S 27.26E",
     "isMembers": true,
     "isTradeable": false,
@@ -112027,6 +112257,16 @@
     "itemID": 27190,
     "name": "Verac's brassard",
     "url": "https://oldschool.runescape.wiki/w/Verac%27s_brassard_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The robe bottoms of a powerful sorceress from a bygone era.",
+    "group": "Ancestral robe bottom (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27194,
+    "name": "Ancestral robe bottom (Last Man Standing)",
+    "url": "https://oldschool.runescape.wiki/w/Ancestral_robe_bottom_(Last_Man_Standing)",
     "version": null
   },
   {
@@ -124240,6 +124480,446 @@
     "version": null
   },
   {
+    "examineText": "Test",
+    "group": "Dni23 torso lightbuttons",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29686,
+    "name": "Dni23 torso lightbuttons",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_lightbuttons",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso darkbuttons",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29688,
+    "name": "Dni23 torso darkbuttons",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_darkbuttons",
+    "version": "Dark Buttons"
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso darkbuttons",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29690,
+    "name": "Dni23 torso darkbuttons",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_darkbuttons",
+    "version": "Jacket"
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso shirt",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29692,
+    "name": "Dni23 torso shirt",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_shirt",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso stitching",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29694,
+    "name": "Dni23 torso stitching",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_stitching",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso twotoned",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29696,
+    "name": "Dni23 torso twotoned",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_twotoned",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso princely",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29698,
+    "name": "Dni23 torso princely",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_princely",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso rippedweskit",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29700,
+    "name": "Dni23 torso rippedweskit",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_rippedweskit",
+    "version": "Ripped Weskit"
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso rippedweskit",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29702,
+    "name": "Dni23 torso rippedweskit",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_rippedweskit",
+    "version": "Torn Weskit"
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso croptops",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29704,
+    "name": "Dni23 torso croptops",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_croptops",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso poloneck",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29706,
+    "name": "Dni23 torso poloneck",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_poloneck",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso simple",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29708,
+    "name": "Dni23 torso simple",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_simple",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso frilly",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29710,
+    "name": "Dni23 torso frilly",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_frilly",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso corsetry",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29712,
+    "name": "Dni23 torso corsetry",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_corsetry",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 torso bodice",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29714,
+    "name": "Dni23 torso bodice",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_torso_bodice",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 arms thin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29716,
+    "name": "Dni23 arms thin",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_arms_thin",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 arms shoulderpads",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29718,
+    "name": "Dni23 arms shoulderpads",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_arms_shoulderpads",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 arms thickstripe",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29720,
+    "name": "Dni23 arms thickstripe",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_arms_thickstripe",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 arms loosesleeves",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29722,
+    "name": "Dni23 arms loosesleeves",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_arms_loosesleeves",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 arms princely",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29724,
+    "name": "Dni23 arms princely",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_arms_princely",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 arms tattylong",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29726,
+    "name": "Dni23 arms tattylong",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_arms_tattylong",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 arms ripped",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29728,
+    "name": "Dni23 arms ripped",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_arms_ripped",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 arms bare",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29730,
+    "name": "Dni23 arms bare",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_arms_bare",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 arms frilly",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29732,
+    "name": "Dni23 arms frilly",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_arms_frilly",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 arms tattyshort",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29734,
+    "name": "Dni23 arms tattyshort",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_arms_tattyshort",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 arms bareshoulders",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29736,
+    "name": "Dni23 arms bareshoulders",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_arms_bareshoulders",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs shorts",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29738,
+    "name": "Dni23 legs shorts",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_shorts",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs beach",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29740,
+    "name": "Dni23 legs beach",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_beach",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs princely",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29742,
+    "name": "Dni23 legs princely",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_princely",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs leggings",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29744,
+    "name": "Dni23 legs leggings",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_leggings",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs sidestripes",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29746,
+    "name": "Dni23 legs sidestripes",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_sidestripes",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs ripped",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29748,
+    "name": "Dni23 legs ripped",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_ripped",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs patched",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29750,
+    "name": "Dni23 legs patched",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_patched",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs skirt",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29752,
+    "name": "Dni23 legs skirt",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_skirt",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs longskirt",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29754,
+    "name": "Dni23 legs longskirt",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_longskirt",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs longnarrowskirt",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29756,
+    "name": "Dni23 legs longnarrowskirt",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_longnarrowskirt",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs shortskirt",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29758,
+    "name": "Dni23 legs shortskirt",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_shortskirt",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs layered",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29760,
+    "name": "Dni23 legs layered",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_layered",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs sashdots",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29762,
+    "name": "Dni23 legs sashdots",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_sashdots",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs bighem",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29764,
+    "name": "Dni23 legs bighem",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_bighem",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs sashtrousers",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29766,
+    "name": "Dni23 legs sashtrousers",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_sashtrousers",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs patterned",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29768,
+    "name": "Dni23 legs patterned",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_patterned",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs tornskirt",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29770,
+    "name": "Dni23 legs tornskirt",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_tornskirt",
+    "version": null
+  },
+  {
+    "examineText": "Test",
+    "group": "Dni23 legs patchedskirt",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 29772,
+    "name": "Dni23 legs patchedskirt",
+    "url": "https://oldschool.runescape.wiki/w/Dni23_legs_patchedskirt",
+    "version": null
+  },
+  {
     "examineText": "She saw scope for improvement.",
     "group": "Amy's saw (off-hand)",
     "isMembers": true,
@@ -124377,17 +125057,17 @@
     "itemID": 29801,
     "name": "Amulet of rancour",
     "url": "https://oldschool.runescape.wiki/w/Amulet_of_rancour",
-    "version": "Regular"
+    "version": null
   },
   {
     "examineText": "A very powerful zenyte amulet, infused with araxyte venom.",
-    "group": "Amulet of rancour",
+    "group": "Amulet of rancour (s)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 29804,
     "name": "Amulet of rancour (s)",
-    "url": "https://oldschool.runescape.wiki/w/Amulet_of_rancour",
-    "version": "Silver"
+    "url": "https://oldschool.runescape.wiki/w/Amulet_of_rancour_(s)",
+    "version": null
   },
   {
     "examineText": "Boots that are surrounded with spider folicles. Great web resistance!",
