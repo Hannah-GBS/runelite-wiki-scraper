@@ -93611,16 +93611,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - Spin at Flynn's Mace Shop",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - Always walking around the castle grounds",
     "isMembers": false,
     "isTradeable": false,
@@ -93667,6 +93657,16 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Near_the_open_desert_I_reside",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Spin at Flynn's Mace Shop",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
     "version": null
   },
   {
@@ -125188,5 +125188,135 @@
     "name": "Rax",
     "url": "https://oldschool.runescape.wiki/w/Nid",
     "version": "Rax"
+  },
+  {
+    "examineText": "The chestplate of the Eclipse Moon.",
+    "group": "Eclipse moon chestplate (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29840,
+    "name": "Eclipse moon chestplate",
+    "url": "https://oldschool.runescape.wiki/w/Eclipse_moon_chestplate_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The tassets of the Eclipse Moon.",
+    "group": "Eclipse moon tassets (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29841,
+    "name": "Eclipse moon tassets",
+    "url": "https://oldschool.runescape.wiki/w/Eclipse_moon_tassets_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The helm of the Eclipse Moon.",
+    "group": "Eclipse moon helm (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29842,
+    "name": "Eclipse moon helm",
+    "url": "https://oldschool.runescape.wiki/w/Eclipse_moon_helm_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The chestplate of the Blue Moon.",
+    "group": "Blue moon chestplate (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29843,
+    "name": "Blue moon chestplate",
+    "url": "https://oldschool.runescape.wiki/w/Blue_moon_chestplate_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The tassets of the Blue Moon.",
+    "group": "Blue moon tassets (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29844,
+    "name": "Blue moon tassets",
+    "url": "https://oldschool.runescape.wiki/w/Blue_moon_tassets_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The helm of the Blue Moon.",
+    "group": "Blue moon helm (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29845,
+    "name": "Blue moon helm",
+    "url": "https://oldschool.runescape.wiki/w/Blue_moon_helm_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The chestplate of the Blood Moon.",
+    "group": "Blood moon chestplate (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29846,
+    "name": "Blood moon chestplate",
+    "url": "https://oldschool.runescape.wiki/w/Blood_moon_chestplate_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The tassets of the Blood Moon.",
+    "group": "Blood moon tassets (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29847,
+    "name": "Blood moon tassets",
+    "url": "https://oldschool.runescape.wiki/w/Blood_moon_tassets_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The helm of the Blood Moon.",
+    "group": "Blood moon helm (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29848,
+    "name": "Blood moon helm",
+    "url": "https://oldschool.runescape.wiki/w/Blood_moon_helm_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The helm of the Blue Moon.",
+    "group": "Blue moon spear (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29849,
+    "name": "Blue moon spear",
+    "url": "https://oldschool.runescape.wiki/w/Blue_moon_spear_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A brutal pair.",
+    "group": "Dual macuahuitl (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29850,
+    "name": "Dual macuahuitl",
+    "url": "https://oldschool.runescape.wiki/w/Dual_macuahuitl_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A powerful thrown weapon forged from an eclipse.",
+    "group": "Eclipse atlatl (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29851,
+    "name": "Eclipse atlatl",
+    "url": "https://oldschool.runescape.wiki/w/Eclipse_atlatl_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Quite big for a dart.",
+    "group": "Atlatl dart (Last Man Standing)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29852,
+    "name": "Eclipse atlatl",
+    "url": "https://oldschool.runescape.wiki/w/Atlatl_dart_(Last_Man_Standing)",
+    "version": null
   }
 ]
