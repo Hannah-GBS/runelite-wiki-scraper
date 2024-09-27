@@ -3285,6 +3285,246 @@
     "ticks": "1"
   },
   {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Irit leaf",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aga paste.png|link=Aga paste]]",
+      "name": "Aga paste",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Cadantine",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aga paste.png|link=Aga paste]]",
+      "name": "Aga paste",
+      "quantity": "34"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Lantadyme",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aga paste.png|link=Aga paste]]",
+      "name": "Aga paste",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Dwarf weed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aga paste.png|link=Aga paste]]",
+      "name": "Aga paste",
+      "quantity": "42"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Torstol",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aga paste.png|link=Aga paste]]",
+      "name": "Aga paste",
+      "quantity": "44"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Irit potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aga paste.png|link=Aga paste]]",
+      "name": "Aga paste",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Cadantine potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aga paste.png|link=Aga paste]]",
+      "name": "Aga paste",
+      "quantity": "34"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Lantadyme potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aga paste.png|link=Aga paste]]",
+      "name": "Aga paste",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Dwarf weed potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aga paste.png|link=Aga paste]]",
+      "name": "Aga paste",
+      "quantity": "42"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Torstol potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aga paste.png|link=Aga paste]]",
+      "name": "Aga paste",
+      "quantity": "44"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Agility potion(2)",
@@ -3632,6 +3872,30 @@
     "skills": []
   },
   {
+    "facilities": "Mixing vessel",
+    "materials": [
+      {
+        "name": "Aga paste",
+        "quantity": "30"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Alco-augmentator.png|link=Alco-augmentator]]",
+      "name": "Alco-augmentator",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "76",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "name": "Pineapple chunks",
@@ -3649,6 +3913,33 @@
       "quantity": "1"
     },
     "skills": []
+  },
+  {
+    "materials": [
+      {
+        "name": "Teleport to house (tablet)",
+        "quantity": "1"
+      },
+      {
+        "name": "Scroll of redirection",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aldarin teleport.png|link=Aldarin teleport]]",
+      "name": "Aldarin teleport",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "0",
+        "level": "35",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -4974,6 +5265,34 @@
     "ticks": "2"
   },
   {
+    "facilities": "Mixing vessel",
+    "materials": [
+      {
+        "name": "Lye paste",
+        "quantity": "20"
+      },
+      {
+        "name": "Aga paste",
+        "quantity": "10"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Anti-leech lotion.png|link=Anti-leech lotion]]",
+      "name": "Anti-leech lotion",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "84",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "name": "Superantipoison(2)",
@@ -5710,6 +6029,34 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Mixing vessel",
+    "materials": [
+      {
+        "name": "Aga paste",
+        "quantity": "20"
+      },
+      {
+        "name": "Lye paste",
+        "quantity": "10"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aqualux amalgam.png|link=Aqualux amalgam]]",
+      "name": "Aqualux amalgam",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "72",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
   },
   {
     "materials": [
@@ -7224,6 +7571,34 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Mixing vessel",
+    "materials": [
+      {
+        "name": "Aga paste",
+        "quantity": "20"
+      },
+      {
+        "name": "Mox paste",
+        "quantity": "10"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Azure aura mix.png|link=Azure aura mix]]",
+      "name": "Azure aura mix",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "68",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
   },
   {
     "facilities": "Bone grinder",
@@ -10395,7 +10770,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">147,380,011</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">146,924,688</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14776,6 +15151,26 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "name": "Giant squirrel",
+        "quantity": "1"
+      },
+      {
+        "name": "Calcified acorn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bone squirrel.png|link=Bone squirrel]]",
+      "name": "Bone squirrel",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "",
     "materials": [
       {
@@ -15156,7 +15551,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">147,395,830</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">147,284,700</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -36232,8 +36627,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Dream vial.png|link=Dream vial]]",
-      "name": "Dream vial",
+      "image": "[[File:Dream potion.png|link=Dream potion]]",
+      "name": "Dream potion",
       "quantity": "1"
     },
     "skills": [
@@ -36259,7 +36654,7 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Dream vial.png|link=Dream vial (herb)]]",
+      "image": "[[File:Dream vial (herb).png|link=Dream vial (herb)]]",
       "name": "Dream vial (herb)",
       "quantity": "1"
     },
@@ -41735,6 +42130,22 @@
   {
     "materials": [
       {
+        "name": "Pendant of ates (inert)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Frozen tear.png|link=Frozen tear]]",
+      "name": "Frozen tear",
+      "quantity": "100"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
         "name": "Unfinished batta (fruit)",
         "quantity": "1"
       }
@@ -42228,6 +42639,33 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Harralander potion (unf)",
+        "quantity": "1"
+      },
+      {
+        "name": "Aldarium",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Goading potion(3).png|link=Goading potion(3)]]",
+      "name": "Goading potion(3)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "132",
+        "level": "54",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -47265,6 +47703,168 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy huasca",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Huasca.png|link=Huasca]]",
+      "name": "Huasca",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "11.8",
+        "level": "58",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Huasca",
+        "quantity": "1"
+      },
+      {
+        "name": "Vial of water",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Huasca potion (unf).png|link=Huasca potion (unf)]]",
+      "name": "Huasca potion (unf)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "58",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Hueycoatl hide",
+        "quantity": "3"
+      },
+      {
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hueycoatl hide body.png|link=Hueycoatl hide body]]",
+      "name": "Hueycoatl hide body",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "285",
+        "level": "88",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Hueycoatl hide",
+        "quantity": "2"
+      },
+      {
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hueycoatl hide chaps.png|link=Hueycoatl hide chaps]]",
+      "name": "Hueycoatl hide chaps",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "190",
+        "level": "87",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Hueycoatl hide",
+        "quantity": "2"
+      },
+      {
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hueycoatl hide coif.png|link=Hueycoatl hide coif]]",
+      "name": "Hueycoatl hide coif",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "190",
+        "level": "86",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Hueycoatl hide",
+        "quantity": "1"
+      },
+      {
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Hueycoatl hide vambraces.png|link=Hueycoatl hide vambraces]]",
+      "name": "Hueycoatl hide vambraces",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "95",
+        "level": "86",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Needle"
   },
   {
     "materials": [
@@ -53324,6 +53924,30 @@
     "tools": "Chisel"
   },
   {
+    "facilities": "Mixing vessel",
+    "materials": [
+      {
+        "name": "Lye paste",
+        "quantity": "30"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Liplack liquor.png|link=Liplack liquor]]",
+      "name": "Liplack liquor",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "86",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "name": "Xeric's talisman (inert)",
@@ -54115,6 +54739,246 @@
     ],
     "ticks": "3",
     "tools": "Needle"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Ranarr weed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "26"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Toadflax",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "32"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Avantoe",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Kwuarm",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "33"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Snapdragon",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Ranarr potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "26"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Toadflax potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "32"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Avantoe potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Kwuarm potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "33"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Snapdragon potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -55274,6 +56138,30 @@
     "ticks": "0"
   },
   {
+    "facilities": "Mixing vessel",
+    "materials": [
+      {
+        "name": "Mox paste",
+        "quantity": "30"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mammoth-might mix.png|link=Mammoth-might mix]]",
+      "name": "Mammoth-might mix",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "60",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
     "facilities": "Extract orifice",
     "materials": [
       {
@@ -55630,6 +56518,34 @@
       "quantity": "1"
     },
     "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Mixing vessel",
+    "materials": [
+      {
+        "name": "Mox paste",
+        "quantity": "20"
+      },
+      {
+        "name": "Lye paste",
+        "quantity": "10"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Marley's moonlight.png|link=Marley's moonlight]]",
+      "name": "Marley's moonlight",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "60",
+        "name": "Herblore"
+      }
+    ],
     "ticks": ""
   },
   {
@@ -56374,6 +57290,34 @@
       "quantity": "1"
     },
     "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Mixing vessel",
+    "materials": [
+      {
+        "name": "Lye paste",
+        "quantity": "20"
+      },
+      {
+        "name": "Mox paste",
+        "quantity": "10"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Megalite liquid.png|link=Megalite liquid]]",
+      "name": "Megalite liquid",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "80",
+        "name": "Herblore"
+      }
+    ],
     "ticks": ""
   },
   {
@@ -58668,6 +59612,38 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Mixing vessel",
+    "materials": [
+      {
+        "name": "Mox paste",
+        "quantity": "10"
+      },
+      {
+        "name": "Lye paste",
+        "quantity": "10"
+      },
+      {
+        "name": "Aga paste",
+        "quantity": "10"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mixalot.png|link=Mixalot]]",
+      "name": "Mixalot",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "64",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "name": "Pineapple",
@@ -59701,6 +60677,26 @@
     "ticks": "1"
   },
   {
+    "materials": [
+      {
+        "name": "Loop half of key (moon key)",
+        "quantity": "1"
+      },
+      {
+        "name": "Tooth half of key (moon key)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Moon key.png|link=Moon key]]",
+      "name": "Moon key",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Lectern (Lunar)",
     "materials": [
       {
@@ -60179,6 +61175,198 @@
     "skills": [],
     "ticks": "0",
     "tools": "Knife"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Guam leaf",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Marrentill",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "13"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Tarromin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Harralander",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Guam potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Marrentill potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "13"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Tarromin potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Harralander potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "?",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Cooking range",
@@ -61301,6 +62489,34 @@
       "subtxt": "Elite Kandarin Diary"
     },
     "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Mixing vessel",
+    "materials": [
+      {
+        "name": "Mox paste",
+        "quantity": "20"
+      },
+      {
+        "name": "Aga paste",
+        "quantity": "10"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mystic mana amalgam.png|link=Mystic mana amalgam]]",
+      "name": "Mystic mana amalgam",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "60",
+        "name": "Herblore"
+      }
+    ],
     "ticks": ""
   },
   {
@@ -65428,7 +66644,6 @@
     ],
     "members": "Yes",
     "output": {
-      "costnote": "calculated",
       "image": "[[File:Part mud pie (water).png|link=Part mud pie (water)]]",
       "name": "Part mud pie (water)",
       "quantity": "1"
@@ -67996,6 +69211,33 @@
         "boostable": "Yes",
         "experience": "87.5",
         "level": "38",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Huasca potion (unf)",
+        "quantity": "1"
+      },
+      {
+        "name": "Aldarium",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Prayer regeneration potion(3).png|link=Prayer regeneration potion(3)]]",
+      "name": "Prayer regeneration potion(3)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "132",
+        "level": "58",
         "name": "Herblore"
       }
     ],
@@ -76586,6 +77828,7 @@
         "name": "Fletching"
       }
     ],
+    "ticks": "0",
     "tools": "Knife"
   },
   {
@@ -89243,6 +90486,32 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blessed bat bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Token (Varlamore).png|link=Token (Varlamore)]]",
+      "name": "Token (Varlamore)",
+      "outputnote": "If [[Token_(Varlamore)#Eligibility_for_tokens|eligible]].",
+      "quantity": "1",
+      "txt": "Token"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
   },
   {
     "materials": [
