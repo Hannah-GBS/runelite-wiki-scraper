@@ -279,6 +279,12 @@
         "isMembers": true,
         "location": "Shayziens' Wall - northern outpost",
         "name": "Beer"
+      },
+      {
+        "coords": "1388,2859",
+        "isMembers": true,
+        "location": "Stick Your Ore Inn",
+        "name": "Beer"
       }
     ]
   },
@@ -358,10 +364,22 @@
         "name": "Beer glass"
       },
       {
+        "coords": "1502, 3228",
+        "isMembers": true,
+        "location": "Quetzacalli Gorge - The Windbreaker",
+        "name": "Beer glass"
+      },
+      {
         "coords": "1531,3638",
         "isMembers": true,
         "location": "Shayzien Encampment",
         "name": "Beer glass"
+      },
+      {
+        "coords": "1392,2860",
+        "isMembers": true,
+        "location": "Stick Your Ore Inn",
+        "name": "Iron bar"
       }
     ]
   },
@@ -391,6 +409,12 @@
   {
     "group": "Big bones",
     "spawns": [
+      {
+        "coords": "1626,2930",
+        "isMembers": true,
+        "location": "Colossal Wyrm Remains (one requires telegrab)",
+        "name": "Big bones"
+      },
       {
         "coords": "1441,3616",
         "isMembers": true,
@@ -430,6 +454,12 @@
         "coords": "1755,3803",
         "isMembers": true,
         "location": "Port Piscarilius",
+        "name": "Big fishing net"
+      },
+      {
+        "coords": "1578,3307",
+        "isMembers": true,
+        "location": "Shipwreck Cove",
         "name": "Big fishing net"
       },
       {
@@ -584,6 +614,18 @@
         "name": "Blue dragon scale"
       },
       {
+        "coords": "1643,9612",
+        "isMembers": true,
+        "location": "Ruins of Tapoyauik - east blue dragon room",
+        "name": "Blue dragon scale"
+      },
+      {
+        "coords": "1602,9613",
+        "isMembers": true,
+        "location": "Ruins of Tapoyauik - west blue dragon room",
+        "name": "Blue dragon scale"
+      },
+      {
         "coords": "2912,9786",
         "isMembers": true,
         "location": "Taverley Dungeon",
@@ -659,6 +701,12 @@
         "name": "Bones"
       },
       {
+        "coords": "1636,2934",
+        "isMembers": true,
+        "location": "Colossal Wyrm (2 require telegrab)",
+        "name": "Bones"
+      },
+      {
         "coords": "2830,9565",
         "isMembers": false,
         "location": "Crandor and Karamja Dungeon",
@@ -680,6 +728,12 @@
         "coords": "3364,9749",
         "isMembers": true,
         "location": "Digsite Dungeon",
+        "name": "Bones"
+      },
+      {
+        "coords": "1411, 2858",
+        "isMembers": true,
+        "location": "East of Mistrock",
         "name": "Bones"
       },
       {
@@ -769,7 +823,7 @@
       {
         "coords": "2925,3251",
         "isMembers": false,
-        "location": "Melzar's Maze, upstairs",
+        "location": "Melzar's Maze, (2nd floor)",
         "name": "Bones"
       },
       {
@@ -803,6 +857,12 @@
         "name": "Bones"
       },
       {
+        "coords": "1683,9604",
+        "isMembers": true,
+        "location": "Ruins of Tapoyauik",
+        "name": "Bones"
+      },
+      {
         "coords": "3393,2800",
         "isMembers": true,
         "location": "Ruins of Ullek",
@@ -830,6 +890,12 @@
         "coords": "1442,3583",
         "isMembers": true,
         "location": "Shayzien - south of the Secluded Chapel",
+        "name": "Bones"
+      },
+      {
+        "coords": "1545,3327",
+        "isMembers": true,
+        "location": "Shipwreck Cove",
         "name": "Bones"
       },
       {
@@ -996,6 +1062,12 @@
   {
     "group": "Bowl",
     "spawns": [
+      {
+        "coords": "1431,2962",
+        "isMembers": true,
+        "location": "Aldarin 1st floor",
+        "name": "Bowl"
+      },
       {
         "coords": "1476,9553",
         "isMembers": true,
@@ -1240,6 +1312,12 @@
         "name": "Broken arrow"
       },
       {
+        "coords": "1522,3247",
+        "isMembers": true,
+        "location": "Northeast of Quetzacalli Gorge",
+        "name": "Broken arrow"
+      },
+      {
         "coords": "2657,3424",
         "isMembers": true,
         "location": "Ranging Guild",
@@ -1472,6 +1550,12 @@
         "isMembers": true,
         "location": "Tai Bwo Wannai - Hardwood Grove",
         "name": "Bronze axe"
+      },
+      {
+        "coords": "1582,3273",
+        "isMembers": true,
+        "location": "The Proudspire",
+        "name": "Bronze axe"
       }
     ]
   },
@@ -1517,6 +1601,12 @@
         "isMembers": false,
         "location": "Dwarven Mines - western end",
         "name": "Bronze chainbody"
+      },
+      {
+        "coords": "1694,3270",
+        "isMembers": true,
+        "location": "Northeast of Twilight Temple",
+        "name": "Bronze chainbody"
       }
     ]
   },
@@ -1545,6 +1635,12 @@
         "coords": "3213,3216",
         "isMembers": false,
         "location": "Lumbridge Castle (1st floor)",
+        "name": "Bronze dagger"
+      },
+      {
+        "coords": "1425,3280",
+        "isMembers": true,
+        "location": "Mons Gratia",
         "name": "Bronze dagger"
       },
       {
@@ -1697,6 +1793,12 @@
         "coords": "1731,2973",
         "isMembers": true,
         "location": "Stonecutter Outpost",
+        "name": "Bronze pickaxe"
+      },
+      {
+        "coords": "1535,3290",
+        "isMembers": true,
+        "location": "The Darkfrost - Hueycoatl base camp",
         "name": "Bronze pickaxe"
       }
     ]
@@ -1923,6 +2025,12 @@
         "name": "Bucket"
       },
       {
+        "coords": "1354,2914",
+        "isMembers": true,
+        "location": "Moonrise Brewery and Winery",
+        "name": "Bucket"
+      },
+      {
         "coords": "3346,2966",
         "isMembers": true,
         "location": "Pollnivneach - camel shop",
@@ -1944,6 +2052,12 @@
         "coords": "3719,3361",
         "isMembers": true,
         "location": "Slepe - Crombwick Manor",
+        "name": "Bucket"
+      },
+      {
+        "coords": "1388,2851",
+        "isMembers": true,
+        "location": "Stick Your Ore Inn",
         "name": "Bucket"
       },
       {
@@ -2009,6 +2123,12 @@
   {
     "group": "Bucket of water",
     "spawns": [
+      {
+        "coords": "1352,2946",
+        "isMembers": true,
+        "location": "Aldarin",
+        "name": "Bucket of water"
+      },
       {
         "coords": "2790,3199",
         "isMembers": true,
@@ -2076,9 +2196,27 @@
         "name": "Bucket of water"
       },
       {
-        "coords": "?",
+        "coords": "1500,3236",
+        "isMembers": true,
+        "location": "Quetzacalli Gorge",
+        "name": "Bucket of water"
+      },
+      {
+        "coords": "1522,3618",
+        "isMembers": true,
+        "location": "Shayzien Advanced Course - just before the final obstacle",
+        "name": "Bucket of water"
+      },
+      {
+        "coords": "1533,3643",
         "isMembers": true,
         "location": "Shayzien Basic Course - just before the final obstacle",
+        "name": "Bucket of water"
+      },
+      {
+        "coords": "1388,2866",
+        "isMembers": true,
+        "location": "Shields of Mistrock (1st floor)",
         "name": "Bucket of water"
       },
       {
@@ -2086,6 +2224,17 @@
         "isMembers": true,
         "location": "Weiss - north-eastern building",
         "name": "Bucket of water"
+      }
+    ]
+  },
+  {
+    "group": "Bug lantern",
+    "spawns": [
+      {
+        "coords": "1689,9661",
+        "isMembers": true,
+        "location": "Ruins of Tapoyauik{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "name": "Unlit bug lantern"
       }
     ]
   },
@@ -2363,7 +2512,7 @@
       {
         "coords": "1644,3284",
         "isMembers": true,
-        "location": "Salvager Overlook - East Tower (1st floor)",
+        "location": "Salvager Overlook (1st floor)",
         "name": "Candle"
       },
       {
@@ -2385,6 +2534,12 @@
         "name": "Lit candle"
       },
       {
+        "coords": "1680,3232",
+        "isMembers": true,
+        "location": "South of Twilight Temple",
+        "name": "Candle"
+      },
+      {
         "coords": "1451,3193",
         "isMembers": true,
         "location": "The Teomat - northern building",
@@ -2401,6 +2556,17 @@
         "isMembers": true,
         "location": "Yanille Watchtower",
         "name": "Lit candle"
+      }
+    ]
+  },
+  {
+    "group": "Candle lantern",
+    "spawns": [
+      {
+        "coords": "1700,3272",
+        "isMembers": true,
+        "location": "Northeast of Twilight Temple",
+        "name": "Candle lantern"
       }
     ]
   },
@@ -2781,6 +2947,12 @@
         "coords": "1531,3637",
         "isMembers": true,
         "location": "Shayzien Encampment",
+        "name": "Coins"
+      },
+      {
+        "coords": "1569,3321",
+        "isMembers": true,
+        "location": "Shipwreck Cove",
         "name": "Coins"
       },
       {
@@ -4101,9 +4273,9 @@
         "name": "Iron bar"
       },
       {
-        "coords": "?",
+        "coords": "1385,2868",
         "isMembers": true,
-        "location": "Shields of Mistrock (Upstairs)",
+        "location": "Shields of Mistrock (1st floor)",
         "name": "Iron bar"
       },
       {
@@ -4144,6 +4316,12 @@
         "coords": "1573,3140",
         "isMembers": true,
         "location": "Ortus Farm (1st floor)",
+        "name": "Iron dagger"
+      },
+      {
+        "coords": "1519,3225",
+        "isMembers": true,
+        "location": "Quetzacalli Gorge(1st floor)",
         "name": "Iron dagger"
       },
       {
@@ -4592,6 +4770,12 @@
         "name": "Jug of wine"
       },
       {
+        "coords": "1315,2917",
+        "isMembers": true,
+        "location": "Darkmoon Ravine (inaccessible)",
+        "name": "Jug of wine"
+      },
+      {
         "coords": "3291,3033",
         "isMembers": true,
         "location": "Desert Mining Camp - Captain Siad's office (1st floor)",
@@ -4783,6 +4967,12 @@
         "name": "Knife"
       },
       {
+        "coords": "1497,3254",
+        "isMembers": true,
+        "location": "Quetzacalli Gorge",
+        "name": "Knife"
+      },
+      {
         "coords": "2681,3717",
         "isMembers": true,
         "location": "Rellekka - near the rock crabs",
@@ -4792,6 +4982,12 @@
         "coords": "2934,5773",
         "isMembers": false,
         "location": "Ruins of Camdozaal - near the Offering Altar",
+        "name": "Knife"
+      },
+      {
+        "coords": "1629,3302",
+        "isMembers": true,
+        "location": "Salvager Overlook",
         "name": "Knife"
       },
       {
@@ -4822,6 +5018,12 @@
         "coords": "2653,9767",
         "isMembers": true,
         "location": "Temple of Ikov basement",
+        "name": "Knife"
+      },
+      {
+        "coords": "1587,3277",
+        "isMembers": true,
+        "location": "The Proudspire",
         "name": "Knife"
       },
       {
@@ -4923,6 +5125,12 @@
         "name": "Leather boots"
       },
       {
+        "coords": "1629,3302",
+        "isMembers": true,
+        "location": "Salvager Overlook (1st floor)",
+        "name": "Leather boots"
+      },
+      {
         "coords": "1531,3578",
         "isMembers": true,
         "location": "Shayzien - house south-east of general store",
@@ -4951,6 +5159,12 @@
   {
     "group": "Leather gloves",
     "spawns": [
+      {
+        "coords": "1354,2965",
+        "isMembers": true,
+        "location": "Aldarin 1st floor",
+        "name": "Leather gloves"
+      },
       {
         "coords": "1718,3115",
         "isMembers": true,
@@ -5134,6 +5348,18 @@
         "coords": "1619,3292",
         "isMembers": true,
         "location": "Salius' Armour Shop",
+        "name": "Logs"
+      },
+      {
+        "coords": "1388,2869",
+        "isMembers": true,
+        "location": "Shields of Mistrock (1st floor)",
+        "name": "Logs"
+      },
+      {
+        "coords": "153,3293",
+        "isMembers": true,
+        "location": "The Darkfrost - Hueycoatl base camp",
         "name": "Logs"
       },
       {
@@ -5478,6 +5704,12 @@
         "isMembers": false,
         "location": "Lumbridge General Store - 1st floor",
         "name": "Onion"
+      },
+      {
+        "coords": "1376,2865",
+        "isMembers": true,
+        "location": "Mistrock",
+        "name": "Onion"
       }
     ]
   },
@@ -5785,6 +6017,12 @@
         "name": "Plank"
       },
       {
+        "coords": "1563,3316",
+        "isMembers": true,
+        "location": "Shipwreck Cove",
+        "name": "Plank"
+      },
+      {
         "coords": "2435,9726",
         "isMembers": true,
         "location": "Underground Pass - first level",
@@ -5935,6 +6173,12 @@
         "coords": "1517,3587",
         "isMembers": true,
         "location": "Shayzien - Jennifer's General Supplies",
+        "name": "Pot"
+      },
+      {
+        "coords": "1391,2859",
+        "isMembers": true,
+        "location": "Stick Your Ore Inn (1st floor)",
         "name": "Pot"
       },
       {
@@ -6324,6 +6568,12 @@
         "name": "Rope"
       },
       {
+        "coords": "1383,2862",
+        "isMembers": true,
+        "location": "Mistrock",
+        "name": "Rope"
+      },
+      {
         "coords": "2904,3152",
         "isMembers": false,
         "location": "Musa Point - Karamja General Store",
@@ -6357,6 +6607,12 @@
         "coords": "3169,2836",
         "isMembers": true,
         "location": "Ruins of Unkah",
+        "name": "Rope"
+      },
+      {
+        "coords": "1574,3312",
+        "isMembers": true,
+        "location": "Shipwreck Cove",
         "name": "Rope"
       },
       {
@@ -6511,6 +6767,12 @@
     "group": "Seaweed",
     "spawns": [
       {
+        "coords": "1628,3313",
+        "isMembers": true,
+        "location": "Around Salvager Overlook{{Refn|name=telegrab|These spawns require telekinetic grab to obtain. One is not reachable.}}",
+        "name": "Seaweed"
+      },
+      {
         "coords": "2803,3382",
         "isMembers": true,
         "location": "Entrana - north-western coast",
@@ -6544,6 +6806,24 @@
         "coords": "3808,3060",
         "isMembers": true,
         "location": "Mos Le'Harmless - islands off the north-east coast",
+        "name": "Seaweed"
+      },
+      {
+        "coords": "1308,2934",
+        "isMembers": true,
+        "location": "North of Darkmoon Ravine (1 telegrabbable, rest inaccessible)",
+        "name": "Seaweed"
+      },
+      {
+        "coords": "1557,3324",
+        "isMembers": true,
+        "location": "Shipwreck Cove (one requires telegrab)",
+        "name": "Seaweed"
+      },
+      {
+        "coords": "1315,2885",
+        "isMembers": true,
+        "location": "South of Darkmoon Ravine (inaccessible)",
         "name": "Seaweed"
       },
       {
@@ -6777,6 +7057,12 @@
         "name": "Small fishing net"
       },
       {
+        "coords": "1572,3319",
+        "isMembers": true,
+        "location": "Shipwreck Cove{{Refn|Ironmen cannot pick up this spawn.|group=i}}",
+        "name": "Small fishing net"
+      },
+      {
         "coords": "1523,2976",
         "isMembers": true,
         "location": "Sunset Coast{{Refn|Ironmen cannot pick up this spawn.|group=i}}",
@@ -7006,6 +7292,17 @@
         "isMembers": true,
         "location": "Cam Torum - upstairs in house east of Sonalo",
         "name": "Steamforge brew"
+      }
+    ]
+  },
+  {
+    "group": "Steel arrow",
+    "spawns": [
+      {
+        "coords": "1633,2906",
+        "isMembers": true,
+        "location": "Colossal Wyrm Agility Course advanced route",
+        "name": "Steel arrow"
       }
     ]
   },
@@ -7394,6 +7691,12 @@
         "name": "Thread"
       },
       {
+        "coords": "1499,3251",
+        "isMembers": true,
+        "location": "Quetzacalli Gorge",
+        "name": "Thread"
+      },
+      {
         "coords": "1511,3591",
         "isMembers": true,
         "location": "Shayzien Styles",
@@ -7504,6 +7807,12 @@
         "name": "Tinderbox"
       },
       {
+        "coords": "1715,3268",
+        "isMembers": true,
+        "location": "East of Twilight Temple",
+        "name": "Tinderbox"
+      },
+      {
         "coords": "3362,3167",
         "isMembers": false,
         "location": "Giants' Plateau",
@@ -7525,7 +7834,7 @@
         "coords": "1625,3287",
         "isMembers": true,
         "location": "Salvager Overlook - General Store",
-        "name": "Candle"
+        "name": "Tinderbox"
       },
       {
         "coords": "1521,3591",
