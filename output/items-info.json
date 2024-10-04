@@ -19430,6 +19430,16 @@
     "version": null
   },
   {
+    "examineText": "Ground-up lava dragon scale.",
+    "group": "Lava scale shard",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 3256,
+    "name": "Lava scale shard",
+    "url": "https://oldschool.runescape.wiki/w/Lava_scale_shard",
+    "version": null
+  },
+  {
     "examineText": "A pale, tough looking herb.",
     "group": "Goutweed",
     "isMembers": true,
@@ -66030,16 +66040,6 @@
     "version": null
   },
   {
-    "examineText": "Ground-up lava dragon scale.",
-    "group": "Lava scale shard",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 11994,
-    "name": "Lava scale shard",
-    "url": "https://oldschool.runescape.wiki/w/Lava_scale_shard",
-    "version": null
-  },
-  {
     "examineText": "D'aw look at the liddle...",
     "group": "Pet chaos elemental",
     "isMembers": true,
@@ -95693,7 +95693,7 @@
     "examineText": "Karil the Tainted's leather body armour.",
     "group": "Karil's leathertop (Last Man Standing)",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 23632,
     "name": "Karil's leathertop",
     "url": "https://oldschool.runescape.wiki/w/Karil%27s_leathertop_(Last_Man_Standing)",
@@ -125381,12 +125381,22 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (hard) - Panic outside the Twlight Temple",
+    "group": "Clue scroll (hard) - Panic outside the Twilight Temple",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 29859,
     "name": "Clue scroll (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Panic_outside_the_Twlight_Temple",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Panic_outside_the_Twilight_Temple",
+    "version": null
+  },
+  {
+    "examineText": "A knight in fancy armour.",
+    "group": "Knight of varlamore (item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29867,
+    "name": "Knight of varlamore",
+    "url": "https://oldschool.runescape.wiki/w/Knight_of_varlamore_(item)",
     "version": null
   },
   {
@@ -125520,7 +125530,17 @@
     "version": null
   },
   {
-    "examineText": "A mysterious icon that's covered in dirt.",
+    "examineText": "Used for healing wounds.",
+    "group": "Bandages (The Heart of Darkness)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29884,
+    "name": "Bandages",
+    "url": "https://oldschool.runescape.wiki/w/Bandages_(The_Heart_of_Darkness)",
+    "version": null
+  },
+  {
+    "examineText": "A mysterious icon that's warm to the touch.",
     "group": "Icon (The Heart of Darkness)",
     "isMembers": true,
     "isTradeable": false,
@@ -125530,7 +125550,7 @@
     "version": "Fire"
   },
   {
-    "examineText": "A mysterious icon that's warm to the touch.",
+    "examineText": "A mysterious icon that's covered in dirt.",
     "group": "Icon (The Heart of Darkness)",
     "isMembers": true,
     "isTradeable": false,
@@ -125598,6 +125618,16 @@
     "name": "Frozen tear",
     "url": "https://oldschool.runescape.wiki/w/Frozen_tear",
     "version": null
+  },
+  {
+    "examineText": "A mysterious icon that's dripping wet.",
+    "group": "Icon (The Heart of Darkness)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29897,
+    "name": "Icon",
+    "url": "https://oldschool.runescape.wiki/w/Icon_(The_Heart_of_Darkness)",
+    "version": "Aldarin"
   },
   {
     "examineText": "A meaty Varlamorian kebab.",
@@ -126091,22 +126121,22 @@
   },
   {
     "examineText": "Used to store and drink multiple potions.",
-    "group": "Pre-pot device",
+    "group": "Chugging barrel",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 30000,
-    "name": "Pre-pot device",
-    "url": "https://oldschool.runescape.wiki/w/Pre-pot_device",
+    "name": "Chugging barrel",
+    "url": "https://oldschool.runescape.wiki/w/Chugging_barrel",
     "version": "Assembled"
   },
   {
     "examineText": "Can be assembled to consume multiple potions.",
-    "group": "Pre-pot device",
+    "group": "Chugging barrel",
     "isMembers": true,
     "isTradeable": true,
-    "itemID": 30001,
-    "name": "Pre-pot device (disassembled)",
-    "url": "https://oldschool.runescape.wiki/w/Pre-pot_device",
+    "itemID": 30002,
+    "name": "Chugging barrel (disassembled)",
+    "url": "https://oldschool.runescape.wiki/w/Chugging_barrel",
     "version": "Disassembled"
   },
   {
@@ -126147,7 +126177,7 @@
     "itemID": 30012,
     "name": "Mystic mana amalgam",
     "url": "https://oldschool.runescape.wiki/w/Mystic_mana_amalgam",
-    "version": "Unsealed"
+    "version": "Unfinished"
   },
   {
     "examineText": "Just one sip and you'll be seeing stars.",
@@ -126157,7 +126187,7 @@
     "itemID": 30013,
     "name": "Marley's moonlight",
     "url": "https://oldschool.runescape.wiki/w/Marley%27s_moonlight",
-    "version": "Unsealed"
+    "version": "Unfinished"
   },
   {
     "examineText": "Drink before a night out to save money!",
@@ -126167,7 +126197,7 @@
     "itemID": 30014,
     "name": "Alco-augmentator",
     "url": "https://oldschool.runescape.wiki/w/Alco-augmentator",
-    "version": "Unsealed"
+    "version": "Unfinished"
   },
   {
     "examineText": "The fanciest of water-based concoctions.",
@@ -126177,7 +126207,7 @@
     "itemID": 30015,
     "name": "Aqualux amalgam",
     "url": "https://oldschool.runescape.wiki/w/Aqualux_amalgam",
-    "version": "Unsealed"
+    "version": "Unfinished"
   },
   {
     "examineText": "A one-stop shop to blue-sky thinking.",
@@ -126187,7 +126217,7 @@
     "itemID": 30016,
     "name": "Azure aura mix",
     "url": "https://oldschool.runescape.wiki/w/Azure_aura_mix",
-    "version": "Unsealed"
+    "version": "Unfinished"
   },
   {
     "examineText": "Guaranteed to grow your lips within 30 days, or your money back!",
@@ -126197,7 +126227,7 @@
     "itemID": 30017,
     "name": "Liplack liquor",
     "url": "https://oldschool.runescape.wiki/w/Liplack_liquor",
-    "version": "Unsealed"
+    "version": "Unfinished"
   },
   {
     "examineText": "Leeches hate this one simple trick!",
@@ -126207,7 +126237,7 @@
     "itemID": 30018,
     "name": "Anti-leech lotion",
     "url": "https://oldschool.runescape.wiki/w/Anti-leech_lotion",
-    "version": "Unsealed"
+    "version": "Unfinished"
   },
   {
     "examineText": "Weight reduction in a bottle.",
@@ -126217,7 +126247,7 @@
     "itemID": 30019,
     "name": "Megalite liquid",
     "url": "https://oldschool.runescape.wiki/w/Megalite_liquid",
-    "version": "Unsealed"
+    "version": "Unfinished"
   },
   {
     "examineText": "Baby got back.",
@@ -126227,7 +126257,7 @@
     "itemID": 30020,
     "name": "Mixalot",
     "url": "https://oldschool.runescape.wiki/w/Mixalot",
-    "version": "Unsealed"
+    "version": "Unfinished"
   },
   {
     "examineText": "I wonder what 'mana' is...?",
@@ -126237,7 +126267,7 @@
     "itemID": 30022,
     "name": "Mystic mana amalgam",
     "url": "https://oldschool.runescape.wiki/w/Mystic_mana_amalgam",
-    "version": "Sealed"
+    "version": "Processed"
   },
   {
     "examineText": "Just one sip and you'll be seeing stars.",
@@ -126247,7 +126277,7 @@
     "itemID": 30023,
     "name": "Marley's moonlight",
     "url": "https://oldschool.runescape.wiki/w/Marley%27s_moonlight",
-    "version": "Sealed"
+    "version": "Processed"
   },
   {
     "examineText": "Drink before a night out to save money!",
@@ -126257,7 +126287,7 @@
     "itemID": 30024,
     "name": "Alco-augmentator",
     "url": "https://oldschool.runescape.wiki/w/Alco-augmentator",
-    "version": "Sealed"
+    "version": "Processed"
   },
   {
     "examineText": "The fanciest of water-based concoctions.",
@@ -126267,7 +126297,7 @@
     "itemID": 30025,
     "name": "Aqualux amalgam",
     "url": "https://oldschool.runescape.wiki/w/Aqualux_amalgam",
-    "version": "Sealed"
+    "version": "Processed"
   },
   {
     "examineText": "A one-stop shop to blue-sky thinking.",
@@ -126277,7 +126307,7 @@
     "itemID": 30026,
     "name": "Azure aura mix",
     "url": "https://oldschool.runescape.wiki/w/Azure_aura_mix",
-    "version": "Sealed"
+    "version": "Processed"
   },
   {
     "examineText": "Guaranteed to grow your lips within 30 days, or your money back!",
@@ -126287,7 +126317,7 @@
     "itemID": 30027,
     "name": "Liplack liquor",
     "url": "https://oldschool.runescape.wiki/w/Liplack_liquor",
-    "version": "Sealed"
+    "version": "Processed"
   },
   {
     "examineText": "Leeches hate this one simple trick!",
@@ -126297,7 +126327,7 @@
     "itemID": 30028,
     "name": "Anti-leech lotion",
     "url": "https://oldschool.runescape.wiki/w/Anti-leech_lotion",
-    "version": "Sealed"
+    "version": "Processed"
   },
   {
     "examineText": "Weight reduction in a bottle.",
@@ -126307,7 +126337,7 @@
     "itemID": 30029,
     "name": "Megalite liquid",
     "url": "https://oldschool.runescape.wiki/w/Megalite_liquid",
-    "version": "Sealed"
+    "version": "Processed"
   },
   {
     "examineText": "Baby got back.",
@@ -126317,7 +126347,7 @@
     "itemID": 30030,
     "name": "Mixalot",
     "url": "https://oldschool.runescape.wiki/w/Mixalot",
-    "version": "Sealed"
+    "version": "Processed"
   },
   {
     "examineText": "Has a pungent odour.",
