@@ -13355,6 +13355,7 @@
     "name": "Elstan"
   },
   {
+    "buyMultiplier": "500",
     "isMembers": true,
     "items": [
       {
@@ -13367,7 +13368,8 @@
       }
     ],
     "location": "Varlamore",
-    "name": "Emelio's Kebab Shop"
+    "name": "Emelio's Kebab Shop",
+    "sellMultiplier": "1000"
   },
   {
     "isMembers": true,

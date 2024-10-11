@@ -82000,16 +82000,6 @@
     "version": "1 dose"
   },
   {
-    "examineText": "Contains supplies from the grateful citizens of Kourend.",
-    "group": "Supply crate",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 20703,
-    "name": "Supply crate",
-    "url": "https://oldschool.runescape.wiki/w/Supply_crate",
-    "version": null
-  },
-  {
     "examineText": "The garb of the Pyromancers.",
     "group": "Pyromancer garb",
     "isMembers": true,
@@ -121260,6 +121250,16 @@
     "version": null
   },
   {
+    "examineText": "A knight in fancy armour.",
+    "group": "Knight of varlamore (item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28977,
+    "name": "Knight of varlamore",
+    "url": "https://oldschool.runescape.wiki/w/Knight_of_varlamore_(item)",
+    "version": null
+  },
+  {
     "examineText": "A smooth leaf.",
     "group": "Smooth leaf",
     "isMembers": true,
@@ -125387,16 +125387,6 @@
     "itemID": 29859,
     "name": "Clue scroll (hard)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_Panic_outside_the_Twilight_Temple",
-    "version": null
-  },
-  {
-    "examineText": "A knight in fancy armour.",
-    "group": "Knight of varlamore (item)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 29867,
-    "name": "Knight of varlamore",
-    "url": "https://oldschool.runescape.wiki/w/Knight_of_varlamore_(item)",
     "version": null
   },
   {
