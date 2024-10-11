@@ -410,6 +410,12 @@
     "group": "Big bones",
     "spawns": [
       {
+        "coords": "1475,9498",
+        "isMembers": true,
+        "location": "Avium Savannah - inside wolf den",
+        "name": "Big bones"
+      },
+      {
         "coords": "1626,2930",
         "isMembers": true,
         "location": "Colossal Wyrm Remains (one requires telegrab)",

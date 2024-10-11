@@ -3573,6 +3573,30 @@
     "ticks": "1"
   },
   {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Cadantine blood potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aga paste.png|link=Aga paste]]",
+      "name": "Aga paste",
+      "quantity": "34"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "6",
+        "level": "60",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Agility potion(2)",
@@ -10890,7 +10914,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">147,855,760</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">154,821,793</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15743,7 +15767,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">147,802,963</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">155,430,350</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -45782,7 +45806,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "5",
+        "experience": "1-5",
         "level": "1",
         "name": "Crafting"
       }
@@ -54447,7 +54471,7 @@
     "output": {
       "image": "[[File:Lizardman fang.png|link=Lizardman fang]]",
       "name": "Lizardman fang",
-      "outputnote": "Using a pet rock on the Xeric's talisman gives a unique chat message compared to dismantling it with the right click option.",
+      "outputnote": "Using a pet rock on the Xeric's talisman gives a unique chat message compared to dismantling it with the right click option. \"You bash the talisman with the rock, smashing it into fang-like shards.\"",
       "quantity": "100",
       "subtxt": "Pet rock"
     },
@@ -59478,7 +59502,7 @@
         "name": "Fletching"
       }
     ],
-    "ticks": "2"
+    "ticks": "1"
   },
   {
     "facilities": "Anvil",
@@ -60108,7 +60132,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "1",
         "experience": "365",
         "level": "81",
         "name": "Herblore"
@@ -65210,12 +65234,13 @@
     "output": {
       "image": "[[File:Ogre arrow shaft.png|link=Ogre arrow shaft]]",
       "name": "Ogre arrow shaft",
-      "quantity": "3"
+      "quantity": "4",
+      "quantitynote": "Between 2 and 6 arrow shafts are fletched from each log."
     },
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "7.2",
+        "experience": "6.4",
         "level": "5",
         "name": "Fletching"
       }
@@ -96918,13 +96943,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "2.5",
+        "experience": "10",
         "level": "5",
         "name": "Crafting"
       },
       {
         "boostable": "Yes",
-        "experience": "2.5",
+        "experience": "10",
         "level": "5",
         "name": "Fletching"
       }
