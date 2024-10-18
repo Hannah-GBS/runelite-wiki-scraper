@@ -10914,7 +10914,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">154,821,793</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">156,963,912</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15767,7 +15767,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">155,430,350</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">157,756,178</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -28891,146 +28891,20 @@
   {
     "materials": [
       {
-        "name": "Crystal helm (Amlodd)",
+        "name": "Crystal helm",
         "quantity": "1"
       },
       {
-        "name": "Crystal of meilyr",
+        "name": "Crystal of amlodd",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
-      "name": "Crystal helm",
+      "image": "[[File:Crystal helm (Amlodd).png|link=Crystal helm (Amlodd)]]",
+      "name": "Crystal helm (Amlodd)",
       "quantity": "1",
       "subtxt": "Recolour (Amlodd)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm (Cadarn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
-      "name": "Crystal helm",
-      "quantity": "1",
-      "subtxt": "Recolour (Cadarn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
-      "name": "Crystal helm",
-      "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm (Hefin)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
-      "name": "Crystal helm",
-      "quantity": "1",
-      "subtxt": "Recolour (Hefin)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm (Iorwerth)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
-      "name": "Crystal helm",
-      "quantity": "1",
-      "subtxt": "Recolour (Iorwerth)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm (Ithell)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
-      "name": "Crystal helm",
-      "quantity": "1",
-      "subtxt": "Recolour (Ithell)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm (Trahaearn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm.png|link=Crystal helm]]",
-      "name": "Crystal helm",
-      "quantity": "1",
-      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -29196,6 +29070,27 @@
     "output": {
       "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
       "name": "Crystal helm (Cadarn)",
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Cadarn).png|link=Crystal helm (Cadarn)]]",
+      "name": "Crystal helm (Cadarn)",
       "quantity": "1"
     },
     "skills": [],
@@ -29323,6 +29218,27 @@
       "name": "Crystal helm (Cadarn)",
       "quantity": "1",
       "subtxt": "Recolour (Trahaearn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Crwys).png|link=Crystal helm (Crwys)]]",
+      "name": "Crystal helm (Crwys)",
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -29488,6 +29404,27 @@
     "output": {
       "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
       "name": "Crystal helm (Hefin)",
+      "quantity": "1",
+      "subtxt": "Recolour (Hefin)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Hefin).png|link=Crystal helm (Hefin)]]",
+      "name": "Crystal helm (Hefin)",
       "quantity": "1"
     },
     "skills": [],
@@ -29615,6 +29552,27 @@
       "name": "Crystal helm (Hefin)",
       "quantity": "1",
       "subtxt": "Recolour (Trahaearn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Iorwerth).png|link=Crystal helm (Iorwerth)]]",
+      "name": "Crystal helm (Iorwerth)",
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -29780,6 +29738,27 @@
     "output": {
       "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
       "name": "Crystal helm (Ithell)",
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
+      "name": "Crystal helm (Ithell)",
       "quantity": "1"
     },
     "skills": [],
@@ -29905,6 +29884,27 @@
     "output": {
       "image": "[[File:Crystal helm (Ithell).png|link=Crystal helm (Ithell)]]",
       "name": "Crystal helm (Ithell)",
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm (Trahaearn).png|link=Crystal helm (Trahaearn)]]",
+      "name": "Crystal helm (Trahaearn)",
       "quantity": "1",
       "subtxt": "Recolour (Trahaearn)"
     },
@@ -36900,9 +36900,9 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "no",
         "experience": "84",
-        "level": "?",
+        "level": "5",
         "name": "Herblore"
       }
     ],
