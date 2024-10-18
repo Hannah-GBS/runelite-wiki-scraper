@@ -50640,16 +50640,6 @@
     "version": null
   },
   {
-    "examineText": "Piratical currency.",
-    "group": "Pieces of eight (discontinued)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 8951,
-    "name": "Pieces of eight",
-    "url": "https://oldschool.runescape.wiki/w/Pieces_of_eight_(discontinued)",
-    "version": null
-  },
-  {
     "examineText": "...You can sail the seven seas...",
     "group": "Blue naval shirt",
     "isMembers": true,
@@ -126101,12 +126091,12 @@
   },
   {
     "examineText": "Unlocks the ability to store potions within a seperate area of the bank.",
-    "group": "Potion storage",
+    "group": "Potion storage (interface item)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 29999,
     "name": "Potion storage",
-    "url": "https://oldschool.runescape.wiki/w/Potion_storage",
+    "url": "https://oldschool.runescape.wiki/w/Potion_storage_(interface_item)",
     "version": null
   },
   {
@@ -126868,5 +126858,1375 @@
     "name": "Moxi",
     "url": "https://oldschool.runescape.wiki/w/Moxi",
     "version": null
+  },
+  {
+    "examineText": "A map telling you where each variety of pumpking needs to be planted.",
+    "group": "Picture map",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30160,
+    "name": "Picture map",
+    "url": "https://oldschool.runescape.wiki/w/Picture_map",
+    "version": null
+  },
+  {
+    "examineText": "Seed packets for 7 different varieties of pumpkins.",
+    "group": "Seed packets",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30161,
+    "name": "Seed packets",
+    "url": "https://oldschool.runescape.wiki/w/Seed_packets",
+    "version": null
+  },
+  {
+    "examineText": "A pumpkin variety with an interesting colour.",
+    "group": "Beige pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30162,
+    "name": "Beige pumpkin",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin_(2024_Halloween_event)",
+    "version": "Uncarved"
+  },
+  {
+    "examineText": "A pumpkin variety with an interesting colour.",
+    "group": "White pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30163,
+    "name": "White pumpkin",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin_(2024_Halloween_event)",
+    "version": "Uncarved"
+  },
+  {
+    "examineText": "A pumpkin variety with an interesting colour.",
+    "group": "Yellow pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30164,
+    "name": "Yellow pumpkin",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin_(2024_Halloween_event)",
+    "version": "Uncarved"
+  },
+  {
+    "examineText": "A pumpkin variety with an interesting colour.",
+    "group": "Orange pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30165,
+    "name": "Orange pumpkin",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin_(2024_Halloween_event)",
+    "version": "Uncarved"
+  },
+  {
+    "examineText": "A pumpkin variety with an interesting colour.",
+    "group": "Red pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30166,
+    "name": "Red pumpkin",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin_(2024_Halloween_event)",
+    "version": "Uncarved"
+  },
+  {
+    "examineText": "A pumpkin variety with an interesting colour.",
+    "group": "Dark green pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30167,
+    "name": "Dark green pumpkin",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin_(2024_Halloween_event)",
+    "version": "Uncarved"
+  },
+  {
+    "examineText": "A pumpkin variety with an interesting colour.",
+    "group": "Powder grey pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30168,
+    "name": "Powder grey pumpkin",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin_(2024_Halloween_event)",
+    "version": "Uncarved"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Beige pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30169,
+    "name": "Beige pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin_(2024_Halloween_event)",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Beige pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30170,
+    "name": "Beige pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin_(2024_Halloween_event)",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Beige pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30171,
+    "name": "Beige pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin_(2024_Halloween_event)",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Beige pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30172,
+    "name": "Beige pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin_(2024_Halloween_event)",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Beige pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30173,
+    "name": "Beige pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin_(2024_Halloween_event)",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Beige pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30174,
+    "name": "Beige pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin_(2024_Halloween_event)",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Beige pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30175,
+    "name": "Beige pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin_(2024_Halloween_event)",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Beige pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30176,
+    "name": "Beige pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin_(2024_Halloween_event)",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Beige pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30177,
+    "name": "Beige pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin_(2024_Halloween_event)",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "White pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30178,
+    "name": "White pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin_(2024_Halloween_event)",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "White pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30179,
+    "name": "White pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin_(2024_Halloween_event)",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "White pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30180,
+    "name": "White pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin_(2024_Halloween_event)",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "White pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30181,
+    "name": "White pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin_(2024_Halloween_event)",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "White pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30182,
+    "name": "White pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin_(2024_Halloween_event)",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "White pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30183,
+    "name": "White pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin_(2024_Halloween_event)",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "White pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30184,
+    "name": "White pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin_(2024_Halloween_event)",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "White pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30185,
+    "name": "White pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin_(2024_Halloween_event)",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "White pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30186,
+    "name": "White pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin_(2024_Halloween_event)",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Yellow pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30187,
+    "name": "Yellow pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin_(2024_Halloween_event)",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Yellow pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30188,
+    "name": "Yellow pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin_(2024_Halloween_event)",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Yellow pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30189,
+    "name": "Yellow pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin_(2024_Halloween_event)",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Yellow pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30190,
+    "name": "Yellow pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin_(2024_Halloween_event)",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Yellow pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30191,
+    "name": "Yellow pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin_(2024_Halloween_event)",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Yellow pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30192,
+    "name": "Yellow pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin_(2024_Halloween_event)",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Yellow pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30193,
+    "name": "Yellow pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin_(2024_Halloween_event)",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Yellow pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30194,
+    "name": "Yellow pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin_(2024_Halloween_event)",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Yellow pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30195,
+    "name": "Yellow pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin_(2024_Halloween_event)",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Orange pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30196,
+    "name": "Orange pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin_(2024_Halloween_event)",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Orange pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30197,
+    "name": "Orange pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin_(2024_Halloween_event)",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Orange pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30198,
+    "name": "Orange pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin_(2024_Halloween_event)",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Orange pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30199,
+    "name": "Orange pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin_(2024_Halloween_event)",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Orange pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30200,
+    "name": "Orange pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin_(2024_Halloween_event)",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Orange pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30201,
+    "name": "Orange pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin_(2024_Halloween_event)",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Orange pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30202,
+    "name": "Orange pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin_(2024_Halloween_event)",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Orange pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30203,
+    "name": "Orange pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin_(2024_Halloween_event)",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Orange pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30204,
+    "name": "Orange pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin_(2024_Halloween_event)",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Red pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30205,
+    "name": "Red pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin_(2024_Halloween_event)",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Red pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30206,
+    "name": "Red pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin_(2024_Halloween_event)",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Red pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30207,
+    "name": "Red pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin_(2024_Halloween_event)",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Red pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30208,
+    "name": "Red pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin_(2024_Halloween_event)",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Red pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30209,
+    "name": "Red pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin_(2024_Halloween_event)",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Red pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30210,
+    "name": "Red pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin_(2024_Halloween_event)",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Red pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30211,
+    "name": "Red pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin_(2024_Halloween_event)",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Red pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30212,
+    "name": "Red pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin_(2024_Halloween_event)",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Red pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30213,
+    "name": "Red pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin_(2024_Halloween_event)",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Dark green pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30214,
+    "name": "Dark green pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin_(2024_Halloween_event)",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Dark green pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30215,
+    "name": "Dark green pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin_(2024_Halloween_event)",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Dark green pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30216,
+    "name": "Dark green pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin_(2024_Halloween_event)",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Dark green pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30217,
+    "name": "Dark green pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin_(2024_Halloween_event)",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Dark green pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30218,
+    "name": "Dark green pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin_(2024_Halloween_event)",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Dark green pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30219,
+    "name": "Dark green pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin_(2024_Halloween_event)",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Dark green pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30220,
+    "name": "Dark green pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin_(2024_Halloween_event)",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Dark green pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30221,
+    "name": "Dark green pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin_(2024_Halloween_event)",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Dark green pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30222,
+    "name": "Dark green pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin_(2024_Halloween_event)",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Powder grey pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30223,
+    "name": "Powder grey pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin_(2024_Halloween_event)",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Powder grey pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30224,
+    "name": "Powder grey pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin_(2024_Halloween_event)",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Powder grey pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30225,
+    "name": "Powder grey pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin_(2024_Halloween_event)",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Powder grey pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30226,
+    "name": "Powder grey pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin_(2024_Halloween_event)",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Powder grey pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30227,
+    "name": "Powder grey pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin_(2024_Halloween_event)",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Powder grey pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30228,
+    "name": "Powder grey pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin_(2024_Halloween_event)",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Powder grey pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30229,
+    "name": "Powder grey pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin_(2024_Halloween_event)",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Powder grey pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30230,
+    "name": "Powder grey pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin_(2024_Halloween_event)",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Powder grey pumpkin (2024 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30231,
+    "name": "Powder grey pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin_(2024_Halloween_event)",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "I completed the Halloween event and all I got was this rather nice shirt.",
+    "group": "Scarecrow shirt",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30232,
+    "name": "Scarecrow shirt",
+    "url": "https://oldschool.runescape.wiki/w/Scarecrow_shirt",
+    "version": null
+  },
+  {
+    "examineText": "Perfectly shaped for showcasing various gourds. You can use this in the garden of your house.",
+    "group": "Halloween scarecrow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30234,
+    "name": "Halloween scarecrow",
+    "url": "https://oldschool.runescape.wiki/w/Halloween_scarecrow",
+    "version": null
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Beige pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30237,
+    "name": "Beige pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Beige pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30239,
+    "name": "Beige pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Beige pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30241,
+    "name": "Beige pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Beige pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30242,
+    "name": "Beige pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Beige pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30243,
+    "name": "Beige pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Beige pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30244,
+    "name": "Beige pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Beige pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30245,
+    "name": "Beige pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Beige pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30246,
+    "name": "Beige pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Beige pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30247,
+    "name": "Beige pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Beige_pumpkin",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "White pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30248,
+    "name": "White pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "White pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30249,
+    "name": "White pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "White pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30250,
+    "name": "White pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "White pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30251,
+    "name": "White pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "White pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30252,
+    "name": "White pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "White pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30253,
+    "name": "White pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "White pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30254,
+    "name": "White pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "White pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30255,
+    "name": "White pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "White pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30256,
+    "name": "White pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/White_pumpkin",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Yellow pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30257,
+    "name": "Yellow pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Yellow pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30258,
+    "name": "Yellow pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Yellow pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30259,
+    "name": "Yellow pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Yellow pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30260,
+    "name": "Yellow pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Yellow pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30261,
+    "name": "Yellow pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Yellow pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30262,
+    "name": "Yellow pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Yellow pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30263,
+    "name": "Yellow pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Yellow pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30264,
+    "name": "Yellow pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Yellow pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30265,
+    "name": "Yellow pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Yellow_pumpkin",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Orange pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30266,
+    "name": "Orange pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Orange pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30267,
+    "name": "Orange pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Orange pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30268,
+    "name": "Orange pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Orange pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30269,
+    "name": "Orange pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Orange pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30270,
+    "name": "Orange pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Orange pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30271,
+    "name": "Orange pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Orange pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30272,
+    "name": "Orange pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Orange pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30273,
+    "name": "Orange pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Orange pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30274,
+    "name": "Orange pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Orange_pumpkin",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Red pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30275,
+    "name": "Red pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Red pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30276,
+    "name": "Red pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Red pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30277,
+    "name": "Red pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Red pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30278,
+    "name": "Red pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Red pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30279,
+    "name": "Red pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Red pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30280,
+    "name": "Red pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Red pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30281,
+    "name": "Red pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Red pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30282,
+    "name": "Red pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Red pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30283,
+    "name": "Red pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Red_pumpkin",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Dark green pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30284,
+    "name": "Dark green pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Dark green pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30285,
+    "name": "Dark green pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Dark green pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30286,
+    "name": "Dark green pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Dark green pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30287,
+    "name": "Dark green pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Dark green pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30288,
+    "name": "Dark green pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Dark green pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30289,
+    "name": "Dark green pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Dark green pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30290,
+    "name": "Dark green pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Dark green pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30291,
+    "name": "Dark green pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Dark green pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30292,
+    "name": "Dark green pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Dark_green_pumpkin",
+    "version": "Laughing"
+  },
+  {
+    "examineText": "That pumpkin is not impressed at all.",
+    "group": "Powder grey pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30293,
+    "name": "Powder grey pumpkin (disgusted)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin",
+    "version": "Disgusted"
+  },
+  {
+    "examineText": "That pumpkin is not very detailed at all.",
+    "group": "Powder grey pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30294,
+    "name": "Powder grey pumpkin (silly)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin",
+    "version": "Silly"
+  },
+  {
+    "examineText": "That pumpkin is absolutely monstruous.",
+    "group": "Powder grey pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30295,
+    "name": "Powder grey pumpkin (evil)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin",
+    "version": "Evil"
+  },
+  {
+    "examineText": "That pumpkin is not happy about things.",
+    "group": "Powder grey pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30296,
+    "name": "Powder grey pumpkin (angry)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin",
+    "version": "Angry"
+  },
+  {
+    "examineText": "That pumpkin is not feeling anything.",
+    "group": "Powder grey pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30297,
+    "name": "Powder grey pumpkin (depressed)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin",
+    "version": "Depressed"
+  },
+  {
+    "examineText": "That pumpkin is shocked, shocked I tell you.",
+    "group": "Powder grey pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30298,
+    "name": "Powder grey pumpkin (shocked)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin",
+    "version": "Shocked"
+  },
+  {
+    "examineText": "That pumpkin is somewhat distressed.",
+    "group": "Powder grey pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30299,
+    "name": "Powder grey pumpkin (sad)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin",
+    "version": "Sad"
+  },
+  {
+    "examineText": "That pumpkin is pretty happy about things.",
+    "group": "Powder grey pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30300,
+    "name": "Powder grey pumpkin (happy)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin",
+    "version": "Happy"
+  },
+  {
+    "examineText": "That pumpkin might be making fun of something.",
+    "group": "Powder grey pumpkin",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30301,
+    "name": "Powder grey pumpkin (laughing)",
+    "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin",
+    "version": "Laughing"
   }
 ]
