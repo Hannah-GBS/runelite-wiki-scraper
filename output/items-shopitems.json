@@ -29524,61 +29524,6 @@
     "sellMultiplier": "1000"
   },
   {
-    "isMembers": false,
-    "items": [
-      {
-        "buyPrice": "N/A",
-        "currency": "Barronite shards",
-        "name": "Boost buff",
-        "sellPrice": "1000",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Barronite shards",
-        "name": "Defence buff",
-        "sellPrice": "2500",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Barronite shards",
-        "name": "Fishing buff",
-        "sellPrice": "2500",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Barronite shards",
-        "name": "Luck buff",
-        "sellPrice": "3000",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Barronite shards",
-        "name": "Mining buff",
-        "sellPrice": "2500",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Barronite shards",
-        "name": "Preparation buff",
-        "sellPrice": "2500",
-        "stock": "1",
-        "version": null
-      }
-    ],
-    "location": "Ruins of Camdozaal",
-    "name": "Ramarno's Shard Exchange"
-  },
-  {
     "buyMultiplier": "650",
     "isMembers": false,
     "items": [

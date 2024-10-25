@@ -4678,7 +4678,7 @@
         "name": "Magic"
       }
     ],
-    "ticks": "1"
+    "ticks": "3"
   },
   {
     "materials": [
@@ -10914,7 +10914,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">156,963,912</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">162,318,802</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15767,7 +15767,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">157,756,178</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">163,776,007</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -72026,12 +72026,42 @@
     "output": {
       "image": "[[File:Rejuvenation potion.png|link=Rejuvenation potion]]",
       "name": "Rejuvenation potion",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Herblore"
     },
     "skills": [
       {
         "boostable": "",
         "experience": "Varies",
+        "level": "1",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Brew'ma",
+    "materials": [
+      {
+        "name": "Rejuvenation potion (unf)",
+        "quantity": "1"
+      },
+      {
+        "name": "Bruma herb",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Rejuvenation potion.png|link=Rejuvenation potion]]",
+      "name": "Rejuvenation potion",
+      "quantity": "1",
+      "subtxt": "Brew'ma"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
         "level": "1",
         "name": "Herblore"
       }

@@ -1201,12 +1201,12 @@
   },
   {
     "examineText": "This is meant to be good for spots.",
-    "group": "Potion",
+    "group": "Potion (Apothecary)",
     "isMembers": false,
     "isTradeable": true,
     "itemID": 195,
     "name": "Potion",
-    "url": "https://oldschool.runescape.wiki/w/Potion",
+    "url": "https://oldschool.runescape.wiki/w/Potion_(Apothecary)",
     "version": null
   },
   {
@@ -77367,7 +77367,7 @@
     "itemID": 19675,
     "name": "Arclight",
     "url": "https://oldschool.runescape.wiki/w/Arclight",
-    "version": null
+    "version": "Charged"
   },
   {
     "examineText": "You're not sure what this is, but it feels powerful.",
@@ -128228,5 +128228,45 @@
     "name": "Powder grey pumpkin (laughing)",
     "url": "https://oldschool.runescape.wiki/w/Powder_grey_pumpkin",
     "version": "Laughing"
+  },
+  {
+    "examineText": "An ancient warrior's full helm.",
+    "group": "Torva full helm (unobtainable item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30302,
+    "name": "Torva full helm",
+    "url": "https://oldschool.runescape.wiki/w/Torva_full_helm_(unobtainable_item)",
+    "version": null
+  },
+  {
+    "examineText": "An ancient warrior's platebody.",
+    "group": "Torva platebody (unobtainable item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30303,
+    "name": "Torva platebody",
+    "url": "https://oldschool.runescape.wiki/w/Torva_platebody_(unobtainable_item)",
+    "version": null
+  },
+  {
+    "examineText": "An ancient warrior's platelegs.",
+    "group": "Torva platelegs (unobtainable item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30304,
+    "name": "Torva platelegs",
+    "url": "https://oldschool.runescape.wiki/w/Torva_platelegs_(unobtainable_item)",
+    "version": null
+  },
+  {
+    "examineText": "The magical sword is inactive and requires more ancient shards to regain its power.",
+    "group": "Arclight",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30305,
+    "name": "Arclight (inactive)",
+    "url": "https://oldschool.runescape.wiki/w/Arclight",
+    "version": "Inactive"
   }
 ]
