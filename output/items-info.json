@@ -80980,6 +80980,16 @@
     "version": null
   },
   {
+    "examineText": "A vicious, curved sword.",
+    "group": "Dragon scimitar (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 20406,
+    "name": "Dragon scimitar",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_scimitar_(Last_Man_Standing)",
+    "version": null
+  },
+  {
     "examineText": "A powerful dagger.",
     "group": "Dragon dagger (Last Man Standing)",
     "isMembers": false,
@@ -81020,6 +81030,16 @@
     "version": null
   },
   {
+    "examineText": "Made from 100% real dragonhide.",
+    "group": "Black d'hide chaps (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 20424,
+    "name": "Black d'hide chaps",
+    "url": "https://oldschool.runescape.wiki/w/Black_d%27hide_chaps_(Last_Man_Standing)",
+    "version": null
+  },
+  {
     "examineText": "The upper half of a magical robe.",
     "group": "Mystic robe top (Last Man Standing)",
     "isMembers": false,
@@ -81037,6 +81057,16 @@
     "itemID": 20426,
     "name": "Mystic robe bottom",
     "url": "https://oldschool.runescape.wiki/w/Mystic_robe_bottom_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A magical staff of ancient origin...",
+    "group": "Ancient staff (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 20431,
+    "name": "Ancient staff",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_staff_(Last_Man_Standing)",
     "version": null
   },
   {
@@ -81550,6 +81580,26 @@
     "version": null
   },
   {
+    "examineText": "Fabulously ancient mage protection enchanted in the 3rd Age.",
+    "group": "3rd age robe top (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 20576,
+    "name": "3rd age robe top",
+    "url": "https://oldschool.runescape.wiki/w/3rd_age_robe_top_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Fabulously ancient mage protection enchanted in the 3rd Age.",
+    "group": "3rd age robe (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 20577,
+    "name": "3rd age robe",
+    "url": "https://oldschool.runescape.wiki/w/3rd_age_robe_(Last_Man_Standing)",
+    "version": null
+  },
+  {
     "examineText": "Boots made for climbing.",
     "group": "Climbing boots (Last Man Standing)",
     "isMembers": false,
@@ -81557,6 +81607,16 @@
     "itemID": 20578,
     "name": "Climbing boots",
     "url": "https://oldschool.runescape.wiki/w/Climbing_boots_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A pair of nice gloves.",
+    "group": "Mithril gloves (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 20581,
+    "name": "Mithril gloves",
+    "url": "https://oldschool.runescape.wiki/w/Mithril_gloves_(Last_Man_Standing)",
     "version": null
   },
   {
@@ -112180,6 +112240,236 @@
     "version": "Gay"
   },
   {
+    "examineText": "A finely balanced and powerful throwing knife.",
+    "group": "Dragon knife (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27157,
+    "name": "Dragon knife",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_knife_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The upper half of a dark magical robe.",
+    "group": "Mystic robe top (dark) (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27158,
+    "name": "Mystic robe top (dark)",
+    "url": "https://oldschool.runescape.wiki/w/Mystic_robe_top_(dark)_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The lower half of a dark magical robe.",
+    "group": "Mystic robe bottom (dark) (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27159,
+    "name": "Mystic robe bottom (dark)",
+    "url": "https://oldschool.runescape.wiki/w/Mystic_robe_bottom_(dark)_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The upper half of a bright magical robe.",
+    "group": "Mystic robe top (light) (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27160,
+    "name": "Mystic robe top (light)",
+    "url": "https://oldschool.runescape.wiki/w/Mystic_robe_top_(light)_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The lower half of a bright magical robe.",
+    "group": "Mystic robe bottom (light) (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27161,
+    "name": "Mystic robe bottom (light)",
+    "url": "https://oldschool.runescape.wiki/w/Mystic_robe_bottom_(light)_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Slightly magical boots.",
+    "group": "Wizard boots (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27162,
+    "name": "Wizard boots",
+    "url": "https://oldschool.runescape.wiki/w/Wizard_boots_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Halo with the protection of Guthix.",
+    "group": "Guthix halo (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27163,
+    "name": "Guthix halo",
+    "url": "https://oldschool.runescape.wiki/w/Guthix_halo_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Halo with the protection of Zamorak.",
+    "group": "Zamorak halo (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27164,
+    "name": "Zamorak halo",
+    "url": "https://oldschool.runescape.wiki/w/Zamorak_halo_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Halo with the protection of Saradomin.",
+    "group": "Saradomin halo (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27165,
+    "name": "Saradomin halo",
+    "url": "https://oldschool.runescape.wiki/w/Saradomin_halo_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A ghostly hood, fit for a ghostly head.",
+    "group": "Ghostly hood (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27166,
+    "name": "Ghostly hood",
+    "url": "https://oldschool.runescape.wiki/w/Ghostly_hood_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A particularly spooky robe top.",
+    "group": "Ghostly robe (top) (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27167,
+    "name": "Ghostly robe",
+    "url": "https://oldschool.runescape.wiki/w/Ghostly_robe_(top)_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "An unearthly set of robe bottoms.",
+    "group": "Ghostly robe (bottom) (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27168,
+    "name": "Ghostly robe",
+    "url": "https://oldschool.runescape.wiki/w/Ghostly_robe_(bottom)_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "This helmet is worn by berserkers.",
+    "group": "Berserker helm (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27169,
+    "name": "Berserker helm",
+    "url": "https://oldschool.runescape.wiki/w/Berserker_helm_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Mystical boots.",
+    "group": "Infinity boots (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27170,
+    "name": "Infinity boots",
+    "url": "https://oldschool.runescape.wiki/w/Infinity_boots_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A deep sense of torment burns within this powerful bracelet.",
+    "group": "Tormented bracelet (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27171,
+    "name": "Tormented bracelet",
+    "url": "https://oldschool.runescape.wiki/w/Tormented_bracelet_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A deep sense of anguish burns within this powerful necklace.",
+    "group": "Necklace of anguish (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27172,
+    "name": "Necklace of anguish",
+    "url": "https://oldschool.runescape.wiki/w/Necklace_of_anguish_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A deep sense of torture burns within this powerful amulet.",
+    "group": "Amulet of torture (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27173,
+    "name": "Amulet of torture",
+    "url": "https://oldschool.runescape.wiki/w/Amulet_of_torture_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The robes worn by the dangerous elder druids.",
+    "group": "Elder chaos top (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27174,
+    "name": "Elder chaos top",
+    "url": "https://oldschool.runescape.wiki/w/Elder_chaos_top_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The robes worn by the dangerous elder druids.",
+    "group": "Elder chaos robe (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27175,
+    "name": "Elder chaos robe",
+    "url": "https://oldschool.runescape.wiki/w/Elder_chaos_robe_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The hood worn by the dangerous elder druids.",
+    "group": "Elder chaos hood (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27176,
+    "name": "Elder chaos hood",
+    "url": "https://oldschool.runescape.wiki/w/Elder_chaos_hood_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A kilt worn by the mightiest of Fremennik warriors.",
+    "group": "Fremennik kilt (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27177,
+    "name": "Fremennik kilt",
+    "url": "https://oldschool.runescape.wiki/w/Fremennik_kilt_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Some very spikey metal bands, better make sure I don't cut myself while walking.",
+    "group": "Spiked manacles (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27178,
+    "name": "Spiked manacles",
+    "url": "https://oldschool.runescape.wiki/w/Spiked_manacles_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Lightweight body armour ideal for rangers.",
+    "group": "Rangers' tunic (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27179,
+    "name": "Rangers' tunic",
+    "url": "https://oldschool.runescape.wiki/w/Rangers%27_tunic_(Last_Man_Standing)",
+    "version": null
+  },
+  {
     "examineText": "Guthix blessed dragonhide chaps.",
     "group": "Guthix chaps (Last Man Standing)",
     "isMembers": false,
@@ -112207,6 +112497,46 @@
     "itemID": 27182,
     "name": "Saradomin chaps",
     "url": "https://oldschool.runescape.wiki/w/Saradomin_chaps_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Fabulously ancient mage protection enchanted in the 3rd Age.",
+    "group": "3rd age mage hat (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27183,
+    "name": "3rd age mage hat",
+    "url": "https://oldschool.runescape.wiki/w/3rd_age_mage_hat_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A mysterious, heavy sword.",
+    "group": "Ancient godsword (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27184,
+    "name": "Ancient godsword",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_godsword_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A defensive weapon.",
+    "group": "Rune defender (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27185,
+    "name": "Rune defender",
+    "url": "https://oldschool.runescape.wiki/w/Rune_defender_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A weapon born out of conflict.",
+    "group": "Zaryte crossbow (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27186,
+    "name": "Zaryte crossbow",
+    "url": "https://oldschool.runescape.wiki/w/Zaryte_crossbow_(Last_Man_Standing)",
     "version": null
   },
   {
@@ -112240,13 +112570,113 @@
     "version": null
   },
   {
+    "examineText": "The unholy book of Zamorak.",
+    "group": "Unholy book (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27191,
+    "name": "Unholy book",
+    "url": "https://oldschool.runescape.wiki/w/Unholy_book_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Enchanted Dragon crossbow bolts, tipped with opal.",
+    "group": "Opal dragon bolts (e) (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27192,
+    "name": "Opal dragon bolts (e)",
+    "url": "https://oldschool.runescape.wiki/w/Opal_dragon_bolts_(e)_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The robe top of a powerful sorceress from a bygone era.",
+    "group": "Ancestral robe top (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27193,
+    "name": "Ancestral robe top",
+    "url": "https://oldschool.runescape.wiki/w/Ancestral_robe_top_(Last_Man_Standing)",
+    "version": null
+  },
+  {
     "examineText": "The robe bottoms of a powerful sorceress from a bygone era.",
     "group": "Ancestral robe bottom (Last Man Standing)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 27194,
-    "name": "Ancestral robe bottom (Last Man Standing)",
+    "name": "Ancestral robe bottom",
     "url": "https://oldschool.runescape.wiki/w/Ancestral_robe_bottom_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The great helmet of the turncloak justiciar.",
+    "group": "Inquisitor's great helm (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27195,
+    "name": "Inquisitor's great helm",
+    "url": "https://oldschool.runescape.wiki/w/Inquisitor%27s_great_helm_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The hauberk of the turncloak justiciar.",
+    "group": "Inquisitor's hauberk (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27196,
+    "name": "Inquisitor's hauberk",
+    "url": "https://oldschool.runescape.wiki/w/Inquisitor%27s_hauberk_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "The plateskirt of the turncloak justiciar.",
+    "group": "Inquisitor's plateskirt (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27197,
+    "name": "Inquisitor's plateskirt",
+    "url": "https://oldschool.runescape.wiki/w/Inquisitor%27s_plateskirt_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "A powerful mace once wielded by the turncloak justiciar.",
+    "group": "Inquisitor's mace (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27198,
+    "name": "Inquisitor's mace",
+    "url": "https://oldschool.runescape.wiki/w/Inquisitor%27s_mace_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Fabulously ancient range protection crafted from white dragonhide.",
+    "group": "3rd age range top (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27199,
+    "name": "3rd age range top",
+    "url": "https://oldschool.runescape.wiki/w/3rd_age_range_top_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Fabulously ancient range protection crafted from white dragonhide.",
+    "group": "3rd age range legs (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27200,
+    "name": "3rd age range legs",
+    "url": "https://oldschool.runescape.wiki/w/3rd_age_range_legs_(Last_Man_Standing)",
+    "version": null
+  },
+  {
+    "examineText": "Fabulously ancient range protection crafted from white dragonhide.",
+    "group": "3rd age range coif (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27201,
+    "name": "3rd age range coif",
+    "url": "https://oldschool.runescape.wiki/w/3rd_age_range_coif_(Last_Man_Standing)",
     "version": null
   },
   {
@@ -112987,6 +113417,16 @@
     "itemID": 27355,
     "name": "Masori armour set (f)",
     "url": "https://oldschool.runescape.wiki/w/Masori_armour_set_(f)",
+    "version": null
+  },
+  {
+    "examineText": "An ancient tome containing the secrets of fire magic.",
+    "group": "Tome of fire (Last Man Standing)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 27358,
+    "name": "Tome of fire",
+    "url": "https://oldschool.runescape.wiki/w/Tome_of_fire_(Last_Man_Standing)",
     "version": null
   },
   {
@@ -120547,6 +120987,46 @@
     "itemID": 28813,
     "name": "Broken zombie axe",
     "url": "https://oldschool.runescape.wiki/w/Broken_zombie_axe",
+    "version": null
+  },
+  {
+    "examineText": "An old chipped stone tablet.",
+    "group": "Stone tablet (The Curse of Arrav)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28816,
+    "name": "Stone tablet",
+    "url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Curse_of_Arrav)",
+    "version": null
+  },
+  {
+    "examineText": "An old chipped granite tablet.",
+    "group": "Granite tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28817,
+    "name": "Granite tablet",
+    "url": "https://oldschool.runescape.wiki/w/Granite_tablet",
+    "version": null
+  },
+  {
+    "examineText": "An old chipped slate tablet.",
+    "group": "Slate tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28818,
+    "name": "Slate tablet",
+    "url": "https://oldschool.runescape.wiki/w/Slate_tablet",
+    "version": null
+  },
+  {
+    "examineText": "An old chipped shale tablet.",
+    "group": "Shale tablet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28819,
+    "name": "Shale tablet",
+    "url": "https://oldschool.runescape.wiki/w/Shale_tablet",
     "version": null
   },
   {
