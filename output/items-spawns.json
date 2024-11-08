@@ -3931,6 +3931,17 @@
     ]
   },
   {
+    "group": "Granite tablet",
+    "spawns": [
+      {
+        "coords": "2768,10284",
+        "isMembers": true,
+        "location": "Zemouregal's Fort - basement tunnels",
+        "name": "Granite tablet"
+      }
+    ]
+  },
+  {
     "group": "Grapes",
     "spawns": [
       {
@@ -6847,6 +6858,17 @@
     ]
   },
   {
+    "group": "Shale tablet",
+    "spawns": [
+      {
+        "coords": "2800,10265",
+        "isMembers": true,
+        "location": "Zemouregal's Fort - basement tunnels",
+        "name": "Shale tablet"
+      }
+    ]
+  },
+  {
     "group": "Shaman robe",
     "spawns": [
       {
@@ -6992,6 +7014,17 @@
         "isMembers": false,
         "location": "Wilderness - north-east of Goblin Village",
         "name": "Skull"
+      }
+    ]
+  },
+  {
+    "group": "Slate tablet",
+    "spawns": [
+      {
+        "coords": "2785,10284",
+        "isMembers": true,
+        "location": "Zemouregal's Fort - basement tunnels",
+        "name": "Slate tablet"
       }
     ]
   },
@@ -7482,6 +7515,17 @@
         "isMembers": true,
         "location": "Burthorpe Castle",
         "name": "Stone ball"
+      }
+    ]
+  },
+  {
+    "group": "Stone tablet (The Curse of Arrav)",
+    "spawns": [
+      {
+        "coords": "2764,10278",
+        "isMembers": true,
+        "location": "Zemouregal's Fort - basement tunnels",
+        "name": "Stone tablet"
       }
     ]
   },

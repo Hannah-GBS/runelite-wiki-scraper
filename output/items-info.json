@@ -4830,7 +4830,7 @@
     "version": null
   },
   {
-    "examineText": "I can use this to claim a reward from the King.",
+    "examineText": "I can use this to claim a reward from King Roald.",
     "group": "Certificate (Shield of Arrav)",
     "isMembers": false,
     "isTradeable": false,
@@ -9503,7 +9503,7 @@
     "examineText": "For feline training expertise.",
     "group": "Cat training medal",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 1575,
     "name": "Cat training medal",
     "url": "https://oldschool.runescape.wiki/w/Cat_training_medal",
@@ -20081,42 +20081,42 @@
   },
   {
     "examineText": "A marshy coloured snail shell helmet.",
-    "group": "Myre snelm (round)",
+    "group": "Myre snelm",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 3327,
     "name": "Myre snelm",
-    "url": "https://oldschool.runescape.wiki/w/Myre_snelm_(round)",
+    "url": "https://oldschool.runescape.wiki/w/Myre_snelm",
     "version": null
   },
   {
     "examineText": "A red and black Snail shell helmet.",
-    "group": "Blood'n'tar snelm (round)",
+    "group": "Blood'n'tar snelm",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 3329,
     "name": "Blood'n'tar snelm",
-    "url": "https://oldschool.runescape.wiki/w/Blood%27n%27tar_snelm_(round)",
+    "url": "https://oldschool.runescape.wiki/w/Blood%27n%27tar_snelm",
     "version": null
   },
   {
     "examineText": "A muddy yellow snail shell helmet.",
-    "group": "Ochre snelm (round)",
+    "group": "Ochre snelm",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 3331,
     "name": "Ochre snelm",
-    "url": "https://oldschool.runescape.wiki/w/Ochre_snelm_(round)",
+    "url": "https://oldschool.runescape.wiki/w/Ochre_snelm",
     "version": null
   },
   {
     "examineText": "A moody blue snail shell helmet.",
-    "group": "Bruise blue snelm (round)",
+    "group": "Bruise blue snelm",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 3333,
     "name": "Bruise blue snelm",
-    "url": "https://oldschool.runescape.wiki/w/Bruise_blue_snelm_(round)",
+    "url": "https://oldschool.runescape.wiki/w/Bruise_blue_snelm",
     "version": null
   },
   {
@@ -20131,42 +20131,42 @@
   },
   {
     "examineText": "A swamp coloured pointed snail shell helmet.",
-    "group": "Myre snelm (pointed)",
+    "group": "Pointed myre snelm",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 3337,
-    "name": "Myre snelm",
-    "url": "https://oldschool.runescape.wiki/w/Myre_snelm_(pointed)",
+    "name": "Pointed myre snelm",
+    "url": "https://oldschool.runescape.wiki/w/Pointed_myre_snelm",
     "version": null
   },
   {
     "examineText": "A red and black pointed snail shell helmet.",
-    "group": "Blood'n'tar snelm (pointed)",
+    "group": "Pointed blood'n'tar snelm",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 3339,
-    "name": "Blood'n'tar snelm",
-    "url": "https://oldschool.runescape.wiki/w/Blood%27n%27tar_snelm_(pointed)",
+    "name": "Pointed blood'n'tar snelm",
+    "url": "https://oldschool.runescape.wiki/w/Pointed_blood%27n%27tar_snelm",
     "version": null
   },
   {
     "examineText": "A muddy yellow coloured pointed snail shell helmet.",
-    "group": "Ochre snelm (pointed)",
+    "group": "Pointed ochre snelm",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 3341,
-    "name": "Ochre snelm",
-    "url": "https://oldschool.runescape.wiki/w/Ochre_snelm_(pointed)",
+    "name": "Pointed ochre snelm",
+    "url": "https://oldschool.runescape.wiki/w/Pointed_ochre_snelm",
     "version": null
   },
   {
     "examineText": "A moody blue pointed snail shell helmet.",
-    "group": "Bruise blue snelm (pointed)",
+    "group": "Pointed bruise blue snelm",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 3343,
-    "name": "Bruise blue snelm",
-    "url": "https://oldschool.runescape.wiki/w/Bruise_blue_snelm_(pointed)",
+    "name": "Pointed bruise blue snelm",
+    "url": "https://oldschool.runescape.wiki/w/Pointed_bruise_blue_snelm",
     "version": null
   },
   {
@@ -62090,7 +62090,7 @@
     "version": null
   },
   {
-    "examineText": "I can use this to claim a reward from the King, if I get the other half.",
+    "examineText": "I can use this to claim a reward from King Roald, if I get the other half.",
     "group": "Half certificate",
     "isMembers": false,
     "isTradeable": true,
@@ -62100,7 +62100,7 @@
     "version": "Left"
   },
   {
-    "examineText": "I can use this to claim a reward from the King, if I get the other half.",
+    "examineText": "I can use this to claim a reward from King Roald, if I get the other half.",
     "group": "Half certificate",
     "isMembers": false,
     "isTradeable": true,
@@ -95127,7 +95127,7 @@
     "itemID": 23495,
     "name": "Sraracha",
     "url": "https://oldschool.runescape.wiki/w/Sraracha",
-    "version": "Normal"
+    "version": "Red"
   },
   {
     "examineText": "An old coin from a ruined temple. It feels ominous to the touch.",
@@ -121351,12 +121351,12 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (elite) - 0.42N 27.35W",
+    "group": "Clue scroll (elite) - 00.41N 27.35W",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28912,
     "name": "Clue scroll (elite)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)_-_0.42N_27.35W",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)_-_00.41N_27.35W",
     "version": null
   },
   {
@@ -127390,7 +127390,7 @@
     "version": "Uncarved"
   },
   {
-    "examineText": "A pumpkin variety with an interesting colour.",
+    "examineText": "A pumpkin variety with a classic colour.",
     "group": "Orange pumpkin (2024 Halloween event)",
     "isMembers": false,
     "isTradeable": false,
@@ -128748,5 +128748,165 @@
     "name": "Arclight (inactive)",
     "url": "https://oldschool.runescape.wiki/w/Arclight",
     "version": "Inactive"
+  },
+  {
+    "examineText": "A message from Elias White.",
+    "group": "Elias' message",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30307,
+    "name": "Elias' message",
+    "url": "https://oldschool.runescape.wiki/w/Elias%27_message",
+    "version": null
+  },
+  {
+    "examineText": "A very old key (Used in The Curse of Arrav quest).",
+    "group": "Mastaba key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30308,
+    "name": "Mastaba key",
+    "url": "https://oldschool.runescape.wiki/w/Mastaba_key",
+    "version": "North lever"
+  },
+  {
+    "examineText": "A very old key (Used in The Curse of Arrav quest).",
+    "group": "Mastaba key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30309,
+    "name": "Mastaba key",
+    "url": "https://oldschool.runescape.wiki/w/Mastaba_key",
+    "version": "South lever"
+  },
+  {
+    "examineText": "Some rolled-up plans.",
+    "group": "Base plans",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30310,
+    "name": "Base plans",
+    "url": "https://oldschool.runescape.wiki/w/Base_plans",
+    "version": null
+  },
+  {
+    "examineText": "A key found in Zemouregal's Fort (Used in The Curse of Arrav quest).",
+    "group": "Base key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30311,
+    "name": "Base key",
+    "url": "https://oldschool.runescape.wiki/w/Base_key",
+    "version": null
+  },
+  {
+    "examineText": "A canopic jar full of oil.",
+    "group": "Canopic jar (The Curse of Arrav)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30312,
+    "name": "Canopic jar (oil)",
+    "url": "https://oldschool.runescape.wiki/w/Canopic_jar_(The_Curse_of_Arrav)",
+    "version": "Oil"
+  },
+  {
+    "examineText": "A canopic jar full of oil and dwellberries.",
+    "group": "Canopic jar (The Curse of Arrav)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30313,
+    "name": "Canopic jar (oil and berries)",
+    "url": "https://oldschool.runescape.wiki/w/Canopic_jar_(The_Curse_of_Arrav)",
+    "version": "Oil and berries"
+  },
+  {
+    "examineText": "A canopic jar full of heart-preserving gloop.",
+    "group": "Canopic jar (The Curse of Arrav)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30314,
+    "name": "Canopic jar (full)",
+    "url": "https://oldschool.runescape.wiki/w/Canopic_jar_(The_Curse_of_Arrav)",
+    "version": "Full"
+  },
+  {
+    "examineText": "A card with some sort of code on it.",
+    "group": "Code key",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30316,
+    "name": "Code key",
+    "url": "https://oldschool.runescape.wiki/w/Code_key",
+    "version": null
+  },
+  {
+    "examineText": "A collection of decoder strips.",
+    "group": "Decoder strips",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30317,
+    "name": "Decoder strips",
+    "url": "https://oldschool.runescape.wiki/w/Decoder_strips",
+    "version": null
+  },
+  {
+    "examineText": "Some notes about various Mahjarrat.",
+    "group": "Mahjarrat notes",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30318,
+    "name": "Mahjarrat notes (a-j)",
+    "url": "https://oldschool.runescape.wiki/w/Mahjarrat_notes",
+    "version": "A-J"
+  },
+  {
+    "examineText": "Some notes about various Mahjarrat.",
+    "group": "Mahjarrat notes",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30319,
+    "name": "Mahjarrat notes (k-z)",
+    "url": "https://oldschool.runescape.wiki/w/Mahjarrat_notes",
+    "version": "K-Z"
+  },
+  {
+    "examineText": "The axe of a legendary hero.",
+    "group": "Arrav's axe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30320,
+    "name": "Arrav's axe",
+    "url": "https://oldschool.runescape.wiki/w/Arrav%27s_axe",
+    "version": null
+  },
+  {
+    "examineText": "A rusty yet tough helmet.",
+    "group": "Zombie helmet",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30321,
+    "name": "Zombie helmet",
+    "url": "https://oldschool.runescape.wiki/w/Zombie_helmet",
+    "version": null
+  },
+  {
+    "examineText": "An old rusty helmet. It needs repairing before it can be used.",
+    "group": "Broken zombie helmet",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30324,
+    "name": "Broken zombie helmet",
+    "url": "https://oldschool.runescape.wiki/w/Broken_zombie_helmet",
+    "version": null
+  },
+  {
+    "examineText": "What you have here is some totally worthless dust. Excellent stuff!",
+    "group": "Dust (item)",
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 30328,
+    "name": "Dust",
+    "url": "https://oldschool.runescape.wiki/w/Dust_(item)",
+    "version": null
   }
 ]
