@@ -376,6 +376,12 @@
         "name": "Beer glass"
       },
       {
+        "coords": "3323,3136",
+        "isMembers": false,
+        "location": "South of Al Kharid (1st floor) (search shelves)",
+        "name": "Beer glass"
+      },
+      {
         "coords": "1392,2860",
         "isMembers": true,
         "location": "Stick Your Ore Inn",
@@ -2283,7 +2289,7 @@
         "name": "Burnt bones"
       },
       {
-        "coords": "",
+        "coords": "?",
         "isMembers": true,
         "location": "Hallowed Sepulchre - floor 2",
         "name": "Burnt bones"
