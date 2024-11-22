@@ -17322,6 +17322,23 @@
     "sellMultiplier": "2000"
   },
   {
+    "buyMultiplier": "100",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "unknown",
+        "currency": "Coins",
+        "name": "Blood talisman",
+        "sellPrice": "unknown",
+        "stock": "unknown",
+        "version": null
+      }
+    ],
+    "location": "Canifis",
+    "name": "General Store (Canifis) Leagues only",
+    "sellMultiplier": "2000"
+  },
+  {
     "buyMultiplier": "700",
     "isMembers": false,
     "items": [
@@ -35183,7 +35200,7 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Compost",
-        "sellPrice": "35",
+        "sellPrice": "20",
         "stock": "inf",
         "version": null
       },
@@ -35191,7 +35208,7 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Empty plant pot",
-        "sellPrice": "40",
+        "sellPrice": "1",
         "stock": "inf",
         "version": null
       },
@@ -35199,7 +35216,7 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Gardening trowel",
-        "sellPrice": "15",
+        "sellPrice": "12",
         "stock": "inf",
         "version": null
       },
@@ -35207,7 +35224,7 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Plant cure",
-        "sellPrice": "25",
+        "sellPrice": "40",
         "stock": "inf",
         "version": null
       },
@@ -35215,7 +35232,7 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Rake",
-        "sellPrice": "15",
+        "sellPrice": "6",
         "stock": "inf",
         "version": null
       },
@@ -35223,7 +35240,7 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Seed dibber",
-        "sellPrice": "15",
+        "sellPrice": "6",
         "stock": "inf",
         "version": null
       },
@@ -35231,7 +35248,7 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Watering can",
-        "sellPrice": "25",
+        "sellPrice": "8",
         "stock": "inf",
         "version": null
       }
