@@ -863,7 +863,7 @@
         "name": "Bones"
       },
       {
-        "coords": "2682,3729",
+        "coords": "2675,3719",
         "isMembers": true,
         "location": "Rellekka - near the rock crabs",
         "name": "Bones"
@@ -1258,6 +1258,12 @@
         "coords": "1770,3072",
         "isMembers": true,
         "location": "Outer Fortis 1st floor",
+        "name": "Bread"
+      },
+      {
+        "coords": "1311,3470",
+        "isMembers": true,
+        "location": "South of Mount Quidamortem",
         "name": "Bread"
       },
       {
@@ -1665,6 +1671,12 @@
         "coords": "3730,3356",
         "isMembers": true,
         "location": "Slepe - Crombwick Manor",
+        "name": "Bronze dagger"
+      },
+      {
+        "coords": "1312,3471",
+        "isMembers": true,
+        "location": "South of Mount Quidamortem",
         "name": "Bronze dagger"
       }
     ]
@@ -8254,6 +8266,12 @@
         "coords": "3204,3515",
         "isMembers": false,
         "location": "North of Varrock Palace",
+        "name": "Wooden shield"
+      },
+      {
+        "coords": "1313,3473",
+        "isMembers": true,
+        "location": "South of Mount Quidamortem",
         "name": "Wooden shield"
       }
     ]

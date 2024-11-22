@@ -9503,7 +9503,7 @@
     "examineText": "For feline training expertise.",
     "group": "Cat training medal",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 1575,
     "name": "Cat training medal",
     "url": "https://oldschool.runescape.wiki/w/Cat_training_medal",
@@ -102570,6 +102570,16 @@
     "version": null
   },
   {
+    "examineText": "A squishy mushroom from a fairy ring.",
+    "group": "Fairy mushroom",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25102,
+    "name": "Fairy mushroom",
+    "url": "https://oldschool.runescape.wiki/w/Fairy_mushroom",
+    "version": null
+  },
+  {
     "examineText": "It seems larger on the inside than it is on the outside.",
     "group": "Extradimensional bag",
     "isMembers": true,
@@ -120837,6 +120847,26 @@
     "itemID": 28763,
     "name": "Trailblazer reloaded bronze trophy",
     "url": "https://oldschool.runescape.wiki/w/Trailblazer_reloaded_bronze_trophy",
+    "version": null
+  },
+  {
+    "examineText": "A magical note that fell out of a banker's pocket.",
+    "group": "Banker's note (item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28767,
+    "name": "Banker's note",
+    "url": "https://oldschool.runescape.wiki/w/Banker%27s_note_(item)",
+    "version": null
+  },
+  {
+    "examineText": "Greaves that give you blazing speed.",
+    "group": "Sage's greaves",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28771,
+    "name": "Sage's greaves",
+    "url": "https://oldschool.runescape.wiki/w/Sage%27s_greaves",
     "version": null
   },
   {
