@@ -35338,6 +35338,21 @@
     "sellMultiplier": "2500"
   },
   {
+    "buyMultiplier": "150",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Hunters' crossbow",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "",
+    "name": "Trader Stan's Trading Post Only in Leagues at [[Sunset Coast]]",
+    "sellMultiplier": "2500"
+  },
+  {
     "buyMultiplier": "400",
     "isMembers": true,
     "items": [

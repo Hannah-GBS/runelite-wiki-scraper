@@ -99640,6 +99640,66 @@
     "version": null
   },
   {
+    "examineText": "Contains a beginner clue scroll.",
+    "group": "Scroll box (beginner)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24361,
+    "name": "Scroll box (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(beginner)",
+    "version": null
+  },
+  {
+    "examineText": "Contains an easy clue scroll.",
+    "group": "Scroll box (easy)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24362,
+    "name": "Scroll box (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(easy)",
+    "version": null
+  },
+  {
+    "examineText": "Contains a medium clue scroll.",
+    "group": "Scroll box (medium)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24363,
+    "name": "Scroll box (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(medium)",
+    "version": null
+  },
+  {
+    "examineText": "Contains a hard clue scroll.",
+    "group": "Scroll box (hard)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24364,
+    "name": "Scroll box (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(hard)",
+    "version": null
+  },
+  {
+    "examineText": "Contains an elite clue scroll.",
+    "group": "Scroll box (elite)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24365,
+    "name": "Scroll box (elite)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(elite)",
+    "version": null
+  },
+  {
+    "examineText": "Contains a master clue scroll.",
+    "group": "Scroll box (master)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24366,
+    "name": "Scroll box (master)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(master)",
+    "version": null
+  },
+  {
     "examineText": "Looks like a cabbage.",
     "group": "Cabbage (unobtainable item)",
     "isMembers": false,
@@ -102600,6 +102660,36 @@
     "version": "Open"
   },
   {
+    "examineText": "A very powerful axe, echoing with power from the past.",
+    "group": "Echo axe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25110,
+    "name": "Echo axe",
+    "url": "https://oldschool.runescape.wiki/w/Echo_axe",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Echo pickaxe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25112,
+    "name": "Echo pickaxe",
+    "url": "https://oldschool.runescape.wiki/w/Echo_pickaxe",
+    "version": null
+  },
+  {
+    "examineText": "A very powerful harpoon, echoing with power from the past.",
+    "group": "Echo harpoon",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25114,
+    "name": "Echo harpoon",
+    "url": "https://oldschool.runescape.wiki/w/Echo_harpoon",
+    "version": null
+  },
+  {
     "examineText": "Special tomato to do league things.",
     "group": "League tomato",
     "isMembers": false,
@@ -103737,17 +103827,17 @@
     "itemID": 25373,
     "name": "Dragon harpoon (or)",
     "url": "https://oldschool.runescape.wiki/w/Dragon_harpoon_(or)",
-    "version": null
+    "version": "Trailblazer"
   },
   {
-    "examineText": "A very powerful pickaxe in the colours of the Trailblazer League.",
+    "examineText": "A very powerful pickaxe the colours of the Trailblazer League.",
     "group": "Dragon pickaxe (or) (Trailblazer)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 25376,
     "name": "Dragon pickaxe (or)",
     "url": "https://oldschool.runescape.wiki/w/Dragon_pickaxe_(or)_(Trailblazer)",
-    "version": null
+    "version": "Trailblazer"
   },
   {
     "examineText": "A very powerful axe in the colours of the Trailblazer League.",
@@ -103757,7 +103847,7 @@
     "itemID": 25378,
     "name": "Dragon axe (or)",
     "url": "https://oldschool.runescape.wiki/w/Dragon_axe_(or)",
-    "version": null
+    "version": "Trailblazer"
   },
   {
     "examineText": "A set containing Trailblazer boots (t1), Trailblazer trousers (t1), Trailblazer top (t1) and Trailblazer hood (t1).",
@@ -128300,6 +128390,136 @@
     "version": null
   },
   {
+    "examineText": "A set containing Raging Echoes boots (t1), Raging Echoes trousers (t1), Raging Echoes top (t1) and Raging Echoes hood (t1).",
+    "group": "Raging echoes relic hunter (t1) armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30331,
+    "name": "Raging echoes relic hunter (t1) armour set",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_relic_hunter_(t1)_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing Raging Echoes boots (t2), Raging Echoes trousers (t2), Raging Echoes top (t2) and Raging Echoes hood (t2).",
+    "group": "Raging echoes relic hunter (t2) armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30334,
+    "name": "Raging echoes relic hunter (t2) armour set",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_relic_hunter_(t2)_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing Raging Echoes boots (t3), Raging Echoes trousers (t3), Raging Echoes top (t3) and Raging Echoes hood (t3).",
+    "group": "Raging echoes relic hunter (t3) armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30337,
+    "name": "Raging echoes relic hunter (t3) armour set",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_relic_hunter_(t3)_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A crystalline dagger.",
+    "group": "Crystal dagger (perfected)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30340,
+    "name": "Crystal dagger (perfected)",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_dagger_(perfected)",
+    "version": null
+  },
+  {
+    "examineText": "A very powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.",
+    "group": "Infernal harpoon (or) (Trailblazer Reloaded)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30342,
+    "name": "Infernal harpoon (or)",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_harpoon_(or)_(Trailblazer_Reloaded)",
+    "version": "Charged"
+  },
+  {
+    "examineText": "A formerly powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.",
+    "group": "Infernal harpoon (or) (Trailblazer Reloaded)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30343,
+    "name": "Infernal harpoon (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_harpoon_(or)_(Trailblazer_Reloaded)",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "A very powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.",
+    "group": "Infernal pickaxe (or) (Trailblazer Reloaded)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30345,
+    "name": "Infernal pickaxe (or)",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_pickaxe_(or)_(Trailblazer_Reloaded)",
+    "version": "Charged"
+  },
+  {
+    "examineText": "A formerly powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.",
+    "group": "Infernal pickaxe (or) (Trailblazer Reloaded)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30346,
+    "name": "Infernal pickaxe (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_pickaxe_(or)_(Trailblazer_Reloaded)",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "A very powerful, fiery axe in the colours of the Trailblazer Reloaded League.",
+    "group": "Infernal axe (or) (Trailblazer Reloaded)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30347,
+    "name": "Infernal axe (or)",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_axe_(or)_(Trailblazer_Reloaded)",
+    "version": "Charged"
+  },
+  {
+    "examineText": "A formerly powerful, fiery axe in the colours of the Trailblazer Reloaded League.",
+    "group": "Infernal axe (or) (Trailblazer Reloaded)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30348,
+    "name": "Infernal axe (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_axe_(or)_(Trailblazer_Reloaded)",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "A very powerful harpoon in the colours of the Trailblazer Reloaded League.",
+    "group": "Dragon harpoon (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30349,
+    "name": "Dragon harpoon (or)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_harpoon_(or)",
+    "version": "Trailblazer Reloaded"
+  },
+  {
+    "examineText": "A very powerful pickaxe in the colours of the Trailblazer Reloaded League.",
+    "group": "Dragon pickaxe (or) (Trailblazer)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30351,
+    "name": "Dragon pickaxe (or)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_pickaxe_(or)_(Trailblazer)",
+    "version": "Trailblazer Reloaded"
+  },
+  {
+    "examineText": "A very powerful axe in the colours of the Trailblazer Reloaded League.",
+    "group": "Dragon axe (or)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30352,
+    "name": "Dragon axe (or)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_axe_(or)",
+    "version": "Trailblazer Reloaded"
+  },
+  {
     "examineText": "A perfect pouch for foraging herbs.",
     "group": "Forager's pouch",
     "isMembers": true,
@@ -128347,6 +128567,26 @@
     "itemID": 30365,
     "name": "Pocket kingdom",
     "url": "https://oldschool.runescape.wiki/w/Pocket_kingdom_(item)",
+    "version": null
+  },
+  {
+    "examineText": "Is this the true god sword? Or simply a joke replica?",
+    "group": "The dogsword",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30367,
+    "name": "The dogsword",
+    "url": "https://oldschool.runescape.wiki/w/The_dogsword",
+    "version": null
+  },
+  {
+    "examineText": "A weapon from a being that truly worships gods.",
+    "group": "Sunlight spear",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30369,
+    "name": "Sunlight spear",
+    "url": "https://oldschool.runescape.wiki/w/Sunlight_spear",
     "version": null
   },
   {
@@ -128410,6 +128650,16 @@
     "version": null
   },
   {
+    "examineText": "A shield that has had over a thousand unique dragons encase it in flame.",
+    "group": "Thousand-dragon ward",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30382,
+    "name": "Thousand-dragon ward",
+    "url": "https://oldschool.runescape.wiki/w/Thousand-dragon_ward",
+    "version": null
+  },
+  {
     "examineText": "A powerful crystal blessing that warps the crystalline nature of reality.",
     "group": "Crystal blessing",
     "isMembers": true,
@@ -128417,6 +128667,26 @@
     "itemID": 30384,
     "name": "Crystal blessing",
     "url": "https://oldschool.runescape.wiki/w/Crystal_blessing",
+    "version": null
+  },
+  {
+    "examineText": "Two bracers that provide a divine connection to the Sun God.",
+    "group": "Sunlit bracers",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30386,
+    "name": "Sunlit bracers",
+    "url": "https://oldschool.runescape.wiki/w/Sunlit_bracers",
+    "version": null
+  },
+  {
+    "examineText": "A powerful Khopesh, imbued with the power of thunder and lightning.",
+    "group": "Thunder khopesh",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30388,
+    "name": "Thunder khopesh",
+    "url": "https://oldschool.runescape.wiki/w/Thunder_khopesh",
     "version": null
   },
   {
@@ -128490,6 +128760,26 @@
     "version": null
   },
   {
+    "examineText": "Crystallised, bestial rage swirls within it...",
+    "group": "Tirannwn echo orb",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30398,
+    "name": "Tirannwn echo orb",
+    "url": "https://oldschool.runescape.wiki/w/Tirannwn_echo_orb",
+    "version": null
+  },
+  {
+    "examineText": "Crystallised, draconic rage swirls within it...",
+    "group": "Wilderness echo orb",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30399,
+    "name": "Wilderness echo orb",
+    "url": "https://oldschool.runescape.wiki/w/Wilderness_echo_orb",
+    "version": null
+  },
+  {
     "examineText": "Crystallised, tangled rage swirls within it...",
     "group": "Kourend echo orb",
     "isMembers": true,
@@ -128497,6 +128787,26 @@
     "itemID": 30400,
     "name": "Kourend echo orb",
     "url": "https://oldschool.runescape.wiki/w/Kourend_echo_orb",
+    "version": null
+  },
+  {
+    "examineText": "Crystallised, solar rage swirls within it...",
+    "group": "Varlamore echo orb",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30401,
+    "name": "Varlamore echo orb",
+    "url": "https://oldschool.runescape.wiki/w/Varlamore_echo_orb",
+    "version": null
+  },
+  {
+    "examineText": "This can be handed to the Sage for a rare item of your choice.",
+    "group": "Raids megarare voucher",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30402,
+    "name": "Raids megarare voucher",
+    "url": "https://oldschool.runescape.wiki/w/Raids_megarare_voucher",
     "version": null
   },
   {
@@ -128510,6 +128820,36 @@
     "version": null
   },
   {
+    "examineText": "The headgear of a Raging Echoes relic hunter.",
+    "group": "Raging echoes hat (t2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30404,
+    "name": "Raging echoes hat (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_hat_(t2)",
+    "version": null
+  },
+  {
+    "examineText": "The coat of a Raging Echoes relic hunter.",
+    "group": "Raging echoes top (t1)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30406,
+    "name": "Raging echoes top (t1)",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_top_(t1)",
+    "version": null
+  },
+  {
+    "examineText": "The robes of a Raging Echoes relic hunter.",
+    "group": "Raging echoes robeskirt (t1)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30408,
+    "name": "Raging echoes robeskirt (t1)",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_robeskirt_(t1)",
+    "version": null
+  },
+  {
     "examineText": "The boots of a Raging Echoes relic hunter.",
     "group": "Raging echoes boots (t1)",
     "isMembers": true,
@@ -128520,13 +128860,23 @@
     "version": null
   },
   {
-    "examineText": "The headgear of a Raging Echoes relic hunter.",
-    "group": "Raging echoes hat (t2)",
+    "examineText": "The coat of a Raging Echoes relic hunter.",
+    "group": "Raging echoes top (t2)",
     "isMembers": true,
     "isTradeable": false,
-    "itemID": 30412,
-    "name": "Raging echoes hat (t2)",
-    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_hat_(t2)",
+    "itemID": 30414,
+    "name": "Raging echoes top (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_top_(t2)",
+    "version": null
+  },
+  {
+    "examineText": "The robes of a Raging Echoes relic hunter.",
+    "group": "Raging echoes robeskirt (t2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30416,
+    "name": "Raging echoes robeskirt (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_robeskirt_(t2)",
     "version": null
   },
   {
@@ -128550,7 +128900,27 @@
     "version": null
   },
   {
-    "examineText": "The boots of a raging echo relic hunter.",
+    "examineText": "The coat of a Raging Echoes relic hunter.",
+    "group": "Raging echoes top (t3)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30422,
+    "name": "Raging echoes top (t3)",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_top_(t3)",
+    "version": null
+  },
+  {
+    "examineText": "The robes of a Raging Echoes relic hunter.",
+    "group": "Raging echoes robeskirt (t3)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30424,
+    "name": "Raging echoes robeskirt (t3)",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_robeskirt_(t3)",
+    "version": null
+  },
+  {
+    "examineText": "The boots of a Raging Echoes relic hunter.",
     "group": "Raging echoes boots (t3)",
     "isMembers": true,
     "isTradeable": false,
@@ -128597,7 +128967,17 @@
     "itemID": 30434,
     "name": "Echo venator bow",
     "url": "https://oldschool.runescape.wiki/w/Echo_venator_bow",
-    "version": null
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "A bow used by hunters from a forgotten empire.",
+    "group": "Echo venator bow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30434,
+    "name": "Echo venator bow",
+    "url": "https://oldschool.runescape.wiki/w/Echo_venator_bow",
+    "version": "Charged"
   },
   {
     "examineText": "Virtus mask in the style of Leagues V: Raging Echoes.",
@@ -128700,6 +129080,16 @@
     "version": null
   },
   {
+    "examineText": "A scroll which unlocks the Raging Echoes NPC contact.",
+    "group": "Raging echoes npc contact scroll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30457,
+    "name": "Raging echoes npc contact scroll",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_npc_contact_scroll",
+    "version": null
+  },
+  {
     "examineText": "Used on a Nexus inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.",
     "group": "Raging echoes nexus scroll",
     "isMembers": true,
@@ -128707,6 +129097,16 @@
     "itemID": 30459,
     "name": "Raging echoes nexus scroll",
     "url": "https://oldschool.runescape.wiki/w/Raging_echoes_nexus_scroll",
+    "version": null
+  },
+  {
+    "examineText": "Used on a portal inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.",
+    "group": "Raging echoes portal scroll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30461,
+    "name": "Raging echoes portal scroll",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_portal_scroll",
     "version": null
   },
   {
@@ -128730,6 +129130,16 @@
     "version": null
   },
   {
+    "examineText": "A Rune Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).",
+    "group": "Raging echoes rune trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30467,
+    "name": "Raging echoes rune trophy",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_rune_trophy",
+    "version": null
+  },
+  {
     "examineText": "An Adamant Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).",
     "group": "Raging echoes adamant trophy",
     "isMembers": true,
@@ -128747,6 +129157,16 @@
     "itemID": 30471,
     "name": "Raging echoes mithril trophy",
     "url": "https://oldschool.runescape.wiki/w/Raging_echoes_mithril_trophy",
+    "version": null
+  },
+  {
+    "examineText": "A Steel Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).",
+    "group": "Raging echoes steel trophy",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30473,
+    "name": "Raging echoes steel trophy",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_steel_trophy",
     "version": null
   },
   {
