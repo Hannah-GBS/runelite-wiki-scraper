@@ -10723,6 +10723,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Carved pumpkin head",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Cat ears",
         "sellPrice": "0",
         "stock": "inf",
@@ -11219,6 +11227,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Halloween scarecrow",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Halloween wig",
         "sellPrice": "0",
         "stock": "inf",
@@ -11556,6 +11572,14 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Saucepan",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Scarecrow shirt",
         "sellPrice": "0",
         "stock": "inf",
         "version": null
@@ -17326,11 +17350,11 @@
     "isMembers": true,
     "items": [
       {
-        "buyPrice": "unknown",
+        "buyPrice": "0",
         "currency": "Coins",
         "name": "Blood talisman",
-        "sellPrice": "unknown",
-        "stock": "unknown",
+        "sellPrice": "8",
+        "stock": "1",
         "version": null
       }
     ],
@@ -24520,6 +24544,33 @@
     "sellMultiplier": "1300"
   },
   {
+    "buyMultiplier": "400",
+    "isMembers": false,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Box trap",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fishing bait",
+        "stock": "1000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pestle and mortar",
+        "stock": "10",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge",
+    "name": "Lumbridge General Store (Raging Echoes League)",
+    "sellMultiplier": "1300"
+  },
+  {
     "buyMultiplier": "600",
     "isMembers": true,
     "items": [
@@ -25099,6 +25150,29 @@
         "currency": "Coins",
         "name": "Magic secateurs",
         "sellPrice": "40000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "South of Falador",
+    "name": "Malignius Mortifer"
+  },
+  {
+    "isMembers": false,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Bone seeds",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Brown apron",
+        "sellPrice": "0",
         "stock": "inf",
         "version": null
       }
@@ -34304,7 +34378,7 @@
     "sellMultiplier": "1000"
   },
   {
-    "buyMultiplier": "600",
+    "buyMultiplier": "550",
     "isMembers": true,
     "items": [
       {
