@@ -43411,12 +43411,12 @@
   },
   {
     "examineText": "It's a bird's nest with some seeds in it.",
-    "group": "Bird nest (Wyson, 2006-2016)",
+    "group": "Bird nest (Wyson, 2006\u20132016)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7413,
     "name": "Bird nest",
-    "url": "https://oldschool.runescape.wiki/w/Bird_nest_(Wyson,_2006-2016)",
+    "url": "https://oldschool.runescape.wiki/w/Bird_nest_(Wyson,_2006%E2%80%932016)",
     "version": null
   },
   {
@@ -102670,7 +102670,7 @@
     "version": null
   },
   {
-    "examineText": "",
+    "examineText": "A very powerful pickaxe, echoing with power from the past.",
     "group": "Echo pickaxe",
     "isMembers": true,
     "isTradeable": false,
@@ -109327,6 +109327,16 @@
     "itemID": 26541,
     "name": "Shattered relics mystic ornament kit",
     "url": "https://oldschool.runescape.wiki/w/Shattered_relics_mystic_ornament_kit",
+    "version": null
+  },
+  {
+    "examineText": "A powerful tome filled with the knowledge of the magical arts.",
+    "group": "Arcane grimoire",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26551,
+    "name": "Arcane grimoire",
+    "url": "https://oldschool.runescape.wiki/w/Arcane_grimoire",
     "version": null
   },
   {
@@ -120950,6 +120960,16 @@
     "version": null
   },
   {
+    "examineText": "A horn to call your loyal guardian.",
+    "group": "Guardian horn",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28769,
+    "name": "Guardian horn",
+    "url": "https://oldschool.runescape.wiki/w/Guardian_horn",
+    "version": null
+  },
+  {
     "examineText": "Greaves that give you blazing speed.",
     "group": "Sage's greaves",
     "isMembers": true,
@@ -128820,16 +128840,6 @@
     "version": null
   },
   {
-    "examineText": "The headgear of a Raging Echoes relic hunter.",
-    "group": "Raging echoes hat (t2)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30404,
-    "name": "Raging echoes hat (t2)",
-    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_hat_(t2)",
-    "version": null
-  },
-  {
     "examineText": "The coat of a Raging Echoes relic hunter.",
     "group": "Raging echoes top (t1)",
     "isMembers": true,
@@ -128857,6 +128867,16 @@
     "itemID": 30410,
     "name": "Raging echoes boots (t1)",
     "url": "https://oldschool.runescape.wiki/w/Raging_echoes_boots_(t1)",
+    "version": null
+  },
+  {
+    "examineText": "The headgear of a Raging Echoes relic hunter.",
+    "group": "Raging echoes hat (t2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30412,
+    "name": "Raging echoes hat (t2)",
+    "url": "https://oldschool.runescape.wiki/w/Raging_echoes_hat_(t2)",
     "version": null
   },
   {
