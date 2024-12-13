@@ -10901,24 +10901,6 @@
     "tools": "Pestle and mortar"
   },
   {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -10934,7 +10916,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">160,012,661</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">158,394,520</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10954,40 +10936,22 @@
     "ticks": "5"
   },
   {
-    "facilities": "Singing bowl",
     "materials": [
       {
-        "name": "Blade of saeldor",
+        "name": "Blade of saeldor (c)",
         "quantity": "1"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "1000"
       }
     ],
     "members": "Yes",
     "output": {
-      "costnote": "Value based on the cost for a fully inactive blade",
-      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
-      "name": "Blade of saeldor (c)",
+      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
       "quantity": "1",
-      "subtxt": "Upgrade"
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
     },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "82",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "82",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "3"
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -11024,6 +10988,42 @@
       }
     ],
     "ticks": "8"
+  },
+  {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Blade of saeldor",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "costnote": "Value based on the cost for a fully inactive blade",
+      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1",
+      "subtxt": "Upgrade"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "82",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "82",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3"
   },
   {
     "materials": [
@@ -15745,7 +15745,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">159,211,876</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">158,293,811</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -27067,7 +27067,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "60"
       },
       {
@@ -27113,7 +27113,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "40"
       },
       {
@@ -27155,7 +27155,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "80"
       },
       {
@@ -27258,7 +27258,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "60"
       },
       {
@@ -27292,7 +27292,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "20"
       },
       {
@@ -28519,7 +28519,7 @@
   {
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "10"
       }
     ],
@@ -28684,7 +28684,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "60"
       },
       {
@@ -28718,7 +28718,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "20"
       },
       {
@@ -30015,7 +30015,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "60"
       },
       {
@@ -30061,7 +30061,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "40"
       },
       {
@@ -30103,7 +30103,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "80"
       },
       {
@@ -31373,7 +31373,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "60"
       },
       {
@@ -31419,7 +31419,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "40"
       },
       {
@@ -31461,7 +31461,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "80"
       },
       {
@@ -31511,7 +31511,7 @@
         "quantity": "1"
       },
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "10"
       }
     ],
@@ -31676,8 +31676,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Crystal shards.png|link=Crystal shards]]",
-      "name": "Crystal shards",
+      "image": "[[File:Crystal shards (The Gauntlet).png|link=Crystal shards (The Gauntlet)]]",
+      "name": "Crystal shards (The Gauntlet)",
       "quantity": "80"
     },
     "skills": [],
@@ -31692,8 +31692,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Crystal shards.png|link=Crystal shards]]",
-      "name": "Crystal shards",
+      "image": "[[File:Crystal shards (The Gauntlet).png|link=Crystal shards (The Gauntlet)]]",
+      "name": "Crystal shards (The Gauntlet)",
       "quantity": "80"
     },
     "skills": [],
@@ -31708,8 +31708,8 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Crystal shards.png|link=Crystal shards]]",
-      "name": "Crystal shards",
+      "image": "[[File:Crystal shards (The Gauntlet).png|link=Crystal shards (The Gauntlet)]]",
+      "name": "Crystal shards (The Gauntlet)",
       "quantity": "80"
     },
     "skills": [],
@@ -31776,7 +31776,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "60"
       },
       {
@@ -31810,7 +31810,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "20"
       },
       {
@@ -40237,7 +40237,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "200"
       }
     ],
@@ -91182,7 +91182,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "40"
       }
     ],
@@ -95269,7 +95269,7 @@
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "10"
       }
     ],

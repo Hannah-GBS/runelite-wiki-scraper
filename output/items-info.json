@@ -97141,12 +97141,12 @@
   },
   {
     "examineText": "Shards of the finest crystal, used to craft items within the Gauntlet.",
-    "group": "Crystal shards",
+    "group": "Crystal shards (The Gauntlet)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 23866,
     "name": "Crystal shards",
-    "url": "https://oldschool.runescape.wiki/w/Crystal_shards",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_shards_(The_Gauntlet)",
     "version": null
   },
   {
@@ -129207,6 +129207,86 @@
     "itemID": 30477,
     "name": "Raging echoes bronze trophy",
     "url": "https://oldschool.runescape.wiki/w/Raging_echoes_bronze_trophy",
+    "version": null
+  },
+  {
+    "examineText": "Won't you come and save me?",
+    "group": "Present box hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30479,
+    "name": "Present box hat",
+    "url": "https://oldschool.runescape.wiki/w/Present_box_hat",
+    "version": "Festive"
+  },
+  {
+    "examineText": "Won't you come and save me?",
+    "group": "Present box hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30481,
+    "name": "Present box hat",
+    "url": "https://oldschool.runescape.wiki/w/Present_box_hat",
+    "version": "Simple"
+  },
+  {
+    "examineText": "Won't you come and save me?",
+    "group": "Present box hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30483,
+    "name": "Present box hat",
+    "url": "https://oldschool.runescape.wiki/w/Present_box_hat",
+    "version": "Icy"
+  },
+  {
+    "examineText": "Won't you come and save me?",
+    "group": "Present box hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30485,
+    "name": "Present box hat",
+    "url": "https://oldschool.runescape.wiki/w/Present_box_hat",
+    "version": "Anti-santa"
+  },
+  {
+    "examineText": "Bow wow.",
+    "group": "Dog disguise",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30487,
+    "name": "Dog disguise",
+    "url": "https://oldschool.runescape.wiki/w/Dog_disguise",
+    "version": null
+  },
+  {
+    "examineText": "Warm and cozy.",
+    "group": "Festive scarf",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30489,
+    "name": "Festive scarf",
+    "url": "https://oldschool.runescape.wiki/w/Festive_scarf",
+    "version": null
+  },
+  {
+    "examineText": "Why the big... paws?",
+    "group": "Dog boots",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30491,
+    "name": "Dog boots",
+    "url": "https://oldschool.runescape.wiki/w/Dog_boots",
+    "version": null
+  },
+  {
+    "examineText": "Tastefully decorated invitations to a once-in-a-lifetime adoption event!",
+    "group": "Invitations",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30493,
+    "name": "Invitations",
+    "url": "https://oldschool.runescape.wiki/w/Invitations",
     "version": null
   }
 ]
