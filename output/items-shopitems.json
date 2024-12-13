@@ -10891,6 +10891,22 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Dog boots",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Dog disguise",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Dragon candle dagger",
         "sellPrice": "0",
         "stock": "inf",
@@ -11060,6 +11076,14 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Festive nutcracker trousers",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Festive scarf",
         "sellPrice": "0",
         "stock": "inf",
         "version": null
@@ -11404,6 +11428,14 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Poet's jacket",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Present box hat",
         "sellPrice": "0",
         "stock": "inf",
         "version": null
