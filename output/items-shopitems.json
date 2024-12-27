@@ -11619,7 +11619,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Scythe",
+        "name": "Scythe (Halloween event)",
         "sellPrice": "0",
         "stock": "inf",
         "version": null
@@ -20469,6 +20469,37 @@
     "location": "Etceteria",
     "name": "Island Greengrocer",
     "sellMultiplier": "1200"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Crystal bow",
+        "sellPrice": "900000",
+        "stock": "N/A",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Crystal halberd",
+        "sellPrice": "750000",
+        "stock": "N/A",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Crystal shield",
+        "sellPrice": "750000",
+        "stock": "N/A",
+        "version": null
+      }
+    ],
+    "location": "Isafdar, Prifddinas",
+    "name": "Islwyn"
   },
   {
     "buyMultiplier": "500",
@@ -29886,6 +29917,21 @@
     ],
     "location": "Clan Hall",
     "name": "Raqueel"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "n/a",
+        "currency": "Coins",
+        "name": "Ring of visibility",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "South of Baxtorian Falls",
+    "name": "Rasolo"
   },
   {
     "buyMultiplier": "50",
