@@ -4024,6 +4024,12 @@
     "group": "Hammer",
     "spawns": [
       {
+        "coords": "1373,2949",
+        "isMembers": true,
+        "location": "Aldarin",
+        "name": "Hammer"
+      },
+      {
         "coords": "3492,3242",
         "isMembers": true,
         "location": "Burgh de Rott - upstairs",
