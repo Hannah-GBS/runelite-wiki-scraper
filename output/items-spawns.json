@@ -39,7 +39,7 @@
       {
         "coords": "1399,3158",
         "isMembers": true,
-        "location": "West of Ralos' Rise (unobtainable)",
+        "location": "West of Ralos' Rise",
         "name": "Air rune"
       },
       {
@@ -310,6 +310,12 @@
         "name": "Beer glass"
       },
       {
+        "coords": "1434,9586",
+        "isMembers": true,
+        "location": "Cam Torum - basement of The Lost Pickaxe",
+        "name": "Beer glass"
+      },
+      {
         "coords": "3404,3165",
         "isMembers": false,
         "location": "Citharede Abbey mine",
@@ -385,7 +391,7 @@
         "coords": "1392,2860",
         "isMembers": true,
         "location": "Stick Your Ore Inn",
-        "name": "Iron bar"
+        "name": "Beer glass"
       }
     ]
   },
@@ -1369,6 +1375,12 @@
   {
     "group": "Broken glass",
     "spawns": [
+      {
+        "coords": "1427,9581",
+        "isMembers": true,
+        "location": "Cam Torum - basement of The Lost Pickaxe",
+        "name": "Broken glass"
+      },
       {
         "coords": "3152,3638",
         "isMembers": true,
