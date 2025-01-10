@@ -24860,16 +24860,6 @@
     "version": null
   },
   {
-    "examineText": "A spear with a leaf-shaped point.",
-    "group": "Leaf-bladed spear (unobtainable item)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 4159,
-    "name": "Leaf-bladed spear",
-    "url": "https://oldschool.runescape.wiki/w/Leaf-bladed_spear_(unobtainable_item)",
-    "version": null
-  },
-  {
     "examineText": "Arrows with a wider than normal tip.",
     "group": "Broad arrows",
     "isMembers": true,
@@ -93711,16 +93701,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - Spin at Flynn's Mace Shop",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - Always walking around the castle grounds",
     "isMembers": false,
     "isTradeable": false,
@@ -93767,6 +93747,16 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Near_the_open_desert_I_reside",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Spin at Flynn's Mace Shop",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
     "version": null
   },
   {
@@ -104902,7 +104892,7 @@
   {
     "examineText": "Once, this was good for holding and hitting things!",
     "group": "Imcando hammer",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 25633,
     "name": "Imcando hammer (broken)",
@@ -126780,7 +126770,7 @@
     "version": "Open"
   },
   {
-    "examineText": "Unlocks the ability to store potions within a seperate area of the bank.",
+    "examineText": "Unlocks the ability to store potions within a separate area of the bank.",
     "group": "Potion storage (interface item)",
     "isMembers": false,
     "isTradeable": false,
