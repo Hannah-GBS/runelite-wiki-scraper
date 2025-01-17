@@ -22814,6 +22814,141 @@
     "name": "Leagues Reward Shop"
   },
   {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Echo ahrim's ornament kit",
+        "sellPrice": "6000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Echo home teleport scroll",
+        "sellPrice": "1000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Echo venator bow ornament kit",
+        "sellPrice": "10000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Echo virtus ornament kit",
+        "sellPrice": "8000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging Echoes Relic Hunter (T1)",
+        "sellPrice": "1000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging Echoes Relic Hunter (T2)",
+        "sellPrice": "5000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging Echoes Relic Hunter (T3)",
+        "sellPrice": "20000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging echoes banner",
+        "sellPrice": "500",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging echoes curtains",
+        "sellPrice": "500",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging echoes death scroll",
+        "sellPrice": "2000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging echoes nexus scroll",
+        "sellPrice": "4000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging echoes npc contact scroll",
+        "sellPrice": "5000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging echoes portal scroll",
+        "sellPrice": "1000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging echoes rug",
+        "sellPrice": "500",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging echoes scrying pool scroll",
+        "sellPrice": "3000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Raging echoes spirit tree scroll",
+        "sellPrice": "6000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle",
+    "name": "Leagues Reward Shop"
+  },
+  {
     "buyMultiplier": "400",
     "isMembers": true,
     "items": [

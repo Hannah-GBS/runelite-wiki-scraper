@@ -1338,7 +1338,7 @@
       {
         "coords": "1522,3247",
         "isMembers": true,
-        "location": "Northeast of Quetzacalli Gorge",
+        "location": "North-east of Quetzacalli Gorge",
         "name": "Broken arrow"
       },
       {
@@ -1635,7 +1635,7 @@
       {
         "coords": "1694,3270",
         "isMembers": true,
-        "location": "Northeast of Twilight Temple",
+        "location": "North-east of Twilight Temple",
         "name": "Bronze chainbody"
       }
     ]
@@ -2313,7 +2313,7 @@
         "name": "Burnt bones"
       },
       {
-        "coords": "?",
+        "coords": "2489,5985",
         "isMembers": true,
         "location": "Hallowed Sepulchre - floor 2",
         "name": "Burnt bones"
@@ -2923,6 +2923,12 @@
         "coords": "2856,9645",
         "isMembers": false,
         "location": "Crandor and Karamja Dungeon",
+        "name": "Coins"
+      },
+      {
+        "coords": "3003,9801",
+        "isMembers": false,
+        "location": "Dwarven Mine",
         "name": "Coins"
       },
       {
@@ -6852,7 +6858,7 @@
       {
         "coords": "1686,3459",
         "isMembers": true,
-        "location": "Kourend - all around the southeast coast",
+        "location": "Kourend - all around the south-east coast",
         "name": "Seaweed"
       },
       {
