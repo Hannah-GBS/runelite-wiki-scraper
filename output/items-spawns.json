@@ -1185,12 +1185,6 @@
         "isMembers": true,
         "location": "Isle of Souls - near spinning wheel (telegrab) \nNote: Ironmen cannot loot it.",
         "name": "Box trap"
-      },
-      {
-        "coords": "1505,3436",
-        "isMembers": true,
-        "location": "Land's End - inside a searchable crate",
-        "name": "Box trap"
       }
     ]
   },
@@ -2430,17 +2424,6 @@
         "isMembers": true,
         "location": "Slepe - north-east of Crombwick Manor",
         "name": "Burnt shrimp"
-      }
-    ]
-  },
-  {
-    "group": "Butterfly net",
-    "spawns": [
-      {
-        "coords": "1500, 3423",
-        "isMembers": true,
-        "location": "Land's End - Crate",
-        "name": "Butterfly net"
       }
     ]
   },
@@ -8216,6 +8199,12 @@
         "coords": "2930,3515",
         "isMembers": false,
         "location": "Asgarnia - Chaos Temple",
+        "name": "Wine of zamorak"
+      },
+      {
+        "coords": "2938,3517",
+        "isMembers": false,
+        "location": "Asgarnia - Chaos Temple (1st floor)",
         "name": "Wine of zamorak"
       },
       {

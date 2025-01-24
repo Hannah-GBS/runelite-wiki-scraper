@@ -3186,6 +3186,159 @@
       },
       {
         "currency": "Coins",
+        "name": "Battlestaff",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Blood rune",
+        "stock": "250",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Body rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chaos rune",
+        "stock": "250",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chaos rune pack",
+        "stock": "35",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Death rune",
+        "stock": "250",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Earth rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Earth rune pack",
+        "stock": "80",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fire rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fire rune pack",
+        "stock": "80",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Law rune",
+        "stock": "250",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mind rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mind rune pack",
+        "stock": "40",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Moonclan manual",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Nature rune",
+        "stock": "250",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Soul rune",
+        "stock": "250",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Staff of air",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Staff of earth",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Staff of fire",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Staff of water",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Water rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Water rune pack",
+        "stock": "80",
+        "version": null
+      }
+    ],
+    "location": "Lunar Isle",
+    "name": "Baba Yaga's Magic Shop.",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "550",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Air rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Air rune pack",
+        "stock": "80",
+        "version": null
+      },
+      {
+        "currency": "Coins",
         "name": "Astral rune",
         "stock": "250",
         "version": null
@@ -3330,7 +3483,7 @@
       }
     ],
     "location": "Lunar Isle",
-    "name": "Baba Yaga's Magic Shop.",
+    "name": "Baba Yaga's Magic Shop. (post-quest)",
     "sellMultiplier": "1000"
   },
   {
@@ -17378,23 +17531,6 @@
     "sellMultiplier": "2000"
   },
   {
-    "buyMultiplier": "100",
-    "isMembers": true,
-    "items": [
-      {
-        "buyPrice": "0",
-        "currency": "Coins",
-        "name": "Blood talisman",
-        "sellPrice": "8",
-        "stock": "1",
-        "version": null
-      }
-    ],
-    "location": "Canifis",
-    "name": "General Store (Canifis) Leagues only",
-    "sellMultiplier": "2000"
-  },
-  {
     "buyMultiplier": "700",
     "isMembers": false,
     "items": [
@@ -24739,33 +24875,6 @@
     ],
     "location": "Lumbridge",
     "name": "Lumbridge General Store",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "isMembers": false,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Box trap",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Fishing bait",
-        "stock": "1000",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pestle and mortar",
-        "stock": "10",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge",
-    "name": "Lumbridge General Store (Raging Echoes League)",
     "sellMultiplier": "1300"
   },
   {
@@ -35622,21 +35731,6 @@
     ],
     "location": "",
     "name": "Trader Stan's Trading Post",
-    "sellMultiplier": "2500"
-  },
-  {
-    "buyMultiplier": "150",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Hunters' crossbow",
-        "stock": "5",
-        "version": null
-      }
-    ],
-    "location": "",
-    "name": "Trader Stan's Trading Post Only in Leagues at [[Sunset Coast]]",
     "sellMultiplier": "2500"
   },
   {

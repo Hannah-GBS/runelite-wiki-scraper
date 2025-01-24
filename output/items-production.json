@@ -9017,30 +9017,6 @@
     "ticks": "4"
   },
   {
-    "facilities": "Cooking range",
-    "materials": [
-      {
-        "name": "Big bass",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bass.png|link=Bass]]",
-      "name": "Bass",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "130",
-        "level": "43",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "4"
-  },
-  {
     "materials": [
       {
         "name": "Cadantine blood potion (unf)",
@@ -10901,6 +10877,24 @@
     "tools": "Pestle and mortar"
   },
   {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -10916,7 +10910,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">162,387,766</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">160,572,402</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10934,24 +10928,6 @@
       }
     ],
     "ticks": "5"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -10988,42 +10964,6 @@
       }
     ],
     "ticks": "3"
-  },
-  {
-    "facilities": "Singing bowl",
-    "materials": [
-      {
-        "name": "Enhanced crystal weapon seed",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "1000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
-      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
-      "name": "Blade of saeldor (c)",
-      "quantity": "1",
-      "subtxt": "Full process"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "8"
   },
   {
     "materials": [
@@ -11171,6 +11111,42 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Enhanced crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
+      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1",
+      "subtxt": "Full process"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "8"
   },
   {
     "materials": [
@@ -15751,7 +15727,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">162,394,055</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">160,031,714</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -37997,6 +37973,26 @@
     "output": {
       "image": "[[File:Echo ahrim's robetop.png|link=Echo ahrim's robetop]]",
       "name": "Echo ahrim's robetop",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ahrim's staff",
+        "quantity": "1"
+      },
+      {
+        "name": "Echo ahrim's ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Echo ahrim's staff.png|link=Echo ahrim's staff]]",
+      "name": "Echo ahrim's staff",
       "quantity": "1"
     },
     "skills": [],
@@ -79978,30 +79974,6 @@
     "ticks": "4"
   },
   {
-    "facilities": "Cooking range",
-    "materials": [
-      {
-        "name": "Big shark",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Shark.png|link=Shark]]",
-      "name": "Shark",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "210",
-        "level": "80",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "4"
-  },
-  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -90810,30 +90782,6 @@
     "facilities": "Cooking range",
     "materials": [
       {
-        "name": "Big swordfish",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Swordfish.png|link=Swordfish]]",
-      "name": "Swordfish",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "140",
-        "level": "45",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "4"
-  },
-  {
-    "facilities": "Cooking range",
-    "materials": [
-      {
         "name": "Half made bowl (tangled toad's legs)",
         "quantity": "1"
       }
@@ -96473,7 +96421,26 @@
     "output": {
       "image": "[[File:Water-filled vial.png|link=Water-filled vial]]",
       "name": "Water-filled vial",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "The Gauntlet"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Water Pump (The Corrupted Gauntlet)",
+    "materials": [
+      {
+        "name": "Vial (The Gauntlet)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Water-filled vial.png|link=Water-filled vial]]",
+      "name": "Water-filled vial",
+      "quantity": "1",
+      "subtxt": "The Corrupted Gauntlet"
     },
     "skills": [],
     "ticks": "1"
