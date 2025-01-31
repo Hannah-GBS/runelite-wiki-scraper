@@ -16731,22 +16731,22 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (medium, map 2)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2829,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium,_map_2)",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (medium) - To the east of the Ranging guild",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 2829,
     "name": "Clue scroll (medium)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_To_the_east_of_the_Ranging_guild",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium, map 2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 2829,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium,_map_2)",
     "version": null
   },
   {
@@ -93641,16 +93641,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - RUG DETER",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - Blow a raspberry at Aris in her tent",
     "isMembers": false,
     "isTradeable": false,
@@ -93687,16 +93677,6 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Clap_at_Bob%27s_Brilliant_Axes",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - Panic at Al Kharid mine",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Panic_at_Al_Kharid_mine",
     "version": null
   },
   {
@@ -93741,12 +93721,22 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - Near the open desert I reside",
+    "group": "Clue scroll (beginner) - RUG DETER",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Near_the_open_desert_I_reside",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Panic at Al Kharid mine",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Panic_at_Al_Kharid_mine",
     "version": null
   },
   {
@@ -93757,6 +93747,16 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Near the open desert I reside",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Near_the_open_desert_I_reside",
     "version": null
   },
   {
@@ -129218,5 +129218,205 @@
     "name": "Echo ahrim's staff 0",
     "url": "https://oldschool.runescape.wiki/w/Echo_ahrim%27s_staff",
     "version": "0"
+  },
+  {
+    "examineText": "A record of rewards and loot obtained all throughout Gielinor.",
+    "group": "Collection log (bronze)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30579,
+    "name": "Collection log",
+    "url": "https://oldschool.runescape.wiki/w/Collection_log_(bronze)",
+    "version": null
+  },
+  {
+    "examineText": "A record of rewards and loot obtained all throughout Gielinor.",
+    "group": "Collection log (iron)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30581,
+    "name": "Collection log",
+    "url": "https://oldschool.runescape.wiki/w/Collection_log_(iron)",
+    "version": null
+  },
+  {
+    "examineText": "A record of rewards and loot obtained all throughout Gielinor.",
+    "group": "Collection log (steel)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30583,
+    "name": "Collection log",
+    "url": "https://oldschool.runescape.wiki/w/Collection_log_(steel)",
+    "version": null
+  },
+  {
+    "examineText": "A record of rewards and loot obtained all throughout Gielinor.",
+    "group": "Collection log (black)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30585,
+    "name": "Collection log",
+    "url": "https://oldschool.runescape.wiki/w/Collection_log_(black)",
+    "version": null
+  },
+  {
+    "examineText": "A record of rewards and loot obtained all throughout Gielinor.",
+    "group": "Collection log (mithril)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30587,
+    "name": "Collection log",
+    "url": "https://oldschool.runescape.wiki/w/Collection_log_(mithril)",
+    "version": null
+  },
+  {
+    "examineText": "A record of rewards and loot obtained all throughout Gielinor.",
+    "group": "Collection log (adamant)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30589,
+    "name": "Collection log",
+    "url": "https://oldschool.runescape.wiki/w/Collection_log_(adamant)",
+    "version": null
+  },
+  {
+    "examineText": "A record of rewards and loot obtained all throughout Gielinor.",
+    "group": "Collection log (rune)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30591,
+    "name": "Collection log",
+    "url": "https://oldschool.runescape.wiki/w/Collection_log_(rune)",
+    "version": null
+  },
+  {
+    "examineText": "A record of rewards and loot obtained all throughout Gielinor.",
+    "group": "Collection log (dragon)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30593,
+    "name": "Collection log",
+    "url": "https://oldschool.runescape.wiki/w/Collection_log_(dragon)",
+    "version": null
+  },
+  {
+    "examineText": "A record of rewards and loot obtained all throughout Gielinor.",
+    "group": "Collection log (gilded)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30595,
+    "name": "Collection log",
+    "url": "https://oldschool.runescape.wiki/w/Collection_log_(gilded)",
+    "version": null
+  },
+  {
+    "examineText": "A staff of collection, bronze tier.",
+    "group": "Bronze staff of collection",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30597,
+    "name": "Bronze staff of collection",
+    "url": "https://oldschool.runescape.wiki/w/Bronze_staff_of_collection",
+    "version": null
+  },
+  {
+    "examineText": "A staff of collection, iron tier.",
+    "group": "Iron staff of collection",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30599,
+    "name": "Iron staff of collection",
+    "url": "https://oldschool.runescape.wiki/w/Iron_staff_of_collection",
+    "version": null
+  },
+  {
+    "examineText": "A staff of collection, steel tier.",
+    "group": "Steel staff of collection",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30601,
+    "name": "Steel staff of collection",
+    "url": "https://oldschool.runescape.wiki/w/Steel_staff_of_collection",
+    "version": null
+  },
+  {
+    "examineText": "A staff of collection, black tier.",
+    "group": "Black staff of collection",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30603,
+    "name": "Black staff of collection",
+    "url": "https://oldschool.runescape.wiki/w/Black_staff_of_collection",
+    "version": null
+  },
+  {
+    "examineText": "A staff of collection, mithril tier.",
+    "group": "Mithril staff of collection",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30605,
+    "name": "Mithril staff of collection",
+    "url": "https://oldschool.runescape.wiki/w/Mithril_staff_of_collection",
+    "version": null
+  },
+  {
+    "examineText": "A staff of collection, adamant tier.",
+    "group": "Adamant staff of collection",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30607,
+    "name": "Adamant staff of collection",
+    "url": "https://oldschool.runescape.wiki/w/Adamant_staff_of_collection",
+    "version": null
+  },
+  {
+    "examineText": "A staff of collection, rune tier.",
+    "group": "Rune staff of collection",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30609,
+    "name": "Rune staff of collection",
+    "url": "https://oldschool.runescape.wiki/w/Rune_staff_of_collection",
+    "version": null
+  },
+  {
+    "examineText": "A staff of collection, dragon tier.",
+    "group": "Dragon staff of collection",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30611,
+    "name": "Dragon staff of collection",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_staff_of_collection",
+    "version": null
+  },
+  {
+    "examineText": "A staff of collection, gilded tier.",
+    "group": "Gilded staff of collection",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30613,
+    "name": "Gilded staff of collection",
+    "url": "https://oldschool.runescape.wiki/w/Gilded_staff_of_collection",
+    "version": null
+  },
+  {
+    "examineText": "A crate full of supplies.",
+    "group": "Bounty supply crate (manta ray)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30616,
+    "name": "Bounty supply crate (manta ray)",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_supply_crate_(manta_ray)",
+    "version": null
+  },
+  {
+    "examineText": "A crate full of supplies.",
+    "group": "Bounty supply crate (anglerfish)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30619,
+    "name": "Bounty supply crate (anglerfish)",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_supply_crate_(anglerfish)",
+    "version": null
   }
 ]
