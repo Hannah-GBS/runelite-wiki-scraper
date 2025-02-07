@@ -707,6 +707,12 @@
     "group": "Bones",
     "spawns": [
       {
+        "coords": "2776,3781",
+        "isMembers": true,
+        "location": "Base of Trollweiss Mountain",
+        "name": "Bones"
+      },
+      {
         "coords": "2653,9421",
         "isMembers": true,
         "location": "Brimhaven Dungeon (task-only area)",
@@ -3915,6 +3921,17 @@
     ]
   },
   {
+    "group": "Grail bell",
+    "spawns": [
+      {
+        "coords": "2762,4694",
+        "isMembers": true,
+        "location": "In front of the castle entrance ruins - Dilapidated Fisher Realm",
+        "name": "Grail bell"
+      }
+    ]
+  },
+  {
     "group": "Grain",
     "spawns": [
       {
@@ -4445,6 +4462,17 @@
         "isMembers": true,
         "location": "Mynydd summit",
         "name": "Iron knife"
+      }
+    ]
+  },
+  {
+    "group": "Iron longsword",
+    "spawns": [
+      {
+        "coords": "2976,9555",
+        "isMembers": false,
+        "location": "Asgarnian Ice Cave, near the shortcut",
+        "name": "Iron longsword"
       }
     ]
   },

@@ -15251,8 +15251,24 @@
       {
         "buyPrice": "N/A",
         "currency": "Anima-infused bark",
+        "name": "Fox whistle",
+        "sellPrice": "75000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
         "name": "Funky shaped log",
         "sellPrice": "15000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Anima-infused bark",
+        "name": "Golden pheasant egg",
+        "sellPrice": "75000",
         "stock": "inf",
         "version": null
       },
