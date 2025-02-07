@@ -16731,22 +16731,22 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (medium) - To the east of the Ranging guild",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2829,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_To_the_east_of_the_Ranging_guild",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (medium, map 2)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 2829,
     "name": "Clue scroll (medium)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium,_map_2)",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - To the east of the Ranging guild",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 2829,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_To_the_east_of_the_Ranging_guild",
     "version": null
   },
   {
@@ -21507,16 +21507,6 @@
     "itemID": 3550,
     "name": "Clue scroll (hard)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_05.35S_26.30E",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (master) - 05.35S 26.30E",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 3550,
-    "name": "Clue scroll (master)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(master)_-_05.35S_26.30E",
     "version": null
   },
   {
@@ -60005,7 +59995,7 @@
     "isMembers": true,
     "isTradeable": false,
     "itemID": 10860,
-    "name": "Tea flask",
+    "name": "{{Null name}}",
     "url": "https://oldschool.runescape.wiki/w/Tea_flask_(animation_item)",
     "version": "1"
   },
@@ -60015,7 +60005,7 @@
     "isMembers": true,
     "isTradeable": false,
     "itemID": 10861,
-    "name": "Tea flask",
+    "name": "{{Null name}}",
     "url": "https://oldschool.runescape.wiki/w/Tea_flask_(animation_item)",
     "version": "2"
   },
@@ -93701,16 +93691,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - In the place Duke Horacio calls home",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_the_place_Duke_Horacio_calls_home",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - In a village of barbarians",
     "isMembers": false,
     "isTradeable": false,
@@ -93747,6 +93727,16 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - In the place Duke Horacio calls home",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_the_place_Duke_Horacio_calls_home",
     "version": null
   },
   {
@@ -121491,12 +121481,12 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (hard) - A J P 3 0 1 5",
+    "group": "Clue scroll (hard) - AJP3015",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28915,
     "name": "Clue scroll (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_A_J_P_3_0_1_5",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_AJP3015",
     "version": null
   },
   {
@@ -129417,6 +129407,106 @@
     "itemID": 30619,
     "name": "Bounty supply crate (anglerfish)",
     "url": "https://oldschool.runescape.wiki/w/Bounty_supply_crate_(anglerfish)",
+    "version": null
+  },
+  {
+    "examineText": "Might have a short temper.",
+    "group": "Bran",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30622,
+    "name": "Bran",
+    "url": "https://oldschool.runescape.wiki/w/Bran",
+    "version": "Bran"
+  },
+  {
+    "examineText": "Looks like a chill guy.",
+    "group": "Bran",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30624,
+    "name": "Ric",
+    "url": "https://oldschool.runescape.wiki/w/Bran",
+    "version": "Ric"
+  },
+  {
+    "examineText": "Scrawled words that can invoke the power of the gods.",
+    "group": "Deadeye prayer scroll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30626,
+    "name": "Deadeye prayer scroll",
+    "url": "https://oldschool.runescape.wiki/w/Deadeye_prayer_scroll",
+    "version": null
+  },
+  {
+    "examineText": "Scrawled words that can invoke the power of the gods.",
+    "group": "Mystic vigour prayer scroll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30627,
+    "name": "Mystic vigour prayer scroll",
+    "url": "https://oldschool.runescape.wiki/w/Mystic_vigour_prayer_scroll",
+    "version": null
+  },
+  {
+    "examineText": "A missing piece from a magical staff.",
+    "group": "Ice element staff crown",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30628,
+    "name": "Ice element staff crown",
+    "url": "https://oldschool.runescape.wiki/w/Ice_element_staff_crown",
+    "version": null
+  },
+  {
+    "examineText": "A missing piece from a magical staff.",
+    "group": "Fire element staff crown",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30631,
+    "name": "Fire element staff crown",
+    "url": "https://oldschool.runescape.wiki/w/Fire_element_staff_crown",
+    "version": null
+  },
+  {
+    "examineText": "A magical staff imbued with the power of ice and fire.",
+    "group": "Twinflame staff",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30634,
+    "name": "Twinflame staff",
+    "url": "https://oldschool.runescape.wiki/w/Twinflame_staff",
+    "version": null
+  },
+  {
+    "examineText": "An enchanted amulet.",
+    "group": "Giantsoul amulet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30637,
+    "name": "Giantsoul amulet (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Giantsoul_amulet",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "An enchanted amulet.",
+    "group": "Giantsoul amulet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30638,
+    "name": "Giantsoul amulet",
+    "url": "https://oldschool.runescape.wiki/w/Giantsoul_amulet",
+    "version": "Charged"
+  },
+  {
+    "examineText": "It seems to lack any elemental substance.",
+    "group": "Desiccated page",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30640,
+    "name": "Desiccated page",
+    "url": "https://oldschool.runescape.wiki/w/Desiccated_page",
     "version": null
   }
 ]
