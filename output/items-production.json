@@ -10905,7 +10905,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">167,214,966</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">159,288,621</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15780,7 +15780,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">160,468,170</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">161,809,093</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -26078,6 +26078,57 @@
     "tools": "Pestle and mortar"
   },
   {
+    "facilities": "Pennant",
+    "materials": [
+      {
+        "name": "Crystal weapon seed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal acorn 1.png|link=Crystal acorn]]",
+      "name": "Crystal acorn",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Pennant",
+    "materials": [
+      {
+        "name": "Crystal armour seed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal acorn 1.png|link=Crystal acorn]]",
+      "name": "Crystal acorn",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Pennant",
+    "materials": [
+      {
+        "name": "Crystal tool seed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal acorn 1.png|link=Crystal acorn]]",
+      "name": "Crystal acorn",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -31922,6 +31973,91 @@
     ],
     "ticks": "0",
     "tools": "Watering can"
+  },
+  {
+    "facilities": "Amrod",
+    "materials": [
+      {
+        "name": "Crystal weapon seed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal shards.png|link=Crystal shards]]",
+      "name": "Crystal shards",
+      "quantity": "10"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Amrod",
+    "materials": [
+      {
+        "name": "Crystal tool seed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal shards.png|link=Crystal shards]]",
+      "name": "Crystal shards",
+      "quantity": "100"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Amrod",
+    "materials": [
+      {
+        "name": "Enhanced crystal teleport seed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal shards.png|link=Crystal shards]]",
+      "name": "Crystal shards",
+      "quantity": "150"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Amrod",
+    "materials": [
+      {
+        "name": "Crystal armour seed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal shards.png|link=Crystal shards]]",
+      "name": "Crystal shards",
+      "quantity": "250"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Amrod",
+    "materials": [
+      {
+        "name": "Enhanced crystal weapon seed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal shards.png|link=Crystal shards]]",
+      "name": "Crystal shards",
+      "quantity": "1500"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -55520,7 +55656,7 @@
       },
       {
         "name": "Fire rune",
-        "quantity": "1"
+        "quantity": "4"
       }
     ],
     "members": "Yes",
