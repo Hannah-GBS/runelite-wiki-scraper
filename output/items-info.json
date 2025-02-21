@@ -65607,7 +65607,7 @@
     "itemID": 11916,
     "name": "Slice of birthday cake",
     "url": "https://oldschool.runescape.wiki/w/Slice_of_birthday_cake",
-    "version": "2024"
+    "version": "2025"
   },
   {
     "examineText": "A present to the community from Mods Archie, Ash, Ayiza, Curse, Ed, Ghost, Jed, John C, Kieren, Mat K, Maz, Roq, Ry, Stone, Sween, TomH, Weath, West & Wolf.",
@@ -93691,16 +93691,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - In a village of barbarians",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_a_village_of_barbarians",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - RUG DETER",
     "isMembers": false,
     "isTradeable": false,
@@ -93737,6 +93727,16 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_the_place_Duke_Horacio_calls_home",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - In a village of barbarians",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_a_village_of_barbarians",
     "version": null
   },
   {
@@ -125850,7 +125850,7 @@
     "version": null
   },
   {
-    "examineText": "The helm of the Blue Moon.",
+    "examineText": "A magical staff of ancient origin...",
     "group": "Blue moon spear (Last Man Standing)",
     "isMembers": true,
     "isTradeable": false,
@@ -129517,6 +129517,26 @@
     "itemID": 30644,
     "name": "Hunters' loot sack (supplies)",
     "url": "https://oldschool.runescape.wiki/w/Hunters%27_loot_sack_(supplies)",
+    "version": null
+  },
+  {
+    "examineText": "Impishly impressive.",
+    "group": "Classic imp tail",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30646,
+    "name": "Classic imp tail",
+    "url": "https://oldschool.runescape.wiki/w/Classic_imp_tail",
+    "version": null
+  },
+  {
+    "examineText": "Impishly iconic.",
+    "group": "Classic imp hood",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30648,
+    "name": "Classic imp hood",
+    "url": "https://oldschool.runescape.wiki/w/Classic_imp_hood",
     "version": null
   }
 ]
