@@ -10887,7 +10887,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">152,687,552</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">147,568,208</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15780,7 +15780,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">154,237,652</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">148,040,376</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -23181,12 +23181,46 @@
     "output": {
       "image": "[[File:Chromium ingot.png|link=Chromium ingot]]",
       "name": "Chromium ingot",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Chromium ingot (first time)"
     },
     "skills": [
       {
         "boostable": "Yes",
         "experience": "35000",
+        "level": "85",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "facilities": "Blast Furnace Foreman",
+    "materials": [
+      {
+        "name": "Adamantite ore",
+        "quantity": "40"
+      },
+      {
+        "name": "Runite ore",
+        "quantity": "40"
+      },
+      {
+        "name": "Coins",
+        "quantity": "170000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Chromium ingot.png|link=Chromium ingot]]",
+      "name": "Chromium ingot",
+      "quantity": "1",
+      "subtxt": "Chromium ingot (first time)"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
         "level": "85",
         "name": "Smithing"
       }
@@ -39227,12 +39261,43 @@
     "output": {
       "image": "[[File:Emberlight.png|link=Emberlight]]",
       "name": "Emberlight",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Emberlight (first time)"
     },
     "skills": [
       {
         "boostable": "Yes",
         "experience": "730",
+        "level": "74",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Tormented synapse",
+        "quantity": "1"
+      },
+      {
+        "name": "Arclight",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Emberlight.png|link=Emberlight]]",
+      "name": "Emberlight",
+      "quantity": "1",
+      "subtxt": "Emberlight (subsequent times)"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "73",
         "level": "74",
         "name": "Smithing"
       }
@@ -70930,7 +70995,48 @@
     "output": {
       "image": "[[File:Purging staff.png|link=Purging staff]]",
       "name": "Purging staff",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Purging staff (first time)"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "730",
+        "level": "74",
+        "name": "Crafting"
+      },
+      {
+        "boostable": "No",
+        "experience": "13",
+        "level": "55",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "7",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Tormented synapse",
+        "quantity": "1"
+      },
+      {
+        "name": "Iron bar",
+        "quantity": "1"
+      },
+      {
+        "name": "Battlestaff",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Purging staff.png|link=Purging staff]]",
+      "name": "Purging staff",
+      "quantity": "1",
+      "subtxt": "Purging staff (subsequent times)"
     },
     "skills": [
       {
@@ -79416,7 +79522,36 @@
     "output": {
       "image": "[[File:Scorching bow.png|link=Scorching bow]]",
       "name": "Scorching bow",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Scorching bow (first time)"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "730",
+        "level": "74",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "6"
+  },
+  {
+    "materials": [
+      {
+        "name": "Tormented synapse",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic longbow (u)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Scorching bow.png|link=Scorching bow]]",
+      "name": "Scorching bow",
+      "quantity": "1",
+      "subtxt": "Scorching bow (subsequent times)"
     },
     "skills": [
       {
@@ -99798,44 +99933,6 @@
     },
     "skills": [],
     "ticks": "6"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bagged nice tree",
-        "quantity": "1"
-      },
-      {
-        "name": "Pink dye",
-        "quantity": "1"
-      },
-      {
-        "name": "Bucket of sand",
-        "quantity": "6"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Zen theme icon.png|link=Zen theme]]",
-      "name": "Zen theme",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "474",
-        "level": "65",
-        "name": "Construction"
-      },
-      {
-        "boostable": "",
-        "experience": "474",
-        "level": "1",
-        "name": "Farming"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Watering can"
   },
   {
     "materials": [

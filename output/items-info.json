@@ -93691,16 +93691,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - In a village of barbarians",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_a_village_of_barbarians",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - RUG DETER",
     "isMembers": false,
     "isTradeable": false,
@@ -93737,6 +93727,16 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_the_place_Duke_Horacio_calls_home",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - In a village of barbarians",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_a_village_of_barbarians",
     "version": null
   },
   {
@@ -115227,7 +115227,7 @@
     "itemID": 27650,
     "name": "Vet'ion jr.",
     "url": "https://oldschool.runescape.wiki/w/Vet%27ion_jr.",
-    "version": "Normal (legacy)"
+    "version": "Normal Legacy"
   },
   {
     "examineText": "Only the true lord & king of the lands can lift his burden.",
@@ -115237,7 +115237,7 @@
     "itemID": 27651,
     "name": "Vet'ion jr.",
     "url": "https://oldschool.runescape.wiki/w/Vet%27ion_jr.",
-    "version": "Reborn (legacy)"
+    "version": "Reborn Legacy"
   },
   {
     "examineText": "A bow of a follower of Armadyl, corrupted by the power of Venenatis.",
@@ -129537,6 +129537,56 @@
     "itemID": 30648,
     "name": "Classic imp hood",
     "url": "https://oldschool.runescape.wiki/w/Classic_imp_hood",
+    "version": null
+  },
+  {
+    "examineText": "A magical, helpful charm.",
+    "group": "Nimbleness charm",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30676,
+    "name": "Nimbleness charm",
+    "url": "https://oldschool.runescape.wiki/w/Nimbleness_charm",
+    "version": null
+  },
+  {
+    "examineText": "A magical, helpful charm.",
+    "group": "Stockpiling charm",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30679,
+    "name": "Stockpiling charm",
+    "url": "https://oldschool.runescape.wiki/w/Stockpiling_charm",
+    "version": null
+  },
+  {
+    "examineText": "A magical, helpful charm.",
+    "group": "Accumulation charm",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30682,
+    "name": "Accumulation charm",
+    "url": "https://oldschool.runescape.wiki/w/Accumulation_charm",
+    "version": null
+  },
+  {
+    "examineText": "A magical, helpful charm.",
+    "group": "Vulnerability charm",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30685,
+    "name": "Vulnerability charm",
+    "url": "https://oldschool.runescape.wiki/w/Vulnerability_charm",
+    "version": null
+  },
+  {
+    "examineText": "Looks like this used to be useful.",
+    "group": "Broken charm",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30688,
+    "name": "Broken charm",
+    "url": "https://oldschool.runescape.wiki/w/Broken_charm",
     "version": null
   }
 ]
