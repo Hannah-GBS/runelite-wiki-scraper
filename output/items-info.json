@@ -6027,7 +6027,7 @@
     "itemID": 956,
     "name": "Flyer",
     "url": "https://oldschool.runescape.wiki/w/Flyer",
-    "version": "Regular"
+    "version": null
   },
   {
     "examineText": "This would make warm clothing.",
@@ -13630,7 +13630,7 @@
     "version": null
   },
   {
-    "examineText": "A thick green palm leaf used by natives to cook meat in.",
+    "examineText": "A thick green palm leaf.",
     "group": "Palm leaf",
     "isMembers": true,
     "isTradeable": false,
@@ -53911,12 +53911,12 @@
   },
   {
     "examineText": "A violet pentagon-shaped crystalline disc.",
-    "group": "A violet pentagon",
+    "group": "Violet pentagon",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 9624,
     "name": "Violet pentagon",
-    "url": "https://oldschool.runescape.wiki/w/A_violet_pentagon",
+    "url": "https://oldschool.runescape.wiki/w/Violet_pentagon",
     "version": null
   },
   {
@@ -96001,13 +96001,13 @@
   },
   {
     "examineText": "Get your maces from Iwan's Maces.",
-    "group": "Flyer",
-    "isMembers": false,
+    "group": "Iwan's flyer",
+    "isMembers": true,
     "isTradeable": true,
     "itemID": 23670,
-    "name": "Flyer",
-    "url": "https://oldschool.runescape.wiki/w/Flyer",
-    "version": "The Gauntlet"
+    "name": "Iwan's flyer",
+    "url": "https://oldschool.runescape.wiki/w/Iwan%27s_flyer",
+    "version": null
   },
   {
     "examineText": "A very powerful axe.",
@@ -129587,6 +129587,26 @@
     "itemID": 30688,
     "name": "Broken charm",
     "url": "https://oldschool.runescape.wiki/w/Broken_charm",
+    "version": null
+  },
+  {
+    "examineText": "Looks like this used to be useful.",
+    "group": "Trinket dust",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30689,
+    "name": "Trinket dust",
+    "url": "https://oldschool.runescape.wiki/w/Trinket_dust",
+    "version": null
+  },
+  {
+    "examineText": "Looks like it's gotten through a lot of wood.",
+    "group": "Beaver (larch)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31198,
+    "name": "Beaver",
+    "url": "https://oldschool.runescape.wiki/w/Beaver_(larch)",
     "version": null
   }
 ]
