@@ -8530,6 +8530,16 @@
     "version": null
   },
   {
+    "examineText": "Nothing like it to keep your crops free of weeds.",
+    "group": "Auto-weed (interface item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 1459,
+    "name": "Auto-weed",
+    "url": "https://oldschool.runescape.wiki/w/Auto-weed_(interface_item)",
+    "version": "Not yet unlocked"
+  },
+  {
     "examineText": "Pocketsized so it's handy when you're roving in the woods!",
     "group": "Rotten net",
     "isMembers": false,
@@ -24311,23 +24321,23 @@
   },
   {
     "examineText": "The colours of Saradomin.",
-    "group": "Hooded cloak",
+    "group": "Saradomin cloak (Castle Wars)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 4041,
-    "name": "Hooded cloak",
-    "url": "https://oldschool.runescape.wiki/w/Hooded_cloak",
-    "version": "Saradomin"
+    "name": "Saradomin cloak",
+    "url": "https://oldschool.runescape.wiki/w/Saradomin_cloak_(Castle_Wars)",
+    "version": null
   },
   {
     "examineText": "The colours of Zamorak.",
-    "group": "Hooded cloak",
+    "group": "Zamorak cloak (Castle Wars)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 4042,
-    "name": "Hooded cloak",
-    "url": "https://oldschool.runescape.wiki/w/Hooded_cloak",
-    "version": "Zamorak"
+    "name": "Zamorak cloak",
+    "url": "https://oldschool.runescape.wiki/w/Zamorak_cloak_(Castle_Wars)",
+    "version": null
   },
   {
     "examineText": "I can use this with the catapult.",
@@ -32980,6 +32990,16 @@
     "version": null
   },
   {
+    "examineText": "Nothing like it to keep your crops free of weeds.",
+    "group": "Auto-weed (interface item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 5546,
+    "name": "Auto-weed (deactivated)",
+    "url": "https://oldschool.runescape.wiki/w/Auto-weed_(interface_item)",
+    "version": "Deactivated"
+  },
+  {
     "examineText": "This tiara has decayed and is useless.",
     "group": "Broken tiara",
     "isMembers": true,
@@ -33008,6 +33028,26 @@
     "name": "Blood tiara",
     "url": "https://oldschool.runescape.wiki/w/Blood_tiara",
     "version": null
+  },
+  {
+    "examineText": "Contains far more water than should fit in such a small can.",
+    "group": "Gricoller's can (refill)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 5551,
+    "name": "Gricoller's can (refill)",
+    "url": "https://oldschool.runescape.wiki/w/Gricoller%27s_can_(refill)",
+    "version": null
+  },
+  {
+    "examineText": "Nothing like it to keep your crops free of weeds.",
+    "group": "Auto-weed (interface item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 5552,
+    "name": "Auto-weed (activated)",
+    "url": "https://oldschool.runescape.wiki/w/Auto-weed_(interface_item)",
+    "version": "Activated"
   },
   {
     "examineText": "Black banded leather armour, a rogue's dream!",
@@ -93631,16 +93671,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - RUG DETER",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - Blow a raspberry at Aris in her tent",
     "isMembers": false,
     "isTradeable": false,
@@ -93737,6 +93767,16 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Near_the_open_desert_I_reside",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - RUG DETER",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
     "version": null
   },
   {
@@ -128430,96 +128470,6 @@
     "version": "Trailblazer Reloaded"
   },
   {
-    "examineText": "Crystallised, infernal fire swirls within it...",
-    "group": "Asgarnia echo orb",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30393,
-    "name": "Asgarnia echo orb",
-    "url": "https://oldschool.runescape.wiki/w/Asgarnia_echo_orb",
-    "version": null
-  },
-  {
-    "examineText": "Crystallised, queenly rage swirls within it...",
-    "group": "Desert echo orb",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30394,
-    "name": "Desert echo orb",
-    "url": "https://oldschool.runescape.wiki/w/Desert_echo_orb",
-    "version": null
-  },
-  {
-    "examineText": "Crystallised, queenly rage swirls within it...",
-    "group": "Fremennik echo orb",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30395,
-    "name": "Fremennik echo orb",
-    "url": "https://oldschool.runescape.wiki/w/Fremennik_echo_orb",
-    "version": null
-  },
-  {
-    "examineText": "Crystallised, explosive rage swirls within it...",
-    "group": "Kandarin echo orb",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30396,
-    "name": "Kandarin echo orb",
-    "url": "https://oldschool.runescape.wiki/w/Kandarin_echo_orb",
-    "version": null
-  },
-  {
-    "examineText": "Crystallised, stonebound rage swirls within it...",
-    "group": "Morytania echo orb",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30397,
-    "name": "Morytania echo orb",
-    "url": "https://oldschool.runescape.wiki/w/Morytania_echo_orb",
-    "version": null
-  },
-  {
-    "examineText": "Crystallised, bestial rage swirls within it...",
-    "group": "Tirannwn echo orb",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30398,
-    "name": "Tirannwn echo orb",
-    "url": "https://oldschool.runescape.wiki/w/Tirannwn_echo_orb",
-    "version": null
-  },
-  {
-    "examineText": "Crystallised, draconic rage swirls within it...",
-    "group": "Wilderness echo orb",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30399,
-    "name": "Wilderness echo orb",
-    "url": "https://oldschool.runescape.wiki/w/Wilderness_echo_orb",
-    "version": null
-  },
-  {
-    "examineText": "Crystallised, tangled rage swirls within it...",
-    "group": "Kourend echo orb",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30400,
-    "name": "Kourend echo orb",
-    "url": "https://oldschool.runescape.wiki/w/Kourend_echo_orb",
-    "version": null
-  },
-  {
-    "examineText": "Crystallised, solar rage swirls within it...",
-    "group": "Varlamore echo orb",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30401,
-    "name": "Varlamore echo orb",
-    "url": "https://oldschool.runescape.wiki/w/Varlamore_echo_orb",
-    "version": null
-  },
-  {
     "examineText": "The headgear of a Raging Echoes relic hunter.",
     "group": "Raging echoes hat (t1)",
     "isMembers": true,
@@ -129597,6 +129547,26 @@
     "itemID": 30689,
     "name": "Trinket dust",
     "url": "https://oldschool.runescape.wiki/w/Trinket_dust",
+    "version": null
+  },
+  {
+    "examineText": "Some combat supplies, neatly packaged for future use.",
+    "group": "Castle wars supply crate",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30690,
+    "name": "Castle wars supply crate",
+    "url": "https://oldschool.runescape.wiki/w/Castle_wars_supply_crate",
+    "version": null
+  },
+  {
+    "examineText": "Unlimited charges of some handy spells from your chosen spellbook.",
+    "group": "Rune pouch (Castle Wars)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30692,
+    "name": "Rune pouch",
+    "url": "https://oldschool.runescape.wiki/w/Rune_pouch_(Castle_Wars)",
     "version": null
   },
   {

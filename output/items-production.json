@@ -10872,24 +10872,6 @@
     "tools": "Pestle and mortar"
   },
   {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -10905,7 +10887,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">132,172,355</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins coins-1000 coins-pos\">132,036,783</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -10923,6 +10905,24 @@
       }
     ],
     "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -10959,6 +10959,42 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Enhanced crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
+      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1",
+      "subtxt": "Full process"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "8"
   },
   {
     "materials": [
@@ -11106,42 +11142,6 @@
     },
     "skills": [],
     "ticks": "0"
-  },
-  {
-    "facilities": "Singing bowl",
-    "materials": [
-      {
-        "name": "Enhanced crystal weapon seed",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "1000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
-      "image": "[[File:Blade of saeldor (c).png|link=Blade of saeldor (c)]]",
-      "name": "Blade of saeldor (c)",
-      "quantity": "1",
-      "subtxt": "Full process"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "8"
   },
   {
     "materials": [
@@ -15780,7 +15780,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">132,290,934</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins coins-1000 coins-pos\">131,882,549</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -24769,7 +24769,7 @@
     "ticks": "0"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -24815,7 +24815,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -24857,7 +24857,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -24903,7 +24903,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -24937,7 +24937,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -24971,7 +24971,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted bow (attuned)",
@@ -25009,7 +25009,7 @@
     "tools": "Pestle and mortar (The Gauntlet)"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25039,7 +25039,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25073,7 +25073,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25107,7 +25107,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted halberd (attuned)",
@@ -25128,7 +25128,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25174,7 +25174,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25216,7 +25216,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25262,7 +25262,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25308,7 +25308,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25350,7 +25350,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25396,7 +25396,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25478,7 +25478,7 @@
     "ticks": "0"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25512,7 +25512,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -25546,7 +25546,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted staff (attuned)",
@@ -25567,7 +25567,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
         "name": "Corrupted shards",
@@ -84019,6 +84019,30 @@
     "materials": [
       {
         "name": "Snakeskin",
+        "quantity": "5"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snakeskin bandana.png|link=Snakeskin bandana]]",
+      "name": "Snakeskin bandana",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "45",
+        "level": "48",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Costume needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snakeskin",
         "quantity": "15"
       },
       {
@@ -84042,6 +84066,30 @@
     ],
     "ticks": "3",
     "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snakeskin",
+        "quantity": "15"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snakeskin body.png|link=Snakeskin body]]",
+      "name": "Snakeskin body",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "55",
+        "level": "53",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Costume needle"
   },
   {
     "materials": [
@@ -84075,6 +84123,30 @@
     "materials": [
       {
         "name": "Snakeskin",
+        "quantity": "6"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snakeskin boots.png|link=Snakeskin boots]]",
+      "name": "Snakeskin boots",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "30",
+        "level": "45",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Costume needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snakeskin",
         "quantity": "12"
       },
       {
@@ -84098,6 +84170,30 @@
     ],
     "ticks": "3",
     "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snakeskin",
+        "quantity": "12"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snakeskin chaps.png|link=Snakeskin chaps]]",
+      "name": "Snakeskin chaps",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "51",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Costume needle"
   },
   {
     "materials": [
@@ -84158,6 +84254,30 @@
     ],
     "ticks": "3",
     "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "name": "Snakeskin",
+        "quantity": "8"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Snakeskin vambraces.png|link=Snakeskin vambraces]]",
+      "name": "Snakeskin vambraces",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "35",
+        "level": "47",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Costume needle"
   },
   {
     "materials": [
@@ -96373,6 +96493,36 @@
     "materials": [
       {
         "name": "Crystal shards (The Gauntlet)",
+        "quantity": "10"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vial (The Gauntlet).png|link=Vial (The Gauntlet)]]",
+      "name": "Vial (The Gauntlet)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      },
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
+    "materials": [
+      {
+        "name": "Corrupted shards",
         "quantity": "10"
       }
     ],
