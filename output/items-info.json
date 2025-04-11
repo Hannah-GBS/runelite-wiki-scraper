@@ -6150,6 +6150,16 @@
     "version": null
   },
   {
+    "examineText": "",
+    "group": "Highwayman mask (unobtainable item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 979,
+    "name": "Highwayman mask",
+    "url": "https://oldschool.runescape.wiki/w/Highwayman_mask_(unobtainable_item)",
+    "version": null
+  },
+  {
     "examineText": "Used to get out of Thordur's blackhole.",
     "group": "Disk of returning",
     "isMembers": false,
@@ -8540,16 +8550,6 @@
     "version": "Not yet unlocked"
   },
   {
-    "examineText": "Pocketsized so it's handy when you're roving in the woods!",
-    "group": "Rotten net",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 1459,
-    "name": "Elven sheep",
-    "url": "https://oldschool.runescape.wiki/w/Rotten_net",
-    "version": null
-  },
-  {
     "examineText": "A mysterious power emanates from the talisman...",
     "group": "Nature talisman",
     "isMembers": true,
@@ -9920,6 +9920,16 @@
     "version": null
   },
   {
+    "examineText": "",
+    "group": "Black ring (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 1647,
+    "name": "Black ring",
+    "url": "https://oldschool.runescape.wiki/w/Black_ring_(interface_item)",
+    "version": null
+  },
+  {
     "examineText": "I wonder if this is valuable.",
     "group": "Gold necklace",
     "isMembers": false,
@@ -9980,6 +9990,16 @@
     "version": null
   },
   {
+    "examineText": "",
+    "group": "Black necklace (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 1666,
+    "name": "Black necklace",
+    "url": "https://oldschool.runescape.wiki/w/Black_necklace_(interface_item)",
+    "version": null
+  },
+  {
     "examineText": "It needs a string so I can wear it.",
     "group": "Gold amulet (u)",
     "isMembers": false,
@@ -10037,6 +10057,16 @@
     "itemID": 1683,
     "name": "Dragonstone amulet (u)",
     "url": "https://oldschool.runescape.wiki/w/Dragonstone_amulet_(u)",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Black amulet (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 1685,
+    "name": "Black amulet",
+    "url": "https://oldschool.runescape.wiki/w/Black_amulet_(interface_item)",
     "version": null
   },
   {
@@ -17110,6 +17140,16 @@
     "version": null
   },
   {
+    "examineText": "",
+    "group": "Chompy bird obj",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 2884,
+    "name": "Chompy bird obj",
+    "url": "https://oldschool.runescape.wiki/w/Chompy_bird_obj",
+    "version": null
+  },
+  {
     "examineText": "Just chuck this away, it's useless!",
     "group": "Whoopsie",
     "isMembers": false,
@@ -19440,6 +19480,76 @@
     "version": null
   },
   {
+    "examineText": "One of Gielinor's many citizens.",
+    "group": "Man (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 3241,
+    "name": "Man",
+    "url": "https://oldschool.runescape.wiki/w/Man_(interface_item)",
+    "version": null
+  },
+  {
+    "examineText": "He grows the crops.",
+    "group": "Farmer (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 3243,
+    "name": "Farmer",
+    "url": "https://oldschool.runescape.wiki/w/Farmer_(interface_item)",
+    "version": null
+  },
+  {
+    "examineText": "Not very fashion conscious.",
+    "group": "Warrior woman (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 3245,
+    "name": "Warrior woman",
+    "url": "https://oldschool.runescape.wiki/w/Warrior_woman_(interface_item)",
+    "version": null
+  },
+  {
+    "examineText": "Rogueish.",
+    "group": "Rogue (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 3247,
+    "name": "Rogue",
+    "url": "https://oldschool.runescape.wiki/w/Rogue_(interface_item)",
+    "version": null
+  },
+  {
+    "examineText": "A knight in fancy armour.",
+    "group": "Knight (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 3251,
+    "name": "Knight",
+    "url": "https://oldschool.runescape.wiki/w/Knight_(interface_item)",
+    "version": null
+  },
+  {
+    "examineText": "Watches stuff...but who watches him?",
+    "group": "Watchman (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 3253,
+    "name": "Watchman",
+    "url": "https://oldschool.runescape.wiki/w/Watchman_(interface_item)",
+    "version": null
+  },
+  {
+    "examineText": "A holy warrior.",
+    "group": "Paladin (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 3255,
+    "name": "Paladin",
+    "url": "https://oldschool.runescape.wiki/w/Paladin_(interface_item)",
+    "version": null
+  },
+  {
     "examineText": "Ground-up lava dragon scale.",
     "group": "Lava scale shard",
     "isMembers": true,
@@ -19447,6 +19557,26 @@
     "itemID": 3256,
     "name": "Lava scale shard",
     "url": "https://oldschool.runescape.wiki/w/Lava_scale_shard",
+    "version": null
+  },
+  {
+    "examineText": "Looks like a gnome to me.",
+    "group": "Gnome (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 3257,
+    "name": "Gnome",
+    "url": "https://oldschool.runescape.wiki/w/Gnome_(interface_item)",
+    "version": null
+  },
+  {
+    "examineText": "Heroic!",
+    "group": "Hero (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 3259,
+    "name": "Hero",
+    "url": "https://oldschool.runescape.wiki/w/Hero_(interface_item)",
     "version": null
   },
   {
@@ -20067,7 +20197,7 @@
     "itemID": 3323,
     "name": "Spell",
     "url": "https://oldschool.runescape.wiki/w/Spell_(unobtainable_item)",
-    "version": "Charge Air Orb"
+    "version": "Charge"
   },
   {
     "examineText": "It's a Spell.",
@@ -22518,6 +22648,16 @@
     "name": "Shoe",
     "url": "https://oldschool.runescape.wiki/w/Shoe_(interface_item)",
     "version": "Basic, grey, male"
+  },
+  {
+    "examineText": "One of Rellekka's many citizens.",
+    "group": "Fremennik (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 3686,
+    "name": "Fremennik",
+    "url": "https://oldschool.runescape.wiki/w/Fremennik_(interface_item)",
+    "version": null
   },
   {
     "examineText": "It's almost a musical instrument.",
@@ -27270,6 +27410,16 @@
     "version": "Teleother Camelot"
   },
   {
+    "examineText": "",
+    "group": "Telescope dummy",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 4557,
+    "name": "Telescope dummy",
+    "url": "https://oldschool.runescape.wiki/w/Telescope_dummy",
+    "version": null
+  },
+  {
     "examineText": "Not likely to last until next Halloween.",
     "group": "Blue sweets",
     "isMembers": false,
@@ -27848,6 +27998,16 @@
     "name": "Golem program",
     "url": "https://oldschool.runescape.wiki/w/Golem_program",
     "version": null
+  },
+  {
+    "examineText": "A tough-looking criminal.",
+    "group": "Bandit (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 4625,
+    "name": "Bandit",
+    "url": "https://oldschool.runescape.wiki/w/Bandit_(interface_item)",
+    "version": "Desert Bandit"
   },
   {
     "examineText": "A cheeky little lager.",
@@ -30920,6 +31080,16 @@
     "version": null
   },
   {
+    "examineText": "A master at Farming.",
+    "group": "Master farmer (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 5068,
+    "name": "Master farmer",
+    "url": "https://oldschool.runescape.wiki/w/Master_farmer_(interface_item)",
+    "version": null
+  },
+  {
     "examineText": "It's a bird's nest with an egg in it.",
     "group": "Bird nest (egg)",
     "isMembers": true,
@@ -32998,16 +33168,6 @@
     "name": "Auto-weed (deactivated)",
     "url": "https://oldschool.runescape.wiki/w/Auto-weed_(interface_item)",
     "version": "Deactivated"
-  },
-  {
-    "examineText": "This tiara has decayed and is useless.",
-    "group": "Broken tiara",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 5546,
-    "name": "Broken tiara",
-    "url": "https://oldschool.runescape.wiki/w/Broken_tiara",
-    "version": null
   },
   {
     "examineText": "A tiara infused with the properties of death.",
@@ -36537,6 +36697,16 @@
     "itemID": 6104,
     "name": "New key",
     "url": "https://oldschool.runescape.wiki/w/New_key",
+    "version": null
+  },
+  {
+    "examineText": "One of the elven folk.",
+    "group": "Elf (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 6105,
+    "name": "Elf",
+    "url": "https://oldschool.runescape.wiki/w/Elf_(interface_item)",
     "version": null
   },
   {
@@ -40228,6 +40398,36 @@
     "name": "Rat pole",
     "url": "https://oldschool.runescape.wiki/w/Rat_pole",
     "version": "Six rats"
+  },
+  {
+    "examineText": "Mean-looking.",
+    "group": "Menaphite thug (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 6780,
+    "name": "Menaphite thug",
+    "url": "https://oldschool.runescape.wiki/w/Menaphite_thug_(interface_item)",
+    "version": null
+  },
+  {
+    "examineText": "Nasty.",
+    "group": "Bandit (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 6781,
+    "name": "Bandit",
+    "url": "https://oldschool.runescape.wiki/w/Bandit_(interface_item)",
+    "version": "Pollnivnian Bandit"
+  },
+  {
+    "examineText": "Nasty.",
+    "group": "Bandit (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 6782,
+    "name": "Bandit",
+    "url": "https://oldschool.runescape.wiki/w/Bandit_(interface_item)",
+    "version": "Bearded Pollnivnian Bandit"
   },
   {
     "examineText": "A statue of the goddess Elidinis.",
@@ -48027,6 +48227,16 @@
     "itemID": 8022,
     "name": "Telekinetic grab",
     "url": "https://oldschool.runescape.wiki/w/Telekinetic_grab_(tablet)",
+    "version": null
+  },
+  {
+    "examineText": "Fancy range",
+    "group": "Fancy range (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 8222,
+    "name": "Fancy range",
+    "url": "https://oldschool.runescape.wiki/w/Fancy_range_(interface_item)",
     "version": null
   },
   {
@@ -93691,6 +93901,36 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (beginner) - Always walking around the castle grounds",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Always_walking_around_the_castle_grounds",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Buried beneath the ground",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Buried_beneath_the_ground",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - RUG DETER",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (beginner) - Cheer at Iffie Nitter",
     "isMembers": false,
     "isTradeable": false,
@@ -93721,22 +93961,12 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - Always walking around the castle grounds",
+    "group": "Clue scroll (beginner) - Spin at Flynn's Mace Shop",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Always_walking_around_the_castle_grounds",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - Buried beneath the ground",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Buried_beneath_the_ground",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
     "version": null
   },
   {
@@ -93767,26 +93997,6 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Near_the_open_desert_I_reside",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - RUG DETER",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - Spin at Flynn's Mace Shop",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
     "version": null
   },
   {
@@ -129160,6 +129370,16 @@
     "version": "0"
   },
   {
+    "examineText": "A crate full of supplies.",
+    "group": "Bounty supply crate (unobtainable item)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30576,
+    "name": "Bounty supply crate",
+    "url": "https://oldschool.runescape.wiki/w/Bounty_supply_crate_(unobtainable_item)",
+    "version": null
+  },
+  {
     "examineText": "A record of rewards and loot obtained all throughout Gielinor.",
     "group": "Collection log (bronze)",
     "isMembers": true,
@@ -129567,6 +129787,26 @@
     "itemID": 30692,
     "name": "Rune pouch",
     "url": "https://oldschool.runescape.wiki/w/Rune_pouch_(Castle_Wars)",
+    "version": null
+  },
+  {
+    "examineText": "An arrow made using an imitation dragon's talon.",
+    "group": "Castle wars arrow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30694,
+    "name": "Castle wars arrow",
+    "url": "https://oldschool.runescape.wiki/w/Castle_wars_arrow",
+    "version": null
+  },
+  {
+    "examineText": "Fake dragon crossbow bolts.",
+    "group": "Castle wars bolts",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30696,
+    "name": "Castle wars bolts",
+    "url": "https://oldschool.runescape.wiki/w/Castle_wars_bolts",
     "version": null
   },
   {
