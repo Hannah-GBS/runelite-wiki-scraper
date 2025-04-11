@@ -6157,10 +6157,10 @@
         "version": null
       },
       {
-        "buyPrice": "50",
+        "buyPrice": "40",
         "currency": "Castle wars ticket",
         "name": "Decorative full helm (white)",
-        "sellPrice": "{{+=|white|50|echo=2}}",
+        "sellPrice": "{{+=|white|40|echo=2}}",
         "stock": "\u221e",
         "version": null
       },
@@ -21314,7 +21314,7 @@
       }
     ],
     "location": "Karamja",
-    "name": "Jiminua's Jungle Store. (Karamja gloves)",
+    "name": "Jiminua's Jungle Store. (Karamja gloves 3+)",
     "sellMultiplier": "1300"
   },
   {
