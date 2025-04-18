@@ -24173,7 +24173,7 @@
     "examineText": "It looks like some kind of control panel.",
     "group": "Spare controls",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 4002,
     "name": "Spare controls",
     "url": "https://oldschool.runescape.wiki/w/Spare_controls",
@@ -93881,6 +93881,26 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (beginner) - Always walking around the castle grounds",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Always_walking_around_the_castle_grounds",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - RUG DETER",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (beginner) - Blow a raspberry at Aris in her tent",
     "isMembers": false,
     "isTradeable": false,
@@ -93897,36 +93917,6 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Bow_to_Brugsen_Bursen_at_the_Grand_Exchange",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - Always walking around the castle grounds",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Always_walking_around_the_castle_grounds",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - Buried beneath the ground",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Buried_beneath_the_ground",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - RUG DETER",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
     "version": null
   },
   {
@@ -93967,6 +93957,16 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Buried beneath the ground",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Buried_beneath_the_ground",
     "version": null
   },
   {
@@ -99867,66 +99867,6 @@
     "itemID": 24348,
     "name": "Bounty hunter hat (tier 6)",
     "url": "https://oldschool.runescape.wiki/w/Bounty_hunter_hat_(tier_6)",
-    "version": null
-  },
-  {
-    "examineText": "Contains a beginner clue scroll.",
-    "group": "Scroll box (beginner)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24361,
-    "name": "Scroll box (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(beginner)",
-    "version": null
-  },
-  {
-    "examineText": "Contains an easy clue scroll.",
-    "group": "Scroll box (easy)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24362,
-    "name": "Scroll box (easy)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(easy)",
-    "version": null
-  },
-  {
-    "examineText": "Contains a medium clue scroll.",
-    "group": "Scroll box (medium)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24363,
-    "name": "Scroll box (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(medium)",
-    "version": null
-  },
-  {
-    "examineText": "Contains a hard clue scroll.",
-    "group": "Scroll box (hard)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24364,
-    "name": "Scroll box (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(hard)",
-    "version": null
-  },
-  {
-    "examineText": "Contains an elite clue scroll.",
-    "group": "Scroll box (elite)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24365,
-    "name": "Scroll box (elite)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(elite)",
-    "version": null
-  },
-  {
-    "examineText": "Contains a master clue scroll.",
-    "group": "Scroll box (master)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 24366,
-    "name": "Scroll box (master)",
-    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(master)",
     "version": null
   },
   {
@@ -129807,6 +129747,176 @@
     "itemID": 30696,
     "name": "Castle wars bolts",
     "url": "https://oldschool.runescape.wiki/w/Castle_wars_bolts",
+    "version": null
+  },
+  {
+    "examineText": "A particularly tasty root.",
+    "group": "Fancy carrot",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30706,
+    "name": "Fancy carrot",
+    "url": "https://oldschool.runescape.wiki/w/Fancy_carrot",
+    "version": null
+  },
+  {
+    "examineText": "A delicious looking drink.",
+    "group": "Fancy carrot juice",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30707,
+    "name": "Fancy carrot juice",
+    "url": "https://oldschool.runescape.wiki/w/Fancy_carrot_juice",
+    "version": null
+  },
+  {
+    "examineText": "Definitely not for beer!",
+    "group": "Carrot juice glass",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30708,
+    "name": "Carrot juice glass",
+    "url": "https://oldschool.runescape.wiki/w/Carrot_juice_glass",
+    "version": null
+  },
+  {
+    "examineText": "I can just about read the handwriting...",
+    "group": "Recipe for easter buns",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30709,
+    "name": "Recipe for easter buns",
+    "url": "https://oldschool.runescape.wiki/w/Recipe_for_easter_buns",
+    "version": null
+  },
+  {
+    "examineText": "Fragrant!",
+    "group": "Easter spices",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30710,
+    "name": "Easter spices",
+    "url": "https://oldschool.runescape.wiki/w/Easter_spices",
+    "version": null
+  },
+  {
+    "examineText": "Yeasty dough for an easter treat.",
+    "group": "Yeastier dough",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30712,
+    "name": "Yeastier dough",
+    "url": "https://oldschool.runescape.wiki/w/Yeastier_dough",
+    "version": null
+  },
+  {
+    "examineText": "Perfect and unique, just like every other egg.",
+    "group": "Special egg",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30713,
+    "name": "Special egg",
+    "url": "https://oldschool.runescape.wiki/w/Special_egg",
+    "version": null
+  },
+  {
+    "examineText": "Needs to sit in an oven for a while.",
+    "group": "Uncooked easter bun",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30714,
+    "name": "Uncooked easter bun",
+    "url": "https://oldschool.runescape.wiki/w/Uncooked_easter_bun",
+    "version": null
+  },
+  {
+    "examineText": "A delicious treat!",
+    "group": "Easter bun",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30715,
+    "name": "Easter bun",
+    "url": "https://oldschool.runescape.wiki/w/Easter_bun",
+    "version": null
+  },
+  {
+    "examineText": "About to be a lot less juicy.",
+    "group": "Grapes (2025 Easter event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30716,
+    "name": "Grapes",
+    "url": "https://oldschool.runescape.wiki/w/Grapes_(2025_Easter_event)",
+    "version": null
+  },
+  {
+    "examineText": "The foodstuff formerly known as grapes.",
+    "group": "Raisins",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30717,
+    "name": "Raisins",
+    "url": "https://oldschool.runescape.wiki/w/Raisins",
+    "version": null
+  },
+  {
+    "examineText": "Completely out of order.",
+    "group": "Jumbled script",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30718,
+    "name": "Jumbled script",
+    "url": "https://oldschool.runescape.wiki/w/Jumbled_script",
+    "version": "Before showing Fry"
+  },
+  {
+    "examineText": "Completely out of order.",
+    "group": "Jumbled script",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30719,
+    "name": "Jumbled script",
+    "url": "https://oldschool.runescape.wiki/w/Jumbled_script",
+    "version": "After showing Fry"
+  },
+  {
+    "examineText": "A carrot-top for putting on top.",
+    "group": "Carrot costume hat",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30720,
+    "name": "Carrot costume hat",
+    "url": "https://oldschool.runescape.wiki/w/Carrot_costume_hat",
+    "version": null
+  },
+  {
+    "examineText": "Smells earthy inside.",
+    "group": "Carrot costume body",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30722,
+    "name": "Carrot costume body",
+    "url": "https://oldschool.runescape.wiki/w/Carrot_costume_body",
+    "version": null
+  },
+  {
+    "examineText": "Carrots legs need to remain a tightly kept secret.",
+    "group": "Carrot costume tights",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30724,
+    "name": "Carrot costume tights",
+    "url": "https://oldschool.runescape.wiki/w/Carrot_costume_tights",
+    "version": null
+  },
+  {
+    "examineText": "What would it be like in a universe where everyone's fingers were replaced by carrots?",
+    "group": "Carrot costume gloves",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30726,
+    "name": "Carrot costume gloves",
+    "url": "https://oldschool.runescape.wiki/w/Carrot_costume_gloves",
     "version": null
   },
   {
