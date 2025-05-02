@@ -19393,7 +19393,7 @@
     "examineText": "A strip of cloth.",
     "group": "Strip of cloth",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 3224,
     "name": "Strip of cloth",
     "url": "https://oldschool.runescape.wiki/w/Strip_of_cloth",
@@ -61750,6 +61750,16 @@
     "version": null
   },
   {
+    "examineText": "",
+    "group": "Black bracelet (interface item)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 11067,
+    "name": "Black bracelet",
+    "url": "https://oldschool.runescape.wiki/w/Black_bracelet_(interface_item)",
+    "version": null
+  },
+  {
     "examineText": "I wonder if this is valuable.",
     "group": "Gold bracelet",
     "isMembers": true,
@@ -93871,22 +93881,22 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - AN EARL",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_AN_EARL",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - Always walking around the castle grounds",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Always_walking_around_the_castle_grounds",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - AN EARL",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_AN_EARL",
     "version": null
   },
   {
