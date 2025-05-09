@@ -10887,7 +10887,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">121,758,024</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">119,400,583</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15784,7 +15784,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">122,574,953</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">121,798,721</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -24117,6 +24117,30 @@
     "ticks": "1"
   },
   {
+    "facilities": "Ogre spit-roast",
+    "materials": [
+      {
+        "name": "Raw chompy",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Cooked chompy.png|class=inventory-image|link=Cooked chompy]]",
+      "name": "Cooked chompy",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "30",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "5"
+  },
+  {
     "facilities": "Fire",
     "materials": [
       {
@@ -24145,30 +24169,6 @@
       }
     ],
     "ticks": "3"
-  },
-  {
-    "facilities": "Ogre spit-roast",
-    "materials": [
-      {
-        "name": "Raw chompy",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Cooked chompy.png|class=inventory-image|link=Cooked chompy]]",
-      "name": "Cooked chompy",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "100",
-        "level": "30",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "5"
   },
   {
     "facilities": "Cooking range",
@@ -29170,20 +29170,139 @@
   {
     "materials": [
       {
-        "name": "Crystal helm",
+        "name": "Crystal helm (Amlodd)",
         "quantity": "1"
       },
       {
-        "name": "Crystal of amlodd",
+        "name": "Crystal of meilyr",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Crystal helm (Amlodd).png|class=inventory-image|link=Crystal helm (Amlodd)]]",
-      "name": "Crystal helm (Amlodd)",
-      "quantity": "1",
-      "subtxt": "Recolour (Amlodd)"
+      "image": "[[File:Crystal helm.png|class=inventory-image|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|class=inventory-image|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|class=inventory-image|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|class=inventory-image|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|class=inventory-image|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|class=inventory-image|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|class=inventory-image|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
     },
     "skills": [],
     "ticks": "0"
@@ -29349,27 +29468,6 @@
     "output": {
       "image": "[[File:Crystal helm (Cadarn).png|class=inventory-image|link=Crystal helm (Cadarn)]]",
       "name": "Crystal helm (Cadarn)",
-      "quantity": "1",
-      "subtxt": "Recolour (Cadarn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of cadarn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm (Cadarn).png|class=inventory-image|link=Crystal helm (Cadarn)]]",
-      "name": "Crystal helm (Cadarn)",
       "quantity": "1"
     },
     "skills": [],
@@ -29497,27 +29595,6 @@
       "name": "Crystal helm (Cadarn)",
       "quantity": "1",
       "subtxt": "Recolour (Trahaearn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of crwys",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm (Crwys).png|class=inventory-image|link=Crystal helm (Crwys)]]",
-      "name": "Crystal helm (Crwys)",
-      "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -29683,27 +29760,6 @@
     "output": {
       "image": "[[File:Crystal helm (Hefin).png|class=inventory-image|link=Crystal helm (Hefin)]]",
       "name": "Crystal helm (Hefin)",
-      "quantity": "1",
-      "subtxt": "Recolour (Hefin)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of hefin",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm (Hefin).png|class=inventory-image|link=Crystal helm (Hefin)]]",
-      "name": "Crystal helm (Hefin)",
       "quantity": "1"
     },
     "skills": [],
@@ -29831,27 +29887,6 @@
       "name": "Crystal helm (Hefin)",
       "quantity": "1",
       "subtxt": "Recolour (Trahaearn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of iorwerth",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm (Iorwerth).png|class=inventory-image|link=Crystal helm (Iorwerth)]]",
-      "name": "Crystal helm (Iorwerth)",
-      "quantity": "1",
-      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -30017,27 +30052,6 @@
     "output": {
       "image": "[[File:Crystal helm (Ithell).png|class=inventory-image|link=Crystal helm (Ithell)]]",
       "name": "Crystal helm (Ithell)",
-      "quantity": "1",
-      "subtxt": "Recolour (Ithell)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of ithell",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm (Ithell).png|class=inventory-image|link=Crystal helm (Ithell)]]",
-      "name": "Crystal helm (Ithell)",
       "quantity": "1"
     },
     "skills": [],
@@ -30163,27 +30177,6 @@
     "output": {
       "image": "[[File:Crystal helm (Ithell).png|class=inventory-image|link=Crystal helm (Ithell)]]",
       "name": "Crystal helm (Ithell)",
-      "quantity": "1",
-      "subtxt": "Recolour (Trahaearn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of trahaearn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm (Trahaearn).png|class=inventory-image|link=Crystal helm (Trahaearn)]]",
-      "name": "Crystal helm (Trahaearn)",
       "quantity": "1",
       "subtxt": "Recolour (Trahaearn)"
     },
@@ -41411,7 +41404,7 @@
         "quantity": "500"
       }
     ],
-    "members": "Yes",
+    "members": "No",
     "output": {
       "image": "[[File:Felling axe handle.png|class=inventory-image|link=Felling axe handle]]",
       "name": "Felling axe handle",
@@ -61441,6 +61434,38 @@
     "tools": "Costume needle"
   },
   {
+    "facilities": "Pellem",
+    "materials": [
+      {
+        "name": "Mixed hide base",
+        "quantity": "1"
+      },
+      {
+        "name": "Sunlight antelope fur",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "17500"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mixed hide boots.png|class=inventory-image|link=Mixed hide boots]]",
+      "name": "Mixed hide boots",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "46",
+        "name": "Hunter"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
     "materials": [
       {
         "name": "Mixed hide base",
@@ -61499,6 +61524,38 @@
     ],
     "ticks": "3",
     "tools": "Costume needle"
+  },
+  {
+    "facilities": "Pellem",
+    "materials": [
+      {
+        "name": "Mixed hide base",
+        "quantity": "1"
+      },
+      {
+        "name": "Jaguar fur",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "20000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mixed hide cape.png|class=inventory-image|link=Mixed hide cape]]",
+      "name": "Mixed hide cape",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "46",
+        "name": "Hunter"
+      }
+    ],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -61561,6 +61618,38 @@
     "tools": "Costume needle"
   },
   {
+    "facilities": "Pellem",
+    "materials": [
+      {
+        "name": "Mixed hide base",
+        "quantity": "1"
+      },
+      {
+        "name": "Fox fur",
+        "quantity": "3"
+      },
+      {
+        "name": "Coins",
+        "quantity": "20000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mixed hide legs.png|class=inventory-image|link=Mixed hide legs]]",
+      "name": "Mixed hide legs",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "46",
+        "name": "Hunter"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
     "materials": [
       {
         "name": "Mixed hide base",
@@ -61619,6 +61708,38 @@
     ],
     "ticks": "3",
     "tools": "Costume needle"
+  },
+  {
+    "facilities": "Pellem",
+    "materials": [
+      {
+        "name": "Mixed hide base",
+        "quantity": "1"
+      },
+      {
+        "name": "Sunlight antelope fur",
+        "quantity": "2"
+      },
+      {
+        "name": "Coins",
+        "quantity": "20000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mixed hide top.png|class=inventory-image|link=Mixed hide top]]",
+      "name": "Mixed hide top",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "46",
+        "name": "Hunter"
+      }
+    ],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -82922,7 +83043,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Ring mould"
   },
   {
