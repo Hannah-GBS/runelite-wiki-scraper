@@ -3287,6 +3287,40 @@
     "ticks": "1"
   },
   {
+    "facilities": "Cosmic Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Soul rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Aether catalyst",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Aether rune.png|class=inventory-image|link=Aether rune]]",
+      "name": "Aether rune",
+      "quantity": "1",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]."
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "20",
+        "level": "90",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Cosmic tiara, Binding necklace, Magic Imbue"
+  },
+  {
     "facilities": "Refiner",
     "materials": [
       {
@@ -10887,7 +10921,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">119,400,583</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">113,442,255</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -13473,7 +13507,8 @@
         "name": "Fletching"
       }
     ],
-    "ticks": "1"
+    "ticks": "1",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -15784,7 +15819,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">121,798,721</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">108,963,685</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -26060,6 +26095,23 @@
     ],
     "ticks": "2",
     "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Infernal shale",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crushed infernal shale.png|class=inventory-image|link=Crushed infernal shale]]",
+      "name": "Crushed infernal shale",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Hammer, Chisel"
   },
   {
     "materials": [
@@ -50077,6 +50129,31 @@
     "ticks": "1"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Infernal nugget",
+        "quantity": "10"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Infernal chunk.png|class=inventory-image|link=Infernal chunk]]",
+      "name": "Infernal chunk",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes(??)",
+        "experience": "750",
+        "level": "83",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "name": "Dragon harpoon",
@@ -50178,6 +50255,35 @@
     "ticks": "0"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Oathplate shards",
+        "quantity": "5"
+      },
+      {
+        "name": "Crushed infernal shale",
+        "quantity": "28"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Infernal nugget.png|class=inventory-image|link=Infernal nugget]]",
+      "name": "Infernal nugget",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes(??)",
+        "experience": "11.5",
+        "level": "83",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "name": "Dragon pickaxe",
@@ -50229,6 +50335,31 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Infernal chunk",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Infernal plate.png|class=inventory-image|link=Infernal plate]]",
+      "name": "Infernal plate",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes(??)",
+        "experience": "1250",
+        "level": "83",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "404",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -66268,6 +66399,81 @@
     ],
     "ticks": "3",
     "tools": "Knife"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Infernal plate",
+        "quantity": "7"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Oathplate chest.png|class=inventory-image|link=Oathplate chest]]",
+      "name": "Oathplate chest",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes(??)",
+        "experience": "?",
+        "level": "83",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Infernal plate",
+        "quantity": "7"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Oathplate helm.png|class=inventory-image|link=Oathplate helm]]",
+      "name": "Oathplate helm",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes(??)",
+        "experience": "?",
+        "level": "83",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Infernal plate",
+        "quantity": "7"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Oathplate legs.png|class=inventory-image|link=Oathplate legs]]",
+      "name": "Oathplate legs",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes(??)",
+        "experience": "2000",
+        "level": "83",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -91700,6 +91906,33 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Torstol potion (unf)",
+        "quantity": "1"
+      },
+      {
+        "name": "Demonic tallow",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Surge potion(3).png|class=inventory-image|link=Surge potion(3)]]",
+      "name": "Surge potion(3)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "185",
+        "level": "81",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "2"
   },
   {
     "facilities": "Fire",
