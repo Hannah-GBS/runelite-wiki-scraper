@@ -96921,12 +96921,12 @@
   },
   {
     "examineText": "Get your maces from Iwan's Maces.",
-    "group": "Iwan's flyer",
+    "group": "Flyer (Iwan)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 23670,
     "name": "Iwan's flyer",
-    "url": "https://oldschool.runescape.wiki/w/Iwan%27s_flyer",
+    "url": "https://oldschool.runescape.wiki/w/Flyer_(Iwan)",
     "version": null
   },
   {
@@ -130570,13 +130570,523 @@
     "version": null
   },
   {
-    "examineText": "Looks like it's gotten through a lot of wood.",
-    "group": "Beaver (larch)",
+    "examineText": "A set containing a Oathplate helm, Oathplate chest, and Oathplate legs.",
+    "group": "Oathplate armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30744,
+    "name": "Oathplate armour set",
+    "url": "https://oldschool.runescape.wiki/w/Oathplate_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "I wonder how my crops would grow on this stuff!",
+    "group": "Demon dung",
     "isMembers": true,
     "isTradeable": false,
-    "itemID": 31198,
-    "name": "Beaver",
-    "url": "https://oldschool.runescape.wiki/w/Beaver_(larch)",
+    "itemID": 30747,
+    "name": "Demon dung",
+    "url": "https://oldschool.runescape.wiki/w/Demon_dung",
+    "version": null
+  },
+  {
+    "examineText": "A helm forged from infernal metal.",
+    "group": "Oathplate helm",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30750,
+    "name": "Oathplate helm",
+    "url": "https://oldschool.runescape.wiki/w/Oathplate_helm",
+    "version": null
+  },
+  {
+    "examineText": "A chestplate forged from infernal metal.",
+    "group": "Oathplate chest",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30753,
+    "name": "Oathplate chest",
+    "url": "https://oldschool.runescape.wiki/w/Oathplate_chest",
+    "version": null
+  },
+  {
+    "examineText": "Platelegs forged from infernal metal.",
+    "group": "Oathplate legs",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30756,
+    "name": "Oathplate legs",
+    "url": "https://oldschool.runescape.wiki/w/Oathplate_legs",
+    "version": null
+  },
+  {
+    "examineText": "A horn sculpted in the depths of the earth. Its violent reverbrations fan the flames of the soul.",
+    "group": "Soulflame horn",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30759,
+    "name": "Soulflame horn",
+    "url": "https://oldschool.runescape.wiki/w/Soulflame_horn",
+    "version": null
+  },
+  {
+    "examineText": "Once stored by somebody in Yama's vaults, but now forgotten.",
+    "group": "Forgotten lockbox",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30763,
+    "name": "Forgotten lockbox",
+    "url": "https://oldschool.runescape.wiki/w/Forgotten_lockbox",
+    "version": null
+  },
+  {
+    "examineText": "A strange metal from a distant realm. It has long since lost its luster.",
+    "group": "Oathplate shards",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30765,
+    "name": "Oathplate shards",
+    "url": "https://oldschool.runescape.wiki/w/Oathplate_shards",
+    "version": null
+  },
+  {
+    "examineText": "A piece of the cosmos' soul? Or souls belonging to the cosmos?",
+    "group": "Aether catalyst",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30771,
+    "name": "Aether catalyst",
+    "url": "https://oldschool.runescape.wiki/w/Aether_catalyst",
+    "version": null
+  },
+  {
+    "examineText": "Their subtle, pulsing glow would be great for catching anglerfish.",
+    "group": "Diabolic worms",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30773,
+    "name": "Diabolic worms",
+    "url": "https://oldschool.runescape.wiki/w/Diabolic_worms",
+    "version": null
+  },
+  {
+    "examineText": "Ancient glyphs cover the paper, resembling those in the chasm of fire.",
+    "group": "Chasm teleport scroll",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30775,
+    "name": "Chasm teleport scroll",
+    "url": "https://oldschool.runescape.wiki/w/Chasm_teleport_scroll",
+    "version": null
+  },
+  {
+    "examineText": "A helm forged from infernal metal, then purified by an ancient rite.",
+    "group": "Radiant oathplate helm",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30777,
+    "name": "Radiant oathplate helm",
+    "url": "https://oldschool.runescape.wiki/w/Radiant_oathplate_helm",
+    "version": null
+  },
+  {
+    "examineText": "A chestplate forged from infernal metal, then purified by an ancient rite.",
+    "group": "Radiant oathplate chest",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30779,
+    "name": "Radiant oathplate chest",
+    "url": "https://oldschool.runescape.wiki/w/Radiant_oathplate_chest",
+    "version": null
+  },
+  {
+    "examineText": "Platelegs forged from infernal metal, then purified by an ancient rite.",
+    "group": "Radiant oathplate legs",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30781,
+    "name": "Radiant oathplate legs",
+    "url": "https://oldschool.runescape.wiki/w/Radiant_oathplate_legs",
+    "version": null
+  },
+  {
+    "examineText": "A fragment of an ancient sigil, made of a brittle material.",
+    "group": "Purifying sigil (left)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30783,
+    "name": "Purifying sigil (left)",
+    "url": "https://oldschool.runescape.wiki/w/Purifying_sigil_(left)",
+    "version": null
+  },
+  {
+    "examineText": "A fragment of an ancient sigil, made of a brittle material.",
+    "group": "Purifying sigil (right)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30785,
+    "name": "Purifying sigil (right)",
+    "url": "https://oldschool.runescape.wiki/w/Purifying_sigil_(right)",
+    "version": null
+  },
+  {
+    "examineText": "A fragment of an ancient sigil, made of a brittle material.",
+    "group": "Purifying sigil (middle)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30787,
+    "name": "Purifying sigil (middle)",
+    "url": "https://oldschool.runescape.wiki/w/Purifying_sigil_(middle)",
+    "version": null
+  },
+  {
+    "examineText": "A fragment of an ancient sigil, made of a brittle material.",
+    "group": "Purifying sigil (top)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30789,
+    "name": "Purifying sigil (top)",
+    "url": "https://oldschool.runescape.wiki/w/Purifying_sigil_(top)",
+    "version": null
+  },
+  {
+    "examineText": "A fragment of an ancient sigil, made of a brittle material.",
+    "group": "Purifying sigil (bottom)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30791,
+    "name": "Purifying sigil (bottom)",
+    "url": "https://oldschool.runescape.wiki/w/Purifying_sigil_(bottom)",
+    "version": null
+  },
+  {
+    "examineText": "An ancient sigil, made of a brittle material.",
+    "group": "Purifying sigil",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30793,
+    "name": "Purifying sigil",
+    "url": "https://oldschool.runescape.wiki/w/Purifying_sigil",
+    "version": null
+  },
+  {
+    "examineText": "Somebody's been avoiding their cardio...",
+    "group": "Barrel of demonic tallow",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30795,
+    "name": "Barrel of demonic tallow (full)",
+    "url": "https://oldschool.runescape.wiki/w/Barrel_of_demonic_tallow",
+    "version": "Full"
+  },
+  {
+    "examineText": "Somebody's been avoiding their cardio...",
+    "group": "Barrel of demonic tallow",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30798,
+    "name": "Barrel of demonic tallow",
+    "url": "https://oldschool.runescape.wiki/w/Barrel_of_demonic_tallow",
+    "version": "Open"
+  },
+  {
+    "examineText": "Somebody's been avoiding their cardio...",
+    "group": "Demonic tallow",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30800,
+    "name": "Demonic tallow",
+    "url": "https://oldschool.runescape.wiki/w/Demonic_tallow",
+    "version": null
+  },
+  {
+    "examineText": "It contains a single sheet of paper. I wonder what it is...",
+    "group": "Dossier (Yama)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30803,
+    "name": "Dossier",
+    "url": "https://oldschool.runescape.wiki/w/Dossier_(Yama)",
+    "version": null
+  },
+  {
+    "examineText": "The text describes a variation of the death charge spell.",
+    "group": "Rite of vile transference",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30806,
+    "name": "Rite of vile transference",
+    "url": "https://oldschool.runescape.wiki/w/Rite_of_vile_transference",
+    "version": null
+  },
+  {
+    "examineText": "A damp cloth. The liquid on it is black and slightly irridescent.",
+    "group": "Jim's wet cloth",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30808,
+    "name": "Jim's wet cloth",
+    "url": "https://oldschool.runescape.wiki/w/Jim%27s_wet_cloth",
+    "version": null
+  },
+  {
+    "examineText": "A contract issued by Yama. Present it to him to discuss some new terms.",
+    "group": "Contract of glyphic attenuation",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30810,
+    "name": "Contract of glyphic attenuation",
+    "url": "https://oldschool.runescape.wiki/w/Contract_of_glyphic_attenuation",
+    "version": null
+  },
+  {
+    "examineText": "A contract issued by Yama. Present it to him to discuss some new terms.",
+    "group": "Contract of sensory clouding",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30813,
+    "name": "Contract of sensory clouding",
+    "url": "https://oldschool.runescape.wiki/w/Contract_of_sensory_clouding",
+    "version": null
+  },
+  {
+    "examineText": "A contract issued by Yama. Present it to him to discuss some new terms.",
+    "group": "Contract of bloodied blows",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30816,
+    "name": "Contract of bloodied blows",
+    "url": "https://oldschool.runescape.wiki/w/Contract_of_bloodied_blows",
+    "version": null
+  },
+  {
+    "examineText": "A contract issued by Yama. Present it to him to discuss some new terms.",
+    "group": "Contract of divine severance",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30819,
+    "name": "Contract of divine severance",
+    "url": "https://oldschool.runescape.wiki/w/Contract_of_divine_severance",
+    "version": null
+  },
+  {
+    "examineText": "A contract issued by Yama. Present it to him to discuss some new terms.",
+    "group": "Contract of forfeit breath",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30822,
+    "name": "Contract of forfeit breath",
+    "url": "https://oldschool.runescape.wiki/w/Contract_of_forfeit_breath",
+    "version": null
+  },
+  {
+    "examineText": "A contract issued by Yama. Present it to him to discuss some new terms.",
+    "group": "Contract of oathplate acquisition",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30825,
+    "name": "Contract of oathplate acquisition",
+    "url": "https://oldschool.runescape.wiki/w/Contract_of_oathplate_acquisition",
+    "version": null
+  },
+  {
+    "examineText": "A contract issued by Yama. Present it to him to discuss some new terms.",
+    "group": "Contract of shard acquisition",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30828,
+    "name": "Contract of shard acquisition",
+    "url": "https://oldschool.runescape.wiki/w/Contract_of_shard_acquisition",
+    "version": null
+  },
+  {
+    "examineText": "A contract issued by Yama. Present it to him to discuss some new terms.",
+    "group": "Contract of catalyst acquisition",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30831,
+    "name": "Contract of catalyst acquisition",
+    "url": "https://oldschool.runescape.wiki/w/Contract_of_catalyst_acquisition",
+    "version": null
+  },
+  {
+    "examineText": "A contract issued by Yama. Present it to him to discuss some new terms.",
+    "group": "Contract of worm acquisition",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30834,
+    "name": "Contract of worm acquisition",
+    "url": "https://oldschool.runescape.wiki/w/Contract_of_worm_acquisition",
+    "version": null
+  },
+  {
+    "examineText": "A contract issued by Yama. Present it to him to discuss some new terms.",
+    "group": "Contract of harmony acquisition",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30837,
+    "name": "Contract of harmony acquisition",
+    "url": "https://oldschool.runescape.wiki/w/Contract_of_harmony_acquisition",
+    "version": null
+  },
+  {
+    "examineText": "A contract issued by Yama. Present it to him to discuss some new terms.",
+    "group": "Contract of familiar acquisition",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30840,
+    "name": "Contract of familiar acquisition",
+    "url": "https://oldschool.runescape.wiki/w/Contract_of_familiar_acquisition",
+    "version": null
+  },
+  {
+    "examineText": "A combined cosmic and soul rune.",
+    "group": "Aether rune",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30843,
+    "name": "Aether rune",
+    "url": "https://oldschool.runescape.wiki/w/Aether_rune",
+    "version": null
+  },
+  {
+    "examineText": "Flaky, chalky, and warm.",
+    "group": "Infernal shale",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30846,
+    "name": "Infernal shale",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_shale",
+    "version": null
+  },
+  {
+    "examineText": "Speckled with smouldering rock.",
+    "group": "Crushed infernal shale",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30848,
+    "name": "Crushed infernal shale",
+    "url": "https://oldschool.runescape.wiki/w/Crushed_infernal_shale",
+    "version": null
+  },
+  {
+    "examineText": "A red hot, infernal blend.",
+    "group": "Infernal blend",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30854,
+    "name": "Infernal blend",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_blend",
+    "version": null
+  },
+  {
+    "examineText": "Something went wrong with the quenching process, the metal is brittle.",
+    "group": "Malformed infernal blend",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30856,
+    "name": "Malformed infernal blend",
+    "url": "https://oldschool.runescape.wiki/w/Malformed_infernal_blend",
+    "version": null
+  },
+  {
+    "examineText": "Stabilised metal from infernus, waiting to be shaped.",
+    "group": "Infernal nugget",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30858,
+    "name": "Infernal nugget",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_nugget",
+    "version": null
+  },
+  {
+    "examineText": "A chunk of cooled infernal metal.",
+    "group": "Cooled infernal chunk",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30860,
+    "name": "Cooled infernal chunk",
+    "url": "https://oldschool.runescape.wiki/w/Cooled_infernal_chunk",
+    "version": null
+  },
+  {
+    "examineText": "A chunk of red hot infernal metal.",
+    "group": "Infernal chunk",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30862,
+    "name": "Infernal chunk",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_chunk",
+    "version": null
+  },
+  {
+    "examineText": "Metal from infernus, waiting to be shaped at an anvil.",
+    "group": "Infernal plate",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30864,
+    "name": "Infernal plate",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_plate",
+    "version": null
+  },
+  {
+    "examineText": "4 doses of surge potion.",
+    "group": "Surge potion",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30875,
+    "name": "Surge potion(4)",
+    "url": "https://oldschool.runescape.wiki/w/Surge_potion",
+    "version": "4 dose"
+  },
+  {
+    "examineText": "3 doses of surge potion.",
+    "group": "Surge potion",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30878,
+    "name": "Surge potion(3)",
+    "url": "https://oldschool.runescape.wiki/w/Surge_potion",
+    "version": "3 dose"
+  },
+  {
+    "examineText": "2 doses of surge potion.",
+    "group": "Surge potion",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30881,
+    "name": "Surge potion(2)",
+    "url": "https://oldschool.runescape.wiki/w/Surge_potion",
+    "version": "2 dose"
+  },
+  {
+    "examineText": "1 dose of surge potion.",
+    "group": "Surge potion",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30884,
+    "name": "Surge potion(1)",
+    "url": "https://oldschool.runescape.wiki/w/Surge_potion",
+    "version": "1 dose"
+  },
+  {
+    "examineText": "Highly potent essence, imbued with multiple catalytic energies.",
+    "group": "Polycatalytic guardian stone",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30887,
+    "name": "Polycatalytic guardian stone",
+    "url": "https://oldschool.runescape.wiki/w/Polycatalytic_guardian_stone",
+    "version": null
+  },
+  {
+    "examineText": "Small, yet intimidating.",
+    "group": "Yami",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30888,
+    "name": "Yami",
+    "url": "https://oldschool.runescape.wiki/w/Yami",
     "version": null
   }
 ]
