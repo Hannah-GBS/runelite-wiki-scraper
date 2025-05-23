@@ -8551,6 +8551,16 @@
   },
   {
     "examineText": "A mysterious power emanates from the talisman...",
+    "group": "Soul talisman",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 1460,
+    "name": "Soul talisman",
+    "url": "https://oldschool.runescape.wiki/w/Soul_talisman",
+    "version": null
+  },
+  {
+    "examineText": "A mysterious power emanates from the talisman...",
     "group": "Nature talisman",
     "isMembers": true,
     "isTradeable": true,
@@ -46141,12 +46151,12 @@
   },
   {
     "examineText": "A foul smelling brew.",
-    "group": "Moonlight mead (Player-owned house)",
+    "group": "Moonlight mead (player-owned house)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 7750,
     "name": "Moonlight mead",
-    "url": "https://oldschool.runescape.wiki/w/Moonlight_mead_(Player-owned_house)",
+    "url": "https://oldschool.runescape.wiki/w/Moonlight_mead_(player-owned_house)",
     "version": null
   },
   {
@@ -47752,7 +47762,7 @@
   {
     "examineText": "An unimbued rune of extra capability.",
     "group": "Pure essence",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": true,
     "itemID": 7936,
     "name": "Pure essence",
@@ -54131,12 +54141,12 @@
   },
   {
     "examineText": "A dossier containing info on the Black Knight plot.",
-    "group": "Dossier",
+    "group": "Dossier (Black Knights' Fortress)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 9589,
     "name": "Dossier",
-    "url": "https://oldschool.runescape.wiki/w/Dossier",
+    "url": "https://oldschool.runescape.wiki/w/Dossier_(Black_Knights%27_Fortress)",
     "version": null
   },
   {
@@ -130583,7 +130593,7 @@
     "examineText": "I wonder how my crops would grow on this stuff!",
     "group": "Demon dung",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 30747,
     "name": "Demon dung",
     "url": "https://oldschool.runescape.wiki/w/Demon_dung",
@@ -130801,12 +130811,12 @@
   },
   {
     "examineText": "It contains a single sheet of paper. I wonder what it is...",
-    "group": "Dossier (Yama)",
+    "group": "Dossier",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 30803,
     "name": "Dossier",
-    "url": "https://oldschool.runescape.wiki/w/Dossier_(Yama)",
+    "url": "https://oldschool.runescape.wiki/w/Dossier",
     "version": null
   },
   {
@@ -131023,7 +131033,7 @@
     "examineText": "Metal from infernus, waiting to be shaped at an anvil.",
     "group": "Infernal plate",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 30864,
     "name": "Infernal plate",
     "url": "https://oldschool.runescape.wiki/w/Infernal_plate",
