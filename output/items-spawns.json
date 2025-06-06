@@ -1923,18 +1923,6 @@
         "name": "Bucket"
       },
       {
-        "coords": "2371,3127",
-        "isMembers": false,
-        "location": "Castle Wars - north-west",
-        "name": "Bucket"
-      },
-      {
-        "coords": "2428,3079",
-        "isMembers": false,
-        "location": "Castle Wars - south-east",
-        "name": "Bucket"
-      },
-      {
         "coords": "3408,3176",
         "isMembers": false,
         "location": "Citharede Abbey",
@@ -6470,12 +6458,6 @@
     "group": "Red dye",
     "spawns": [
       {
-        "coords": "1240,3688",
-        "isMembers": true,
-        "location": "Farm south of Farming Guild (search shelves)",
-        "name": "Red dye"
-      },
-      {
         "coords": "3769,9731",
         "isMembers": true,
         "location": "Sisterhood Sanctuary",
@@ -8314,17 +8296,6 @@
         "isMembers": true,
         "location": "South of Mount Quidamortem",
         "name": "Wooden shield"
-      }
-    ]
-  },
-  {
-    "group": "Yellow dye",
-    "spawns": [
-      {
-        "coords": "1240,3688",
-        "isMembers": true,
-        "location": "Farm south of Farming Guild (search shelves)",
-        "name": "Yellow dye"
       }
     ]
   }
