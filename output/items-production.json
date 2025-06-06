@@ -11027,7 +11027,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">112,727,507</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">109,998,347</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15925,7 +15925,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,558,349</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">112,740,664</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -50455,7 +50455,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "11.5",
         "level": "83",
         "name": "Smithing"
       }
@@ -72177,7 +72177,7 @@
       },
       {
         "name": "Aether rune",
-        "quantity": "10000"
+        "quantity": "2500"
       }
     ],
     "members": "Yes",
@@ -72201,7 +72201,7 @@
       },
       {
         "name": "Aether rune",
-        "quantity": "10000"
+        "quantity": "2500"
       }
     ],
     "members": "Yes",
@@ -72225,7 +72225,7 @@
       },
       {
         "name": "Aether rune",
-        "quantity": "10000"
+        "quantity": "2500"
       }
     ],
     "members": "Yes",
@@ -85773,10 +85773,6 @@
   {
     "materials": [
       {
-        "name": "Gnome spice",
-        "quantity": "1"
-      },
-      {
         "name": "Fishing bait",
         "quantity": "1"
       }
@@ -85788,15 +85784,12 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "0"
+    "ticks": "0",
+    "tools": "Gnome spice"
   },
   {
     "materials": [
       {
-        "name": "Spice",
-        "quantity": "1"
-      },
-      {
         "name": "Fishing bait",
         "quantity": "1"
       }
@@ -85808,7 +85801,8 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "0"
+    "ticks": "0",
+    "tools": "Spice"
   },
   {
     "materials": [
@@ -85894,6 +85888,30 @@
     ],
     "ticks": "0",
     "tools": "Spice"
+  },
+  {
+    "materials": [
+      {
+        "name": "Chopped tomato",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Spicy tomato.png|class=inventory-image|link=Spicy tomato]]",
+      "name": "Spicy tomato",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Gnome spice"
   },
   {
     "facilities": "Cooking range",
