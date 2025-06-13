@@ -8540,16 +8540,6 @@
     "version": null
   },
   {
-    "examineText": "Nothing like it to keep your crops free of weeds.",
-    "group": "Auto-weed (interface item)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 1459,
-    "name": "Auto-weed",
-    "url": "https://oldschool.runescape.wiki/w/Auto-weed_(interface_item)",
-    "version": "Not yet unlocked"
-  },
-  {
     "examineText": "A mysterious power emanates from the talisman...",
     "group": "Soul talisman",
     "isMembers": true,
@@ -12407,7 +12397,7 @@
     "itemID": 2094,
     "name": "Odd cocktail",
     "url": "https://oldschool.runescape.wiki/w/Odd_cocktail",
-    "version": "1"
+    "version": "Regular"
   },
   {
     "examineText": "I'm not completely sure what this contains.",
@@ -12417,7 +12407,7 @@
     "itemID": 2096,
     "name": "Odd cocktail",
     "url": "https://oldschool.runescape.wiki/w/Odd_cocktail",
-    "version": "2"
+    "version": "Fruity"
   },
   {
     "examineText": "I'm not completely sure what this contains.",
@@ -12427,7 +12417,7 @@
     "itemID": 2098,
     "name": "Odd cocktail",
     "url": "https://oldschool.runescape.wiki/w/Odd_cocktail",
-    "version": "3"
+    "version": "Creamy"
   },
   {
     "examineText": "I'm not completely sure what this contains.",
@@ -12437,7 +12427,7 @@
     "itemID": 2100,
     "name": "Odd cocktail",
     "url": "https://oldschool.runescape.wiki/w/Odd_cocktail",
-    "version": "4"
+    "version": "Slice"
   },
   {
     "examineText": "A fresh lemon.",
@@ -19490,86 +19480,6 @@
     "version": null
   },
   {
-    "examineText": "One of Gielinor's many citizens.",
-    "group": "Man (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 3241,
-    "name": "Man",
-    "url": "https://oldschool.runescape.wiki/w/Man_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "He grows the crops.",
-    "group": "Farmer (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 3243,
-    "name": "Farmer",
-    "url": "https://oldschool.runescape.wiki/w/Farmer_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Not very fashion conscious.",
-    "group": "Warrior woman (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 3245,
-    "name": "Warrior woman",
-    "url": "https://oldschool.runescape.wiki/w/Warrior_woman_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Rogueish.",
-    "group": "Rogue (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 3247,
-    "name": "Rogue",
-    "url": "https://oldschool.runescape.wiki/w/Rogue_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "He tries to keep order.",
-    "group": "Guard (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 3249,
-    "name": "Guard",
-    "url": "https://oldschool.runescape.wiki/w/Guard_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A knight in fancy armour.",
-    "group": "Knight (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 3251,
-    "name": "Knight",
-    "url": "https://oldschool.runescape.wiki/w/Knight_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Watches stuff...but who watches him?",
-    "group": "Watchman (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 3253,
-    "name": "Watchman",
-    "url": "https://oldschool.runescape.wiki/w/Watchman_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A holy warrior.",
-    "group": "Paladin (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 3255,
-    "name": "Paladin",
-    "url": "https://oldschool.runescape.wiki/w/Paladin_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "Ground-up lava dragon scale.",
     "group": "Lava scale shard",
     "isMembers": true,
@@ -19577,26 +19487,6 @@
     "itemID": 3256,
     "name": "Lava scale shard",
     "url": "https://oldschool.runescape.wiki/w/Lava_scale_shard",
-    "version": null
-  },
-  {
-    "examineText": "Looks like a gnome to me.",
-    "group": "Gnome (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 3257,
-    "name": "Gnome",
-    "url": "https://oldschool.runescape.wiki/w/Gnome_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Heroic!",
-    "group": "Hero (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 3259,
-    "name": "Hero",
-    "url": "https://oldschool.runescape.wiki/w/Hero_(interface_item)",
     "version": null
   },
   {
@@ -22670,16 +22560,6 @@
     "version": "Basic, grey, male"
   },
   {
-    "examineText": "One of Rellekka's many citizens.",
-    "group": "Fremennik (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 3686,
-    "name": "Fremennik",
-    "url": "https://oldschool.runescape.wiki/w/Fremennik_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "It's almost a musical instrument.",
     "group": "Unstrung lyre",
     "isMembers": true,
@@ -24970,86 +24850,6 @@
     "version": null
   },
   {
-    "examineText": "A slayer monster.",
-    "group": "Crawling hand (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4133,
-    "name": "Crawling hand",
-    "url": "https://oldschool.runescape.wiki/w/Crawling_hand_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Cave crawler (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4134,
-    "name": "Cave crawler",
-    "url": "https://oldschool.runescape.wiki/w/Cave_crawler_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Rockslug (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4136,
-    "name": "Rockslug",
-    "url": "https://oldschool.runescape.wiki/w/Rockslug_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Cockatrice (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4137,
-    "name": "Cockatrice",
-    "url": "https://oldschool.runescape.wiki/w/Cockatrice_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Infernal mage (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4140,
-    "name": "Infernal mage",
-    "url": "https://oldschool.runescape.wiki/w/Infernal_mage_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Turoth (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4143,
-    "name": "Turoth",
-    "url": "https://oldschool.runescape.wiki/w/Turoth_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Dust Devil (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4145,
-    "name": "Dust Devil",
-    "url": "https://oldschool.runescape.wiki/w/Dust_Devil_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Kurask (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4146,
-    "name": "Kurask",
-    "url": "https://oldschool.runescape.wiki/w/Kurask_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "A weapon from the Abyss.",
     "group": "Abyssal whip",
     "isMembers": true,
@@ -26017,16 +25817,6 @@
     "itemID": 4293,
     "name": "Cooked meat",
     "url": "https://oldschool.runescape.wiki/w/Cooked_meat_(undead)",
-    "version": null
-  },
-  {
-    "examineText": "She's a member of Human Against Monsters.",
-    "group": "Female H.A.M. (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4295,
-    "name": "Female H.A.M.",
-    "url": "https://oldschool.runescape.wiki/w/Female_H.A.M._(interface_item)",
     "version": null
   },
   {
@@ -27300,36 +27090,6 @@
     "version": null
   },
   {
-    "examineText": "A slayer monster.",
-    "group": "Swamp wallbeast (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4519,
-    "name": "Swamp wallbeast",
-    "url": "https://oldschool.runescape.wiki/w/Swamp_wallbeast_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Swamp cave slime (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4520,
-    "name": "Swamp cave slime",
-    "url": "https://oldschool.runescape.wiki/w/Swamp_cave_slime_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Swamp cave bug (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4521,
-    "name": "Swamp cave bug",
-    "url": "https://oldschool.runescape.wiki/w/Swamp_cave_bug_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "Not the genie sort.",
     "group": "Oil lamp",
     "isMembers": true,
@@ -28138,16 +27898,6 @@
     "name": "Golem program",
     "url": "https://oldschool.runescape.wiki/w/Golem_program",
     "version": null
-  },
-  {
-    "examineText": "A tough-looking criminal.",
-    "group": "Bandit (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 4625,
-    "name": "Bandit",
-    "url": "https://oldschool.runescape.wiki/w/Bandit_(interface_item)",
-    "version": "Desert Bandit"
   },
   {
     "examineText": "A cheeky little lager.",
@@ -31220,16 +30970,6 @@
     "version": null
   },
   {
-    "examineText": "A master at Farming.",
-    "group": "Master farmer (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 5068,
-    "name": "Master farmer",
-    "url": "https://oldschool.runescape.wiki/w/Master_farmer_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "It's a bird's nest with an egg in it.",
     "group": "Bird nest (egg)",
     "isMembers": true,
@@ -31318,16 +31058,6 @@
     "name": "Bird's egg",
     "url": "https://oldschool.runescape.wiki/w/Bird%27s_egg",
     "version": "Green"
-  },
-  {
-    "examineText": "",
-    "group": "Black chinchompa (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 5091,
-    "name": "Black chinchompa",
-    "url": "https://oldschool.runescape.wiki/w/Black_chinchompa_(interface_item)",
-    "version": null
   },
   {
     "examineText": "A marigold seed - plant in a flower patch.",
@@ -31437,26 +31167,6 @@
     "itemID": 5106,
     "name": "Poison ivy seed",
     "url": "https://oldschool.runescape.wiki/w/Poison_ivy_seed",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Potato seed (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 5166,
-    "name": "Potato seed",
-    "url": "https://oldschool.runescape.wiki/w/Potato_seed_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Some seeds.",
-    "group": "Seeds (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 5171,
-    "name": "Seeds",
-    "url": "https://oldschool.runescape.wiki/w/Seeds_(interface_item)",
     "version": null
   },
   {
@@ -33330,16 +33040,6 @@
     "version": null
   },
   {
-    "examineText": "Nothing like it to keep your crops free of weeds.",
-    "group": "Auto-weed (interface item)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 5546,
-    "name": "Auto-weed (deactivated)",
-    "url": "https://oldschool.runescape.wiki/w/Auto-weed_(interface_item)",
-    "version": "Deactivated"
-  },
-  {
     "examineText": "A tiara infused with the properties of death.",
     "group": "Death tiara",
     "isMembers": true,
@@ -33368,16 +33068,6 @@
     "name": "Gricoller's can (refill)",
     "url": "https://oldschool.runescape.wiki/w/Gricoller%27s_can_(refill)",
     "version": null
-  },
-  {
-    "examineText": "Nothing like it to keep your crops free of weeds.",
-    "group": "Auto-weed (interface item)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 5552,
-    "name": "Auto-weed (activated)",
-    "url": "https://oldschool.runescape.wiki/w/Auto-weed_(interface_item)",
-    "version": "Activated"
   },
   {
     "examineText": "Black banded leather armour, a rogue's dream!",
@@ -34828,16 +34518,6 @@
     "name": "Black spear(p++)",
     "url": "https://oldschool.runescape.wiki/w/Black_spear",
     "version": "Poison++"
-  },
-  {
-    "examineText": "A slightly bluish leaf.",
-    "group": "Woad leaf (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 5738,
-    "name": "Woad leaf",
-    "url": "https://oldschool.runescape.wiki/w/Woad_leaf_(interface_item)",
-    "version": null
   },
   {
     "examineText": "This looks a good deal stronger than normal Asgarnian Ale.",
@@ -36880,16 +36560,6 @@
     "version": null
   },
   {
-    "examineText": "One of the elven folk.",
-    "group": "Elf (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6105,
-    "name": "Elf",
-    "url": "https://oldschool.runescape.wiki/w/Elf_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "They seem to be not quite of this world...",
     "group": "Ghostly boots",
     "isMembers": true,
@@ -38840,86 +38510,6 @@
     "version": null
   },
   {
-    "examineText": "Ability to jump, swing or use monkey bars.",
-    "group": "Agility jump 1",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6514,
-    "name": "Agility jump 1",
-    "url": "https://oldschool.runescape.wiki/w/Agility_jump_1",
-    "version": null
-  },
-  {
-    "examineText": "Ability to balance using the agility skill.",
-    "group": "Agility balance 1",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6515,
-    "name": "Agility balance 1",
-    "url": "https://oldschool.runescape.wiki/w/Agility_balance_1",
-    "version": null
-  },
-  {
-    "examineText": "Ability to squeeze your body through small areas.",
-    "group": "Agility contortion 1",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6516,
-    "name": "Agility contortion 1",
-    "url": "https://oldschool.runescape.wiki/w/Agility_contortion_1",
-    "version": null
-  },
-  {
-    "examineText": "Ability to climb surfaces.",
-    "group": "Agility climb 1",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6517,
-    "name": "Agility climb 1",
-    "url": "https://oldschool.runescape.wiki/w/Agility_climb_1",
-    "version": null
-  },
-  {
-    "examineText": "Ability to jump, swing or use monkey bars.",
-    "group": "Agility jump 2",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6518,
-    "name": "Agility jump 2",
-    "url": "https://oldschool.runescape.wiki/w/Agility_jump_2",
-    "version": null
-  },
-  {
-    "examineText": "Ability to balance using the agility skill.",
-    "group": "Agility balance 2",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6519,
-    "name": "Agility balance 2",
-    "url": "https://oldschool.runescape.wiki/w/Agility_balance_2",
-    "version": null
-  },
-  {
-    "examineText": "Ability to squeeze your body through small areas.",
-    "group": "Agility contortion 2",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6520,
-    "name": "Agility contortion 2",
-    "url": "https://oldschool.runescape.wiki/w/Agility_contortion_2",
-    "version": null
-  },
-  {
-    "examineText": "Ability to climb surfaces.",
-    "group": "Agility climb 2",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6521,
-    "name": "Agility climb 2",
-    "url": "https://oldschool.runescape.wiki/w/Agility_climb_2",
-    "version": null
-  },
-  {
     "examineText": "A razor sharp ring of obsidian.",
     "group": "Toktz-xil-ul",
     "isMembers": true,
@@ -39600,16 +39190,6 @@
     "version": null
   },
   {
-    "examineText": "A slayer monster.",
-    "group": "Dark beast (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6637,
-    "name": "Dark beast",
-    "url": "https://oldschool.runescape.wiki/w/Dark_beast_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "A key to the nature of light itself.",
     "group": "Colour wheel",
     "isMembers": true,
@@ -39827,26 +39407,6 @@
     "itemID": 6659,
     "name": "Camo helmet",
     "url": "https://oldschool.runescape.wiki/w/Camo_helmet_(unobtainable_item)",
-    "version": null
-  },
-  {
-    "examineText": "A vial that explodes in water.",
-    "group": "Fishing explosive (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6660,
-    "name": "Fishing explosive",
-    "url": "https://oldschool.runescape.wiki/w/Fishing_explosive_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Mogre (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6661,
-    "name": "Mogre",
-    "url": "https://oldschool.runescape.wiki/w/Mogre_(interface_item)",
     "version": null
   },
   {
@@ -40167,16 +39727,6 @@
     "itemID": 6707,
     "name": "Camulet",
     "url": "https://oldschool.runescape.wiki/w/Camulet",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Fever spider (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6709,
-    "name": "Fever spider",
-    "url": "https://oldschool.runescape.wiki/w/Fever_spider_(interface_item)",
     "version": null
   },
   {
@@ -40700,36 +40250,6 @@
     "version": "Six rats"
   },
   {
-    "examineText": "Mean-looking.",
-    "group": "Menaphite thug (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6780,
-    "name": "Menaphite thug",
-    "url": "https://oldschool.runescape.wiki/w/Menaphite_thug_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Nasty.",
-    "group": "Bandit (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6781,
-    "name": "Bandit",
-    "url": "https://oldschool.runescape.wiki/w/Bandit_(interface_item)",
-    "version": "Pollnivnian Bandit"
-  },
-  {
-    "examineText": "Nasty.",
-    "group": "Bandit (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6782,
-    "name": "Bandit",
-    "url": "https://oldschool.runescape.wiki/w/Bandit_(interface_item)",
-    "version": "Bearded Pollnivnian Bandit"
-  },
-  {
     "examineText": "A statue of the goddess Elidinis.",
     "group": "Statuette (Spirits of the Elid)",
     "isMembers": true,
@@ -40967,16 +40487,6 @@
     "itemID": 6810,
     "name": "Wyvern bonemeal",
     "url": "https://oldschool.runescape.wiki/w/Wyvern_bonemeal",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Skeletal wyvern (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 6811,
-    "name": "Skeletal wyvern",
-    "url": "https://oldschool.runescape.wiki/w/Skeletal_wyvern_(interface_item)",
     "version": null
   },
   {
@@ -41990,16 +41500,6 @@
     "version": null
   },
   {
-    "examineText": "A slayer monster.",
-    "group": "Swarm (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 7050,
-    "name": "Swarm",
-    "url": "https://oldschool.runescape.wiki/w/Swarm_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "A lantern to aid attacking Harpie bugs.",
     "group": "Bug lantern",
     "isMembers": true,
@@ -42577,16 +42077,6 @@
     "itemID": 7159,
     "name": "Insulated boots",
     "url": "https://oldschool.runescape.wiki/w/Insulated_boots",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster",
-    "group": "Killerwatt (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 7160,
-    "name": "Killerwatt",
-    "url": "https://oldschool.runescape.wiki/w/Killerwatt_(interface_item)",
     "version": null
   },
   {
@@ -56550,266 +56040,6 @@
     "version": null
   },
   {
-    "examineText": "A cheeky little imp.",
-    "group": "Imp (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9952,
-    "name": "Imp",
-    "url": "https://oldschool.runescape.wiki/w/Imp_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Almost invisible in the snow.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9953,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Polar kebbit"
-  },
-  {
-    "examineText": "One of the most common species of kebbit.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9954,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Common kebbit"
-  },
-  {
-    "examineText": "Just one of the many different varieties of kebbit.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9955,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Feldip weasel"
-  },
-  {
-    "examineText": "Almost invisible in the sand.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9956,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Desert devil"
-  },
-  {
-    "examineText": "Curls up into a ball to protect itself from attack.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9957,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Prickly kebbit"
-  },
-  {
-    "examineText": "It uses its tail to hunt and skewer fish.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9958,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Barb-tailed kebbit"
-  },
-  {
-    "examineText": "Now that's a big overbite.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9959,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Sabre-toothed kebbit"
-  },
-  {
-    "examineText": "It seems to be on a permanent sugar rush.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9960,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Spotted kebbit"
-  },
-  {
-    "examineText": "Curls up into a ball to protect itself from attack.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9961,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Razor-backed kebbit"
-  },
-  {
-    "examineText": "That's a mean looking set of claws.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9962,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Wild kebbit"
-  },
-  {
-    "examineText": "Quieter than a ninja mouse in slippers.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9963,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Dark kebbit"
-  },
-  {
-    "examineText": "Now you see it, now you don't.",
-    "group": "Kebbit (unobtainable item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9964,
-    "name": "Kebbit",
-    "url": "https://oldschool.runescape.wiki/w/Kebbit_(unobtainable_item)",
-    "version": "Dashing kebbit"
-  },
-  {
-    "examineText": "Not at all subtly coloured.",
-    "group": "Crimson swift (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9965,
-    "name": "Crimson swift",
-    "url": "https://oldschool.runescape.wiki/w/Crimson_swift_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Its long tail affords it great manoeuvrability.",
-    "group": "Copper longtail (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9966,
-    "name": "Copper longtail",
-    "url": "https://oldschool.runescape.wiki/w/Copper_longtail_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Nothing to get in a flap about.",
-    "group": "Cerulean twitch (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9967,
-    "name": "Cerulean twitch",
-    "url": "https://oldschool.runescape.wiki/w/Cerulean_twitch_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "This bird can be easily identified by its hideously annoying song.",
-    "group": "Golden warbler (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9968,
-    "name": "Golden warbler",
-    "url": "https://oldschool.runescape.wiki/w/Golden_warbler_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Its colourful feathers make excellent fly fishing lures.",
-    "group": "Tropical wagtail (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9969,
-    "name": "Tropical wagtail",
-    "url": "https://oldschool.runescape.wiki/w/Tropical_wagtail_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "It's a ruby harvest butterfly.",
-    "group": "Ruby harvest (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9970,
-    "name": "Ruby harvest",
-    "url": "https://oldschool.runescape.wiki/w/Ruby_harvest_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A sapphire glacialis. It doesn't look as pretentious as its name sounds.",
-    "group": "Sapphire glacialis (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9971,
-    "name": "Sapphire glacialias",
-    "url": "https://oldschool.runescape.wiki/w/Sapphire_glacialis_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "It's a snowy knight butterfly.",
-    "group": "Snowy knight (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9972,
-    "name": "Snowy knight",
-    "url": "https://oldschool.runescape.wiki/w/Snowy_knight_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A black warlock. The air seems to distort wherever it passes.",
-    "group": "Black warlock (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9973,
-    "name": "Black warlock",
-    "url": "https://oldschool.runescape.wiki/w/Black_warlock_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A very large, very dangerous looking birdy.",
-    "group": "Giant eagle (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9974,
-    "name": "Giant eagle",
-    "url": "https://oldschool.runescape.wiki/w/Giant_eagle_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A cute bunny rabbit.",
-    "group": "Rabbit (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9975,
-    "name": "Rabbit",
-    "url": "https://oldschool.runescape.wiki/w/Rabbit_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Handle with care.",
-    "group": "Chinchompa (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9976,
-    "name": "Chinchompa",
-    "url": "https://oldschool.runescape.wiki/w/Chinchompa_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Even more volatile than its vegetarian counterpart.",
-    "group": "Red chinchompa (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9977,
-    "name": "Red chinchompa",
-    "url": "https://oldschool.runescape.wiki/w/Red_chinchompa_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "This certainly needs cooking!",
     "group": "Raw bird meat",
     "isMembers": true,
@@ -60250,16 +59480,6 @@
     "version": null
   },
   {
-    "examineText": "A slayer monster.",
-    "group": "Terror dog (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 10591,
-    "name": "Terror dog",
-    "url": "https://oldschool.runescape.wiki/w/Terror_dog_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "Small drums.",
     "group": "Penguin bongos",
     "isMembers": true,
@@ -60677,46 +59897,6 @@
     "itemID": 10851,
     "name": "Winter sq'irkjuice",
     "url": "https://oldschool.runescape.wiki/w/Winter_sq%27irkjuice",
-    "version": null
-  },
-  {
-    "examineText": "Part of the Sorceress's Garden minigame.",
-    "group": "Summer garden (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 10852,
-    "name": "Summer garden",
-    "url": "https://oldschool.runescape.wiki/w/Summer_garden_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Part of the Sorceress's Garden minigame.",
-    "group": "Spring garden (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 10853,
-    "name": "Spring garden",
-    "url": "https://oldschool.runescape.wiki/w/Spring_garden_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Part of the Sorceress's Garden minigame.",
-    "group": "Autumn garden (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 10854,
-    "name": "Autumn garden",
-    "url": "https://oldschool.runescape.wiki/w/Autumn_garden_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Part of the Sorceress's Garden minigame.",
-    "group": "Winter garden (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 10855,
-    "name": "Winter garden",
-    "url": "https://oldschool.runescape.wiki/w/Winter_garden_(interface_item)",
     "version": null
   },
   {
@@ -61790,16 +60970,6 @@
     "version": null
   },
   {
-    "examineText": "A citizen of Dorgesh-Kaan.",
-    "group": "Cave goblin (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 10998,
-    "name": "Cave goblin",
-    "url": "https://oldschool.runescape.wiki/w/Cave_goblin_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "A tattered goblin holy book.",
     "group": "Goblin book",
     "isMembers": true,
@@ -62117,16 +61287,6 @@
     "itemID": 11046,
     "name": "Rope",
     "url": "https://oldschool.runescape.wiki/w/Rope_(Olaf%27s_Quest)",
-    "version": null
-  },
-  {
-    "examineText": "Eww, a bald rat!",
-    "group": "Brine Rat (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 11047,
-    "name": "Brine Rat",
-    "url": "https://oldschool.runescape.wiki/w/Brine_Rat_(interface_item)",
     "version": null
   },
   {
@@ -65610,16 +64770,6 @@
     "version": null
   },
   {
-    "examineText": "Ability to jump, swing or use monkey bars.",
-    "group": "Agility jump 3",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 11793,
-    "name": "Agility jump 3",
-    "url": "https://oldschool.runescape.wiki/w/Agility_jump_3",
-    "version": null
-  },
-  {
     "examineText": "Godsword shards 1 and 2.",
     "group": "Godsword shards 1 & 2",
     "isMembers": true,
@@ -65878,36 +65028,6 @@
     "name": "Knight's notes",
     "url": "https://oldschool.runescape.wiki/w/Knight%27s_notes",
     "version": "Unsealed"
-  },
-  {
-    "examineText": "",
-    "group": "Spiritual Mage (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 11844,
-    "name": "Spiritual Mage",
-    "url": "https://oldschool.runescape.wiki/w/Spiritual_Mage_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Spiritual Ranger (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 11845,
-    "name": "Spiritual Ranger",
-    "url": "https://oldschool.runescape.wiki/w/Spiritual_Ranger_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Spiritual Warrior (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 11846,
-    "name": "Spiritual Warrior",
-    "url": "https://oldschool.runescape.wiki/w/Spiritual_Warrior_(interface_item)",
-    "version": null
   },
   {
     "examineText": "Aaaarrrghhh, I'm an old-school monster!",
@@ -86090,16 +85210,6 @@
     "version": null
   },
   {
-    "examineText": "Looks like an expert craftsman of some kind.",
-    "group": "Tzhaar-hur (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 21278,
-    "name": "Tzhaar-hur",
-    "url": "https://oldschool.runescape.wiki/w/Tzhaar-hur_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "A set containing an Obsidian helmet, platebody and platelegs.",
     "group": "Obsidian armour set",
     "isMembers": true,
@@ -86510,16 +85620,6 @@
     "version": "Filled"
   },
   {
-    "examineText": "A Slayer monster.",
-    "group": "Brutal Black Dragon (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 21391,
-    "name": "Brutal Black Dragon",
-    "url": "https://oldschool.runescape.wiki/w/Brutal_Black_Dragon_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "These will help me mine Sandstone, Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.",
     "group": "Expert mining gloves",
     "isMembers": true,
@@ -86660,16 +85760,6 @@
     "version": null
   },
   {
-    "examineText": "A slayer monster.",
-    "group": "Fossil island wyvern (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 21508,
-    "name": "Fossil island wyvern",
-    "url": "https://oldschool.runescape.wiki/w/Fossil_island_wyvern_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "A boar with an impressive mane of dried herbs.",
     "group": "Herbi",
     "isMembers": true,
@@ -86677,16 +85767,6 @@
     "itemID": 21509,
     "name": "Herbi",
     "url": "https://oldschool.runescape.wiki/w/Herbi",
-    "version": null
-  },
-  {
-    "examineText": "Grows herbs and hides out in mushroom forests.",
-    "group": "Herbiboar (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 21511,
-    "name": "Herbiboar",
-    "url": "https://oldschool.runescape.wiki/w/Herbiboar_(interface_item)",
     "version": null
   },
   {
@@ -93500,26 +92580,6 @@
     "version": "Powered"
   },
   {
-    "examineText": "",
-    "group": "Farming Guild Gate",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23005,
-    "name": "Farming Guild Gate",
-    "url": "https://oldschool.runescape.wiki/w/Farming_Guild_Gate",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Farming Guild Door",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23006,
-    "name": "Farming Guild Door",
-    "url": "https://oldschool.runescape.wiki/w/Farming_Guild_Door",
-    "version": null
-  },
-  {
     "examineText": "It's addressed to someone called Rose.",
     "group": "Tatty note",
     "isMembers": true,
@@ -93677,36 +92737,6 @@
     "itemID": 23037,
     "name": "Boots of stone",
     "url": "https://oldschool.runescape.wiki/w/Boots_of_stone",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Drake (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23041,
-    "name": "Drake",
-    "url": "https://oldschool.runescape.wiki/w/Drake_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Sulphur lizard (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23043,
-    "name": "Sulphur lizard",
-    "url": "https://oldschool.runescape.wiki/w/Sulphur_lizard_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Hespori (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23044,
-    "name": "Hespori",
-    "url": "https://oldschool.runescape.wiki/w/Hespori_(interface_item)",
     "version": null
   },
   {
@@ -100257,16 +99287,6 @@
     "itemID": 24271,
     "name": "Neitiznot faceguard",
     "url": "https://oldschool.runescape.wiki/w/Neitiznot_faceguard",
-    "version": null
-  },
-  {
-    "examineText": "A slayer monster.",
-    "group": "Basilisk knight (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 24276,
-    "name": "Basilisk knight",
-    "url": "https://oldschool.runescape.wiki/w/Basilisk_knight_(interface_item)",
     "version": null
   },
   {
@@ -121090,16 +120110,6 @@
     "version": null
   },
   {
-    "examineText": "",
-    "group": "Warped Terrorbird (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28582,
-    "name": "Warped Terrorbird",
-    "url": "https://oldschool.runescape.wiki/w/Warped_Terrorbird_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "A magical warped weapon.",
     "group": "Warped sceptre",
     "isMembers": true,
@@ -122030,16 +121040,6 @@
     "version": "Defender of Varrock"
   },
   {
-    "examineText": "Pockets full of gold.",
-    "group": "Wealthy citizen (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28821,
-    "name": "Wealthy citizen",
-    "url": "https://oldschool.runescape.wiki/w/Wealthy_citizen_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "A pouch full of coins taken from the pockets of a wealthy citizen.",
     "group": "Coin pouch",
     "isMembers": true,
@@ -122198,66 +121198,6 @@
     "name": "Polar camo legs",
     "url": "https://oldschool.runescape.wiki/w/Polar_camo_legs",
     "version": "Worn"
-  },
-  {
-    "examineText": "Even more volatile than its vegetarian counterpart.",
-    "group": "Sunlight Moth (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28863,
-    "name": "Sunlight Moth icon",
-    "url": "https://oldschool.runescape.wiki/w/Sunlight_Moth_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Even more volatile than its vegetarian counterpart.",
-    "group": "Moonlight moth (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28864,
-    "name": "Moonlight moth icon",
-    "url": "https://oldschool.runescape.wiki/w/Moonlight_moth_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "A scrappy fighter of the savannah",
-    "group": "Pyre fox (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28865,
-    "name": "Pyre fox",
-    "url": "https://oldschool.runescape.wiki/w/Pyre_fox_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Even more volatile than its vegetarian counterpart.",
-    "group": "Embertailed jerboa (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28866,
-    "name": "Embertailed jerboa icon",
-    "url": "https://oldschool.runescape.wiki/w/Embertailed_jerboa_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Even more volatile than its vegetarian counterpart.",
-    "group": "Sunlight antelope antler (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28867,
-    "name": "Sunlight antelope antler",
-    "url": "https://oldschool.runescape.wiki/w/Sunlight_antelope_antler_(interface_item)",
-    "version": null
-  },
-  {
-    "examineText": "Even more volatile than its vegetarian counterpart.",
-    "group": "Moonlight antelope antler (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 28868,
-    "name": "Moonlight antelope antler",
-    "url": "https://oldschool.runescape.wiki/w/Moonlight_antelope_antler_(interface_item)",
-    "version": null
   },
   {
     "examineText": "A weapon made of horn and bone.",
@@ -124307,16 +123247,6 @@
     "itemID": 29325,
     "name": "House keys",
     "url": "https://oldschool.runescape.wiki/w/House_keys",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "House keys (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 29328,
-    "name": "House keys",
-    "url": "https://oldschool.runescape.wiki/w/House_keys_(interface_item)",
     "version": null
   },
   {
@@ -126490,16 +125420,6 @@
     "version": null
   },
   {
-    "examineText": "",
-    "group": "Araxyte (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 29780,
-    "name": "Araxyte",
-    "url": "https://oldschool.runescape.wiki/w/Araxyte_(interface_item)",
-    "version": null
-  },
-  {
     "examineText": "Looks nourishing, to the right beast.",
     "group": "Coagulated venom",
     "isMembers": true,
@@ -127648,16 +126568,6 @@
     "name": "Open reagent pouch",
     "url": "https://oldschool.runescape.wiki/w/Reagent_pouch",
     "version": "Open"
-  },
-  {
-    "examineText": "Unlocks the ability to store potions within a separate area of the bank.",
-    "group": "Potion storage (interface item)",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 29999,
-    "name": "Potion storage",
-    "url": "https://oldschool.runescape.wiki/w/Potion_storage_(interface_item)",
-    "version": null
   },
   {
     "examineText": "Used to store and drink multiple potions.",
