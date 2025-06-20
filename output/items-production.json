@@ -3943,6 +3943,31 @@
     "facilities": "Air Altar",
     "materials": [
       {
+        "name": "Pure essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Air rune.png|class=inventory-image|link=Air rune]]",
+      "name": "Air rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Air tiara, Air talisman"
+  },
+  {
+    "facilities": "Air Altar",
+    "materials": [
+      {
         "name": "Daeyalt essence",
         "quantity": "1"
       }
@@ -3987,31 +4012,6 @@
       }
     ],
     "ticks": "1"
-  },
-  {
-    "facilities": "Air Altar",
-    "materials": [
-      {
-        "name": "Pure essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Air rune.png|class=inventory-image|link=Air rune]]",
-      "name": "Air rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "5",
-        "level": "1",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Air tiara, Air talisman"
   },
   {
     "facilities": "Air Altar",
@@ -7897,6 +7897,27 @@
     "ticks": ""
   },
   {
+    "facilities": "Bone grinder",
+    "materials": [
+      {
+        "name": "Wyrmling bones",
+        "quantity": "1"
+      },
+      {
+        "name": "Pot",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Baby dragon bonemeal.png|class=inventory-image|link=Baby dragon bonemeal]]",
+      "name": "Baby dragon bonemeal",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "name": "Baby mole-rat",
@@ -11078,24 +11099,6 @@
     "tools": "Pestle and mortar"
   },
   {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -11111,7 +11114,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,142,820</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">112,395,888</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11129,6 +11132,24 @@
       }
     ],
     "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -11165,6 +11186,42 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Enhanced crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
+      "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1",
+      "subtxt": "Full process"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "8"
   },
   {
     "materials": [
@@ -11312,42 +11369,6 @@
     },
     "skills": [],
     "ticks": "0"
-  },
-  {
-    "facilities": "Singing bowl",
-    "materials": [
-      {
-        "name": "Enhanced crystal weapon seed",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "1000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
-      "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
-      "name": "Blade of saeldor (c)",
-      "quantity": "1",
-      "subtxt": "Full process"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "8"
   },
   {
     "materials": [
@@ -15991,7 +16012,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,476,690</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">117,526,276</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -23826,7 +23847,7 @@
     ],
     "members": "Yes",
     "output": {
-      "costnote": "Value based on the price of a [[supercompost]] divided by 15 and rounded down, instead of GE-untradeable Coconut shells",
+      "costnote": "Value based on the price of a [[supercompost]] minus the price of a [[bucket]], instead of GE-untradeable Coconut shells",
       "image": "[[File:Coconut shell.png|class=inventory-image|link=Coconut shell]]",
       "name": "Coconut shell",
       "quantity": "1"
@@ -38397,6 +38418,31 @@
     "facilities": "Earth Altar",
     "materials": [
       {
+        "name": "Pure essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Earth rune.png|class=inventory-image|link=Earth rune]]",
+      "name": "Earth rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "6.5",
+        "level": "9",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Earth tiara, Earth talisman"
+  },
+  {
+    "facilities": "Earth Altar",
+    "materials": [
+      {
         "name": "Daeyalt essence",
         "quantity": "1"
       }
@@ -38441,31 +38487,6 @@
       }
     ],
     "ticks": "1"
-  },
-  {
-    "facilities": "Earth Altar",
-    "materials": [
-      {
-        "name": "Pure essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Earth rune.png|class=inventory-image|link=Earth rune]]",
-      "name": "Earth rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "6.5",
-        "level": "9",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Earth tiara, Earth talisman"
   },
   {
     "facilities": "Earth Altar",
@@ -56019,7 +56040,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -56039,7 +56060,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -56059,7 +56080,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "facilities": "Lovakite furnace",
@@ -75132,6 +75153,27 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Torn robe (bottom)",
+        "quantity": "1"
+      },
+      {
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Robe of elidinis (bottom).png|class=inventory-image|link=Robe of elidinis (bottom)]]",
+      "name": "Robe of elidinis (bottom)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Needle"
   },
   {
     "materials": [
@@ -98337,6 +98379,31 @@
     "facilities": "Water Altar",
     "materials": [
       {
+        "name": "Pure essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Water rune.png|class=inventory-image|link=Water rune]]",
+      "name": "Water rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "6",
+        "level": "5",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Water tiara, Water talisman"
+  },
+  {
+    "facilities": "Water Altar",
+    "materials": [
+      {
         "name": "Daeyalt essence",
         "quantity": "1"
       }
@@ -98381,31 +98448,6 @@
       }
     ],
     "ticks": "1"
-  },
-  {
-    "facilities": "Water Altar",
-    "materials": [
-      {
-        "name": "Pure essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Water rune.png|class=inventory-image|link=Water rune]]",
-      "name": "Water rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "6",
-        "level": "5",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Water tiara, Water talisman"
   },
   {
     "facilities": "Water Altar",
