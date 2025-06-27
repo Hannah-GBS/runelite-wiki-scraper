@@ -11099,6 +11099,24 @@
     "tools": "Pestle and mortar"
   },
   {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -11114,7 +11132,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">112,395,888</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,031,455</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11132,24 +11150,6 @@
       }
     ],
     "ticks": "5"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -11186,42 +11186,6 @@
       }
     ],
     "ticks": "3"
-  },
-  {
-    "facilities": "Singing bowl",
-    "materials": [
-      {
-        "name": "Enhanced crystal weapon seed",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "1000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
-      "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
-      "name": "Blade of saeldor (c)",
-      "quantity": "1",
-      "subtxt": "Full process"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "8"
   },
   {
     "materials": [
@@ -11369,6 +11333,42 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Enhanced crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
+      "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1",
+      "subtxt": "Full process"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "8"
   },
   {
     "materials": [
@@ -16012,7 +16012,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">117,526,276</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">121,562,933</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -49152,7 +49152,7 @@
       {
         "boostable": "Yes",
         "experience": "285",
-        "level": "88",
+        "level": "78",
         "name": "Crafting"
       }
     ],
@@ -49180,7 +49180,7 @@
       {
         "boostable": "Yes",
         "experience": "190",
-        "level": "87",
+        "level": "77",
         "name": "Crafting"
       }
     ],
@@ -49208,7 +49208,7 @@
       {
         "boostable": "Yes",
         "experience": "190",
-        "level": "86",
+        "level": "76",
         "name": "Crafting"
       }
     ],
@@ -49236,7 +49236,7 @@
       {
         "boostable": "Yes",
         "experience": "95",
-        "level": "86",
+        "level": "76",
         "name": "Crafting"
       }
     ],
@@ -53444,6 +53444,26 @@
     "skills": [],
     "ticks": "0",
     "tools": "Pestle and mortar"
+  },
+  {
+    "materials": [
+      {
+        "name": "Keris partisan",
+        "quantity": "1"
+      },
+      {
+        "name": "Jewel of amascut",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Keris partisan of amascut.png|class=inventory-image|link=Keris partisan of amascut]]",
+      "name": "Keris partisan of amascut",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -57788,7 +57808,7 @@
       "image": "[[File:Mahogany plank.png|class=inventory-image|link=Mahogany plank]]",
       "name": "Mahogany plank",
       "quantity": "2",
-      "subtxt": "Sawmill"
+      "subtxt": "Sawmill + Sawmill Voucher"
     },
     "skills": [],
     "ticks": "1"
@@ -57865,77 +57885,7 @@
       "image": "[[File:Mahogany plank.png|class=inventory-image|link=Mahogany plank]]",
       "name": "Mahogany plank",
       "quantity": "2",
-      "subtxt": "Plank Make"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "90",
-        "level": "86",
-        "name": "Magic"
-      }
-    ],
-    "ticks": "5"
-  },
-  {
-    "facilities": "Sawmill",
-    "materials": [
-      {
-        "name": "Mahogany logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "1500"
-      },
-      {
-        "name": "Sawmill voucher",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mahogany plank.png|class=inventory-image|link=Mahogany plank]]",
-      "name": "Mahogany plank",
-      "quantity": "2",
-      "subtxt": "Sawmill"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
-    "materials": [
-      {
-        "name": "Mahogany logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "1050"
-      },
-      {
-        "name": "Nature rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Astral rune",
-        "quantity": "2"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "15"
-      },
-      {
-        "name": "Sawmill voucher",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mahogany plank.png|class=inventory-image|link=Mahogany plank]]",
-      "name": "Mahogany plank",
-      "quantity": "2",
-      "subtxt": "Plank Make"
+      "subtxt": "Plank Make + Sawmill Voucher"
     },
     "skills": [
       {
@@ -58175,14 +58125,14 @@
       },
       {
         "name": "Coins",
-        "quantity": "12000"
+        "quantity": "60000"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Mangled extract.png|class=inventory-image|link=Mangled extract]]",
       "name": "Mangled extract",
-      "quantity": "1"
+      "quantity": "5"
     },
     "skills": [],
     "ticks": "0"
@@ -66463,7 +66413,7 @@
       "image": "[[File:Oak plank.png|class=inventory-image|link=Oak plank]]",
       "name": "Oak plank",
       "quantity": "2",
-      "subtxt": "Sawmill"
+      "subtxt": "Sawmill + Sawmill Voucher"
     },
     "skills": [],
     "ticks": "1"
@@ -66540,77 +66490,7 @@
       "image": "[[File:Oak plank.png|class=inventory-image|link=Oak plank]]",
       "name": "Oak plank",
       "quantity": "2",
-      "subtxt": "Plank Make"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "90",
-        "level": "86",
-        "name": "Magic"
-      }
-    ],
-    "ticks": "5"
-  },
-  {
-    "facilities": "Sawmill",
-    "materials": [
-      {
-        "name": "Oak logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "250"
-      },
-      {
-        "name": "Sawmill voucher",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Oak plank.png|class=inventory-image|link=Oak plank]]",
-      "name": "Oak plank",
-      "quantity": "2",
-      "subtxt": "Sawmill"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
-    "materials": [
-      {
-        "name": "Oak logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "175"
-      },
-      {
-        "name": "Nature rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Astral rune",
-        "quantity": "2"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "15"
-      },
-      {
-        "name": "Sawmill voucher",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Oak plank.png|class=inventory-image|link=Oak plank]]",
-      "name": "Oak plank",
-      "quantity": "2",
-      "subtxt": "Plank Make"
+      "subtxt": "Plank Make + Sawmill Voucher"
     },
     "skills": [
       {
@@ -70711,7 +70591,7 @@
       "image": "[[File:Plank.png|class=inventory-image|link=Plank]]",
       "name": "Plank",
       "quantity": "2",
-      "subtxt": "Sawmill"
+      "subtxt": "Sawmill + Sawmill Voucher"
     },
     "skills": [],
     "ticks": "1"
@@ -70788,77 +70668,7 @@
       "image": "[[File:Plank.png|class=inventory-image|link=Plank]]",
       "name": "Plank",
       "quantity": "2",
-      "subtxt": "Plank Make"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "90",
-        "level": "86",
-        "name": "Magic"
-      }
-    ],
-    "ticks": "5"
-  },
-  {
-    "facilities": "Sawmill",
-    "materials": [
-      {
-        "name": "Logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "100"
-      },
-      {
-        "name": "Sawmill voucher",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Plank.png|class=inventory-image|link=Plank]]",
-      "name": "Plank",
-      "quantity": "2",
-      "subtxt": "Sawmill"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
-    "materials": [
-      {
-        "name": "Logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "70"
-      },
-      {
-        "name": "Nature rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Astral rune",
-        "quantity": "2"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "15"
-      },
-      {
-        "name": "Sawmill voucher",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Plank.png|class=inventory-image|link=Plank]]",
-      "name": "Plank",
-      "quantity": "2",
-      "subtxt": "Plank Make"
+      "subtxt": "Plank Make + Sawmill Voucher"
     },
     "skills": [
       {
@@ -80692,14 +80502,14 @@
       },
       {
         "name": "Coins",
-        "quantity": "24000"
+        "quantity": "120000"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Scarred extract.png|class=inventory-image|link=Scarred extract]]",
       "name": "Scarred extract",
-      "quantity": "1"
+      "quantity": "5"
     },
     "skills": [],
     "ticks": "0"
@@ -92982,76 +92792,6 @@
       {
         "name": "Coins",
         "quantity": "500"
-      },
-      {
-        "name": "Sawmill voucher",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Teak plank.png|class=inventory-image|link=Teak plank]]",
-      "name": "Teak plank",
-      "quantity": "2",
-      "subtxt": "Sawmill"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
-    "materials": [
-      {
-        "name": "Teak logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "350"
-      },
-      {
-        "name": "Nature rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Astral rune",
-        "quantity": "2"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "15"
-      },
-      {
-        "name": "Sawmill voucher",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Teak plank.png|class=inventory-image|link=Teak plank]]",
-      "name": "Teak plank",
-      "quantity": "2",
-      "subtxt": "Plank Make"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "90",
-        "level": "86",
-        "name": "Magic"
-      }
-    ],
-    "ticks": "5"
-  },
-  {
-    "facilities": "Sawmill",
-    "materials": [
-      {
-        "name": "Teak logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "500"
       }
     ],
     "members": "Yes",
@@ -93085,7 +92825,7 @@
       "image": "[[File:Teak plank.png|class=inventory-image|link=Teak plank]]",
       "name": "Teak plank",
       "quantity": "2",
-      "subtxt": "Sawmill"
+      "subtxt": "Sawmill + Sawmill Voucher"
     },
     "skills": [],
     "ticks": "1"
@@ -93162,7 +92902,7 @@
       "image": "[[File:Teak plank.png|class=inventory-image|link=Teak plank]]",
       "name": "Teak plank",
       "quantity": "2",
-      "subtxt": "Plank Make"
+      "subtxt": "Plank Make + Sawmill Voucher"
     },
     "skills": [
       {
@@ -95126,14 +94866,14 @@
       },
       {
         "name": "Coins",
-        "quantity": "6000"
+        "quantity": "30000"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Twisted extract.png|class=inventory-image|link=Twisted extract]]",
       "name": "Twisted extract",
-      "quantity": "1"
+      "quantity": "5"
     },
     "skills": [],
     "ticks": "0"
@@ -98066,14 +97806,14 @@
       },
       {
         "name": "Coins",
-        "quantity": "1250"
+        "quantity": "6250"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Warped extract.png|class=inventory-image|link=Warped extract]]",
       "name": "Warped extract",
-      "quantity": "1"
+      "quantity": "5"
     },
     "skills": [],
     "ticks": "0"

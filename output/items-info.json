@@ -13670,7 +13670,7 @@
     "version": null
   },
   {
-    "examineText": "A thick green palm leaf.",
+    "examineText": "A thick green palm leaf used by natives to cook meat in.",
     "group": "Palm leaf",
     "isMembers": true,
     "isTradeable": false,
@@ -16771,22 +16771,22 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (medium, map 2)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2829,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium,_map_2)",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (medium) - To the east of the Ranging guild",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 2829,
     "name": "Clue scroll (medium)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_To_the_east_of_the_Ranging_guild",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium, map 2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 2829,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium,_map_2)",
     "version": null
   },
   {
@@ -73333,7 +73333,7 @@
     "examineText": "Teleports you to the Key Master.",
     "group": "Key master teleport",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 13249,
     "name": "Key master teleport",
     "url": "https://oldschool.runescape.wiki/w/Key_master_teleport",
@@ -82240,7 +82240,7 @@
     "version": null
   },
   {
-    "examineText": "A key to the lair of Obor, the Hill Titan.",
+    "examineText": "A key to the chest of Obor, the Hill Titan.",
     "group": "Giant key",
     "isMembers": false,
     "isTradeable": false,
@@ -89990,7 +89990,7 @@
     "version": null
   },
   {
-    "examineText": "A key to the lair of Bryophyta, the Moss Giantess.",
+    "examineText": "A key to the chest of Bryophyta, the Moss Giantess.",
     "group": "Mossy key",
     "isMembers": false,
     "isTradeable": false,
@@ -128467,17 +128467,17 @@
     "itemID": 30434,
     "name": "Echo venator bow",
     "url": "https://oldschool.runescape.wiki/w/Echo_venator_bow",
-    "version": "Uncharged"
+    "version": "Charged"
   },
   {
     "examineText": "A bow used by hunters from a forgotten empire.",
     "group": "Echo venator bow",
     "isMembers": true,
     "isTradeable": false,
-    "itemID": 30434,
+    "itemID": 30436,
     "name": "Echo venator bow",
     "url": "https://oldschool.runescape.wiki/w/Echo_venator_bow",
-    "version": "Charged"
+    "version": "Uncharged"
   },
   {
     "examineText": "Virtus mask in the style of Leagues V: Raging Echoes.",
@@ -130007,6 +130007,56 @@
     "itemID": 30890,
     "name": "Rotten turnip",
     "url": "https://oldschool.runescape.wiki/w/Rotten_turnip",
+    "version": null
+  },
+  {
+    "examineText": "A powerful polearm imbued with pinpoint precision.",
+    "group": "Keris partisan of amascut",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30891,
+    "name": "Keris partisan of amascut",
+    "url": "https://oldschool.runescape.wiki/w/Keris_partisan_of_amascut",
+    "version": null
+  },
+  {
+    "examineText": "A jewel that amascut once used and has now discarded.",
+    "group": "Jewel of amascut",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30893,
+    "name": "Jewel of amascut",
+    "url": "https://oldschool.runescape.wiki/w/Jewel_of_amascut",
+    "version": null
+  },
+  {
+    "examineText": "A very old enchanted ring.",
+    "group": "Steel ring",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30895,
+    "name": "Steel ring",
+    "url": "https://oldschool.runescape.wiki/w/Steel_ring",
+    "version": null
+  },
+  {
+    "examineText": "Bigger than big bones",
+    "group": "Giant bones",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30898,
+    "name": "Giant bones",
+    "url": "https://oldschool.runescape.wiki/w/Giant_bones",
+    "version": null
+  },
+  {
+    "examineText": "Sharks just can't get enough of these",
+    "group": "Shark lure",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30900,
+    "name": "Shark lure",
+    "url": "https://oldschool.runescape.wiki/w/Shark_lure",
     "version": null
   }
 ]
