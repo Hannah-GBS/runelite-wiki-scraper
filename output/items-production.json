@@ -11099,24 +11099,6 @@
     "tools": "Pestle and mortar"
   },
   {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -11132,7 +11114,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,031,455</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">120,815,352</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11150,6 +11132,24 @@
       }
     ],
     "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -11186,6 +11186,42 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Enhanced crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
+      "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1",
+      "subtxt": "Full process"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "8"
   },
   {
     "materials": [
@@ -11333,42 +11369,6 @@
     },
     "skills": [],
     "ticks": "0"
-  },
-  {
-    "facilities": "Singing bowl",
-    "materials": [
-      {
-        "name": "Enhanced crystal weapon seed",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "1000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
-      "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
-      "name": "Blade of saeldor (c)",
-      "quantity": "1",
-      "subtxt": "Full process"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "8"
   },
   {
     "materials": [
@@ -16012,7 +16012,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">121,562,933</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">123,629,629</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -21430,7 +21430,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "no",
         "experience": "50",
         "level": "50",
         "name": "Runecraft"
@@ -56847,30 +56847,6 @@
     "facilities": "Refiner",
     "materials": [
       {
-        "name": "Snapdragon",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Lye paste.png|class=inventory-image|link=Lye paste]]",
-      "name": "Lye paste",
-      "quantity": "40"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "6",
-        "level": "?",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Refiner",
-    "materials": [
-      {
         "name": "Ranarr potion (unf)",
         "quantity": "1"
       }
@@ -56967,6 +56943,30 @@
     "facilities": "Refiner",
     "materials": [
       {
+        "name": "Snapdragon",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|class=inventory-image|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "1",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
         "name": "Snapdragon potion (unf)",
         "quantity": "1"
       }
@@ -56981,7 +56981,7 @@
       {
         "boostable": "",
         "experience": "6",
-        "level": "?",
+        "level": "1",
         "name": "Herblore"
       }
     ],
@@ -59558,6 +59558,31 @@
     "facilities": "Mind Altar",
     "materials": [
       {
+        "name": "Pure essence",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mind rune.png|class=inventory-image|link=Mind rune]]",
+      "name": "Mind rune",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "5.5",
+        "level": "2",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Mind tiara, Mind talisman"
+  },
+  {
+    "facilities": "Mind Altar",
+    "materials": [
+      {
         "name": "Daeyalt essence",
         "quantity": "1"
       }
@@ -59652,31 +59677,6 @@
         "boostable": "no",
         "experience": "5.5",
         "level": "60",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Mind tiara, Mind talisman"
-  },
-  {
-    "facilities": "Mind Altar",
-    "materials": [
-      {
-        "name": "Pure essence",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mind rune.png|class=inventory-image|link=Mind rune]]",
-      "name": "Mind rune",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "5.5",
-        "level": "2",
         "name": "Runecraft"
       }
     ],
@@ -61941,10 +61941,6 @@
     "facilities": "Pellem",
     "materials": [
       {
-        "name": "Mixed hide base",
-        "quantity": "1"
-      },
-      {
         "name": "Sunlight antelope fur",
         "quantity": "1"
       },
@@ -62033,10 +62029,6 @@
     "facilities": "Pellem",
     "materials": [
       {
-        "name": "Mixed hide base",
-        "quantity": "1"
-      },
-      {
         "name": "Jaguar fur",
         "quantity": "1"
       },
@@ -62125,10 +62117,6 @@
     "facilities": "Pellem",
     "materials": [
       {
-        "name": "Mixed hide base",
-        "quantity": "1"
-      },
-      {
         "name": "Fox fur",
         "quantity": "3"
       },
@@ -62216,10 +62204,6 @@
   {
     "facilities": "Pellem",
     "materials": [
-      {
-        "name": "Mixed hide base",
-        "quantity": "1"
-      },
       {
         "name": "Sunlight antelope fur",
         "quantity": "2"
@@ -63435,54 +63419,6 @@
     "facilities": "Refiner",
     "materials": [
       {
-        "name": "Guam leaf",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
-      "name": "Mox paste",
-      "quantity": "10"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "6",
-        "level": "?",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Refiner",
-    "materials": [
-      {
-        "name": "Marrentill",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
-      "name": "Mox paste",
-      "quantity": "13"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "6",
-        "level": "?",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Refiner",
-    "materials": [
-      {
         "name": "Tarromin",
         "quantity": "1"
       }
@@ -63531,6 +63467,78 @@
     "facilities": "Refiner",
     "materials": [
       {
+        "name": "Harralander potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "1",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Guam leaf",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "1",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Marrentill",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "13"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "1",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
         "name": "Guam potion (unf)",
         "quantity": "1"
       }
@@ -63545,7 +63553,7 @@
       {
         "boostable": "",
         "experience": "6",
-        "level": "?",
+        "level": "1",
         "name": "Herblore"
       }
     ],
@@ -63569,7 +63577,7 @@
       {
         "boostable": "",
         "experience": "6",
-        "level": "?",
+        "level": "1",
         "name": "Herblore"
       }
     ],
@@ -63588,30 +63596,6 @@
       "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
       "name": "Mox paste",
       "quantity": "15"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "6",
-        "level": "?",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Refiner",
-    "materials": [
-      {
-        "name": "Harralander potion (unf)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
-      "name": "Mox paste",
-      "quantity": "20"
     },
     "skills": [
       {
@@ -66528,6 +66512,39 @@
       }
     ],
     "ticks": "4"
+  },
+  {
+    "facilities": "Workbench (Sailing beta)",
+    "materials": [
+      {
+        "name": "Oak plank",
+        "quantity": "3"
+      },
+      {
+        "name": "Iron nails",
+        "quantity": "15"
+      },
+      {
+        "name": "Swamp paste",
+        "quantity": "5"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Oak repair kit.png|class=inventory-image|link=Oak repair kit]]",
+      "name": "Oak repair kit",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "180",
+        "level": "19",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer, saw"
   },
   {
     "materials": [
@@ -74165,6 +74182,38 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Plank",
+        "quantity": "3"
+      },
+      {
+        "name": "Bronze nails",
+        "quantity": "15"
+      },
+      {
+        "name": "Swamp paste",
+        "quantity": "5"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Repair kit.png|class=inventory-image|link=Repair kit]]",
+      "name": "Repair kit",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "87",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer, saw"
   },
   {
     "materials": [
@@ -85372,7 +85421,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "no",
         "experience": "50",
         "level": "50",
         "name": "Runecraft"
@@ -85700,7 +85749,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "no",
         "experience": "50",
         "level": "50",
         "name": "Runecraft"

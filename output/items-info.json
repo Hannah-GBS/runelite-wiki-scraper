@@ -47252,7 +47252,7 @@
   {
     "examineText": "An unimbued rune of extra capability.",
     "group": "Pure essence",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": true,
     "itemID": 7936,
     "name": "Pure essence",
@@ -99570,6 +99570,66 @@
     "version": null
   },
   {
+    "examineText": "Contains a beginner clue scroll.",
+    "group": "Scroll box (beginner)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 24361,
+    "name": "Scroll box (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(beginner)",
+    "version": null
+  },
+  {
+    "examineText": "Contains an easy clue scroll.",
+    "group": "Scroll box (easy)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24362,
+    "name": "Scroll box (easy)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(easy)",
+    "version": null
+  },
+  {
+    "examineText": "Contains a medium clue scroll.",
+    "group": "Scroll box (medium)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24363,
+    "name": "Scroll box (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(medium)",
+    "version": null
+  },
+  {
+    "examineText": "Contains a hard clue scroll.",
+    "group": "Scroll box (hard)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24364,
+    "name": "Scroll box (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(hard)",
+    "version": null
+  },
+  {
+    "examineText": "Contains an elite clue scroll.",
+    "group": "Scroll box (elite)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24365,
+    "name": "Scroll box (elite)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(elite)",
+    "version": null
+  },
+  {
+    "examineText": "Contains a master clue scroll.",
+    "group": "Scroll box (master)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 24366,
+    "name": "Scroll box (master)",
+    "url": "https://oldschool.runescape.wiki/w/Scroll_box_(master)",
+    "version": null
+  },
+  {
     "examineText": "Looks like a cabbage.",
     "group": "Cabbage (unobtainable item)",
     "isMembers": false,
@@ -130057,6 +130117,136 @@
     "itemID": 30900,
     "name": "Shark lure",
     "url": "https://oldschool.runescape.wiki/w/Shark_lure",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Minor beginner scroll case",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30902,
+    "name": "Minor beginner scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Minor_beginner_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Major beginner scroll case",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30904,
+    "name": "Major beginner scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Major_beginner_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Minor easy scroll case",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30906,
+    "name": "Minor easy scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Minor_easy_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Major easy scroll case",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30908,
+    "name": "Major easy scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Major_easy_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Minor medium scroll case",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30910,
+    "name": "Minor medium scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Minor_medium_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Major medium scroll case",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30912,
+    "name": "Major medium scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Major_medium_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Minor hard scroll case",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30914,
+    "name": "Minor hard scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Minor_hard_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Major hard scroll case",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30916,
+    "name": "Major hard scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Major_hard_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Minor elite scroll case",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30918,
+    "name": "Minor elite scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Minor_elite_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Major elite scroll case",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30920,
+    "name": "Major elite scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Major_elite_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Minor master scroll case",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30922,
+    "name": "Minor master scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Minor_master_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Major master scroll case",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30924,
+    "name": "Major master scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Major_master_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "Maybe I should open it...",
+    "group": "Mimic scroll case",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30926,
+    "name": "Mimic scroll case",
+    "url": "https://oldschool.runescape.wiki/w/Mimic_scroll_case",
     "version": null
   }
 ]
