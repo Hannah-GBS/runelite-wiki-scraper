@@ -9484,7 +9484,7 @@
       {
         "currency": "Coins",
         "name": "Dragon scimitar",
-        "stock": "0; 4{{Refn|Only in stock if [[Monkey Madness I]] is completed.}}",
+        "stock": "0",
         "version": null
       },
       {
@@ -9508,6 +9508,45 @@
     ],
     "location": "Ape Atoll",
     "name": "Daga's Scimitar Smithy",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "500",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bronze scimitar",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Dragon scimitar",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron scimitar",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril scimitar",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel scimitar",
+        "stock": "8",
+        "version": null
+      }
+    ],
+    "location": "Ape Atoll",
+    "name": "Daga's Scimitar Smithy Monkey Madness I",
     "sellMultiplier": "1000"
   },
   {
