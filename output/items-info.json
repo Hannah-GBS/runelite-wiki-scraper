@@ -90797,7 +90797,7 @@
     "itemID": 22531,
     "name": "Coin pouch",
     "url": "https://oldschool.runescape.wiki/w/Coin_pouch",
-    "version": "Knight of Ardougne"
+    "version": "Knight"
   },
   {
     "examineText": "A pouch full of coins taken from the pockets of a Pollnivnian bandit.",
@@ -130152,7 +130152,7 @@
   {
     "examineText": "Maybe I should open it...",
     "group": "Major easy scroll case",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 30908,
     "name": "Major easy scroll case",
@@ -130172,7 +130172,7 @@
   {
     "examineText": "Maybe I should open it...",
     "group": "Major medium scroll case",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 30912,
     "name": "Major medium scroll case",
@@ -130192,7 +130192,7 @@
   {
     "examineText": "Maybe I should open it...",
     "group": "Major hard scroll case",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 30916,
     "name": "Major hard scroll case",
@@ -130202,7 +130202,7 @@
   {
     "examineText": "Maybe I should open it...",
     "group": "Minor elite scroll case",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 30918,
     "name": "Minor elite scroll case",
@@ -130212,7 +130212,7 @@
   {
     "examineText": "Maybe I should open it...",
     "group": "Major elite scroll case",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 30920,
     "name": "Major elite scroll case",
@@ -130222,7 +130222,7 @@
   {
     "examineText": "Maybe I should open it...",
     "group": "Minor master scroll case",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 30922,
     "name": "Minor master scroll case",
@@ -130232,7 +130232,7 @@
   {
     "examineText": "Maybe I should open it...",
     "group": "Major master scroll case",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 30924,
     "name": "Major master scroll case",
@@ -130242,7 +130242,7 @@
   {
     "examineText": "Maybe I should open it...",
     "group": "Mimic scroll case",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": false,
     "itemID": 30926,
     "name": "Mimic scroll case",
