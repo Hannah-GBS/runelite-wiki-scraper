@@ -7399,6 +7399,35 @@
     "ticks": "1"
   },
   {
+    "facilities": "Astral Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Mangled extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Astral rune.png|class=inventory-image|link=Astral rune]]",
+      "name": "Astral rune",
+      "quantity": "61",
+      "quantitynote": "The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "8.7",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Astral rune",
@@ -11099,6 +11128,24 @@
     "tools": "Pestle and mortar"
   },
   {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -11114,7 +11161,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">120,815,352</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">117,714,890</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11132,24 +11179,6 @@
       }
     ],
     "ticks": "5"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -11186,42 +11215,6 @@
       }
     ],
     "ticks": "3"
-  },
-  {
-    "facilities": "Singing bowl",
-    "materials": [
-      {
-        "name": "Enhanced crystal weapon seed",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "1000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
-      "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
-      "name": "Blade of saeldor (c)",
-      "quantity": "1",
-      "subtxt": "Full process"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "8"
   },
   {
     "materials": [
@@ -11369,6 +11362,42 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Enhanced crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "1000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "costnote": "Value based on the cost of an [[enhanced crystal weapon seed]]",
+      "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1",
+      "subtxt": "Full process"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "8"
   },
   {
     "materials": [
@@ -13838,6 +13867,36 @@
     "ticks": "1"
   },
   {
+    "facilities": "Blood Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Scarred extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blood rune.png|class=inventory-image|link=Blood rune]]",
+      "name": "Blood rune",
+      "quantity": "61",
+      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 60 runes from the extract."
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "10.5",
+        "level": "77",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Blood tiara, Blood talisman"
+  },
+  {
     "facilities": "Blood Altar (Kourend)",
     "materials": [
       {
@@ -13850,6 +13909,35 @@
       "image": "[[File:Blood rune.png|class=inventory-image|link=Blood rune]]",
       "name": "Blood rune",
       "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "23.8",
+        "level": "77",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Blood Altar (Kourend)",
+    "materials": [
+      {
+        "name": "Dark essence fragments",
+        "quantity": "1"
+      },
+      {
+        "name": "Scarred extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blood rune.png|class=inventory-image|link=Blood rune]]",
+      "name": "Blood rune",
+      "quantity": "61",
+      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 60 runes from the extract."
     },
     "skills": [
       {
@@ -15231,6 +15319,36 @@
     "facilities": "Body Altar",
     "materials": [
       {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Warped extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Body rune.png|class=inventory-image|link=Body rune]]",
+      "name": "Body rune",
+      "quantity": "252",
+      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 250 runes from the extract."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "7.5",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Body tiara, Body talisman"
+  },
+  {
+    "facilities": "Body Altar",
+    "materials": [
+      {
         "name": "Tiara",
         "quantity": "1"
       },
@@ -16012,7 +16130,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">123,629,629</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">119,739,443</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -22623,6 +22741,36 @@
     "facilities": "Chaos Altar",
     "materials": [
       {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Chaos rune.png|class=inventory-image|link=Chaos rune]]",
+      "name": "Chaos rune",
+      "quantity": "61",
+      "quantitynote": "The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "8.5",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Chaos tiara, Chaos talisman"
+  },
+  {
+    "facilities": "Chaos Altar",
+    "materials": [
+      {
         "name": "Tiara",
         "quantity": "1"
       },
@@ -23394,7 +23542,7 @@
       "image": "[[File:Chromium ingot.png|class=inventory-image|link=Chromium ingot]]",
       "name": "Chromium ingot",
       "quantity": "1",
-      "subtxt": "Chromium ingot (first time)"
+      "subtxt": "first time"
     },
     "skills": [
       {
@@ -23427,7 +23575,7 @@
       "image": "[[File:Chromium ingot.png|class=inventory-image|link=Chromium ingot]]",
       "name": "Chromium ingot",
       "quantity": "1",
-      "subtxt": "Chromium ingot (first time)"
+      "subtxt": "subsequent times"
     },
     "skills": [
       {
@@ -33359,6 +33507,36 @@
     "facilities": "Death Altar",
     "materials": [
       {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Mangled extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Death rune.png|class=inventory-image|link=Death rune]]",
+      "name": "Death rune",
+      "quantity": "61",
+      "quantitynote": "The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "10",
+        "level": "65",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Death tiara, Death talisman"
+  },
+  {
+    "facilities": "Death Altar",
+    "materials": [
+      {
         "name": "Tiara",
         "quantity": "1"
       },
@@ -37854,6 +38032,82 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
+  },
+  {
+    "facilities": "Air Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dust rune.png|class=inventory-image|link=Dust rune]]",
+      "name": "Dust rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "8.3",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Air tiara, Binding necklace, Magic Imbue"
+  },
+  {
+    "facilities": "Earth Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Air rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Air talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dust rune.png|class=inventory-image|link=Dust rune]]",
+      "name": "Dust rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "9",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Earth tiara, Binding necklace, Magic Imbue"
   },
   {
     "materials": [
@@ -54871,6 +55125,44 @@
     "tools": "Binding necklace, Magic Imbue"
   },
   {
+    "facilities": "Earth Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lava rune.png|class=inventory-image|link=Lava rune]]",
+      "name": "Lava rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "10",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Earth tiara, Binding necklace, Magic Imbue"
+  },
+  {
     "facilities": "Fire Altar",
     "materials": [
       {
@@ -54974,6 +55266,44 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
+  },
+  {
+    "facilities": "Fire Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lava rune.png|class=inventory-image|link=Lava rune]]",
+      "name": "Lava rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "10.5",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Fire tiara, Binding necklace, Magic Imbue"
   },
   {
     "materials": [
@@ -55104,6 +55434,36 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Law Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Mangled extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Law rune.png|class=inventory-image|link=Law rune]]",
+      "name": "Law rune",
+      "quantity": "61",
+      "quantitynote": "The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "9.5",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Law tiara, Law talisman"
   },
   {
     "facilities": "Law Altar",
@@ -58462,7 +58822,7 @@
     "facilities": "Cooking range",
     "materials": [
       {
-        "name": "Pasty jogre bones (normal cooked)",
+        "name": "Pasty jogre bones (normal raw)",
         "quantity": "1"
       }
     ],
@@ -59867,6 +60227,44 @@
     "tools": "Binding necklace, Magic Imbue"
   },
   {
+    "facilities": "Air Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Water rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Water talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mist rune.png|class=inventory-image|link=Mist rune]]",
+      "name": "Mist rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "8",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Air tiara, Binding necklace, Magic Imbue"
+  },
+  {
     "facilities": "Water Altar",
     "materials": [
       {
@@ -59970,6 +60368,44 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
+  },
+  {
+    "facilities": "Water Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Air rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Air talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mist rune.png|class=inventory-image|link=Mist rune]]",
+      "name": "Mist rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "8.5",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Water tiara, Binding necklace, Magic Imbue"
   },
   {
     "materials": [
@@ -63737,6 +64173,44 @@
     "tools": "Binding necklace, Magic Imbue"
   },
   {
+    "facilities": "Water Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mud rune.png|class=inventory-image|link=Mud rune]]",
+      "name": "Mud rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "9.3",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Water tiara, Binding necklace, Magic Imbue"
+  },
+  {
     "facilities": "Earth Altar",
     "materials": [
       {
@@ -63840,6 +64314,44 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
+  },
+  {
+    "facilities": "Earth Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Water rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Water talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mud rune.png|class=inventory-image|link=Mud rune]]",
+      "name": "Mud rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "9.5",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Earth tiara, Binding necklace, Magic Imbue"
   },
   {
     "facilities": "Well (Paterdomus)",
@@ -65856,6 +66368,36 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Nature Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Mangled extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Nature rune.png|class=inventory-image|link=Nature rune]]",
+      "name": "Nature rune",
+      "quantity": "61",
+      "quantitynote": "The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "9",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Nature tiara, Nature talisman"
   },
   {
     "facilities": "Nature Altar",
@@ -74268,6 +74810,108 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient emblem",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Revenant ether.png|class=inventory-image|link=Revenant ether]]",
+      "name": "Revenant ether",
+      "quantity": "1000"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient totem",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Revenant ether.png|class=inventory-image|link=Revenant ether]]",
+      "name": "Revenant ether",
+      "quantity": "2000"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient statuette",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Revenant ether.png|class=inventory-image|link=Revenant ether]]",
+      "name": "Revenant ether",
+      "quantity": "4000"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient medallion",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Revenant ether.png|class=inventory-image|link=Revenant ether]]",
+      "name": "Revenant ether",
+      "quantity": "8000"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient effigy",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Revenant ether.png|class=inventory-image|link=Revenant ether]]",
+      "name": "Revenant ether",
+      "quantity": "16000"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Ancient relic",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Revenant ether.png|class=inventory-image|link=Revenant ether]]",
+      "name": "Revenant ether",
+      "quantity": "32000"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Chisel"
   },
   {
     "materials": [
@@ -84534,6 +85178,44 @@
     "tools": "Binding necklace, Magic Imbue"
   },
   {
+    "facilities": "Air Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Smoke rune.png|class=inventory-image|link=Smoke rune]]",
+      "name": "Smoke rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "8.5",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Air tiara, Binding necklace, Magic Imbue"
+  },
+  {
     "facilities": "Fire Altar",
     "materials": [
       {
@@ -84637,6 +85319,44 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
+  },
+  {
+    "facilities": "Fire Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Air rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Air talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Smoke rune.png|class=inventory-image|link=Smoke rune]]",
+      "name": "Smoke rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "9.5",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Fire tiara, Binding necklace, Magic Imbue"
   },
   {
     "materials": [
@@ -85807,6 +86527,35 @@
       "image": "[[File:Soul rune.png|class=inventory-image|link=Soul rune]]",
       "name": "Soul rune",
       "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "29.7",
+        "level": "90",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Soul Altar",
+    "materials": [
+      {
+        "name": "Dark essence fragments",
+        "quantity": "1"
+      },
+      {
+        "name": "Scarred extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Soul rune.png|class=inventory-image|link=Soul rune]]",
+      "name": "Soul rune",
+      "quantity": "61",
+      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 60 runes from the extract."
     },
     "skills": [
       {
@@ -87752,6 +88501,44 @@
     "tools": "Binding necklace, Magic Imbue"
   },
   {
+    "facilities": "Water Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Fire talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steam rune.png|class=inventory-image|link=Steam rune]]",
+      "name": "Steam rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "9.3",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Water tiara, Binding necklace, Magic Imbue"
+  },
+  {
     "facilities": "Fire Altar",
     "materials": [
       {
@@ -87855,6 +88642,44 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
+  },
+  {
+    "facilities": "Fire Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Water rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Water talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Steam rune.png|class=inventory-image|link=Steam rune]]",
+      "name": "Steam rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "10",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Fire tiara, Binding necklace, Magic Imbue"
   },
   {
     "facilities": "Anvil",
