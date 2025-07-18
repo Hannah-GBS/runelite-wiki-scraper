@@ -16771,22 +16771,22 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (medium) - To the east of the Ranging guild",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2829,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_To_the_east_of_the_Ranging_guild",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (medium, map 2)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 2829,
     "name": "Clue scroll (medium)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium,_map_2)",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - To the east of the Ranging guild",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 2829,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_To_the_east_of_the_Ranging_guild",
     "version": null
   },
   {
@@ -93697,6 +93697,56 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Near_the_open_desert_I_reside",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - West of the Champions' Guild",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_West_of_the_Champions%27_Guild",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - At the standing stones north of Falador",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_At_the_standing_stones_north_of_Falador",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - South-east Varrock mine",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_South-east_Varrock_mine",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - South of Draynor Village bank",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_South_of_Draynor_Village_bank",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Directly behind the Wizards' Tower",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Directly_behind_the_Wizards%27_Tower",
     "version": null
   },
   {

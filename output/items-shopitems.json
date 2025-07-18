@@ -25787,6 +25787,21 @@
     "name": "Master fisher"
   },
   {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Helm of neitiznot",
+        "sellPrice": "50000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Neitiznot",
+    "name": "Mawnis Burowgar"
+  },
+  {
     "isMembers": false,
     "items": [
       {
@@ -32017,6 +32032,29 @@
     ],
     "location": "Yanille",
     "name": "Selena"
+  },
+  {
+    "isMembers": false,
+    "items": [
+      {
+        "buyPrice": "n/a",
+        "currency": "Coins",
+        "name": "Keris",
+        "sellPrice": "20000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "n/a",
+        "currency": "Coins",
+        "name": "Keris partisan",
+        "sellPrice": "60000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Al Kharid",
+    "name": "Selim"
   },
   {
     "buyMultiplier": "700",
