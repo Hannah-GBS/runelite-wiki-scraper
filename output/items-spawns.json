@@ -5586,13 +5586,13 @@
       {
         "coords": "2671,3737",
         "isMembers": true,
-        "location": "Rellekka - on a small island near the rock crabs",
+        "location": "Rellekka - on a small island near the rock crabs{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Nature rune"
       },
       {
         "coords": "3311,3853",
         "isMembers": false,
-        "location": "Wilderness - on a small island south-east of the Demonic Ruins",
+        "location": "Wilderness - on a small island south-east of the Demonic Ruins{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Nature rune"
       }
     ]
