@@ -93641,16 +93641,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - Spin at Flynn's Mace Shop",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - Always walking around the castle grounds",
     "isMembers": false,
     "isTradeable": false,
@@ -93701,22 +93691,42 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - West of the Champions' Guild",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_West_of_the_Champions%27_Guild",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - At the standing stones north of Falador",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_At_the_standing_stones_north_of_Falador",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Directly behind the Wizards' Tower",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Directly_behind_the_Wizards%27_Tower",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Spin at Flynn's Mace Shop",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - West of the Champions' Guild",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_West_of_the_Champions%27_Guild",
     "version": null
   },
   {
@@ -93737,16 +93747,6 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_South_of_Draynor_Village_bank",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - Directly behind the Wizards' Tower",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Directly_behind_the_Wizards%27_Tower",
     "version": null
   },
   {
@@ -130297,6 +130297,946 @@
     "itemID": 30926,
     "name": "Mimic scroll case",
     "url": "https://oldschool.runescape.wiki/w/Mimic_scroll_case",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - YAROYGR",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30929,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_YAROYGR",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (hard) - 5.03N 34.58W",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30931,
+    "name": "Clue scroll (hard)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_5.03N_34.58W",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (elite) - Crush the spirited earth",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30932,
+    "name": "Clue scroll (elite)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(elite)_-_Crush_the_spirited_earth",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - CUTE HI",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30933,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_CUTE_HI",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium) - Search the crate abandoned in the shadow of a mountain's grace",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30935,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_Search_the_crate_abandoned_in_the_shadow_of_a_mountain%27s_grace",
+    "version": null
+  },
+  {
+    "examineText": "It's been in the river.",
+    "group": "Wet fabric scrap",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30936,
+    "name": "Wet fabric scrap",
+    "url": "https://oldschool.runescape.wiki/w/Wet_fabric_scrap",
+    "version": null
+  },
+  {
+    "examineText": "Some tasty blue berries.",
+    "group": "Caerula berries",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30937,
+    "name": "Caerula berries",
+    "url": "https://oldschool.runescape.wiki/w/Caerula_berries",
+    "version": null
+  },
+  {
+    "examineText": "Apparently helps with nerves.",
+    "group": "Mind mender",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30939,
+    "name": "Mind mender",
+    "url": "https://oldschool.runescape.wiki/w/Mind_mender",
+    "version": null
+  },
+  {
+    "examineText": "For a good boy.",
+    "group": "Dog tag (unobtainable item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30940,
+    "name": "Gus (dog tag)",
+    "url": "https://oldschool.runescape.wiki/w/Dog_tag_(unobtainable_item)",
+    "version": null
+  },
+  {
+    "examineText": "A small leather coin purse with some money in it.",
+    "group": "Coin purse",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30941,
+    "name": "Coin purse",
+    "url": "https://oldschool.runescape.wiki/w/Coin_purse",
+    "version": "Filled"
+  },
+  {
+    "examineText": "An empty leather coin purse.",
+    "group": "Coin purse",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30941,
+    "name": "Empty coin purse",
+    "url": "https://oldschool.runescape.wiki/w/Coin_purse",
+    "version": "Empty"
+  },
+  {
+    "examineText": "An empty leather coin purse.",
+    "group": "Empty coin purse",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30942,
+    "name": "Empty coin purse",
+    "url": "https://oldschool.runescape.wiki/w/Empty_coin_purse",
+    "version": null
+  },
+  {
+    "examineText": "A sand-filled leather coin purse.",
+    "group": "Sandy coin purse",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30943,
+    "name": "Sandy coin purse",
+    "url": "https://oldschool.runescape.wiki/w/Sandy_coin_purse",
+    "version": null
+  },
+  {
+    "examineText": "Should just about do the job.",
+    "group": "Makeshift blackjack",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30944,
+    "name": "Makeshift blackjack",
+    "url": "https://oldschool.runescape.wiki/w/Makeshift_blackjack",
+    "version": null
+  },
+  {
+    "examineText": "A springy branch.",
+    "group": "Branch (The Final Dawn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30945,
+    "name": "Branch (The Final Dawn)",
+    "url": "https://oldschool.runescape.wiki/w/Branch_(The_Final_Dawn)",
+    "version": null
+  },
+  {
+    "examineText": "A key to the basement.",
+    "group": "Key (Forebearer Janus)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30946,
+    "name": "Key (Forebearer Janus)",
+    "url": "https://oldschool.runescape.wiki/w/Key_(Forebearer_Janus)",
+    "version": null
+  },
+  {
+    "examineText": "An empty potato sack with convenient eye holes.",
+    "group": "Potato sack",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30947,
+    "name": "Potato sack",
+    "url": "https://oldschool.runescape.wiki/w/Potato_sack",
+    "version": null
+  },
+  {
+    "examineText": "A scroll with a message for Metzli.",
+    "group": "Emissary scroll",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30949,
+    "name": "Emissary scroll",
+    "url": "https://oldschool.runescape.wiki/w/Emissary_scroll",
+    "version": null
+  },
+  {
+    "examineText": "The face of the sun, painted on canvas.",
+    "group": "Canvas piece",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30950,
+    "name": "Canvas piece",
+    "url": "https://oldschool.runescape.wiki/w/Canvas_piece",
+    "version": null
+  },
+  {
+    "examineText": "An ornate key.",
+    "group": "Key (The Final Dawn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30951,
+    "name": "Key (The Final Dawn)",
+    "url": "https://oldschool.runescape.wiki/w/Key_(The_Final_Dawn)",
+    "version": null
+  },
+  {
+    "examineText": "Some writing has been carved into it.",
+    "group": "Stone tablet (The Final Dawn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30952,
+    "name": "Stone tablet (The Final Dawn)",
+    "url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Final_Dawn)",
+    "version": "1"
+  },
+  {
+    "examineText": "Some writing has been carved into it.",
+    "group": "Stone tablet (The Final Dawn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30953,
+    "name": "Stone tablet (The Final Dawn)",
+    "url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Final_Dawn)",
+    "version": "2"
+  },
+  {
+    "examineText": "Some writing has been carved into it.",
+    "group": "Stone tablet (The Final Dawn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30954,
+    "name": "Stone tablet (The Final Dawn)",
+    "url": "https://oldschool.runescape.wiki/w/Stone_tablet_(The_Final_Dawn)",
+    "version": "3"
+  },
+  {
+    "examineText": "A powerful sword imbued with the fire of the sun.",
+    "group": "Arkan blade",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30955,
+    "name": "Arkan blade",
+    "url": "https://oldschool.runescape.wiki/w/Arkan_blade",
+    "version": null
+  },
+  {
+    "examineText": "Shaped from rock that was sharpened by time.",
+    "group": "Earthbound tecpatl",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30957,
+    "name": "Earthbound tecpatl",
+    "url": "https://oldschool.runescape.wiki/w/Earthbound_tecpatl",
+    "version": null
+  },
+  {
+    "examineText": "Give it a rub.",
+    "group": "Antique lamp (The Final Dawn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30960,
+    "name": "Antique lamp",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_(The_Final_Dawn)",
+    "version": null
+  },
+  {
+    "examineText": "A strange shard, filled with energy.",
+    "group": "Keystone fragment",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30961,
+    "name": "Keystone fragment",
+    "url": "https://oldschool.runescape.wiki/w/Keystone_fragment",
+    "version": null
+  },
+  {
+    "examineText": "A ancient piece of essence.",
+    "group": "Kuhu essence",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30962,
+    "name": "Kuhu essence",
+    "url": "https://oldschool.runescape.wiki/w/Kuhu_essence",
+    "version": null
+  },
+  {
+    "examineText": "Very old roots.",
+    "group": "Ancient roots",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30963,
+    "name": "Ancient roots",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_roots",
+    "version": null
+  },
+  {
+    "examineText": "Good for starting fires.",
+    "group": "Root kindling",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30964,
+    "name": "Root kindling",
+    "url": "https://oldschool.runescape.wiki/w/Root_kindling",
+    "version": null
+  },
+  {
+    "examineText": "It's very old and lacks a handle, but it should still be usable.",
+    "group": "Knife blade",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30965,
+    "name": "Knife blade",
+    "url": "https://oldschool.runescape.wiki/w/Knife_blade",
+    "version": null
+  },
+  {
+    "examineText": "A portable teleporter.",
+    "group": "Ancient teleporter",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30966,
+    "name": "Ancient teleporter",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_teleporter",
+    "version": null
+  },
+  {
+    "examineText": "A larger than normal chicken egg.",
+    "group": "Large egg",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30967,
+    "name": "Large egg",
+    "url": "https://oldschool.runescape.wiki/w/Large_egg",
+    "version": null
+  },
+  {
+    "examineText": "The egg of a dragon. It feels slightly warm.",
+    "group": "Dragon egg (Scrambled!)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30968,
+    "name": "Dragon egg",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_egg_(Scrambled!)",
+    "version": null
+  },
+  {
+    "examineText": "The egg of a jaguar... apparently.",
+    "group": "Jaguar egg",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30969,
+    "name": "Jaguar egg",
+    "url": "https://oldschool.runescape.wiki/w/Jaguar_egg",
+    "version": null
+  },
+  {
+    "examineText": "An egg.",
+    "group": "Humphrey Dumphrey",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30970,
+    "name": "Egg",
+    "url": "https://oldschool.runescape.wiki/w/Humphrey_Dumphrey",
+    "version": null
+  },
+  {
+    "examineText": "RIP.",
+    "group": "Alan's bones",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30973,
+    "name": "Alan's bones",
+    "url": "https://oldschool.runescape.wiki/w/Alan%27s_bones",
+    "version": null
+  },
+  {
+    "examineText": "A pot of Alan's crushed bones.",
+    "group": "Alan's bonemeal",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30975,
+    "name": "Alan's bonemeal",
+    "url": "https://oldschool.runescape.wiki/w/Alan%27s_bonemeal",
+    "version": null
+  },
+  {
+    "examineText": "Leaves from a fragrant shrub.",
+    "group": "Damiana leaves",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30977,
+    "name": "Damiana leaves",
+    "url": "https://oldschool.runescape.wiki/w/Damiana_leaves",
+    "version": null
+  },
+  {
+    "examineText": "It's a bowl of water, with some damiana leaves in it.",
+    "group": "Damiana water",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30979,
+    "name": "Damiana water",
+    "url": "https://oldschool.runescape.wiki/w/Damiana_water",
+    "version": null
+  },
+  {
+    "examineText": "It's a bowl of damiana tea.",
+    "group": "Damiana tea",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30981,
+    "name": "Damiana tea",
+    "url": "https://oldschool.runescape.wiki/w/Damiana_tea",
+    "version": null
+  },
+  {
+    "examineText": "It's a bowl of milky damiana tea.",
+    "group": "Damiana tea (milky)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30983,
+    "name": "Damiana tea",
+    "url": "https://oldschool.runescape.wiki/w/Damiana_tea_(milky)",
+    "version": null
+  },
+  {
+    "examineText": "A nice cup of damiana tea.",
+    "group": "Cup of tea (milky damiana)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30985,
+    "name": "Cup of tea",
+    "url": "https://oldschool.runescape.wiki/w/Cup_of_tea_(milky_damiana)",
+    "version": null
+  },
+  {
+    "examineText": "A milky cup of damiana tea.",
+    "group": "Cup of tea (damiana)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30987,
+    "name": "Cup of tea",
+    "url": "https://oldschool.runescape.wiki/w/Cup_of_tea_(damiana)",
+    "version": null
+  },
+  {
+    "examineText": "It needs repairing.",
+    "group": "Acatzin's axe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30989,
+    "name": "Acatzin's axe",
+    "url": "https://oldschool.runescape.wiki/w/Acatzin%27s_axe",
+    "version": "Broken"
+  },
+  {
+    "examineText": "It looks much better now.",
+    "group": "Acatzin's axe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30990,
+    "name": "Acatzin's axe",
+    "url": "https://oldschool.runescape.wiki/w/Acatzin%27s_axe",
+    "version": "Repaired"
+  },
+  {
+    "examineText": "Yuk!",
+    "group": "Events tool",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 30997,
+    "name": "Events tool",
+    "url": "https://oldschool.runescape.wiki/w/Events_tool",
+    "version": null
+  },
+  {
+    "examineText": "I can make some atlatl darts with these.",
+    "group": "Atlatl dart tips",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 30998,
+    "name": "Atlatl dart tips",
+    "url": "https://oldschool.runescape.wiki/w/Atlatl_dart_tips",
+    "version": null
+  },
+  {
+    "examineText": "An atlatl dart shaft.",
+    "group": "Atlatl dart shaft",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31004,
+    "name": "Atlatl dart shaft",
+    "url": "https://oldschool.runescape.wiki/w/Atlatl_dart_shaft",
+    "version": null
+  },
+  {
+    "examineText": "An atlatl dart shaft with flights attached.",
+    "group": "Headless atlatl dart",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31010,
+    "name": "Headless atlatl dart",
+    "url": "https://oldschool.runescape.wiki/w/Headless_atlatl_dart",
+    "version": null
+  },
+  {
+    "examineText": "Ranulph's notes on ents.",
+    "group": "Sacraments of ent folk",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31016,
+    "name": "Sacraments of ent folk",
+    "url": "https://oldschool.runescape.wiki/w/Sacraments_of_ent_folk",
+    "version": null
+  },
+  {
+    "examineText": "A curious seed left by an ent.",
+    "group": "Ent seed",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31018,
+    "name": "Ent seed",
+    "url": "https://oldschool.runescape.wiki/w/Ent_seed",
+    "version": null
+  },
+  {
+    "examineText": "A mountable carving of a woodland spirit.",
+    "group": "Greenman carving",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31024,
+    "name": "Greenman carving",
+    "url": "https://oldschool.runescape.wiki/w/Greenman_carving",
+    "version": null
+  },
+  {
+    "examineText": "A garden statue of a woodland spirit.",
+    "group": "Greenman statue",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31031,
+    "name": "Greenman statue",
+    "url": "https://oldschool.runescape.wiki/w/Greenman_statue",
+    "version": null
+  },
+  {
+    "examineText": "A branch from an ent.",
+    "group": "Ent branch",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31032,
+    "name": "Ent branch",
+    "url": "https://oldschool.runescape.wiki/w/Ent_branch",
+    "version": null
+  },
+  {
+    "examineText": "Makes you feel at one with nature.",
+    "group": "Greenman mask",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31034,
+    "name": "Greenman mask",
+    "url": "https://oldschool.runescape.wiki/w/Greenman_mask",
+    "version": "Default"
+  },
+  {
+    "examineText": "Makes you feel at one with nature.",
+    "group": "Greenman mask",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31037,
+    "name": "Greenman mask (normal)",
+    "url": "https://oldschool.runescape.wiki/w/Greenman_mask",
+    "version": "Normal"
+  },
+  {
+    "examineText": "Makes you feel at one with nature.",
+    "group": "Greenman mask",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31038,
+    "name": "Greenman mask (oak)",
+    "url": "https://oldschool.runescape.wiki/w/Greenman_mask",
+    "version": "Oak"
+  },
+  {
+    "examineText": "Makes you feel at one with nature.",
+    "group": "Greenman mask",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31039,
+    "name": "Greenman mask (willow)",
+    "url": "https://oldschool.runescape.wiki/w/Greenman_mask",
+    "version": "Willow"
+  },
+  {
+    "examineText": "Makes you feel at one with nature.",
+    "group": "Greenman mask",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31040,
+    "name": "Greenman mask (maple)",
+    "url": "https://oldschool.runescape.wiki/w/Greenman_mask",
+    "version": "Maple"
+  },
+  {
+    "examineText": "Makes you feel at one with nature.",
+    "group": "Greenman mask",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31041,
+    "name": "Greenman mask (yew)",
+    "url": "https://oldschool.runescape.wiki/w/Greenman_mask",
+    "version": "Yew"
+  },
+  {
+    "examineText": "Makes you feel at one with nature.",
+    "group": "Greenman mask",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31042,
+    "name": "Greenman mask (magic)",
+    "url": "https://oldschool.runescape.wiki/w/Greenman_mask",
+    "version": "Magic"
+  },
+  {
+    "examineText": "A crafty looking knife.",
+    "group": "Fletching knife",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31043,
+    "name": "Fletching knife",
+    "url": "https://oldschool.runescape.wiki/w/Fletching_knife",
+    "version": null
+  },
+  {
+    "examineText": "A tightly bound bundle of flax.",
+    "group": "Bale of flax",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31045,
+    "name": "Bale of flax",
+    "url": "https://oldschool.runescape.wiki/w/Bale_of_flax",
+    "version": null
+  },
+  {
+    "examineText": "I can clean these.",
+    "group": "Dirty arrowtips",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31047,
+    "name": "Dirty arrowtips",
+    "url": "https://oldschool.runescape.wiki/w/Dirty_arrowtips",
+    "version": null
+  },
+  {
+    "examineText": "A decorative staff that provides support when hiking.",
+    "group": "Redwood hiking staff",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31049,
+    "name": "Redwood hiking staff",
+    "url": "https://oldschool.runescape.wiki/w/Redwood_hiking_staff",
+    "version": null
+  },
+  {
+    "examineText": "A spool for holding many bow strings.",
+    "group": "Bow string spool",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31052,
+    "name": "Bow string spool",
+    "url": "https://oldschool.runescape.wiki/w/Bow_string_spool",
+    "version": null
+  },
+  {
+    "examineText": "If I collect enough of these, I might find something useful.",
+    "group": "Vale offerings",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31054,
+    "name": "Vale offerings",
+    "url": "https://oldschool.runescape.wiki/w/Vale_offerings",
+    "version": null
+  },
+  {
+    "examineText": "A scrappy and unsent letter.",
+    "group": "Letter (Auburnvale)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31071,
+    "name": "Letter",
+    "url": "https://oldschool.runescape.wiki/w/Letter_(Auburnvale)",
+    "version": null
+  },
+  {
+    "examineText": "Bones blessed at an exposed altar.",
+    "group": "Alan's blessed bones",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31075,
+    "name": "Alan's blessed bones",
+    "url": "https://oldschool.runescape.wiki/w/Alan%27s_blessed_bones",
+    "version": null
+  },
+  {
+    "examineText": "A discarded book detailing patterns of animal migration in northern Varlamore.",
+    "group": "On migration patterns",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31077,
+    "name": "On migration patterns",
+    "url": "https://oldschool.runescape.wiki/w/On_migration_patterns",
+    "version": null
+  },
+  {
+    "examineText": "A collection of hunter reports regarding the Auburn Valley.",
+    "group": "Auburn valley ecological reports",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31079,
+    "name": "Auburn valley ecological reports",
+    "url": "https://oldschool.runescape.wiki/w/Auburn_valley_ecological_reports",
+    "version": null
+  },
+  {
+    "examineText": "Surprisingly flexible.",
+    "group": "Antler guard",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31081,
+    "name": "Antler guard",
+    "url": "https://oldschool.runescape.wiki/w/Antler_guard",
+    "version": null
+  },
+  {
+    "examineText": "A ring that presumably belonged to an alchemist.",
+    "group": "Alchemist's signet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31084,
+    "name": "Alchemist's signet",
+    "url": "https://oldschool.runescape.wiki/w/Alchemist%27s_signet",
+    "version": null
+  },
+  {
+    "examineText": "A broken antler from a custodian stalker.",
+    "group": "Broken antler",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31086,
+    "name": "Broken antler",
+    "url": "https://oldschool.runescape.wiki/w/Broken_antler",
+    "version": null
+  },
+  {
+    "examineText": "A finely crafted pair of boots.",
+    "group": "Avernic treads",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31088,
+    "name": "Avernic treads",
+    "url": "https://oldschool.runescape.wiki/w/Avernic_treads",
+    "version": null
+  },
+  {
+    "examineText": "A pair of boots with the power of Primordial boots.",
+    "group": "Avernic treads (pr)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31091,
+    "name": "Avernic treads (pr)",
+    "url": "https://oldschool.runescape.wiki/w/Avernic_treads_(pr)",
+    "version": null
+  },
+  {
+    "examineText": "A pair of boots with the power of Pegasian boots.",
+    "group": "Avernic treads (pe)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31092,
+    "name": "Avernic treads (pe)",
+    "url": "https://oldschool.runescape.wiki/w/Avernic_treads_(pe)",
+    "version": null
+  },
+  {
+    "examineText": "A pair of boots with the power of Eternal boots.",
+    "group": "Avernic treads (et)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31093,
+    "name": "Avernic treads (et)",
+    "url": "https://oldschool.runescape.wiki/w/Avernic_treads_(et)",
+    "version": null
+  },
+  {
+    "examineText": "A pair of boots with the power of Primordial and Pegasian boots.",
+    "group": "Avernic treads (pr)(pe)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31094,
+    "name": "Avernic treads (pr)(pe)",
+    "url": "https://oldschool.runescape.wiki/w/Avernic_treads_(pr)(pe)",
+    "version": null
+  },
+  {
+    "examineText": "A pair of boots with the power of Primordial and Eternal boots.",
+    "group": "Avernic treads (pr)(et)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31095,
+    "name": "Avernic treads (pr)(et)",
+    "url": "https://oldschool.runescape.wiki/w/Avernic_treads_(pr)(et)",
+    "version": null
+  },
+  {
+    "examineText": "A pair of boots with the power of Pegasian and Eternal boots.",
+    "group": "Avernic treads (pe)(et)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31096,
+    "name": "Avernic treads (pe)(et)",
+    "url": "https://oldschool.runescape.wiki/w/Avernic_treads_(pe)(et)",
+    "version": null
+  },
+  {
+    "examineText": "A pair of boots with the power of Primordial, Pegasian and Eternal boots.",
+    "group": "Avernic treads (max)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31097,
+    "name": "Avernic treads (max)",
+    "url": "https://oldschool.runescape.wiki/w/Avernic_treads_(max)",
+    "version": null
+  },
+  {
+    "examineText": "A magical shard linked to Mokhaiotl.",
+    "group": "Mokhaiotl waystone",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31099,
+    "name": "Mokhaiotl waystone",
+    "url": "https://oldschool.runescape.wiki/w/Mokhaiotl_waystone",
+    "version": null
+  },
+  {
+    "examineText": "A finely crafted pair of gloves, infused with magic power.",
+    "group": "Confliction gauntlets",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31106,
+    "name": "Confliction gauntlets",
+    "url": "https://oldschool.runescape.wiki/w/Confliction_gauntlets",
+    "version": null
+  },
+  {
+    "examineText": "A rare cloth imbued with wild magic, left behind by a fallen monster.",
+    "group": "Mokhaiotl cloth",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31109,
+    "name": "Mokhaiotl cloth",
+    "url": "https://oldschool.runescape.wiki/w/Mokhaiotl_cloth",
+    "version": null
+  },
+  {
+    "examineText": "A strange glowing tear.",
+    "group": "Demon tear",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31111,
+    "name": "Demon tear",
+    "url": "https://oldschool.runescape.wiki/w/Demon_tear",
+    "version": null
+  },
+  {
+    "examineText": "This staff is imbued with demonic power. It is currently uncharged.",
+    "group": "Eye of ayak",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31113,
+    "name": "Eye of ayak (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Eye_of_ayak",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "This staff is imbued with demonic power.",
+    "group": "Eye of ayak",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31115,
+    "name": "Eye of ayak",
+    "url": "https://oldschool.runescape.wiki/w/Eye_of_ayak",
+    "version": "Charged"
+  },
+  {
+    "examineText": "Perfect for balancing on your head.",
+    "group": "Orange (hat)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31117,
+    "name": "Orange",
+    "url": "https://oldschool.runescape.wiki/w/Orange_(hat)",
+    "version": null
+  },
+  {
+    "examineText": "A letter sent long ago.",
+    "group": "Old letter",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31121,
+    "name": "Old letter",
+    "url": "https://oldschool.runescape.wiki/w/Old_letter",
+    "version": null
+  },
+  {
+    "examineText": "A small token.",
+    "group": "Token (Final Dawn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31123,
+    "name": "Token",
+    "url": "https://oldschool.runescape.wiki/w/Token_(Final_Dawn)",
+    "version": null
+  },
+  {
+    "examineText": "A tasty treat that can't be beat.",
+    "group": "Blueberry muffin",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31128,
+    "name": "Blueberry muffin",
+    "url": "https://oldschool.runescape.wiki/w/Blueberry_muffin",
+    "version": null
+  },
+  {
+    "examineText": "Doom on a small scale.",
+    "group": "Dom",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31130,
+    "name": "Dom",
+    "url": "https://oldschool.runescape.wiki/w/Dom",
     "version": null
   }
 ]

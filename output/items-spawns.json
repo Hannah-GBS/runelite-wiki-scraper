@@ -257,6 +257,12 @@
         "name": "Beer"
       },
       {
+        "coords": "1367,3305",
+        "isMembers": true,
+        "location": "Nemus Retreat",
+        "name": "Beer"
+      },
+      {
         "coords": "2952,9962",
         "isMembers": false,
         "location": "Old School Museum - Lower floor (Telegrab only)",
@@ -295,6 +301,12 @@
         "coords": "1380, 2932",
         "isMembers": true,
         "location": "Aldarin - Sunlight's Sanctum",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "1391,3352",
+        "isMembers": true,
+        "location": "Auburnvale",
         "name": "Beer glass"
       },
       {
@@ -391,6 +403,12 @@
         "coords": "1392,2860",
         "isMembers": true,
         "location": "Stick Your Ore Inn",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "1222,3114",
+        "isMembers": true,
+        "location": "Tal Teklan",
         "name": "Beer glass"
       }
     ]
@@ -1139,6 +1157,12 @@
         "isMembers": false,
         "location": "Lumbridge Castle kitchen",
         "name": "Bowl"
+      },
+      {
+        "coords": "1208,3093",
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "name": "Bowl"
       }
     ]
   },
@@ -1586,6 +1610,12 @@
         "isMembers": true,
         "location": "The Proudspire",
         "name": "Bronze axe"
+      },
+      {
+        "coords": "1297,3133",
+        "isMembers": true,
+        "location": "Tlati Rainforest",
+        "name": "Bronze axe"
       }
     ]
   },
@@ -1905,6 +1935,12 @@
         "name": "Bucket"
       },
       {
+        "coords": "1420,3374",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "name": "Bucket"
+      },
+      {
         "coords": "2766,3441",
         "isMembers": true,
         "location": "Beehives - south of Camelot",
@@ -2019,6 +2055,12 @@
         "name": "Bucket"
       },
       {
+        "coords": "1358,3060",
+        "isMembers": true,
+        "location": "Kastori",
+        "name": "Bucket"
+      },
+      {
         "coords": "1943,4956",
         "isMembers": true,
         "location": "Keldagrim - Blast Furnace",
@@ -2091,9 +2133,21 @@
         "name": "Bucket"
       },
       {
+        "coords": "1239,3133",
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "name": "Bucket"
+      },
+      {
         "coords": "2633,9908",
         "isMembers": true,
         "location": "Temple of Ikov",
+        "name": "Bucket"
+      },
+      {
+        "coords": "1333,3119",
+        "isMembers": true,
+        "location": "Tlati Rainforest",
         "name": "Bucket"
       },
       {
@@ -2688,6 +2742,12 @@
         "isMembers": true,
         "location": "Aldarin",
         "name": "Chichilihui ros\u00e9"
+      },
+      {
+        "coords": "1198,3111",
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "name": "Chichilihui ros\u00e9"
       }
     ]
   },
@@ -2789,6 +2849,12 @@
         "name": "Chocolate bar"
       },
       {
+        "coords": "1364,3040",
+        "isMembers": true,
+        "location": "Kastori (1st floor)",
+        "name": "Chocolate bar"
+      },
+      {
         "coords": "2384,4440",
         "isMembers": true,
         "location": "Zanaris - south of the bank",
@@ -2815,6 +2881,17 @@
         "isMembers": true,
         "location": "Darkmeyer - middle tier",
         "name": "Chopped onion"
+      }
+    ]
+  },
+  {
+    "group": "Cider",
+    "spawns": [
+      {
+        "coords": "1392,3351",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "name": "Cider"
       }
     ]
   },
@@ -3088,6 +3165,17 @@
     ]
   },
   {
+    "group": "Cooked sweetcorn",
+    "spawns": [
+      {
+        "coords": "1356,3040",
+        "isMembers": true,
+        "location": "Kastori (1st floor){{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "name": "Cooked sweetcorn"
+      }
+    ]
+  },
+  {
     "group": "Cooking apple",
     "spawns": [
       {
@@ -3169,6 +3257,12 @@
   {
     "group": "Cup of tea",
     "spawns": [
+      {
+        "coords": "1375,3034",
+        "isMembers": true,
+        "location": "Kastori (1st floor)",
+        "name": "Cup of tea"
+      },
       {
         "coords": "2903,3441",
         "isMembers": true,
@@ -3486,6 +3580,12 @@
         "name": "Egg"
       },
       {
+        "coords": "1238,3136",
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "name": "Egg"
+      },
+      {
         "coords": "2453,4476",
         "isMembers": true,
         "location": "Zanaris - Chicken shrine",
@@ -3662,8 +3762,25 @@
     ]
   },
   {
+    "group": "Fishing bait",
+    "spawns": [
+      {
+        "coords": "1375,3035",
+        "isMembers": true,
+        "location": "Kastori",
+        "name": "Fishing bait"
+      }
+    ]
+  },
+  {
     "group": "Fishing rod",
     "spawns": [
+      {
+        "coords": "1331,3330",
+        "isMembers": true,
+        "location": "Auburn Valley",
+        "name": "Fishing rod"
+      },
       {
         "coords": "2860,3335",
         "isMembers": true,
@@ -4036,6 +4153,12 @@
         "name": "Hammer"
       },
       {
+        "coords": "1381,3370",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "name": "Hammer"
+      },
+      {
         "coords": "3492,3242",
         "isMembers": true,
         "location": "Burgh de Rott - upstairs",
@@ -4172,6 +4295,12 @@
         "isMembers": true,
         "location": "Sunset Coast",
         "name": "Hammer"
+      },
+      {
+        "coords": "1207,3108",
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "name": "Hammer"
       }
     ]
   },
@@ -4279,6 +4408,12 @@
     "group": "Iron axe",
     "spawns": [
       {
+        "coords": "1399,3371",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "name": "Iron axe"
+      },
+      {
         "coords": "1717,3119",
         "isMembers": true,
         "location": "Civitas illa Fortis 1st floor",
@@ -4353,6 +4488,12 @@
   {
     "group": "Iron dagger",
     "spawns": [
+      {
+        "coords": "1385,3217",
+        "isMembers": true,
+        "location": "Gloomthorn Trail",
+        "name": "Iron dagger"
+      },
       {
         "coords": "3248,3245",
         "isMembers": false,
@@ -4680,6 +4821,18 @@
     "group": "Jug",
     "spawns": [
       {
+        "coords": "1439,3324",
+        "isMembers": true,
+        "location": "Auburn Valley",
+        "name": "Jug"
+      },
+      {
+        "coords": "1394,3352",
+        "isMembers": true,
+        "location": "Auburn Valley (1st floor)",
+        "name": "Jug"
+      },
+      {
         "coords": "1737,3168",
         "isMembers": true,
         "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
@@ -4941,6 +5094,18 @@
     "group": "Knife",
     "spawns": [
       {
+        "coords": "1439,3351",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "name": "Knife"
+      },
+      {
+        "coords": "1381,3350",
+        "isMembers": true,
+        "location": "Auburnvale (1st floor)",
+        "name": "Knife"
+      },
+      {
         "coords": "1476,9555",
         "isMembers": true,
         "location": "Cam Torum",
@@ -5022,6 +5187,12 @@
         "coords": "2903,3148",
         "isMembers": false,
         "location": "Musa Point - Karamja General Store",
+        "name": "Knife"
+      },
+      {
+        "coords": "1371,3316",
+        "isMembers": true,
+        "location": "Nemus Retreat",
         "name": "Knife"
       },
       {
@@ -5612,6 +5783,12 @@
     "group": "Needle",
     "spawns": [
       {
+        "coords": "1368,3358",
+        "isMembers": false,
+        "location": "Auburnvale",
+        "name": "Needle"
+      },
+      {
         "coords": "1765,3103",
         "isMembers": true,
         "location": "Civitas illa Fortis 1st floor",
@@ -5652,6 +5829,17 @@
         "isMembers": true,
         "location": "Shayzien Encampment",
         "name": "Needle"
+      }
+    ]
+  },
+  {
+    "group": "Noose wand",
+    "spawns": [
+      {
+        "coords": "1259,9781",
+        "isMembers": true,
+        "location": "Stalker Den (1st floor)",
+        "name": "Noose wand"
       }
     ]
   },
@@ -6081,6 +6269,12 @@
         "name": "Plank"
       },
       {
+        "coords": "1235,3074",
+        "isMembers": true,
+        "location": "Tlati Rainforest",
+        "name": "Plank"
+      },
+      {
         "coords": "2435,9726",
         "isMembers": true,
         "location": "Underground Pass - first level",
@@ -6240,6 +6434,12 @@
         "name": "Pot"
       },
       {
+        "coords": "1243,3111",
+        "isMembers": true,
+        "location": "Tal Teklan (1st floor)",
+        "name": "Pot"
+      },
+      {
         "coords": "3232,3399",
         "isMembers": false,
         "location": "Varrock - the Blue Moon Inn",
@@ -6261,6 +6461,12 @@
   {
     "group": "Potato",
     "spawns": [
+      {
+        "coords": "1440,3354",
+        "isMembers": true,
+        "location": "Auburnvale - eastern building with the belladonna patch (1st floor)",
+        "name": "Potato"
+      },
       {
         "coords": "1659,3121",
         "isMembers": true,
@@ -6596,6 +6802,12 @@
         "name": "Rope"
       },
       {
+        "coords": "1326,3318",
+        "isMembers": true,
+        "location": "Custodia Pass",
+        "name": "Rope"
+      },
+      {
         "coords": "3642,3337",
         "isMembers": true,
         "location": "Darkmeyer - lower tier",
@@ -6805,6 +7017,12 @@
         "coords": "1522,3638",
         "isMembers": true,
         "location": "Shayzien Encampment",
+        "name": "Saw"
+      },
+      {
+        "coords": "1212,3093",
+        "isMembers": true,
+        "location": "Tal Teklan",
         "name": "Saw"
       },
       {
@@ -7880,6 +8098,12 @@
         "name": "Tinderbox"
       },
       {
+        "coords": "1327,3319",
+        "isMembers": true,
+        "location": "Custodia Pass",
+        "name": "Tinderbox"
+      },
+      {
         "coords": "3644,3359",
         "isMembers": true,
         "location": "Darkmeyer - lower tier",
@@ -7907,6 +8131,12 @@
         "coords": "1742,3604",
         "isMembers": true,
         "location": "Hosidius - behind the bank",
+        "name": "Tinderbox"
+      },
+      {
+        "coords": "1359,3036",
+        "isMembers": true,
+        "location": "Kastori",
         "name": "Tinderbox"
       },
       {
