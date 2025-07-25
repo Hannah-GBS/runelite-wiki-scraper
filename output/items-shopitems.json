@@ -2777,6 +2777,196 @@
     "name": "Atlazora's Rest"
   },
   {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Axeman's folly",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Beer",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Cider",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Gin",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Jug of wine",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Meat pie",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Moon-lite",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Rum",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Stew",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Sunbeam ale",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Vodka",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Whisky",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Auburnvale",
+    "name": "Auburn Pub"
+  },
+  {
+    "buyMultiplier": "400",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze axe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chisel",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Hammer",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Knife",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Needle",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pestle and mortar",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rope",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spade",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Thread",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tinderbox",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Unlit torch",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Vial",
+        "stock": "50",
+        "version": null
+      }
+    ],
+    "location": "Auburnvale",
+    "name": "Auburnvale General Store",
+    "sellMultiplier": "1300"
+  },
+  {
     "buyMultiplier": "600",
     "isMembers": false,
     "items": [
@@ -13221,6 +13411,51 @@
     "sellMultiplier": "1300"
   },
   {
+    "buyMultiplier": "550",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Blue dye",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Green dye",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Orange dye",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Purple dye",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Red dye",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Yellow dye",
+        "stock": "10",
+        "version": null
+      }
+    ],
+    "location": "Tal Teklan",
+    "name": "Dyes to Die For",
+    "sellMultiplier": "1300"
+  },
+  {
     "isMembers": true,
     "items": [
       {
@@ -22153,6 +22388,228 @@
     "items": [
       {
         "currency": "Coins",
+        "name": "Basket",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Basket pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Compost",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Compost pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty sack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Filled plant pot",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Gardening trowel",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Plant cure",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Plant pot pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rake",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Sack pack",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Secateurs",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Seed dibber",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spade",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Watering can",
+        "stock": "30",
+        "version": null
+      }
+    ],
+    "location": "Kastori",
+    "name": "Kastori Farming Supplies",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "400",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze axe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze pickaxe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chisel",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Hammer",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Knife",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Needle",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rope",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spade",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Thread",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tinderbox",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "Kastori",
+    "name": "Kastori General Store",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "700",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
         "name": "Cod",
         "stock": "20",
         "version": null
@@ -24943,6 +25400,75 @@
     "location": "Lumbridge",
     "name": "Lumbridge General Store",
     "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "550",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Adamant axe",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Adamant battleaxe",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze axe",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze battleaxe",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron axe",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron battleaxe",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril axe",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril battleaxe",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel axe",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel battleaxe",
+        "stock": "2",
+        "version": null
+      }
+    ],
+    "location": "Auburnvale",
+    "name": "Lunami's Axe Shop",
+    "sellMultiplier": "1000"
   },
   {
     "buyMultiplier": "600",
@@ -31920,6 +32446,51 @@
     "sellMultiplier": "1000"
   },
   {
+    "buyMultiplier": "550",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Magic staff",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Staff",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Staff of air",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Staff of earth",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Staff of fire",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Staff of water",
+        "stock": "2",
+        "version": null
+      }
+    ],
+    "location": "Auburnvale",
+    "name": "Sebamo's Sublime Staffs",
+    "sellMultiplier": "1000"
+  },
+  {
     "buyMultiplier": "650",
     "isMembers": true,
     "items": [
@@ -33554,6 +34125,123 @@
     "sellMultiplier": "1300"
   },
   {
+    "buyMultiplier": "700",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bait pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Big fishing net",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Feather",
+        "stock": "1000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Feather pack",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fishing bait",
+        "stock": "1000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fishing rod",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fly fishing rod",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Harpoon",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Lobster pot",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw bass",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw cod",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw herring",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw lobster",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw mackerel",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw sardine",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw swordfish",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Raw tuna",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Small fishing net",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "Kastori",
+    "name": "Sulisal's Superb Fishing Store",
+    "sellMultiplier": "1000"
+  },
+  {
     "isMembers": true,
     "items": [
       {
@@ -33788,6 +34476,111 @@
     ],
     "location": "Emir's Arena",
     "name": "Surgeon General Tafani"
+  },
+  {
+    "buyMultiplier": "",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze axe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze pickaxe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chisel",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Hammer",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Knife",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Needle",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pestle and mortar",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rope",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spade",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Thread",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tinderbox",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Vial",
+        "stock": "15",
+        "version": null
+      }
+    ],
+    "location": "Tal Teklan",
+    "name": "Tal Teklan General Store",
+    "sellMultiplier": ""
   },
   {
     "buyMultiplier": "750",
@@ -34485,6 +35278,118 @@
     "location": "Hosidius",
     "name": "The Golden Field",
     "sellMultiplier": "1000"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Beer",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Blackbird red",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Cider",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Cup of tea",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Eclipse red",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Gin",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Jug of wine",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Meat pie",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Metztonalli white",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Moon-lite",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Rum",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Stew",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Sunbeam ale",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Vodka",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Whisky",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Tal Teklan",
+    "name": "The King's Inn"
   },
   {
     "isMembers": true,
@@ -36381,6 +37286,45 @@
     "location": "1st floor of Champions' Guild",
     "name": "Valaine's Shop of Champions.",
     "sellMultiplier": "1300"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "125",
+        "currency": "points",
+        "name": "Bow string spool",
+        "sellPrice": "250",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "points",
+        "name": "Ent branch",
+        "sellPrice": "20",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "175",
+        "currency": "points",
+        "name": "Fletching knife",
+        "sellPrice": "350",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "125{{efn|Only [[Ironman Mode|Ironmen]] are able to sell Greenman masks to the store.<ref>From the [https://secure.runescape.com/m=news/varlamore-the-final-dawn-out-now?oldschool=1 update blog]: \"If luck isn\u2019t on your side, research points offer a guaranteed path to progression. Unwanted untradeables (or any item if you\u2019re an Ironman) can also be converted into research points, making every offering count.\" </ref>|name=iron}}{{efn|Only the default style can be sold.}}",
+        "currency": "points",
+        "name": "Greenman mask",
+        "sellPrice": "500",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Auburnvale",
+    "name": "Vale Research Exchange"
   },
   {
     "buyMultiplier": "700",
