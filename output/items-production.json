@@ -4116,6 +4116,27 @@
     "skills": []
   },
   {
+    "facilities": "Bone grinder",
+    "materials": [
+      {
+        "name": "Alan's bones",
+        "quantity": "1"
+      },
+      {
+        "name": "Pot",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Alan's bonemeal.png|class=inventory-image|link=Alan's bonemeal]]",
+      "name": "Alan's bonemeal",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Mixing vessel",
     "materials": [
       {
@@ -7580,7 +7601,7 @@
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Atlatl_dart_tips_5.png|class=inventory-image|link=Atlatl dart tips]]",
+      "image": "[[File:Atlatl dart tips.png|class=inventory-image|link=Atlatl dart tips]]",
       "name": "Atlatl dart tips",
       "quantity": "100"
     },
@@ -7872,55 +7893,18 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "80",
-        "name": "Smithing"
+        "name": "Magic"
       },
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "60",
         "name": "Runecraft"
       }
     ],
     "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "name": "Avernic treads (pr)(et)",
-        "quantity": "1"
-      },
-      {
-        "name": "Pegasian boots",
-        "quantity": "1"
-      },
-      {
-        "name": "Demon tear",
-        "quantity": "4000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Avernic treads (max).png|class=inventory-image|link=Avernic treads (max)]]",
-      "name": "Avernic treads (max)",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "?",
-        "level": "80",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "?",
-        "level": "60",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1"
   },
   {
     "materials": [
@@ -7983,9 +7967,46 @@
     "skills": [
       {
         "boostable": "Yes",
+        "experience": "200",
+        "level": "80",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "200",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Avernic treads (pr)(et)",
+        "quantity": "1"
+      },
+      {
+        "name": "Pegasian boots",
+        "quantity": "1"
+      },
+      {
+        "name": "Demon tear",
+        "quantity": "4000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Avernic treads (max).png|class=inventory-image|link=Avernic treads (max)]]",
+      "name": "Avernic treads (max)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
         "experience": "?",
         "level": "80",
-        "name": "Smithing"
+        "name": "Magic"
       },
       {
         "boostable": "Yes",
@@ -8020,13 +8041,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "80",
-        "name": "Smithing"
+        "name": "Magic"
       },
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "60",
         "name": "Runecraft"
       }
@@ -8057,13 +8078,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "80",
-        "name": "Smithing"
+        "name": "Magic"
       },
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "60",
         "name": "Runecraft"
       }
@@ -8096,7 +8117,7 @@
         "boostable": "Yes",
         "experience": "?",
         "level": "80",
-        "name": "Smithing"
+        "name": "Magic"
       },
       {
         "boostable": "Yes",
@@ -8131,13 +8152,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "80",
-        "name": "Smithing"
+        "name": "Magic"
       },
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "60",
         "name": "Runecraft"
       }
@@ -8168,13 +8189,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "80",
-        "name": "Smithing"
+        "name": "Magic"
       },
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "60",
         "name": "Runecraft"
       }
@@ -8207,7 +8228,7 @@
         "boostable": "Yes",
         "experience": "?",
         "level": "80",
-        "name": "Smithing"
+        "name": "Magic"
       },
       {
         "boostable": "Yes",
@@ -8242,13 +8263,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "80",
-        "name": "Smithing"
+        "name": "Magic"
       },
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "60",
         "name": "Runecraft"
       }
@@ -8279,13 +8300,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "80",
-        "name": "Smithing"
+        "name": "Magic"
       },
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "200",
         "level": "60",
         "name": "Runecraft"
       }
@@ -11722,6 +11743,24 @@
     "tools": "Pestle and mortar"
   },
   {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -11737,7 +11776,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">113,832,470</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">113,427,536</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11755,24 +11794,6 @@
       }
     ],
     "ticks": "5"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -16724,7 +16745,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,357,484</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">115,723,580</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -16765,42 +16786,6 @@
     "facilities": "Singing bowl",
     "materials": [
       {
-        "name": "Bow of faerdhinen",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "2000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "costnote": "Value based on the cost for a fully inactive bow",
-      "image": "[[File:Bow of faerdhinen (c).png|class=inventory-image|link=Bow of faerdhinen (c)]]",
-      "name": "Bow of faerdhinen (c)",
-      "quantity": "1",
-      "subtxt": "Upgrade"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "82",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "82",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "3"
-  },
-  {
-    "facilities": "Singing bowl",
-    "materials": [
-      {
         "name": "Enhanced crystal weapon seed",
         "quantity": "1"
       },
@@ -16832,6 +16817,42 @@
       }
     ],
     "ticks": "5"
+  },
+  {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Bow of faerdhinen",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "2000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "costnote": "Value based on the cost for a fully inactive bow",
+      "image": "[[File:Bow of faerdhinen (c).png|class=inventory-image|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1",
+      "subtxt": "Upgrade"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "82",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "82",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3"
   },
   {
     "materials": [
@@ -24994,7 +25015,7 @@
       },
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "100",
         "level": "70",
         "name": "Smithing"
       }
@@ -33475,8 +33496,8 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
-        "level": "?",
+        "experience": "0",
+        "level": "36",
         "name": "Cooking"
       }
     ],
@@ -33500,7 +33521,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -33520,7 +33541,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -33765,7 +33786,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Cooking range",
+    "facilities": "Range",
     "materials": [
       {
         "name": "Damiana water",
@@ -33782,7 +33803,7 @@
       {
         "boostable": "",
         "experience": "68",
-        "level": "?",
+        "level": "36",
         "name": "Cooking"
       }
     ],
@@ -33806,7 +33827,7 @@
       {
         "boostable": "",
         "experience": "68",
-        "level": "?",
+        "level": "36",
         "name": "Cooking"
       }
     ],
@@ -33853,7 +33874,7 @@
       {
         "boostable": "",
         "experience": "0",
-        "level": "?",
+        "level": "36",
         "name": "Cooking"
       }
     ],
@@ -34407,6 +34428,22 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Eye of ayak (uncharged)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Demon tear.png|class=inventory-image|link=Demon tear]]",
+      "name": "Demon tear",
+      "quantity": "10000"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Furnace",
@@ -38722,6 +38759,44 @@
     "tools": "Binding necklace, Magic Imbue"
   },
   {
+    "facilities": "Air Altar",
+    "materials": [
+      {
+        "name": "Pure essence",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth talisman",
+        "quantity": "1"
+      },
+      {
+        "name": "Twisted extract",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Dust rune.png|class=inventory-image|link=Dust rune]]",
+      "name": "Dust rune",
+      "quantity": "61",
+      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "8.3",
+        "level": "60",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Air tiara, Binding necklace, Magic Imbue"
+  },
+  {
     "facilities": "Earth Altar",
     "materials": [
       {
@@ -38825,44 +38900,6 @@
     ],
     "ticks": "1",
     "tools": "Binding necklace, Magic Imbue"
-  },
-  {
-    "facilities": "Air Altar",
-    "materials": [
-      {
-        "name": "Pure essence",
-        "quantity": "1"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Earth talisman",
-        "quantity": "1"
-      },
-      {
-        "name": "Twisted extract",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Dust rune.png|class=inventory-image|link=Dust rune]]",
-      "name": "Dust rune",
-      "quantity": "61",
-      "quantitynote": "50% chance of success per essence, or<br/> 100% chance of success when wearing a [[Binding necklace]]. <br/>The additional 60 runes from the extract are not affected by [[Raiments of the Eye]] or skill level."
-    },
-    "skills": [
-      {
-        "boostable": "no",
-        "experience": "8.3",
-        "level": "60",
-        "name": "Runecraft"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Air tiara, Binding necklace, Magic Imbue"
   },
   {
     "facilities": "Earth Altar",
@@ -42872,7 +42909,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "4",
+    "ticks": "3",
     "tools": "Gardening_trowel"
   },
   {
@@ -47172,12 +47209,174 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "70",
         "level": "79",
         "name": "Fletching"
       }
     ],
     "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Greenman mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic leaves",
+        "quantity": "300"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Greenman mask (magic).png|class=inventory-image|link=Greenman mask (magic)]]",
+      "name": "Greenman mask (magic)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "20",
+        "level": "?",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Greenman mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Maple leaves",
+        "quantity": "300"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Greenman mask (maple).png|class=inventory-image|link=Greenman mask (maple)]]",
+      "name": "Greenman mask (maple)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "20",
+        "level": "?",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Greenman mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Leaves",
+        "quantity": "300"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Greenman mask (normal).png|class=inventory-image|link=Greenman mask (normal)]]",
+      "name": "Greenman mask (normal)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "20",
+        "level": "?",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Greenman mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Oak leaves",
+        "quantity": "300"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Greenman mask (oak).png|class=inventory-image|link=Greenman mask (oak)]]",
+      "name": "Greenman mask (oak)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "20",
+        "level": "?",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Greenman mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Willow leaves",
+        "quantity": "300"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Greenman mask (willow).png|class=inventory-image|link=Greenman mask (willow)]]",
+      "name": "Greenman mask (willow)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "20",
+        "level": "?",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Greenman mask",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew leaves",
+        "quantity": "300"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Greenman mask (yew).png|class=inventory-image|link=Greenman mask (yew)]]",
+      "name": "Greenman mask (yew)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "20",
+        "level": "?",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -47203,7 +47402,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "55",
         "level": "53",
         "name": "Fletching"
       }
@@ -47995,7 +48194,7 @@
         "name": "Herblore"
       }
     ],
-    "ticks": "1"
+    "ticks": "0"
   },
   {
     "materials": [
@@ -48022,7 +48221,7 @@
         "name": "Herblore"
       }
     ],
-    "ticks": "1"
+    "ticks": "0"
   },
   {
     "materials": [
@@ -48049,7 +48248,7 @@
         "name": "Herblore"
       }
     ],
-    "ticks": "1"
+    "ticks": "0"
   },
   {
     "materials": [
@@ -48076,7 +48275,7 @@
         "name": "Herblore"
       }
     ],
-    "ticks": "1"
+    "ticks": "0"
   },
   {
     "materials": [
@@ -76884,6 +77083,30 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "name": "Ancient roots",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Root kindling.png|class=inventory-image|link=Root kindling]]",
+      "name": "Root kindling",
+      "quantity": "4"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "10",
+        "level": "?",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2",
+    "tools": "Knife"
+  },
+  {
     "facilities": "Spinning wheel",
     "materials": [
       {
@@ -98866,6 +99089,1094 @@
     ],
     "ticks": "2",
     "tools": "Hammer"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Oak shortbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "255",
+        "level": "20",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Oak shortbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "255",
+        "level": "20",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Oak longbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "255",
+        "level": "20",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Oak longbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "255",
+        "level": "20",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Oak shield",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "255",
+        "level": "20",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Oak stock",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "255",
+        "level": "20",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Willow logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Willow shortbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "628",
+        "level": "35",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Willow logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Willow shortbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "628",
+        "level": "35",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Willow logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Willow longbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "628",
+        "level": "35",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Willow logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Willow longbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "628",
+        "level": "35",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Willow logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Willow shield",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "628",
+        "level": "35",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Willow logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Willow stock",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "628",
+        "level": "35",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Maple logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Maple shortbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1008",
+        "level": "50",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Maple logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Maple shortbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1008",
+        "level": "50",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Maple logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Maple longbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1008",
+        "level": "50",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Maple logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Maple longbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1008",
+        "level": "50",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Maple logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Maple shield",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1008",
+        "level": "50",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Maple logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Maple stock",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1008",
+        "level": "50",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew shortbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "65"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1632",
+        "level": "65",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew shortbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "65"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1632",
+        "level": "65",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew longbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "65"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1632",
+        "level": "65",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew longbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "65"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1632",
+        "level": "65",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew shield",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "65"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1632",
+        "level": "65",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew stock",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "65"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1632",
+        "level": "65",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic shortbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic shortbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic longbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic longbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic shield",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic stock",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Redwood logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Redwood shield",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "105"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3788",
+        "level": "90",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Redwood logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Redwood hiking staff",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "105"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3788",
+        "level": "90",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
   },
   {
     "facilities": "Ghommal, Laidee Gnonock",
