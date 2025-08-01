@@ -25432,7 +25432,7 @@
       {
         "currency": "Coins",
         "name": "Iron axe",
-        "stock": "3",
+        "stock": "5",
         "version": null
       },
       {
@@ -25444,7 +25444,7 @@
       {
         "currency": "Coins",
         "name": "Mithril axe",
-        "stock": "1",
+        "stock": "2",
         "version": null
       },
       {
@@ -25456,7 +25456,7 @@
       {
         "currency": "Coins",
         "name": "Steel axe",
-        "stock": "1",
+        "stock": "3",
         "version": null
       },
       {
@@ -27889,6 +27889,83 @@
     "location": "Neitiznot",
     "name": "Neitiznot supplies.",
     "sellMultiplier": "1050"
+  },
+  {
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Axeman's folly",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Beer",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Cider",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Gin",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Greenman's ale",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Rum",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Stew",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Sunbeam ale",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Vodka",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Whisky",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Nemus Retreat",
+    "name": "Nemus Retreat (pub)"
   },
   {
     "isMembers": false,
@@ -34478,7 +34555,7 @@
     "name": "Surgeon General Tafani"
   },
   {
-    "buyMultiplier": "",
+    "buyMultiplier": "400",
     "isMembers": true,
     "items": [
       {
@@ -34580,7 +34657,7 @@
     ],
     "location": "Tal Teklan",
     "name": "Tal Teklan General Store",
-    "sellMultiplier": ""
+    "sellMultiplier": "1300"
   },
   {
     "buyMultiplier": "750",
