@@ -4116,6 +4116,23 @@
     "skills": []
   },
   {
+    "facilities": "Exposed altar",
+    "materials": [
+      {
+        "name": "Alan's bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Alan's blessed bones.png|class=inventory-image|link=Alan's blessed bones]]",
+      "name": "Alan's blessed bones",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Bone grinder",
     "materials": [
       {
@@ -11743,24 +11760,6 @@
     "tools": "Pestle and mortar"
   },
   {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
-      "name": "Blade of saeldor",
-      "quantity": "1",
-      "txt": "Blade of saeldor (inactive)",
-      "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
     "facilities": "Singing bowl",
     "materials": [
       {
@@ -11776,7 +11775,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">113,427,536</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">113,358,356</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11794,6 +11793,24 @@
       }
     ],
     "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (inactive).png|class=inventory-image|link=Blade of saeldor#(inactive)]]",
+      "name": "Blade of saeldor",
+      "quantity": "1",
+      "txt": "Blade of saeldor (inactive)",
+      "version": "(inactive)"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Singing bowl",
@@ -13938,6 +13955,30 @@
     "tools": "Chisel"
   },
   {
+    "materials": [
+      {
+        "name": "Alan's blessed bones",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blessed bone shards.png|class=inventory-image|link=Blessed bone shards]]",
+      "name": "Blessed bone shards",
+      "quantity": "5"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
     "facilities": "Exposed altar",
     "materials": [
       {
@@ -14048,7 +14089,7 @@
         "name": "Prayer"
       }
     ],
-    "ticks": ""
+    "ticks": "25"
   },
   {
     "facilities": "Exposed altar",
@@ -16745,7 +16786,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">115,723,580</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,728,719</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -16786,42 +16827,6 @@
     "facilities": "Singing bowl",
     "materials": [
       {
-        "name": "Enhanced crystal weapon seed",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "2000"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "costnote": "Value based on the cost for an enhanced crystal weapon seed",
-      "image": "[[File:Bow of faerdhinen (c).png|class=inventory-image|link=Bow of faerdhinen (c)]]",
-      "name": "Bow of faerdhinen (c)",
-      "quantity": "1",
-      "subtxt": "Full process"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "5000",
-        "level": "82",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "5"
-  },
-  {
-    "facilities": "Singing bowl",
-    "materials": [
-      {
         "name": "Bow of faerdhinen",
         "quantity": "1"
       },
@@ -16853,6 +16858,42 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Singing bowl",
+    "materials": [
+      {
+        "name": "Enhanced crystal weapon seed",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "2000"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "costnote": "Value based on the cost for an enhanced crystal weapon seed",
+      "image": "[[File:Bow of faerdhinen (c).png|class=inventory-image|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1",
+      "subtxt": "Full process"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5000",
+        "level": "82",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "5"
   },
   {
     "materials": [
@@ -33786,31 +33827,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Range",
-    "materials": [
-      {
-        "name": "Damiana water",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Damiana tea.png|class=inventory-image|link=Damiana tea]]",
-      "name": "Damiana tea",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "68",
-        "level": "36",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3"
-  },
-  {
-    "facilities": "Fire",
+    "facilities": "Cooking range",
     "materials": [
       {
         "name": "Damiana water",
@@ -54296,7 +54313,7 @@
     },
     "skills": [],
     "ticks": "0",
-    "tools": "Pestle and mortar"
+    "tools": ""
   },
   {
     "facilities": "Exposed altar",
@@ -75498,7 +75515,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "yes",
         "experience": "10.5",
         "level": "90",
         "name": "Fletching"

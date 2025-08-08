@@ -1358,7 +1358,7 @@
         "version": null
       }
     ],
-    "location": "Farm west of Port Phasmatys",
+    "location": "Alice's farm",
     "name": "Alice's Farming shop.",
     "sellMultiplier": "1000"
   },
@@ -34494,6 +34494,12 @@
         "currency": "Coins",
         "name": "Papyrus",
         "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pestle and mortar",
+        "stock": "5",
         "version": null
       },
       {
