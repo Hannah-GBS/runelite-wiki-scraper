@@ -16,8 +16,10 @@ public class ImportSpawnsDrops implements ImportStep
 
 	//language=SQL
 	private static final String INSERT_SPAWN =
-		"INSERT INTO SPAWN_ITEMS (GROUP_ID, NAME, COORDS, LOCATION, IS_MEMBERS) VALUES (" +
+		"INSERT INTO SPAWN_ITEMS (GROUP_ID, NAME, COORDS, LOCATION, IS_MEMBERS, PLANE, MAP_ID) VALUES (" +
 			"(SELECT ID FROM ITEM_GROUPS WHERE NAME=?)," +
+			"?," +
+			"?," +
 			"?," +
 			"?," +
 			"?," +
@@ -80,6 +82,8 @@ public class ImportSpawnsDrops implements ImportStep
 		ps.setString(ix++, spawn.getCoords());
 		ps.setString(ix++, spawn.getLocation());
 		ps.setBoolean(ix++, spawn.isMembers());
+		ps.setString(ix++, spawn.getPlane());
+		ps.setString(ix++, spawn.getMapID());
 	}
 
 	private void writeDropSource(NERDropSource source, String drop, PreparedStatement ps) throws SQLException

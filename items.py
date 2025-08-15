@@ -69,8 +69,45 @@ def get_shop_items():
             for param in store_infobox[0].params:
                 infobox_data[param.name.strip()] = param.value.strip()
 
-            raw_page_stores: List[Template] = code.filter_templates(matches=lambda t: t.name.matches("StoreTableHead") or t.name.matches("StoreLine"))
-            page_stores= []
+            coords = "?"
+            plane = "0"
+            map_id = "0"
+            if "map" in infobox_data:
+                shop_map = mw.parse(infobox_data["map"], skip_style_tags=True)
+                map_templates = shop_map.filter_templates(
+                    matches=lambda t: t.name.matches("Map") or t.name.matches("NPC map"))
+                x_coords = []
+                y_coords = []
+
+                map_params: Dict[str, str] = {}
+                for param in map_templates[0].params:
+                    map_params[param.name.strip()] = param.value.strip()
+
+                for param in map_params:
+                    if param.isdigit():
+                        param_coords = map_params[param].strip().split(",")
+                        x_coords.append(int(param_coords[0]))
+                        y_coords.append(int(param_coords[1]))
+
+                if len(x_coords) < 1 or len(y_coords) < 1:
+                    if "x" in map_params and "y" in map_params:
+                        x_coords.append(int(map_params["x"]))
+                        y_coords.append(int(map_params["y"]))
+                        coords = f"{map_params['x']},{map_params['y']}"
+                else:
+                    x_avg = int(sum(x_coords) / len(x_coords))
+                    y_avg = int(sum(y_coords) / len(y_coords))
+                    coords = f"{x_avg},{y_avg}"
+
+                if "plane" in map_params:
+                    plane = str(map_params["plane"])
+
+                if "mapID" in map_params:
+                    map_id = str(map_params["mapID"])
+
+            raw_page_stores: List[Template] = code.filter_templates(
+                matches=lambda t: t.name.matches("StoreTableHead") or t.name.matches("StoreLine"))
+            page_stores = []
             current_store_table = []
             for index, item in enumerate(raw_page_stores):
                 if item.name == "StoreTableHead":
@@ -111,7 +148,6 @@ def get_shop_items():
                     if "smwname" in store_line_data and "#" in store_line_data["smwname"]:
                         version = store_line_data["smwname"].split("#")[1]
 
-
                     shop_item = {
                         "name": store_line_data["name"],
                         "version": version if version else None,
@@ -130,7 +166,10 @@ def get_shop_items():
                     "name": name + " " + store_table_data["namenotes"] if "namenotes" in store_table_data else name,
                     "location": format_location(infobox_data["location"]) if "location" in infobox_data else "",
                     "isMembers": True if ("members" in infobox_data and infobox_data["members"] == "Yes") else False,
-                    "items": sorted_items
+                    "items": sorted_items,
+                    "coords": coords,
+                    "plane": plane,
+                    "mapID": map_id
                 }
                 if "sellmultiplier" in store_table_data:
                     shop_info["sellMultiplier"] = store_table_data["sellmultiplier"]
@@ -191,7 +230,9 @@ def get_item_spawns():
                     "name": base["name"],
                     "location": format_location(base["location"]),
                     "isMembers": True if base["members"] == "Yes" else False,
-                    "coords": coords
+                    "coords": coords,
+                    "mapID": base["mapID"] if "mapID" in base else "0",
+                    "plane": base["plane"] if "plane" in base else "0",
                 }
                 spawns.append(page_spawn)
 
@@ -252,7 +293,9 @@ def get_item_info():
                 for param, value in version.items():
                     base[param.strip()] = value.strip()
 
-                if "hist" in base["id"] or "beta" in base["id"] or ("name" in base and base["name"].lower() == "null") or base["id"] == "":
+                if "hist" in base["id"] or "beta" in base["id"] or "interface" in base["id"] or (
+                        "name" in base and base["name"].lower() == "null") or base["id"] == ""\
+                        or base["name"] == "{{Null name}}":
                     continue
 
                 item_id = int(base["id"].split(",")[0])
@@ -263,7 +306,8 @@ def get_item_info():
                     "version": base["version"] if "version" in base else None,
                     "isMembers": True if base["members"] == "Yes" else False,
                     "isTradeable": True if base["tradeable"] == "Yes" else False,
-                    "examineText": re.sub(regex, "", base["examine"]) if "examine" in base and "Clue scroll" not in base["name"] else "",
+                    "examineText": re.sub(regex, "", base["examine"]) if "examine" in base and "Clue scroll" not in
+                                                                         base["name"] else "",
                     "itemID": item_id,
                     "url": url
                 }

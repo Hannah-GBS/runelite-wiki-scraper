@@ -19,7 +19,10 @@ public class ImportShops implements ImportStep
 
 	//language=SQL
 	private static final String INSERT_SHOP =
-		"INSERT INTO SHOPS (NAME, SELL_MULTIPLIER, LOCATION, IS_MEMBERS) VALUES (" +
+		"INSERT INTO SHOPS (NAME, SELL_MULTIPLIER, LOCATION, IS_MEMBERS, COORDS, PLANE, MAP_ID) VALUES (" +
+			"?," +
+			"?," +
+			"?," +
 			"?," +
 			"?," +
 			"?," +
@@ -77,6 +80,9 @@ public class ImportShops implements ImportStep
 		ps.setString(ix++, shop.getSellMultiplier());
 		ps.setString(ix++, shop.getLocation());
 		ps.setBoolean(ix++, shop.isMembers());
+		ps.setString(ix++, shop.getCoords());
+		ps.setString(ix++, shop.getPlane());
+		ps.setString(ix++, shop.getMapID());
 	}
 
 	private void writeShopItem(NERShopItem item, int shopId, PreparedStatement ps, Set<NERInfoItem> items) throws SQLException
