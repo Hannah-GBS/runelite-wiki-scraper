@@ -33,9 +33,9 @@ def get_wiki_ask_api(args: dict[str, str]) -> Iterator[any]:
     offset = 0
 
     while True:
-        if offset > 5000:
-            print("Offset beyond 5000. Aborting ask call")
-            return
+        # if offset > 5000:
+        #     print("Offset beyond 5000. Aborting ask call")
+        #     return
         args["query"] = args["query"][0:(args["query"].index("|offset=") + 8)] + str(offset)
         url = "https://oldschool.runescape.wiki/api.php?" + urllib.parse.urlencode(args)
         print("Grabbing " + url)
