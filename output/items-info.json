@@ -130455,7 +130455,7 @@
     "isMembers": true,
     "isTradeable": false,
     "itemID": 30946,
-    "name": "Key (Forebearer Janus)",
+    "name": "{{Null name}}",
     "url": "https://oldschool.runescape.wiki/w/Key_(Forebearer_Janus)",
     "version": null
   },
@@ -130487,6 +130487,16 @@
     "itemID": 30950,
     "name": "Canvas piece",
     "url": "https://oldschool.runescape.wiki/w/Canvas_piece",
+    "version": null
+  },
+  {
+    "examineText": "An ornate key.",
+    "group": "Key (The Final Dawn)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30951,
+    "name": "Key (The Final Dawn)",
+    "url": "https://oldschool.runescape.wiki/w/Key_(The_Final_Dawn)",
     "version": null
   },
   {

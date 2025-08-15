@@ -9665,7 +9665,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "9.5",
+        "experience": "95",
         "level": "51",
         "name": "Fletching"
       }
@@ -11775,7 +11775,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">113,358,356</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">109,151,599</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -16786,7 +16786,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,728,719</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">112,541,146</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -25050,7 +25050,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "600",
+        "experience": "500",
         "level": "83",
         "name": "Crafting"
       },
@@ -41596,8 +41596,10 @@
     "output": {
       "image": "[[File:Enchanted lyre.png|class=inventory-image|link=Enchanted lyre]]",
       "name": "Enchanted lyre",
+      "outputnote": "Gets one additional charge after completion of the [[Easy Fremennik Diary]].",
       "quantity": "1",
-      "subtxt": "2 charges"
+      "subtxt": "2 charges",
+      "txt": "Enchanted lyre (2)"
     },
     "skills": [],
     "ticks": "1",
@@ -41619,8 +41621,10 @@
     "output": {
       "image": "[[File:Enchanted lyre.png|class=inventory-image|link=Enchanted lyre]]",
       "name": "Enchanted lyre",
+      "outputnote": "Gets one additional charge after completion of the [[Easy Fremennik Diary]].",
       "quantity": "1",
-      "subtxt": "2 charges"
+      "subtxt": "2 charges",
+      "txt": "Enchanted lyre (2)"
     },
     "skills": [],
     "ticks": "1"
@@ -41641,8 +41645,10 @@
     "output": {
       "image": "[[File:Enchanted lyre.png|class=inventory-image|link=Enchanted lyre]]",
       "name": "Enchanted lyre",
+      "outputnote": "Gets one additional charge after completion of the [[Easy Fremennik Diary]].",
       "quantity": "1",
-      "subtxt": "3 charges"
+      "subtxt": "3 charges",
+      "txt": "Enchanted lyre (3)"
     },
     "skills": [],
     "ticks": "1"
@@ -41663,8 +41669,10 @@
     "output": {
       "image": "[[File:Enchanted lyre.png|class=inventory-image|link=Enchanted lyre]]",
       "name": "Enchanted lyre",
+      "outputnote": "Gets one additional charge after completion of the [[Easy Fremennik Diary]].",
       "quantity": "1",
-      "subtxt": "4 charges"
+      "subtxt": "4 charges",
+      "txt": "Enchanted lyre (4)"
     },
     "skills": [],
     "ticks": "1"
@@ -59507,6 +59515,26 @@
     ],
     "ticks": "3",
     "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Sandy coin purse",
+        "quantity": "1"
+      },
+      {
+        "name": "Branch (The Final Dawn)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Makeshift blackjack.png|class=inventory-image|link=Makeshift blackjack]]",
+      "name": "Makeshift blackjack",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
