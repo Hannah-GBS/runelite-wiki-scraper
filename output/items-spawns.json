@@ -27,13 +27,19 @@
       {
         "coords": "3150,3247",
         "isMembers": false,
-        "location": "Draynor Village - east of the jail",
+        "location": "East of Draynor jail",
         "name": "Air rune"
       },
       {
         "coords": "2938,3158",
         "isMembers": false,
         "location": "Musa Point - behind Luthas' house",
+        "name": "Air rune"
+      },
+      {
+        "coords": "1399,3158",
+        "isMembers": true,
+        "location": "West of Ralos' Rise",
         "name": "Air rune"
       },
       {
@@ -103,6 +109,12 @@
     "group": "Ashes",
     "spawns": [
       {
+        "coords": "1494,3177",
+        "isMembers": true,
+        "location": "Bandits' camp north-east of Ralos' Rise",
+        "name": "Ashes"
+      },
+      {
         "coords": "3752,9780",
         "isMembers": true,
         "location": "Sisterhood Sanctuary",
@@ -140,6 +152,17 @@
         "isMembers": true,
         "location": "Taverley - Nora T. Hagg's garden shed",
         "name": "Ball"
+      }
+    ]
+  },
+  {
+    "group": "Ball of wool",
+    "spawns": [
+      {
+        "coords": "1662,3100",
+        "isMembers": true,
+        "location": "Civitas illa Fortis 1st floor",
+        "name": "Ball of wool"
       }
     ]
   },
@@ -234,6 +257,18 @@
         "name": "Beer"
       },
       {
+        "coords": "1367,3305",
+        "isMembers": true,
+        "location": "Nemus Retreat",
+        "name": "Beer"
+      },
+      {
+        "coords": "2952,9962",
+        "isMembers": false,
+        "location": "Old School Museum - Lower floor (Telegrab only)",
+        "name": "Beer"
+      },
+      {
         "coords": "1775,3679",
         "isMembers": true,
         "location": "Port Piscarilius - The Legless Faun pub",
@@ -250,12 +285,30 @@
         "isMembers": true,
         "location": "Shayziens' Wall - northern outpost",
         "name": "Beer"
+      },
+      {
+        "coords": "1388,2859",
+        "isMembers": true,
+        "location": "Stick Your Ore Inn",
+        "name": "Beer"
       }
     ]
   },
   {
     "group": "Beer glass",
     "spawns": [
+      {
+        "coords": "1380, 2932",
+        "isMembers": true,
+        "location": "Aldarin - Sunlight's Sanctum",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "1391,3352",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "name": "Beer glass"
+      },
       {
         "coords": "2794,3165",
         "isMembers": true,
@@ -269,15 +322,51 @@
         "name": "Beer glass"
       },
       {
+        "coords": "1434,9586",
+        "isMembers": true,
+        "location": "Cam Torum - basement of The Lost Pickaxe",
+        "name": "Beer glass"
+      },
+      {
         "coords": "3404,3165",
         "isMembers": false,
         "location": "Citharede Abbey mine",
         "name": "Beer glass"
       },
       {
+        "coords": "1711,3114",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "1673,3155",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - Sunrise Palace (1st floor)",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "2563, 2867",
+        "isMembers": false,
+        "location": "Corsair Cove (1st floor)",
+        "name": "Beer glass"
+      },
+      {
         "coords": "1643,3628",
         "isMembers": true,
         "location": "Hosidius - Mess hall",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "1555,9461",
+        "isMembers": true,
+        "location": "Hunter Guild - basement",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "1724,3073",
+        "isMembers": true,
+        "location": "Outer Fortis",
         "name": "Beer glass"
       },
       {
@@ -291,6 +380,36 @@
         "isMembers": true,
         "location": "Prifddinas - Hefin Inn",
         "name": "Beer glass"
+      },
+      {
+        "coords": "1502, 3228",
+        "isMembers": true,
+        "location": "Quetzacalli Gorge - The Windbreaker",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "1531,3638",
+        "isMembers": true,
+        "location": "Shayzien Encampment",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "3323,3136",
+        "isMembers": false,
+        "location": "Sorceress's Garden Building South of Al Kharid (1st floor) (search shelves)",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "1392,2860",
+        "isMembers": true,
+        "location": "Stick Your Ore Inn",
+        "name": "Beer glass"
+      },
+      {
+        "coords": "1222,3114",
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "name": "Beer glass"
       }
     ]
   },
@@ -302,12 +421,36 @@
         "isMembers": true,
         "location": "Rellekka - longhall bar",
         "name": "Beer tankard"
+      },
+      {
+        "coords": "1519,2989",
+        "isMembers": true,
+        "location": "Sunset Coast 1st floor",
+        "name": "Beer tankard"
+      },
+      {
+        "coords": "1522,2986",
+        "isMembers": true,
+        "location": "Sunset Coast 2nd floor",
+        "name": "Beer tankard"
       }
     ]
   },
   {
     "group": "Big bones",
     "spawns": [
+      {
+        "coords": "1475,9498",
+        "isMembers": true,
+        "location": "Avium Savannah - inside wolf den",
+        "name": "Big bones"
+      },
+      {
+        "coords": "1626,2930",
+        "isMembers": true,
+        "location": "Colossal Wyrm Remains (one requires telegrab)",
+        "name": "Big bones"
+      },
       {
         "coords": "1441,3616",
         "isMembers": true,
@@ -348,6 +491,18 @@
         "isMembers": true,
         "location": "Port Piscarilius",
         "name": "Big fishing net"
+      },
+      {
+        "coords": "1578,3307",
+        "isMembers": true,
+        "location": "Shipwreck Cove",
+        "name": "Big fishing net"
+      },
+      {
+        "coords": "1507,2984",
+        "isMembers": true,
+        "location": "Sunset Coast",
+        "name": "Big fishing net"
       }
     ]
   },
@@ -381,6 +536,17 @@
         "isMembers": true,
         "location": "Wilderness - Lava Dragon Isle",
         "name": "Black dagger"
+      }
+    ]
+  },
+  {
+    "group": "Black robe",
+    "spawns": [
+      {
+        "coords": "1718,3120",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - Pub 2nd floor",
+        "name": "Black robe"
       }
     ]
   },
@@ -484,6 +650,18 @@
         "name": "Blue dragon scale"
       },
       {
+        "coords": "1643,9612",
+        "isMembers": true,
+        "location": "Ruins of Tapoyauik - east blue dragon room",
+        "name": "Blue dragon scale"
+      },
+      {
+        "coords": "1602,9613",
+        "isMembers": true,
+        "location": "Ruins of Tapoyauik - west blue dragon room",
+        "name": "Blue dragon scale"
+      },
+      {
         "coords": "2912,9786",
         "isMembers": true,
         "location": "Taverley Dungeon",
@@ -497,7 +675,7 @@
       {
         "coords": "2379,4712",
         "isMembers": true,
-        "location": "Viyeldi Caves (lower level)",
+        "location": "Viyeldi Caves",
         "name": "Blue hat"
       }
     ]
@@ -547,6 +725,12 @@
     "group": "Bones",
     "spawns": [
       {
+        "coords": "2776,3781",
+        "isMembers": true,
+        "location": "Base of Trollweiss Mountain",
+        "name": "Bones"
+      },
+      {
         "coords": "2653,9421",
         "isMembers": true,
         "location": "Brimhaven Dungeon (task-only area)",
@@ -556,6 +740,12 @@
         "coords": "2592,9740",
         "isMembers": true,
         "location": "Chaos Druid Tower dungeon",
+        "name": "Bones"
+      },
+      {
+        "coords": "1636,2934",
+        "isMembers": true,
+        "location": "Colossal Wyrm (2 require telegrab)",
         "name": "Bones"
       },
       {
@@ -580,6 +770,12 @@
         "coords": "3364,9749",
         "isMembers": true,
         "location": "Digsite Dungeon",
+        "name": "Bones"
+      },
+      {
+        "coords": "1411, 2858",
+        "isMembers": true,
+        "location": "East of Mistrock",
         "name": "Bones"
       },
       {
@@ -661,9 +857,21 @@
         "name": "Bones"
       },
       {
+        "coords": "1588,3765",
+        "isMembers": true,
+        "location": "Lovakengj - north-west of the Kourend Castle",
+        "name": "Bones"
+      },
+      {
         "coords": "2925,3251",
         "isMembers": false,
-        "location": "Melzar's Maze, upstairs",
+        "location": "Melzar's Maze, (2nd floor)",
+        "name": "Bones"
+      },
+      {
+        "coords": "1828,3139",
+        "isMembers": true,
+        "location": "North of the Fortis Colosseum",
         "name": "Bones"
       },
       {
@@ -685,9 +893,21 @@
         "name": "Bones"
       },
       {
-        "coords": "2682,3729",
+        "coords": "2675,3719",
         "isMembers": true,
         "location": "Rellekka - near the rock crabs",
+        "name": "Bones"
+      },
+      {
+        "coords": "1683,9604",
+        "isMembers": true,
+        "location": "Ruins of Tapoyauik",
+        "name": "Bones"
+      },
+      {
+        "coords": "3393,2800",
+        "isMembers": true,
+        "location": "Ruins of Ullek",
         "name": "Bones"
       },
       {
@@ -715,6 +935,12 @@
         "name": "Bones"
       },
       {
+        "coords": "1545,3327",
+        "isMembers": true,
+        "location": "Shipwreck Cove",
+        "name": "Bones"
+      },
+      {
         "coords": "2501,9427",
         "isMembers": true,
         "location": "Skavid Caves",
@@ -730,6 +956,12 @@
         "coords": "3718,3349",
         "isMembers": true,
         "location": "Slepe - Crombwick Manor",
+        "name": "Bones"
+      },
+      {
+        "coords": "1720,2935",
+        "isMembers": true,
+        "location": "South-west of Stonecutter Outpost",
         "name": "Bones"
       },
       {
@@ -843,7 +1075,7 @@
         "coords": "2709,9116",
         "isMembers": true,
         "location": "Ape Atoll Dungeon",
-        "name": "Bones"
+        "name": "Bones (Ape Atoll)"
       }
     ]
   },
@@ -873,6 +1105,30 @@
     "group": "Bowl",
     "spawns": [
       {
+        "coords": "1431,2962",
+        "isMembers": true,
+        "location": "Aldarin 1st floor",
+        "name": "Bowl"
+      },
+      {
+        "coords": "1476,9553",
+        "isMembers": true,
+        "location": "Cam Torum",
+        "name": "Bowl"
+      },
+      {
+        "coords": "1768,3103",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Bowl"
+      },
+      {
+        "coords": "1764,3100",
+        "isMembers": true,
+        "location": "Civitas illa Fortis 1st floor",
+        "name": "Bowl"
+      },
+      {
         "coords": "3141,3450",
         "isMembers": false,
         "location": "Cooks' Guild - 1st floor",
@@ -901,12 +1157,24 @@
         "isMembers": false,
         "location": "Lumbridge Castle kitchen",
         "name": "Bowl"
+      },
+      {
+        "coords": "1208,3093",
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "name": "Bowl"
       }
     ]
   },
   {
     "group": "Bowl of water",
     "spawns": [
+      {
+        "coords": "1665,3120",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Bowl of water"
+      },
       {
         "coords": "3621,3378",
         "isMembers": true,
@@ -937,15 +1205,15 @@
     "group": "Box trap",
     "spawns": [
       {
-        "coords": "2164,2983",
+        "coords": "1631,3092",
         "isMembers": true,
-        "location": "Isle of Souls - near spinning wheel",
+        "location": "Civitas illa Fortis - upstairs on a table in the small building in south-west corner. Note: Ironmen cannot loot it.",
         "name": "Box trap"
       },
       {
-        "coords": "1505,3436",
+        "coords": "2164,2983",
         "isMembers": true,
-        "location": "Land's End - inside a searchable crate",
+        "location": "Isle of Souls - near spinning wheel (telegrab) \nNote: Ironmen cannot loot it.",
         "name": "Box trap"
       }
     ]
@@ -993,6 +1261,12 @@
     "group": "Bread",
     "spawns": [
       {
+        "coords": "1415,9555",
+        "isMembers": true,
+        "location": "Cam Torum - basement of the south-western homes",
+        "name": "Bread"
+      },
+      {
         "coords": "2037,8980",
         "isMembers": false,
         "location": "Corsair Cove Dungeon",
@@ -1008,6 +1282,36 @@
         "coords": "2209,3414",
         "isMembers": false,
         "location": "Gwenith - inside Preswylwyr Dall's home",
+        "name": "Bread"
+      },
+      {
+        "coords": "1770,3072",
+        "isMembers": true,
+        "location": "Outer Fortis 1st floor",
+        "name": "Bread"
+      },
+      {
+        "coords": "1311,3470",
+        "isMembers": true,
+        "location": "South of Mount Quidamortem",
+        "name": "Bread"
+      },
+      {
+        "coords": "1672,3159",
+        "isMembers": true,
+        "location": "Sunrise Palace 1st floor",
+        "name": "Bread"
+      },
+      {
+        "coords": "1521,2987",
+        "isMembers": true,
+        "location": "Sunset Coast 2nd floor",
+        "name": "Bread"
+      },
+      {
+        "coords": "1669,3250",
+        "isMembers": true,
+        "location": "Varlamore - near the Twilight Temple",
         "name": "Bread"
       }
     ]
@@ -1056,6 +1360,12 @@
         "name": "Broken arrow"
       },
       {
+        "coords": "1522,3247",
+        "isMembers": true,
+        "location": "North-east of Quetzacalli Gorge",
+        "name": "Broken arrow"
+      },
+      {
         "coords": "2657,3424",
         "isMembers": true,
         "location": "Ranging Guild",
@@ -1090,6 +1400,12 @@
     "group": "Broken glass",
     "spawns": [
       {
+        "coords": "1427,9581",
+        "isMembers": true,
+        "location": "Cam Torum - basement of The Lost Pickaxe",
+        "name": "Broken glass"
+      },
+      {
         "coords": "3152,3638",
         "isMembers": true,
         "location": "Ferox Enclave - The Old Nite pub",
@@ -1111,6 +1427,18 @@
         "coords": "1680,3680",
         "isMembers": true,
         "location": "Kingstown - Councillor Hughes' house (2nd floor)",
+        "name": "Broken glass"
+      },
+      {
+        "coords": "1725,3079",
+        "isMembers": true,
+        "location": "Outer Fortis (inaccessible)",
+        "name": "Broken glass"
+      },
+      {
+        "coords": "1726,3076",
+        "isMembers": true,
+        "location": "Outer Fortis - 1st floor (inaccessible)",
         "name": "Broken glass"
       },
       {
@@ -1191,7 +1519,7 @@
       },
       {
         "coords": "3098,3596",
-        "isMembers": true,
+        "isMembers": false,
         "location": "Wilderness - south-west of Ferox Enclave",
         "name": "Bronze arrow"
       }
@@ -1212,9 +1540,21 @@
     "group": "Bronze axe",
     "spawns": [
       {
+        "coords": "1683,2975",
+        "isMembers": true,
+        "location": "Avium Savannah - near Marcellus's house",
+        "name": "Bronze axe"
+      },
+      {
         "coords": "2795,3161",
         "isMembers": true,
         "location": "Brimhaven - Dead Man's Chest pub",
+        "name": "Bronze axe"
+      },
+      {
+        "coords": "3097,3239",
+        "isMembers": false,
+        "location": "Draynor Village - near Friendly Forester",
         "name": "Bronze axe"
       },
       {
@@ -1242,15 +1582,39 @@
         "name": "Bronze axe"
       },
       {
+        "coords": "2805,3703",
+        "isMembers": true,
+        "location": "Mountain Camp - in the cave",
+        "name": "Bronze axe"
+      },
+      {
         "coords": "2678,3731",
         "isMembers": true,
         "location": "Rellekka - near the rock crabs",
         "name": "Bronze axe"
       },
       {
+        "coords": "2729,3479",
+        "isMembers": true,
+        "location": "Seers' Village - near Friendly Forester",
+        "name": "Bronze axe"
+      },
+      {
         "coords": "2825,3088",
         "isMembers": true,
         "location": "Tai Bwo Wannai - Hardwood Grove",
+        "name": "Bronze axe"
+      },
+      {
+        "coords": "1582,3273",
+        "isMembers": true,
+        "location": "The Proudspire",
+        "name": "Bronze axe"
+      },
+      {
+        "coords": "1297,3133",
+        "isMembers": true,
+        "location": "Tlati Rainforest",
         "name": "Bronze axe"
       }
     ]
@@ -1262,6 +1626,12 @@
         "coords": "2636,9463",
         "isMembers": true,
         "location": "Brimhaven Dungeon (task-only area)",
+        "name": "Bronze bar"
+      },
+      {
+        "coords": "1620,3292",
+        "isMembers": true,
+        "location": "Salius' Armour Shop",
         "name": "Bronze bar"
       }
     ]
@@ -1291,6 +1661,12 @@
         "isMembers": false,
         "location": "Dwarven Mines - western end",
         "name": "Bronze chainbody"
+      },
+      {
+        "coords": "1694,3270",
+        "isMembers": true,
+        "location": "North-east of Twilight Temple",
+        "name": "Bronze chainbody"
       }
     ]
   },
@@ -1301,6 +1677,12 @@
         "coords": "2801,4572",
         "isMembers": true,
         "location": "Abandoned Mine - level 2",
+        "name": "Bronze dagger"
+      },
+      {
+        "coords": "1624,3166",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
         "name": "Bronze dagger"
       },
       {
@@ -1316,9 +1698,27 @@
         "name": "Bronze dagger"
       },
       {
+        "coords": "1425,3280",
+        "isMembers": true,
+        "location": "Mons Gratia",
+        "name": "Bronze dagger"
+      },
+      {
+        "coords": "1724,3075",
+        "isMembers": true,
+        "location": "Outer Fortis - 1st floor (inaccessible)",
+        "name": "Bronze dagger"
+      },
+      {
         "coords": "3730,3356",
         "isMembers": true,
         "location": "Slepe - Crombwick Manor",
+        "name": "Bronze dagger"
+      },
+      {
+        "coords": "1312,3471",
+        "isMembers": true,
+        "location": "South of Mount Quidamortem",
         "name": "Bronze dagger"
       }
     ]
@@ -1341,13 +1741,30 @@
         "coords": "3077,9778",
         "isMembers": false,
         "location": "Draynor Manor (Count Draynor's basement)",
-        "name": "Bronze Med Helm"
+        "name": "Bronze med helm"
       },
       {
         "coords": "3122,3360",
         "isMembers": false,
         "location": "Draynor Manor (ground floor)",
-        "name": "Bronze Med Helm"
+        "name": "Bronze med helm"
+      }
+    ]
+  },
+  {
+    "group": "Bronze nails",
+    "spawns": [
+      {
+        "coords": "1769,3114",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Bronze nails"
+      },
+      {
+        "coords": "3325,2727",
+        "isMembers": true,
+        "location": "Necropolis",
+        "name": "Bronze nails"
       }
     ]
   },
@@ -1437,6 +1854,18 @@
         "isMembers": false,
         "location": "Rimmington - Anja and Hengel's house",
         "name": "Bronze pickaxe"
+      },
+      {
+        "coords": "1731,2973",
+        "isMembers": true,
+        "location": "Stonecutter Outpost",
+        "name": "Bronze pickaxe"
+      },
+      {
+        "coords": "1535,3290",
+        "isMembers": true,
+        "location": "The Darkfrost - Hueycoatl base camp",
+        "name": "Bronze pickaxe"
       }
     ]
   },
@@ -1506,9 +1935,21 @@
         "name": "Bucket"
       },
       {
+        "coords": "1420,3374",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "name": "Bucket"
+      },
+      {
         "coords": "2766,3441",
         "isMembers": true,
         "location": "Beehives - south of Camelot",
+        "name": "Bucket"
+      },
+      {
+        "coords": "1486,3861",
+        "isMembers": true,
+        "location": "Blast mine - in the south building",
         "name": "Bucket"
       },
       {
@@ -1518,21 +1959,27 @@
         "name": "Bucket"
       },
       {
-        "coords": "2371,3127",
-        "isMembers": false,
-        "location": "Castle Wars - north-west",
-        "name": "Bucket"
-      },
-      {
-        "coords": "2428,3079",
-        "isMembers": false,
-        "location": "Castle Wars - south-east",
-        "name": "Bucket"
-      },
-      {
         "coords": "3408,3176",
         "isMembers": false,
         "location": "Citharede Abbey",
+        "name": "Bucket"
+      },
+      {
+        "coords": "1667,3124",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Bucket"
+      },
+      {
+        "coords": "3359,4777",
+        "isMembers": false,
+        "location": "Clan Wars - Free for all",
+        "name": "Bucket"
+      },
+      {
+        "coords": "1644,2926",
+        "isMembers": true,
+        "location": "Colossal Wyrm Remains",
         "name": "Bucket"
       },
       {
@@ -1608,6 +2055,12 @@
         "name": "Bucket"
       },
       {
+        "coords": "1358,3060",
+        "isMembers": true,
+        "location": "Kastori",
+        "name": "Bucket"
+      },
+      {
         "coords": "1943,4956",
         "isMembers": true,
         "location": "Keldagrim - Blast Furnace",
@@ -1638,6 +2091,12 @@
         "name": "Bucket"
       },
       {
+        "coords": "1354,2914",
+        "isMembers": true,
+        "location": "Moonrise Brewery and Winery",
+        "name": "Bucket"
+      },
+      {
         "coords": "3346,2966",
         "isMembers": true,
         "location": "Pollnivneach - camel shop",
@@ -1662,9 +2121,33 @@
         "name": "Bucket"
       },
       {
+        "coords": "1388,2851",
+        "isMembers": true,
+        "location": "Stick Your Ore Inn",
+        "name": "Bucket"
+      },
+      {
+        "coords": "1737,2966",
+        "isMembers": true,
+        "location": "Stonecutter Outpost",
+        "name": "Bucket"
+      },
+      {
+        "coords": "1239,3133",
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "name": "Bucket"
+      },
+      {
         "coords": "2633,9908",
         "isMembers": true,
         "location": "Temple of Ikov",
+        "name": "Bucket"
+      },
+      {
+        "coords": "1333,3119",
+        "isMembers": true,
+        "location": "Tlati Rainforest",
         "name": "Bucket"
       },
       {
@@ -1719,9 +2202,21 @@
     "group": "Bucket of water",
     "spawns": [
       {
+        "coords": "1352,2946",
+        "isMembers": true,
+        "location": "Aldarin",
+        "name": "Bucket of water"
+      },
+      {
         "coords": "2790,3199",
         "isMembers": true,
         "location": "Brimhaven - south-west of the spirit tree patch",
+        "name": "Bucket of water"
+      },
+      {
+        "coords": "1435,9587",
+        "isMembers": true,
+        "location": "Cam Torum - 1st floor of The Lost Pickaxe",
         "name": "Bucket of water"
       },
       {
@@ -1737,6 +2232,12 @@
         "name": "Bucket of water"
       },
       {
+        "coords": "1764,3095",
+        "isMembers": true,
+        "location": "Civitas illa Fortis 1st floor",
+        "name": "Bucket of water"
+      },
+      {
         "coords": "3148,3642",
         "isMembers": false,
         "location": "Ferox Enclave - The Old Nite pub",
@@ -1746,6 +2247,12 @@
         "coords": "2213,3415",
         "isMembers": false,
         "location": "Gwenith - inside Preswylwyr Dall's home",
+        "name": "Bucket of water"
+      },
+      {
+        "coords": "1545,3037",
+        "isMembers": true,
+        "location": "Hunter Guild",
         "name": "Bucket of water"
       },
       {
@@ -1761,9 +2268,33 @@
         "name": "Bucket of water"
       },
       {
-        "coords": "?",
+        "coords": "1746,3078",
+        "isMembers": true,
+        "location": "Outer Fortis",
+        "name": "Bucket of water"
+      },
+      {
+        "coords": "1500,3236",
+        "isMembers": true,
+        "location": "Quetzacalli Gorge",
+        "name": "Bucket of water"
+      },
+      {
+        "coords": "1522,3618",
+        "isMembers": true,
+        "location": "Shayzien Advanced Course - just before the final obstacle",
+        "name": "Bucket of water"
+      },
+      {
+        "coords": "1533,3643",
         "isMembers": true,
         "location": "Shayzien Basic Course - just before the final obstacle",
+        "name": "Bucket of water"
+      },
+      {
+        "coords": "1388,2866",
+        "isMembers": true,
+        "location": "Shields of Mistrock (1st floor)",
         "name": "Bucket of water"
       },
       {
@@ -1771,6 +2302,17 @@
         "isMembers": true,
         "location": "Weiss - north-eastern building",
         "name": "Bucket of water"
+      }
+    ]
+  },
+  {
+    "group": "Bug lantern",
+    "spawns": [
+      {
+        "coords": "1689,9661",
+        "isMembers": true,
+        "location": "Ruins of Tapoyauik{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "name": "Unlit bug lantern"
       }
     ]
   },
@@ -1788,6 +2330,12 @@
   {
     "group": "Burnt bones",
     "spawns": [
+      {
+        "coords": "1809,9466",
+        "isMembers": true,
+        "location": "Cave south of Colosseum(inaccessible)",
+        "name": "Burnt bones"
+      },
       {
         "coords": "1456,10094",
         "isMembers": true,
@@ -1807,7 +2355,7 @@
         "name": "Burnt bones"
       },
       {
-        "coords": "",
+        "coords": "2489,5985",
         "isMembers": true,
         "location": "Hallowed Sepulchre - floor 2",
         "name": "Burnt bones"
@@ -1845,6 +2393,28 @@
     ]
   },
   {
+    "group": "Burnt bread",
+    "spawns": [
+      {
+        "coords": "1976,9077",
+        "isMembers": false,
+        "location": "Corsair Cove Resource Area",
+        "name": "Burnt bread"
+      }
+    ]
+  },
+  {
+    "group": "Burnt chicken",
+    "spawns": [
+      {
+        "coords": "1476,9554",
+        "isMembers": true,
+        "location": "Cam Torum",
+        "name": "Burnt Chicken"
+      }
+    ]
+  },
+  {
     "group": "Burnt fish (anchovies)",
     "spawns": [
       {
@@ -1872,7 +2442,7 @@
       {
         "coords": "2026,5621",
         "isMembers": true,
-        "location": "Crash Site Cavern entrance",
+        "location": "Crash Site Cavern entrance (unreachable)",
         "name": "Burnt fish"
       }
     ]
@@ -1906,17 +2476,6 @@
     ]
   },
   {
-    "group": "Butterfly net",
-    "spawns": [
-      {
-        "coords": "1500, 3423",
-        "isMembers": true,
-        "location": "Land's End - Crate",
-        "name": "Butterfly Net"
-      }
-    ]
-  },
-  {
     "group": "Cabbage",
     "spawns": [
       {
@@ -1936,6 +2495,23 @@
         "isMembers": false,
         "location": "Lumbridge Castle cellar",
         "name": "Cabbage"
+      },
+      {
+        "coords": "1645,3285",
+        "isMembers": true,
+        "location": "Salvager Overlook - East Tower (ground floor)",
+        "name": "Candle"
+      }
+    ]
+  },
+  {
+    "group": "Cabbages",
+    "spawns": [
+      {
+        "coords": "1625,3288",
+        "isMembers": true,
+        "location": "Salvager Overlook - General Store",
+        "name": "Cabbages(2)"
       }
     ]
   },
@@ -1991,14 +2567,20 @@
       {
         "coords": "1794,3613",
         "isMembers": true,
-        "location": "Hosidius - eastern house with Fruit Stalls",
+        "location": "Hosidius - eastern house with Fruit Stalls (telekinetic grab)",
         "name": "Candle"
       },
       {
         "coords": "1500,3431",
         "isMembers": true,
-        "location": "Land's End - northwestern house",
+        "location": "Land's End - north-western house",
         "name": "Lit candle"
+      },
+      {
+        "coords": "1644,3284",
+        "isMembers": true,
+        "location": "Salvager Overlook (1st floor)",
+        "name": "Candle"
       },
       {
         "coords": "3715,3302",
@@ -2019,6 +2601,18 @@
         "name": "Lit candle"
       },
       {
+        "coords": "1680,3232",
+        "isMembers": true,
+        "location": "South of Twilight Temple",
+        "name": "Candle"
+      },
+      {
+        "coords": "1451,3193",
+        "isMembers": true,
+        "location": "The Teomat - northern building",
+        "name": "Lit candle"
+      },
+      {
         "coords": "3208,3395",
         "isMembers": true,
         "location": "Varrock Swordshop (1st floor)",
@@ -2029,6 +2623,17 @@
         "isMembers": true,
         "location": "Yanille Watchtower",
         "name": "Lit candle"
+      }
+    ]
+  },
+  {
+    "group": "Candle lantern",
+    "spawns": [
+      {
+        "coords": "1700,3272",
+        "isMembers": true,
+        "location": "North-east of Twilight Temple",
+        "name": "Candle lantern"
       }
     ]
   },
@@ -2078,8 +2683,25 @@
     ]
   },
   {
+    "group": "Charcoal",
+    "spawns": [
+      {
+        "coords": "1722,3063",
+        "isMembers": true,
+        "location": "Outer Fortis",
+        "name": "Charcoal"
+      }
+    ]
+  },
+  {
     "group": "Cheese",
     "spawns": [
+      {
+        "coords": "1644,3092",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Cheese"
+      },
       {
         "coords": "3083,3260",
         "isMembers": false,
@@ -2113,6 +2735,23 @@
     ]
   },
   {
+    "group": "Chichilihui ros\u00e9",
+    "spawns": [
+      {
+        "coords": "1387,2950",
+        "isMembers": true,
+        "location": "Aldarin",
+        "name": "Chichilihui ros\u00e9"
+      },
+      {
+        "coords": "1198,3111",
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "name": "Chichilihui ros\u00e9"
+      }
+    ]
+  },
+  {
     "group": "Child's blanket",
     "spawns": [
       {
@@ -2133,6 +2772,18 @@
         "name": "Chisel"
       },
       {
+        "coords": "1452,9585",
+        "isMembers": true,
+        "location": "Cam Torum - on a crate in blacksmith basement",
+        "name": "Chisel"
+      },
+      {
+        "coords": "1657,3142",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - on a crate in the Fortis Blacksmith store",
+        "name": "Chisel"
+      },
+      {
         "coords": "2935,3286",
         "isMembers": false,
         "location": "Crafting Guild",
@@ -2148,6 +2799,12 @@
         "coords": "2683,3318",
         "isMembers": true,
         "location": "East Ardougne - Wizard Cromperty's house",
+        "name": "Chisel"
+      },
+      {
+        "coords": "2407,5645",
+        "isMembers": true,
+        "location": "Guardians of the Rift",
         "name": "Chisel"
       },
       {
@@ -2189,13 +2846,19 @@
         "coords": "3143,3453",
         "isMembers": false,
         "location": "Cooks' Guild",
-        "name": "Chocolate Bar"
+        "name": "Chocolate bar"
+      },
+      {
+        "coords": "1364,3040",
+        "isMembers": true,
+        "location": "Kastori (1st floor)",
+        "name": "Chocolate bar"
       },
       {
         "coords": "2384,4440",
         "isMembers": true,
         "location": "Zanaris - south of the bank",
-        "name": "Chocolate Bar"
+        "name": "Chocolate bar"
       }
     ]
   },
@@ -2218,6 +2881,17 @@
         "isMembers": true,
         "location": "Darkmeyer - middle tier",
         "name": "Chopped onion"
+      }
+    ]
+  },
+  {
+    "group": "Cider",
+    "spawns": [
+      {
+        "coords": "1392,3351",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "name": "Cider"
       }
     ]
   },
@@ -2288,6 +2962,12 @@
         "name": "Coins"
       },
       {
+        "coords": "1469,3057",
+        "isMembers": true,
+        "location": "Cam Torum entrance - south",
+        "name": "Coins"
+      },
+      {
         "coords": "2012,8994",
         "isMembers": false,
         "location": "Corsair Cove Dungeon",
@@ -2297,6 +2977,12 @@
         "coords": "2856,9645",
         "isMembers": false,
         "location": "Crandor and Karamja Dungeon",
+        "name": "Coins"
+      },
+      {
+        "coords": "3003,9801",
+        "isMembers": false,
+        "location": "Dwarven Mine",
         "name": "Coins"
       },
       {
@@ -2336,6 +3022,18 @@
         "name": "Coins"
       },
       {
+        "coords": "1395,3118",
+        "isMembers": true,
+        "location": "Moss giants west of Ralos' Rise",
+        "name": "Coins"
+      },
+      {
+        "coords": "3371,9252",
+        "isMembers": true,
+        "location": "Scabaras Dungeon",
+        "name": "Coins"
+      },
+      {
         "coords": "1439,3590",
         "isMembers": true,
         "location": "Shayzien - Secluded Chapel",
@@ -2345,6 +3043,12 @@
         "coords": "1531,3637",
         "isMembers": true,
         "location": "Shayzien Encampment",
+        "name": "Coins"
+      },
+      {
+        "coords": "1569,3321",
+        "isMembers": true,
+        "location": "Shipwreck Cove",
         "name": "Coins"
       },
       {
@@ -2461,6 +3165,17 @@
     ]
   },
   {
+    "group": "Cooked sweetcorn",
+    "spawns": [
+      {
+        "coords": "1356,3040",
+        "isMembers": true,
+        "location": "Kastori (1st floor){{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "name": "Cooked sweetcorn"
+      }
+    ]
+  },
+  {
     "group": "Cooking apple",
     "spawns": [
       {
@@ -2490,7 +3205,7 @@
         "coords": "2947,3898",
         "isMembers": false,
         "location": "Frozen Waste Plateau - south of the gate",
-        "name": "Cosmic Rune"
+        "name": "Cosmic rune"
       }
     ]
   },
@@ -2543,34 +3258,40 @@
     "group": "Cup of tea",
     "spawns": [
       {
+        "coords": "1375,3034",
+        "isMembers": true,
+        "location": "Kastori (1st floor)",
+        "name": "Cup of tea"
+      },
+      {
         "coords": "2903,3441",
         "isMembers": true,
         "location": "Taverley - building directly west of the tree patch",
-        "name": "Cup of Tea"
+        "name": "Cup of tea"
       },
       {
         "coords": "2886,3412",
         "isMembers": true,
         "location": "Taverley - south-west of Jatix's Herblore Shop",
-        "name": "Cup of Tea"
+        "name": "Cup of tea"
       },
       {
         "coords": "3490,3059",
         "isMembers": true,
         "location": "Uzer Oasis - inside Ali the Tea Seller's house",
-        "name": "Cup of Tea"
+        "name": "Cup of tea"
       },
       {
         "coords": "3271,3413",
         "isMembers": true,
         "location": "Varrock - Ye olde Tea Shoppe.",
-        "name": "Cup of Tea"
+        "name": "Cup of tea"
       },
       {
         "coords": "1621,3501",
         "isMembers": true,
         "location": "Woodcutting Guild - inside Sawmill operator building",
-        "name": "Cup of Tea"
+        "name": "Cup of tea"
       }
     ]
   },
@@ -2592,13 +3313,13 @@
         "coords": "1377,3723",
         "isMembers": true,
         "location": "Kebos Lowlands - Battlefront",
-        "name": "Damaged Armour"
+        "name": "Damaged armour"
       },
       {
         "coords": "2679,3425",
         "isMembers": true,
         "location": "Ranging Guild - shooting range",
-        "name": "Damaged Armour"
+        "name": "Damaged armour"
       }
     ]
   },
@@ -2620,7 +3341,7 @@
         "coords": "2998,3705",
         "isMembers": true,
         "location": "Wilderness - western Ruins",
-        "name": "Dark Fishing Bait"
+        "name": "Dark fishing bait"
       }
     ]
   },
@@ -2686,7 +3407,7 @@
       {
         "coords": "2905,3475",
         "isMembers": true,
-        "location": "Witch's House",
+        "location": "Witch's house",
         "name": "Door key (Witch's House)"
       }
     ]
@@ -2772,6 +3493,12 @@
     "group": "Earth rune",
     "spawns": [
       {
+        "coords": "1394,3116",
+        "isMembers": true,
+        "location": "Moss giants west of Ralos' Rise",
+        "name": "Earth rune"
+      },
+      {
         "coords": "3195,3515",
         "isMembers": false,
         "location": "Varrock - north-east of the Grand Exchange",
@@ -2788,6 +3515,17 @@
         "isMembers": false,
         "location": "Wilderness - Dark Warriors' Fortress",
         "name": "Earth rune"
+      }
+    ]
+  },
+  {
+    "group": "Eclipse red",
+    "spawns": [
+      {
+        "coords": "1555,3035",
+        "isMembers": true,
+        "location": "Guildmaster Apatura's quarters, top floor",
+        "name": "Eclipse red"
       }
     ]
   },
@@ -2842,6 +3580,12 @@
         "name": "Egg"
       },
       {
+        "coords": "1238,3136",
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "name": "Egg"
+      },
+      {
         "coords": "2453,4476",
         "isMembers": true,
         "location": "Zanaris - Chicken shrine",
@@ -2868,6 +3612,17 @@
         "isMembers": true,
         "location": "Hosidius - Mess hall",
         "name": "Empty cup"
+      }
+    ]
+  },
+  {
+    "group": "Empty sack",
+    "spawns": [
+      {
+        "coords": "1744,3172",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Empty sack"
       }
     ]
   },
@@ -2928,6 +3683,12 @@
         "coords": "1250,3687",
         "isMembers": true,
         "location": "Kebos Lowlands - Mary and Gordon's farm",
+        "name": "Feather"
+      },
+      {
+        "coords": "1506,2984",
+        "isMembers": true,
+        "location": "Sunset Coast",
         "name": "Feather"
       }
     ]
@@ -3001,8 +3762,25 @@
     ]
   },
   {
+    "group": "Fishing bait",
+    "spawns": [
+      {
+        "coords": "1375,3035",
+        "isMembers": true,
+        "location": "Kastori",
+        "name": "Fishing bait"
+      }
+    ]
+  },
+  {
     "group": "Fishing rod",
     "spawns": [
+      {
+        "coords": "1331,3330",
+        "isMembers": true,
+        "location": "Auburn Valley",
+        "name": "Fishing rod"
+      },
       {
         "coords": "2860,3335",
         "isMembers": true,
@@ -3026,6 +3804,12 @@
         "isMembers": true,
         "location": "Ruins of Unkah",
         "name": "Fishing rod"
+      },
+      {
+        "coords": "1557,2959",
+        "isMembers": true,
+        "location": "Sunset Coast",
+        "name": "Fishing rod"
       }
     ]
   },
@@ -3047,6 +3831,12 @@
         "coords": "2263,2886",
         "isMembers": true,
         "location": "Isle of Souls",
+        "name": "Fly fishing rod"
+      },
+      {
+        "coords": "1530,2979",
+        "isMembers": true,
+        "location": "Sunset Coast",
         "name": "Fly fishing rod"
       }
     ]
@@ -3111,6 +3901,12 @@
     "group": "Gold bar",
     "spawns": [
       {
+        "coords": "1743,3176",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - thieves hideout (1st floor){{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "name": "Gold bar"
+      },
+      {
         "coords": "2057,8985",
         "isMembers": false,
         "location": "Corsair Cove Dungeon - eastern end{{Refn|name=telegrab}}",
@@ -3119,7 +3915,7 @@
       {
         "coords": "1965,9082",
         "isMembers": false,
-        "location": "Corsair Cove Dungeon - northern end{{Refn|name=dragon_slayer|This spawn requires completion of Dragon Slayer I.}}",
+        "location": "Corsair Cove Dungeon - northern end{{Refn|name=dragon_slayer|This spawn requires completion of Dragon Slayer I and permission from Haris to access the area.}}",
         "name": "Gold bar"
       },
       {
@@ -3142,7 +3938,7 @@
       {
         "coords": "3192,9821",
         "isMembers": false,
-        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Varrock - west bank basement{{Refn|This spawn requires telekinetic grab to obtain.|group=s}}",
         "name": "Gold necklace"
       },
       {
@@ -3175,7 +3971,7 @@
         "name": "Gold ore"
       },
       {
-        "coords": "3146,3734",
+        "coords": "3165,3739",
         "isMembers": false,
         "location": "Ruins (east), level 27 Wilderness",
         "name": "Gold ore"
@@ -3204,10 +4000,39 @@
         "name": "Gold ring"
       },
       {
+        "coords": "2398,5867",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 3",
+        "name": "Gold ring"
+      },
+      {
+        "coords": "2553,5855",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 4",
+        "name": "Gold ring"
+      },
+      {
         "coords": "3107,10268",
         "isMembers": true,
         "location": "King Black Dragon Lair",
         "name": "Gold ring"
+      },
+      {
+        "coords": "3369,9246",
+        "isMembers": true,
+        "location": "Scabaras Dungeon",
+        "name": "Gold ring"
+      }
+    ]
+  },
+  {
+    "group": "Grail bell",
+    "spawns": [
+      {
+        "coords": "2762,4694",
+        "isMembers": true,
+        "location": "In front of the castle entrance ruins - Dilapidated Fisher Realm",
+        "name": "Grail bell"
       }
     ]
   },
@@ -3221,6 +4046,12 @@
         "name": "Grain"
       },
       {
+        "coords": "1561,3045",
+        "isMembers": true,
+        "location": "Hunter Guild (1st floor)",
+        "name": "Grain"
+      },
+      {
         "coords": "1296,3717",
         "isMembers": true,
         "location": "Kebos Lowlands - Keith's house",
@@ -3231,6 +4062,23 @@
         "isMembers": true,
         "location": "Kingstown - Councillor Hughes' house (2nd floor)",
         "name": "Grain"
+      },
+      {
+        "coords": "1512,2996",
+        "isMembers": true,
+        "location": "Sunset Coast (1st floor)",
+        "name": "Grain"
+      }
+    ]
+  },
+  {
+    "group": "Granite tablet",
+    "spawns": [
+      {
+        "coords": "2768,10284",
+        "isMembers": true,
+        "location": "Zemouregal's Fort - basement tunnels",
+        "name": "Granite tablet"
       }
     ]
   },
@@ -3299,9 +4147,39 @@
     "group": "Hammer",
     "spawns": [
       {
+        "coords": "1373,2949",
+        "isMembers": true,
+        "location": "Aldarin",
+        "name": "Hammer"
+      },
+      {
+        "coords": "1381,3370",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "name": "Hammer"
+      },
+      {
         "coords": "3492,3242",
         "isMembers": true,
         "location": "Burgh de Rott - upstairs",
+        "name": "Hammer"
+      },
+      {
+        "coords": "1452,9587",
+        "isMembers": true,
+        "location": "Cam Torum Blacksmith",
+        "name": "Hammer"
+      },
+      {
+        "coords": "1770,3114",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Hammer"
+      },
+      {
+        "coords": "1639,2924",
+        "isMembers": true,
+        "location": "Colossal Wyrm Remains",
         "name": "Hammer"
       },
       {
@@ -3349,7 +4227,7 @@
       {
         "coords": "2954,3060",
         "isMembers": true,
-        "location": "Karamja- Ship Yard",
+        "location": "Karamja - Ship Yard",
         "name": "Hammer"
       },
       {
@@ -3365,9 +4243,21 @@
         "name": "Hammer"
       },
       {
+        "coords": "1401,2866",
+        "isMembers": true,
+        "location": "Mistrock",
+        "name": "Hammer"
+      },
+      {
         "coords": "2351,9383",
         "isMembers": true,
         "location": "Observatory Dungeon",
+        "name": "Hammer"
+      },
+      {
+        "coords": "1773,3060",
+        "isMembers": true,
+        "location": "Outer Fortis",
         "name": "Hammer"
       },
       {
@@ -3377,15 +4267,39 @@
         "name": "Hammer"
       },
       {
+        "coords": "1420,3186",
+        "isMembers": true,
+        "location": "Ralos' Rise",
+        "name": "Hammer"
+      },
+      {
         "coords": "2961,5802",
         "isMembers": false,
         "location": "Ruins of Camdozaal",
         "name": "Hammer"
       },
       {
+        "coords": "3435,2835",
+        "isMembers": true,
+        "location": "Ruins of Ullek",
+        "name": "Hammer"
+      },
+      {
         "coords": "3429,9931",
         "isMembers": true,
         "location": "Slayer Tower basement",
+        "name": "Hammer"
+      },
+      {
+        "coords": "1513,2996",
+        "isMembers": true,
+        "location": "Sunset Coast",
+        "name": "Hammer"
+      },
+      {
+        "coords": "1207,3108",
+        "isMembers": true,
+        "location": "Tal Teklan",
         "name": "Hammer"
       }
     ]
@@ -3480,8 +4394,31 @@
     ]
   },
   {
+    "group": "Iron arrow",
+    "spawns": [
+      {
+        "coords": "1723,2936",
+        "isMembers": true,
+        "location": "South-west of Stonecutter Outpost",
+        "name": "Iron arrow"
+      }
+    ]
+  },
+  {
     "group": "Iron axe",
     "spawns": [
+      {
+        "coords": "1399,3371",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "name": "Iron axe"
+      },
+      {
+        "coords": "1717,3119",
+        "isMembers": true,
+        "location": "Civitas illa Fortis 1st floor",
+        "name": "Iron axe"
+      },
       {
         "coords": "2821,3086",
         "isMembers": true,
@@ -3506,9 +4443,27 @@
         "name": "Iron bar"
       },
       {
-        "coords": "2176,3429",
+        "coords": "2918,10327",
+        "isMembers": true,
+        "location": "Ghorrock Dungeon",
+        "name": "Iron bar"
+      },
+      {
+        "coords": "2169,3430",
         "isMembers": true,
         "location": "Mynydd",
+        "name": "Iron bar"
+      },
+      {
+        "coords": "1385,2868",
+        "isMembers": true,
+        "location": "Shields of Mistrock (1st floor)",
+        "name": "Iron bar"
+      },
+      {
+        "coords": "1513,2995",
+        "isMembers": true,
+        "location": "Sunset Coast",
         "name": "Iron bar"
       },
       {
@@ -3520,12 +4475,41 @@
     ]
   },
   {
+    "group": "Iron battleaxe",
+    "spawns": [
+      {
+        "coords": "1700,3185",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Iron battleaxe"
+      }
+    ]
+  },
+  {
     "group": "Iron dagger",
     "spawns": [
+      {
+        "coords": "1385,3217",
+        "isMembers": true,
+        "location": "Gloomthorn Trail",
+        "name": "Iron dagger"
+      },
       {
         "coords": "3248,3245",
         "isMembers": false,
         "location": "Lumbridge - goblin house",
+        "name": "Iron dagger"
+      },
+      {
+        "coords": "1573,3140",
+        "isMembers": true,
+        "location": "Ortus Farm (1st floor)",
+        "name": "Iron dagger"
+      },
+      {
+        "coords": "1519,3225",
+        "isMembers": true,
+        "location": "Quetzacalli Gorge(1st floor)",
         "name": "Iron dagger"
       },
       {
@@ -3561,6 +4545,17 @@
     ]
   },
   {
+    "group": "Iron dart",
+    "spawns": [
+      {
+        "coords": "1614,3176",
+        "isMembers": true,
+        "location": "Civitas illa Fortis 1st floor",
+        "name": "Iron dart"
+      }
+    ]
+  },
+  {
     "group": "Iron full helm",
     "spawns": [
       {
@@ -3586,10 +4581,27 @@
     "group": "Iron knife",
     "spawns": [
       {
-        "coords": "2176,3429",
+        "coords": "1545,3035",
+        "isMembers": true,
+        "location": "Hunter Guild",
+        "name": "Iron knife"
+      },
+      {
+        "coords": "2170,3432",
         "isMembers": true,
         "location": "Mynydd summit",
-        "name": "Iron Knife"
+        "name": "Iron knife"
+      }
+    ]
+  },
+  {
+    "group": "Iron longsword",
+    "spawns": [
+      {
+        "coords": "2976,9555",
+        "isMembers": false,
+        "location": "Asgarnian Ice Cave, near the shortcut",
+        "name": "Iron longsword"
       }
     ]
   },
@@ -3607,12 +4619,30 @@
         "isMembers": false,
         "location": "Edgeville - jailhouse",
         "name": "Iron mace"
+      },
+      {
+        "coords": "1776,3060",
+        "isMembers": true,
+        "location": "Spike's Spikes shop in Outer Fortis",
+        "name": "Iron mace"
       }
     ]
   },
   {
     "group": "Iron med helm",
     "spawns": [
+      {
+        "coords": "1616,2963",
+        "isMembers": true,
+        "location": "Avium Savannah",
+        "name": "Iron med helm"
+      },
+      {
+        "coords": "2562,5985",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 2",
+        "name": "Iron med helm"
+      },
       {
         "coords": "2540,3249",
         "isMembers": true,
@@ -3648,6 +4678,12 @@
     "group": "Iron pickaxe",
     "spawns": [
       {
+        "coords": "1499,3860",
+        "isMembers": true,
+        "location": "Blast mine",
+        "name": "Iron pickaxe"
+      },
+      {
         "coords": "3347,9753",
         "isMembers": true,
         "location": "Digsite Dungeon - next to Doug Deeping",
@@ -3657,6 +4693,12 @@
         "coords": "2672,3728",
         "isMembers": true,
         "location": "Rellekka - near the rock crabs",
+        "name": "Iron pickaxe"
+      },
+      {
+        "coords": "1690,2904",
+        "isMembers": true,
+        "location": "Varlamore - between the Harpie bug swarms",
         "name": "Iron pickaxe"
       },
       {
@@ -3682,9 +4724,27 @@
     "group": "Iron scimitar",
     "spawns": [
       {
+        "coords": "1398,2977",
+        "isMembers": false,
+        "location": "Northern most villa in Aldarin - 2nd floor",
+        "name": "Iron scimitar"
+      },
+      {
         "coords": "1466,3513",
         "isMembers": true,
         "location": "Ruins of Morra (must be telegrabbed)",
+        "name": "Iron scimitar"
+      },
+      {
+        "coords": "1098,3339",
+        "isMembers": true,
+        "location": "South-west corner of the south-western temple in the Stranglewood (must be telegrabbed)",
+        "name": "Iron scimitar"
+      },
+      {
+        "coords": "1500,3131",
+        "isMembers": true,
+        "location": "West of Ortus Farm",
         "name": "Iron scimitar"
       },
       {
@@ -3709,6 +4769,18 @@
   {
     "group": "Iron sword",
     "spawns": [
+      {
+        "coords": "1494,3177",
+        "isMembers": true,
+        "location": "Bandits' camp north-east of Ralos' Rise",
+        "name": "Iron sword"
+      },
+      {
+        "coords": "2561,5983",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 2",
+        "name": "Iron sword"
+      },
       {
         "coords": "1569,3547",
         "isMembers": true,
@@ -3749,6 +4821,24 @@
     "group": "Jug",
     "spawns": [
       {
+        "coords": "1439,3324",
+        "isMembers": true,
+        "location": "Auburn Valley",
+        "name": "Jug"
+      },
+      {
+        "coords": "1394,3352",
+        "isMembers": true,
+        "location": "Auburn Valley (1st floor)",
+        "name": "Jug"
+      },
+      {
+        "coords": "1737,3168",
+        "isMembers": true,
+        "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "name": "Jug"
+      },
+      {
         "coords": "3142,3447",
         "isMembers": false,
         "location": "Cooks' Guild",
@@ -3761,6 +4851,12 @@
         "name": "Jug"
       },
       {
+        "coords": "1669,2982",
+        "isMembers": true,
+        "location": "Locus Oasis",
+        "name": "Jug"
+      },
+      {
         "coords": "3211,9625",
         "isMembers": false,
         "location": "Lumbridge Castle cellar",
@@ -3770,6 +4866,18 @@
         "coords": "3211,3212",
         "isMembers": false,
         "location": "Lumbridge Castle kitchen",
+        "name": "Jug"
+      },
+      {
+        "coords": "1358,2920",
+        "isMembers": true,
+        "location": "Moonrise Brewery and Winery 1st floor",
+        "name": "Jug"
+      },
+      {
+        "coords": "1372,9312",
+        "isMembers": true,
+        "location": "Moonrise Brewery and Winery cellar",
         "name": "Jug"
       },
       {
@@ -3786,7 +4894,7 @@
       },
       {
         "coords": "3512,3049",
-        "isMembers": false,
+        "isMembers": true,
         "location": "Uzer Oasis - Cassim's house",
         "name": "Jug"
       },
@@ -3808,6 +4916,18 @@
         "name": "Jug of water"
       },
       {
+        "coords": "1414,2973",
+        "isMembers": true,
+        "location": "Aldarin - Aldarin General Store (1st floor)",
+        "name": "Jug of water"
+      },
+      {
+        "coords": "1649,2906",
+        "isMembers": true,
+        "location": "Colossal Wyrm Agility Course - advanced route",
+        "name": "Jug of water"
+      },
+      {
         "coords": "1794,3611",
         "isMembers": true,
         "location": "Hosidius - eastern house with Fruit Stalls",
@@ -3817,6 +4937,12 @@
         "coords": "3485,3056",
         "isMembers": true,
         "location": "Uzer Oasis - Ali the Tea Seller's house",
+        "name": "Jug of water"
+      },
+      {
+        "coords": "1667,3249",
+        "isMembers": true,
+        "location": "Varlamore - near the Twilight Temple",
         "name": "Jug of water"
       },
       {
@@ -3831,9 +4957,21 @@
     "group": "Jug of wine",
     "spawns": [
       {
+        "coords": "1376,2925",
+        "isMembers": true,
+        "location": "Aldarin - Sunlight's Sanctum 1st floor",
+        "name": "Jug of wine"
+      },
+      {
         "coords": "2806,3449",
         "isMembers": true,
         "location": "Catherby - house north of the bank (1st floor)",
+        "name": "Jug of wine"
+      },
+      {
+        "coords": "1712,3115",
+        "isMembers": true,
+        "location": "Civitas illa Fortis 1st floor",
         "name": "Jug of wine"
       },
       {
@@ -3843,9 +4981,21 @@
         "name": "Jug of wine"
       },
       {
+        "coords": "1315,2917",
+        "isMembers": true,
+        "location": "Darkmoon Ravine (inaccessible)",
+        "name": "Jug of wine"
+      },
+      {
         "coords": "3291,3033",
         "isMembers": true,
         "location": "Desert Mining Camp - Captain Siad's office (1st floor)",
+        "name": "Jug of wine"
+      },
+      {
+        "coords": "1718,3065",
+        "isMembers": true,
+        "location": "Outer Fortis",
         "name": "Jug of wine"
       },
       {
@@ -3944,9 +5094,33 @@
     "group": "Knife",
     "spawns": [
       {
+        "coords": "1439,3351",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "name": "Knife"
+      },
+      {
+        "coords": "1381,3350",
+        "isMembers": true,
+        "location": "Auburnvale (1st floor)",
+        "name": "Knife"
+      },
+      {
+        "coords": "1476,9555",
+        "isMembers": true,
+        "location": "Cam Torum",
+        "name": "Knife"
+      },
+      {
         "coords": "2820,3450",
         "isMembers": true,
         "location": "Catherby - Caleb's house",
+        "name": "Knife"
+      },
+      {
+        "coords": "1377,9451",
+        "isMembers": true,
+        "location": "Citlalli's basement",
         "name": "Knife"
       },
       {
@@ -4022,6 +5196,18 @@
         "name": "Knife"
       },
       {
+        "coords": "1371,3316",
+        "isMembers": true,
+        "location": "Nemus Retreat",
+        "name": "Knife"
+      },
+      {
+        "coords": "1497,3254",
+        "isMembers": true,
+        "location": "Quetzacalli Gorge",
+        "name": "Knife"
+      },
+      {
         "coords": "2681,3717",
         "isMembers": true,
         "location": "Rellekka - near the rock crabs",
@@ -4031,6 +5217,12 @@
         "coords": "2934,5773",
         "isMembers": false,
         "location": "Ruins of Camdozaal - near the Offering Altar",
+        "name": "Knife"
+      },
+      {
+        "coords": "1629,3302",
+        "isMembers": true,
+        "location": "Salvager Overlook",
         "name": "Knife"
       },
       {
@@ -4061,6 +5253,12 @@
         "coords": "2653,9767",
         "isMembers": true,
         "location": "Temple of Ikov basement",
+        "name": "Knife"
+      },
+      {
+        "coords": "1587,3277",
+        "isMembers": true,
+        "location": "The Proudspire",
         "name": "Knife"
       },
       {
@@ -4144,9 +5342,27 @@
         "name": "Leather boots"
       },
       {
+        "coords": "1701,3186",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Leather boots"
+      },
+      {
         "coords": "3210,9615",
         "isMembers": false,
         "location": "Lumbridge Castle cellar",
+        "name": "Leather boots"
+      },
+      {
+        "coords": "1590,3128",
+        "isMembers": true,
+        "location": "Ortus Farm (1st floor)",
+        "name": "Leather boots"
+      },
+      {
+        "coords": "1629,3302",
+        "isMembers": true,
+        "location": "Salvager Overlook (1st floor)",
         "name": "Leather boots"
       },
       {
@@ -4162,13 +5378,13 @@
         "name": "Leather boots"
       },
       {
-        "coords": "3111,3159",
+        "coords": "3112,3155",
         "isMembers": false,
-        "location": "Wizards' Tower (ground floor)",
+        "location": "Wizards' Tower (1st floor)",
         "name": "Leather boots"
       },
       {
-        "coords": "3112,3155",
+        "coords": "3111,3159",
         "isMembers": false,
         "location": "Wizards' Tower (ground floor)",
         "name": "Leather boots"
@@ -4178,6 +5394,18 @@
   {
     "group": "Leather gloves",
     "spawns": [
+      {
+        "coords": "1354,2965",
+        "isMembers": true,
+        "location": "Aldarin 1st floor",
+        "name": "Leather gloves"
+      },
+      {
+        "coords": "1718,3115",
+        "isMembers": true,
+        "location": "Civitas illa Fortis 2nd floor",
+        "name": "Leather gloves"
+      },
       {
         "coords": "3097,3486",
         "isMembers": false,
@@ -4274,6 +5502,12 @@
         "isMembers": true,
         "location": "Ruins of Unkah",
         "name": "Lobster pot"
+      },
+      {
+        "coords": "1529,2978",
+        "isMembers": true,
+        "location": "Sunset Coast",
+        "name": "Lobster pot"
       }
     ]
   },
@@ -4295,6 +5529,12 @@
         "coords": "3411,3183",
         "isMembers": false,
         "location": "Citharede Abbey",
+        "name": "Logs"
+      },
+      {
+        "coords": "1743,3167",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
         "name": "Logs"
       },
       {
@@ -4328,9 +5568,33 @@
         "name": "Logs"
       },
       {
+        "coords": "1746,3079",
+        "isMembers": true,
+        "location": "Outer Fortis",
+        "name": "Logs"
+      },
+      {
         "coords": "2958,3205",
         "isMembers": false,
         "location": "Rimmington - Brian's Archery Supplies",
+        "name": "Logs"
+      },
+      {
+        "coords": "1619,3292",
+        "isMembers": true,
+        "location": "Salius' Armour Shop",
+        "name": "Logs"
+      },
+      {
+        "coords": "1388,2869",
+        "isMembers": true,
+        "location": "Shields of Mistrock (1st floor)",
+        "name": "Logs"
+      },
+      {
+        "coords": "153,3293",
+        "isMembers": true,
+        "location": "The Darkfrost - Hueycoatl base camp",
         "name": "Logs"
       },
       {
@@ -4388,7 +5652,7 @@
         "coords": "3314,6119",
         "isMembers": true,
         "location": "Prifddinas",
-        "name": "Mahogany log"
+        "name": "Mahogany logs"
       }
     ]
   },
@@ -4410,6 +5674,12 @@
         "coords": "3206,3208",
         "isMembers": false,
         "location": "Lumbridge Castle (ground floor)",
+        "name": "Mind rune"
+      },
+      {
+        "coords": "1392,3118",
+        "isMembers": true,
+        "location": "Moss giants west of Ralos' Rise",
         "name": "Mind rune"
       },
       {
@@ -4493,13 +5763,13 @@
       {
         "coords": "2671,3737",
         "isMembers": true,
-        "location": "Rellekka - on a small island near the rock crabs",
+        "location": "Rellekka - on a small island near the rock crabs{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Nature rune"
       },
       {
         "coords": "3311,3853",
         "isMembers": false,
-        "location": "Wilderness - on a small island south-east of the Demonic Ruins",
+        "location": "Wilderness - on a small island south-east of the Demonic Ruins{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "name": "Nature rune"
       }
     ]
@@ -4519,9 +5789,27 @@
     "group": "Needle",
     "spawns": [
       {
+        "coords": "1368,3358",
+        "isMembers": false,
+        "location": "Auburnvale",
+        "name": "Needle"
+      },
+      {
+        "coords": "1765,3103",
+        "isMembers": true,
+        "location": "Civitas illa Fortis 1st floor",
+        "name": "Needle"
+      },
+      {
         "coords": "3602,3379",
         "isMembers": true,
         "location": "Darkmeyer Seamstress",
+        "name": "Needle"
+      },
+      {
+        "coords": "1566,3035",
+        "isMembers": false,
+        "location": "Hunter Guild",
         "name": "Needle"
       },
       {
@@ -4537,10 +5825,27 @@
         "name": "Needle"
       },
       {
+        "coords": "1448,3195",
+        "isMembers": true,
+        "location": "Ralos' Rise 1st floor",
+        "name": "Needle"
+      },
+      {
         "coords": "1529,3645",
         "isMembers": true,
         "location": "Shayzien Encampment",
         "name": "Needle"
+      }
+    ]
+  },
+  {
+    "group": "Noose wand",
+    "spawns": [
+      {
+        "coords": "1259,9781",
+        "isMembers": true,
+        "location": "Stalker Den (1st floor)",
+        "name": "Noose wand"
       }
     ]
   },
@@ -4552,6 +5857,17 @@
         "isMembers": true,
         "location": "Ranging Guild - table by shield master",
         "name": "Oak shield"
+      }
+    ]
+  },
+  {
+    "group": "Oak shortbow",
+    "spawns": [
+      {
+        "coords": "1711,3112",
+        "isMembers": true,
+        "location": "Civitas illa Fortis 2nd floor",
+        "name": "Oak shortbow"
       }
     ]
   },
@@ -4585,6 +5901,17 @@
         "isMembers": false,
         "location": "Corsair Cove Dungeon - Francois' inaccessible exit",
         "name": "Oil lamp"
+      }
+    ]
+  },
+  {
+    "group": "Oil lantern",
+    "spawns": [
+      {
+        "coords": "1645,3285",
+        "isMembers": true,
+        "location": "Salvager Overlook - East Tower (2nd floor)",
+        "name": "Oil Lantern"
       }
     ]
   },
@@ -4629,6 +5956,12 @@
         "isMembers": false,
         "location": "Lumbridge General Store - 1st floor",
         "name": "Onion"
+      },
+      {
+        "coords": "1376,2865",
+        "isMembers": true,
+        "location": "Mistrock",
+        "name": "Onion"
       }
     ]
   },
@@ -4657,6 +5990,12 @@
   {
     "group": "Papyrus",
     "spawns": [
+      {
+        "coords": "1672,3159",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - Sunrise Palace (1st floor)",
+        "name": "Papyrus"
+      },
       {
         "coords": "3290,3033",
         "isMembers": true,
@@ -4698,6 +6037,23 @@
         "isMembers": true,
         "location": "Slepe - eastern and western houses (1st floor)",
         "name": "Papyrus"
+      },
+      {
+        "coords": "1452,3193",
+        "isMembers": true,
+        "location": "The Teomat - northern building",
+        "name": "Papyrus"
+      }
+    ]
+  },
+  {
+    "group": "Pat of butter",
+    "spawns": [
+      {
+        "coords": "1647,3286",
+        "isMembers": true,
+        "location": "Salvager Overlook",
+        "name": "Pat of butter"
       }
     ]
   },
@@ -4718,7 +6074,13 @@
       {
         "coords": "2132,2998",
         "isMembers": true,
-        "location": "Crumbling Tower, 2nd floor",
+        "location": "Isle of Souls - Crumbling Tower, 2nd floor",
+        "name": "Pestle and mortar"
+      },
+      {
+        "coords": "1667,3068",
+        "isMembers": true,
+        "location": "Outer Fortis",
         "name": "Pestle and mortar"
       }
     ]
@@ -4790,6 +6152,12 @@
         "name": "Pie dish"
       },
       {
+        "coords": "1604,3099",
+        "isMembers": true,
+        "location": "Ortus Farm",
+        "name": "Pie dish"
+      },
+      {
         "coords": "3222,3494",
         "isMembers": false,
         "location": "Varrock Palace",
@@ -4835,6 +6203,18 @@
         "name": "Plank"
       },
       {
+        "coords": "1745,3181",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Plank"
+      },
+      {
+        "coords": "1636,2922",
+        "isMembers": true,
+        "location": "Colossal Wyrm Remains",
+        "name": "Plank"
+      },
+      {
         "coords": "2847,3232",
         "isMembers": false,
         "location": "Crandor - crashed ship at the south-eastern coast. 3 require Telekinetic Grab.",
@@ -4850,6 +6230,12 @@
         "coords": "3734,3805",
         "isMembers": true,
         "location": "Fossil Island - Museum Camp",
+        "name": "Plank"
+      },
+      {
+        "coords": "2915,10342",
+        "isMembers": true,
+        "location": "Ghorrock Dungeon",
         "name": "Plank"
       },
       {
@@ -4880,6 +6266,18 @@
         "coords": "2648,3156",
         "isMembers": true,
         "location": "Port Khazard",
+        "name": "Plank"
+      },
+      {
+        "coords": "1563,3316",
+        "isMembers": true,
+        "location": "Shipwreck Cove",
+        "name": "Plank"
+      },
+      {
+        "coords": "1235,3074",
+        "isMembers": true,
+        "location": "Tlati Rainforest",
         "name": "Plank"
       },
       {
@@ -4928,6 +6326,12 @@
     "group": "Pot",
     "spawns": [
       {
+        "coords": "1395,2895",
+        "isMembers": true,
+        "location": "Aldarin windmill 2nd floor",
+        "name": "Pot"
+      },
+      {
         "coords": "3074,3431",
         "isMembers": false,
         "location": "Barbarian Village - Helmet Shop",
@@ -4937,6 +6341,12 @@
         "coords": "3479,3221",
         "isMembers": true,
         "location": "Burgh de Rott - upstairs",
+        "name": "Pot"
+      },
+      {
+        "coords": "1666,3124",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
         "name": "Pot"
       },
       {
@@ -4994,6 +6404,24 @@
         "name": "Pot"
       },
       {
+        "coords": "1583,3130",
+        "isMembers": true,
+        "location": "Ortus Farm",
+        "name": "Pot"
+      },
+      {
+        "coords": "1705,3070",
+        "isMembers": true,
+        "location": "Outer Fortis 1st floor",
+        "name": "Pot"
+      },
+      {
+        "coords": "1658,3044",
+        "isMembers": true,
+        "location": "Outer Fortis windmill 2nd floor",
+        "name": "Pot"
+      },
+      {
         "coords": "3228,6058",
         "isMembers": false,
         "location": "Prifddinas - south-west in Guinevere's Dyes",
@@ -5006,6 +6434,18 @@
         "name": "Pot"
       },
       {
+        "coords": "1391,2859",
+        "isMembers": true,
+        "location": "Stick Your Ore Inn (1st floor)",
+        "name": "Pot"
+      },
+      {
+        "coords": "1243,3111",
+        "isMembers": true,
+        "location": "Tal Teklan (1st floor)",
+        "name": "Pot"
+      },
+      {
         "coords": "3232,3399",
         "isMembers": false,
         "location": "Varrock - the Blue Moon Inn",
@@ -5014,12 +6454,41 @@
     ]
   },
   {
+    "group": "Pot of flour",
+    "spawns": [
+      {
+        "coords": "1432,2960",
+        "isMembers": true,
+        "location": "Aldarin",
+        "name": "Pot of flour"
+      }
+    ]
+  },
+  {
     "group": "Potato",
     "spawns": [
+      {
+        "coords": "1440,3354",
+        "isMembers": true,
+        "location": "Auburnvale - eastern building with the belladonna patch (1st floor)",
+        "name": "Potato"
+      },
+      {
+        "coords": "1659,3121",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Potato"
+      },
       {
         "coords": "3623,3395",
         "isMembers": true,
         "location": "Darkmeyer - middle tier",
+        "name": "Potato"
+      },
+      {
+        "coords": "1645,3284",
+        "isMembers": true,
+        "location": "Salvager Overlook - East Tower (ground floor)",
         "name": "Potato"
       }
     ]
@@ -5119,7 +6588,7 @@
       {
         "coords": "2564,9662",
         "isMembers": true,
-        "location": "East Ardougne - Clock Tower basement",
+        "location": "East Ardougne - Clock Tower dungeon",
         "name": "Rat poison"
       }
     ]
@@ -5200,12 +6669,6 @@
   {
     "group": "Red dye",
     "spawns": [
-      {
-        "coords": "1240,3688",
-        "isMembers": true,
-        "location": "Farm south of Farming Guild (search shelves)",
-        "name": "Red dye"
-      },
       {
         "coords": "3769,9731",
         "isMembers": true,
@@ -5289,13 +6752,25 @@
         "coords": "2443,9653",
         "isMembers": true,
         "location": "Underground Pass - first level fail area",
-        "name": "Rock"
+        "name": "Rock (elemental)"
       }
     ]
   },
   {
     "group": "Rope",
     "spawns": [
+      {
+        "coords": "1442,2959",
+        "isMembers": true,
+        "location": "Aldarin",
+        "name": "Rope"
+      },
+      {
+        "coords": "1493,3859",
+        "isMembers": true,
+        "location": "Blast mine - in the south building",
+        "name": "Rope"
+      },
       {
         "coords": "2700,10163",
         "isMembers": true,
@@ -5309,6 +6784,18 @@
         "name": "Rope"
       },
       {
+        "coords": "1765,3103",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Rope"
+      },
+      {
+        "coords": "1769,3100",
+        "isMembers": true,
+        "location": "Civitas illa Fortis (1st floor)",
+        "name": "Rope"
+      },
+      {
         "coords": "2023,8985",
         "isMembers": false,
         "location": "Corsair Cove Dungeon",
@@ -5318,6 +6805,12 @@
         "coords": "2137,2993",
         "isMembers": true,
         "location": "Crumbling Tower on the Isle of Souls",
+        "name": "Rope"
+      },
+      {
+        "coords": "1326,3318",
+        "isMembers": true,
+        "location": "Custodia Pass",
         "name": "Rope"
       },
       {
@@ -5345,9 +6838,27 @@
         "name": "Rope"
       },
       {
+        "coords": "1383,2862",
+        "isMembers": true,
+        "location": "Mistrock",
+        "name": "Rope"
+      },
+      {
         "coords": "2904,3152",
         "isMembers": false,
         "location": "Musa Point - Karamja General Store",
+        "name": "Rope"
+      },
+      {
+        "coords": "1582,3124",
+        "isMembers": true,
+        "location": "Ortus Farm",
+        "name": "Rope"
+      },
+      {
+        "coords": "1771,3039",
+        "isMembers": true,
+        "location": "Outer Fortis",
         "name": "Rope"
       },
       {
@@ -5357,9 +6868,27 @@
         "name": "Rope"
       },
       {
+        "coords": "3395,2799",
+        "isMembers": true,
+        "location": "Ruins of Ullek",
+        "name": "Rope"
+      },
+      {
         "coords": "3169,2836",
         "isMembers": true,
         "location": "Ruins of Unkah",
+        "name": "Rope"
+      },
+      {
+        "coords": "1574,3312",
+        "isMembers": true,
+        "location": "Shipwreck Cove",
+        "name": "Rope"
+      },
+      {
+        "coords": "1518,2996",
+        "isMembers": true,
+        "location": "Sunset Coast (1st floor)",
         "name": "Rope"
       },
       {
@@ -5426,6 +6955,17 @@
     ]
   },
   {
+    "group": "Rotten tomato",
+    "spawns": [
+      {
+        "coords": "1623,2933",
+        "isMembers": true,
+        "location": "Colossal Wyrm Agility Course",
+        "name": "Rotten tomato"
+      }
+    ]
+  },
+  {
     "group": "Rubber tube",
     "spawns": [
       {
@@ -5442,7 +6982,7 @@
       {
         "coords": "3196,9822",
         "isMembers": false,
-        "location": "Varrock - west bank basement",
+        "location": "Varrock - west bank basement{{Refn|name=cracktheclue|This spawn requires completing the steps to obtain the Robes of Ruin from Crack the Clue III to obtain.}}",
         "name": "Ruby ring"
       }
     ]
@@ -5486,6 +7026,12 @@
         "name": "Saw"
       },
       {
+        "coords": "1212,3093",
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "name": "Saw"
+      },
+      {
         "coords": "3241,3470",
         "isMembers": true,
         "location": "Varrock estate agent",
@@ -5496,6 +7042,12 @@
   {
     "group": "Seaweed",
     "spawns": [
+      {
+        "coords": "1628,3313",
+        "isMembers": true,
+        "location": "Around Salvager Overlook{{Refn|name=telegrab|These spawns require telekinetic grab to obtain. One is not reachable.}}",
+        "name": "Seaweed"
+      },
       {
         "coords": "2803,3382",
         "isMembers": true,
@@ -5509,6 +7061,12 @@
         "name": "Seaweed"
       },
       {
+        "coords": "2254,2785",
+        "isMembers": true,
+        "location": "Isle of Souls",
+        "name": "Seaweed"
+      },
+      {
         "coords": "2753,3119",
         "isMembers": true,
         "location": "Karamja - all around the east and west coast",
@@ -5517,7 +7075,7 @@
       {
         "coords": "1686,3459",
         "isMembers": true,
-        "location": "Kourend - all around the southeast coast",
+        "location": "Kourend - all around the south-east coast",
         "name": "Seaweed"
       },
       {
@@ -5525,6 +7083,47 @@
         "isMembers": true,
         "location": "Mos Le'Harmless - islands off the north-east coast",
         "name": "Seaweed"
+      },
+      {
+        "coords": "1308,2934",
+        "isMembers": true,
+        "location": "North of Darkmoon Ravine (1 telegrabbable, rest inaccessible)",
+        "name": "Seaweed"
+      },
+      {
+        "coords": "1557,3324",
+        "isMembers": true,
+        "location": "Shipwreck Cove (one requires telegrab)",
+        "name": "Seaweed"
+      },
+      {
+        "coords": "1315,2885",
+        "isMembers": true,
+        "location": "South of Darkmoon Ravine (inaccessible)",
+        "name": "Seaweed"
+      },
+      {
+        "coords": "1785,3026",
+        "isMembers": true,
+        "location": "Varlamore - east coast",
+        "name": "Seaweed"
+      },
+      {
+        "coords": "1570,2951",
+        "isMembers": true,
+        "location": "Varlamore - south coast",
+        "name": "Seaweed"
+      }
+    ]
+  },
+  {
+    "group": "Shale tablet",
+    "spawns": [
+      {
+        "coords": "2800,10265",
+        "isMembers": true,
+        "location": "Zemouregal's Fort - basement tunnels",
+        "name": "Shale tablet"
       }
     ]
   },
@@ -5617,6 +7216,12 @@
     "group": "Silk",
     "spawns": [
       {
+        "coords": "1662,3103",
+        "isMembers": true,
+        "location": "Civitas illa Fortis 1st floor",
+        "name": "Silk"
+      },
+      {
         "coords": "3602,3378",
         "isMembers": true,
         "location": "Darkmeyer Seamstress",
@@ -5637,6 +7242,12 @@
         "coords": "2485,2928",
         "isMembers": true,
         "location": "Feldip Hills - north of the Corsair Cove Resource Area",
+        "name": "Skull"
+      },
+      {
+        "coords": "1591,3760",
+        "isMembers": true,
+        "location": "Lovakengj - north-west of the Kourend Castle",
         "name": "Skull"
       },
       {
@@ -5662,6 +7273,17 @@
         "isMembers": false,
         "location": "Wilderness - north-east of Goblin Village",
         "name": "Skull"
+      }
+    ]
+  },
+  {
+    "group": "Slate tablet",
+    "spawns": [
+      {
+        "coords": "2785,10284",
+        "isMembers": true,
+        "location": "Zemouregal's Fort - basement tunnels",
+        "name": "Slate tablet"
       }
     ]
   },
@@ -5733,6 +7355,18 @@
         "name": "Small fishing net"
       },
       {
+        "coords": "1572,3319",
+        "isMembers": true,
+        "location": "Shipwreck Cove",
+        "name": "Small fishing net"
+      },
+      {
+        "coords": "1523,2976",
+        "isMembers": true,
+        "location": "Sunset Coast",
+        "name": "Small fishing net"
+      },
+      {
         "coords": "3000,3699",
         "isMembers": false,
         "location": "Wilderness - western Ruins",
@@ -5772,6 +7406,12 @@
     "group": "Snape grass",
     "spawns": [
       {
+        "coords": "1736,3168",
+        "isMembers": true,
+        "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "name": "Snape grass"
+      },
+      {
         "coords": "2906,3297",
         "isMembers": true,
         "location": "Hobgoblin Peninsula west of the Crafting Guild",
@@ -5792,8 +7432,25 @@
     ]
   },
   {
+    "group": "Soft clay",
+    "spawns": [
+      {
+        "coords": "1765,3095",
+        "isMembers": true,
+        "location": "Civitas illa Fortis 1st floor",
+        "name": "Soft clay"
+      }
+    ]
+  },
+  {
     "group": "Spade",
     "spawns": [
+      {
+        "coords": "1405,2938",
+        "isMembers": true,
+        "location": "Aldarin",
+        "name": "Spade"
+      },
       {
         "coords": "3572,3312",
         "isMembers": true,
@@ -5843,6 +7500,18 @@
         "name": "Spade"
       },
       {
+        "coords": "3355,2758",
+        "isMembers": true,
+        "location": "Necropolis",
+        "name": "Spade"
+      },
+      {
+        "coords": "1641,3052",
+        "isMembers": true,
+        "location": "Outer Fortis",
+        "name": "Spade"
+      },
+      {
         "coords": "3219,6058",
         "isMembers": true,
         "location": "Prifddinas - west in Alwyn's house (estate agent)",
@@ -5857,7 +7526,7 @@
       {
         "coords": "3426,9958",
         "isMembers": true,
-        "location": "Slayer Tower basement",
+        "location": "Slayer Tower basement (requires Telekinetic Grab)",
         "name": "Spade"
       },
       {
@@ -5875,6 +7544,12 @@
         "coords": "3371,3144",
         "isMembers": false,
         "location": "Giants' Plateau",
+        "name": "Staff"
+      },
+      {
+        "coords": "1399,3159",
+        "isMembers": true,
+        "location": "West of Ralos' Rise",
         "name": "Staff"
       }
     ]
@@ -5898,6 +7573,34 @@
         "isMembers": false,
         "location": "Wilderness - Lava Maze",
         "name": "Staff of earth"
+      }
+    ]
+  },
+  {
+    "group": "Steamforge brew",
+    "spawns": [
+      {
+        "coords": "1389, 2857",
+        "isMembers": true,
+        "location": "Aldarin - on the bar of Stick Your Ore Inn in Mistrock",
+        "name": "Steamforge brew"
+      },
+      {
+        "coords": "1467,9553",
+        "isMembers": true,
+        "location": "Cam Torum - upstairs in house east of Sonalo",
+        "name": "Steamforge brew"
+      }
+    ]
+  },
+  {
+    "group": "Steel arrow",
+    "spawns": [
+      {
+        "coords": "1633,2906",
+        "isMembers": true,
+        "location": "Colossal Wyrm Agility Course advanced route",
+        "name": "Steel arrow"
       }
     ]
   },
@@ -5941,6 +7644,17 @@
     ]
   },
   {
+    "group": "Steel knife",
+    "spawns": [
+      {
+        "coords": "2805,3703",
+        "isMembers": true,
+        "location": "Mountain Camp - in the cave",
+        "name": "Steel knife"
+      }
+    ]
+  },
+  {
     "group": "Steel longsword",
     "spawns": [
       {
@@ -5975,7 +7689,7 @@
       {
         "coords": "3428,9960",
         "isMembers": true,
-        "location": "Slayer Tower basement (inaccesible)",
+        "location": "Slayer Tower basement (inaccessible)",
         "name": "Steel pickaxe"
       }
     ]
@@ -5987,7 +7701,7 @@
         "coords": "3085,3859",
         "isMembers": false,
         "location": "Wilderness - Lava Maze",
-        "name": "Steel Platebody"
+        "name": "Steel platebody"
       }
     ]
   },
@@ -6003,8 +7717,36 @@
     ]
   },
   {
+    "group": "Steel scimitar",
+    "spawns": [
+      {
+        "coords": "3258,6057",
+        "isMembers": true,
+        "location": "Prifddinas - on a table in Iorwerth's Arms",
+        "name": "Steel scimitar"
+      }
+    ]
+  },
+  {
+    "group": "Steel spear",
+    "spawns": [
+      {
+        "coords": "1349,9565",
+        "isMembers": true,
+        "location": "Neypotzli",
+        "name": "Steel spear"
+      }
+    ]
+  },
+  {
     "group": "Steel sword",
     "spawns": [
+      {
+        "coords": "1741,3189",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Steel sword"
+      },
       {
         "coords": "3283,3658",
         "isMembers": false,
@@ -6036,6 +7778,17 @@
     ]
   },
   {
+    "group": "Stone tablet (The Curse of Arrav)",
+    "spawns": [
+      {
+        "coords": "2764,10278",
+        "isMembers": true,
+        "location": "Zemouregal's Fort - basement tunnels",
+        "name": "Stone tablet"
+      }
+    ]
+  },
+  {
     "group": "Strange implement",
     "spawns": [
       {
@@ -6054,6 +7807,40 @@
         "isMembers": true,
         "location": "Shayziens' Wall - southern outpost",
         "name": "Strawberry"
+      }
+    ]
+  },
+  {
+    "group": "Sun-shine",
+    "spawns": [
+      {
+        "coords": "1646,3283",
+        "isMembers": true,
+        "location": "Salvager Overlook - East Tower (2nd floor)",
+        "name": "Candle"
+      }
+    ]
+  },
+  {
+    "group": "Sunbeam ale",
+    "spawns": [
+      {
+        "coords": "1378,2934",
+        "isMembers": true,
+        "location": "Aldarin - Sunlight's Sanctum",
+        "name": "Sunbeam ale"
+      },
+      {
+        "coords": "1376,2960",
+        "isMembers": true,
+        "location": "Aldarin -2nd floor",
+        "name": "Sunbeam ale"
+      },
+      {
+        "coords": "1716,3117",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - The Flaming Arrow",
+        "name": "Sunbeam ale"
       }
     ]
   },
@@ -6105,6 +7892,28 @@
         "isMembers": true,
         "location": "Tree Gnome Stronghold - swamp enclosure",
         "name": "Swamp toad"
+      }
+    ]
+  },
+  {
+    "group": "Sweetcorn",
+    "spawns": [
+      {
+        "coords": "1476,9552",
+        "isMembers": true,
+        "location": "Cam Torum",
+        "name": "Sweetcorn"
+      }
+    ]
+  },
+  {
+    "group": "Sweetcorn (bowl)",
+    "spawns": [
+      {
+        "coords": "1574,3139",
+        "isMembers": true,
+        "location": "Ortus Farm",
+        "name": "Sweetcorn"
       }
     ]
   },
@@ -6167,6 +7976,12 @@
     "group": "Thread",
     "spawns": [
       {
+        "coords": "1656,3096",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "name": "Thread"
+      },
+      {
         "coords": "3599,3379",
         "isMembers": true,
         "location": "Darkmeyer Seamstress",
@@ -6182,6 +7997,12 @@
         "coords": "3229,6069",
         "isMembers": true,
         "location": "Prifddinas - west inside Lliann's Wares",
+        "name": "Thread"
+      },
+      {
+        "coords": "1499,3251",
+        "isMembers": true,
+        "location": "Quetzacalli Gorge",
         "name": "Thread"
       },
       {
@@ -6247,6 +8068,12 @@
     "group": "Tinderbox",
     "spawns": [
       {
+        "coords": "1425,9557",
+        "isMembers": true,
+        "location": "Cam Torum General Store - (1st floor)",
+        "name": "Tinderbox"
+      },
+      {
         "coords": "2431,3072",
         "isMembers": false,
         "location": "Castle Wars - Saradominist's base",
@@ -6271,6 +8098,18 @@
         "name": "Tinderbox"
       },
       {
+        "coords": "1737,3169",
+        "isMembers": true,
+        "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "name": "Tinderbox"
+      },
+      {
+        "coords": "1327,3319",
+        "isMembers": true,
+        "location": "Custodia Pass",
+        "name": "Tinderbox"
+      },
+      {
         "coords": "3644,3359",
         "isMembers": true,
         "location": "Darkmeyer - lower tier",
@@ -6280,6 +8119,12 @@
         "coords": "3112,3369",
         "isMembers": false,
         "location": "Draynor Manor (2nd floor)",
+        "name": "Tinderbox"
+      },
+      {
+        "coords": "1715,3268",
+        "isMembers": true,
+        "location": "East of Twilight Temple",
         "name": "Tinderbox"
       },
       {
@@ -6295,9 +8140,21 @@
         "name": "Tinderbox"
       },
       {
+        "coords": "1359,3036",
+        "isMembers": true,
+        "location": "Kastori",
+        "name": "Tinderbox"
+      },
+      {
         "coords": "1241,3703",
         "isMembers": true,
         "location": "Kebos Lowlands - Mary and Gordon's farm",
+        "name": "Tinderbox"
+      },
+      {
+        "coords": "1625,3287",
+        "isMembers": true,
+        "location": "Salvager Overlook - General Store",
         "name": "Tinderbox"
       },
       {
@@ -6310,6 +8167,12 @@
         "coords": "3405,9937",
         "isMembers": true,
         "location": "Slayer Tower basement",
+        "name": "Tinderbox"
+      },
+      {
+        "coords": "1520,2982",
+        "isMembers": true,
+        "location": "Sunset Coast (1st floor)",
         "name": "Tinderbox"
       },
       {
@@ -6355,6 +8218,28 @@
     ]
   },
   {
+    "group": "Torch",
+    "spawns": [
+      {
+        "coords": "1508,2984",
+        "isMembers": true,
+        "location": "Sunset Coast (1st floor)",
+        "name": "Unlit torch"
+      }
+    ]
+  },
+  {
+    "group": "Trapper's tipple",
+    "spawns": [
+      {
+        "coords": "1561,9452",
+        "isMembers": true,
+        "location": "Hunter Guild - The Burrow pub",
+        "name": "Trapper's tipple"
+      }
+    ]
+  },
+  {
     "group": "Triangle sandwich",
     "spawns": [
       {
@@ -6385,6 +8270,12 @@
   {
     "group": "Vial",
     "spawns": [
+      {
+        "coords": "1393,2917",
+        "isMembers": true,
+        "location": "Aldarin - Alchemical Society",
+        "name": "Vial"
+      },
       {
         "coords": "2808,3343",
         "isMembers": true,
@@ -6430,6 +8321,17 @@
     ]
   },
   {
+    "group": "Vial of water",
+    "spawns": [
+      {
+        "coords": "1668,3068",
+        "isMembers": true,
+        "location": "Outer Fortis",
+        "name": "Vial of water"
+      }
+    ]
+  },
+  {
     "group": "Washing bowl",
     "spawns": [
       {
@@ -6466,6 +8368,12 @@
   {
     "group": "Waterskin",
     "spawns": [
+      {
+        "coords": "3302,2739",
+        "isMembers": true,
+        "location": "Necropolis",
+        "name": "Waterskin(4)"
+      },
       {
         "coords": "3172,2857",
         "isMembers": true,
@@ -6540,6 +8448,12 @@
         "name": "Wine of zamorak"
       },
       {
+        "coords": "2938,3517",
+        "isMembers": false,
+        "location": "Asgarnia - Chaos Temple (1st floor)",
+        "name": "Wine of zamorak"
+      },
+      {
         "coords": "2950,3824",
         "isMembers": false,
         "location": "Wilderness - Chaos Temple",
@@ -6596,6 +8510,12 @@
     "group": "Wooden shield",
     "spawns": [
       {
+        "coords": "1619,2957",
+        "isMembers": true,
+        "location": "Avium Savannah",
+        "name": "Wooden shield"
+      },
+      {
         "coords": "3361,3154",
         "isMembers": false,
         "location": "Giants' Plateau",
@@ -6606,17 +8526,12 @@
         "isMembers": false,
         "location": "North of Varrock Palace",
         "name": "Wooden shield"
-      }
-    ]
-  },
-  {
-    "group": "Yellow dye",
-    "spawns": [
+      },
       {
-        "coords": "1240,3688",
+        "coords": "1313,3473",
         "isMembers": true,
-        "location": "Farm south of Farming Guild (search shelves)",
-        "name": "Yellow dye"
+        "location": "South of Mount Quidamortem",
+        "name": "Wooden shield"
       }
     ]
   }
