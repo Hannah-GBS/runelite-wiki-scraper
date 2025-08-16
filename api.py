@@ -27,23 +27,41 @@ def get_wiki_api(args: dict[str, str], continue_key: str) -> Iterator[any]:
             return
 
 
-def get_wiki_ask_api(args: dict[str, str]) -> Iterator[any]:
-    args["format"] = "json"
-    args["query"] += "|limit=500|offset=0"
+# def get_wiki_ask_api(args: dict[str, str]) -> Iterator[any]:
+#     args["format"] = "json"
+#     args["query"] += "|limit=500|offset=0"
+#     offset = 0
+#
+#     while True:
+#         if offset > 5000:
+#             print("Offset beyond 5000. Aborting ask call")
+#             return
+#         args["query"] = args["query"][0:(args["query"].index("|offset=") + 8)] + str(offset)
+#         url = "https://oldschool.runescape.wiki/api.php?" + urllib.parse.urlencode(args)
+#         print("Grabbing " + url)
+#         with urllib.request.urlopen(urllib.request.Request(url, headers=user_agent)) as raw:
+#             js = json.load(raw)
+#
+#         yield js
+#         if len(js["query"]["results"]) < 500:
+#             return
+#         else:
+#             offset += 500
+
+
+def get_wiki_bucket_api(query: str, order_by: str) -> Iterator[any]:
+    args = {"action": "bucket", "format": "json", "query": query}
     offset = 0
 
     while True:
-        # if offset > 5000:
-        #     print("Offset beyond 5000. Aborting ask call")
-        #     return
-        args["query"] = args["query"][0:(args["query"].index("|offset=") + 8)] + str(offset)
+        args["query"] = f'{query}.limit(500).offset({offset}).orderBy("{order_by}", "asc").run()'
         url = "https://oldschool.runescape.wiki/api.php?" + urllib.parse.urlencode(args)
         print("Grabbing " + url)
         with urllib.request.urlopen(urllib.request.Request(url, headers=user_agent)) as raw:
             js = json.load(raw)
 
         yield js
-        if len(js["query"]["results"]) < 500:
+        if len(js["bucket"]) < 500:
             return
         else:
             offset += 500
@@ -94,7 +112,7 @@ def query_category(category_name: str) -> dict[str, dict[str, str]]:
     return pages
 
 
-def ask_category_production(category_name: str) -> List[dict]:
+def bucket_category_production(category_name: str) -> List[dict]:
     """
     query_category_production returns a list of all Production JSON
     properties in a given category
@@ -105,15 +123,13 @@ def ask_category_production(category_name: str) -> List[dict]:
             return json.load(fi)
 
     items = []
-    for res in get_wiki_ask_api(
-            {
-                "action": "ask",
-                "query": "[[Category:" + category_name + "]][[Production JSON::+]]|?Production JSON",
-            }):
+    for res in get_wiki_bucket_api(
+            f'bucket("recipe").select("production_json","page_name").where({{"Category:{category_name}"}},{{"source_template",'
+            f'"recipe"}})',
+            "page_name"):
 
-        for item in res["query"]["results"]:
-            for recipe in res["query"]["results"][item]["printouts"]["Production JSON"]:
-                items.append(json.loads(str(recipe)))
+        for item in res["bucket"]:
+            items.append(json.loads(str(item["production_json"])))
 
     with open(cache_file_name, "w+") as fi:
         json.dump(items, fi)
@@ -121,7 +137,7 @@ def ask_category_production(category_name: str) -> List[dict]:
     return items
 
 
-def ask_category_drop_sources(category_name: str) -> Dict[str, object]:
+def bucket_category_drop_sources(category_name: str) -> Dict[str, object]:
     """
     ask_category_shop_items returns a list of all Production JSON
     properties in a given category
@@ -148,7 +164,6 @@ def ask_category_drop_sources(category_name: str) -> Dict[str, object]:
                 else:
                     continue
 
-
         except (KeyboardInterrupt, SystemExit):
             raise
         except:
@@ -156,25 +171,20 @@ def ask_category_drop_sources(category_name: str) -> Dict[str, object]:
             traceback.print_exc()
 
     for i in range(0, len(items), 15):
-        items_string = "||".join(items[i:i + 15])
-        query = "[[Dropped item::" + items_string + "]]|?Drop JSON|?Dropped item"
+        items_string = '"},{"item_name","'.join(items[i:i + 15])
+        items_conditions = f'{{"item_name", "{items_string}"}}'
+        query = (f'bucket("dropsline").select("drop_json","item_name").where(bucket.Or({items_conditions}),{{'
+                 f'"rare_drop_table", false}})')
 
-        for res in get_wiki_ask_api(
-                {
-                    "action": "ask",
-                    "query": query
-                }):
-
-            for item in res["query"]["results"]:
-                for drop in res["query"]["results"][item]["printouts"]["Drop JSON"]:
-                    drop_json = json.loads(str(drop))
-                    if drop_json["Dropped item"] in drop_items:
-                        drop_items[drop_json["Dropped item"]]["results"].append(drop_json)
-                    else:
-                        drop_items[drop_json["Dropped item"]] = {"results": [drop_json]}
+        for res in get_wiki_bucket_api(query, "item_name"):
+            for item in res["bucket"]:
+                drop_json = json.loads(str(item["drop_json"]))
+                if drop_json["Dropped item"] in drop_items:
+                    drop_items[drop_json["Dropped item"]]["results"].append(drop_json)
+                else:
+                    drop_items[drop_json["Dropped item"]] = {"results": [drop_json]}
 
     with open(cache_file_name, "w+") as fi:
         json.dump(drop_items, fi)
 
     return drop_items
-
