@@ -114,7 +114,7 @@ def query_category(category_name: str) -> dict[str, dict[str, str]]:
 
 def bucket_category_production(category_name: str) -> List[dict]:
     """
-    query_category_production returns a list of all Production JSON
+    bucket_category_production returns a list of all Production JSON
     properties in a given category
     """
     cache_file_name = category_name + "-production" + ".cache.json"
@@ -139,7 +139,7 @@ def bucket_category_production(category_name: str) -> List[dict]:
 
 def bucket_category_drop_sources(category_name: str) -> Dict[str, object]:
     """
-    ask_category_shop_items returns a list of all Production JSON
+    bucket_category_drop_sources returns a list of all Dropsline
     properties in a given category
     """
     cache_file_name = category_name + "-drop-sources" + ".cache.json"
