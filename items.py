@@ -59,6 +59,10 @@ def get_shop_items():
             code = mw.parse(page, skip_style_tags=True)
             store_infobox = code.filter_templates(matches=lambda t: t.name.matches("Infobox Shop"))
 
+            gone = code.filter_templates(matches=lambda t: t.name.matches("Gone"))
+            if len(gone) > 0:
+                continue
+
             if len(store_infobox) < 1:
                 store_infobox = code.filter_templates(matches=lambda t: t.name.matches("Infobox NPC"))
                 code.filter_templates()
@@ -79,31 +83,33 @@ def get_shop_items():
                 x_coords = []
                 y_coords = []
 
-                map_params: Dict[str, str] = {}
-                for param in map_templates[0].params:
-                    map_params[param.name.strip()] = param.value.strip()
+                if len(map_templates) > 0:
+                    map_params: Dict[str, str] = {}
+                    for param in map_templates[0].params:
+                        map_params[param.name.strip()] = param.value.strip()
 
-                for param in map_params:
-                    if param.isdigit():
-                        param_coords = map_params[param].strip().split(",")
-                        x_coords.append(int(param_coords[0]))
-                        y_coords.append(int(param_coords[1]))
+                    for param in map_params:
+                        if param.isdigit():
+                            param_coords = map_params[param].strip().split(",")
+                            if len(param_coords) == 2:
+                                x_coords.append(int(param_coords[0].replace("x:", "")))
+                                y_coords.append(int(param_coords[1].replace("y:", "")))
 
-                if len(x_coords) < 1 or len(y_coords) < 1:
-                    if "x" in map_params and "y" in map_params:
-                        x_coords.append(int(map_params["x"]))
-                        y_coords.append(int(map_params["y"]))
-                        coords = f"{map_params['x']},{map_params['y']}"
-                else:
-                    x_avg = int(sum(x_coords) / len(x_coords))
-                    y_avg = int(sum(y_coords) / len(y_coords))
-                    coords = f"{x_avg},{y_avg}"
+                    if len(x_coords) < 1 or len(y_coords) < 1:
+                        if "x" in map_params and "y" in map_params:
+                            x_coords.append(int(map_params["x"]))
+                            y_coords.append(int(map_params["y"]))
+                            coords = f"{map_params['x']},{map_params['y']}"
+                    else:
+                        x_avg = int(sum(x_coords) / len(x_coords))
+                        y_avg = int(sum(y_coords) / len(y_coords))
+                        coords = f"{x_avg},{y_avg}"
 
-                if "plane" in map_params:
-                    plane = str(map_params["plane"])
+                    if "plane" in map_params:
+                        plane = str(map_params["plane"])
 
-                if "mapID" in map_params:
-                    map_id = str(map_params["mapID"])
+                    if "mapID" in map_params:
+                        map_id = str(map_params["mapID"])
 
             raw_page_stores: List[Template] = code.filter_templates(
                 matches=lambda t: t.name.matches("StoreTableHead") or t.name.matches("StoreLine"))
