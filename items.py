@@ -17,7 +17,7 @@ output_dir = "output/"
 
 def get_production():
     print("Scraping recipes")
-    item_production = api.ask_category_production("Items")
+    item_production = api.bucket_category_production("Items")
     name = "items-production.json"
     min_name = "items-production.min.json"
 
@@ -138,7 +138,7 @@ def get_shop_items():
 
                     store_line_data: Dict[str, str] = {}
                     for param in store_line.params:
-                        store_line_data[param.name.strip()] = param.value.strip()
+                        store_line_data[param.name.strip().lower()] = param.value.strip()
                     if "smw" in store_line_data:
                         if store_line_data["smw"].lower() == "no":
                             continue
@@ -293,12 +293,14 @@ def get_item_info():
                 for param, value in version.items():
                     base[param.strip()] = value.strip()
 
-                if "hist" in base["id"] or "beta" in base["id"] or "interface" in base["id"] or (
-                        "name" in base and base["name"].lower() == "null") or base["id"] == ""\
-                        or base["name"] == "{{Null name}}":
+                raw_id = base["id"].split(",")[0]
+
+                if (not raw_id.isdigit() or "(interface item)" in name or
+                        ("name" in base and (base["name"].lower() == "null" or base['name'].lower() == "{{null name}}"))
+                        or raw_id == ""):
                     continue
 
-                item_id = int(base["id"].split(",")[0])
+                item_id = int(raw_id)
 
                 obj = {
                     "name": base["name"] if "name" in base else name,
@@ -333,7 +335,7 @@ def get_item_drops():
     print("Scraping drops")
     file_name = "items-drop-sources.json"
     min_name = "items-drop-sources.min.json"
-    temp_item_drops = api.ask_category_drop_sources("Items")
+    temp_item_drops = api.bucket_category_drop_sources("Items")
 
     item_drops = []
     for name, results in temp_item_drops.items():
@@ -361,9 +363,11 @@ def get_item_drops():
             print("Item {} failed:".format(name))
             traceback.print_exc()
 
+        sorted_drop_sources = sorted(drop_sources, key=itemgetter("source"))
+
         drop_object = {
             "name": name,
-            "dropSources": drop_sources
+            "dropSources": sorted_drop_sources
         }
 
         item_drops.append(drop_object)
