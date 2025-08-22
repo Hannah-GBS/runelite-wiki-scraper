@@ -32970,16 +32970,6 @@
     "version": null
   },
   {
-    "examineText": "Contains far more water than should fit in such a small can.",
-    "group": "Gricoller's can (refill)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 5551,
-    "name": "Gricoller's can (refill)",
-    "url": "https://oldschool.runescape.wiki/w/Gricoller%27s_can_(refill)",
-    "version": null
-  },
-  {
     "examineText": "Black banded leather armour, a rogue's dream!",
     "group": "Rogue top",
     "isMembers": true,
@@ -93011,12 +93001,12 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (medium) - 23.01N 41.33E",
+    "group": "Clue scroll (medium) - 23.05N 41.22E",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 23137,
     "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_23.01N_41.33E",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_23.05N_41.22E",
     "version": null
   },
   {
@@ -93501,16 +93491,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - Panic at Al Kharid mine",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Panic_at_Al_Kharid_mine",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - Always walking around the castle grounds",
     "isMembers": false,
     "isTradeable": false,
@@ -93531,32 +93511,12 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - In the place Duke Horacio calls home",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_the_place_Duke_Horacio_calls_home",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - In a village of barbarians",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_a_village_of_barbarians",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - Near the open desert I reside",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Near_the_open_desert_I_reside",
     "version": null
   },
   {
@@ -93591,12 +93551,42 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (beginner) - Panic at Al Kharid mine",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Panic_at_Al_Kharid_mine",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (beginner) - Spin at Flynn's Mace Shop",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - In the place Duke Horacio calls home",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_the_place_Duke_Horacio_calls_home",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Near the open desert I reside",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Near_the_open_desert_I_reside",
     "version": null
   },
   {
@@ -130021,12 +130011,12 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (hard) - 5.03N 34.58W",
+    "group": "Clue scroll (hard) - 05.03N 34.58W",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 30931,
     "name": "Clue scroll (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_5.03N_34.58W",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_05.03N_34.58W",
     "version": null
   },
   {
@@ -130937,6 +130927,146 @@
     "itemID": 31130,
     "name": "Dom",
     "url": "https://oldschool.runescape.wiki/w/Dom",
+    "version": null
+  },
+  {
+    "examineText": "Perhaps not the most powerful weapon in Gielinor.",
+    "group": "Dinh's blazing bulwark (rotten)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31132,
+    "name": "Dinh's blazing bulwark",
+    "url": "https://oldschool.runescape.wiki/w/Dinh%27s_blazing_bulwark_(rotten)",
+    "version": null
+  },
+  {
+    "examineText": "Perhaps not the most powerful weapon in Gielinor.",
+    "group": "Venator bow (rotten)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31133,
+    "name": "Venator bow",
+    "url": "https://oldschool.runescape.wiki/w/Venator_bow_(rotten)",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Blood moon helm, Blood moon chestplate, Blood moon tassets and Dual macuahuitl.",
+    "group": "Blood moon armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31136,
+    "name": "Blood moon armour set",
+    "url": "https://oldschool.runescape.wiki/w/Blood_moon_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Blue moon helm, Blue moon chestplate, Blue moon tassets and Blue moon spear.",
+    "group": "Blue moon armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31139,
+    "name": "Blue moon armour set",
+    "url": "https://oldschool.runescape.wiki/w/Blue_moon_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Eclipse moon helm, Eclipse moon chestplate, Eclipse moon tassets and Eclipse atlatl.",
+    "group": "Eclipse moon armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31142,
+    "name": "Eclipse moon armour set",
+    "url": "https://oldschool.runescape.wiki/w/Eclipse_moon_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Torva full helm, Torva platebody and Torva platelegs.",
+    "group": "Torva armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31145,
+    "name": "Torva armour set",
+    "url": "https://oldschool.runescape.wiki/w/Torva_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Virtus mask, Virtus robe top and Virtus robe bottom.",
+    "group": "Virtus armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31148,
+    "name": "Virtus armour set",
+    "url": "https://oldschool.runescape.wiki/w/Virtus_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Rock-shell helm, Rock-shell plate, Rock-shell legs, Rock-shell boots and Rock-shell gloves.",
+    "group": "Rock-shell armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31151,
+    "name": "Rock-shell armour set",
+    "url": "https://oldschool.runescape.wiki/w/Rock-shell_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Skeletal helm, Skeletal top, Skeletal bottoms, Skeletal boots and Skeletal gloves.",
+    "group": "Skeletal armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31154,
+    "name": "Skeletal armour set",
+    "url": "https://oldschool.runescape.wiki/w/Skeletal_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Spined helm, Spined body, Spined chaps, Spined boots and Spined gloves.",
+    "group": "Spined armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31157,
+    "name": "Spined armour set",
+    "url": "https://oldschool.runescape.wiki/w/Spined_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Swampbark helm, Swampbark body, Swampbark legs, Swampbark boots and Swampbark gloves.",
+    "group": "Swampbark armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31160,
+    "name": "Swampbark armour set",
+    "url": "https://oldschool.runescape.wiki/w/Swampbark_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Bloodbark helm, Bloodbark body, Bloodbark legs, Bloodbark boots and Bloodbark gloves.",
+    "group": "Bloodbark armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31163,
+    "name": "Bloodbark armour set",
+    "url": "https://oldschool.runescape.wiki/w/Bloodbark_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Mixed hide top, Mixed hide legs, Mixed hide boots and Mixed hide cape.",
+    "group": "Mixed hide armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31166,
+    "name": "Mixed hide armour set",
+    "url": "https://oldschool.runescape.wiki/w/Mixed_hide_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "A set containing a Hueycoatl hide coif, Hueycoatl hide body, Hueycoatl hide chaps and Hueycoatl hide vambraces.",
+    "group": "Hueycoatl hide armour set",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31169,
+    "name": "Hueycoatl hide armour set",
+    "url": "https://oldschool.runescape.wiki/w/Hueycoatl_hide_armour_set",
     "version": null
   },
   {
