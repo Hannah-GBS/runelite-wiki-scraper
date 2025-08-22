@@ -8988,24 +8988,6 @@
     "facilities": "Ancient Forge",
     "materials": [
       {
-        "name": "Bandos tassets",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bandosian components.png|class=inventory-image|link=Bandosian components]]",
-      "name": "Bandosian components",
-      "quantity": "2"
-    },
-    "skills": [],
-    "ticks": "4",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Ancient Forge",
-    "materials": [
-      {
         "name": "Bandos chestplate",
         "quantity": "1"
       }
@@ -9015,6 +8997,24 @@
       "image": "[[File:Bandosian components.png|class=inventory-image|link=Bandosian components]]",
       "name": "Bandosian components",
       "quantity": "3"
+    },
+    "skills": [],
+    "ticks": "4",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Ancient Forge",
+    "materials": [
+      {
+        "name": "Bandos tassets",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bandosian components.png|class=inventory-image|link=Bandosian components]]",
+      "name": "Bandosian components",
+      "quantity": "2"
     },
     "skills": [],
     "ticks": "4",
@@ -11793,7 +11793,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,837,800</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">115,065,675</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -11836,7 +11836,7 @@
   {
     "materials": [
       {
-        "name": "Blade of saeldor (c) (Trahaearn)",
+        "name": "Blade of saeldor (c) (Ithell)",
         "quantity": "1"
       },
       {
@@ -11849,7 +11849,7 @@
       "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
       "name": "Blade of saeldor (c)",
       "quantity": "1",
-      "subtxt": "Recolour (Trahaearn)"
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -11878,7 +11878,7 @@
   {
     "materials": [
       {
-        "name": "Blade of saeldor (c) (Ithell)",
+        "name": "Blade of saeldor (c) (Trahaearn)",
         "quantity": "1"
       },
       {
@@ -11891,28 +11891,7 @@
       "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
       "name": "Blade of saeldor (c)",
       "quantity": "1",
-      "subtxt": "Recolour (Ithell)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c) (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of hefin",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
-      "name": "Blade of saeldor (c)",
-      "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -11934,6 +11913,27 @@
       "name": "Blade of saeldor (c)",
       "quantity": "1",
       "subtxt": "Recolour (Cadarn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c).png|class=inventory-image|link=Blade of saeldor (c)]]",
+      "name": "Blade of saeldor (c)",
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -12034,7 +12034,7 @@
   {
     "materials": [
       {
-        "name": "Blade of saeldor (c)",
+        "name": "Blade of saeldor (c) (Trahaearn)",
         "quantity": "1"
       },
       {
@@ -12046,7 +12046,29 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Amlodd).png|class=inventory-image|link=Blade of saeldor (c) (Amlodd)]]",
       "name": "Blade of saeldor (c) (Amlodd)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Amlodd).png|class=inventory-image|link=Blade of saeldor (c) (Amlodd)]]",
+      "name": "Blade of saeldor (c) (Amlodd)",
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -12075,7 +12097,7 @@
   {
     "materials": [
       {
-        "name": "Blade of saeldor (c) (Trahaearn)",
+        "name": "Blade of saeldor (c) (Crwys)",
         "quantity": "1"
       },
       {
@@ -12088,7 +12110,7 @@
       "image": "[[File:Blade of saeldor (c) (Amlodd).png|class=inventory-image|link=Blade of saeldor (c) (Amlodd)]]",
       "name": "Blade of saeldor (c) (Amlodd)",
       "quantity": "1",
-      "subtxt": "Recolour (Trahaearn)"
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -12117,7 +12139,7 @@
   {
     "materials": [
       {
-        "name": "Blade of saeldor (c) (Meilyr)",
+        "name": "Blade of saeldor (c)",
         "quantity": "1"
       },
       {
@@ -12129,8 +12151,7 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Amlodd).png|class=inventory-image|link=Blade of saeldor (c) (Amlodd)]]",
       "name": "Blade of saeldor (c) (Amlodd)",
-      "quantity": "1",
-      "subtxt": "Recolour (Meilyr)"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": "0"
@@ -12159,48 +12180,6 @@
   {
     "materials": [
       {
-        "name": "Blade of saeldor (c) (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of amlodd",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c) (Amlodd).png|class=inventory-image|link=Blade of saeldor (c) (Amlodd)]]",
-      "name": "Blade of saeldor (c) (Amlodd)",
-      "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c) (Meilyr)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of cadarn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c) (Cadarn).png|class=inventory-image|link=Blade of saeldor (c) (Cadarn)]]",
-      "name": "Blade of saeldor (c) (Cadarn)",
-      "quantity": "1",
-      "subtxt": "Recolour (Meilyr)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
         "name": "Blade of saeldor (c)",
         "quantity": "1"
       },
@@ -12214,6 +12193,48 @@
       "image": "[[File:Blade of saeldor (c) (Cadarn).png|class=inventory-image|link=Blade of saeldor (c) (Cadarn)]]",
       "name": "Blade of saeldor (c) (Cadarn)",
       "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Cadarn).png|class=inventory-image|link=Blade of saeldor (c) (Cadarn)]]",
+      "name": "Blade of saeldor (c) (Cadarn)",
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Cadarn).png|class=inventory-image|link=Blade of saeldor (c) (Cadarn)]]",
+      "name": "Blade of saeldor (c) (Cadarn)",
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -12263,7 +12284,7 @@
   {
     "materials": [
       {
-        "name": "Blade of saeldor (c) (Crwys)",
+        "name": "Blade of saeldor (c) (Meilyr)",
         "quantity": "1"
       },
       {
@@ -12276,28 +12297,7 @@
       "image": "[[File:Blade of saeldor (c) (Cadarn).png|class=inventory-image|link=Blade of saeldor (c) (Cadarn)]]",
       "name": "Blade of saeldor (c) (Cadarn)",
       "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c) (Amlodd)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of cadarn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c) (Cadarn).png|class=inventory-image|link=Blade of saeldor (c) (Cadarn)]]",
-      "name": "Blade of saeldor (c) (Cadarn)",
-      "quantity": "1",
-      "subtxt": "Recolour (Amlodd)"
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -12326,7 +12326,7 @@
   {
     "materials": [
       {
-        "name": "Blade of saeldor (c)",
+        "name": "Blade of saeldor (c) (Trahaearn)",
         "quantity": "1"
       },
       {
@@ -12338,7 +12338,29 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Crwys).png|class=inventory-image|link=Blade of saeldor (c) (Crwys)]]",
       "name": "Blade of saeldor (c) (Crwys)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Crwys).png|class=inventory-image|link=Blade of saeldor (c) (Crwys)]]",
+      "name": "Blade of saeldor (c) (Crwys)",
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -12430,7 +12452,7 @@
   {
     "materials": [
       {
-        "name": "Blade of saeldor (c) (Meilyr)",
+        "name": "Blade of saeldor (c)",
         "quantity": "1"
       },
       {
@@ -12442,155 +12464,7 @@
     "output": {
       "image": "[[File:Blade of saeldor (c) (Crwys).png|class=inventory-image|link=Blade of saeldor (c) (Crwys)]]",
       "name": "Blade of saeldor (c) (Crwys)",
-      "quantity": "1",
-      "subtxt": "Recolour (Meilyr)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c) (Trahaearn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of crwys",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c) (Crwys).png|class=inventory-image|link=Blade of saeldor (c) (Crwys)]]",
-      "name": "Blade of saeldor (c) (Crwys)",
-      "quantity": "1",
-      "subtxt": "Recolour (Trahaearn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c) (Trahaearn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of iorwerth",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
-      "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1",
-      "subtxt": "Recolour (Trahaearn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c) (Meilyr)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of iorwerth",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
-      "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1",
-      "subtxt": "Recolour (Meilyr)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c) (Ithell)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of iorwerth",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
-      "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1",
-      "subtxt": "Recolour (Ithell)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c) (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of iorwerth",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
-      "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c) (Cadarn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of iorwerth",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
-      "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1",
-      "subtxt": "Recolour (Cadarn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c) (Amlodd)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of iorwerth",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
-      "name": "Blade of saeldor (c) (Iorwerth)",
-      "quantity": "1",
-      "subtxt": "Recolour (Amlodd)"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": "0"
@@ -12622,6 +12496,152 @@
         "quantity": "1"
       },
       {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Meilyr)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1",
+      "subtxt": "Recolour (Meilyr)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Iorwerth).png|class=inventory-image|link=Blade of saeldor (c) (Iorwerth)]]",
+      "name": "Blade of saeldor (c) (Iorwerth)",
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Blade of saeldor (c) (Ithell).png|class=inventory-image|link=Blade of saeldor (c) (Ithell)]]",
+      "name": "Blade of saeldor (c) (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Blade of saeldor (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
         "name": "Crystal of ithell",
         "quantity": "1"
       }
@@ -12737,26 +12757,6 @@
       "name": "Blade of saeldor (c) (Ithell)",
       "quantity": "1",
       "subtxt": "Recolour (Trahaearn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Blade of saeldor (c)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of ithell",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Blade of saeldor (c) (Ithell).png|class=inventory-image|link=Blade of saeldor (c) (Ithell)]]",
-      "name": "Blade of saeldor (c) (Ithell)",
-      "quantity": "1"
     },
     "skills": [],
     "ticks": "0"
@@ -16092,7 +16092,7 @@
   {
     "materials": [
       {
-        "name": "Left skull half",
+        "name": "Runed sceptre",
         "quantity": "1"
       }
     ],
@@ -16100,8 +16100,8 @@
     "output": {
       "image": "[[File:Bone fragments 5.png|class=inventory-image|link=Bone fragments]]",
       "name": "Bone fragments",
-      "quantity": "5",
-      "quantitynote": "Each tier of Varrock Diary completed increases output to 6, 7, 8, and 9 respectively."
+      "quantity": "6",
+      "quantitynote": "Each tier of Varrock Diary completed increases output to 8, 10, 12, and 14 respectively."
     },
     "skills": [],
     "ticks": "0",
@@ -16110,7 +16110,25 @@
   {
     "materials": [
       {
-        "name": "Bottom of sceptre",
+        "name": "Strange skull",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Bone fragments 5.png|class=inventory-image|link=Bone fragments]]",
+      "name": "Bone fragments",
+      "quantity": "8",
+      "quantitynote": "Each tier of Varrock Diary completed increases output to 10, 12, 14, and 16 respectively."
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Right skull half",
         "quantity": "1"
       }
     ],
@@ -16146,7 +16164,7 @@
   {
     "materials": [
       {
-        "name": "Right skull half",
+        "name": "Bottom of sceptre",
         "quantity": "1"
       }
     ],
@@ -16164,7 +16182,7 @@
   {
     "materials": [
       {
-        "name": "Strange skull",
+        "name": "Left skull half",
         "quantity": "1"
       }
     ],
@@ -16172,26 +16190,8 @@
     "output": {
       "image": "[[File:Bone fragments 5.png|class=inventory-image|link=Bone fragments]]",
       "name": "Bone fragments",
-      "quantity": "8",
-      "quantitynote": "Each tier of Varrock Diary completed increases output to 10, 12, 14, and 16 respectively."
-    },
-    "skills": [],
-    "ticks": "0",
-    "tools": "Chisel"
-  },
-  {
-    "materials": [
-      {
-        "name": "Runed sceptre",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Bone fragments 5.png|class=inventory-image|link=Bone fragments]]",
-      "name": "Bone fragments",
-      "quantity": "6",
-      "quantitynote": "Each tier of Varrock Diary completed increases output to 8, 10, 12, and 14 respectively."
+      "quantity": "5",
+      "quantitynote": "Each tier of Varrock Diary completed increases output to 6, 7, 8, and 9 respectively."
     },
     "skills": [],
     "ticks": "0",
@@ -16786,7 +16786,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">115,076,067</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,983,096</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -16819,48 +16819,6 @@
       "quantity": "1",
       "txt": "Bow of faerdhinen (inactive)",
       "version": "(inactive)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of hefin",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c).png|class=inventory-image|link=Bow of faerdhinen (c)]]",
-      "name": "Bow of faerdhinen (c)",
-      "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Iorwerth)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of hefin",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c).png|class=inventory-image|link=Bow of faerdhinen (c)]]",
-      "name": "Bow of faerdhinen (c)",
-      "quantity": "1",
-      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -16961,6 +16919,69 @@
   {
     "materials": [
       {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c).png|class=inventory-image|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c).png|class=inventory-image|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c).png|class=inventory-image|link=Bow of faerdhinen (c)]]",
+      "name": "Bow of faerdhinen (c)",
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Bow of faerdhinen (c) (Ithell)",
         "quantity": "1"
       },
@@ -17003,27 +17024,6 @@
   {
     "materials": [
       {
-        "name": "Bow of faerdhinen (c) (Cadarn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of hefin",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c).png|class=inventory-image|link=Bow of faerdhinen (c)]]",
-      "name": "Bow of faerdhinen (c)",
-      "quantity": "1",
-      "subtxt": "Recolour (Cadarn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
         "name": "Bow of faerdhinen (c) (Trahaearn)",
         "quantity": "1"
       },
@@ -17045,6 +17045,89 @@
   {
     "materials": [
       {
+        "name": "Bow of faerdhinen (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|class=inventory-image|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|class=inventory-image|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|class=inventory-image|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|class=inventory-image|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Bow of faerdhinen (c) (Trahaearn)",
         "quantity": "1"
       },
@@ -17059,6 +17142,27 @@
       "name": "Bow of faerdhinen (c) (Amlodd)",
       "quantity": "1",
       "subtxt": "Recolour (Trahaearn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of amlodd",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|class=inventory-image|link=Bow of faerdhinen (c) (Amlodd)]]",
+      "name": "Bow of faerdhinen (c) (Amlodd)",
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -17087,131 +17191,7 @@
   {
     "materials": [
       {
-        "name": "Bow of faerdhinen (c) (Ithell)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of amlodd",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|class=inventory-image|link=Bow of faerdhinen (c) (Amlodd)]]",
-      "name": "Bow of faerdhinen (c) (Amlodd)",
-      "quantity": "1",
-      "subtxt": "Recolour (Ithell)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Iorwerth)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of amlodd",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|class=inventory-image|link=Bow of faerdhinen (c) (Amlodd)]]",
-      "name": "Bow of faerdhinen (c) (Amlodd)",
-      "quantity": "1",
-      "subtxt": "Recolour (Iorwerth)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of amlodd",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|class=inventory-image|link=Bow of faerdhinen (c) (Amlodd)]]",
-      "name": "Bow of faerdhinen (c) (Amlodd)",
-      "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Cadarn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of amlodd",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|class=inventory-image|link=Bow of faerdhinen (c) (Amlodd)]]",
-      "name": "Bow of faerdhinen (c) (Amlodd)",
-      "quantity": "1",
-      "subtxt": "Recolour (Cadarn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of amlodd",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Amlodd).png|class=inventory-image|link=Bow of faerdhinen (c) (Amlodd)]]",
-      "name": "Bow of faerdhinen (c) (Amlodd)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of cadarn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|class=inventory-image|link=Bow of faerdhinen (c) (Cadarn)]]",
-      "name": "Bow of faerdhinen (c) (Cadarn)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "name": "Bow of faerdhinen (c) (Trahaearn)",
         "quantity": "1"
       },
       {
@@ -17224,70 +17204,7 @@
       "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|class=inventory-image|link=Bow of faerdhinen (c) (Cadarn)]]",
       "name": "Bow of faerdhinen (c) (Cadarn)",
       "quantity": "1",
-      "subtxt": "Recolour (Amlodd)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of cadarn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|class=inventory-image|link=Bow of faerdhinen (c) (Cadarn)]]",
-      "name": "Bow of faerdhinen (c) (Cadarn)",
-      "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Iorwerth)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of cadarn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|class=inventory-image|link=Bow of faerdhinen (c) (Cadarn)]]",
-      "name": "Bow of faerdhinen (c) (Cadarn)",
-      "quantity": "1",
-      "subtxt": "Recolour (Iorwerth)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Ithell)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of cadarn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|class=inventory-image|link=Bow of faerdhinen (c) (Cadarn)]]",
-      "name": "Bow of faerdhinen (c) (Cadarn)",
-      "quantity": "1",
-      "subtxt": "Recolour (Ithell)"
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -17316,7 +17233,7 @@
   {
     "materials": [
       {
-        "name": "Bow of faerdhinen (c) (Trahaearn)",
+        "name": "Bow of faerdhinen (c) (Ithell)",
         "quantity": "1"
       },
       {
@@ -17329,7 +17246,90 @@
       "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|class=inventory-image|link=Bow of faerdhinen (c) (Cadarn)]]",
       "name": "Bow of faerdhinen (c) (Cadarn)",
       "quantity": "1",
-      "subtxt": "Recolour (Trahaearn)"
+      "subtxt": "Recolour (Ithell)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|class=inventory-image|link=Bow of faerdhinen (c) (Cadarn)]]",
+      "name": "Bow of faerdhinen (c) (Cadarn)",
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|class=inventory-image|link=Bow of faerdhinen (c) (Cadarn)]]",
+      "name": "Bow of faerdhinen (c) (Cadarn)",
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|class=inventory-image|link=Bow of faerdhinen (c) (Cadarn)]]",
+      "name": "Bow of faerdhinen (c) (Cadarn)",
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Cadarn).png|class=inventory-image|link=Bow of faerdhinen (c) (Cadarn)]]",
+      "name": "Bow of faerdhinen (c) (Cadarn)",
+      "quantity": "1"
     },
     "skills": [],
     "ticks": "0"
@@ -17350,6 +17350,90 @@
       "image": "[[File:Bow of faerdhinen (c) (Crwys).png|class=inventory-image|link=Bow of faerdhinen (c) (Crwys)]]",
       "name": "Bow of faerdhinen (c) (Crwys)",
       "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|class=inventory-image|link=Bow of faerdhinen (c) (Crwys)]]",
+      "name": "Bow of faerdhinen (c) (Crwys)",
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|class=inventory-image|link=Bow of faerdhinen (c) (Crwys)]]",
+      "name": "Bow of faerdhinen (c) (Crwys)",
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|class=inventory-image|link=Bow of faerdhinen (c) (Crwys)]]",
+      "name": "Bow of faerdhinen (c) (Crwys)",
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|class=inventory-image|link=Bow of faerdhinen (c) (Crwys)]]",
+      "name": "Bow of faerdhinen (c) (Crwys)",
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -17399,83 +17483,20 @@
   {
     "materials": [
       {
-        "name": "Bow of faerdhinen (c) (Ithell)",
+        "name": "Bow of faerdhinen (c) (Meilyr)",
         "quantity": "1"
       },
       {
-        "name": "Crystal of crwys",
+        "name": "Crystal of iorwerth",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|class=inventory-image|link=Bow of faerdhinen (c) (Crwys)]]",
-      "name": "Bow of faerdhinen (c) (Crwys)",
+      "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|class=inventory-image|link=Bow of faerdhinen (c) (Iorwerth)]]",
+      "name": "Bow of faerdhinen (c) (Iorwerth)",
       "quantity": "1",
-      "subtxt": "Recolour (Ithell)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Iorwerth)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of crwys",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|class=inventory-image|link=Bow of faerdhinen (c) (Crwys)]]",
-      "name": "Bow of faerdhinen (c) (Crwys)",
-      "quantity": "1",
-      "subtxt": "Recolour (Iorwerth)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Cadarn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of crwys",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|class=inventory-image|link=Bow of faerdhinen (c) (Crwys)]]",
-      "name": "Bow of faerdhinen (c) (Crwys)",
-      "quantity": "1",
-      "subtxt": "Recolour (Cadarn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Amlodd)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of crwys",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Crwys).png|class=inventory-image|link=Bow of faerdhinen (c) (Crwys)]]",
-      "name": "Bow of faerdhinen (c) (Crwys)",
-      "quantity": "1",
-      "subtxt": "Recolour (Amlodd)"
+      "subtxt": "Recolour (Meilyr)"
     },
     "skills": [],
     "ticks": "0"
@@ -17503,7 +17524,7 @@
   {
     "materials": [
       {
-        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "name": "Bow of faerdhinen (c) (Trahaearn)",
         "quantity": "1"
       },
       {
@@ -17516,7 +17537,7 @@
       "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|class=inventory-image|link=Bow of faerdhinen (c) (Iorwerth)]]",
       "name": "Bow of faerdhinen (c) (Iorwerth)",
       "quantity": "1",
-      "subtxt": "Recolour (Amlodd)"
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -17587,93 +17608,31 @@
   {
     "materials": [
       {
-        "name": "Bow of faerdhinen (c) (Meilyr)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of iorwerth",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|class=inventory-image|link=Bow of faerdhinen (c) (Iorwerth)]]",
-      "name": "Bow of faerdhinen (c) (Iorwerth)",
-      "quantity": "1",
-      "subtxt": "Recolour (Meilyr)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Trahaearn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of iorwerth",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|class=inventory-image|link=Bow of faerdhinen (c) (Iorwerth)]]",
-      "name": "Bow of faerdhinen (c) (Iorwerth)",
-      "quantity": "1",
-      "subtxt": "Recolour (Trahaearn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Trahaearn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of ithell",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|class=inventory-image|link=Bow of faerdhinen (c) (Ithell)]]",
-      "name": "Bow of faerdhinen (c) (Ithell)",
-      "quantity": "1",
-      "subtxt": "Recolour (Trahaearn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of ithell",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|class=inventory-image|link=Bow of faerdhinen (c) (Ithell)]]",
-      "name": "Bow of faerdhinen (c) (Ithell)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
         "name": "Bow of faerdhinen (c) (Amlodd)",
         "quantity": "1"
       },
       {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Iorwerth).png|class=inventory-image|link=Bow of faerdhinen (c) (Iorwerth)]]",
+      "name": "Bow of faerdhinen (c) (Iorwerth)",
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
         "name": "Crystal of ithell",
         "quantity": "1"
       }
@@ -17683,7 +17642,7 @@
       "image": "[[File:Bow of faerdhinen (c) (Ithell).png|class=inventory-image|link=Bow of faerdhinen (c) (Ithell)]]",
       "name": "Bow of faerdhinen (c) (Ithell)",
       "quantity": "1",
-      "subtxt": "Recolour (Amlodd)"
+      "subtxt": "Recolour (Iorwerth)"
     },
     "skills": [],
     "ticks": "0"
@@ -17705,6 +17664,27 @@
       "name": "Bow of faerdhinen (c) (Ithell)",
       "quantity": "1",
       "subtxt": "Recolour (Cadarn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|class=inventory-image|link=Bow of faerdhinen (c) (Ithell)]]",
+      "name": "Bow of faerdhinen (c) (Ithell)",
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -17733,7 +17713,7 @@
   {
     "materials": [
       {
-        "name": "Bow of faerdhinen (c) (Crwys)",
+        "name": "Bow of faerdhinen (c) (Trahaearn)",
         "quantity": "1"
       },
       {
@@ -17746,70 +17726,7 @@
       "image": "[[File:Bow of faerdhinen (c) (Ithell).png|class=inventory-image|link=Bow of faerdhinen (c) (Ithell)]]",
       "name": "Bow of faerdhinen (c) (Ithell)",
       "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Iorwerth)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of ithell",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|class=inventory-image|link=Bow of faerdhinen (c) (Ithell)]]",
-      "name": "Bow of faerdhinen (c) (Ithell)",
-      "quantity": "1",
-      "subtxt": "Recolour (Iorwerth)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
-      "name": "Bow of faerdhinen (c) (Meilyr)",
-      "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Cadarn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
-      "name": "Bow of faerdhinen (c) (Meilyr)",
-      "quantity": "1",
-      "subtxt": "Recolour (Cadarn)"
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -17821,14 +17738,14 @@
         "quantity": "1"
       },
       {
-        "name": "Crystal of meilyr",
+        "name": "Crystal of ithell",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
-      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|class=inventory-image|link=Bow of faerdhinen (c) (Ithell)]]",
+      "name": "Bow of faerdhinen (c) (Ithell)",
       "quantity": "1",
       "subtxt": "Recolour (Amlodd)"
     },
@@ -17842,57 +17759,15 @@
         "quantity": "1"
       },
       {
-        "name": "Crystal of meilyr",
+        "name": "Crystal of ithell",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
-      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "image": "[[File:Bow of faerdhinen (c) (Ithell).png|class=inventory-image|link=Bow of faerdhinen (c) (Ithell)]]",
+      "name": "Bow of faerdhinen (c) (Ithell)",
       "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Iorwerth)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
-      "name": "Bow of faerdhinen (c) (Meilyr)",
-      "quantity": "1",
-      "subtxt": "Recolour (Iorwerth)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Ithell)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
-      "name": "Bow of faerdhinen (c) (Meilyr)",
-      "quantity": "1",
-      "subtxt": "Recolour (Ithell)"
     },
     "skills": [],
     "ticks": "0"
@@ -17921,6 +17796,152 @@
   {
     "materials": [
       {
+        "name": "Bow of faerdhinen (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Iorwerth)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1",
+      "subtxt": "Recolour (Iorwerth)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1",
+      "subtxt": "Recolour (Crwys)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Meilyr).png|class=inventory-image|link=Bow of faerdhinen (c) (Meilyr)]]",
+      "name": "Bow of faerdhinen (c) (Meilyr)",
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|class=inventory-image|link=Bow of faerdhinen (c) (Trahaearn)]]",
+      "name": "Bow of faerdhinen (c) (Trahaearn)",
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Bow of faerdhinen (c)",
         "quantity": "1"
       },
@@ -17934,69 +17955,6 @@
       "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|class=inventory-image|link=Bow of faerdhinen (c) (Trahaearn)]]",
       "name": "Bow of faerdhinen (c) (Trahaearn)",
       "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Amlodd)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of trahaearn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|class=inventory-image|link=Bow of faerdhinen (c) (Trahaearn)]]",
-      "name": "Bow of faerdhinen (c) (Trahaearn)",
-      "quantity": "1",
-      "subtxt": "Recolour (Amlodd)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Cadarn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of trahaearn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|class=inventory-image|link=Bow of faerdhinen (c) (Trahaearn)]]",
-      "name": "Bow of faerdhinen (c) (Trahaearn)",
-      "quantity": "1",
-      "subtxt": "Recolour (Cadarn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bow of faerdhinen (c) (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of trahaearn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|class=inventory-image|link=Bow of faerdhinen (c) (Trahaearn)]]",
-      "name": "Bow of faerdhinen (c) (Trahaearn)",
-      "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -18025,7 +17983,7 @@
   {
     "materials": [
       {
-        "name": "Bow of faerdhinen (c) (Ithell)",
+        "name": "Bow of faerdhinen (c) (Crwys)",
         "quantity": "1"
       },
       {
@@ -18038,7 +17996,49 @@
       "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|class=inventory-image|link=Bow of faerdhinen (c) (Trahaearn)]]",
       "name": "Bow of faerdhinen (c) (Trahaearn)",
       "quantity": "1",
-      "subtxt": "Recolour (Ithell)"
+      "subtxt": "Recolour (Crwys)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Cadarn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|class=inventory-image|link=Bow of faerdhinen (c) (Trahaearn)]]",
+      "name": "Bow of faerdhinen (c) (Trahaearn)",
+      "quantity": "1",
+      "subtxt": "Recolour (Cadarn)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bow of faerdhinen (c) (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of trahaearn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Bow of faerdhinen (c) (Trahaearn).png|class=inventory-image|link=Bow of faerdhinen (c) (Trahaearn)]]",
+      "name": "Bow of faerdhinen (c) (Trahaearn)",
+      "quantity": "1",
+      "subtxt": "Recolour (Amlodd)"
     },
     "skills": [],
     "ticks": "0"
@@ -27303,83 +27303,6 @@
   {
     "materials": [
       {
-        "name": "Crystal body (Ithell)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal body.png|class=inventory-image|link=Crystal body]]",
-      "name": "Crystal body",
-      "quantity": "1",
-      "subtxt": "Recolour (Ithell)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal body (Trahaearn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal body.png|class=inventory-image|link=Crystal body]]",
-      "name": "Crystal body",
-      "quantity": "1",
-      "subtxt": "Recolour (Trahaearn)"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "facilities": "Singing bowl",
-    "materials": [
-      {
-        "name": "Crystal armour seed",
-        "quantity": "3"
-      },
-      {
-        "name": "Crystal shard",
-        "quantity": "150"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal body.png|class=inventory-image|link=Crystal body]]",
-      "name": "Crystal body",
-      "quantity": "1",
-      "subtxt": "Creation"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "7500",
-        "level": "74",
-        "name": "Smithing"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "7500",
-        "level": "74",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "5"
-  },
-  {
-    "materials": [
-      {
         "name": "Crystal body (Amlodd)",
         "quantity": "1"
       },
@@ -27422,7 +27345,7 @@
   {
     "materials": [
       {
-        "name": "Crystal body (Iorwerth)",
+        "name": "Crystal body (Crwys)",
         "quantity": "1"
       },
       {
@@ -27435,7 +27358,7 @@
       "image": "[[File:Crystal body.png|class=inventory-image|link=Crystal body]]",
       "name": "Crystal body",
       "quantity": "1",
-      "subtxt": "Recolour (Iorwerth)"
+      "subtxt": "Recolour (Crwys)"
     },
     "skills": [],
     "ticks": "0"
@@ -27462,9 +27385,44 @@
     "ticks": "0"
   },
   {
+    "facilities": "Singing bowl",
     "materials": [
       {
-        "name": "Crystal body (Crwys)",
+        "name": "Crystal armour seed",
+        "quantity": "3"
+      },
+      {
+        "name": "Crystal shard",
+        "quantity": "150"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body.png|class=inventory-image|link=Crystal body]]",
+      "name": "Crystal body",
+      "quantity": "1",
+      "subtxt": "Creation"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "7500",
+        "level": "74",
+        "name": "Smithing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "7500",
+        "level": "74",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "5"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Iorwerth)",
         "quantity": "1"
       },
       {
@@ -27477,7 +27435,49 @@
       "image": "[[File:Crystal body.png|class=inventory-image|link=Crystal body]]",
       "name": "Crystal body",
       "quantity": "1",
-      "subtxt": "Recolour (Crwys)"
+      "subtxt": "Recolour (Iorwerth)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Ithell)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body.png|class=inventory-image|link=Crystal body]]",
+      "name": "Crystal body",
+      "quantity": "1",
+      "subtxt": "Recolour (Ithell)"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal body (Trahaearn)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal body.png|class=inventory-image|link=Crystal body]]",
+      "name": "Crystal body",
+      "quantity": "1",
+      "subtxt": "Recolour (Trahaearn)"
     },
     "skills": [],
     "ticks": "0"
@@ -28964,6 +28964,26 @@
   {
     "materials": [
       {
+        "name": "Crystal crown (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of cadarn",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Cadarn).png|class=inventory-image|link=Crystal crown (Cadarn)]]",
+      "name": "Crystal crown (Cadarn)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Crystal crown (Meilyr)",
         "quantity": "1"
       },
@@ -29024,26 +29044,6 @@
   {
     "materials": [
       {
-        "name": "Crystal crown (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of cadarn",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal crown (Cadarn).png|class=inventory-image|link=Crystal crown (Cadarn)]]",
-      "name": "Crystal crown (Cadarn)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
         "name": "Crystal crown (Amlodd)",
         "quantity": "1"
       },
@@ -29076,46 +29076,6 @@
     "output": {
       "image": "[[File:Crystal crown (Cadarn).png|class=inventory-image|link=Crystal crown (Cadarn)]]",
       "name": "Crystal crown (Cadarn)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal crown (Cadarn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of crwys",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal crown (Crwys).png|class=inventory-image|link=Crystal crown (Crwys)]]",
-      "name": "Crystal crown (Crwys)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal crown (Hefin)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of crwys",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal crown (Crwys).png|class=inventory-image|link=Crystal crown (Crwys)]]",
-      "name": "Crystal crown (Crwys)",
       "quantity": "1"
     },
     "skills": [],
@@ -29184,7 +29144,27 @@
   {
     "materials": [
       {
-        "name": "Crystal crown (Ithell)",
+        "name": "Crystal crown (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of crwys",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Crwys).png|class=inventory-image|link=Crystal crown (Crwys)]]",
+      "name": "Crystal crown (Crwys)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Cadarn)",
         "quantity": "1"
       },
       {
@@ -29224,18 +29204,18 @@
   {
     "materials": [
       {
-        "name": "Crystal crown (Meilyr)",
+        "name": "Crystal crown (Ithell)",
         "quantity": "1"
       },
       {
-        "name": "Crystal of hefin",
+        "name": "Crystal of crwys",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Crystal crown (Hefin).png|class=inventory-image|link=Crystal crown (Hefin)]]",
-      "name": "Crystal crown (Hefin)",
+      "image": "[[File:Crystal crown (Crwys).png|class=inventory-image|link=Crystal crown (Crwys)]]",
+      "name": "Crystal crown (Crwys)",
       "quantity": "1"
     },
     "skills": [],
@@ -29264,67 +29244,7 @@
   {
     "materials": [
       {
-        "name": "Crystal crown (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of hefin",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal crown (Hefin).png|class=inventory-image|link=Crystal crown (Hefin)]]",
-      "name": "Crystal crown (Hefin)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal crown (Cadarn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of hefin",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal crown (Hefin).png|class=inventory-image|link=Crystal crown (Hefin)]]",
-      "name": "Crystal crown (Hefin)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal crown (Amlodd)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of hefin",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal crown (Hefin).png|class=inventory-image|link=Crystal crown (Hefin)]]",
-      "name": "Crystal crown (Hefin)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal crown (Ithell)",
+        "name": "Crystal crown (Meilyr)",
         "quantity": "1"
       },
       {
@@ -29368,14 +29288,34 @@
         "quantity": "1"
       },
       {
-        "name": "Crystal of iorwerth",
+        "name": "Crystal of hefin",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Crystal crown (Iorwerth).png|class=inventory-image|link=Crystal crown (Iorwerth)]]",
-      "name": "Crystal crown (Iorwerth)",
+      "image": "[[File:Crystal crown (Hefin).png|class=inventory-image|link=Crystal crown (Hefin)]]",
+      "name": "Crystal crown (Hefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of hefin",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Hefin).png|class=inventory-image|link=Crystal crown (Hefin)]]",
+      "name": "Crystal crown (Hefin)",
       "quantity": "1"
     },
     "skills": [],
@@ -29388,14 +29328,14 @@
         "quantity": "1"
       },
       {
-        "name": "Crystal of iorwerth",
+        "name": "Crystal of hefin",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Crystal crown (Iorwerth).png|class=inventory-image|link=Crystal crown (Iorwerth)]]",
-      "name": "Crystal crown (Iorwerth)",
+      "image": "[[File:Crystal crown (Hefin).png|class=inventory-image|link=Crystal crown (Hefin)]]",
+      "name": "Crystal crown (Hefin)",
       "quantity": "1"
     },
     "skills": [],
@@ -29408,14 +29348,14 @@
         "quantity": "1"
       },
       {
-        "name": "Crystal of iorwerth",
+        "name": "Crystal of hefin",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Crystal crown (Iorwerth).png|class=inventory-image|link=Crystal crown (Iorwerth)]]",
-      "name": "Crystal crown (Iorwerth)",
+      "image": "[[File:Crystal crown (Hefin).png|class=inventory-image|link=Crystal crown (Hefin)]]",
+      "name": "Crystal crown (Hefin)",
       "quantity": "1"
     },
     "skills": [],
@@ -29424,7 +29364,7 @@
   {
     "materials": [
       {
-        "name": "Crystal crown (Hefin)",
+        "name": "Crystal crown (Trahaearn)",
         "quantity": "1"
       },
       {
@@ -29464,7 +29404,47 @@
   {
     "materials": [
       {
-        "name": "Crystal crown (Trahaearn)",
+        "name": "Crystal crown (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Iorwerth).png|class=inventory-image|link=Crystal crown (Iorwerth)]]",
+      "name": "Crystal crown (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of iorwerth",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Iorwerth).png|class=inventory-image|link=Crystal crown (Iorwerth)]]",
+      "name": "Crystal crown (Iorwerth)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Cadarn)",
         "quantity": "1"
       },
       {
@@ -29504,18 +29484,18 @@
   {
     "materials": [
       {
-        "name": "Crystal crown (Hefin)",
+        "name": "Crystal crown (Ithell)",
         "quantity": "1"
       },
       {
-        "name": "Crystal of ithell",
+        "name": "Crystal of iorwerth",
         "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
-      "image": "[[File:Crystal crown (Ithell).png|class=inventory-image|link=Crystal crown (Ithell)]]",
-      "name": "Crystal crown (Ithell)",
+      "image": "[[File:Crystal crown (Iorwerth).png|class=inventory-image|link=Crystal crown (Iorwerth)]]",
+      "name": "Crystal crown (Iorwerth)",
       "quantity": "1"
     },
     "skills": [],
@@ -29624,6 +29604,26 @@
   {
     "materials": [
       {
+        "name": "Crystal crown (Hefin)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of ithell",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Ithell).png|class=inventory-image|link=Crystal crown (Ithell)]]",
+      "name": "Crystal crown (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Crystal crown (Crwys)",
         "quantity": "1"
       },
@@ -29636,6 +29636,26 @@
     "output": {
       "image": "[[File:Crystal crown (Ithell).png|class=inventory-image|link=Crystal crown (Ithell)]]",
       "name": "Crystal crown (Ithell)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal crown (Crwys)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal crown (Meilyr).png|class=inventory-image|link=Crystal crown (Meilyr)]]",
+      "name": "Crystal crown (Meilyr)",
       "quantity": "1"
     },
     "skills": [],
@@ -29685,26 +29705,6 @@
     "materials": [
       {
         "name": "Crystal crown (Cadarn)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal crown (Meilyr).png|class=inventory-image|link=Crystal crown (Meilyr)]]",
-      "name": "Crystal crown (Meilyr)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal crown (Crwys)",
         "quantity": "1"
       },
       {
@@ -29844,7 +29844,7 @@
   {
     "materials": [
       {
-        "name": "Crystal crown (Iorwerth)",
+        "name": "Crystal crown (Ithell)",
         "quantity": "1"
       },
       {
@@ -29904,7 +29904,7 @@
   {
     "materials": [
       {
-        "name": "Crystal crown (Ithell)",
+        "name": "Crystal crown (Iorwerth)",
         "quantity": "1"
       },
       {
@@ -30286,7 +30286,27 @@
   {
     "materials": [
       {
-        "name": "Crystal helm (Hefin)",
+        "name": "Crystal helm (Amlodd)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crystal of meilyr",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Crystal helm.png|class=inventory-image|link=Crystal helm]]",
+      "name": "Crystal helm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Crystal helm (Cadarn)",
         "quantity": "1"
       },
       {
@@ -30366,7 +30386,7 @@
   {
     "materials": [
       {
-        "name": "Crystal helm (Cadarn)",
+        "name": "Crystal helm (Hefin)",
         "quantity": "1"
       },
       {
@@ -30387,26 +30407,6 @@
     "materials": [
       {
         "name": "Crystal helm (Crwys)",
-        "quantity": "1"
-      },
-      {
-        "name": "Crystal of meilyr",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Crystal helm.png|class=inventory-image|link=Crystal helm]]",
-      "name": "Crystal helm",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Crystal helm (Amlodd)",
         "quantity": "1"
       },
       {
@@ -47858,7 +47858,7 @@
   {
     "materials": [
       {
-        "name": "Grym leaf",
+        "name": "Grym leaf (corrupted)",
         "quantity": "1"
       },
       {
@@ -47878,7 +47878,7 @@
   {
     "materials": [
       {
-        "name": "Grym leaf (corrupted)",
+        "name": "Grym leaf",
         "quantity": "1"
       },
       {
@@ -56628,31 +56628,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "Furnace",
-    "materials": [
-      {
-        "name": "Lead ore",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Lead bar.png|class=inventory-image|link=Lead bar]]",
-      "name": "Lead bar",
-      "quantity": "1",
-      "subtxt": "Normal furnace"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "15.5",
-        "level": "?",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5"
-  },
-  {
     "materials": [
       {
         "name": "Lead ore",
@@ -56689,6 +56664,31 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Lead ore",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lead bar.png|class=inventory-image|link=Lead bar]]",
+      "name": "Lead bar",
+      "quantity": "1",
+      "subtxt": "Normal furnace"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15.5",
+        "level": "?",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5"
   },
   {
     "facilities": "Cooking range",
@@ -58308,7 +58308,7 @@
     "facilities": "Refiner",
     "materials": [
       {
-        "name": "Snapdragon potion (unf)",
+        "name": "Avantoe potion (unf)",
         "quantity": "1"
       }
     ],
@@ -58316,7 +58316,7 @@
     "output": {
       "image": "[[File:Lye paste.png|class=inventory-image|link=Lye paste]]",
       "name": "Lye paste",
-      "quantity": "40"
+      "quantity": "30"
     },
     "skills": [
       {
@@ -58356,7 +58356,7 @@
     "facilities": "Refiner",
     "materials": [
       {
-        "name": "Avantoe potion (unf)",
+        "name": "Snapdragon potion (unf)",
         "quantity": "1"
       }
     ],
@@ -58364,7 +58364,31 @@
     "output": {
       "image": "[[File:Lye paste.png|class=inventory-image|link=Lye paste]]",
       "name": "Lye paste",
-      "quantity": "30"
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "1",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Toadflax",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|class=inventory-image|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "32"
     },
     "skills": [
       {
@@ -58389,6 +58413,30 @@
       "image": "[[File:Lye paste.png|class=inventory-image|link=Lye paste]]",
       "name": "Lye paste",
       "quantity": "32"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "1",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Ranarr weed",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Lye paste.png|class=inventory-image|link=Lye paste]]",
+      "name": "Lye paste",
+      "quantity": "26"
     },
     "skills": [
       {
@@ -58485,54 +58533,6 @@
       "image": "[[File:Lye paste.png|class=inventory-image|link=Lye paste]]",
       "name": "Lye paste",
       "quantity": "30"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "6",
-        "level": "1",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Refiner",
-    "materials": [
-      {
-        "name": "Ranarr weed",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Lye paste.png|class=inventory-image|link=Lye paste]]",
-      "name": "Lye paste",
-      "quantity": "26"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "6",
-        "level": "1",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Refiner",
-    "materials": [
-      {
-        "name": "Toadflax",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Lye paste.png|class=inventory-image|link=Lye paste]]",
-      "name": "Lye paste",
-      "quantity": "32"
     },
     "skills": [
       {
@@ -65072,7 +65072,7 @@
     "facilities": "Refiner",
     "materials": [
       {
-        "name": "Harralander",
+        "name": "Harralander potion (unf)",
         "quantity": "1"
       }
     ],
@@ -65081,54 +65081,6 @@
       "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
       "name": "Mox paste",
       "quantity": "20"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "6",
-        "level": "1",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Refiner",
-    "materials": [
-      {
-        "name": "Guam potion (unf)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
-      "name": "Mox paste",
-      "quantity": "10"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "6",
-        "level": "1",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "facilities": "Refiner",
-    "materials": [
-      {
-        "name": "Marrentill potion (unf)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
-      "name": "Mox paste",
-      "quantity": "13"
     },
     "skills": [
       {
@@ -65168,7 +65120,55 @@
     "facilities": "Refiner",
     "materials": [
       {
-        "name": "Harralander potion (unf)",
+        "name": "Marrentill potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "13"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "1",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Guam potion (unf)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
+      "name": "Mox paste",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "6",
+        "level": "1",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Refiner",
+    "materials": [
+      {
+        "name": "Harralander",
         "quantity": "1"
       }
     ],
@@ -65192,7 +65192,7 @@
     "facilities": "Refiner",
     "materials": [
       {
-        "name": "Marrentill",
+        "name": "Tarromin",
         "quantity": "1"
       }
     ],
@@ -65200,7 +65200,7 @@
     "output": {
       "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
       "name": "Mox paste",
-      "quantity": "13"
+      "quantity": "15"
     },
     "skills": [
       {
@@ -65240,7 +65240,7 @@
     "facilities": "Refiner",
     "materials": [
       {
-        "name": "Tarromin",
+        "name": "Marrentill",
         "quantity": "1"
       }
     ],
@@ -65248,7 +65248,7 @@
     "output": {
       "image": "[[File:Mox paste.png|class=inventory-image|link=Mox paste]]",
       "name": "Mox paste",
-      "quantity": "15"
+      "quantity": "13"
     },
     "skills": [
       {
@@ -68558,6 +68558,24 @@
     "facilities": "Ancient Forge",
     "materials": [
       {
+        "name": "Oathplate legs",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Oathplate shards.png|class=inventory-image|link=Oathplate shards]]",
+      "name": "Oathplate shards",
+      "quantity": "50"
+    },
+    "skills": [],
+    "ticks": "4",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Ancient Forge",
+    "materials": [
+      {
         "name": "Oathplate chest",
         "quantity": "1"
       }
@@ -68577,24 +68595,6 @@
     "materials": [
       {
         "name": "Oathplate helm",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Oathplate shards.png|class=inventory-image|link=Oathplate shards]]",
-      "name": "Oathplate shards",
-      "quantity": "50"
-    },
-    "skills": [],
-    "ticks": "4",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Ancient Forge",
-    "materials": [
-      {
-        "name": "Oathplate legs",
         "quantity": "1"
       }
     ],
@@ -77344,13 +77344,17 @@
       {
         "name": "Earth rune",
         "quantity": "15"
+      },
+      {
+        "name": "Sawmill voucher",
+        "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Rosewood plank.png|class=inventory-image|link=Rosewood plank]]",
       "name": "Rosewood plank",
-      "quantity": "1",
+      "quantity": "2",
       "subtxt": "Plank Make"
     },
     "skills": [
@@ -77384,17 +77388,13 @@
       {
         "name": "Earth rune",
         "quantity": "15"
-      },
-      {
-        "name": "Sawmill voucher",
-        "quantity": "1"
       }
     ],
     "members": "Yes",
     "output": {
       "image": "[[File:Rosewood plank.png|class=inventory-image|link=Rosewood plank]]",
       "name": "Rosewood plank",
-      "quantity": "2",
+      "quantity": "1",
       "subtxt": "Plank Make"
     },
     "skills": [
@@ -82488,12 +82488,12 @@
       "image": "[[File:Scorching bow.png|class=inventory-image|link=Scorching bow]]",
       "name": "Scorching bow",
       "quantity": "1",
-      "subtxt": "Scorching bow (first time)"
+      "subtxt": "Scorching bow (subsequent times)"
     },
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "730",
+        "experience": "73",
         "level": "74",
         "name": "Fletching"
       }
@@ -82516,12 +82516,12 @@
       "image": "[[File:Scorching bow.png|class=inventory-image|link=Scorching bow]]",
       "name": "Scorching bow",
       "quantity": "1",
-      "subtxt": "Scorching bow (subsequent times)"
+      "subtxt": "Scorching bow (first time)"
     },
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "73",
+        "experience": "730",
         "level": "74",
         "name": "Fletching"
       }
@@ -88972,24 +88972,6 @@
     "ticks": ""
   },
   {
-    "facilities": "Swampy sink",
-    "materials": [
-      {
-        "name": "Spooky gloves",
-        "quantity": "1"
-      }
-    ],
-    "members": "No",
-    "output": {
-      "image": "[[File:Spookier gloves.png|class=inventory-image|link=Spookier gloves]]",
-      "name": "Spookier gloves",
-      "quantity": "1",
-      "subtxt": "Swampy sink"
-    },
-    "skills": [],
-    "ticks": ""
-  },
-  {
     "facilities": "Ectofuntus",
     "materials": [
       {
@@ -89003,6 +88985,24 @@
       "name": "Spookier gloves",
       "quantity": "1",
       "subtxt": "Ectofuntus"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Swampy sink",
+    "materials": [
+      {
+        "name": "Spooky gloves",
+        "quantity": "1"
+      }
+    ],
+    "members": "No",
+    "output": {
+      "image": "[[File:Spookier gloves.png|class=inventory-image|link=Spookier gloves]]",
+      "name": "Spookier gloves",
+      "quantity": "1",
+      "subtxt": "Swampy sink"
     },
     "skills": [],
     "ticks": ""
@@ -89080,24 +89080,6 @@
     "ticks": ""
   },
   {
-    "facilities": "Ectofuntus",
-    "materials": [
-      {
-        "name": "Spooky skirt",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Spookier skirt.png|class=inventory-image|link=Spookier skirt]]",
-      "name": "Spookier skirt",
-      "quantity": "1",
-      "subtxt": "Ectofuntus"
-    },
-    "skills": [],
-    "ticks": ""
-  },
-  {
     "facilities": "Swampy sink",
     "materials": [
       {
@@ -89111,6 +89093,24 @@
       "name": "Spookier skirt",
       "quantity": "1",
       "subtxt": "Swampy sink"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "facilities": "Ectofuntus",
+    "materials": [
+      {
+        "name": "Spooky skirt",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Spookier skirt.png|class=inventory-image|link=Spookier skirt]]",
+      "name": "Spookier skirt",
+      "quantity": "1",
+      "subtxt": "Ectofuntus"
     },
     "skills": [],
     "ticks": ""
@@ -93320,7 +93320,7 @@
   {
     "materials": [
       {
-        "name": "Defence potion(3)",
+        "name": "Defence potion(4)",
         "quantity": "1"
       },
       {
@@ -93340,7 +93340,7 @@
   {
     "materials": [
       {
-        "name": "Defence potion(4)",
+        "name": "Defence potion(3)",
         "quantity": "1"
       },
       {
@@ -99207,278 +99207,6 @@
         "quantity": "1"
       },
       {
-        "name": "Willow stock",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "30"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "628",
-        "level": "35",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Redwood logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Redwood hiking staff",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "105"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "3788",
-        "level": "90",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Redwood logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Redwood shield",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "105"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "3788",
-        "level": "90",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Magic logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Magic stock",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "90"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "3104",
-        "level": "80",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Magic logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Magic shield",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "90"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "3104",
-        "level": "80",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Maple logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Maple shortbow (u)",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "40"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "1008",
-        "level": "50",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Magic logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Magic longbow",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "90"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "3104",
-        "level": "80",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Magic logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Magic longbow (u)",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "90"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "3104",
-        "level": "80",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Willow logs",
-        "quantity": "1"
-      },
-      {
         "name": "Willow shield",
         "quantity": "4"
       }
@@ -99494,108 +99222,6 @@
         "boostable": "Yes",
         "experience": "628",
         "level": "35",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Magic logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Magic shortbow",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "90"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "3104",
-        "level": "80",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Magic logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Magic shortbow (u)",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "90"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "3104",
-        "level": "80",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Yew logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Yew stock",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "65"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "1632",
-        "level": "65",
         "name": "Fletching"
       },
       {
@@ -99713,11 +99339,11 @@
     "facilities": "Totem site",
     "materials": [
       {
-        "name": "Willow logs",
+        "name": "Yew logs",
         "quantity": "1"
       },
       {
-        "name": "Willow shortbow (u)",
+        "name": "Yew stock",
         "quantity": "4"
       }
     ],
@@ -99725,13 +99351,13 @@
     "output": {
       "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
       "name": "Vale offerings",
-      "quantity": "30"
+      "quantity": "65"
     },
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "628",
-        "level": "35",
+        "experience": "1632",
+        "level": "65",
         "name": "Fletching"
       },
       {
@@ -99781,142 +99407,6 @@
     "facilities": "Totem site",
     "materials": [
       {
-        "name": "Yew logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Yew shield",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "65"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "1632",
-        "level": "65",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Yew logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Yew longbow",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "65"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "1632",
-        "level": "65",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Yew logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Yew longbow (u)",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "65"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "1632",
-        "level": "65",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Yew logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Yew shortbow",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "65"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "1632",
-        "level": "65",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
         "name": "Oak logs",
         "quantity": "1"
       },
@@ -99951,11 +99441,249 @@
     "facilities": "Totem site",
     "materials": [
       {
+        "name": "Willow logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Willow stock",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "628",
+        "level": "35",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
         "name": "Oak logs",
         "quantity": "1"
       },
       {
         "name": "Oak longbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "255",
+        "level": "20",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Oak longbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "255",
+        "level": "20",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Oak shortbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "255",
+        "level": "20",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic shortbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic shortbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Maple logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Maple shortbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "40"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1008",
+        "level": "50",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Oak shortbow (u)",
         "quantity": "4"
       }
     ],
@@ -100053,40 +99781,6 @@
     "facilities": "Totem site",
     "materials": [
       {
-        "name": "Oak logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Oak longbow (u)",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "20"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "255",
-        "level": "20",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
         "name": "Maple logs",
         "quantity": "1"
       },
@@ -100121,11 +99815,11 @@
     "facilities": "Totem site",
     "materials": [
       {
-        "name": "Oak logs",
+        "name": "Maple logs",
         "quantity": "1"
       },
       {
-        "name": "Oak shortbow",
+        "name": "Maple shield",
         "quantity": "4"
       }
     ],
@@ -100133,81 +99827,13 @@
     "output": {
       "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
       "name": "Vale offerings",
-      "quantity": "20"
+      "quantity": "40"
     },
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "255",
-        "level": "20",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Oak logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Oak shortbow (u)",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "20"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "255",
-        "level": "20",
-        "name": "Fletching"
-      },
-      {
-        "boostable": "",
-        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
-        "level": "1",
-        "name": "Construction"
-      }
-    ],
-    "ticks": "2"
-  },
-  {
-    "facilities": "Totem site",
-    "materials": [
-      {
-        "name": "Yew logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Yew shortbow (u)",
-        "quantity": "4"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
-      "name": "Vale offerings",
-      "quantity": "65"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "1632",
-        "level": "65",
+        "experience": "1008",
+        "level": "50",
         "name": "Fletching"
       },
       {
@@ -100257,11 +99883,11 @@
     "facilities": "Totem site",
     "materials": [
       {
-        "name": "Maple logs",
+        "name": "Yew logs",
         "quantity": "1"
       },
       {
-        "name": "Maple shield",
+        "name": "Yew shortbow (u)",
         "quantity": "4"
       }
     ],
@@ -100269,13 +99895,387 @@
     "output": {
       "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
       "name": "Vale offerings",
-      "quantity": "40"
+      "quantity": "65"
     },
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "1008",
-        "level": "50",
+        "experience": "1632",
+        "level": "65",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew shortbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "65"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1632",
+        "level": "65",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic longbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic longbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Willow logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Willow shortbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "628",
+        "level": "35",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic shield",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Magic stock",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3104",
+        "level": "80",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Redwood logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Redwood shield",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "105"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3788",
+        "level": "90",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew longbow (u)",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "65"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1632",
+        "level": "65",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew longbow",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "65"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1632",
+        "level": "65",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Yew shield",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "65"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "1632",
+        "level": "65",
+        "name": "Fletching"
+      },
+      {
+        "boostable": "",
+        "experience": "''1 * [[File:Construction icon.png]] Lvl''",
+        "level": "1",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Totem site",
+    "materials": [
+      {
+        "name": "Redwood logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Redwood hiking staff",
+        "quantity": "4"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Vale offerings 1000.png|class=inventory-image|link=Vale offerings]]",
+      "name": "Vale offerings",
+      "quantity": "105"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3788",
+        "level": "90",
         "name": "Fletching"
       },
       {
@@ -100547,10 +100547,10 @@
     "tools": "Glassblowing pipe"
   },
   {
-    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
+    "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
       {
-        "name": "Corrupted shards",
+        "name": "Crystal shards (The Gauntlet)",
         "quantity": "10"
       }
     ],
@@ -100577,10 +100577,10 @@
     "ticks": "1"
   },
   {
-    "facilities": "Singing Bowl (The Gauntlet)",
+    "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
       {
-        "name": "Crystal shards (The Gauntlet)",
+        "name": "Corrupted shards",
         "quantity": "10"
       }
     ],
@@ -101517,24 +101517,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "Water Pump (The Corrupted Gauntlet)",
-    "materials": [
-      {
-        "name": "Vial (The Gauntlet)",
-        "quantity": "1"
-      }
-    ],
-    "members": "Yes",
-    "output": {
-      "image": "[[File:Water-filled vial.png|class=inventory-image|link=Water-filled vial]]",
-      "name": "Water-filled vial",
-      "quantity": "1",
-      "subtxt": "The Corrupted Gauntlet"
-    },
-    "skills": [],
-    "ticks": "1"
-  },
-  {
     "facilities": "Water Pump (The Gauntlet)",
     "materials": [
       {
@@ -101548,6 +101530,24 @@
       "name": "Water-filled vial",
       "quantity": "1",
       "subtxt": "The Gauntlet"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Water Pump (The Corrupted Gauntlet)",
+    "materials": [
+      {
+        "name": "Vial (The Gauntlet)",
+        "quantity": "1"
+      }
+    ],
+    "members": "Yes",
+    "output": {
+      "image": "[[File:Water-filled vial.png|class=inventory-image|link=Water-filled vial]]",
+      "name": "Water-filled vial",
+      "quantity": "1",
+      "subtxt": "The Corrupted Gauntlet"
     },
     "skills": [],
     "ticks": "1"
