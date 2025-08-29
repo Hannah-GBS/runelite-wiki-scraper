@@ -29271,6 +29271,24 @@
     "plane": "0"
   },
   {
+    "coords": "3012,3452",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Dwarf cannon set",
+        "sellPrice": "750000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Entrance to the Dwarven Mine on Ice Mountain",
+    "mapID": "0",
+    "name": "Nulodion",
+    "plane": "0"
+  },
+  {
     "buyMultiplier": "600",
     "coords": "2998,9845",
     "isMembers": false,
