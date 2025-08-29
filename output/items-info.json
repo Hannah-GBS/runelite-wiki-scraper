@@ -64450,7 +64450,7 @@
     "version": "1 dose"
   },
   {
-    "examineText": "Contains ten random herbs.",
+    "examineText": "Contains seven random herbs.",
     "group": "Herb box",
     "isMembers": true,
     "isTradeable": false,
@@ -85701,12 +85701,12 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (hard) - 23.00N 41.33E",
+    "group": "Clue scroll (hard) - 23.03N 41.24E",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 21527,
     "name": "Clue scroll (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_23.00N_41.33E",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(hard)_-_23.03N_41.24E",
     "version": null
   },
   {
@@ -91121,32 +91121,32 @@
   },
   {
     "examineText": "A powerful scythe.",
-    "group": "Scythe of vitur (RuneFest 2018)",
+    "group": "Scythe of vitur (rotten)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 22664,
     "name": "Scythe of vitur",
-    "url": "https://oldschool.runescape.wiki/w/Scythe_of_vitur_(RuneFest_2018)",
+    "url": "https://oldschool.runescape.wiki/w/Scythe_of_vitur_(rotten)",
     "version": null
   },
   {
     "examineText": "A beautiful, heavy sword.",
-    "group": "Armadyl godsword (RuneFest 2018)",
+    "group": "Armadyl godsword (rotten)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 22665,
     "name": "Armadyl godsword",
-    "url": "https://oldschool.runescape.wiki/w/Armadyl_godsword_(RuneFest_2018)",
+    "url": "https://oldschool.runescape.wiki/w/Armadyl_godsword_(rotten)",
     "version": null
   },
   {
     "examineText": "Perhaps not the most powerful weapon in Gielinor.",
-    "group": "Rubber chicken (RuneFest 2018)",
+    "group": "Rubber chicken (rotten)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 22666,
     "name": "Rubber chicken",
-    "url": "https://oldschool.runescape.wiki/w/Rubber_chicken_(RuneFest_2018)",
+    "url": "https://oldschool.runescape.wiki/w/Rubber_chicken_(rotten)",
     "version": null
   },
   {
@@ -93511,16 +93511,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - In a village of barbarians",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_a_village_of_barbarians",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - At the standing stones north of Falador",
     "isMembers": false,
     "isTradeable": false,
@@ -93577,6 +93567,16 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_the_place_Duke_Horacio_calls_home",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - In a village of barbarians",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_In_a_village_of_barbarians",
     "version": null
   },
   {
