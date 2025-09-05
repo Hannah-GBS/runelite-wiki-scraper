@@ -16741,22 +16741,22 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (medium, map 2)",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 2829,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium,_map_2)",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (medium) - To the east of the Ranging guild",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 2829,
     "name": "Clue scroll (medium)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium)_-_To_the_east_of_the_Ranging_guild",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (medium, map 2)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 2829,
+    "name": "Clue scroll (medium)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(medium,_map_2)",
     "version": null
   },
   {
@@ -93471,6 +93471,36 @@
   },
   {
     "examineText": "",
+    "group": "Clue scroll (beginner) - Always walking around the castle grounds",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Always_walking_around_the_castle_grounds",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - At the standing stones north of Falador",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_At_the_standing_stones_north_of_Falador",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - RUG DETER",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
+    "version": null
+  },
+  {
+    "examineText": "",
     "group": "Clue scroll (beginner) - Cheer at Iffie Nitter",
     "isMembers": false,
     "isTradeable": false,
@@ -93491,56 +93521,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - Always walking around the castle grounds",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Always_walking_around_the_castle_grounds",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - Buried beneath the ground",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Buried_beneath_the_ground",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - At the standing stones north of Falador",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_At_the_standing_stones_north_of_Falador",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - Directly behind the Wizards' Tower",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Directly_behind_the_Wizards%27_Tower",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - RUG DETER",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - Panic at Al Kharid mine",
     "isMembers": false,
     "isTradeable": false,
@@ -93557,6 +93537,16 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Spin_at_Flynn%27s_Mace_Shop",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Buried beneath the ground",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Buried_beneath_the_ground",
     "version": null
   },
   {
@@ -93617,6 +93607,16 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_South_of_Draynor_Village_bank",
+    "version": null
+  },
+  {
+    "examineText": "",
+    "group": "Clue scroll (beginner) - Directly behind the Wizards' Tower",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 23182,
+    "name": "Clue scroll (beginner)",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Directly_behind_the_Wizards%27_Tower",
     "version": null
   },
   {
@@ -126011,12 +126011,12 @@
   },
   {
     "examineText": "A key stolen from Constantinius.",
-    "group": "Chest key (Death on the Isle)",
+    "group": "Chest key (Fancy chest)",
     "isMembers": false,
     "isTradeable": false,
     "itemID": 29923,
     "name": "Chest key",
-    "url": "https://oldschool.runescape.wiki/w/Chest_key_(Death_on_the_Isle)",
+    "url": "https://oldschool.runescape.wiki/w/Chest_key_(Fancy_chest)",
     "version": null
   },
   {
