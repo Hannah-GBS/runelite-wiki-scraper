@@ -126,7 +126,7 @@ def bucket_category_production(category_name: str) -> List[dict]:
     for res in get_wiki_bucket_api(
             f'bucket("recipe").select("production_json","page_name").where({{"Category:{category_name}"}},{{"source_template",'
             f'"recipe"}})',
-            "page_name"):
+            "production_json"):
 
         for item in res["bucket"]:
             items.append(json.loads(str(item["production_json"])))

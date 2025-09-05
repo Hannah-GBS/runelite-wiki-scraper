@@ -32,7 +32,7 @@ def get_production():
             recipe["output"]["version"] = recipe["output"]["name"].split("#")[1]
             recipe["output"]["name"] = recipe["output"]["name"].split("#")[0]
 
-    sorted_production = sorted(item_production, key=lambda x: x["output"]["name"])
+    sorted_production = sorted(item_production, key=lambda x: (x["output"]["name"], x["materials"][0]["name"]))
 
     with open(output_dir + name, "w+") as fi:
         json.dump(sorted_production, fi, indent=2, sort_keys=True)
@@ -328,7 +328,7 @@ def get_item_info():
             print("Item {} failed:".format(name))
             traceback.print_exc()
 
-    sorted_info = sorted(item_info, key=itemgetter("itemID"))
+    sorted_info = sorted(item_info, key=itemgetter("itemID", "group"))
 
     with open(output_dir + file_name, "w+") as fi:
         json.dump(sorted_info, fi, indent=2, sort_keys=True)
