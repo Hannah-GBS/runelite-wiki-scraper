@@ -798,6 +798,14 @@
     "group": "Blue dragon scale",
     "spawns": [
       {
+        "coords": "1236,9497",
+        "isMembers": true,
+        "location": "Dragon Nest",
+        "mapID": "-1",
+        "name": "Blue dragon scale",
+        "plane": "0"
+      },
+      {
         "coords": "2135,9306",
         "isMembers": true,
         "location": "Isle of Souls Dungeon",
