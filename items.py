@@ -283,7 +283,9 @@ def get_item_info():
             code = mw.parse(page, skip_style_tags=True)
 
             gone = code.filter_templates(matches=lambda t: t.name.matches("Gone"))
-            if len(gone) > 0:
+            cache_template = code.filter_templates(matches=lambda t: t.name.matches("Cache"))
+            interface_template = code.filter_templates(matches=lambda t: t.name.matches("Interface items"))
+            if (len(gone) + len(cache_template) + len(interface_template)) > 0:
                 continue
 
             versions = {}
