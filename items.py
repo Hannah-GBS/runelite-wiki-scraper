@@ -112,7 +112,7 @@ def get_shop_items():
                         map_id = str(map_params["mapID"])
 
             raw_page_stores: List[Template] = code.filter_templates(
-                matches=lambda t: t.name.matches("StoreTableHead") or t.name.matches("StoreLine"))
+                matches=lambda t: t.name.matches("StoreTableHead") or t.name.matches("StoreLine") or t.name.matches("Tzhaar shop row"))
             page_stores = []
             current_store_table = []
             for index, item in enumerate(raw_page_stores):
