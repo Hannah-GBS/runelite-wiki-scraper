@@ -6202,7 +6202,7 @@
       {
         "currency": "Coins",
         "name": "Mithril warhammer",
-        "stock": "4",
+        "stock": "3",
         "version": null
       },
       {
@@ -26572,6 +26572,78 @@
     ],
     "location": "Auburnvale",
     "mapID": "0",
+    "name": "Lunami",
+    "plane": "0",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "550",
+    "coords": "1402,3342",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Adamant axe",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Adamant battleaxe",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze axe",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze battleaxe",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron axe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron battleaxe",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril axe",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mithril battleaxe",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel axe",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel battleaxe",
+        "stock": "2",
+        "version": null
+      }
+    ],
+    "location": "Auburnvale",
+    "mapID": "0",
     "name": "Lunami's Axe Shop",
     "plane": "0",
     "sellMultiplier": "1000"
@@ -39112,7 +39184,104 @@
     "buyMultiplier": "150",
     "coords": "2465,5149",
     "isMembers": true,
-    "items": [],
+    "items": [
+      {
+        "currency": "Tokkul",
+        "name": "Adamantite ore",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Coal",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Copper ore",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Gold ore",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Iron ore",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Mithril ore",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Onyx bolt tips",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Runite ore",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Silver ore",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tin ore",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut diamond",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut dragonstone",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut emerald",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut onyx",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut ruby",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut sapphire",
+        "stock": "1",
+        "version": null
+      }
+    ],
     "location": "Mor Ul Rek",
     "mapID": "23",
     "name": "TzHaar-Hur-Lek's Ore and Gem Store",
@@ -39123,7 +39292,104 @@
     "buyMultiplier": "350",
     "coords": "2465,5149",
     "isMembers": true,
-    "items": [],
+    "items": [
+      {
+        "currency": "Tokkul",
+        "name": "Adamantite ore",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Coal",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Copper ore",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Gold ore",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Iron ore",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Mithril ore",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Onyx bolt tips",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Runite ore",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Silver ore",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tin ore",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut diamond",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut dragonstone",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut emerald",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut onyx",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut ruby",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut sapphire",
+        "stock": "1",
+        "version": null
+      }
+    ],
     "location": "Mor Ul Rek",
     "mapID": "23",
     "name": "TzHaar-Hur-Lek's Ore and Gem Store (Karamja gloves)",
@@ -39134,7 +39400,104 @@
     "buyMultiplier": "150",
     "coords": "2524,5075",
     "isMembers": true,
-    "items": [],
+    "items": [
+      {
+        "currency": "Tokkul",
+        "name": "Adamantite ore",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Coal",
+        "stock": "20",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Copper ore",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Gold ore",
+        "stock": "12",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Iron ore",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Mithril ore",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Onyx bolt tips",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Runite ore",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Silver ore",
+        "stock": "12",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tin ore",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut diamond",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut dragonstone",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut emerald",
+        "stock": "12",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut onyx",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut ruby",
+        "stock": "8",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut sapphire",
+        "stock": "16",
+        "version": null
+      }
+    ],
     "location": "Mor Ul Rek",
     "mapID": "23",
     "name": "TzHaar-Hur-Rin's Ore and Gem Store",
@@ -39145,7 +39508,104 @@
     "buyMultiplier": "150",
     "coords": "2524,5075",
     "isMembers": true,
-    "items": [],
+    "items": [
+      {
+        "currency": "Tokkul",
+        "name": "Adamantite ore",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Coal",
+        "stock": "20",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Copper ore",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Gold ore",
+        "stock": "12",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Iron ore",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Mithril ore",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Onyx bolt tips",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Runite ore",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Silver ore",
+        "stock": "12",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tin ore",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut diamond",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut dragonstone",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut emerald",
+        "stock": "7",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut onyx",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut ruby",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut sapphire",
+        "stock": "10",
+        "version": null
+      }
+    ],
     "location": "Mor Ul Rek",
     "mapID": "23",
     "name": "TzHaar-Hur-Rin's Ore and Gem Store (Ironman)",
@@ -39156,7 +39616,104 @@
     "buyMultiplier": "350",
     "coords": "2524,5075",
     "isMembers": true,
-    "items": [],
+    "items": [
+      {
+        "currency": "Tokkul",
+        "name": "Adamantite ore",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Coal",
+        "stock": "20",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Copper ore",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Gold ore",
+        "stock": "12",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Iron ore",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Mithril ore",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Onyx bolt tips",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Runite ore",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Silver ore",
+        "stock": "12",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tin ore",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut diamond",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut dragonstone",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut emerald",
+        "stock": "12",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut onyx",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut ruby",
+        "stock": "8",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut sapphire",
+        "stock": "16",
+        "version": null
+      }
+    ],
     "location": "Mor Ul Rek",
     "mapID": "23",
     "name": "TzHaar-Hur-Rin's Ore and Gem Store (Karamja gloves)",
@@ -39167,7 +39724,104 @@
     "buyMultiplier": "350",
     "coords": "2524,5075",
     "isMembers": true,
-    "items": [],
+    "items": [
+      {
+        "currency": "Tokkul",
+        "name": "Adamantite ore",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Coal",
+        "stock": "20",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Copper ore",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Gold ore",
+        "stock": "12",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Iron ore",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Mithril ore",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Onyx bolt tips",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Runite ore",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Silver ore",
+        "stock": "12",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tin ore",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut diamond",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut dragonstone",
+        "stock": "0",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut emerald",
+        "stock": "12",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut onyx",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut ruby",
+        "stock": "8",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Uncut sapphire",
+        "stock": "16",
+        "version": null
+      }
+    ],
     "location": "Mor Ul Rek",
     "mapID": "23",
     "name": "TzHaar-Hur-Rin's Ore and Gem Store (Karamja gloves, Ironman)",
@@ -39178,7 +39832,56 @@
     "buyMultiplier": "150",
     "coords": "2478,5147",
     "isMembers": true,
-    "items": [],
+    "items": [
+      {
+        "currency": "Tokkul",
+        "name": "Obsidian cape",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-ket-xil",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-mej-tal",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ak",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ek",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ul",
+        "stock": "500",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tzhaar-ket-em",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tzhaar-ket-om",
+        "stock": "1",
+        "version": null
+      }
+    ],
     "location": "Mor Ul Rek",
     "mapID": "23",
     "name": "TzHaar-Hur-Tel's Equipment Store",
@@ -39189,7 +39892,56 @@
     "buyMultiplier": "350",
     "coords": "2478,5147",
     "isMembers": true,
-    "items": [],
+    "items": [
+      {
+        "currency": "Tokkul",
+        "name": "Obsidian cape",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-ket-xil",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-mej-tal",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ak",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ek",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ul",
+        "stock": "500",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tzhaar-ket-em",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tzhaar-ket-om",
+        "stock": "1",
+        "version": null
+      }
+    ],
     "location": "Mor Ul Rek",
     "mapID": "23",
     "name": "TzHaar-Hur-Tel's Equipment Store (Karamja gloves)",
@@ -39200,7 +39952,74 @@
     "buyMultiplier": "150",
     "coords": "2491,5071",
     "isMembers": true,
-    "items": [],
+    "items": [
+      {
+        "currency": "Tokkul",
+        "name": "Obsidian cape",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Obsidian helmet",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Obsidian platebody",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Obsidian platelegs",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-ket-xil",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-mej-tal",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ak",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ek",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ul",
+        "stock": "500",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tzhaar-ket-em",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tzhaar-ket-om",
+        "stock": "1",
+        "version": null
+      }
+    ],
     "location": "Mor Ul Rek",
     "mapID": "23",
     "name": "TzHaar-Hur-Zal's Equipment Store",
@@ -39211,7 +40030,74 @@
     "buyMultiplier": "350",
     "coords": "2491,5071",
     "isMembers": true,
-    "items": [],
+    "items": [
+      {
+        "currency": "Tokkul",
+        "name": "Obsidian cape",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Obsidian helmet",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Obsidian platebody",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Obsidian platelegs",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-ket-xil",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-mej-tal",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ak",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ek",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Toktz-xil-ul",
+        "stock": "500",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tzhaar-ket-em",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Tzhaar-ket-om",
+        "stock": "1",
+        "version": null
+      }
+    ],
     "location": "Mor Ul Rek",
     "mapID": "23",
     "name": "TzHaar-Hur-Zal's Equipment Store (Karamja gloves)",
@@ -39223,6 +40109,48 @@
     "coords": "2462,5125",
     "isMembers": true,
     "items": [
+      {
+        "currency": "Tokkul",
+        "name": "Air rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Body rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Chaos rune",
+        "stock": "2500",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Death rune",
+        "stock": "2500",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Earth rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Fire rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Mind rune",
+        "stock": "5000",
+        "version": null
+      },
       {
         "currency": "Tokkul",
         "name": "Tzhaar air rune pack",
@@ -39245,6 +40173,12 @@
         "currency": "Tokkul",
         "name": "Tzhaar water rune pack",
         "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Water rune",
+        "stock": "5000",
         "version": null
       }
     ],
@@ -39261,6 +40195,48 @@
     "items": [
       {
         "currency": "Tokkul",
+        "name": "Air rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Body rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Chaos rune",
+        "stock": "2500",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Death rune",
+        "stock": "2500",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Earth rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Fire rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Mind rune",
+        "stock": "5000",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
         "name": "Tzhaar air rune pack",
         "stock": "50",
         "version": null
@@ -39281,6 +40257,12 @@
         "currency": "Tokkul",
         "name": "Tzhaar water rune pack",
         "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Tokkul",
+        "name": "Water rune",
+        "stock": "5000",
         "version": null
       }
     ],
