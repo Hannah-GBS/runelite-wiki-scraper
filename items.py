@@ -137,6 +137,9 @@ def get_shop_items():
                 if "smw" in store_table_data:
                     if store_table_data["smw"].lower() == "no":
                         continue
+                if "bucket" in store_table_data:
+                    if store_table_data["bucket"].lower() == "no":
+                        continue
 
                 for store_line in page_store:
                     if store_line.name == "StoreTableHead":
@@ -148,11 +151,16 @@ def get_shop_items():
                     if "smw" in store_line_data:
                         if store_line_data["smw"].lower() == "no":
                             continue
+                    if "bucket" in store_line_data:
+                        if store_line_data["bucket"].lower() == "no":
+                            continue
 
                     version = ""
 
                     if "smwname" in store_line_data and "#" in store_line_data["smwname"]:
                         version = store_line_data["smwname"].split("#")[1]
+                    if "bucketname" in store_line_data and "#" in store_line_data["bucketname"]:
+                        version = store_line_data["bucketname"].split("#")[1]
 
                     shop_item = {
                         "name": store_line_data["name"],
