@@ -7566,6 +7566,19 @@
     ]
   },
   {
+    "group": "Orange",
+    "spawns": [
+      {
+        "coords": "1417,3065",
+        "isMembers": true,
+        "location": "Varlamore - Kastori",
+        "mapID": "0",
+        "name": "Orange",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Orange dye",
     "spawns": [
       {

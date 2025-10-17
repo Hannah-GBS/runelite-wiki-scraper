@@ -14794,6 +14794,96 @@
     "sellMultiplier": "1300"
   },
   {
+    "coords": "3209,3435",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "event points",
+        "name": "Grid master altar icon scroll",
+        "sellPrice": "6500",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "event points",
+        "name": "Grid master tabard",
+        "sellPrice": "1000",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "event points",
+        "name": "Grid master tabard (b)",
+        "sellPrice": "1000",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "event points",
+        "name": "Grid master tabard (g)",
+        "sellPrice": "1000",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "event points",
+        "name": "Grid master tabard (p)",
+        "sellPrice": "1000",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "event points",
+        "name": "Grid master torch scroll",
+        "sellPrice": "6500",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "event points",
+        "name": "Swords and emblem",
+        "sellPrice": "1250",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "event points",
+        "name": "Swords and emblem (b)",
+        "sellPrice": "1250",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "event points",
+        "name": "Swords and emblem (g)",
+        "sellPrice": "1250",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "event points",
+        "name": "Swords and emblem (p)",
+        "sellPrice": "1250",
+        "stock": "\u221e",
+        "version": null
+      }
+    ],
+    "location": "Varrock Square",
+    "mapID": "0",
+    "name": "Events Reward Shop",
+    "plane": "0"
+  },
+  {
     "buyMultiplier": "600",
     "coords": "2413,4434",
     "isMembers": true,
