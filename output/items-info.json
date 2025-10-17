@@ -87261,16 +87261,6 @@
   },
   {
     "examineText": "",
-    "group": "Clue scroll (beginner) - AN EARL",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_AN_EARL",
-    "version": null
-  },
-  {
-    "examineText": "",
     "group": "Clue scroll (beginner) - Always walking around the castle grounds",
     "isMembers": false,
     "isTradeable": false,
@@ -87387,16 +87377,6 @@
     "itemID": 23182,
     "name": "Clue scroll (beginner)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_Panic_at_Al_Kharid_mine",
-    "version": null
-  },
-  {
-    "examineText": "",
-    "group": "Clue scroll (beginner) - RUG DETER",
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 23182,
-    "name": "Clue scroll (beginner)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_(beginner)_-_RUG_DETER",
     "version": null
   },
   {
@@ -95920,6 +95900,46 @@
     "version": null
   },
   {
+    "examineText": "A squishy mushroom from a fairy ring.",
+    "group": "Fairy mushroom",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 25102,
+    "name": "Fairy mushroom",
+    "url": "https://oldschool.runescape.wiki/w/Fairy_mushroom",
+    "version": null
+  },
+  {
+    "examineText": "A very powerful axe, echoing with power from the past.",
+    "group": "Echo axe",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 25110,
+    "name": "Echo axe",
+    "url": "https://oldschool.runescape.wiki/w/Echo_axe",
+    "version": null
+  },
+  {
+    "examineText": "A very powerful pickaxe, echoing with power from the past.",
+    "group": "Echo pickaxe",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 25112,
+    "name": "Echo pickaxe",
+    "url": "https://oldschool.runescape.wiki/w/Echo_pickaxe",
+    "version": null
+  },
+  {
+    "examineText": "A very powerful harpoon, echoing with power from the past.",
+    "group": "Echo harpoon",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 25114,
+    "name": "Echo harpoon",
+    "url": "https://oldschool.runescape.wiki/w/Echo_harpoon",
+    "version": null
+  },
+  {
     "examineText": "Special tomato to do league things.",
     "group": "League tomato",
     "isMembers": false,
@@ -101520,6 +101540,26 @@
     "version": null
   },
   {
+    "examineText": "A powerful bow imbued with the fury of an ancient god.",
+    "group": "Zaryte bow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26237,
+    "name": "Zaryte bow (uncharged)",
+    "url": "https://oldschool.runescape.wiki/w/Zaryte_bow",
+    "version": "Uncharged"
+  },
+  {
+    "examineText": "A powerful bow imbued with the fury of an ancient god.",
+    "group": "Zaryte bow",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26239,
+    "name": "Zaryte bow",
+    "url": "https://oldschool.runescape.wiki/w/Zaryte_bow",
+    "version": "Charged"
+  },
+  {
     "examineText": "An ancient mage's mask.",
     "group": "Virtus mask",
     "isMembers": true,
@@ -102487,6 +102527,16 @@
     "itemID": 26541,
     "name": "Shattered relics mystic ornament kit",
     "url": "https://oldschool.runescape.wiki/w/Shattered_relics_mystic_ornament_kit",
+    "version": null
+  },
+  {
+    "examineText": "A powerful tome filled with the knowledge of the magical arts.",
+    "group": "Arcane grimoire",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26551,
+    "name": "Arcane grimoire",
+    "url": "https://oldschool.runescape.wiki/w/Arcane_grimoire",
     "version": null
   },
   {
@@ -113810,6 +113860,16 @@
     "version": null
   },
   {
+    "examineText": "Greaves that give you blazing speed.",
+    "group": "Sage's greaves",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28771,
+    "name": "Sage's greaves",
+    "url": "https://oldschool.runescape.wiki/w/Sage%27s_greaves",
+    "version": null
+  },
+  {
     "examineText": "A set containing Trailblazer Reloaded boots (t1), Trailblazer Reloaded trousers (t1), Trailblazer Reloaded top (t1) and Trailblazer Reloaded hood (t1).",
     "group": "Trailblazer reloaded relic hunter (t1) armour set",
     "isMembers": true,
@@ -120840,6 +120900,126 @@
     "version": "Trailblazer Reloaded"
   },
   {
+    "examineText": "Allows travel to all banks around Gileinor.",
+    "group": "Banker's briefcase",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30361,
+    "name": "Banker's briefcase",
+    "url": "https://oldschool.runescape.wiki/w/Banker%27s_briefcase",
+    "version": null
+  },
+  {
+    "examineText": "Is this the true god sword? Or simply a joke replica?",
+    "group": "The dogsword",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30367,
+    "name": "The dogsword",
+    "url": "https://oldschool.runescape.wiki/w/The_dogsword",
+    "version": null
+  },
+  {
+    "examineText": "A weapon from a being that truly worships gods.",
+    "group": "Sunlight spear",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30369,
+    "name": "Sunlight spear",
+    "url": "https://oldschool.runescape.wiki/w/Sunlight_spear",
+    "version": null
+  },
+  {
+    "examineText": "An item from a true devil that tunes into the elements of the world to let you re-conceptualise what weakness even means.",
+    "group": "Devil's element",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30371,
+    "name": "Devil's element",
+    "url": "https://oldschool.runescape.wiki/w/Devil%27s_element",
+    "version": null
+  },
+  {
+    "examineText": "Fires darts with utmost precision.",
+    "group": "Drygore blowpipe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30373,
+    "name": "Drygore blowpipe (empty)",
+    "url": "https://oldschool.runescape.wiki/w/Drygore_blowpipe",
+    "version": "Empty"
+  },
+  {
+    "examineText": "Fires darts with utmost precision.",
+    "group": "Drygore blowpipe",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30374,
+    "name": "Drygore blowpipe",
+    "url": "https://oldschool.runescape.wiki/w/Drygore_blowpipe",
+    "version": "Charged"
+  },
+  {
+    "examineText": "An amulet that originated from the one true monarch of the northern province.",
+    "group": "Amulet of the monarchs",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30376,
+    "name": "Amulet of the monarchs",
+    "url": "https://oldschool.runescape.wiki/w/Amulet_of_the_monarchs",
+    "version": null
+  },
+  {
+    "examineText": "A ring only worn by true kings.",
+    "group": "Emperor ring",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30378,
+    "name": "Emperor ring",
+    "url": "https://oldschool.runescape.wiki/w/Emperor_ring",
+    "version": null
+  },
+  {
+    "examineText": "Gloves that bring down the composure of any living being nearby.",
+    "group": "Gloves of the damned",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30380,
+    "name": "Gloves of the damned",
+    "url": "https://oldschool.runescape.wiki/w/Gloves_of_the_damned",
+    "version": null
+  },
+  {
+    "examineText": "A shield that has had over a thousand unique dragons encase it in flame.",
+    "group": "Thousand-dragon ward",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30382,
+    "name": "Thousand-dragon ward",
+    "url": "https://oldschool.runescape.wiki/w/Thousand-dragon_ward",
+    "version": null
+  },
+  {
+    "examineText": "Two bracers that provide a divine connection to the Sun God.",
+    "group": "Sunlit bracers",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30386,
+    "name": "Sunlit bracers",
+    "url": "https://oldschool.runescape.wiki/w/Sunlit_bracers",
+    "version": null
+  },
+  {
+    "examineText": "A powerful Khopesh, imbued with the power of thunder and lightning.",
+    "group": "Thunder khopesh",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30388,
+    "name": "Thunder khopesh",
+    "url": "https://oldschool.runescape.wiki/w/Thunder_khopesh",
+    "version": null
+  },
+  {
     "examineText": "The headgear of a Raging Echoes relic hunter.",
     "group": "Raging echoes hat (t1)",
     "isMembers": true,
@@ -123737,6 +123917,216 @@
     "itemID": 31169,
     "name": "Hueycoatl hide armour set",
     "url": "https://oldschool.runescape.wiki/w/Hueycoatl_hide_armour_set",
+    "version": null
+  },
+  {
+    "examineText": "You gotta fight for your right to party!",
+    "group": "Battlehat",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31172,
+    "name": "Battlehat",
+    "url": "https://oldschool.runescape.wiki/w/Battlehat",
+    "version": null
+  },
+  {
+    "examineText": "No matter how much I consume, there always seems to be more!",
+    "group": "Corrupted shark",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31174,
+    "name": "Corrupted shark",
+    "url": "https://oldschool.runescape.wiki/w/Corrupted_shark",
+    "version": null
+  },
+  {
+    "examineText": "A symbol of grid mastery",
+    "group": "Grid master tabard",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31187,
+    "name": "Grid master tabard",
+    "url": "https://oldschool.runescape.wiki/w/Grid_master_tabard",
+    "version": "Default"
+  },
+  {
+    "examineText": "Sadly, the blades are only decorative",
+    "group": "Swords and emblem",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31193,
+    "name": "Swords and emblem",
+    "url": "https://oldschool.runescape.wiki/w/Swords_and_emblem",
+    "version": "Default"
+  },
+  {
+    "examineText": "Sadly, the blades are only decorative",
+    "group": "Swords and emblem",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31196,
+    "name": "Swords and emblem (b)",
+    "url": "https://oldschool.runescape.wiki/w/Swords_and_emblem",
+    "version": "Black"
+  },
+  {
+    "examineText": "Sadly, the blades are only decorative",
+    "group": "Swords and emblem",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31199,
+    "name": "Swords and emblem (g)",
+    "url": "https://oldschool.runescape.wiki/w/Swords_and_emblem",
+    "version": "Green"
+  },
+  {
+    "examineText": "Sadly, the blades are only decorative",
+    "group": "Swords and emblem",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31202,
+    "name": "Swords and emblem (p)",
+    "url": "https://oldschool.runescape.wiki/w/Swords_and_emblem",
+    "version": "Pink"
+  },
+  {
+    "examineText": "Used to construct an icon to the iconic entrance into the world of Gielinor inside your Player owned house.",
+    "group": "Grid master altar icon scroll",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31205,
+    "name": "Grid master altar icon scroll",
+    "url": "https://oldschool.runescape.wiki/w/Grid_master_altar_icon_scroll",
+    "version": null
+  },
+  {
+    "examineText": "Used on a marble incense burner inside your Player owned house to change them to the Flames of Lloigh-enn.",
+    "group": "Grid master torch scroll",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31208,
+    "name": "Grid master torch scroll",
+    "url": "https://oldschool.runescape.wiki/w/Grid_master_torch_scroll",
+    "version": null
+  },
+  {
+    "examineText": "Wonder what happens if I rub it...",
+    "group": "Event lamp",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31211,
+    "name": "Event lamp",
+    "url": "https://oldschool.runescape.wiki/w/Event_lamp",
+    "version": null
+  },
+  {
+    "examineText": "Use this to select three combat skills bond to together, and share gained experience points.",
+    "group": "Combatant scroll",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31212,
+    "name": "Combatant scroll",
+    "url": "https://oldschool.runescape.wiki/w/Combatant_scroll",
+    "version": null
+  },
+  {
+    "examineText": "Use this to select three Artisan skills to bond together, and share gained experience points.",
+    "group": "Craftsman scroll",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31214,
+    "name": "Craftsman scroll",
+    "url": "https://oldschool.runescape.wiki/w/Craftsman_scroll",
+    "version": null
+  },
+  {
+    "examineText": "Use this to select three gathering or support skills to bond together, and share gained experience points.",
+    "group": "Gatherer scroll",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31216,
+    "name": "Gatherer scroll",
+    "url": "https://oldschool.runescape.wiki/w/Gatherer_scroll",
+    "version": null
+  },
+  {
+    "examineText": "What a... lovely... painting.",
+    "group": "Spooky picture (2025 Halloween event)",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31222,
+    "name": "Spooky picture",
+    "url": "https://oldschool.runescape.wiki/w/Spooky_picture_(2025_Halloween_event)",
+    "version": null
+  },
+  {
+    "examineText": "Death just calls it a wall lamp.",
+    "group": "Spooky wall lamp",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31223,
+    "name": "Spooky wall lamp",
+    "url": "https://oldschool.runescape.wiki/w/Spooky_wall_lamp",
+    "version": null
+  },
+  {
+    "examineText": "If I were a crow, I'd be scared.",
+    "group": "Spooky scarecrow",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31224,
+    "name": "Spooky scarecrow",
+    "url": "https://oldschool.runescape.wiki/w/Spooky_scarecrow",
+    "version": null
+  },
+  {
+    "examineText": "It is indeed a very spooky chair.",
+    "group": "Spooky chair",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31225,
+    "name": "Spooky chair",
+    "url": "https://oldschool.runescape.wiki/w/Spooky_chair",
+    "version": null
+  },
+  {
+    "examineText": "They call him Jack.",
+    "group": "Spooky pumpkin lantern",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31227,
+    "name": "Spooky pumpkin lantern",
+    "url": "https://oldschool.runescape.wiki/w/Spooky_pumpkin_lantern",
+    "version": null
+  },
+  {
+    "examineText": "It's spooky time.",
+    "group": "Grim reaper top",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31229,
+    "name": "Grim reaper top",
+    "url": "https://oldschool.runescape.wiki/w/Grim_reaper_top",
+    "version": null
+  },
+  {
+    "examineText": "I hope my legs don't stay like that.",
+    "group": "Grim reaper bottoms",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31231,
+    "name": "Grim reaper bottoms",
+    "url": "https://oldschool.runescape.wiki/w/Grim_reaper_bottoms",
+    "version": null
+  },
+  {
+    "examineText": "My hands feel colder than they did before.",
+    "group": "Grim reaper gloves",
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 31233,
+    "name": "Grim reaper gloves",
+    "url": "https://oldschool.runescape.wiki/w/Grim_reaper_gloves",
     "version": null
   }
 ]
