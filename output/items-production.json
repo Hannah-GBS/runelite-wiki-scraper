@@ -3953,7 +3953,7 @@
       "image": "[[File:Air rune.png|class=inventory-image|link=Air rune]]",
       "name": "Air rune",
       "quantity": "256",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 250 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 250 runes from the extract."
     },
     "skills": [
       {
@@ -6793,37 +6793,6 @@
       }
     ],
     "ticks": "2"
-  },
-  {
-    "materials": [
-      {
-        "name": "Vial of water",
-        "quantity": "1"
-      },
-      {
-        "name": "Umbral coral",
-        "quantity": "1"
-      },
-      {
-        "name": "Rainbow crab paste",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Armadyl brew(3).png|class=inventory-image|link=Armadyl brew(3)]]",
-      "name": "Armadyl brew(3)",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "?",
-        "level": "89",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": ""
   },
   {
     "materials": [
@@ -11800,7 +11769,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">131,555,831</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">132,989,940</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14497,7 +14466,7 @@
       "image": "[[File:Blood rune.png|class=inventory-image|link=Blood rune]]",
       "name": "Blood rune",
       "quantity": "61",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 60 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 60 runes from the extract."
     },
     "skills": [
       {
@@ -14574,7 +14543,7 @@
       "image": "[[File:Blood rune.png|class=inventory-image|link=Blood rune]]",
       "name": "Blood rune",
       "quantity": "61",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 60 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 60 runes from the extract."
     },
     "skills": [
       {
@@ -15945,7 +15914,7 @@
       "image": "[[File:Body rune.png|class=inventory-image|link=Body rune]]",
       "name": "Body rune",
       "quantity": "252",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 250 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 250 runes from the extract."
     },
     "skills": [
       {
@@ -16811,7 +16780,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">131,363,284</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">134,079,936</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -26922,7 +26891,7 @@
       "image": "[[File:Cosmic rune.png|class=inventory-image|link=Cosmic rune]]",
       "name": "Cosmic rune",
       "quantity": "62",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 60 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 60 runes from the extract."
     },
     "skills": [
       {
@@ -39723,7 +39692,7 @@
       "image": "[[File:Earth rune.png|class=inventory-image|link=Earth rune]]",
       "name": "Earth rune",
       "quantity": "253",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 250 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 250 runes from the extract."
     },
     "skills": [
       {
@@ -43340,7 +43309,7 @@
       "image": "[[File:Fire rune.png|class=inventory-image|link=Fire rune]]",
       "name": "Fire rune",
       "quantity": "252",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 250 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 250 runes from the extract."
     },
     "skills": [
       {
@@ -45040,31 +45009,6 @@
       }
     ],
     "ticks": "4"
-  },
-  {
-    "facilities": "Polishing wheel",
-    "materials": [
-      {
-        "name": "Tarnished rapier",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Gleaming rapier.png|class=inventory-image|link=Gleaming rapier]]",
-      "name": "Gleaming rapier",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "?",
-        "level": "70",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "",
-    "tools": ""
   },
   {
     "facilities": "Fancy Clothes Store",
@@ -55857,90 +55801,6 @@
     "tools": "Knife"
   },
   {
-    "materials": [
-      {
-        "name": "Larch logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "1400"
-      },
-      {
-        "name": "Nature rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Astral rune",
-        "quantity": "2"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "15"
-      },
-      {
-        "name": "Sawmill voucher",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Larch plank.png|class=inventory-image|link=Larch plank]]",
-      "name": "Larch plank",
-      "quantity": "2",
-      "subtxt": "Plank Make"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "90",
-        "level": "86",
-        "name": "Magic"
-      }
-    ],
-    "ticks": "5"
-  },
-  {
-    "materials": [
-      {
-        "name": "Larch logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "1400"
-      },
-      {
-        "name": "Nature rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Astral rune",
-        "quantity": "2"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "15"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Larch plank.png|class=inventory-image|link=Larch plank]]",
-      "name": "Larch plank",
-      "quantity": "1",
-      "subtxt": "Plank Make"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "90",
-        "level": "86",
-        "name": "Magic"
-      }
-    ],
-    "ticks": "5"
-  },
-  {
     "facilities": "Mycelium pool",
     "materials": [
       {
@@ -61589,7 +61449,7 @@
       "image": "[[File:Mind rune.png|class=inventory-image|link=Mind rune]]",
       "name": "Mind rune",
       "quantity": "255",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 250 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 250 runes from the extract."
     },
     "skills": [
       {
@@ -77815,90 +77675,6 @@
     "tools": "Knife"
   },
   {
-    "materials": [
-      {
-        "name": "Rosewood logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "1400"
-      },
-      {
-        "name": "Nature rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Astral rune",
-        "quantity": "2"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "15"
-      },
-      {
-        "name": "Sawmill voucher",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Rosewood plank.png|class=inventory-image|link=Rosewood plank]]",
-      "name": "Rosewood plank",
-      "quantity": "2",
-      "subtxt": "Plank Make"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "90",
-        "level": "86",
-        "name": "Magic"
-      }
-    ],
-    "ticks": "5"
-  },
-  {
-    "materials": [
-      {
-        "name": "Rosewood logs",
-        "quantity": "1"
-      },
-      {
-        "name": "Coins",
-        "quantity": "1400"
-      },
-      {
-        "name": "Nature rune",
-        "quantity": "1"
-      },
-      {
-        "name": "Astral rune",
-        "quantity": "2"
-      },
-      {
-        "name": "Earth rune",
-        "quantity": "15"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Rosewood plank.png|class=inventory-image|link=Rosewood plank]]",
-      "name": "Rosewood plank",
-      "quantity": "1",
-      "subtxt": "Plank Make"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "90",
-        "level": "86",
-        "name": "Magic"
-      }
-    ],
-    "ticks": "5"
-  },
-  {
     "facilities": "Big Compost Bin",
     "materials": [
       {
@@ -77947,31 +77723,6 @@
       }
     ],
     "ticks": "60"
-  },
-  {
-    "materials": [
-      {
-        "name": "Rubium geode",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Rubium splinter.png|class=inventory-image|link=Rubium splinter]]",
-      "name": "Rubium splinter",
-      "quantity": "1",
-      "quantitynote": "Output quantity varies with Mining level."
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "?",
-        "level": "?",
-        "name": "Mining"
-      }
-    ],
-    "ticks": "",
-    "tools": "Hammer"
   },
   {
     "materials": [
@@ -88312,7 +88063,7 @@
       "image": "[[File:Soul rune.png|class=inventory-image|link=Soul rune]]",
       "name": "Soul rune",
       "quantity": "61",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 60 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 60 runes from the extract."
     },
     "skills": [
       {
@@ -94140,7 +93891,7 @@
       "image": "[[File:Sunfire rune.png|class=inventory-image|link=Sunfire rune]]",
       "name": "Sunfire rune",
       "quantity": "62",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 60 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 60 runes from the extract."
     },
     "skills": [
       {
@@ -100969,7 +100720,7 @@
       "image": "[[File:Water rune.png|class=inventory-image|link=Water rune]]",
       "name": "Water rune",
       "quantity": "254",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 250 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 250 runes from the extract."
     },
     "skills": [
       {
@@ -102691,7 +102442,7 @@
       "image": "[[File:Wrath rune.png|class=inventory-image|link=Wrath rune]]",
       "name": "Wrath rune",
       "quantity": "61",
-      "quantitynote": "[[Raiments of the Eye]] will not stack with the additional 60 runes from the extract."
+      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 60 runes from the extract."
     },
     "skills": [
       {
