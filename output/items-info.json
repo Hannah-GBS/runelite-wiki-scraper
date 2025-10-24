@@ -95910,6 +95910,16 @@
     "version": null
   },
   {
+    "examineText": "A strong enough memory can take you back to a familiar place.",
+    "group": "Crystal of echoes",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 25104,
+    "name": "Crystal of echoes",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_of_echoes",
+    "version": null
+  },
+  {
     "examineText": "A very powerful axe, echoing with power from the past.",
     "group": "Echo axe",
     "isMembers": false,
@@ -113860,9 +113870,19 @@
     "version": null
   },
   {
+    "examineText": "A magical note that fell out of a banker's pocket.",
+    "group": "Banker's note (item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28767,
+    "name": "Banker's note",
+    "url": "https://oldschool.runescape.wiki/w/Banker%27s_note_(item)",
+    "version": null
+  },
+  {
     "examineText": "Greaves that give you blazing speed.",
     "group": "Sage's greaves",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 28771,
     "name": "Sage's greaves",
@@ -120900,6 +120920,16 @@
     "version": "Trailblazer Reloaded"
   },
   {
+    "examineText": "A perfect pouch for foraging herbs.",
+    "group": "Forager's pouch",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 30357,
+    "name": "Forager's pouch",
+    "url": "https://oldschool.runescape.wiki/w/Forager%27s_pouch",
+    "version": null
+  },
+  {
     "examineText": "Allows travel to all banks around Gileinor.",
     "group": "Banker's briefcase",
     "isMembers": true,
@@ -123944,10 +123974,40 @@
     "group": "Grid master tabard",
     "isMembers": true,
     "isTradeable": true,
-    "itemID": 31187,
+    "itemID": 31181,
     "name": "Grid master tabard",
     "url": "https://oldschool.runescape.wiki/w/Grid_master_tabard",
-    "version": "Default"
+    "version": null
+  },
+  {
+    "examineText": "A symbol of grid mastery",
+    "group": "Grid master tabard (b)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31184,
+    "name": "Grid master tabard (b)",
+    "url": "https://oldschool.runescape.wiki/w/Grid_master_tabard_(b)",
+    "version": null
+  },
+  {
+    "examineText": "A symbol of grid mastery",
+    "group": "Grid master tabard (p)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31187,
+    "name": "Grid master tabard (p)",
+    "url": "https://oldschool.runescape.wiki/w/Grid_master_tabard_(p)",
+    "version": null
+  },
+  {
+    "examineText": "A symbol of grid mastery",
+    "group": "Grid master tabard (g)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 31190,
+    "name": "Grid master tabard (g)",
+    "url": "https://oldschool.runescape.wiki/w/Grid_master_tabard_(g)",
+    "version": null
   },
   {
     "examineText": "Sadly, the blades are only decorative",
@@ -123957,37 +124017,37 @@
     "itemID": 31193,
     "name": "Swords and emblem",
     "url": "https://oldschool.runescape.wiki/w/Swords_and_emblem",
-    "version": "Default"
+    "version": null
   },
   {
     "examineText": "Sadly, the blades are only decorative",
-    "group": "Swords and emblem",
+    "group": "Swords and emblem (b)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 31196,
     "name": "Swords and emblem (b)",
-    "url": "https://oldschool.runescape.wiki/w/Swords_and_emblem",
-    "version": "Black"
+    "url": "https://oldschool.runescape.wiki/w/Swords_and_emblem_(b)",
+    "version": null
   },
   {
     "examineText": "Sadly, the blades are only decorative",
-    "group": "Swords and emblem",
+    "group": "Swords and emblem (p)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 31199,
-    "name": "Swords and emblem (g)",
-    "url": "https://oldschool.runescape.wiki/w/Swords_and_emblem",
-    "version": "Green"
+    "name": "Swords and emblem (p)",
+    "url": "https://oldschool.runescape.wiki/w/Swords_and_emblem_(p)",
+    "version": null
   },
   {
     "examineText": "Sadly, the blades are only decorative",
-    "group": "Swords and emblem",
+    "group": "Swords and emblem (g)",
     "isMembers": true,
     "isTradeable": true,
     "itemID": 31202,
-    "name": "Swords and emblem (p)",
-    "url": "https://oldschool.runescape.wiki/w/Swords_and_emblem",
-    "version": "Pink"
+    "name": "Swords and emblem (g)",
+    "url": "https://oldschool.runescape.wiki/w/Swords_and_emblem_(g)",
+    "version": null
   },
   {
     "examineText": "Used to construct an icon to the iconic entrance into the world of Gielinor inside your Player owned house.",
