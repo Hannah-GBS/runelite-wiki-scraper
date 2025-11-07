@@ -928,7 +928,7 @@
         "coords": "2653,9421",
         "isMembers": true,
         "location": "Brimhaven Dungeon (task-only area)",
-        "mapID": "9",
+        "mapID": "-1",
         "name": "Bones",
         "plane": "0"
       },
@@ -952,7 +952,7 @@
         "coords": "2830,9565",
         "isMembers": false,
         "location": "Crandor and Karamja Dungeon",
-        "mapID": "9",
+        "mapID": "-1",
         "name": "Bones",
         "plane": "0"
       },
@@ -1272,7 +1272,7 @@
         "coords": "2854,10338",
         "isMembers": true,
         "location": "Weiss - Salt Mines",
-        "mapID": "11",
+        "mapID": "-1",
         "name": "Bones",
         "plane": "0"
       },
@@ -2084,7 +2084,7 @@
         "coords": "2636,9463",
         "isMembers": true,
         "location": "Brimhaven Dungeon (task-only area)",
-        "mapID": "9",
+        "mapID": "-1",
         "name": "Bronze bar",
         "plane": "0"
       },
@@ -2776,7 +2776,7 @@
         "coords": "2849,10332",
         "isMembers": true,
         "location": "Weiss - Salt Mines",
-        "mapID": "11",
+        "mapID": "-1",
         "name": "Bucket",
         "plane": "0"
       },
@@ -3807,7 +3807,7 @@
         "coords": "2856,9645",
         "isMembers": false,
         "location": "Crandor and Karamja Dungeon",
-        "mapID": "9",
+        "mapID": "-1",
         "name": "Coins",
         "plane": "0"
       },
@@ -4625,7 +4625,7 @@
         "coords": "2504,10287",
         "isMembers": true,
         "location": "Miscellania and Etceteria Dungeon",
-        "mapID": "11",
+        "mapID": "-1",
         "name": "Engine",
         "plane": "0"
       }
@@ -4756,7 +4756,7 @@
         "coords": "2842,9552",
         "isMembers": false,
         "location": "Crandor and Karamja Dungeon - lesser demon area",
-        "mapID": "9",
+        "mapID": "-1",
         "name": "Fire rune",
         "plane": "0"
       },
@@ -5636,7 +5636,7 @@
         "coords": "2682,9463",
         "isMembers": true,
         "location": "Brimhaven Dungeon (task-only area)",
-        "mapID": "9",
+        "mapID": "-1",
         "name": "Iron bar",
         "plane": "0"
       },
@@ -5971,7 +5971,7 @@
         "coords": "2843,10337",
         "isMembers": true,
         "location": "Weiss - Salt Mines",
-        "mapID": "11",
+        "mapID": "-1",
         "name": "Iron pickaxe",
         "plane": "0"
       }
@@ -6960,7 +6960,7 @@
         "coords": "2506,10289",
         "isMembers": true,
         "location": "Miscellania and Etceteria Dungeon",
-        "mapID": "11",
+        "mapID": "-1",
         "name": "Lift manual",
         "plane": "0"
       }
@@ -7941,7 +7941,7 @@
         "coords": "2509,10290",
         "isMembers": true,
         "location": "Miscellania and Etceteria Dungeon - up the lift",
-        "mapID": "11",
+        "mapID": "-1",
         "name": "Plank",
         "plane": "1"
       },
@@ -9665,7 +9665,7 @@
         "coords": "2630,9422",
         "isMembers": true,
         "location": "Brimhaven Dungeon (task-only area)",
-        "mapID": "9",
+        "mapID": "-1",
         "name": "Steel bar",
         "plane": "0"
       }
