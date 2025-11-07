@@ -32,7 +32,7 @@ def get_production():
             recipe["output"]["version"] = recipe["output"]["name"].split("#")[1]
             recipe["output"]["name"] = recipe["output"]["name"].split("#")[0]
 
-    sorted_production = sorted(item_production, key=lambda x: (x["output"]["name"], x["materials"][0]["name"]))
+    sorted_production = sorted(item_production, key=lambda x: (x["output"]["name"]))
 
     with open(output_dir + name, "w+") as fi:
         json.dump(sorted_production, fi, indent=2, sort_keys=True)
