@@ -2089,6 +2089,14 @@
         "plane": "0"
       },
       {
+        "coords": "1466,9573",
+        "isMembers": true,
+        "location": "Cam Torum",
+        "mapID": "-1",
+        "name": "Bronze bar",
+        "plane": "0"
+      },
+      {
         "coords": "1620,3292",
         "isMembers": true,
         "location": "Salius' Armour Shop",
@@ -3030,9 +3038,9 @@
         "coords": "2489,5985",
         "isMembers": true,
         "location": "Hallowed Sepulchre - floor 2",
-        "mapID": "10187",
+        "mapID": "-1",
         "name": "Burnt bones",
-        "plane": "0"
+        "plane": "2"
       },
       {
         "coords": "1400,3703",
@@ -5076,10 +5084,10 @@
       {
         "coords": "",
         "isMembers": true,
-        "location": "Hallowed Sepulchre",
-        "mapID": "10187",
+        "location": "Hallowed Sepulchre - floor 2",
+        "mapID": "-1",
         "name": "Gold ring",
-        "plane": "0"
+        "plane": "2"
       },
       {
         "coords": "2398,5867",
@@ -5369,7 +5377,7 @@
       {
         "coords": "2954,3060",
         "isMembers": true,
-        "location": "Karamja - Ship Yard",
+        "location": "Karamja - Shipyard",
         "mapID": "0",
         "name": "Hammer",
         "plane": "0"
@@ -6380,7 +6388,7 @@
     ]
   },
   {
-    "group": "Keg",
+    "group": "Keg (The Great Brain Robbery)",
     "spawns": [
       {
         "coords": "3801,2870",
@@ -8595,14 +8603,6 @@
         "isMembers": true,
         "location": "Brine Rat Cavern",
         "mapID": "10026",
-        "name": "Rope",
-        "plane": "0"
-      },
-      {
-        "coords": "3223,9933",
-        "isMembers": false,
-        "location": "Bryophyta's lair",
-        "mapID": "10027",
         "name": "Rope",
         "plane": "0"
       },

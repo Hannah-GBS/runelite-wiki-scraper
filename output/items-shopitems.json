@@ -2397,7 +2397,7 @@
     ],
     "location": "Catherby",
     "mapID": "0",
-    "name": "Arhein Store",
+    "name": "Arhein's General Goods",
     "plane": "0",
     "sellMultiplier": "1300"
   },
@@ -14209,7 +14209,7 @@
         "version": null
       }
     ],
-    "location": "Near Wilderness Volcano",
+    "location": "Near Blighted Volcano",
     "mapID": "0",
     "name": "Edmond's Wilderness Cape Shop.",
     "plane": "0",
@@ -38712,6 +38712,12 @@
         "currency": "Coins",
         "name": "Bowl",
         "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze cannonball",
+        "stock": "250",
         "version": null
       },
       {
