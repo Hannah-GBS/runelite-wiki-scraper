@@ -1141,6 +1141,14 @@
         "plane": "0"
       },
       {
+        "coords": "3045,9386",
+        "isMembers": true,
+        "location": "Pandemonium Cave",
+        "mapID": "-1",
+        "name": "Bones",
+        "plane": "0"
+      },
+      {
         "coords": "2675,3719",
         "isMembers": true,
         "location": "Rellekka - near the rock crabs",
@@ -2225,6 +2233,14 @@
         "isMembers": false,
         "location": "Al Kharid - Sorceress' house",
         "mapID": "0",
+        "name": "Bronze mace",
+        "plane": "0"
+      },
+      {
+        "coords": "3026,9379",
+        "isMembers": true,
+        "location": "Pandemonium Cave",
+        "mapID": "-1",
         "name": "Bronze mace",
         "plane": "0"
       }
@@ -5477,6 +5493,14 @@
         "mapID": "0",
         "name": "Hammer",
         "plane": "0"
+      },
+      {
+        "coords": "3057,2980",
+        "isMembers": true,
+        "location": "The Pandemonium - on a crate on the dock",
+        "mapID": "-1",
+        "name": "Hammer",
+        "plane": "0"
       }
     ]
   },
@@ -8518,6 +8542,14 @@
         "plane": "0"
       },
       {
+        "coords": "3035,9376",
+        "isMembers": true,
+        "location": "Pandemonium Cave",
+        "mapID": "-1",
+        "name": "Red spiders' eggs",
+        "plane": "0"
+      },
+      {
         "coords": "3177,9880",
         "isMembers": false,
         "location": "Varrock Sewers",
@@ -8707,6 +8739,14 @@
         "isMembers": true,
         "location": "Outer Fortis",
         "mapID": "0",
+        "name": "Rope",
+        "plane": "0"
+      },
+      {
+        "coords": "3045,9392",
+        "isMembers": true,
+        "location": "Pandemonium Cave",
+        "mapID": "-1",
         "name": "Rope",
         "plane": "0"
       },
@@ -8917,6 +8957,14 @@
         "isMembers": true,
         "location": "Tal Teklan",
         "mapID": "0",
+        "name": "Saw",
+        "plane": "0"
+      },
+      {
+        "coords": "3062,2979",
+        "isMembers": true,
+        "location": "The Pandemonium - on a crate on the dock",
+        "mapID": "-1",
         "name": "Saw",
         "plane": "0"
       },
@@ -10418,6 +10466,19 @@
     ]
   },
   {
+    "group": "Tortugan scute",
+    "spawns": [
+      {
+        "coords": "3233,2475",
+        "isMembers": true,
+        "location": "The Great Conch",
+        "mapID": "0",
+        "name": "Tortugan scute",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Trapper's tipple",
     "spawns": [
       {
@@ -10439,6 +10500,19 @@
         "location": "Woodcutting Guild - inside Sawmill operator building",
         "mapID": "0",
         "name": "Triangle sandwich",
+        "plane": "0"
+      }
+    ]
+  },
+  {
+    "group": "Uncut ruby",
+    "spawns": [
+      {
+        "coords": "3185,2420",
+        "isMembers": true,
+        "location": "The Great Conch",
+        "mapID": "0",
+        "name": "Uncut Ruby",
         "plane": "0"
       }
     ]
