@@ -987,6 +987,58 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Adamantite bar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Adamant cannonball.png|class=inventory-image|link=Adamant cannonball]]",
+      "name": "Adamant cannonball",
+      "quantity": "4",
+      "subtxt": "Ammo mould"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "42.5",
+        "level": "75",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Ammo mould"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Adamantite bar",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Adamant cannonball.png|class=inventory-image|link=Adamant cannonball]]",
+      "name": "Adamant cannonball",
+      "quantity": "8",
+      "subtxt": "Double ammo mould"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "85",
+        "level": "75",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Double ammo mould"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -5587,12 +5639,13 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "11",
         "level": "49",
         "name": "Herblore"
       }
     ],
-    "ticks": ""
+    "ticks": "1",
+    "tools": "Pestle and mortar"
   },
   {
     "materials": [
@@ -6361,6 +6414,35 @@
     "ticks": ""
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "name": "Aquanite tendon",
+        "quantity": "1"
+      },
+      {
+        "name": "Mithril bar",
+        "quantity": "1"
+      }
+    ],
+    "members": "",
+    "output": {
+      "image": "[[File:Aquanite hopper.png|class=inventory-image|link=Aquanite hopper]]",
+      "name": "Aquanite hopper",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "350",
+        "level": "60",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "name": "Slayer helmet",
@@ -6866,12 +6948,12 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "205",
         "level": "89",
         "name": "Herblore"
       }
     ],
-    "ticks": ""
+    "ticks": "2"
   },
   {
     "materials": [
@@ -11814,7 +11896,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">118,422,632</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">120,925,179</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14401,7 +14483,7 @@
         "quantity": "1"
       },
       {
-        "name": "Chain (A Taste of Hope)",
+        "name": "Chain",
         "quantity": "1"
       }
     ],
@@ -15073,6 +15155,30 @@
     "ticks": "0"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw blue crab meat",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Blue crab meat.png|class=inventory-image|link=Blue crab meat]]",
+      "name": "Blue crab meat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "145",
+        "level": "48",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Blue dragon leather",
@@ -15600,7 +15706,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "215",
         "level": "87",
         "name": "Cooking"
       }
@@ -16149,7 +16255,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "103",
+        "experience": "132",
         "level": "73",
         "name": "Crafting"
       }
@@ -16955,7 +17061,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">120,128,052</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">121,364,394</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19240,6 +19346,58 @@
     ],
     "ticks": "2",
     "tools": "Hammer"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Bronze bar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Bronze cannonball.png|class=inventory-image|link=Bronze cannonball]]",
+      "name": "Bronze cannonball",
+      "quantity": "4",
+      "subtxt": "Ammo mould"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "9",
+        "level": "5",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Ammo mould"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Bronze bar",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Bronze cannonball.png|class=inventory-image|link=Bronze cannonball]]",
+      "name": "Bronze cannonball",
+      "quantity": "8",
+      "subtxt": "Double ammo mould"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "18",
+        "level": "5",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Double ammo mould"
   },
   {
     "facilities": "Anvil",
@@ -22728,18 +22886,46 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Camphor blowpipe.png|class=inventory-image|link=Camphor blowpipe]]",
-      "name": "Camphor blowpipe",
+      "image": "[[File:Camphor blowpipe (empty).png|class=inventory-image|link=Camphor blowpipe (empty)]]",
+      "name": "Camphor blowpipe (empty)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "140",
+        "level": "58",
+        "name": "Fletching"
+      }
+    ]
+  },
+  {
+    "materials": [
+      {
+        "name": "Camphor logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Adamantite nails",
+        "quantity": "4"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Camphor crate.png|class=inventory-image|link=Camphor crate]]",
+      "name": "Camphor crate",
       "quantity": "1"
     },
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
-        "level": "58",
-        "name": "Fletching"
+        "experience": "50",
+        "level": "62",
+        "name": "Crafting"
       }
-    ]
+    ],
+    "ticks": "2",
+    "tools": "Hammer, Chisel"
   },
   {
     "facilities": "Shipwrights' Workbench",
@@ -22759,11 +22945,11 @@
       {
         "boostable": "Yes",
         "experience": "400",
-        "level": "59",
+        "level": "56",
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Saw, Hammer"
   },
   {
@@ -22787,7 +22973,7 @@
       "image": "[[File:Camphor plank.png|class=inventory-image|link=Camphor plank]]",
       "name": "Camphor plank",
       "quantity": "2",
-      "subtxt": "Sawmill + Sawmill Voucher"
+      "subtxt": "Sawmill + Sawmill voucher"
     },
     "skills": [],
     "ticks": "1"
@@ -22846,7 +23032,7 @@
       "image": "[[File:Camphor plank.png|class=inventory-image|link=Camphor plank]]",
       "name": "Camphor plank",
       "quantity": "2",
-      "subtxt": "Plank Make + Sawmill Voucher"
+      "subtxt": "Plank Make + Sawmill voucher"
     },
     "skills": [
       {
@@ -22949,13 +23135,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "255",
         "level": "66",
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Hammer, Saw"
   },
   {
@@ -27283,8 +27469,8 @@
     },
     "skills": [
       {
-        "boostable": "",
-        "experience": "?",
+        "boostable": "Yes",
+        "experience": "105",
         "level": "73",
         "name": "Crafting"
       }
@@ -27353,7 +27539,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Pestle and mortar"
   },
   {
@@ -27370,7 +27556,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Pestle and mortar"
   },
   {
@@ -30548,6 +30734,41 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Boat schematics",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "4"
+      },
+      {
+        "name": "Rope",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Crystal glider's flag icon.png|class=inventory-image|link=Crystal glider's flag]]",
+      "name": "Crystal glider's flag",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "25",
+        "name": "Sailing"
+      },
+      {
+        "boostable": "",
+        "experience": "34",
+        "level": "20",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Gwyna's fabric roll"
   },
   {
     "facilities": "Islwyn",
@@ -34172,6 +34393,35 @@
     "ticks": "1"
   },
   {
+    "facilities": "Blast Furnace",
+    "materials": [
+      {
+        "name": "Copper ore",
+        "quantity": "2"
+      },
+      {
+        "name": "Nickel ore",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Cupronickel bar.png|class=inventory-image|link=Cupronickel bar]]",
+      "name": "Cupronickel bar",
+      "quantity": "1",
+      "subtxt": "Blast Furnace"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "42",
+        "level": "74",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "11"
+  },
+  {
     "materials": [
       {
         "name": "Copper ore",
@@ -34199,7 +34449,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "42",
         "level": "74",
         "name": "Smithing"
@@ -34234,7 +34484,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "42",
         "level": "74",
         "name": "Smithing"
@@ -37730,11 +37980,11 @@
     "ticks": "0"
   },
   {
-    "facilities": "Anvil",
+    "facilities": "Dragon forge",
     "materials": [
       {
         "name": "Dragon metal sheet",
-        "quantity": "5"
+        "quantity": "2"
       }
     ],
     "members": true,
@@ -37751,7 +38001,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "5",
+    "ticks": "",
     "tools": "Hammer"
   },
   {
@@ -38003,6 +38253,31 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Dragon forge",
+    "materials": [
+      {
+        "name": "Dragon metal sheet",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Dragon nails.png|class=inventory-image|link=Dragon nails]]",
+      "name": "Dragon nails",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "350",
+        "level": "92",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "",
+    "tools": "Hammer"
   },
   {
     "facilities": "Furnace",
@@ -41294,7 +41569,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "56",
         "name": "Herblore"
       }
@@ -43295,7 +43570,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "??",
+        "experience": "27.5",
         "level": "85",
         "name": "Herblore"
       }
@@ -43322,7 +43597,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "??",
+        "experience": "55",
         "level": "85",
         "name": "Herblore"
       }
@@ -43349,7 +43624,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "??",
+        "experience": "82.5",
         "level": "85",
         "name": "Herblore"
       }
@@ -43376,7 +43651,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "??",
+        "experience": "110",
         "level": "85",
         "name": "Herblore"
       }
@@ -43934,6 +44209,30 @@
   {
     "materials": [
       {
+        "name": "Raw bluefin",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
         "name": "Raw dark crab",
         "quantity": "1"
       }
@@ -44007,6 +44306,30 @@
     "materials": [
       {
         "name": "Raw manta ray",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw marlin",
         "quantity": "1"
       }
     ],
@@ -44454,6 +44777,47 @@
   {
     "materials": [
       {
+        "name": "Camphor crate",
+        "quantity": "10"
+      },
+      {
+        "name": "Ice cooler",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish crate (empty).png|class=inventory-image|link=Fish crate (empty)]]",
+      "name": "Fish crate (empty)",
+      "quantity": "10"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "fish crate (empty)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw giant krill",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish crate (giant krill).png|class=inventory-image|link=Fish crate (giant krill)]]",
+      "name": "Fish crate (giant krill)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Ground guam",
         "quantity": "1"
       },
@@ -44647,6 +45011,30 @@
     "materials": [
       {
         "name": "Raw anchovies",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw bass",
         "quantity": "1"
       }
     ],
@@ -44949,30 +45337,6 @@
         "boostable": "",
         "experience": "2",
         "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw swordtip squid",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "0",
-        "level": "71",
         "name": "Cooking"
       }
     ],
@@ -50208,7 +50572,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "180",
         "level": "73",
         "name": "Cooking"
       }
@@ -50252,12 +50616,12 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "100",
         "level": "56",
         "name": "Herblore"
       }
     ],
-    "ticks": ""
+    "ticks": "2"
   },
   {
     "materials": [
@@ -50279,7 +50643,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "27",
         "level": "56",
         "name": "Herblore"
       }
@@ -50824,12 +51188,12 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "212.5",
         "level": "83",
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -54408,6 +54772,58 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Iron bar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Iron cannonball.png|class=inventory-image|link=Iron cannonball]]",
+      "name": "Iron cannonball",
+      "quantity": "4",
+      "subtxt": "Ammo mould"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "17",
+        "level": "20",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Ammo mould"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Iron bar",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Iron cannonball.png|class=inventory-image|link=Iron cannonball]]",
+      "name": "Iron cannonball",
+      "quantity": "8",
+      "subtxt": "Double ammo mould"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "34",
+        "level": "20",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Double ammo mould"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -55628,18 +56044,19 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Ironwood blowpipe.png|class=inventory-image|link=Ironwood blowpipe]]",
-      "name": "Ironwood blowpipe",
+      "image": "[[File:Ironwood blowpipe (empty).png|class=inventory-image|link=Ironwood blowpipe (empty)]]",
+      "name": "Ironwood blowpipe (empty)",
       "quantity": "1"
     },
     "skills": [
       {
-        "boostable": "",
-        "experience": "?",
+        "boostable": "Yes",
+        "experience": "170",
         "level": "72",
         "name": "Fletching"
       }
-    ]
+    ],
+    "tools": "Knife"
   },
   {
     "facilities": "Shipwrights' Workbench",
@@ -55658,12 +56075,12 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "875",
-        "level": "75",
+        "experience": "437.5",
+        "level": "77",
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Saw, Hammer"
   },
   {
@@ -55687,7 +56104,7 @@
       "image": "[[File:Ironwood plank.png|class=inventory-image|link=Ironwood plank]]",
       "name": "Ironwood plank",
       "quantity": "2",
-      "subtxt": "Sawmill + Sawmill Voucher"
+      "subtxt": "Sawmill + Sawmill voucher"
     },
     "skills": [],
     "ticks": "1"
@@ -55746,7 +56163,7 @@
       "image": "[[File:Ironwood plank.png|class=inventory-image|link=Ironwood plank]]",
       "name": "Ironwood plank",
       "quantity": "2",
-      "subtxt": "Plank Make + Sawmill Voucher"
+      "subtxt": "Plank Make + Sawmill voucher"
     },
     "skills": [
       {
@@ -55849,13 +56266,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "300",
         "level": "80",
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Hammer, Saw"
   },
   {
@@ -55946,7 +56363,7 @@
         "quantity": "1"
       },
       {
-        "name": "Chain (A Taste of Hope)",
+        "name": "Chain",
         "quantity": "1"
       }
     ],
@@ -56559,7 +56976,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "180",
         "level": "71",
         "name": "Cooking"
       }
@@ -57725,7 +58142,7 @@
     "tools": "Hammer"
   },
   {
-    "facilities": "Wooden workbench",
+    "facilities": "Shipwrights' Workbench",
     "materials": [
       {
         "name": "Camphor hull parts",
@@ -57750,11 +58167,11 @@
     "tools": "Saw, Hammer"
   },
   {
-    "facilities": "Anvil",
+    "facilities": "Dragon forge",
     "materials": [
       {
         "name": "Dragon keel parts",
-        "quantity": "5"
+        "quantity": "2"
       }
     ],
     "members": true,
@@ -57771,7 +58188,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "5",
+    "ticks": "",
     "tools": "Hammer"
   },
   {
@@ -58012,7 +58429,7 @@
     "tools": "Hammer"
   },
   {
-    "facilities": "Wooden workbench",
+    "facilities": "Shipwrights' Workbench",
     "materials": [
       {
         "name": "Ironwood hull parts",
@@ -58028,8 +58445,8 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
-        "level": "75",
+        "experience": "2.5",
+        "level": "77",
         "name": "Construction"
       }
     ],
@@ -58149,7 +58566,7 @@
     "tools": "Hammer"
   },
   {
-    "facilities": "Wooden workbench, Shipwright's Workbench",
+    "facilities": "Shipwrights' Workbench",
     "materials": [
       {
         "name": "Oak hull parts",
@@ -58194,7 +58611,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Wooden workbench",
+    "facilities": "Shipwrights' Workbench",
     "materials": [
       {
         "name": "Rosewood hull parts",
@@ -58235,7 +58652,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "5",
         "level": "86",
         "name": "Smithing"
       }
@@ -58294,7 +58711,7 @@
     "tools": "Saw, Hammer"
   },
   {
-    "facilities": "Wooden workbench",
+    "facilities": "Shipwrights' Workbench",
     "materials": [
       {
         "name": "Wooden hull parts",
@@ -59035,6 +59452,31 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Blast Furnace",
+    "materials": [
+      {
+        "name": "Lead ore",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Lead bar.png|class=inventory-image|link=Lead bar]]",
+      "name": "Lead bar",
+      "quantity": "1",
+      "subtxt": "Blast Furnace"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15.5",
+        "level": "25",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "11"
   },
   {
     "materials": [
@@ -61884,7 +62326,7 @@
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Saw, Hammer"
   },
   {
@@ -61908,7 +62350,7 @@
       "image": "[[File:Mahogany plank.png|class=inventory-image|link=Mahogany plank]]",
       "name": "Mahogany plank",
       "quantity": "2",
-      "subtxt": "Sawmill + Sawmill Voucher"
+      "subtxt": "Sawmill + Sawmill voucher"
     },
     "skills": [],
     "ticks": "1"
@@ -61967,7 +62409,7 @@
       "image": "[[File:Mahogany plank.png|class=inventory-image|link=Mahogany plank]]",
       "name": "Mahogany plank",
       "quantity": "2",
-      "subtxt": "Plank Make + Sawmill Voucher"
+      "subtxt": "Plank Make + Sawmill voucher"
     },
     "skills": [
       {
@@ -62070,13 +62512,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "210",
         "level": "47",
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Hammer, Saw"
   },
   {
@@ -62177,6 +62619,26 @@
     ],
     "ticks": "3",
     "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Seaweed",
+        "quantity": "1"
+      },
+      {
+        "name": "Palm leaf",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Makeshift bandages.png|class=inventory-image|link=Makeshift bandages]]",
+      "name": "Makeshift bandages",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -62695,7 +63157,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "225",
         "level": "93",
         "name": "Cooking"
       }
@@ -63204,6 +63666,63 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Medallion fragment (1)",
+        "quantity": "1"
+      },
+      {
+        "name": "Medallion fragment (2)",
+        "quantity": "1"
+      },
+      {
+        "name": "Medallion fragment (3)",
+        "quantity": "1"
+      },
+      {
+        "name": "Medallion fragment (4)",
+        "quantity": "1"
+      },
+      {
+        "name": "Medallion fragment (5)",
+        "quantity": "1"
+      },
+      {
+        "name": "Medallion fragment (6)",
+        "quantity": "1"
+      },
+      {
+        "name": "Medallion fragment (7)",
+        "quantity": "1"
+      },
+      {
+        "name": "Medallion fragment (8)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Medallion of the deep.png|class=inventory-image|link=Medallion of the deep]]",
+      "name": "Medallion of the deep",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "750",
+        "level": "63",
+        "name": "Sailing"
+      },
+      {
+        "boostable": "",
+        "experience": "500",
+        "level": "?",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": ""
   },
   {
     "facilities": "Chaos Altar",
@@ -64824,6 +65343,58 @@
     ],
     "ticks": "2",
     "tools": "Hammer"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Mithril bar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Mithril cannonball.png|class=inventory-image|link=Mithril cannonball]]",
+      "name": "Mithril cannonball",
+      "quantity": "4",
+      "subtxt": "Ammo mould"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "34",
+        "level": "55",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Ammo mould"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Mithril bar",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Mithril cannonball.png|class=inventory-image|link=Mithril cannonball]]",
+      "name": "Mithril cannonball",
+      "quantity": "8",
+      "subtxt": "Double ammo mould"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "68",
+        "level": "55",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Double ammo mould"
   },
   {
     "facilities": "Anvil",
@@ -69720,6 +70291,30 @@
   {
     "materials": [
       {
+        "name": "Narwhal horn",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Narwhal horn knife.png|class=inventory-image|link=Narwhal horn knife]]",
+      "name": "Narwhal horn knife",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "73",
+        "level": "51",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
         "name": "Water nerve",
         "quantity": "1"
       },
@@ -70771,7 +71366,7 @@
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Saw, Hammer"
   },
   {
@@ -70846,7 +71441,7 @@
       "image": "[[File:Oak plank.png|class=inventory-image|link=Oak plank]]",
       "name": "Oak plank",
       "quantity": "2",
-      "subtxt": "Sawmill + Sawmill Voucher"
+      "subtxt": "Sawmill + Sawmill voucher"
     },
     "skills": [],
     "ticks": "1"
@@ -70869,6 +71464,28 @@
       "name": "Oak plank",
       "quantity": "1",
       "subtxt": "Sawmill"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Sawmill",
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Sawmill coupon (oak plank)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Oak plank.png|class=inventory-image|link=Oak plank]]",
+      "name": "Oak plank",
+      "quantity": "1",
+      "subtxt": "Sawmill + Sawmill coupon"
     },
     "skills": [],
     "ticks": "1"
@@ -70905,7 +71522,7 @@
       "image": "[[File:Oak plank.png|class=inventory-image|link=Oak plank]]",
       "name": "Oak plank",
       "quantity": "2",
-      "subtxt": "Plank Make + Sawmill Voucher"
+      "subtxt": "Plank Make + Sawmill voucher"
     },
     "skills": [
       {
@@ -71008,13 +71625,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "90",
         "level": "19",
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Hammer, Saw"
   },
   {
@@ -75168,7 +75785,7 @@
       "image": "[[File:Plank.png|class=inventory-image|link=Plank]]",
       "name": "Plank",
       "quantity": "2",
-      "subtxt": "Sawmill + Sawmill Voucher"
+      "subtxt": "Sawmill + Sawmill voucher"
     },
     "skills": [],
     "ticks": "1"
@@ -75191,6 +75808,28 @@
       "name": "Plank",
       "quantity": "1",
       "subtxt": "Sawmill"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Sawmill",
+    "materials": [
+      {
+        "name": "Logs",
+        "quantity": "1"
+      },
+      {
+        "name": "Sawmill coupon (wood plank)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Plank.png|class=inventory-image|link=Plank]]",
+      "name": "Plank",
+      "quantity": "1",
+      "subtxt": "Sawmill + Sawmill coupon"
     },
     "skills": [],
     "ticks": "1"
@@ -75227,7 +75866,7 @@
       "image": "[[File:Plank.png|class=inventory-image|link=Plank]]",
       "name": "Plank",
       "quantity": "2",
-      "subtxt": "Plank Make + Sawmill Voucher"
+      "subtxt": "Plank Make + Sawmill voucher"
     },
     "skills": [
       {
@@ -76895,6 +77534,30 @@
     "ticks": "0"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw rainbow crab meat",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Rainbow crab meat.png|class=inventory-image|link=Rainbow crab meat]]",
+      "name": "Rainbow crab meat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "200",
+        "level": "77",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "materials": [
       {
         "name": "Rainbow crab",
@@ -77306,6 +77969,30 @@
   {
     "materials": [
       {
+        "name": "Blue crab",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Raw blue crab meat.png|class=inventory-image|link=Raw blue crab meat]]",
+      "name": "Raw blue crab meat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "8",
+        "level": "48",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
         "name": "Crunchy tray",
         "quantity": "1"
       },
@@ -77512,6 +78199,29 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Rainbow crab",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Raw rainbow crab meat.png|class=inventory-image|link=Raw rainbow crab meat]]",
+      "name": "Raw rainbow crab meat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "12",
+        "level": "77",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -78827,7 +79537,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "Shipwrights' Workbench",
     "materials": [
       {
         "name": "Plank",
@@ -78856,7 +79565,7 @@
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Hammer, Saw"
   },
   {
@@ -80179,19 +80888,19 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Rosewood blowpipe.png|class=inventory-image|link=Rosewood blowpipe]]",
-      "name": "Rosewood blowpipe",
+      "image": "[[File:Rosewood blowpipe (empty).png|class=inventory-image|link=Rosewood blowpipe (empty)]]",
+      "name": "Rosewood blowpipe (empty)",
       "quantity": "1"
     },
     "skills": [
       {
-        "boostable": "",
-        "experience": "0",
+        "boostable": "yes",
+        "experience": "200",
         "level": "84",
         "name": "Fletching"
       }
     ],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Knife"
   },
   {
@@ -80211,12 +80920,12 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "950",
+        "experience": "475",
         "level": "84",
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Saw, Hammer"
   },
   {
@@ -80240,7 +80949,7 @@
       "image": "[[File:Rosewood plank.png|class=inventory-image|link=Rosewood plank]]",
       "name": "Rosewood plank",
       "quantity": "2",
-      "subtxt": "Sawmill + Sawmill Voucher"
+      "subtxt": "Sawmill + Sawmill voucher"
     },
     "skills": [],
     "ticks": "1"
@@ -80299,7 +81008,7 @@
       "image": "[[File:Rosewood plank.png|class=inventory-image|link=Rosewood plank]]",
       "name": "Rosewood plank",
       "quantity": "2",
-      "subtxt": "Plank Make + Sawmill Voucher"
+      "subtxt": "Plank Make + Sawmill voucher"
     },
     "skills": [
       {
@@ -80402,13 +81111,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "?",
         "level": "92",
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Hammer, Saw"
   },
   {
@@ -81429,6 +82138,58 @@
     ],
     "ticks": "2",
     "tools": "Hammer"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Runite bar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Rune cannonball.png|class=inventory-image|link=Rune cannonball]]",
+      "name": "Rune cannonball",
+      "quantity": "4",
+      "subtxt": "Ammo mould"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50.5",
+        "level": "90",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Ammo mould"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "name": "Runite bar",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Rune cannonball.png|class=inventory-image|link=Rune cannonball]]",
+      "name": "Rune cannonball",
+      "quantity": "8",
+      "subtxt": "Double ammo mould"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "101",
+        "level": "90",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "8",
+    "tools": "Double ammo mould"
   },
   {
     "facilities": "Anvil",
@@ -92455,7 +93216,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Knife"
   },
   {
@@ -92472,7 +93233,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Knife"
   },
   {
@@ -96053,6 +96814,44 @@
   {
     "materials": [
       {
+        "name": "Oak logs",
+        "quantity": "4"
+      },
+      {
+        "name": "Rope",
+        "quantity": "1"
+      },
+      {
+        "name": "Ralph's fabric roll",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Storm chaser's flag icon.png|class=inventory-image|link=Storm chaser's flag]]",
+      "name": "Storm chaser's flag",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "25",
+        "name": "Sailing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "54",
+        "level": "20",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Saw, Hammer"
+  },
+  {
+    "materials": [
+      {
         "name": "Left skull half",
         "quantity": "1"
       },
@@ -97486,12 +98285,39 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "140.5",
         "level": "62",
         "name": "Herblore"
       }
     ],
-    "ticks": ""
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Pillar potion (unf)",
+        "quantity": "1"
+      },
+      {
+        "name": "Crab paste",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Super hunter potion(3).png|class=inventory-image|link=Super hunter potion(3)]]",
+      "name": "Super hunter potion(3)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "154",
+        "level": "67",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -98008,6 +98834,44 @@
     "ticks": "2"
   },
   {
+    "materials": [
+      {
+        "name": "Oak logs",
+        "quantity": "4"
+      },
+      {
+        "name": "Rope",
+        "quantity": "1"
+      },
+      {
+        "name": "Gurtob's fabric roll",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Swamp cruiser's flag icon.png|class=inventory-image|link=Swamp cruiser's flag]]",
+      "name": "Swamp cruiser's flag",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "25",
+        "name": "Sailing"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "54",
+        "level": "20",
+        "name": "Construction"
+      }
+    ],
+    "ticks": "5",
+    "tools": ""
+  },
+  {
     "facilities": "Fire",
     "materials": [
       {
@@ -98250,7 +99114,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "150",
         "level": "56",
         "name": "Cooking"
       }
@@ -98453,7 +99317,7 @@
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Saw, Hammer"
   },
   {
@@ -98477,7 +99341,7 @@
       "image": "[[File:Teak plank.png|class=inventory-image|link=Teak plank]]",
       "name": "Teak plank",
       "quantity": "2",
-      "subtxt": "Sawmill + Sawmill Voucher"
+      "subtxt": "Sawmill + Sawmill voucher"
     },
     "skills": [],
     "ticks": "1"
@@ -98536,7 +99400,7 @@
       "image": "[[File:Teak plank.png|class=inventory-image|link=Teak plank]]",
       "name": "Teak plank",
       "quantity": "2",
-      "subtxt": "Plank Make + Sawmill Voucher"
+      "subtxt": "Plank Make + Sawmill voucher"
     },
     "skills": [
       {
@@ -98639,13 +99503,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "135",
         "level": "30",
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Hammer, Saw"
   },
   {
@@ -105607,7 +106471,7 @@
         "name": "Construction"
       }
     ],
-    "ticks": "5",
+    "ticks": "4",
     "tools": "Saw, Hammer"
   },
   {
@@ -106593,10 +107457,10 @@
     "output": {
       "image": "[[File:Yellow fin.png|class=inventory-image|link=Yellow fin]]",
       "name": "Yellow fin",
-      "quantity": "1"
+      "quantity": "3"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "3",
     "tools": "Knife"
   },
   {
