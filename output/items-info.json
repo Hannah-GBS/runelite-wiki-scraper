@@ -113870,6 +113870,16 @@
     "version": null
   },
   {
+    "examineText": "A horn to call your loyal guardian.",
+    "group": "Guardian horn",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28769,
+    "name": "Guardian horn",
+    "url": "https://oldschool.runescape.wiki/w/Guardian_horn",
+    "version": null
+  },
+  {
     "examineText": "Greaves that give you blazing speed.",
     "group": "Sage's greaves",
     "isMembers": false,
@@ -124377,7 +124387,17 @@
     "itemID": 31285,
     "name": "Gull",
     "url": "https://oldschool.runescape.wiki/w/Gull_(pet)",
-    "version": null
+    "version": "Gull"
+  },
+  {
+    "examineText": "Small, yet intimidating.",
+    "group": "Gull (pet)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31287,
+    "name": "Gulliver",
+    "url": "https://oldschool.runescape.wiki/w/Gull_(pet)",
+    "version": "Gulliver"
   },
   {
     "examineText": "The cape worn by the world's best sailors.",
@@ -125123,7 +125143,7 @@
     "examineText": "Oops!",
     "group": "Burnt swordtip squid",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 31559,
     "name": "Burnt swordtip squid",
     "url": "https://oldschool.runescape.wiki/w/Burnt_swordtip_squid",
@@ -125450,9 +125470,9 @@
     "version": "1 dose"
   },
   {
-    "examineText": "",
+    "examineText": "4 doses of Armadyl brew.",
     "group": "Armadyl brew",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": true,
     "itemID": 31650,
     "name": "Armadyl brew(4)",
@@ -125460,9 +125480,9 @@
     "version": "4 dose"
   },
   {
-    "examineText": "",
+    "examineText": "3 doses of Armadyl brew.",
     "group": "Armadyl brew",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": true,
     "itemID": 31653,
     "name": "Armadyl brew(3)",
@@ -125470,9 +125490,9 @@
     "version": "3 dose"
   },
   {
-    "examineText": "",
+    "examineText": "2 doses of Armadyl brew.",
     "group": "Armadyl brew",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": true,
     "itemID": 31656,
     "name": "Armadyl brew(2)",
@@ -125480,9 +125500,9 @@
     "version": "2 dose"
   },
   {
-    "examineText": "",
+    "examineText": "1 dose of Armadyl brewn.",
     "group": "Armadyl brew",
-    "isMembers": false,
+    "isMembers": true,
     "isTradeable": true,
     "itemID": 31659,
     "name": "Armadyl brew(1)",
@@ -125613,7 +125633,7 @@
     "examineText": "Oops!",
     "group": "Burnt crab meat",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 31698,
     "name": "Burnt crab meat",
     "url": "https://oldschool.runescape.wiki/w/Burnt_crab_meat",
@@ -125643,7 +125663,7 @@
     "examineText": "Oops!",
     "group": "Burnt rainbow crab meat",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 31706,
     "name": "Burnt rainbow crab meat",
     "url": "https://oldschool.runescape.wiki/w/Burnt_rainbow_crab_meat",
@@ -125841,42 +125861,42 @@
   },
   {
     "examineText": "The hat of a captain who loved to sail even the most fetid of seas.",
-    "group": "Nifty hat",
+    "group": "Swamp cruiser's hat",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 31748,
-    "name": "Nifty hat",
-    "url": "https://oldschool.runescape.wiki/w/Nifty_hat",
+    "name": "Swamp cruiser's hat",
+    "url": "https://oldschool.runescape.wiki/w/Swamp_cruiser%27s_hat",
     "version": null
   },
   {
     "examineText": "The jacket of a captain who loved to sail even the most fetid of seas.",
-    "group": "Nifty jacket",
+    "group": "Swamp cruiser's jacket",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 31750,
-    "name": "Nifty jacket",
-    "url": "https://oldschool.runescape.wiki/w/Nifty_jacket",
+    "name": "Swamp cruiser's jacket",
+    "url": "https://oldschool.runescape.wiki/w/Swamp_cruiser%27s_jacket",
     "version": null
   },
   {
     "examineText": "The trousers of a captain who loved to sail even the most fetid of seas.",
-    "group": "Nifty trousers",
+    "group": "Swamp cruiser's trousers",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 31752,
-    "name": "Nifty trousers",
-    "url": "https://oldschool.runescape.wiki/w/Nifty_trousers",
+    "name": "Swamp cruiser's trousers",
+    "url": "https://oldschool.runescape.wiki/w/Swamp_cruiser%27s_trousers",
     "version": null
   },
   {
     "examineText": "The shoes of a captain who loved to sail even the most fetid of seas.",
-    "group": "Nifty shoes",
+    "group": "Swamp cruiser's shoes",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 31754,
-    "name": "Nifty shoes",
-    "url": "https://oldschool.runescape.wiki/w/Nifty_shoes",
+    "name": "Swamp cruiser's shoes",
+    "url": "https://oldschool.runescape.wiki/w/Swamp_cruiser%27s_shoes",
     "version": null
   },
   {
@@ -125910,43 +125930,43 @@
     "version": null
   },
   {
-    "examineText": "The hat of a captain who loved to sail the most graveful of seas.",
-    "group": "Sleek hat",
+    "examineText": "The hat of a captain who loved to sail the most graceful of seas.",
+    "group": "Crystal glider's hat",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 31760,
-    "name": "Sleek hat",
-    "url": "https://oldschool.runescape.wiki/w/Sleek_hat",
+    "name": "Crystal glider's hat",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_glider%27s_hat",
     "version": null
   },
   {
-    "examineText": "The jacket of a captain who loved to sail the most graveful of seas.",
-    "group": "Sleek jacket",
+    "examineText": "The jacket of a captain who loved to sail the most graceful of seas.",
+    "group": "Crystal glider's jacket",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 31762,
-    "name": "Sleek jacket",
-    "url": "https://oldschool.runescape.wiki/w/Sleek_jacket",
+    "name": "Crystal glider's jacket",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_glider%27s_jacket",
     "version": null
   },
   {
-    "examineText": "The trousers of a captain who loved to sail the most graveful of seas.",
-    "group": "Sleek trousers",
+    "examineText": "The trousers of a captain who loved to sail the most graceful of seas.",
+    "group": "Crystal glider's trousers",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 31764,
-    "name": "Sleek trousers",
-    "url": "https://oldschool.runescape.wiki/w/Sleek_trousers",
+    "name": "Crystal glider's trousers",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_glider%27s_trousers",
     "version": null
   },
   {
-    "examineText": "The shoes of a captain who loved to sail the most graveful of seas.",
-    "group": "Sleek shoes",
+    "examineText": "The shoes of a captain who loved to sail the most graceful of seas.",
+    "group": "Crystal glider's shoes",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 31766,
-    "name": "Sleek shoes",
-    "url": "https://oldschool.runescape.wiki/w/Sleek_shoes",
+    "name": "Crystal glider's shoes",
+    "url": "https://oldschool.runescape.wiki/w/Crystal_glider%27s_shoes",
     "version": null
   },
   {
@@ -126073,7 +126093,7 @@
     "examineText": "For making cows that are small and/or far away seem big and/or close up.",
     "group": "Spyglass",
     "isMembers": true,
-    "isTradeable": true,
+    "isTradeable": false,
     "itemID": 31803,
     "name": "Spyglass",
     "url": "https://oldschool.runescape.wiki/w/Spyglass",
@@ -126120,7 +126140,7 @@
     "version": null
   },
   {
-    "examineText": "Rum-dashed ralph's specialty made from rum, fresh bananas, rum, sugar cane and rum!",
+    "examineText": "Rum-dashed Ralph's specialty. It's made from rum, fresh bananas, rum, sugar cane and rum!",
     "group": "Whirlpool surprise",
     "isMembers": true,
     "isTradeable": false,
@@ -127773,7 +127793,7 @@
     "examineText": "Oops!",
     "group": "Burnt yellowfin",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 32331,
     "name": "Burnt yellowfin",
     "url": "https://oldschool.runescape.wiki/w/Burnt_yellowfin",
@@ -127803,7 +127823,7 @@
     "examineText": "Oops!",
     "group": "Burnt halibut",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 32339,
     "name": "Burnt halibut",
     "url": "https://oldschool.runescape.wiki/w/Burnt_halibut",
@@ -127833,7 +127853,7 @@
     "examineText": "Oops!",
     "group": "Burnt bluefin",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 32347,
     "name": "Burnt bluefin",
     "url": "https://oldschool.runescape.wiki/w/Burnt_bluefin",
@@ -127863,7 +127883,7 @@
     "examineText": "Oops!",
     "group": "Burnt marlin",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 32355,
     "name": "Burnt marlin",
     "url": "https://oldschool.runescape.wiki/w/Burnt_marlin",
@@ -127890,7 +127910,7 @@
     "version": null
   },
   {
-    "examineText": "A small shiny scale.",
+    "examineText": "Small shiny scales.",
     "group": "Marlin scales",
     "isMembers": true,
     "isTradeable": true,
@@ -128261,52 +128281,52 @@
   },
   {
     "examineText": "A small key dug up on Minotaurs' Rest.",
-    "group": "Small key (Minotaurs' Rest)",
+    "group": "Small key (minotaurs' rest)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32415,
     "name": "Small key (minotaurs' rest)",
-    "url": "https://oldschool.runescape.wiki/w/Small_key_(Minotaurs%27_Rest)",
+    "url": "https://oldschool.runescape.wiki/w/Small_key_(minotaurs%27_rest)",
     "version": null
   },
   {
     "examineText": "A small key dug up on Buccaneers' Haven.",
-    "group": "Small key (Buccaneers' Haven)",
+    "group": "Small key (buccaneers' haven)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32416,
     "name": "Small key (buccaneers' haven)",
-    "url": "https://oldschool.runescape.wiki/w/Small_key_(Buccaneers%27_Haven)",
+    "url": "https://oldschool.runescape.wiki/w/Small_key_(buccaneers%27_haven)",
     "version": null
   },
   {
     "examineText": "A small key dug up on the Isle of Bones.",
-    "group": "Small key (Isle of Bones)",
+    "group": "Small key (isle of bones)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32417,
     "name": "Small key (isle of bones)",
-    "url": "https://oldschool.runescape.wiki/w/Small_key_(Isle_of_Bones)",
+    "url": "https://oldschool.runescape.wiki/w/Small_key_(isle_of_bones)",
     "version": null
   },
   {
     "examineText": "A small key dug up on Charred Island.",
-    "group": "Small key (Charred Island)",
+    "group": "Small key (charred island)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32418,
     "name": "Small key (charred island)",
-    "url": "https://oldschool.runescape.wiki/w/Small_key_(Charred_Island)",
+    "url": "https://oldschool.runescape.wiki/w/Small_key_(charred_island)",
     "version": null
   },
   {
     "examineText": "A small key dug up on Laguna Aurorae.",
-    "group": "Small key (Laguna Aurorae)",
+    "group": "Small key (laguna aurorae)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32419,
     "name": "Small key (laguna aurorae)",
-    "url": "https://oldschool.runescape.wiki/w/Small_key_(Laguna_Aurorae)",
+    "url": "https://oldschool.runescape.wiki/w/Small_key_(laguna_aurorae)",
     "version": null
   },
   {
@@ -128321,102 +128341,102 @@
   },
   {
     "examineText": "Copied from the engravings on a lockbox found on Chinchompa Island.",
-    "group": "Lockbox directions (Chinchompa Island)",
+    "group": "Lockbox directions (chinchompa island)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32421,
     "name": "Lockbox directions (chinchompa island)",
-    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(Chinchompa_Island)",
+    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(chinchompa_island)",
     "version": null
   },
   {
     "examineText": "Copied from the engravings on a lockbox found on Anglers' Retreat.",
-    "group": "Lockbox directions (Anglers' Retreat)",
+    "group": "Lockbox directions (anglers' retreat)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32422,
     "name": "Lockbox directions (anglers' retreat)",
-    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(Anglers%27_Retreat)",
+    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(anglers%27_retreat)",
     "version": null
   },
   {
     "examineText": "Copied from the engravings on a lockbox found on Buccaneers' Haven.",
-    "group": "Lockbox directions (Buccaneers' Haven)",
+    "group": "Lockbox directions (buccaneers' haven)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32423,
     "name": "Lockbox directions (buccaneers' haven)",
-    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(Buccaneers%27_Haven)",
+    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(buccaneers%27_haven)",
     "version": null
   },
   {
     "examineText": "Copied from the engravings on a lockbox found on Lledrith Island.",
-    "group": "Lockbox directions (Lledrith Island)",
+    "group": "Lockbox directions (lledrith island)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32424,
     "name": "Lockbox directions (lledrith island)",
-    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(Lledrith_Island)",
+    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(lledrith_island)",
     "version": null
   },
   {
     "examineText": "Copied from the engravings on a lockbox found on the Crown Jewel.",
-    "group": "Lockbox directions (The Crown Jewel)",
+    "group": "Lockbox directions (the crown jewel)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32425,
     "name": "Lockbox directions (the crown jewel)",
-    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(The_Crown_Jewel)",
+    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(the_crown_jewel)",
     "version": null
   },
   {
     "examineText": "Copied from the engravings on a lockbox found on Deepfin Point.",
-    "group": "Lockbox directions (Deepfin Point)",
+    "group": "Lockbox directions (deepfin point)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32426,
     "name": "Lockbox directions (deepfin point)",
-    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(Deepfin_Point)",
+    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(deepfin_point)",
     "version": null
   },
   {
     "examineText": "Copied from the engravings on a lockbox found on the Shimmering Atoll.",
-    "group": "Lockbox directions (Shimmering Atoll)",
+    "group": "Lockbox directions (shimmering atoll)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32427,
     "name": "Lockbox directions (shimmering atoll)",
-    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(Shimmering_Atoll)",
+    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(shimmering_atoll)",
     "version": null
   },
   {
     "examineText": "Copied from the engravings on a lockbox found on Brittle Isle.",
-    "group": "Lockbox directions (Brittle Isle)",
+    "group": "Lockbox directions (brittle isle)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32428,
     "name": "Lockbox directions (brittle isle)",
-    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(Brittle_Isle)",
+    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(brittle_isle)",
     "version": null
   },
   {
     "examineText": "Copied from the engravings on a lockbox found on Sunbleak Island.",
-    "group": "Lockbox directions (Sunbleak Island)",
+    "group": "Lockbox directions (sunbleak island)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32429,
     "name": "Lockbox directions (sunbleak island)",
-    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(Sunbleak_Island)",
+    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(sunbleak_island)",
     "version": null
   },
   {
     "examineText": "Copied from the engravings on a lockbox found on Grimstone.",
-    "group": "Lockbox directions (Grimstone)",
+    "group": "Lockbox directions (grimstone)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32430,
     "name": "Lockbox directions (grimstone)",
-    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(Grimstone)",
+    "url": "https://oldschool.runescape.wiki/w/Lockbox_directions_(grimstone)",
     "version": null
   },
   {
@@ -132390,16 +132410,6 @@
     "version": null
   },
   {
-    "examineText": "The fin of a manta ray.",
-    "group": "Manta ray fin",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 32822,
-    "name": "Manta ray fin",
-    "url": "https://oldschool.runescape.wiki/w/Manta_ray_fin",
-    "version": null
-  },
-  {
     "examineText": "The feather of a tern.",
     "group": "Tern feather",
     "isMembers": true,
@@ -132900,7 +132910,7 @@
     "version": null
   },
   {
-    "examineText": "Logs cut from a jatoba tree",
+    "examineText": "Logs cut from a jatoba tree.",
     "group": "Jatoba logs",
     "isMembers": true,
     "isTradeable": false,

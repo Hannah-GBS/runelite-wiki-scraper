@@ -562,6 +562,14 @@
         "plane": "0"
       },
       {
+        "coords": "?",
+        "isMembers": true,
+        "location": "Here be minotaurs",
+        "mapID": "0",
+        "name": "Big bones",
+        "plane": "0"
+      },
+      {
         "coords": "1441,3616",
         "isMembers": true,
         "location": "Shayzien - Giant Pit",
@@ -6026,6 +6034,14 @@
     "group": "Iron scimitar",
     "spawns": [
       {
+        "coords": "2065,3692",
+        "isMembers": false,
+        "location": "Buccaneers Haven",
+        "mapID": "0",
+        "name": "Iron scimitar",
+        "plane": "0"
+      },
+      {
         "coords": "1398,2977",
         "isMembers": false,
         "location": "Northern most villa in Aldarin - 2nd floor",
@@ -7190,6 +7206,19 @@
         "location": "Ranging Guild",
         "mapID": "0",
         "name": "Longbow",
+        "plane": "0"
+      }
+    ]
+  },
+  {
+    "group": "Magic staff",
+    "spawns": [
+      {
+        "coords": "2698,8891",
+        "isMembers": false,
+        "location": "Unquiet Ocean Underground - Charred Dungeon",
+        "mapID": "0",
+        "name": "Magic staff",
         "plane": "0"
       }
     ]
