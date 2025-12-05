@@ -562,11 +562,19 @@
         "plane": "0"
       },
       {
-        "coords": "?",
+        "coords": "1943,9514",
         "isMembers": true,
         "location": "Here be minotaurs",
-        "mapID": "0",
+        "mapID": "-1",
         "name": "Big bones",
+        "plane": "0"
+      },
+      {
+        "coords": "2535,2538",
+        "isMembers": true,
+        "location": "Isle of Bones",
+        "mapID": "-1",
+        "name": "Big Bones",
         "plane": "0"
       },
       {
@@ -677,6 +685,14 @@
   {
     "group": "Black dagger",
     "spawns": [
+      {
+        "coords": "2691,8884",
+        "isMembers": false,
+        "location": "Charred Dungeon",
+        "mapID": "0",
+        "name": "Black dagger",
+        "plane": "0"
+      },
       {
         "coords": "3180,3824",
         "isMembers": true,
@@ -1049,6 +1065,14 @@
         "isMembers": true,
         "location": "Inside Gu'Tanoth",
         "mapID": "0",
+        "name": "Bones",
+        "plane": "0"
+      },
+      {
+        "coords": "2539,2540",
+        "isMembers": true,
+        "location": "Isle of Bones",
+        "mapID": "-1",
         "name": "Bones",
         "plane": "0"
       },
@@ -2426,6 +2450,14 @@
         "mapID": "0",
         "name": "Bronze pickaxe",
         "plane": "0"
+      },
+      {
+        "coords": "2072,2605",
+        "isMembers": true,
+        "location": "Wintumber Island",
+        "mapID": "0",
+        "name": "Bronze pickaxe",
+        "plane": "0"
       }
     ]
   },
@@ -2785,6 +2817,14 @@
         "isMembers": true,
         "location": "Temple of Ikov",
         "mapID": "0",
+        "name": "Bucket",
+        "plane": "0"
+      },
+      {
+        "coords": "1502,4647",
+        "isMembers": true,
+        "location": "The Pandemonium - down ladder",
+        "mapID": "-1",
         "name": "Bucket",
         "plane": "0"
       },
@@ -5655,6 +5695,14 @@
         "coords": "2821,3086",
         "isMembers": true,
         "location": "Tai Bwo Wannai - Hardwood Grove",
+        "mapID": "0",
+        "name": "Iron axe",
+        "plane": "0"
+      },
+      {
+        "coords": "2338,2761",
+        "isMembers": true,
+        "location": "Tear of the Soul",
         "mapID": "0",
         "name": "Iron axe",
         "plane": "0"
@@ -9086,6 +9134,14 @@
         "coords": "1315,2885",
         "isMembers": true,
         "location": "South of Darkmoon Ravine (inaccessible)",
+        "mapID": "0",
+        "name": "Seaweed",
+        "plane": "0"
+      },
+      {
+        "coords": "2315,2779",
+        "isMembers": true,
+        "location": "Tear of the Soul",
         "mapID": "0",
         "name": "Seaweed",
         "plane": "0"
