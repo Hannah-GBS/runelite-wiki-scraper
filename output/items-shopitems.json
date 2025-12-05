@@ -22683,6 +22683,7 @@
     "sellMultiplier": "500"
   },
   {
+    "buyMultiplier": "500",
     "coords": "1867,3298",
     "isMembers": true,
     "items": [
@@ -22738,7 +22739,8 @@
     "location": "Port Roberts",
     "mapID": "-1",
     "name": "Iron Bill",
-    "plane": "0"
+    "plane": "0",
+    "sellMultiplier": "2500"
   },
   {
     "buyMultiplier": "700",
@@ -32204,6 +32206,7 @@
     "sellMultiplier": "1300"
   },
   {
+    "buyMultiplier": "500",
     "coords": "1867,3296",
     "isMembers": true,
     "items": [
@@ -32259,7 +32262,8 @@
     "location": "Port Roberts",
     "mapID": "0",
     "name": "Port Roberts Cannonball Stall",
-    "plane": "0"
+    "plane": "0",
+    "sellMultiplier": "2500"
   },
   {
     "buyMultiplier": "700",
@@ -35958,12 +35962,6 @@
     "items": [
       {
         "currency": "Coins",
-        "name": "Bolt of cloth",
-        "stock": "1000",
-        "version": null
-      },
-      {
-        "currency": "Coins",
         "name": "Bronze nails",
         "stock": "1000",
         "version": null
@@ -36480,12 +36478,6 @@
     "coords": "2082,2722",
     "isMembers": true,
     "items": [
-      {
-        "currency": "Coins",
-        "name": "Bolt of cloth",
-        "stock": "1000",
-        "version": null
-      },
       {
         "currency": "Coins",
         "name": "Bronze nails",
