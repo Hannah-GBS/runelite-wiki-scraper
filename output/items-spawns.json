@@ -3884,6 +3884,14 @@
         "plane": "0"
       },
       {
+        "coords": "3053,2651",
+        "isMembers": true,
+        "location": "Dognose Island",
+        "mapID": "0",
+        "name": "Coins",
+        "plane": "0"
+      },
+      {
         "coords": "3003,9801",
         "isMembers": false,
         "location": "Dwarven Mine",
@@ -4496,6 +4504,14 @@
   {
     "group": "Dwarven stout",
     "spawns": [
+      {
+        "coords": "1938,2758",
+        "isMembers": true,
+        "location": "Deepfin Point",
+        "mapID": "-1",
+        "name": "Dwarven stout",
+        "plane": "0"
+      },
       {
         "coords": "2863,9875",
         "isMembers": true,
