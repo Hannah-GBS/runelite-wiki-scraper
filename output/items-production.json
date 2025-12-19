@@ -6754,8 +6754,15 @@
       "name": "Arder-musca poison",
       "quantity": "1"
     },
-    "skills": [],
-    "ticks": ""
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "10",
+        "level": "1",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": "6"
   },
   {
     "materials": [
@@ -10285,14 +10292,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "500",
         "level": "70",
         "name": "Smithing"
       }
     ],
-    "ticks": "",
-    "tools": ""
+    "ticks": "0"
   },
   {
     "facilities": "Patchy",
@@ -11896,7 +11902,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">130,047,399</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">132,505,282</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15218,7 +15224,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "145",
         "level": "48",
         "name": "Cooking"
@@ -15753,7 +15759,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "215",
         "level": "87",
         "name": "Cooking"
@@ -17109,7 +17115,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">128,472,773</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">133,414,960</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18949,6 +18955,54 @@
       }
     ],
     "ticks": "2",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Fresh crab claw",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Broken crab claw.png|class=inventory-image|link=Broken crab claw]]",
+      "name": "Broken crab claw",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "15",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "name": "Fresh crab shell",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Broken crab shell.png|class=inventory-image|link=Broken crab shell]]",
+      "name": "Broken crab shell",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "15",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
     "tools": "Chisel"
   },
   {
@@ -21916,6 +21970,78 @@
     "ticks": "4"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw anglerfish",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt anglerfish.png|class=inventory-image|link=Burnt anglerfish]]",
+      "name": "Burnt anglerfish",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "84",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw moonlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt antelope.png|class=inventory-image|link=Burnt antelope]]",
+      "name": "Burnt antelope",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "92",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw sunlight antelope",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt antelope.png|class=inventory-image|link=Burnt antelope]]",
+      "name": "Burnt antelope",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "68",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
     "materials": [
       {
         "name": "Raw giral bat (2)",
@@ -21937,7 +22063,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -21961,7 +22087,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -21985,7 +22111,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -22009,7 +22135,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -22033,7 +22159,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -22057,7 +22183,7 @@
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -22081,7 +22207,103 @@
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw batta",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt batta.png|class=inventory-image|link=Burnt batta]]",
+      "name": "Burnt batta",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Skewered beast",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt beast meat.png|class=inventory-image|link=Burnt beast meat]]",
+      "name": "Burnt beast meat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "21",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Skewered bird meat",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt bird meat.png|class=inventory-image|link=Burnt bird meat]]",
+      "name": "Burnt bird meat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "11",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw bluefin",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt bluefin.png|class=inventory-image|link=Burnt bluefin]]",
+      "name": "Burnt bluefin",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "87",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "facilities": "Bone grinder",
@@ -22103,6 +22325,78 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Bread dough",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "[[File:Burnt bread.png|class=inventory-image|link=Burnt bread]]",
+      "name": "Burnt bread",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Uncooked cake",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "[[File:Burnt cake.png|class=inventory-image|link=Burnt cake]]",
+      "name": "Burnt cake",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "40",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw cave eel",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt cave eel.png|class=inventory-image|link=Burnt cave eel]]",
+      "name": "Burnt cave eel",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "38",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "materials": [
@@ -22155,6 +22449,424 @@
     "facilities": "Cooking range",
     "materials": [
       {
+        "name": "Raw blue crab meat",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt crab meat.png|class=inventory-image|link=Burnt crab meat]]",
+      "name": "Burnt crab meat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "48",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw red crab meat",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt crab meat.png|class=inventory-image|link=Burnt crab meat]]",
+      "name": "Burnt crab meat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "21",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw crunchies",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt crunchies.png|class=inventory-image|link=Burnt crunchies]]",
+      "name": "Burnt crunchies",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Uncooked curry",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt curry.png|class=inventory-image|link=Burnt curry]]",
+      "name": "Burnt curry",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "60",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw dark crab",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt dark crab.png|class=inventory-image|link=Burnt dark crab]]",
+      "name": "Burnt dark crab",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "90",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw slimy eel",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt eel.png|class=inventory-image|link=Burnt eel]]",
+      "name": "Burnt eel",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "28",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Uncooked egg",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt egg.png|class=inventory-image|link=Burnt egg]]",
+      "name": "Burnt egg",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "13",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "name": "Raw brawk fish (3)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt fish (Chambers of Xeric).png|class=inventory-image|link=Burnt fish (Chambers of Xeric)]]",
+      "name": "Burnt fish (Chambers of Xeric)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "45",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "name": "Raw kyren fish (6)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt fish (Chambers of Xeric).png|class=inventory-image|link=Burnt fish (Chambers of Xeric)]]",
+      "name": "Burnt fish (Chambers of Xeric)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "90",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "name": "Raw leckish fish (2)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt fish (Chambers of Xeric).png|class=inventory-image|link=Burnt fish (Chambers of Xeric)]]",
+      "name": "Burnt fish (Chambers of Xeric)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "30",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "name": "Raw mycil fish (4)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt fish (Chambers of Xeric).png|class=inventory-image|link=Burnt fish (Chambers of Xeric)]]",
+      "name": "Burnt fish (Chambers of Xeric)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "60",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "name": "Raw pysk fish (0)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt fish (Chambers of Xeric).png|class=inventory-image|link=Burnt fish (Chambers of Xeric)]]",
+      "name": "Burnt fish (Chambers of Xeric)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "name": "Raw roqed fish (5)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt fish (Chambers of Xeric).png|class=inventory-image|link=Burnt fish (Chambers of Xeric)]]",
+      "name": "Burnt fish (Chambers of Xeric)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "75",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "name": "Raw suphi fish (1)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt fish (Chambers of Xeric).png|class=inventory-image|link=Burnt fish (Chambers of Xeric)]]",
+      "name": "Burnt fish (Chambers of Xeric)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "15",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw anchovies",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "[[File:Burnt fish (anchovies).png|class=inventory-image|link=Burnt fish (anchovies)]]",
+      "name": "Burnt fish (anchovies)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw herring",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "[[File:Burnt fish (herring).png|class=inventory-image|link=Burnt fish (herring)]]",
+      "name": "Burnt fish (herring)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "5",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Range (The Gauntlet)",
+    "materials": [
+      {
+        "name": "Raw paddlefish",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt fish (paddlefish).png|class=inventory-image|link=Burnt fish (paddlefish)]]",
+      "name": "Burnt fish (paddlefish)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
         "name": "Raw sardine",
         "quantity": "1"
       }
@@ -22200,6 +22912,199 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw tuna",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "[[File:Burnt fish (tuna).png|class=inventory-image|link=Burnt fish (tuna)]]",
+      "name": "Burnt fish (tuna)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "30",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw fishcake",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt fishcake.png|class=inventory-image|link=Burnt fishcake]]",
+      "name": "Burnt fishcake",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "31",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw pyre fox",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt fox meat.png|class=inventory-image|link=Burnt fox meat]]",
+      "name": "Burnt fox meat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "59",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Giant crab meat",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt giant crab meat.png|class=inventory-image|link=Burnt giant crab meat]]",
+      "name": "Burnt giant crab meat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "21",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw giant krill",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt giant krill.png|class=inventory-image|link=Burnt giant krill]]",
+      "name": "Burnt giant krill",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "69",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw gnomebowl",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt gnomebowl.png|class=inventory-image|link=Burnt gnomebowl]]",
+      "name": "Burnt gnomebowl",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw haddock",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt haddock.png|class=inventory-image|link=Burnt haddock]]",
+      "name": "Burnt haddock",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "73",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw halibut",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt halibut.png|class=inventory-image|link=Burnt halibut]]",
+      "name": "Burnt halibut",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "83",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "facilities": "Bone grinder",
@@ -22311,6 +23216,78 @@
     "ticks": "3"
   },
   {
+    "facilities": "Ogre spit-roast",
+    "materials": [
+      {
+        "name": "Raw jubbly",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt jubbly.png|class=inventory-image|link=Burnt jubbly]]",
+      "name": "Burnt jubbly",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "41",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "6"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw jumbo squid",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt jumbo squid.png|class=inventory-image|link=Burnt jumbo squid]]",
+      "name": "Burnt jumbo squid",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "71",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw karambwan",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt karambwan.png|class=inventory-image|link=Burnt karambwan]]",
+      "name": "Burnt karambwan",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "30",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
     "materials": [
       {
         "name": "Raw barb-tailed kebbit",
@@ -22375,6 +23352,150 @@
         "boostable": "Yes",
         "experience": "0",
         "level": "23",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw graahk",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt large beast.png|class=inventory-image|link=Burnt large beast]]",
+      "name": "Burnt large beast",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "41",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw kyatt",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt large beast.png|class=inventory-image|link=Burnt large beast]]",
+      "name": "Burnt large beast",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "51",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw larupia",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt large beast.png|class=inventory-image|link=Burnt large beast]]",
+      "name": "Burnt large beast",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "31",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw lobster",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "[[File:Burnt lobster.png|class=inventory-image|link=Burnt lobster]]",
+      "name": "Burnt lobster",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "40",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw manta ray",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt manta ray.png|class=inventory-image|link=Burnt manta ray]]",
+      "name": "Burnt manta ray",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "91",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw marlin",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt marlin.png|class=inventory-image|link=Burnt marlin]]",
+      "name": "Burnt marlin",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "91",
         "name": "Cooking"
       }
     ],
@@ -22571,6 +23692,102 @@
     "ticks": ""
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Sliced mushrooms",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt mushroom.png|class=inventory-image|link=Burnt mushroom]]",
+      "name": "Burnt mushroom",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "46",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Chopped onion",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt onion.png|class=inventory-image|link=Burnt onion]]",
+      "name": "Burnt onion",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "42",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw oomlie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt oomlie.png|class=inventory-image|link=Burnt oomlie]]",
+      "name": "Burnt oomlie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "50",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "name": "Wrapped oomlie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt oomlie wrap.png|class=inventory-image|link=Burnt oomlie wrap]]",
+      "name": "Burnt oomlie wrap",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "50",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
     "facilities": "Book of Eternal Flame",
     "materials": [
       {
@@ -22598,6 +23815,462 @@
     "facilities": "Cooking range",
     "materials": [
       {
+        "name": "Raw admiral pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "70",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw fish pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "47",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw garden pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "34",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw mud pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "29",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw summer pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "95",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw wild pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "85",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Uncooked apple pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "30",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Uncooked berry pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "10",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Uncooked botanical pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "52",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Uncooked dragonfruit pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "73",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Uncooked meat pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "20",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Uncooked mushroom pie",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
+      "name": "Burnt pie",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "60",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Uncooked pizza",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "[[File:Burnt pizza.png|class=inventory-image|link=Burnt pizza]]",
+      "name": "Burnt pizza",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "35",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Potato",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt potato.png|class=inventory-image|link=Burnt potato]]",
+      "name": "Burnt potato",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "7",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Skewered rabbit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt rabbit.png|class=inventory-image|link=Burnt rabbit]]",
+      "name": "Burnt rabbit",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "16",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw rainbow crab meat",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt rainbow crab meat.png|class=inventory-image|link=Burnt rainbow crab meat]]",
+      "name": "Burnt rainbow crab meat",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "77",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw rainbow fish",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt rainbow fish.png|class=inventory-image|link=Burnt rainbow fish]]",
+      "name": "Burnt rainbow fish",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "35",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw sea turtle",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt sea turtle.png|class=inventory-image|link=Burnt sea turtle]]",
+      "name": "Burnt sea turtle",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "82",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw shark",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt shark.png|class=inventory-image|link=Burnt shark]]",
+      "name": "Burnt shark",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "80",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
         "name": "Raw shrimps",
         "quantity": "1"
       }
@@ -22613,6 +24286,222 @@
         "boostable": "",
         "experience": "0",
         "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Fat snail",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt snail.png|class=inventory-image|link=Burnt snail]]",
+      "name": "Burnt snail",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "22",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Lean snail",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt snail.png|class=inventory-image|link=Burnt snail]]",
+      "name": "Burnt snail",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "17",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Thin snail",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt snail.png|class=inventory-image|link=Burnt snail]]",
+      "name": "Burnt snail",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "12",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Spider on stick",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt spider.png|class=inventory-image|link=Burnt spider]]",
+      "name": "Burnt spider",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "16",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Uncooked stew",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt stew.png|class=inventory-image|link=Burnt stew]]",
+      "name": "Burnt stew",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "42",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Sweetcorn",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt sweetcorn.png|class=inventory-image|link=Burnt sweetcorn]]",
+      "name": "Burnt sweetcorn",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "28",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw swordfish",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "[[File:Burnt swordfish.png|class=inventory-image|link=Burnt swordfish]]",
+      "name": "Burnt swordfish",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "45",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw swordtip squid",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt swordtip squid.png|class=inventory-image|link=Burnt swordtip squid]]",
+      "name": "Burnt swordtip squid",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "56",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw yellowfin",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt yellowfin.png|class=inventory-image|link=Burnt yellowfin]]",
+      "name": "Burnt yellowfin",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "79",
         "name": "Cooking"
       }
     ],
@@ -44221,246 +46110,6 @@
     "tools": "Gardening_trowel"
   },
   {
-    "materials": [
-      {
-        "name": "Raw anglerfish",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
-      "name": "Fine fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw bluefin",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
-      "name": "Fine fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw dark crab",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
-      "name": "Fine fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw halibut",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
-      "name": "Fine fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw jumbo squid",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
-      "name": "Fine fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw manta ray",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
-      "name": "Fine fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw marlin",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
-      "name": "Fine fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw sea turtle",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
-      "name": "Fine fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw shark",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
-      "name": "Fine fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw yellowfin",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
-      "name": "Fine fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
     "facilities": "Crystal ball space",
     "materials": [
       {
@@ -44815,6 +46464,26 @@
   {
     "materials": [
       {
+        "name": "Fish crate (empty)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw bluefin",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish crate (bluefin).png|class=inventory-image|link=Fish crate (bluefin)]]",
+      "name": "Fish crate (bluefin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "name": "Camphor crate",
         "quantity": "10"
       },
@@ -44836,7 +46505,7 @@
   {
     "materials": [
       {
-        "name": "fish crate (empty)",
+        "name": "Fish crate (empty)",
         "quantity": "1"
       },
       {
@@ -44848,6 +46517,86 @@
     "output": {
       "image": "[[File:Fish crate (giant krill).png|class=inventory-image|link=Fish crate (giant krill)]]",
       "name": "Fish crate (giant krill)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Fish crate (empty)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw haddock",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish crate (haddock).png|class=inventory-image|link=Fish crate (haddock)]]",
+      "name": "Fish crate (haddock)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Fish crate (empty)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw halibut",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish crate (halibut).png|class=inventory-image|link=Fish crate (halibut)]]",
+      "name": "Fish crate (halibut)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Fish crate (empty)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw marlin",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish crate (marlin).png|class=inventory-image|link=Fish crate (marlin)]]",
+      "name": "Fish crate (marlin)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Fish crate (empty)",
+        "quantity": "1"
+      },
+      {
+        "name": "Raw yellowfin",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish crate (yellowfin).png|class=inventory-image|link=Fish crate (yellowfin)]]",
+      "name": "Fish crate (yellowfin)",
       "quantity": "1"
     },
     "skills": [],
@@ -44876,582 +46625,6 @@
     },
     "skills": [],
     "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "name": "Bluegill",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "3.5",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Common tench",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "10",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Greater siren",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "25",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Leaping salmon",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "0",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Leaping sturgeon",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "0",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Leaping trout",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "0",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Mottled eel",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "20",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw anchovies",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw bass",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw cod",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw giant krill",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw haddock",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw herring",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw lobster",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw mackerel",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw monkfish",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw pike",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw salmon",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw sardine",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw shrimps",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw swordfish",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw swordtip squid",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw trout",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
-  },
-  {
-    "materials": [
-      {
-        "name": "Raw tuna",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
-      "name": "Fish offcuts",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "2",
-        "level": "1",
-        "name": "Cooking"
-      }
-    ],
-    "ticks": "3",
-    "tools": "Knife"
   },
   {
     "facilities": "Cooking range",
@@ -46781,13 +47954,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "177.5",
         "level": "69",
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -50609,13 +51782,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "180",
         "level": "73",
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -50630,7 +51803,14 @@
       "name": "Haddock eye",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "cooking"
+      }
+    ],
     "ticks": "3",
     "tools": "Knife"
   },
@@ -51225,7 +52405,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "212.5",
         "level": "83",
         "name": "Cooking"
@@ -57013,7 +58193,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "180",
         "level": "71",
         "name": "Cooking"
@@ -63194,13 +64374,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "225",
-        "level": "93",
+        "level": "91",
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -63219,8 +64399,8 @@
       {
         "boostable": "",
         "experience": "2",
-        "level": "93",
-        "name": "Cooking"
+        "level": "1",
+        "name": "cooking"
       }
     ],
     "ticks": "3",
@@ -77594,7 +78774,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "200",
         "level": "77",
         "name": "Cooking"
@@ -78260,7 +79440,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "12",
         "level": "77",
         "name": "Cooking"
@@ -78283,9 +79463,9 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "yes",
         "experience": "5",
-        "level": "?",
+        "level": "21",
         "name": "Cooking"
       }
     ],
@@ -78625,7 +79805,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "85",
         "level": "21",
         "name": "Cooking"
@@ -81918,6 +83098,60 @@
     ],
     "ticks": "",
     "tools": "Knife"
+  },
+  {
+    "facilities": "Ogre spit-roast",
+    "materials": [
+      {
+        "name": "Raw chompy",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Ruined chompy.png|class=inventory-image|link=Ruined chompy]]",
+      "name": "Ruined chompy",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "30",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "5"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Skewered chompy",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Ruined chompy.png|class=inventory-image|link=Ruined chompy]]",
+      "name": "Ruined chompy",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "30",
+        "name": "Cooking"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "20",
+        "name": "Firemaking"
+      }
+    ],
+    "ticks": "3"
   },
   {
     "facilities": "Preparation Table",
@@ -90703,6 +91937,30 @@
     "tools": "Tinderbox"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Raw stuffed snake",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Snake over-cooked.png|class=inventory-image|link=Snake over-cooked]]",
+      "name": "Snake over-cooked",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "70",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
     "materials": [
       {
         "name": "Grimy snake weed",
@@ -92185,6 +93443,30 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "name": "Spider on shaft (raw)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Spider on shaft (burnt).png|class=inventory-image|link=Spider on shaft (burnt)]]",
+      "name": "Spider on shaft (burnt)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "16",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "materials": [
@@ -97647,7 +98929,7 @@
       {
         "boostable": "Yes",
         "experience": "66",
-        "level": "67",
+        "level": "56",
         "name": "Magic"
       }
     ],
@@ -99061,13 +100343,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "150",
         "level": "56",
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "facilities": "Cooking range",
@@ -107428,7 +108710,14 @@
       "name": "Yellow fin",
       "quantity": "3"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "cooking"
+      }
+    ],
     "ticks": "3",
     "tools": "Knife"
   },
@@ -107488,13 +108777,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "200",
         "level": "79",
         "name": "Cooking"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [

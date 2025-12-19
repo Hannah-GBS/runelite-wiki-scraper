@@ -15134,120 +15134,6 @@
   },
   {
     "buyMultiplier": "700",
-    "coords": "3250,2468",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Basket",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Basket pack",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Compost",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Compost pack",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty sack",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Filled plant pot",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Gardening trowel",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Plant cure",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Plant pot pack",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Rake",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Sack pack",
-        "stock": "30",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Secateurs",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Seed dibber",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spade",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Watering can",
-        "stock": "10",
-        "version": null
-      }
-    ],
-    "location": "The Great Conch",
-    "mapID": "0",
-    "name": "Elder Reggle's Farming Shop",
-    "plane": "0",
-    "sellMultiplier": "1000"
-  },
-  {
-    "buyMultiplier": "700",
     "coords": "3160,2410",
     "isMembers": true,
     "items": [
@@ -23919,7 +23805,7 @@
   },
   {
     "coords": "3142,3635",
-    "isMembers": false,
+    "isMembers": true,
     "items": [
       {
         "buyPrice": "N/A",
@@ -32411,7 +32297,7 @@
       {
         "currency": "Coins",
         "name": "Raw lobster",
-        "stock": "4",
+        "stock": "6",
         "version": null
       },
       {
@@ -39800,7 +39686,7 @@
     ],
     "location": "The Pandemonium",
     "mapID": "-1",
-    "name": "The Pandemonium (Pub)",
+    "name": "The Pandemonium (pub)",
     "plane": "0"
   },
   {
