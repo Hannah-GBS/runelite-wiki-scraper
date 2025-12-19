@@ -11902,7 +11902,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">132,505,282</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">132,394,246</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -17115,7 +17115,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">133,414,960</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">131,902,153</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -46110,6 +46110,246 @@
     "tools": "Gardening_trowel"
   },
   {
+    "materials": [
+      {
+        "name": "Raw anglerfish",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw bluefin",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw dark crab",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw halibut",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw jumbo squid",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw manta ray",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw marlin",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw sea turtle",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw shark",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw yellowfin",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fine fish offcuts.png|class=inventory-image|link=Fine fish offcuts]]",
+      "name": "Fine fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
     "facilities": "Crystal ball space",
     "materials": [
       {
@@ -46625,6 +46865,582 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Bluegill",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "3.5",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Common tench",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "10",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Greater siren",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "25",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Leaping salmon",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Leaping sturgeon",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Leaping trout",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Mottled eel",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "20",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw anchovies",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw bass",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw cod",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw giant krill",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw haddock",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw herring",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw lobster",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw mackerel",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw monkfish",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw pike",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw salmon",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw sardine",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw shrimps",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw swordfish",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw swordtip squid",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw trout",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "name": "Raw tuna",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Fish offcuts.png|class=inventory-image|link=Fish offcuts]]",
+      "name": "Fish offcuts",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
   },
   {
     "facilities": "Cooking range",
@@ -76245,7 +77061,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "?",
+        "experience": "0",
         "level": "62",
         "name": "Herblore"
       }
@@ -103428,7 +104244,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "N/A",
+        "experience": "0",
         "level": "89",
         "name": "Herblore"
       }
