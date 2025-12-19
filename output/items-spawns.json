@@ -689,7 +689,7 @@
         "coords": "2691,8884",
         "isMembers": false,
         "location": "Charred Dungeon",
-        "mapID": "0",
+        "mapID": "-1",
         "name": "Black dagger",
         "plane": "0"
       },
@@ -1910,6 +1910,19 @@
         "mapID": "0",
         "name": "Broken glass",
         "plane": "2"
+      }
+    ]
+  },
+  {
+    "group": "Broken hasta (tortugan)",
+    "spawns": [
+      {
+        "coords": "3172,2428",
+        "isMembers": true,
+        "location": "The Summer Shore - Elder Blunn's house",
+        "mapID": "0",
+        "name": "Broken hasta",
+        "plane": "0"
       }
     ]
   },
@@ -4985,6 +4998,19 @@
     ]
   },
   {
+    "group": "Fossilised skull (tortugan)",
+    "spawns": [
+      {
+        "coords": "3168,2399",
+        "isMembers": true,
+        "location": "The Summer Shore - Elder Coco's house",
+        "mapID": "0",
+        "name": "Fossilised skull",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Garlic",
     "spawns": [
       {
@@ -6043,7 +6069,15 @@
         "coords": "1499,3860",
         "isMembers": true,
         "location": "Blast mine",
-        "mapID": "0",
+        "mapID": "-1",
+        "name": "Iron pickaxe",
+        "plane": "0"
+      },
+      {
+        "coords": "1945,2758",
+        "isMembers": true,
+        "location": "Deepfin point",
+        "mapID": "-1",
         "name": "Iron pickaxe",
         "plane": "0"
       },
@@ -7280,8 +7314,8 @@
       {
         "coords": "2698,8891",
         "isMembers": false,
-        "location": "Unquiet Ocean Underground - Charred Dungeon",
-        "mapID": "0",
+        "location": "Charred Dungeon",
+        "mapID": "-1",
         "name": "Magic staff",
         "plane": "0"
       }
@@ -8732,6 +8766,14 @@
         "plane": "0"
       },
       {
+        "coords": "2650,2388",
+        "isMembers": true,
+        "location": "Charred Island",
+        "mapID": "-1",
+        "name": "Rope",
+        "plane": "0"
+      },
+      {
         "coords": "1765,3103",
         "isMembers": true,
         "location": "Civitas illa Fortis",
@@ -9079,6 +9121,22 @@
         "isMembers": true,
         "location": "Around Salvager Overlook{{Refn|name=telegrab|These spawns require telekinetic grab to obtain. One is not reachable.}}",
         "mapID": "-1",
+        "name": "Seaweed",
+        "plane": "0"
+      },
+      {
+        "coords": "3321,2326",
+        "isMembers": true,
+        "location": "Cape Conch",
+        "mapID": "0",
+        "name": "Seaweed",
+        "plane": "0"
+      },
+      {
+        "coords": "2652,2413",
+        "isMembers": true,
+        "location": "Charred Island",
+        "mapID": "0",
         "name": "Seaweed",
         "plane": "0"
       },
@@ -9714,6 +9772,19 @@
     ]
   },
   {
+    "group": "Spirit angler headband (tortugan)",
+    "spawns": [
+      {
+        "coords": "3167,2423",
+        "isMembers": true,
+        "location": "The Summer Shore - Elder Krill's house",
+        "mapID": "0",
+        "name": "Spirit angler headband",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Staff",
     "spawns": [
       {
@@ -10183,6 +10254,19 @@
         "mapID": "0",
         "name": "Tankard",
         "plane": "0"
+      }
+    ]
+  },
+  {
+    "group": "Tankard (tortugan)",
+    "spawns": [
+      {
+        "coords": "3133,2413",
+        "isMembers": true,
+        "location": "The Summer Shore - westernmost house (1st floor)",
+        "mapID": "0",
+        "name": "Tankard",
+        "plane": "1"
       }
     ]
   },

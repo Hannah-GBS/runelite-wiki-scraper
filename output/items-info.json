@@ -46205,7 +46205,7 @@
     "isMembers": true,
     "isTradeable": true,
     "itemID": 8924,
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (white)",
     "url": "https://oldschool.runescape.wiki/w/Bandana_eyepatch_(white)",
     "version": null
   },
@@ -46215,7 +46215,7 @@
     "isMembers": true,
     "isTradeable": true,
     "itemID": 8925,
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (red)",
     "url": "https://oldschool.runescape.wiki/w/Bandana_eyepatch_(red)",
     "version": null
   },
@@ -46225,7 +46225,7 @@
     "isMembers": true,
     "isTradeable": true,
     "itemID": 8926,
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (blue)",
     "url": "https://oldschool.runescape.wiki/w/Bandana_eyepatch_(blue)",
     "version": null
   },
@@ -46235,7 +46235,7 @@
     "isMembers": true,
     "isTradeable": true,
     "itemID": 8927,
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (brown)",
     "url": "https://oldschool.runescape.wiki/w/Bandana_eyepatch_(brown)",
     "version": null
   },
@@ -93863,7 +93863,7 @@
     "examineText": "3 doses of super restore potion, blighted so it can be used only in the Wilderness.",
     "group": "Blighted super restore",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 24601,
     "name": "Blighted super restore(3)",
     "url": "https://oldschool.runescape.wiki/w/Blighted_super_restore",
@@ -93873,7 +93873,7 @@
     "examineText": "2 doses of super restore potion, blighted so it can be used only in the Wilderness.",
     "group": "Blighted super restore",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 24603,
     "name": "Blighted super restore(2)",
     "url": "https://oldschool.runescape.wiki/w/Blighted_super_restore",
@@ -93883,7 +93883,7 @@
     "examineText": "1 dose of super restore potion, blighted so it can be used only in the Wilderness.",
     "group": "Blighted super restore",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 24605,
     "name": "Blighted super restore(1)",
     "url": "https://oldschool.runescape.wiki/w/Blighted_super_restore",
@@ -108437,6 +108437,16 @@
     "itemID": 27679,
     "name": "Accursed sceptre (a)",
     "url": "https://oldschool.runescape.wiki/w/Accursed_sceptre_(a)",
+    "version": "Charged"
+  },
+  {
+    "examineText": "A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion.",
+    "group": "Accursed sceptre (a) (beta)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 27679,
+    "name": "Accursed sceptre",
+    "url": "https://oldschool.runescape.wiki/w/Accursed_sceptre_(a)_(beta)",
     "version": "Charged"
   },
   {
@@ -124457,7 +124467,17 @@
     "itemID": 31328,
     "name": "Form 7r4-5h",
     "url": "https://oldschool.runescape.wiki/w/Form_7r4-5h",
-    "version": null
+    "version": "Unsigned"
+  },
+  {
+    "examineText": "A very important form... apparently.",
+    "group": "Form 7r4-5h",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 31329,
+    "name": "Form 7r4-5h",
+    "url": "https://oldschool.runescape.wiki/w/Form_7r4-5h",
+    "version": "'Signed'"
   },
   {
     "examineText": "A bowl fit for a fish and/or a mayor.",
@@ -126090,7 +126110,7 @@
     "version": null
   },
   {
-    "examineText": "The log book is bursting with data about the weather in the area and you finally feel like you've charted something properly for once. Return this to Meaty Aura Logist.",
+    "examineText": "The log book is bursting with data about the weather in the area. Return this to Meaty Aura Logist.",
     "group": "Data filled portable weather station",
     "isMembers": true,
     "isTradeable": false,
@@ -126907,146 +126927,6 @@
     "itemID": 31916,
     "name": "Dragon cannonball",
     "url": "https://oldschool.runescape.wiki/w/Dragon_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Bronze chainshot cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31918,
-    "name": "Bronze chainshot cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Bronze_chainshot_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Iron chainshot cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31920,
-    "name": "Iron chainshot cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Iron_chainshot_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Steel chainshot cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31922,
-    "name": "Steel chainshot cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Steel_chainshot_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Mithril chainshot cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31924,
-    "name": "Mithril chainshot cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Mithril_chainshot_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Adamant chainshot cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31926,
-    "name": "Adamant chainshot cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Adamant_chainshot_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Rune chainshot cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31928,
-    "name": "Rune chainshot cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Rune_chainshot_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Dragon chainshot cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31930,
-    "name": "Dragon chainshot cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Dragon_chainshot_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Bronze incendiary cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31932,
-    "name": "Bronze incendiary cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Bronze_incendiary_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Iron incendiary cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31934,
-    "name": "Iron incendiary cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Iron_incendiary_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Steel incendiary cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31936,
-    "name": "Steel incendiary cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Steel_incendiary_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Mithril incendiary cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31938,
-    "name": "Mithril incendiary cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Mithril_incendiary_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Adamant incendiary cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31940,
-    "name": "Adamant incendiary cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Adamant_incendiary_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Rune incendiary cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31942,
-    "name": "Rune incendiary cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Rune_incendiary_cannonball",
-    "version": null
-  },
-  {
-    "examineText": "Ammo suited for a boat's cannon.",
-    "group": "Dragon incendiary cannonball",
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 31944,
-    "name": "Dragon incendiary cannonball",
-    "url": "https://oldschool.runescape.wiki/w/Dragon_incendiary_cannonball",
     "version": null
   },
   {
@@ -128230,13 +128110,13 @@
     "version": null
   },
   {
-    "examineText": "A small key dug up on Ynsdail.",
-    "group": "Small key (ynsdail)",
+    "examineText": "A small key dug up on Ynysdail.",
+    "group": "Small key (ynysdail)",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32414,
-    "name": "Small key (ynsdail){{sic}}",
-    "url": "https://oldschool.runescape.wiki/w/Small_key_(ynsdail)",
+    "name": "Small key (ynysdail)",
+    "url": "https://oldschool.runescape.wiki/w/Small_key_(ynysdail)",
     "version": null
   },
   {
