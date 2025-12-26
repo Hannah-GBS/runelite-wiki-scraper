@@ -5638,7 +5638,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "11",
         "level": "49",
         "name": "Herblore"
@@ -6954,7 +6954,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "205",
         "level": "89",
         "name": "Herblore"
@@ -7110,7 +7110,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "11",
+    "ticks": "10",
     "tools": "Specimen brush"
   },
   {
@@ -7683,30 +7683,6 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Atlatl dart tips.png|class=inventory-image|link=Atlatl dart tips]]",
-      "name": "Atlatl dart tips",
-      "quantity": "100"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "10",
-        "level": "74",
-        "name": "Fletching"
-      }
-    ],
-    "ticks": "4",
-    "tools": "Chisel"
-  },
-  {
-    "materials": [
-      {
-        "name": "Broken antler",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
       "image": "[[File:Atlatl_dart_tips_5.png|class=inventory-image|link=Atlatl dart tips]]",
       "name": "Atlatl dart tips",
       "quantity": "100"
@@ -7904,6 +7880,44 @@
       "quantity": "1"
     },
     "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy avantoe",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Avantoe.png|class=inventory-image|link=Avantoe]]",
+      "name": "Avantoe",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5",
+        "level": "48",
+        "name": "Herblore"
+      }
+    ],
     "ticks": ""
   },
   {
@@ -8435,7 +8449,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "11",
+    "ticks": "10",
     "tools": "Specimen brush"
   },
   {
@@ -11902,7 +11916,7 @@
     "output": {
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">132,394,246</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">136,052,714</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -16284,7 +16298,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "75",
         "level": "39",
         "name": "Crafting"
@@ -16308,7 +16322,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "132",
         "level": "73",
         "name": "Crafting"
@@ -16332,7 +16346,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "20",
         "level": "12",
         "name": "Crafting"
@@ -17115,7 +17129,7 @@
     "output": {
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">131,902,153</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">138,230,899</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -24548,6 +24562,44 @@
       {
         "name": "Grimy cadantine",
         "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Cadantine.png|class=inventory-image|link=Cadantine]]",
+      "name": "Cadantine",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "6.2",
+        "level": "65",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy cadantine",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -24834,7 +24886,9 @@
         "level": "58",
         "name": "Fletching"
       }
-    ]
+    ],
+    "ticks": "3",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -38709,6 +38763,27 @@
     "ticks": "1"
   },
   {
+    "facilities": "Oldak",
+    "materials": [
+      {
+        "name": "Molten glass",
+        "quantity": "1"
+      },
+      {
+        "name": "Law rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Dorgesh-kaan sphere.png|class=inventory-image|link=Dorgesh-kaan sphere]]",
+      "name": "Dorgesh-kaan sphere",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Patchy",
     "materials": [
       {
@@ -41867,6 +41942,44 @@
       {
         "name": "Grimy dwarf weed",
         "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Dwarf weed.png|class=inventory-image|link=Dwarf weed]]",
+      "name": "Dwarf weed",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "6.9",
+        "level": "70",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy dwarf weed",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -43495,7 +43608,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "0",
         "level": "56",
         "name": "Herblore"
@@ -49097,6 +49210,27 @@
     "skills": []
   },
   {
+    "facilities": "Oldak",
+    "materials": [
+      {
+        "name": "Molten glass",
+        "quantity": "1"
+      },
+      {
+        "name": "Law rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Goblin village sphere.png|class=inventory-image|link=Goblin village sphere]]",
+      "name": "Goblin village sphere",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -51927,6 +52061,44 @@
       {
         "name": "Grimy guam leaf",
         "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Guam leaf.png|class=inventory-image|link=Guam leaf]]",
+      "name": "Guam leaf",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "1.2",
+        "level": "3",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy guam leaf",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -52649,7 +52821,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "100",
         "level": "56",
         "name": "Herblore"
@@ -52676,13 +52848,13 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "27",
         "level": "56",
         "name": "Herblore"
       }
     ],
-    "ticks": ""
+    "ticks": "2"
   },
   {
     "facilities": "Cooking range",
@@ -53499,6 +53671,44 @@
       {
         "name": "Grimy harralander",
         "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Harralander.png|class=inventory-image|link=Harralander]]",
+      "name": "Harralander",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "3.1",
+        "level": "20",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy harralander",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -53832,7 +54042,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "11",
+    "ticks": "10",
     "tools": "Specimen brush"
   },
   {
@@ -53851,7 +54061,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "60",
         "level": "39",
         "name": "Crafting"
@@ -54594,6 +54804,44 @@
         "experience": "1",
         "level": "1",
         "name": "Cooking"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy huasca",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Huasca.png|class=inventory-image|link=Huasca]]",
+      "name": "Huasca",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5.9",
+        "level": "58",
+        "name": "Herblore"
       }
     ],
     "ticks": ""
@@ -56306,6 +56554,44 @@
         "boostable": "No",
         "experience": "5",
         "level": "70",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy irit leaf",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Irit leaf.png|class=inventory-image|link=Irit leaf]]",
+      "name": "Irit leaf",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "4.4",
+        "level": "40",
         "name": "Herblore"
       }
     ],
@@ -58090,6 +58376,7 @@
         "name": "Fletching"
       }
     ],
+    "ticks": "3",
     "tools": "Knife"
   },
   {
@@ -59854,6 +60141,44 @@
       {
         "name": "Grimy kwuarm",
         "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Kwuarm.png|class=inventory-image|link=Kwuarm]]",
+      "name": "Kwuarm",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5.6",
+        "level": "54",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy kwuarm",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -60026,6 +60351,44 @@
       }
     ],
     "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy lantadyme",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Lantadyme.png|class=inventory-image|link=Lantadyme]]",
+      "name": "Lantadyme",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "6.5",
+        "level": "67",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
   },
   {
     "materials": [
@@ -62236,7 +62599,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "16",
         "level": "12",
         "name": "Crafting"
@@ -63654,7 +64017,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "11",
+    "ticks": "10",
     "tools": "Specimen brush"
   },
   {
@@ -65243,6 +65606,44 @@
       {
         "boostable": "No",
         "experience": "84",
+        "level": "5",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy marrentill",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Marrentill.png|class=inventory-image|link=Marrentill]]",
+      "name": "Marrentill",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "1.9",
         "level": "5",
         "name": "Herblore"
       }
@@ -77782,6 +78183,27 @@
     "ticks": "1"
   },
   {
+    "facilities": "Oldak",
+    "materials": [
+      {
+        "name": "Molten glass",
+        "quantity": "1"
+      },
+      {
+        "name": "Law rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Plain of mud sphere.png|class=inventory-image|link=Plain of mud sphere]]",
+      "name": "Plain of mud sphere",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Cooking range",
     "materials": [
       {
@@ -79691,6 +80113,44 @@
       {
         "name": "Grimy ranarr weed",
         "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Ranarr weed.png|class=inventory-image|link=Ranarr weed]]",
+      "name": "Ranarr weed",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "3.7",
+        "level": "25",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy ranarr weed",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -80022,7 +80482,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "8",
         "level": "48",
         "name": "Cooking"
@@ -80262,7 +80722,8 @@
         "name": "Cooking"
       }
     ],
-    "ticks": "0"
+    "ticks": "0",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -80285,7 +80746,8 @@
         "name": "Cooking"
       }
     ],
-    "ticks": "0"
+    "ticks": "0",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -82935,7 +83397,7 @@
     },
     "skills": [
       {
-        "boostable": "yes",
+        "boostable": "Yes",
         "experience": "200",
         "level": "84",
         "name": "Fletching"
@@ -90478,7 +90940,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "11",
+    "ticks": "10",
     "tools": "Specimen brush"
   },
   {
@@ -93277,6 +93739,44 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy snapdragon",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Snapdragon.png|class=inventory-image|link=Snapdragon]]",
+      "name": "Snapdragon",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "5.9",
+        "level": "59",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
   },
   {
     "materials": [
@@ -99456,6 +99956,69 @@
     "facilities": "Taxidermist",
     "materials": [
       {
+        "name": "Giant blue krill",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "5000"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Stuffed giant blue krill.png|class=inventory-image|link=Stuffed giant blue krill]]",
+      "name": "Stuffed giant blue krill",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Golden haddock",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "5000"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Stuffed golden haddock.png|class=inventory-image|link=Stuffed golden haddock]]",
+      "name": "Stuffed golden haddock",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Huge halibut",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "5500"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Stuffed huge halibut.png|class=inventory-image|link=Stuffed huge halibut]]",
+      "name": "Stuffed huge halibut",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
         "name": "Alchemical hydra heads",
         "quantity": "1"
       },
@@ -99558,6 +100121,48 @@
     "ticks": "1"
   },
   {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Orangefin",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "5000"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Stuffed orangefin.png|class=inventory-image|link=Stuffed orangefin]]",
+      "name": "Stuffed orangefin",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Purplefin",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "6000"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Stuffed purplefin.png|class=inventory-image|link=Stuffed purplefin]]",
+      "name": "Stuffed purplefin",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Rock (snake cooker)",
     "materials": [
       {
@@ -99580,6 +100185,27 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "facilities": "Taxidermist",
+    "materials": [
+      {
+        "name": "Swift marlin",
+        "quantity": "1"
+      },
+      {
+        "name": "Coins",
+        "quantity": "6500"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Stuffed swift marlin.png|class=inventory-image|link=Stuffed swift marlin]]",
+      "name": "Stuffed swift marlin",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -99715,7 +100341,6 @@
     "tools": "Pestle and mortar"
   },
   {
-    "facilities": "",
     "materials": [
       {
         "name": "Law rune",
@@ -99723,11 +100348,11 @@
       },
       {
         "name": "Earth rune",
-        "quantity": "2"
+        "quantity": "1"
       },
       {
         "name": "Water rune",
-        "quantity": "2"
+        "quantity": "1"
       },
       {
         "name": "Soft clay",
@@ -99749,7 +100374,7 @@
         "name": "Magic"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "facilities": "Shrine of Ralos",
@@ -100368,7 +100993,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "140.5",
         "level": "62",
         "name": "Herblore"
@@ -100395,7 +101020,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "154",
         "level": "67",
         "name": "Herblore"
@@ -101116,7 +101741,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "11",
+    "ticks": "10",
     "tools": "Specimen brush"
   },
   {
@@ -101190,6 +101815,44 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy tarromin",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Tarromin.png|class=inventory-image|link=Tarromin]]",
+      "name": "Tarromin",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "2.5",
+        "level": "11",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
   },
   {
     "materials": [
@@ -101799,7 +102462,6 @@
     "ticks": "1"
   },
   {
-    "facilities": "",
     "materials": [
       {
         "name": "Law rune",
@@ -101807,11 +102469,11 @@
       },
       {
         "name": "Earth rune",
-        "quantity": "1"
+        "quantity": "2"
       },
       {
         "name": "Water rune",
-        "quantity": "1"
+        "quantity": "2"
       },
       {
         "name": "Soft clay",
@@ -101829,11 +102491,11 @@
       {
         "boostable": "Yes",
         "experience": "77",
-        "level": "56",
+        "level": "67",
         "name": "Magic"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "facilities": "Mahogany eagle lectern",
@@ -102231,6 +102893,44 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy toadflax",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Toadflax.png|class=inventory-image|link=Toadflax]]",
+      "name": "Toadflax",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "4",
+        "level": "30",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
   },
   {
     "materials": [
@@ -102733,6 +103433,44 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "name": "Grimy torstol",
+        "quantity": "1"
+      },
+      {
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "name": "Nature rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Torstol.png|class=inventory-image|link=Torstol]]",
+      "name": "Torstol",
+      "quantity": "1",
+      "subtxt": "Degrime"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "70",
+        "name": "Magic"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "7.5",
+        "level": "75",
+        "name": "Herblore"
+      }
+    ],
+    "ticks": ""
   },
   {
     "materials": [
