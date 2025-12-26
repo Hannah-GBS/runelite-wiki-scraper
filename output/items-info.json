@@ -22617,7 +22617,7 @@
     "itemID": 4260,
     "name": "Baby dragon bonemeal",
     "url": "https://oldschool.runescape.wiki/w/Baby_dragon_bonemeal",
-    "version": null
+    "version": "Babydragon"
   },
   {
     "examineText": "A pot of crushed dragon bones.",
@@ -114910,6 +114910,16 @@
     "version": null
   },
   {
+    "examineText": "A pot of crushed baby wyrm bones.",
+    "group": "Baby dragon bonemeal",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 28984,
+    "name": "Baby dragon bonemeal",
+    "url": "https://oldschool.runescape.wiki/w/Baby_dragon_bonemeal",
+    "version": "Wyrmling"
+  },
+  {
     "examineText": "A love letter. It's awful.",
     "group": "Love letter",
     "isMembers": true,
@@ -124420,36 +124430,6 @@
     "version": null
   },
   {
-    "examineText": "An old pirate medallion.",
-    "group": "Pirate medallion",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 31297,
-    "name": "Pirate medallion",
-    "url": "https://oldschool.runescape.wiki/w/Pirate_medallion",
-    "version": null
-  },
-  {
-    "examineText": "You'll look daft, but at least you won't drown!",
-    "group": "Deep sea helmet",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 31298,
-    "name": "Deep sea helmet",
-    "url": "https://oldschool.runescape.wiki/w/Deep_sea_helmet",
-    "version": null
-  },
-  {
-    "examineText": "I'll need a helmet to make this work.",
-    "group": "Deep sea apparatus",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 31300,
-    "name": "Deep sea apparatus",
-    "url": "https://oldschool.runescape.wiki/w/Deep_sea_apparatus",
-    "version": null
-  },
-  {
     "examineText": "None of this information feels important to anyone.",
     "group": "Form cr-4p",
     "isMembers": true,
@@ -125153,7 +125133,7 @@
     "examineText": "Oops!",
     "group": "Burnt jumbo squid",
     "isMembers": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "itemID": 31567,
     "name": "Burnt jumbo squid",
     "url": "https://oldschool.runescape.wiki/w/Burnt_jumbo_squid",
@@ -125547,7 +125527,7 @@
     "itemID": 31677,
     "name": "Rainbow crab",
     "url": "https://oldschool.runescape.wiki/w/Rainbow_crab",
-    "version": "1"
+    "version": "Type A"
   },
   {
     "examineText": "You'll need something to break through that shell.",
@@ -125557,7 +125537,7 @@
     "itemID": 31680,
     "name": "Rainbow crab",
     "url": "https://oldschool.runescape.wiki/w/Rainbow_crab",
-    "version": "2"
+    "version": "Type B"
   },
   {
     "examineText": "You'll need something to break through that shell.",
@@ -125567,7 +125547,7 @@
     "itemID": 31683,
     "name": "Rainbow crab",
     "url": "https://oldschool.runescape.wiki/w/Rainbow_crab",
-    "version": "3"
+    "version": "Type C"
   },
   {
     "examineText": "I should try cooking this.",
@@ -125950,16 +125930,6 @@
     "version": null
   },
   {
-    "examineText": "Rum shipment from a merchant ship south of Storm Tempor.",
-    "group": "Sunken rum",
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 31768,
-    "name": "Sunken rum",
-    "url": "https://oldschool.runescape.wiki/w/Sunken_rum",
-    "version": null
-  },
-  {
     "examineText": "Looks like it might be worth a bit of money.",
     "group": "Tiny pearl",
     "isMembers": true,
@@ -126107,17 +126077,17 @@
     "itemID": 31809,
     "name": "Portable weather station",
     "url": "https://oldschool.runescape.wiki/w/Portable_weather_station",
-    "version": null
+    "version": "Empty"
   },
   {
     "examineText": "The log book is bursting with data about the weather in the area. Return this to Meaty Aura Logist.",
-    "group": "Data filled portable weather station",
+    "group": "Portable weather station",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 31810,
     "name": "Data filled portable weather station",
-    "url": "https://oldschool.runescape.wiki/w/Data_filled_portable_weather_station",
-    "version": null
+    "url": "https://oldschool.runescape.wiki/w/Portable_weather_station",
+    "version": "Filled"
   },
   {
     "examineText": "Rum-dashed Ralph's specialty. It's made from rum, fresh bananas, rum, sugar cane and rum!",

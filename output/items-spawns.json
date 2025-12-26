@@ -5123,7 +5123,7 @@
       },
       {
         "coords": "3065,3864",
-        "isMembers": false,
+        "isMembers": true,
         "location": "Wilderness - Lava Maze",
         "mapID": "0",
         "name": "Gold necklace",
@@ -5815,6 +5815,14 @@
   {
     "group": "Iron battleaxe",
     "spawns": [
+      {
+        "coords": "1943,4062",
+        "isMembers": true,
+        "location": "Brittle Isle",
+        "mapID": "0",
+        "name": "Iron battleaxe",
+        "plane": "0"
+      },
       {
         "coords": "1700,3185",
         "isMembers": true,
@@ -6814,6 +6822,14 @@
         "isMembers": true,
         "location": "Sorcerer's Tower (ground floor)",
         "mapID": "0",
+        "name": "Knife",
+        "plane": "0"
+      },
+      {
+        "coords": "2192,2312",
+        "isMembers": true,
+        "location": "Sunbleak Island",
+        "mapID": "-1",
         "name": "Knife",
         "plane": "0"
       },
@@ -8918,6 +8934,14 @@
         "plane": "0"
       },
       {
+        "coords": "2224,2336",
+        "isMembers": true,
+        "location": "Sunbleak Island",
+        "mapID": "-1",
+        "name": "Rope",
+        "plane": "0"
+      },
+      {
         "coords": "1518,2996",
         "isMembers": true,
         "location": "Sunset Coast (1st floor)",
@@ -9109,6 +9133,43 @@
         "location": "Varrock estate agent",
         "mapID": "0",
         "name": "Saw",
+        "plane": "0"
+      }
+    ]
+  },
+  {
+    "group": "Sea shell",
+    "spawns": [
+      {
+        "coords": "3300,2320",
+        "isMembers": true,
+        "location": "Cape Conch",
+        "mapID": "0",
+        "name": "Sea shell",
+        "plane": "0"
+      },
+      {
+        "coords": "3258,2481",
+        "isMembers": true,
+        "location": "The Great Conch - eastern coast",
+        "mapID": "0",
+        "name": "Sea shell",
+        "plane": "0"
+      },
+      {
+        "coords": "3170,2537",
+        "isMembers": true,
+        "location": "The Great Conch - northern coast",
+        "mapID": "0",
+        "name": "Sea shell",
+        "plane": "0"
+      },
+      {
+        "coords": "3161,2389",
+        "isMembers": true,
+        "location": "The Summer Shore",
+        "mapID": "0",
+        "name": "Sea shell",
         "plane": "0"
       }
     ]
