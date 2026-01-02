@@ -21200,7 +21200,7 @@
     "version": null
   },
   {
-    "examineText": "''Managing Thine Kingdom for Noobes'' by A. Ghrim.",
+    "examineText": "<nowiki>''Managing Thine Kingdom for Noobes''</nowiki> by A. Ghrim.",
     "group": "Ghrim's book",
     "isMembers": true,
     "isTradeable": false,
@@ -120950,7 +120950,7 @@
     "version": null
   },
   {
-    "examineText": "Allows travel to all banks around Gileinor.",
+    "examineText": "Allows travel to all banks around Gielinor.",
     "group": "Banker's briefcase",
     "isMembers": true,
     "isTradeable": false,
@@ -125650,7 +125650,7 @@
     "version": null
   },
   {
-    "examineText": "A special salt used by experienced hunters to remove their scent from traps.",
+    "examineText": "A special salt used by experienced hunters to remove their sent from traps.",
     "group": "Anti-odour salt",
     "isMembers": true,
     "isTradeable": true,
