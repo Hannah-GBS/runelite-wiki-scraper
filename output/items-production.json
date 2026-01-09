@@ -13264,7 +13264,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">142,331,318</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">149,110,150</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19094,7 +19094,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">142,038,245</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">149,189,210</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -112130,7 +112130,7 @@
       "image_name": "Sunfire rune",
       "name": "Sunfire rune",
       "quantity": "62",
-      "quantitynote": "[[Raiments of the Eye]] will not multiply the additional 60 runes from the extract."
+      "quantitynote": "Below 98 runecrafting, each pure essence consumes up to 2 extracts, producing runes based on the number of extracts used: 2 extracts \u2192 122 runes, 1 extract \u2192 62 runes. At 98\u201399 runecrafting, each pure essence consumes up to 3 extracts, producing runes based on the number of extracts used: 3 extracts \u2192 183 runes, 2 extracts \u2192 123 runes, 1 extract \u2192 63 runes. [[Raiments of the Eye]] will not multiply the additional runes from the extract."
     },
     "skills": [
       {
