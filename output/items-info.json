@@ -102771,6 +102771,16 @@
   },
   {
     "examineText": "Follower obj",
+    "group": "Grubfoot (item)",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 26594,
+    "name": "Grubfoot",
+    "url": "https://oldschool.runescape.wiki/w/Grubfoot_(item)",
+    "version": null
+  },
+  {
+    "examineText": "Follower obj",
     "group": "Zanik (unobtainable item)",
     "isMembers": true,
     "isTradeable": false,
@@ -107587,7 +107597,7 @@
     "itemID": 27523,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Mount Quidamortem 1"
+    "version": "Mount Quidamortem, 1"
   },
   {
     "examineText": "A wood carving found in a ruin south east of Mount Quidamortem.",
@@ -107597,7 +107607,7 @@
     "itemID": 27524,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Mount Quidamortem 2"
+    "version": "Mount Quidamortem, 2"
   },
   {
     "examineText": "A wood carving found in a ruin beneath Lake Molch Island.",
@@ -107607,7 +107617,7 @@
     "itemID": 27525,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Lake Molch Island 1"
+    "version": "Lake Molch Island, 1"
   },
   {
     "examineText": "A wood carving found in a ruin beneath Lake Molch Island.",
@@ -107617,7 +107627,7 @@
     "itemID": 27526,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Lake Molch Island 2"
+    "version": "Lake Molch Island, 2"
   },
   {
     "examineText": "A wood carving found in a ruin beneath Lake Molch Island.",
@@ -107627,7 +107637,7 @@
     "itemID": 27527,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Lake Molch Island 3"
+    "version": "Lake Molch Island, 3"
   },
   {
     "examineText": "A wood carving found in a ruin beneath Kebos Swamp.",
@@ -107637,7 +107647,7 @@
     "itemID": 27528,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Kebos Swamp 1"
+    "version": "Kebos Swamp, 1"
   },
   {
     "examineText": "A wood carving found in a ruin beneath Kebos Swamp.",
@@ -107647,7 +107657,7 @@
     "itemID": 27529,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Kebos Swamp 2"
+    "version": "Kebos Swamp, 2"
   },
   {
     "examineText": "A wood carving found in a ruin beneath Kebos Swamp.",
@@ -107657,7 +107667,7 @@
     "itemID": 27530,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Kebos Swamp 3"
+    "version": "Kebos Swamp, 3"
   },
   {
     "examineText": "A wood carving found in a ruin beneath Kebos Swamp.",
@@ -107667,7 +107677,7 @@
     "itemID": 27531,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Kebos Swamp 4"
+    "version": "Kebos Swamp, 4"
   },
   {
     "examineText": "An ancient compass.",
@@ -107687,7 +107697,7 @@
     "itemID": 27533,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Ruins of Morra 1"
+    "version": "Ruins of Morra, 1"
   },
   {
     "examineText": "A wood carving found in a ruin beneath the Ruins of Morra.",
@@ -107697,7 +107707,7 @@
     "itemID": 27534,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Ruins of Morra 2"
+    "version": "Ruins of Morra, 2"
   },
   {
     "examineText": "A wood carving found in a ruin beneath the Ruins of Morra.",
@@ -107707,7 +107717,7 @@
     "itemID": 27535,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Ruins of Morra 3"
+    "version": "Ruins of Morra, 3"
   },
   {
     "examineText": "A wood carving found in a ruin beneath the Ruins of Morra.",
@@ -107717,7 +107727,7 @@
     "itemID": 27536,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Ruins of Morra 4"
+    "version": "Ruins of Morra, 4"
   },
   {
     "examineText": "A wood carving found in a ruin beneath the Ruins of Morra.",
@@ -107727,7 +107737,7 @@
     "itemID": 27537,
     "name": "Wood carving",
     "url": "https://oldschool.runescape.wiki/w/Wood_carving",
-    "version": "Ruins of Morra 5"
+    "version": "Ruins of Morra, 5"
   },
   {
     "examineText": "Good for rubbing.",
@@ -127757,7 +127767,17 @@
     "itemID": 32368,
     "name": "Fish crate (giant krill)",
     "url": "https://oldschool.runescape.wiki/w/Fish_crate_(giant_krill)",
-    "version": null
+    "version": "Full"
+  },
+  {
+    "examineText": "A sturdy container packed with ice and full to the brim with Giant Krill.",
+    "group": "Fish crate (giant krill)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 32370,
+    "name": "Fish crate (giant krill)",
+    "url": "https://oldschool.runescape.wiki/w/Fish_crate_(giant_krill)",
+    "version": "Partial"
   },
   {
     "examineText": "A sturdy container packed with ice and full to the brim with Haddock.",
@@ -127767,7 +127787,17 @@
     "itemID": 32371,
     "name": "Fish crate (haddock)",
     "url": "https://oldschool.runescape.wiki/w/Fish_crate_(haddock)",
-    "version": null
+    "version": "Full"
+  },
+  {
+    "examineText": "A sturdy container packed with ice and full to the brim with Haddock.",
+    "group": "Fish crate (haddock)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 32373,
+    "name": "Fish crate (haddock)",
+    "url": "https://oldschool.runescape.wiki/w/Fish_crate_(haddock)",
+    "version": "Partial"
   },
   {
     "examineText": "A sturdy container packed with ice and full to the brim with Yellowfin.",
@@ -127797,7 +127827,17 @@
     "itemID": 32377,
     "name": "Fish crate (halibut)",
     "url": "https://oldschool.runescape.wiki/w/Fish_crate_(halibut)",
-    "version": null
+    "version": "Full"
+  },
+  {
+    "examineText": "A sturdy container packed with ice and full to the brim with halibut.",
+    "group": "Fish crate (halibut)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 32379,
+    "name": "Fish crate (halibut)",
+    "url": "https://oldschool.runescape.wiki/w/Fish_crate_(halibut)",
+    "version": "Partial"
   },
   {
     "examineText": "A sturdy container packed with ice and full to the brim with bluefin.",
@@ -127827,7 +127867,17 @@
     "itemID": 32383,
     "name": "Fish crate (marlin)",
     "url": "https://oldschool.runescape.wiki/w/Fish_crate_(marlin)",
-    "version": null
+    "version": "Full"
+  },
+  {
+    "examineText": "A sturdy container packed with ice and full to the brim with marlin.",
+    "group": "Fish crate (marlin)",
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 32385,
+    "name": "Fish crate (marlin)",
+    "url": "https://oldschool.runescape.wiki/w/Fish_crate_(marlin)",
+    "version": "Partial"
   },
   {
     "examineText": "Allows the wielder to breathe underwater.",

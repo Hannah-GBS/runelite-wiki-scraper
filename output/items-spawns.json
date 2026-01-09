@@ -392,6 +392,14 @@
         "plane": "0"
       },
       {
+        "coords": "2097,3689",
+        "isMembers": true,
+        "location": "Buccaneers' Haven",
+        "mapID": "0",
+        "name": "Beer glass",
+        "plane": "0"
+      },
+      {
         "coords": "2907,3538",
         "isMembers": true,
         "location": "Burthorpe",
@@ -438,6 +446,14 @@
         "mapID": "0",
         "name": "Beer glass",
         "plane": "1"
+      },
+      {
+        "coords": "1938,2761",
+        "isMembers": true,
+        "location": "Deepfin Point",
+        "mapID": "0",
+        "name": "Beer glass",
+        "plane": "0"
       },
       {
         "coords": "1643,3628",
@@ -1497,6 +1513,14 @@
         "plane": "1"
       },
       {
+        "coords": "1940,2763",
+        "isMembers": true,
+        "location": "Deepfin Point",
+        "mapID": "0",
+        "name": "Bowl",
+        "plane": "0"
+      },
+      {
         "coords": "2816,3351",
         "isMembers": true,
         "location": "Entrana - house west of furnace (1st floor)",
@@ -2209,6 +2233,14 @@
         "isMembers": true,
         "location": "Abandoned Mine - level 2",
         "mapID": "10001",
+        "name": "Bronze dagger",
+        "plane": "0"
+      },
+      {
+        "coords": "2056,10085",
+        "isMembers": true,
+        "location": "Buccaneers' Laboratory",
+        "mapID": "-1",
         "name": "Bronze dagger",
         "plane": "0"
       },
@@ -3873,6 +3905,14 @@
         "plane": "0"
       },
       {
+        "coords": "2073,10068",
+        "isMembers": true,
+        "location": "Buccaneers' Laboratory",
+        "mapID": "-1",
+        "name": "Coins",
+        "plane": "0"
+      },
+      {
         "coords": "1469,3057",
         "isMembers": true,
         "location": "Cam Torum entrance - south",
@@ -5123,7 +5163,7 @@
       },
       {
         "coords": "3065,3864",
-        "isMembers": true,
+        "isMembers": false,
         "location": "Wilderness - Lava Maze",
         "mapID": "0",
         "name": "Gold necklace",
@@ -5393,6 +5433,14 @@
         "plane": "0"
       },
       {
+        "coords": "2091,3681",
+        "isMembers": true,
+        "location": "Buccaneers' Haven (1st floor)",
+        "mapID": "0",
+        "name": "Hammer",
+        "plane": "1"
+      },
+      {
         "coords": "3492,3242",
         "isMembers": true,
         "location": "Burgh de Rott - upstairs",
@@ -5597,6 +5645,14 @@
   {
     "group": "Harpoon",
     "spawns": [
+      {
+        "coords": "2094,3681",
+        "isMembers": true,
+        "location": "Buccaneers' Haven",
+        "mapID": "0",
+        "name": "Harpoon",
+        "plane": "0"
+      },
       {
         "coords": "2605,3396",
         "isMembers": true,
@@ -6142,7 +6198,7 @@
       {
         "coords": "2065,3692",
         "isMembers": false,
-        "location": "Buccaneers Haven",
+        "location": "Buccaneers' Haven",
         "mapID": "0",
         "name": "Iron scimitar",
         "plane": "0"
