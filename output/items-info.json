@@ -21482,7 +21482,7 @@
   {
     "examineText": "The colours of Saradomin.",
     "group": "Saradomin cloak (Castle Wars)",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 4041,
     "name": "Saradomin cloak",
@@ -21492,7 +21492,7 @@
   {
     "examineText": "The colours of Zamorak.",
     "group": "Zamorak cloak (Castle Wars)",
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 4042,
     "name": "Zamorak cloak",
