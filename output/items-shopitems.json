@@ -39630,6 +39630,7 @@
     "isMembers": true,
     "items": [
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Beer",
         "sellPrice": "2",
@@ -39637,6 +39638,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Cider",
         "sellPrice": "2",
@@ -39644,6 +39646,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Gin",
         "sellPrice": "5",
@@ -39651,6 +39654,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Grog",
         "sellPrice": "3",
@@ -39658,6 +39662,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Meat pie",
         "sellPrice": "15",
@@ -39665,6 +39670,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Rum",
         "sellPrice": "5",
@@ -39672,6 +39678,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Stew",
         "sellPrice": "20",
@@ -39679,6 +39686,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Vodka",
         "sellPrice": "5",
@@ -39686,6 +39694,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Whisky",
         "sellPrice": "5",
@@ -39957,6 +39966,7 @@
     "isMembers": true,
     "items": [
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Beer",
         "sellPrice": "2",
@@ -39964,6 +39974,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Cider",
         "sellPrice": "2",
@@ -39971,6 +39982,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Gin",
         "sellPrice": "5",
@@ -39978,6 +39990,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Jug of wine",
         "sellPrice": "1",
@@ -39985,12 +39998,14 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Meat pie",
         "stock": "inf",
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Moon-lite",
         "sellPrice": "15",
@@ -39998,6 +40013,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Rum",
         "sellPrice": "5",
@@ -40005,12 +40021,14 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Stew",
         "stock": "inf",
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Sunbeam ale",
         "sellPrice": "8",
@@ -40018,6 +40036,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Vodka",
         "sellPrice": "5",
@@ -40025,6 +40044,7 @@
         "version": null
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Whisky",
         "sellPrice": "5",

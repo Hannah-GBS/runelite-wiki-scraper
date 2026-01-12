@@ -1559,6 +1559,14 @@
         "mapID": "0",
         "name": "Bowl",
         "plane": "0"
+      },
+      {
+        "coords": "2981,2287",
+        "isMembers": true,
+        "location": "The Onyx Crest",
+        "mapID": "0",
+        "name": "Bowl",
+        "plane": "0"
       }
     ]
   },
@@ -2298,6 +2306,19 @@
         "location": "South of Mount Quidamortem",
         "mapID": "0",
         "name": "Bronze dagger",
+        "plane": "0"
+      }
+    ]
+  },
+  {
+    "group": "Bronze dart",
+    "spawns": [
+      {
+        "coords": "2986,2284",
+        "isMembers": true,
+        "location": "The Onyx Crest",
+        "mapID": "0",
+        "name": "Bronze Dart",
         "plane": "0"
       }
     ]
@@ -9309,6 +9330,14 @@
         "coords": "1308,2934",
         "isMembers": true,
         "location": "North of Darkmoon Ravine (1 telegrabbable, rest inaccessible)",
+        "mapID": "0",
+        "name": "Seaweed",
+        "plane": "0"
+      },
+      {
+        "coords": "2968,2607",
+        "isMembers": true,
+        "location": "Remote Island",
         "mapID": "0",
         "name": "Seaweed",
         "plane": "0"
