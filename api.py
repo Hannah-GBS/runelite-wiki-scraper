@@ -147,42 +147,17 @@ def bucket_category_drop_sources(category_name: str) -> Dict[str, object]:
         with open(cache_file_name, "r") as fi:
             return json.load(fi)
 
-    item_pages = query_category(category_name)
-    items = []
     drop_items = {}
-    for name, obj in item_pages.items():
-        page = obj["page"]
-        if name.startswith("Category:") or name == "<!--None-->" or name.lower() == "null":
-            continue
 
-        try:
-            code = mw.parse(page, skip_style_tags=True)
+    query = f'bucket("dropsline").select("drop_json","item_name").where({{"rare_drop_table", false}})'
 
-            for (vid, version) in util.each_version("Infobox Item", code):
-                if "name" in version:
-                    items.append(version["name"].strip())
-                else:
-                    continue
-
-        except (KeyboardInterrupt, SystemExit):
-            raise
-        except:
-            print("Item {} failed:".format(name))
-            traceback.print_exc()
-
-    for i in range(0, len(items), 15):
-        items_string = '"},{"item_name","'.join(items[i:i + 15])
-        items_conditions = f'{{"item_name", "{items_string}"}}'
-        query = (f'bucket("dropsline").select("drop_json","item_name").where(bucket.Or({items_conditions}),{{'
-                 f'"rare_drop_table", false}})')
-
-        for res in get_wiki_bucket_api(query, "item_name"):
-            for item in res["bucket"]:
-                drop_json = json.loads(str(item["drop_json"]))
-                if drop_json["Dropped item"] in drop_items:
-                    drop_items[drop_json["Dropped item"]]["results"].append(drop_json)
-                else:
-                    drop_items[drop_json["Dropped item"]] = {"results": [drop_json]}
+    for res in get_wiki_bucket_api(query, "item_name"):
+        for item in res["bucket"]:
+            drop_json = json.loads(str(item["drop_json"]))
+            if drop_json["Dropped item"] in drop_items:
+                drop_items[drop_json["Dropped item"]]["results"].append(drop_json)
+            else:
+                drop_items[drop_json["Dropped item"]] = {"results": [drop_json]}
 
     with open(cache_file_name, "w+") as fi:
         json.dump(drop_items, fi)
