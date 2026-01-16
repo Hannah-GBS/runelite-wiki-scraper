@@ -13264,7 +13264,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">145,615,446</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">146,763,944</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19094,7 +19094,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">146,115,167</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">147,468,724</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -26701,7 +26701,7 @@
         "quantity": "1"
       }
     ],
-    "members": true,
+    "members": false,
     "output": {
       "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
       "image_name": "Burnt pie",
@@ -26727,7 +26727,7 @@
         "quantity": "1"
       }
     ],
-    "members": true,
+    "members": false,
     "output": {
       "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
       "image_name": "Burnt pie",
@@ -26805,7 +26805,7 @@
         "quantity": "1"
       }
     ],
-    "members": true,
+    "members": false,
     "output": {
       "image": "[[File:Burnt pie.png|class=inventory-image|link=Burnt pie]]",
       "image_name": "Burnt pie",
@@ -53470,8 +53470,8 @@
   {
     "materials": [
       {
-        "imagename": "Bass",
-        "name": "Bass",
+        "imagename": "Cooked chicken",
+        "name": "Cooked chicken",
         "quantity": "1"
       },
       {
@@ -53507,119 +53507,8 @@
   {
     "materials": [
       {
-        "imagename": "Bass",
-        "name": "Bass",
-        "quantity": "1"
-      },
-      {
-        "imagename": "Maple leaves",
-        "name": "Maple leaves",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Forester's ration.png|class=inventory-image|link=Forester's ration]]",
-      "image_name": "Forester's ration",
-      "name": "Forester's ration",
-      "quantity": "16",
-      "subtxt": "Maple leaves"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "51.1",
-        "level": "35",
-        "name": "Cooking"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "35",
-        "name": "Woodcutting"
-      }
-    ],
-    "ticks": "3"
-  },
-  {
-    "materials": [
-      {
-        "imagename": "Bass",
-        "name": "Bass",
-        "quantity": "1"
-      },
-      {
-        "imagename": "Oak leaves",
-        "name": "Oak leaves",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Forester's ration.png|class=inventory-image|link=Forester's ration]]",
-      "image_name": "Forester's ration",
-      "name": "Forester's ration",
-      "quantity": "8",
-      "subtxt": "Oak leaves"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "51.1",
-        "level": "35",
-        "name": "Cooking"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "35",
-        "name": "Woodcutting"
-      }
-    ],
-    "ticks": "3"
-  },
-  {
-    "materials": [
-      {
-        "imagename": "Bass",
-        "name": "Bass",
-        "quantity": "1"
-      },
-      {
-        "imagename": "Willow leaves",
-        "name": "Willow leaves",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Forester's ration.png|class=inventory-image|link=Forester's ration]]",
-      "image_name": "Forester's ration",
-      "name": "Forester's ration",
-      "quantity": "12",
-      "subtxt": "Willow leaves"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "51.1",
-        "level": "35",
-        "name": "Cooking"
-      },
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "35",
-        "name": "Woodcutting"
-      }
-    ],
-    "ticks": "3"
-  },
-  {
-    "materials": [
-      {
-        "imagename": "Lobster",
-        "name": "Lobster",
+        "imagename": "Cooked chicken",
+        "name": "Cooked chicken",
         "quantity": "1"
       },
       {
@@ -53655,8 +53544,119 @@
   {
     "materials": [
       {
-        "imagename": "Lobster",
-        "name": "Lobster",
+        "imagename": "Cooked chicken",
+        "name": "Cooked chicken",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Maple leaves",
+        "name": "Maple leaves",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Forester's ration.png|class=inventory-image|link=Forester's ration]]",
+      "image_name": "Forester's ration",
+      "name": "Forester's ration",
+      "quantity": "16",
+      "subtxt": "Maple leaves"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "51.1",
+        "level": "35",
+        "name": "Cooking"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "35",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Cooked chicken",
+        "name": "Cooked chicken",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Oak leaves",
+        "name": "Oak leaves",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Forester's ration.png|class=inventory-image|link=Forester's ration]]",
+      "image_name": "Forester's ration",
+      "name": "Forester's ration",
+      "quantity": "8",
+      "subtxt": "Oak leaves"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "51.1",
+        "level": "35",
+        "name": "Cooking"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "35",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Cooked chicken",
+        "name": "Cooked chicken",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Willow leaves",
+        "name": "Willow leaves",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Forester's ration.png|class=inventory-image|link=Forester's ration]]",
+      "image_name": "Forester's ration",
+      "name": "Forester's ration",
+      "quantity": "12",
+      "subtxt": "Willow leaves"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "51.1",
+        "level": "35",
+        "name": "Cooking"
+      },
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "35",
+        "name": "Woodcutting"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Cooked chicken",
+        "name": "Cooked chicken",
         "quantity": "1"
       },
       {

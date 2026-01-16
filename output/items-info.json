@@ -60967,7 +60967,7 @@
     "itemID": 12013,
     "name": "Prospector helmet",
     "url": "https://oldschool.runescape.wiki/w/Prospector_helmet",
-    "version": null
+    "version": "Motherlode Mine"
   },
   {
     "examineText": "Helps you when you're mining.",
@@ -60977,7 +60977,7 @@
     "itemID": 12014,
     "name": "Prospector jacket",
     "url": "https://oldschool.runescape.wiki/w/Prospector_jacket",
-    "version": null
+    "version": "Motherlode Mine"
   },
   {
     "examineText": "Helps you when you're mining.",
@@ -60987,7 +60987,7 @@
     "itemID": 12015,
     "name": "Prospector legs",
     "url": "https://oldschool.runescape.wiki/w/Prospector_legs",
-    "version": null
+    "version": "Motherlode Mine"
   },
   {
     "examineText": "Helps you when you're mining.",
@@ -60997,7 +60997,7 @@
     "itemID": 12016,
     "name": "Prospector boots",
     "url": "https://oldschool.runescape.wiki/w/Prospector_boots",
-    "version": null
+    "version": "Motherlode Mine"
   },
   {
     "examineText": "Increases melee, ranged and magic damage & accuracy by 15% against the undead.",
@@ -116890,6 +116890,46 @@
     "version": "Open"
   },
   {
+    "examineText": "Helps you when you're mining.",
+    "group": "Prospector helmet",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29472,
+    "name": "Prospector helmet",
+    "url": "https://oldschool.runescape.wiki/w/Prospector_helmet",
+    "version": "Volcanic Mine"
+  },
+  {
+    "examineText": "Helps you when you're mining.",
+    "group": "Prospector jacket",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29474,
+    "name": "Prospector jacket",
+    "url": "https://oldschool.runescape.wiki/w/Prospector_jacket",
+    "version": "Volcanic Mine"
+  },
+  {
+    "examineText": "Helps you when you're mining.",
+    "group": "Prospector legs",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29476,
+    "name": "Prospector legs",
+    "url": "https://oldschool.runescape.wiki/w/Prospector_legs",
+    "version": "Volcanic Mine"
+  },
+  {
+    "examineText": "Helps you when you're mining.",
+    "group": "Prospector boots",
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 29478,
+    "name": "Prospector boots",
+    "url": "https://oldschool.runescape.wiki/w/Prospector_boots",
+    "version": "Volcanic Mine"
+  },
+  {
     "examineText": "I can exchange these for further experience.",
     "group": "Agility arena ticket",
     "isMembers": true,
@@ -130030,14 +130070,14 @@
     "version": "Neitiznot"
   },
   {
-    "examineText": "A cargo Crate of mahogany logs destined for neitiznot.",
+    "examineText": "A cargo Crate of mahogany logs destined for Neitiznot.",
     "group": "Crate of mahogany logs",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32604,
     "name": "Crate of mahogany logs",
     "url": "https://oldschool.runescape.wiki/w/Crate_of_mahogany_logs",
-    "version": "neitiznot"
+    "version": "Neitiznot"
   },
   {
     "examineText": "A cargo crate of sand destined for Neitiznot.",
@@ -130430,14 +130470,14 @@
     "version": "Port Piscarilius"
   },
   {
-    "examineText": "A cargo Crate of mahogany logs destined for port piscarilius.",
+    "examineText": "A cargo Crate of mahogany logs destined for Port Piscarilius.",
     "group": "Crate of mahogany logs",
     "isMembers": true,
     "isTradeable": false,
     "itemID": 32644,
     "name": "Crate of mahogany logs",
     "url": "https://oldschool.runescape.wiki/w/Crate_of_mahogany_logs",
-    "version": "port piscarilius"
+    "version": "Port Piscarilius"
   },
   {
     "examineText": "A cargo crate of planks destined for Port Piscarilius.",
