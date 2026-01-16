@@ -3312,7 +3312,7 @@
       {
         "currency": "Coins",
         "name": "Vial",
-        "stock": "50",
+        "stock": "15",
         "version": null
       }
     ],
@@ -31651,7 +31651,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Volcanic Mine points",
-        "name": "Prospector boots",
+        "name": "Prospector boots#Volcanic Mine",
         "sellPrice": "21,000",
         "stock": "inf",
         "version": null
@@ -31659,7 +31659,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Volcanic Mine points",
-        "name": "Prospector helmet",
+        "name": "Prospector helmet#Volcanic Mine",
         "sellPrice": "26,000",
         "stock": "inf",
         "version": null
@@ -31667,7 +31667,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Volcanic Mine points",
-        "name": "Prospector jacket",
+        "name": "Prospector jacket#Volcanic Mine",
         "sellPrice": "39,000",
         "stock": "inf",
         "version": null
@@ -31675,7 +31675,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Volcanic Mine points",
-        "name": "Prospector legs",
+        "name": "Prospector legs#Volcanic Mine",
         "sellPrice": "34,000",
         "stock": "inf",
         "version": null
@@ -33509,25 +33509,25 @@
       },
       {
         "currency": "Golden nugget",
-        "name": "Prospector boots",
+        "name": "Prospector boots#Motherlode Mine",
         "stock": "100",
         "version": null
       },
       {
         "currency": "Golden nugget",
-        "name": "Prospector helmet",
+        "name": "Prospector helmet#Motherlode Mine",
         "stock": "100",
         "version": null
       },
       {
         "currency": "Golden nugget",
-        "name": "Prospector jacket",
+        "name": "Prospector jacket#Motherlode Mine",
         "stock": "100",
         "version": null
       },
       {
         "currency": "Golden nugget",
-        "name": "Prospector legs",
+        "name": "Prospector legs#Motherlode Mine",
         "stock": "100",
         "version": null
       },
