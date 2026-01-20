@@ -319,6 +319,7 @@
     "ticks": ""
   },
   {
+    "facilities": "The Overseer",
     "materials": [
       {
         "imagename": "Bludgeon axon",
@@ -341,7 +342,37 @@
       "image": "[[File:Abyssal bludgeon.png|class=inventory-image|link=Abyssal bludgeon]]",
       "image_name": "Abyssal bludgeon",
       "name": "Abyssal bludgeon",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "The Overseer"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Bludgeon axon",
+        "name": "Bludgeon axon",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Bludgeon claw",
+        "name": "Bludgeon claw",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Bludgeon spine",
+        "name": "Bludgeon spine",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Abyssal bludgeon.png|class=inventory-image|link=Abyssal bludgeon]]",
+      "image_name": "Abyssal bludgeon",
+      "name": "Abyssal bludgeon",
+      "quantity": "1",
+      "subtxt": "Overseer's book"
     },
     "skills": [],
     "ticks": "0",
@@ -11391,7 +11422,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "facilities": "Furnace",
@@ -13264,7 +13295,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">146,763,944</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">151,758,672</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19094,7 +19125,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">147,468,724</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">153,780,929</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -25560,6 +25591,33 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "imagename": "Raw bass",
+        "name": "Raw bass",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Burnt fish (tuna).png|class=inventory-image|link=Burnt fish (tuna)]]",
+      "image_name": "Burnt fish (tuna)",
+      "name": "Burnt fish (tuna)",
+      "quantity": "1",
+      "txt": "Burnt fish"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "43",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "facilities": "Cooking range",
@@ -44700,7 +44758,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "",
+    "ticks": "4",
     "tools": "Hammer"
   },
   {
@@ -45013,7 +45071,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "",
+    "ticks": "4",
     "tools": "Hammer"
   },
   {
@@ -67742,7 +67800,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "",
+    "ticks": "4",
     "tools": "Hammer"
   },
   {
@@ -72235,7 +72293,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "5"
+    "ticks": "0"
   },
   {
     "facilities": "Furnace",
@@ -117004,7 +117062,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "facilities": "Furnace",
@@ -119250,7 +119308,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "facilities": "Furnace",
