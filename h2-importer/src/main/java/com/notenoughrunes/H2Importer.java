@@ -104,7 +104,7 @@ public class H2Importer
 
 		return matchedItems.stream()
 			.min(compareNameAndGroup(itemName, version))
-			.orElse(new NERInfoItem("null item", "", "", "", "", 0, false, false))
+			.orElse(new NERInfoItem("null item", "", "", "", "", 0, false, false, false))
 			.getItemID();
 	}
 

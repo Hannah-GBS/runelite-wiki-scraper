@@ -1,12 +1,8 @@
 import os
 import json
-import mwparserfromhell as mw
-import traceback
 import urllib.request
 import urllib.parse
 from typing import *
-
-import util
 
 use_cache: bool = True
 user_agent: dict[str, str] = {"User-Agent": "Not Enough Runes Scraper/1.0 (+HannahRyanster@gmail.com)"}
@@ -27,35 +23,13 @@ def get_wiki_api(args: dict[str, str], continue_key: str) -> Iterator[any]:
             return
 
 
-# def get_wiki_ask_api(args: dict[str, str]) -> Iterator[any]:
-#     args["format"] = "json"
-#     args["query"] += "|limit=500|offset=0"
-#     offset = 0
-#
-#     while True:
-#         if offset > 5000:
-#             print("Offset beyond 5000. Aborting ask call")
-#             return
-#         args["query"] = args["query"][0:(args["query"].index("|offset=") + 8)] + str(offset)
-#         url = "https://oldschool.runescape.wiki/api.php?" + urllib.parse.urlencode(args)
-#         print("Grabbing " + url)
-#         with urllib.request.urlopen(urllib.request.Request(url, headers=user_agent)) as raw:
-#             js = json.load(raw)
-#
-#         yield js
-#         if len(js["query"]["results"]) < 500:
-#             return
-#         else:
-#             offset += 500
-
-
 def get_wiki_bucket_api(query: str, order_by: str) -> Iterator[any]:
     args = {"action": "bucket", "format": "json", "query": query}
     offset = 0
 
     while True:
         args["query"] = f'{query}.limit(500).offset({offset}).orderBy("{order_by}", "asc").run()'
-        url = "https://oldschool.runescape.wiki/api.php?" + urllib.parse.urlencode(args)
+        url = "https://oldschool.runescape.wiki/api.php?" + urllib.parse.urlencode(args) + "&formatversion=2"
         print("Grabbing " + url)
         with urllib.request.urlopen(urllib.request.Request(url, headers=user_agent)) as raw:
             js = json.load(raw)
@@ -163,3 +137,32 @@ def bucket_category_drop_sources(category_name: str) -> Dict[str, object]:
         json.dump(drop_items, fi)
 
     return drop_items
+
+
+def bucket_item_infobox() -> list[dict]:
+    """
+    bucket_item_infobox returns a list of all Items in the
+    infobox_item bucket
+    """
+    cache_file_name = "items-infobox" + ".cache.json"
+    if use_cache and os.path.isfile(cache_file_name):
+        with open(cache_file_name, "r") as fi:
+            return json.load(fi)
+
+    items = []
+
+    query = (f'bucket("infobox_item").select("page_name", "page_name_sub", "item_name", "version_anchor", '
+             f'"default_version", "is_members_only", "tradeable", "examine", "item_id").where({{bucket.Not('
+             f'"Category:Pages using information from game APIs or cache")}},{{bucket.Not("Category:Interface '
+             f'items")}},{{bucket.Not("Category:Discontinued content")}},{{bucket.Not("Category:Pages with null '
+             f'name")}})')
+
+    for res in get_wiki_bucket_api(query, "item_id"):
+        for item in res["bucket"]:
+            if "item_id" in item:
+                items.append(item)
+
+    with open(cache_file_name, "w+") as fi:
+        json.dump(items, fi)
+
+    return items

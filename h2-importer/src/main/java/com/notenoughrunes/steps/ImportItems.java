@@ -15,15 +15,16 @@ public class ImportItems implements ImportStep
 
 	//language=SQL
 	private static final String INSERT_ITEM_GROUP =
-		"INSERT INTO ITEM_GROUPS (NAME) VALUES (?);";
+		"INSERT INTO ITEM_GROUPS (NAME, SEARCH_NAME) VALUES (?, ?);";
 
 	//language=SQL
 	private static final String INSERT_ITEM =
-		"INSERT INTO ITEMS (ID, NAME, EXAMINE_TEXT, GROUP_ID, VERSION, URL, IS_MEMBERS, IS_TRADEABLE, SEARCH_NAME) VALUES (" +
+		"INSERT INTO ITEMS (ID, NAME, EXAMINE_TEXT, GROUP_ID, VERSION, URL, IS_MEMBERS, IS_TRADEABLE, IS_DEFAULT_VERSION, SEARCH_NAME) VALUES (" +
 			"?," +
 			"?," +
 			"?," +
 			"(SELECT ID FROM ITEM_GROUPS WHERE NAME = ?)," +
+			"?," +
 			"?," +
 			"?," +
 			"?," +
@@ -44,6 +45,7 @@ public class ImportItems implements ImportStep
 			for (String groupName : groups)
 			{
 				stmt.setString(1, groupName);
+				stmt.setString(2, groupName.toLowerCase());
 				stmt.addBatch();
 			}
 
@@ -73,6 +75,7 @@ public class ImportItems implements ImportStep
 				stmt.setString(ix++, item.getUrl());
 				stmt.setBoolean(ix++, item.isMembers());
 				stmt.setBoolean(ix++, item.isTradeable());
+				stmt.setBoolean(ix++, item.isDefaultVersion());
 				stmt.setString(ix++, item.getName().toLowerCase());
 				stmt.addBatch();
 				seenIds.put(item.getItemID(), item.getName());

@@ -5,12 +5,11 @@ import re
 import traceback
 from operator import itemgetter
 from typing import Dict, List
+from urllib.parse import quote
 from mwparserfromhell.nodes import Template
-
 import api
 import mwparserfromhell as mw
 
-import util
 
 output_dir = "output/"
 
@@ -276,69 +275,34 @@ def get_item_spawns():
 
 def get_item_info():
     print("Scraping item info")
-    item_pages = api.query_category("Items")
     file_name = "items-info.json"
     min_name = "items-info.min.json"
+    bucket_items = api.bucket_item_infobox()
 
-    regex = r"\{\{.*?\}\}"
+    regex = r"(<sup .*<\/sup>)"
+    url_base = "https://oldschool.runescape.wiki/w/"
 
     item_info = []
-    for name, obj in item_pages.items():
-        page = obj["page"]
-        url = obj["url"]
-        if ":" in name:
+
+    for item in bucket_items:
+        item_id = item["item_id"][0]
+
+        if not item_id.isdigit():
             continue
 
-        try:
-            code = mw.parse(page, skip_style_tags=True)
-
-            gone = code.filter_templates(matches=lambda t: t.name.matches("Gone"))
-            cache_template = code.filter_templates(matches=lambda t: t.name.matches("Cache"))
-            interface_template = code.filter_templates(matches=lambda t: t.name.matches("Interface items"))
-            if (len(gone) + len(cache_template) + len(interface_template)) > 0:
-                continue
-
-            versions = {}
-
-            for (vid, version) in util.each_version("Infobox Item", code, include_base=True):
-                versions[vid] = version
-
-            for (vid, version) in versions.items():
-                if len(versions) > 1 and vid == -1:
-                    continue
-
-                base: Dict[str, str] = {}
-                for param, value in version.items():
-                    base[param.strip()] = value.strip()
-
-                raw_id = base["id"].split(",")[0]
-
-                if (not raw_id.isdigit() or "(interface item)" in name or
-                        ("name" in base and (base["name"].lower() == "null" or base['name'].lower() == "{{null name}}"))
-                        or raw_id == ""):
-                    continue
-
-                item_id = int(raw_id)
-
-                obj = {
-                    "name": base["name"] if "name" in base else name,
-                    "group": name,
-                    "version": base["version"] if "version" in base else None,
-                    "isMembers": True if base["members"] == "Yes" else False,
-                    "isTradeable": True if base["tradeable"] == "Yes" else False,
-                    "examineText": re.sub(regex, "", base["examine"]) if "examine" in base and "Clue scroll" not in
-                                                                         base["name"] else "",
-                    "itemID": item_id,
-                    "url": url
-                }
-
-                item_info.append(obj)
-
-        except (KeyboardInterrupt, SystemExit):
-            raise
-        except:
-            print("Item {} failed:".format(name))
-            traceback.print_exc()
+        print(item)
+        obj = {
+            "name": re.sub(regex, "", item["item_name"]),
+            "group": item["page_name"],
+            "version": item["version_anchor"] if "version_anchor" in item else None,
+            "isDefaultVersion": item["default_version"],
+            "isMembers": item["is_members_only"] if "is_members_only" in item else True,
+            "isTradeable": item["tradeable"],
+            "examineText": re.sub(regex, "", item["examine"]) if "examine" in item else "",
+            "itemID": int(item_id),
+            "url": url_base + quote(item["page_name"].replace(" ", "_")),
+        }
+        item_info.append(obj)
 
     sorted_info = sorted(item_info, key=itemgetter("itemID", "group"))
 

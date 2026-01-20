@@ -19,6 +19,7 @@ public class NERInfoItem
 	private final int itemID;
 	private final boolean isMembers;
 	private final boolean isTradeable;
+	private final boolean isDefaultVersion;
 	
 	
 	
