@@ -290,7 +290,6 @@ def get_item_info():
         if not item_id.isdigit():
             continue
 
-        print(item)
         obj = {
             "name": re.sub(regex, "", item["item_name"]),
             "group": item["page_name"],
