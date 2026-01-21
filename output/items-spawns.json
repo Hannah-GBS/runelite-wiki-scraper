@@ -3141,6 +3141,14 @@
         "plane": "0"
       },
       {
+        "coords": "2674,8856",
+        "isMembers": true,
+        "location": "Charred Dungeon",
+        "mapID": "-1",
+        "name": "Burnt bones",
+        "plane": "0"
+      },
+      {
         "coords": "1456,10094",
         "isMembers": true,
         "location": "Chasm of Fire - lowest level",
@@ -4074,6 +4082,14 @@
         "isMembers": true,
         "location": "Taverley Dungeon",
         "mapID": "20",
+        "name": "Coins",
+        "plane": "0"
+      },
+      {
+        "coords": "2955,2291",
+        "isMembers": true,
+        "location": "The Onyx Crest",
+        "mapID": "0",
         "name": "Coins",
         "plane": "0"
       },
@@ -5649,6 +5665,14 @@
         "coords": "1207,3108",
         "isMembers": true,
         "location": "Tal Teklan",
+        "mapID": "0",
+        "name": "Hammer",
+        "plane": "0"
+      },
+      {
+        "coords": "2981,2284",
+        "isMembers": true,
+        "location": "The Onyx Crest",
         "mapID": "0",
         "name": "Hammer",
         "plane": "0"
