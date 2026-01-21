@@ -296,7 +296,7 @@ def get_item_info():
             "version": item["version_anchor"] if "version_anchor" in item else None,
             "isDefaultVersion": item["default_version"],
             "isMembers": item["is_members_only"] if "is_members_only" in item else True,
-            "isTradeable": item["tradeable"],
+            "isTradeable": item["tradeable"] if "tradeable" in item else False,
             "examineText": re.sub(regex, "", item["examine"]) if "examine" in item else "",
             "itemID": int(item_id),
             "url": url_base + quote(item["page_name_sub"].replace(" ", "_")),
