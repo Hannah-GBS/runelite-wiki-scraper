@@ -299,7 +299,7 @@ def get_item_info():
             "isTradeable": item["tradeable"],
             "examineText": re.sub(regex, "", item["examine"]) if "examine" in item else "",
             "itemID": int(item_id),
-            "url": url_base + quote(item["page_name"].replace(" ", "_")),
+            "url": url_base + quote(item["page_name_sub"].replace(" ", "_")),
         }
         item_info.append(obj)
 
