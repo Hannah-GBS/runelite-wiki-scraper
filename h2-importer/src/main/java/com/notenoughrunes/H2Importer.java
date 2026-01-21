@@ -109,9 +109,11 @@ public class H2Importer
 	}
 
 	private static Comparator<NERInfoItem> compareNameAndGroup(String itemName, String version) {
-		return Comparator.comparing((NERInfoItem item) -> new LevenshteinDistance().apply(item.getName(), itemName))
-			.thenComparing(item -> new LevenshteinDistance().apply(item.getGroup(), itemName))
-			.thenComparing(item -> new LevenshteinDistance().apply(item.getVersion() != null ? item.getVersion() : "", version != null ? version : ""));
+		return Comparator.comparing((NERInfoItem item) -> new LevenshteinDistance().apply(item.getGroup(), itemName))
+			.thenComparing(item -> new LevenshteinDistance().apply(item.getVersion() != null && itemName.toLowerCase().contains(item.getVersion().toLowerCase()) ? item.getVersion() : "", itemName))
+			.thenComparing(item -> new LevenshteinDistance().apply(item.getName(), itemName))
+			.thenComparing(item -> new LevenshteinDistance().apply(item.getVersion() != null ? item.getVersion() : "", version != null ? version : ""))
+			.thenComparing(NERInfoItem::getItemID);
 	}
 
 	public static int getLast(Connection db) throws Exception
