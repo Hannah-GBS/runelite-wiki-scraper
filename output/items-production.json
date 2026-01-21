@@ -61155,6 +61155,29 @@
     "ticks": "0"
   },
   {
+    "facilities": "Wyson the gardener",
+    "materials": [
+      {
+        "imagename": "Holy sandals",
+        "name": "Holy sandals",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Mole slippers",
+        "name": "Mole slippers",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Holy moleys.png|class=inventory-image|link=Holy moleys]]",
+      "image_name": "Holy moleys",
+      "name": "Holy moleys",
+      "quantity": "1"
+    },
+    "skills": []
+  },
+  {
     "materials": [
       {
         "imagename": "Sanguinesti staff (uncharged)",
@@ -83245,6 +83268,25 @@
     ],
     "ticks": "2",
     "tools": "Chisel"
+  },
+  {
+    "facilities": "Nest (nice)",
+    "materials": [
+      {
+        "imagename": "Steel dagger",
+        "name": "Steel dagger",
+        "quantity": "1"
+      }
+    ],
+    "members": "",
+    "output": {
+      "image": "[[File:Ochre snelm.png|class=inventory-image|link=Ochre snelm]]",
+      "image_name": "Ochre snelm",
+      "name": "Ochre snelm",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
