@@ -5502,6 +5502,14 @@
         "plane": "0"
       },
       {
+        "coords": "2579,3463",
+        "isMembers": true,
+        "location": "Coal Trucks - East of Captain Lawgof",
+        "mapID": "0",
+        "name": "Hammer",
+        "plane": "0"
+      },
+      {
         "coords": "1639,2924",
         "isMembers": true,
         "location": "Colossal Wyrm Remains",
@@ -5513,14 +5521,6 @@
         "coords": "2934,3286",
         "isMembers": false,
         "location": "Crafting Guild",
-        "mapID": "0",
-        "name": "Hammer",
-        "plane": "0"
-      },
-      {
-        "coords": "2579,3463",
-        "isMembers": true,
-        "location": "Dwarven Mine",
         "mapID": "0",
         "name": "Hammer",
         "plane": "0"
