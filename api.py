@@ -98,12 +98,17 @@ def bucket_category_production(category_name: str) -> List[dict]:
 
     items = []
     for res in get_wiki_bucket_api(
-            f'bucket("recipe").select("production_json","page_name").where({{"Category:{category_name}"}},{{"source_template",'
-            f'"recipe"}})',
+            f'bucket("recipe").select("production_json","page_name", "page_name_sub").where({{"Category:{category_name}"}},{{'
+            f'"source_template","recipe"}},{{bucket.Not("Category:Pages using information from game APIs or '
+            f'cache")}},{{bucket.Not("Category:Interface items")}},{{bucket.Not("Category:Discontinued content")}},'
+            f'{{bucket.Not("Category:Pages with null name")}},{{bucket.Not("Category:Jagex moderator items")}})',
             "production_json"):
 
         for item in res["bucket"]:
-            items.append(json.loads(str(item["production_json"])))
+            recipe_json = json.loads(str(item["production_json"]))
+            recipe_json["page_name"] = item["page_name"]
+            recipe_json["page_name_sub"] = item["page_name_sub"]
+            items.append(recipe_json)
 
     with open(cache_file_name, "w+") as fi:
         json.dump(items, fi)
@@ -155,7 +160,7 @@ def bucket_item_infobox() -> list[dict]:
              f'"default_version", "is_members_only", "tradeable", "examine", "item_id").where({{bucket.Not('
              f'"Category:Pages using information from game APIs or cache")}},{{bucket.Not("Category:Interface '
              f'items")}},{{bucket.Not("Category:Discontinued content")}},{{bucket.Not("Category:Pages with null '
-             f'name")}})')
+             f'name")}},{{bucket.Not("Category:Jagex moderator items")}})')
 
     for res in get_wiki_bucket_api(query, "item_id"):
         for item in res["bucket"]:

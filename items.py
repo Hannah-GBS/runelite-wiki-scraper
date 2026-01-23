@@ -27,9 +27,12 @@ def get_production():
                 material["version"] = material["name"].split("#")[1]
                 material["name"] = material["name"].split("#")[0]
 
-        if "#" in recipe["output"]["name"]:
-            recipe["output"]["version"] = recipe["output"]["name"].split("#")[1]
-            recipe["output"]["name"] = recipe["output"]["name"].split("#")[0]
+        if "#" in recipe["page_name_sub"]:
+            recipe["output"]["version"] = recipe["page_name_sub"].split("#")[1]
+            recipe["output"]["name"] = recipe["page_name_sub"].split("#")[0]
+        else:
+            recipe["output"]["name"] = recipe["page_name_sub"]
+        recipe.pop("page_name_sub")
 
     filtered_production = [recipe for recipe in item_production if len(recipe["materials"]) > 0]
 
