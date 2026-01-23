@@ -7028,33 +7028,6 @@
   {
     "materials": [
       {
-        "imagename": "Apple seedling",
-        "name": "Apple seedling",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Apple seedling (w).png|class=inventory-image|link=Apple seedling]]",
-      "image_name": "Apple seedling (w)",
-      "name": "Apple seedling",
-      "quantity": "1",
-      "subtxt": "Watering"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "27",
-        "name": "Farming"
-      }
-    ],
-    "ticks": "0",
-    "tools": "Watering can"
-  },
-  {
-    "materials": [
-      {
         "imagename": "Filled plant pot",
         "name": "Filled plant pot",
         "quantity": "1"
@@ -7083,6 +7056,33 @@
     ],
     "ticks": "0",
     "tools": "Gardening trowel"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Apple seedling",
+        "name": "Apple seedling",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Apple seedling (w).png|class=inventory-image|link=Apple seedling (w)]]",
+      "image_name": "Apple seedling (w)",
+      "name": "Apple seedling (w)",
+      "quantity": "1",
+      "subtxt": "Watering"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "27",
+        "name": "Farming"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Watering can"
   },
   {
     "materials": [
@@ -13295,7 +13295,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">155,482,445</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">154,464,701</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19096,12 +19096,12 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Bow of faerdhinen (inactive).png|class=inventory-image|link=Bow of faerdhinen#(inactive)]]",
+      "image": "[[File:Bow of faerdhinen (inactive).png|class=inventory-image|link=Bow of faerdhinen#Inactive]]",
       "image_name": "Bow of faerdhinen (inactive)",
       "name": "Bow of faerdhinen",
       "quantity": "1",
       "txt": "Bow of faerdhinen (inactive)",
-      "version": "(inactive)"
+      "version": "Inactive"
     },
     "skills": [],
     "ticks": "0"
@@ -19125,7 +19125,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">154,917,149</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">153,346,639</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -28162,9 +28162,39 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Candle lantern (lit black).png|class=inventory-image|link=Candle lantern (black)]]",
+      "image": "[[File:Candle lantern (lit black).png|class=inventory-image|link=Candle lantern (lit black)]]",
       "image_name": "Candle lantern (lit black)",
-      "name": "Candle lantern (black)",
+      "name": "Candle lantern (lit black)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "4",
+        "name": "Firemaking"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Empty candle lantern",
+        "name": "Empty candle lantern",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Lit candle",
+        "name": "Lit candle",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Candle lantern (lit white).png|class=inventory-image|link=Candle lantern (lit white)]]",
+      "image_name": "Candle lantern (lit white)",
+      "name": "Candle lantern (lit white)",
       "quantity": "1"
     },
     "skills": [
@@ -28202,36 +28232,6 @@
         "boostable": "Yes",
         "experience": "0",
         "level": "1",
-        "name": "Firemaking"
-      }
-    ],
-    "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "imagename": "Empty candle lantern",
-        "name": "Empty candle lantern",
-        "quantity": "1"
-      },
-      {
-        "imagename": "Lit candle",
-        "name": "Lit candle",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Candle lantern (lit white).png|class=inventory-image|link=Candle lantern (white)]]",
-      "image_name": "Candle lantern (lit white)",
-      "name": "Candle lantern (white)",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "4",
         "name": "Firemaking"
       }
     ],
@@ -40391,52 +40391,6 @@
   {
     "materials": [
       {
-        "imagename": "Cup of tea (Ghosts Ahoy)",
-        "name": "Cup of tea (Ghosts Ahoy)",
-        "quantity": "1"
-      },
-      {
-        "imagename": "Bucket of milk",
-        "name": "Bucket of milk",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Cup of tea (Ghosts Ahoy, milky).png|class=inventory-image|link=Cup of tea (Ghosts Ahoy)]]",
-      "image_name": "Cup of tea (Ghosts Ahoy, milky)",
-      "name": "Cup of tea (Ghosts Ahoy)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "imagename": "Cup of tea (milky nettle)",
-        "name": "Cup of tea (milky nettle)",
-        "quantity": "1"
-      },
-      {
-        "imagename": "Porcelain cup",
-        "name": "Porcelain cup",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Cup of tea (Ghosts Ahoy, milky).png|class=inventory-image|link=Cup of tea (Ghosts Ahoy)]]",
-      "image_name": "Cup of tea (Ghosts Ahoy, milky)",
-      "name": "Cup of tea (Ghosts Ahoy)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": ""
-  },
-  {
-    "materials": [
-      {
         "imagename": "Cup of tea (nettle)",
         "name": "Cup of tea (nettle)",
         "quantity": "1"
@@ -40483,6 +40437,52 @@
   {
     "materials": [
       {
+        "imagename": "Cup of tea (Ghosts Ahoy)",
+        "name": "Cup of tea (Ghosts Ahoy)",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Bucket of milk",
+        "name": "Bucket of milk",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Cup of tea (Ghosts Ahoy, milky).png|class=inventory-image|link=Cup of tea (Ghosts Ahoy, milky)]]",
+      "image_name": "Cup of tea (Ghosts Ahoy, milky)",
+      "name": "Cup of tea (Ghosts Ahoy, milky)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Cup of tea (milky nettle)",
+        "name": "Cup of tea (milky nettle)",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Porcelain cup",
+        "name": "Porcelain cup",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Cup of tea (Ghosts Ahoy, milky).png|class=inventory-image|link=Cup of tea (Ghosts Ahoy, milky)]]",
+      "image_name": "Cup of tea (Ghosts Ahoy, milky)",
+      "name": "Cup of tea (Ghosts Ahoy, milky)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
         "imagename": "Nettle tea (milky)",
         "name": "Nettle tea (milky)",
         "quantity": "1"
@@ -40495,9 +40495,9 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Cup of tea (Ghosts Ahoy, milky).png|class=inventory-image|link=Cup of tea (Ghosts Ahoy)]]",
+      "image": "[[File:Cup of tea (Ghosts Ahoy, milky).png|class=inventory-image|link=Cup of tea (Ghosts Ahoy, milky)]]",
       "image_name": "Cup of tea (Ghosts Ahoy, milky)",
-      "name": "Cup of tea (Ghosts Ahoy)",
+      "name": "Cup of tea (Ghosts Ahoy, milky)",
       "quantity": "1"
     },
     "skills": [],
@@ -58653,9 +58653,9 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Guthix balance (unf) (1).png|class=inventory-image|link=Guthix balance (unf)]]",
+      "image": "[[File:Guthix balance (unf) (1).png|class=inventory-image|link=Guthix balance (unf) (1)]]",
       "image_name": "Guthix balance (unf) (1)",
-      "name": "Guthix balance (unf)",
+      "name": "Guthix balance (unf) (1)",
       "quantity": "1"
     },
     "skills": [
@@ -58683,9 +58683,9 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Guthix balance (unf) (2).png|class=inventory-image|link=Guthix balance (unf)]]",
+      "image": "[[File:Guthix balance (unf) (2).png|class=inventory-image|link=Guthix balance (unf) (2)]]",
       "image_name": "Guthix balance (unf) (2)",
-      "name": "Guthix balance (unf)",
+      "name": "Guthix balance (unf) (2)",
       "quantity": "1"
     },
     "skills": [
@@ -58713,9 +58713,9 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Guthix balance (unf) (3).png|class=inventory-image|link=Guthix balance (unf)]]",
+      "image": "[[File:Guthix balance (unf) (3).png|class=inventory-image|link=Guthix balance (unf) (3)]]",
       "image_name": "Guthix balance (unf) (3)",
-      "name": "Guthix balance (unf)",
+      "name": "Guthix balance (unf) (3)",
       "quantity": "1"
     },
     "skills": [
@@ -58743,9 +58743,9 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Guthix balance (unf) (4).png|class=inventory-image|link=Guthix balance (unf)]]",
+      "image": "[[File:Guthix balance (unf) (4).png|class=inventory-image|link=Guthix balance (unf) (4)]]",
       "image_name": "Guthix balance (unf) (4)",
-      "name": "Guthix balance (unf)",
+      "name": "Guthix balance (unf) (4)",
       "quantity": "1"
     },
     "skills": [
@@ -61175,7 +61175,8 @@
       "name": "Holy moleys",
       "quantity": "1"
     },
-    "skills": []
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -61293,6 +61294,52 @@
       "image": "[[File:Holy water.png|class=inventory-image|link=Holy water]]",
       "image_name": "Holy water",
       "name": "Holy water",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Slayer helmet",
+        "name": "Slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Slayer hood",
+        "name": "Slayer hood",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Hooded slayer helmet.png|class=inventory-image|link=Hooded slayer helmet]]",
+      "image_name": "Hooded slayer helmet",
+      "name": "Hooded slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Slayer helmet (i)",
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Slayer hood",
+        "name": "Slayer hood",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Hooded slayer helmet (i).png|class=inventory-image|link=Hooded slayer helmet (i)]]",
+      "image_name": "Hooded slayer helmet (i)",
+      "name": "Hooded slayer helmet (i)",
       "quantity": "1"
     },
     "skills": [],
@@ -72197,7 +72244,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -121259,9 +121306,9 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:White tree shoot (pot).png|class=inventory-image|link=White tree shoot]]",
+      "image": "[[File:White tree shoot (pot).png|class=inventory-image|link=White tree shoot (pot)]]",
       "image_name": "White tree shoot (pot)",
-      "name": "White tree shoot",
+      "name": "White tree shoot (pot)",
       "quantity": "1"
     },
     "skills": [
@@ -121285,11 +121332,10 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:White tree shoot (w).png|class=inventory-image|link=White tree shoot]]",
+      "image": "[[File:White tree shoot (w).png|class=inventory-image|link=White tree shoot (w)]]",
       "image_name": "White tree shoot (w)",
-      "name": "White tree shoot",
-      "quantity": "1",
-      "txt": "White tree shoot (w)"
+      "name": "White tree shoot (w)",
+      "quantity": "1"
     },
     "skills": [
       {
