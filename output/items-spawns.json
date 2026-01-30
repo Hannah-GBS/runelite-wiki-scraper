@@ -590,7 +590,7 @@
         "isMembers": true,
         "location": "Isle of Bones",
         "mapID": "-1",
-        "name": "Big Bones",
+        "name": "Big bones",
         "plane": "0"
       },
       {
@@ -693,7 +693,7 @@
         "isMembers": true,
         "location": "Clock Tower Dungeon",
         "mapID": "2",
-        "name": "Black Cog",
+        "name": "Black cog",
         "plane": "0"
       }
     ]
@@ -1768,7 +1768,7 @@
         "isMembers": true,
         "location": "Trouble Brewing",
         "mapID": "0",
-        "name": "Brewin' Guide",
+        "name": "Brewin' guide",
         "plane": "0"
       }
     ]
@@ -1953,7 +1953,7 @@
         "isMembers": true,
         "location": "The Summer Shore - Elder Blunn's house",
         "mapID": "0",
-        "name": "Broken hasta",
+        "name": "Broken hasta (tortugan)",
         "plane": "0"
       }
     ]
@@ -2318,7 +2318,7 @@
         "isMembers": true,
         "location": "The Onyx Crest",
         "mapID": "0",
-        "name": "Bronze Dart",
+        "name": "Bronze dart",
         "plane": "0"
       }
     ]
@@ -3820,7 +3820,7 @@
         "isMembers": true,
         "location": "Slepe - house next to Sisterhood Sanctuary entrance",
         "mapID": "0",
-        "name": "Chopped Garlic",
+        "name": "Chopped garlic",
         "plane": "0"
       }
     ]
@@ -5082,7 +5082,7 @@
         "isMembers": true,
         "location": "The Summer Shore - Elder Coco's house",
         "mapID": "0",
-        "name": "Fossilised skull",
+        "name": "Fossilised skull (tortugan)",
         "plane": "0"
       }
     ]
@@ -5432,7 +5432,7 @@
         "isMembers": true,
         "location": "East Ardougne - estate agent",
         "mapID": "0",
-        "name": "Guide Book",
+        "name": "Guide book",
         "plane": "0"
       }
     ]
@@ -5750,7 +5750,7 @@
         "isMembers": true,
         "location": "Realm of the Fisher King - 2nd floor of castle",
         "mapID": "10063",
-        "name": "Holy grail",
+        "name": "Holy grail (item)",
         "plane": "2"
       }
     ]
@@ -6185,7 +6185,7 @@
       {
         "coords": "1945,2758",
         "isMembers": true,
-        "location": "Deepfin point",
+        "location": "Deepfin Point",
         "mapID": "-1",
         "name": "Iron pickaxe",
         "plane": "0"
@@ -6681,7 +6681,7 @@
         "isMembers": true,
         "location": "Waterfall Dungeon",
         "mapID": "10176",
-        "name": "Key",
+        "name": "Key (Waterfall Dungeon)",
         "plane": "0"
       }
     ]
@@ -7776,7 +7776,7 @@
         "isMembers": true,
         "location": "Salvager Overlook - East Tower (2nd floor)",
         "mapID": "0",
-        "name": "Oil Lantern",
+        "name": "Oil lantern",
         "plane": "2"
       }
     ]
@@ -7789,7 +7789,7 @@
         "isMembers": true,
         "location": "Underground Pass - first level",
         "mapID": "10163",
-        "name": "Old Journal",
+        "name": "Old journal",
         "plane": "0"
       }
     ]
@@ -7815,7 +7815,7 @@
         "isMembers": true,
         "location": "Shayzien - Secluded Chapel",
         "mapID": "0",
-        "name": "Old note",
+        "name": "Old note (Secluded chapel)",
         "plane": "0"
       }
     ]
@@ -9146,7 +9146,7 @@
         "isMembers": false,
         "location": "Draynor Manor",
         "mapID": "0",
-        "name": "Rubber Tube",
+        "name": "Rubber tube",
         "plane": "0"
       }
     ]
@@ -10367,7 +10367,7 @@
         "isMembers": true,
         "location": "Taverley - west of the lake",
         "mapID": "0",
-        "name": "Swamp toad",
+        "name": "Swamp toad (item)",
         "plane": "0"
       },
       {
@@ -10375,7 +10375,7 @@
         "isMembers": true,
         "location": "Tree Gnome Stronghold - south-western area",
         "mapID": "0",
-        "name": "Swamp toad",
+        "name": "Swamp toad (item)",
         "plane": "0"
       },
       {
@@ -10383,7 +10383,7 @@
         "isMembers": true,
         "location": "Tree Gnome Stronghold - swamp enclosure",
         "mapID": "0",
-        "name": "Swamp toad",
+        "name": "Swamp toad (item)",
         "plane": "0"
       }
     ]
@@ -10867,7 +10867,7 @@
         "isMembers": true,
         "location": "The Great Conch",
         "mapID": "0",
-        "name": "Uncut Ruby",
+        "name": "Uncut ruby",
         "plane": "0"
       }
     ]
@@ -11101,7 +11101,7 @@
         "isMembers": true,
         "location": "Clock Tower Dungeon",
         "mapID": "2",
-        "name": "White Cog",
+        "name": "White cog",
         "plane": "0"
       }
     ]
