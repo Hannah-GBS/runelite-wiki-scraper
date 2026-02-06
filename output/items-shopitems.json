@@ -11382,6 +11382,40 @@
     "plane": "0"
   },
   {
+    "coords": "3245,3200",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "15000",
+        "currency": "Deadman Points",
+        "name": "Annihilation blueprints",
+        "sellPrice": "15000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "10000",
+        "currency": "Deadman Points",
+        "name": "Annihilation teleport scroll",
+        "sellPrice": "10000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "12000",
+        "currency": "Deadman Points",
+        "name": "Annihilation weapon scroll",
+        "sellPrice": "12000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge graveyard",
+    "mapID": "0",
+    "name": "Deadman Reward Store",
+    "plane": "0"
+  },
+  {
     "buyMultiplier": "0",
     "coords": "1940,2760",
     "isMembers": true,
@@ -21896,6 +21930,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Black naval shirt",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -21903,6 +21938,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Black navy slacks",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -21910,6 +21946,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Black tricorn hat",
+        "sellPrice": "500",
         "stock": "10",
         "version": null
       },
@@ -21917,6 +21954,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Blue naval shirt",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -21924,6 +21962,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Blue navy slacks",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -21931,6 +21970,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Blue tricorn hat",
+        "sellPrice": "500",
         "stock": "10",
         "version": null
       },
@@ -21938,6 +21978,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Bronze fist flag",
+        "sellPrice": "3000",
         "stock": "10",
         "version": null
       },
@@ -21945,6 +21986,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Brown naval shirt",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -21952,6 +21994,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Brown navy slacks",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -21959,6 +22002,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Brown tricorn hat",
+        "sellPrice": "500",
         "stock": "10",
         "version": null
       },
@@ -21966,6 +22010,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Cutthroat flag",
+        "sellPrice": "2000",
         "stock": "10",
         "version": null
       },
@@ -21973,6 +22018,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Gilded smile flag",
+        "sellPrice": "2000",
         "stock": "10",
         "version": null
       },
@@ -21980,6 +22026,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Green naval shirt",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -21987,6 +22034,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Green navy slacks",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -21994,6 +22042,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Green tricorn hat",
+        "sellPrice": "500",
         "stock": "10",
         "version": null
       },
@@ -22001,6 +22050,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Grey naval shirt",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -22008,6 +22058,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Grey navy slacks",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -22015,6 +22066,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Grey tricorn hat",
+        "sellPrice": "500",
         "stock": "10",
         "version": null
       },
@@ -22022,6 +22074,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Lucky shot flag",
+        "sellPrice": "4000",
         "stock": "10",
         "version": null
       },
@@ -22029,6 +22082,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Phasmatys flag",
+        "sellPrice": "6000",
         "stock": "10",
         "version": null
       },
@@ -22036,6 +22090,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Purple naval shirt",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -22043,6 +22098,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Purple navy slacks",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -22050,6 +22106,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Purple tricorn hat",
+        "sellPrice": "500",
         "stock": "10",
         "version": null
       },
@@ -22057,6 +22114,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Red naval shirt",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -22064,6 +22122,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Red navy slacks",
+        "sellPrice": "1000",
         "stock": "10",
         "version": null
       },
@@ -22071,6 +22130,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Red tricorn hat",
+        "sellPrice": "500",
         "stock": "10",
         "version": null
       },
@@ -22078,6 +22138,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Rum (blue)",
+        "sellPrice": "20",
         "stock": "200",
         "version": null
       },
@@ -22085,6 +22146,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Rum (red)",
+        "sellPrice": "20",
         "stock": "200",
         "version": null
       },
@@ -22092,6 +22154,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "The stuff",
+        "sellPrice": "50",
         "stock": "200",
         "version": null
       },
@@ -22099,6 +22162,7 @@
         "buyPrice": "N/A",
         "currency": "Pieces of eight",
         "name": "Treasure flag",
+        "sellPrice": "5000",
         "stock": "10",
         "version": null
       }
@@ -22106,8 +22170,7 @@
     "location": "Trouble Brewing",
     "mapID": "0",
     "name": "Honest Jimmy's House of Stuff",
-    "plane": "0",
-    "sellMultiplier": "10000"
+    "plane": "0"
   },
   {
     "buyMultiplier": "600",
@@ -30462,48 +30525,6 @@
     "isMembers": false,
     "items": [
       {
-        "buyPrice": "6000",
-        "currency": "Deadman Points",
-        "name": "Armageddon cape fabric",
-        "sellPrice": "6000",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "3000",
-        "currency": "Deadman Points",
-        "name": "Armageddon rug",
-        "sellPrice": "3000",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "9000",
-        "currency": "Deadman Points",
-        "name": "Armageddon teleport scroll",
-        "sellPrice": "9000",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "12000",
-        "currency": "Deadman Points",
-        "name": "Armageddon weapon scroll",
-        "sellPrice": "12000",
-        "stock": "inf",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge graveyard",
-    "mapID": "0",
-    "name": "Nigel",
-    "plane": "0"
-  },
-  {
-    "coords": "3245,3200",
-    "isMembers": false,
-    "items": [
-      {
         "buyPrice": "N/A",
         "currency": "Blood money",
         "name": "Deadman's cape",
@@ -35903,6 +35924,14 @@
         "version": null
       },
       {
+        "buyPrice": "28846",
+        "currency": "Coins",
+        "name": "Facility bottle (empty)",
+        "sellPrice": "75000",
+        "stock": "100",
+        "version": null
+      },
+      {
         "currency": "Coins",
         "name": "Iron nails",
         "stock": "1000",
@@ -36418,6 +36447,14 @@
         "currency": "Coins",
         "name": "Bronze nails",
         "stock": "1000",
+        "version": null
+      },
+      {
+        "buyPrice": "28846",
+        "currency": "Coins",
+        "name": "Facility bottle (empty)",
+        "sellPrice": "75000",
+        "stock": "100",
         "version": null
       },
       {

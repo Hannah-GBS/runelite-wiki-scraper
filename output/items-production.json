@@ -4390,7 +4390,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "76.0",
+        "experience": "76",
         "level": "66",
         "name": "Magic"
       }
@@ -5851,7 +5851,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "39.0",
+        "experience": "39",
         "level": "55",
         "name": "Cooking"
       }
@@ -13275,7 +13275,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">149,804,938</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">155,288,083</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -14750,7 +14750,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "80.0",
+        "experience": "80",
         "level": "25",
         "name": "Herblore"
       }
@@ -19123,7 +19123,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">144,513,148</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">150,790,523</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -28698,7 +28698,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "15.0",
+        "experience": "15",
         "level": "1",
         "name": "Cooking"
       }
@@ -29117,7 +29117,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "64.0",
+        "experience": "64",
         "level": "48",
         "name": "Cooking"
       }
@@ -29195,7 +29195,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "46.0",
+        "experience": "46",
         "level": "48",
         "name": "Cooking"
       }
@@ -29566,7 +29566,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "15.0",
+        "experience": "15",
         "level": "41",
         "name": "Cooking"
       }
@@ -33241,7 +33241,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "3.8",
+        "experience": "3.7",
         "level": "1",
         "name": "Crafting"
       }
@@ -40696,7 +40696,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "42",
         "level": "74",
         "name": "Smithing"
@@ -41859,13 +41859,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -41994,7 +41994,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "67.0",
+        "experience": "67",
         "level": "57",
         "name": "Magic"
       }
@@ -42096,7 +42096,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "67.0",
+        "experience": "67",
         "level": "57",
         "name": "Magic"
       }
@@ -46046,13 +46046,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "68",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "80",
         "name": "Crafting"
       }
@@ -46181,7 +46181,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "78.0",
+        "experience": "78",
         "level": "68",
         "name": "Magic"
       }
@@ -49047,13 +49047,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -49182,7 +49182,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "37.0",
+        "experience": "37",
         "level": "27",
         "name": "Magic"
       }
@@ -49284,7 +49284,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "37.0",
+        "experience": "37",
         "level": "27",
         "name": "Magic"
       }
@@ -49520,7 +49520,7 @@
     },
     "skills": [
       {
-        "boostable": "yes",
+        "boostable": "Yes",
         "experience": "70",
         "level": "87",
         "name": "Crafting"
@@ -52414,7 +52414,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "0"
+    "ticks": "1"
   },
   {
     "materials": [
@@ -52461,7 +52461,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "0"
+    "ticks": "1"
   },
   {
     "materials": [
@@ -52484,7 +52484,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "0"
+    "ticks": "1"
   },
   {
     "materials": [
@@ -52507,7 +52507,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "0"
+    "ticks": "1"
   },
   {
     "materials": [
@@ -52530,7 +52530,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "0"
+    "ticks": "1"
   },
   {
     "materials": [
@@ -52553,7 +52553,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "0"
+    "ticks": "1"
   },
   {
     "materials": [
@@ -55366,13 +55366,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -63027,7 +63027,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "?",
+        "experience": "11.5",
         "level": "83",
         "name": "Smithing"
       }
@@ -65851,13 +65851,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -65981,7 +65981,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "19.0",
+        "experience": "19",
         "level": "14",
         "name": "Magic"
       }
@@ -66078,7 +66078,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "19.0",
+        "experience": "19",
         "level": "14",
         "name": "Magic"
       }
@@ -83436,7 +83436,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "6.0",
+        "experience": "6",
         "level": "5",
         "name": "Fletching"
       }
@@ -83763,13 +83763,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -83898,7 +83898,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "97.0",
+        "experience": "97",
         "level": "87",
         "name": "Magic"
       }
@@ -84000,7 +84000,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "97.0",
+        "experience": "97",
         "level": "87",
         "name": "Magic"
       }
@@ -84161,13 +84161,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -84291,7 +84291,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "9.0",
+        "experience": "9",
         "level": "4",
         "name": "Magic"
       }
@@ -85714,7 +85714,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "0.0",
+        "experience": "0",
         "level": "95",
         "name": "Cooking"
       }
@@ -85774,7 +85774,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "0.0",
+        "experience": "0",
         "level": "85",
         "name": "Cooking"
       }
@@ -85804,7 +85804,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "0.0",
+        "experience": "0",
         "level": "85",
         "name": "Cooking"
       }
@@ -86262,7 +86262,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "29.0",
+        "experience": "29",
         "level": "24",
         "name": "Magic"
       }
@@ -91693,7 +91693,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "Varies",
+        "experience": "0.1\u00d7Herblore level",
         "level": "1",
         "name": "Herblore"
       }
@@ -93831,13 +93831,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -93966,7 +93966,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "59.0",
+        "experience": "59",
         "level": "49",
         "name": "Magic"
       }
@@ -94068,7 +94068,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "59.0",
+        "experience": "59",
         "level": "49",
         "name": "Magic"
       }
@@ -97861,13 +97861,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -98737,13 +98737,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -112991,8 +112991,8 @@
   {
     "materials": [
       {
-        "imagename": "Ugthanki kebab (smelling)",
-        "name": "Ugthanki kebab (smelling)",
+        "imagename": "Ugthanki kebab (bad)",
+        "name": "Ugthanki kebab (bad)",
         "quantity": "1"
       },
       {
@@ -115265,13 +115265,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -115395,7 +115395,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "33.0",
+        "experience": "33",
         "level": "29",
         "name": "Magic"
       }
@@ -115492,7 +115492,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "33.0",
+        "experience": "33",
         "level": "49",
         "name": "Magic"
       }
@@ -117069,9 +117069,9 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Ugthanki kebab (smelling).png|class=inventory-image|link=Ugthanki kebab (smelling)]]",
-      "image_name": "Ugthanki kebab (smelling)",
-      "name": "Ugthanki kebab (smelling)",
+      "image": "[[File:Ugthanki kebab (bad).png|class=inventory-image|link=Ugthanki kebab (bad)]]",
+      "image_name": "Ugthanki kebab (bad)",
+      "name": "Ugthanki kebab (bad)",
       "quantity": "1"
     },
     "skills": [
@@ -117472,13 +117472,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -118923,13 +118923,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
@@ -124016,13 +124016,13 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "83.0",
+        "experience": "83",
         "level": "80",
         "name": "Magic"
       },
       {
         "boostable": "",
-        "experience": "4.0",
+        "experience": "4",
         "level": "1",
         "name": "Crafting"
       }
