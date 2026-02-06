@@ -512,14 +512,6 @@
         "plane": "0"
       },
       {
-        "coords": "3323,3136",
-        "isMembers": false,
-        "location": "Sorceress's Garden Building South of Al Kharid (1st floor) (search shelves)",
-        "mapID": "0",
-        "name": "Beer glass",
-        "plane": "1"
-      },
-      {
         "coords": "1392,2860",
         "isMembers": true,
         "location": "Stick Your Ore Inn",
@@ -10865,7 +10857,7 @@
       {
         "coords": "3185,2420",
         "isMembers": true,
-        "location": "The Great Conch",
+        "location": "The Great Conch{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "mapID": "0",
         "name": "Uncut ruby",
         "plane": "0"
