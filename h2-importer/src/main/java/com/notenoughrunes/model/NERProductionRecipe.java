@@ -25,5 +25,4 @@ public class NERProductionRecipe
 	private final boolean isMembers;
 
 	private final NERProductionOutput output;
-
 }

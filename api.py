@@ -101,12 +101,13 @@ def bucket_category_production(category_name: str) -> List[dict]:
             f'bucket("recipe").select("production_json","page_name", "page_name_sub").where({{"Category:{category_name}"}},{{'
             f'"source_template","recipe"}},{{bucket.Not("Category:Pages using information from game APIs or '
             f'cache")}},{{bucket.Not("Category:Interface items")}},{{bucket.Not("Category:Discontinued content")}},'
-            f'{{bucket.Not("Category:Pages with null name")}},{{bucket.Not("Category:Jagex moderator items")}})',
+            f'{{bucket.Not("Category:Pages with null name")}},{{bucket.Not("Category:Jagex moderator items")}},'
+            f'{{bucket.Not("Category:Beta items")}})',
             "production_json"):
 
         for item in res["bucket"]:
             recipe_json = json.loads(str(item["production_json"]))
-            recipe_json["page_name"] = item["page_name"]
+            # recipe_json["page_name"] = item["page_name"]
             recipe_json["page_name_sub"] = item["page_name_sub"]
             items.append(recipe_json)
 
@@ -128,7 +129,10 @@ def bucket_category_drop_sources(category_name: str) -> Dict[str, object]:
 
     drop_items = {}
 
-    query = f'bucket("dropsline").select("drop_json","item_name").where({{"rare_drop_table", false}})'
+    query = (f'bucket("dropsline").select("drop_json","item_name").where({{"rare_drop_table", false}}, {{bucket.Not('
+             f'"Category:Pages using information from game APIs or cache")}},{{bucket.Not("Category:Interface '
+             f'items")}},{{bucket.Not("Category:Discontinued content")}},{{bucket.Not("Category:Pages with null '
+             f'name")}},{{bucket.Not("Category:Jagex moderator items")}},{{bucket.Not("Category:Beta items")}})')
 
     for res in get_wiki_bucket_api(query, "item_name"):
         for item in res["bucket"]:
@@ -160,7 +164,7 @@ def bucket_item_infobox() -> list[dict]:
              f'"default_version", "is_members_only", "tradeable", "examine", "item_id").where({{bucket.Not('
              f'"Category:Pages using information from game APIs or cache")}},{{bucket.Not("Category:Interface '
              f'items")}},{{bucket.Not("Category:Discontinued content")}},{{bucket.Not("Category:Pages with null '
-             f'name")}},{{bucket.Not("Category:Jagex moderator items")}})')
+             f'name")}},{{bucket.Not("Category:Jagex moderator items")}},{{bucket.Not("Category:Beta items")}})')
 
     for res in get_wiki_bucket_api(query, "item_id"):
         for item in res["bucket"]:
@@ -171,3 +175,40 @@ def bucket_item_infobox() -> list[dict]:
         json.dump(items, fi)
 
     return items
+
+
+def query_redirects(page_names: list[str], category: str) -> dict[str, dict]:
+    cache_file_name = "redirects-" + category + ".cache.json"
+    mismatch_file_name = "output/redirects-mismatch-" + category + ".json"
+    if use_cache and os.path.isfile(cache_file_name):
+        with open(cache_file_name, "r") as fi:
+            return json.load(fi)
+
+    redirects = {}
+    mismatches = {}
+
+    for i in range(0, len(page_names), 50):
+        for res in get_wiki_api(
+                {
+                    "action": "query",
+                    "titles": "|".join(page_names[i:i + 50]),
+                    "redirects": 1
+                }, "rdcontinue"):
+            if "redirects" in res["query"]:
+                for redirect in res["query"]["redirects"]:
+                    obj = {
+                        "name": redirect["to"],
+                        "version": redirect["tofragment"] if "tofragment" in redirect else None
+                    }
+                    redirects[redirect["from"]] = obj
+
+                    if "tofragment" not in redirect:
+                        mismatches[redirect["from"]] = obj
+
+    with open(cache_file_name, "w+") as fi:
+        json.dump(redirects, fi)
+
+    with open(mismatch_file_name, "w+") as fi:
+        json.dump(mismatches, fi, indent=2, sort_keys=True)
+
+    return redirects

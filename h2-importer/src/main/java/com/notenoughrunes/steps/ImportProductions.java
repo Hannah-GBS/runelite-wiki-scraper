@@ -109,7 +109,7 @@ public class ImportProductions implements ImportStep
 		ps.setBoolean(ix++, recipe.isMembers());
 		ps.setString(ix++, recipe.getOutput().getName());
 		ps.setString(ix++, recipe.getOutput().getVersion());
-		ps.setInt(ix++, H2Importer.getItemId(items, recipe.getOutput().getName(), recipe.getOutput().getVersion()));
+		ps.setInt(ix++, H2Importer.getItemIdPrecise(items, recipe.getOutput().getName(), recipe.getOutput().getVersion()));
 		ps.setString(ix++, recipe.getOutput().getQuantity());
 		ps.setString(ix++, recipe.getOutput().getQuantityNote());
 		ps.setString(ix++, recipe.getOutput().getSubtext());
@@ -121,7 +121,7 @@ public class ImportProductions implements ImportStep
 		ps.setInt(ix++, recipeId);
 		ps.setString(ix++, material.getName());
 		ps.setString(ix++, material.getVersion());
-		ps.setInt(ix++, H2Importer.getItemId(items, material.getName(), material.getVersion()));
+		ps.setInt(ix++, H2Importer.getItemIdPrecise(items, material.getName(), material.getVersion()));
 		ps.setString(ix++, material.getQuantity());
 	}
 	

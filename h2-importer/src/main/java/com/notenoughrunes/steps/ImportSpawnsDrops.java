@@ -1,7 +1,9 @@
 package com.notenoughrunes.steps;
 
+import com.notenoughrunes.H2Importer;
 import com.notenoughrunes.model.NERDropItem;
 import com.notenoughrunes.model.NERDropSource;
+import com.notenoughrunes.model.NERInfoItem;
 import com.notenoughrunes.model.NERSpawnGroup;
 import com.notenoughrunes.model.NERSpawnItem;
 import java.sql.Connection;
@@ -16,8 +18,10 @@ public class ImportSpawnsDrops implements ImportStep
 
 	//language=SQL
 	private static final String INSERT_SPAWN =
-		"INSERT INTO SPAWN_ITEMS (GROUP_ID, NAME, COORDS, LOCATION, IS_MEMBERS, PLANE, MAP_ID) VALUES (" +
+		"INSERT INTO SPAWN_ITEMS (GROUP_ID, NAME, VERSION, ITEM_ID, COORDS, LOCATION, IS_MEMBERS, PLANE, MAP_ID) VALUES (" +
 			"(SELECT ID FROM ITEM_GROUPS WHERE NAME=?)," +
+			"?," +
+			"?," +
 			"?," +
 			"?," +
 			"?," +
@@ -28,7 +32,9 @@ public class ImportSpawnsDrops implements ImportStep
 
 	//language=SQL
 	private static final String INSERT_DROP =
-		"INSERT INTO DROP_SOURCES (ITEM_NAME, SOURCE, QUANTITY_LOW, QUANTITY_HIGH, RARITY, DROP_LEVEL, DROP_TYPE) VALUES (" +
+		"INSERT INTO DROP_SOURCES (ITEM_NAME, ITEM_VERSION, ITEM_ID, SOURCE, QUANTITY_LOW, QUANTITY_HIGH, RARITY, DROP_LEVEL, DROP_TYPE) VALUES (" +
+			"?," +
+			"?," +
 			"?," +
 			"?," +
 			"?," +
@@ -42,13 +48,15 @@ public class ImportSpawnsDrops implements ImportStep
 	public void run(Connection db) throws Exception
 	{
 		Set<NERSpawnGroup> spawnGroups = ReadJsonFiles.getItemSpawnData();
+		Set<NERInfoItem> infoItems = ReadJsonFiles.getItemInfoData();
+
 		try (PreparedStatement ps = db.prepareStatement(INSERT_SPAWN))
 		{
 			for (NERSpawnGroup spawnGroup : spawnGroups)
 			{
 				for (NERSpawnItem spawn : spawnGroup.getSpawns())
 				{
-					writeSpawn(spawn, spawnGroup.getGroup(), ps);
+					writeSpawn(spawn, spawnGroup.getGroup(), ps, infoItems);
 					ps.addBatch();
 				}
 			}
@@ -64,7 +72,7 @@ public class ImportSpawnsDrops implements ImportStep
 			{
 				for (NERDropSource source : drop.getDropSources())
 				{
-					writeDropSource(source, drop.getName(), ps);
+					writeDropSource(source, drop, ps, infoItems);
 					ps.addBatch();
 				}
 			}
@@ -74,11 +82,13 @@ public class ImportSpawnsDrops implements ImportStep
 		db.commit();
 	}
 
-	private void writeSpawn(NERSpawnItem spawn, String group, PreparedStatement ps) throws SQLException
+	private void writeSpawn(NERSpawnItem spawn, String group, PreparedStatement ps, Set<NERInfoItem> items) throws SQLException
 	{
 		int ix = 1;
 		ps.setString(ix++, group);
 		ps.setString(ix++, spawn.getName());
+		ps.setString(ix++, spawn.getVersion());
+		ps.setInt(ix++, H2Importer.getItemIdPrecise(items, spawn.getName(), spawn.getVersion()));
 		ps.setString(ix++, spawn.getCoords());
 		ps.setString(ix++, spawn.getLocation());
 		ps.setBoolean(ix++, spawn.isMembers());
@@ -86,10 +96,12 @@ public class ImportSpawnsDrops implements ImportStep
 		ps.setString(ix++, spawn.getMapID());
 	}
 
-	private void writeDropSource(NERDropSource source, String drop, PreparedStatement ps) throws SQLException
+	private void writeDropSource(NERDropSource source, NERDropItem drop, PreparedStatement ps, Set<NERInfoItem> items) throws SQLException
 	{
 		int ix = 1;
-		ps.setString(ix++, drop);
+		ps.setString(ix++, drop.getGroup());
+		ps.setString(ix++, drop.getVersion());
+		ps.setInt(ix++, H2Importer.getItemIdPrecise(items, drop.getGroup(), drop.getVersion()));
 		ps.setString(ix++, source.getSource());
 		ps.setInt(ix++, source.getQuantityLow());
 		ps.setInt(ix++, source.getQuantityHigh());

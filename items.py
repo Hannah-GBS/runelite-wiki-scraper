@@ -3,6 +3,7 @@ import json
 import os
 import re
 import traceback
+from contextlib import nullcontext
 from operator import itemgetter
 from typing import Dict, List
 from urllib.parse import quote
@@ -20,12 +21,15 @@ def get_production():
     name = "items-production.json"
     min_name = "items-production.min.json"
 
+    materials = []
+
     for recipe in item_production:
         recipe["output"].pop("cost")
         for material in recipe["materials"]:
             if "#" in material["name"]:
                 material["version"] = material["name"].split("#")[1]
                 material["name"] = material["name"].split("#")[0]
+            materials.append(material["name"])
 
         if "#" in recipe["page_name_sub"]:
             recipe["output"]["version"] = recipe["page_name_sub"].split("#")[1]
@@ -33,6 +37,16 @@ def get_production():
         else:
             recipe["output"]["name"] = recipe["page_name_sub"]
         recipe.pop("page_name_sub")
+
+    redirects = api.query_redirects(materials, "production")
+
+    for recipe in item_production:
+        for material in recipe["materials"]:
+            if material["name"] in redirects:
+                new_name = redirects[material["name"]]["name"]
+                if "version" in redirects[material["name"]] and redirects[material["name"]]["version"] is not None:
+                    material["version"] = redirects[material["name"]]["version"]
+                material["name"] = new_name
 
     filtered_production = [recipe for recipe in item_production if len(recipe["materials"]) > 0]
 
@@ -54,6 +68,7 @@ def get_shop_items():
     page_data.update(api.query_category("Merchants"))
 
     shop_items = []
+    item_names = []
     for name, obj in page_data.items():
         page = obj["page"]
         if name.startswith("Category:"):
@@ -163,11 +178,15 @@ def get_shop_items():
 
                     if "smwname" in store_line_data and "#" in store_line_data["smwname"]:
                         version = store_line_data["smwname"].split("#")[1]
-                    if "bucketname" in store_line_data and "#" in store_line_data["bucketname"]:
+                    elif "bucketname" in store_line_data and "#" in store_line_data["bucketname"]:
                         version = store_line_data["bucketname"].split("#")[1]
+                    elif "#" in store_line_data["name"]:
+                        version = store_line_data["name"].split("#")[1]
+
+                    item_names.append(store_line_data["name"])
 
                     shop_item = {
-                        "name": store_line_data["name"],
+                        "name": store_line_data["name"].split("#")[0],
                         "version": version if version else None,
                         "stock": store_line_data["stock"],
                         "currency": store_table_data["currency"] if "currency" in store_table_data else "Coins"
@@ -178,13 +197,11 @@ def get_shop_items():
                         shop_item["buyPrice"] = store_line_data["buy"]
                     items.append(shop_item)
 
-                sorted_items = sorted(items, key=itemgetter("name"))
-
                 shop_info = {
                     "name": name + " " + store_table_data["namenotes"] if "namenotes" in store_table_data else name,
                     "location": format_location(infobox_data["location"]) if "location" in infobox_data else "",
                     "isMembers": True if ("members" in infobox_data and infobox_data["members"] == "Yes") else False,
-                    "items": sorted_items,
+                    "items": items,
                     "coords": coords,
                     "plane": plane,
                     "mapID": map_id
@@ -202,6 +219,18 @@ def get_shop_items():
             print("Item {} failed:".format(name))
             traceback.print_exc()
 
+    redirects = api.query_redirects(item_names, "shops")
+
+    for shop in shop_items:
+        items = shop["items"]
+        for item in items:
+            if item["name"] in redirects:
+                new_name = redirects[item["name"]]["name"]
+                if "version" in redirects[item["name"]] and redirects[item["name"]]["version"] is not None:
+                    item["version"] = redirects[item["name"]]["version"]
+                item["name"] = new_name
+        shop["items"] = sorted(items, key=itemgetter("name"))
+
     sorted_shops = sorted(shop_items, key=itemgetter("name"))
 
     with open(output_dir + file_name, "w+") as fi:
@@ -218,6 +247,7 @@ def get_item_spawns():
     min_name = "items-spawns.min.json"
 
     item_spawns = []
+    item_names = []
     for name, obj in item_pages.items():
         page = obj["page"]
         if ":" in name:
@@ -227,6 +257,10 @@ def get_item_spawns():
             code = mw.parse(page, skip_style_tags=True)
             raw_page_spawns = code.filter_templates(matches=lambda t: t.name.matches("ItemSpawnLine"))
             if len(raw_page_spawns) < 1:
+                continue
+
+            unobtainable = code.filter_templates(matches=lambda t: t.name.matches("Illegal Item"))
+            if len(unobtainable) > 0:
                 continue
 
             spawns = []
@@ -253,6 +287,7 @@ def get_item_spawns():
                     "plane": base["plane"] if "plane" in base else "0",
                 }
                 spawns.append(page_spawn)
+                item_names.append(base["name"])
 
             page_spawns = {
                 "group": name,
@@ -266,6 +301,17 @@ def get_item_spawns():
         except:
             print("Item {} failed:".format(name))
             traceback.print_exc()
+
+    redirects = api.query_redirects(item_names, "spawns")
+
+    for group in item_spawns:
+        spawns = group["spawns"]
+        for spawn in spawns:
+            if spawn["name"] in redirects:
+                new_name = redirects[spawn["name"]]["name"]
+                if "version" in redirects[spawn["name"]] and redirects[spawn["name"]]["version"] is not None:
+                    spawn["version"] = redirects[spawn["name"]]["version"]
+                spawn["name"] = new_name
 
     sorted_spawns = sorted(item_spawns, key=itemgetter("group"))
 
@@ -322,6 +368,7 @@ def get_item_drops():
     temp_item_drops = api.bucket_category_drop_sources("Items")
 
     item_drops = []
+    item_names = []
     for name, results in temp_item_drops.items():
         if len(results["results"]) < 1:
             continue
@@ -348,13 +395,29 @@ def get_item_drops():
             traceback.print_exc()
 
         sorted_drop_sources = sorted(drop_sources, key=itemgetter("source"))
+        group = name.split("#")[0]
+        version = name.split("#")[1] if len(name.split("#")) > 1 else None
 
         drop_object = {
             "name": name,
-            "dropSources": sorted_drop_sources
+            "dropSources": sorted_drop_sources,
+            "group": group
         }
 
+        if version:
+            drop_object["version"] = version
+
         item_drops.append(drop_object)
+        item_names.append(name)
+
+    redirects = api.query_redirects(item_names, "drops")
+
+    for item in item_drops:
+        if item["name"] in redirects:
+            item_group = redirects[item["name"]]["name"]
+            if "version" in redirects[item["name"]] and redirects[item["name"]]["version"] is not None:
+                item["version"] = redirects[item["name"]]["version"]
+            item["group"] = item_group
 
     sorted_drops = sorted(item_drops, key=itemgetter("name"))
 

@@ -90,7 +90,7 @@ public class ImportShops implements ImportStep
 		int ix = 1;
 		ps.setString(ix++, item.getName());
 		ps.setString(ix++, item.getVersion());
-		ps.setInt(ix++, H2Importer.getItemId(items, item.getName(), item.getVersion()));
+		ps.setInt(ix++, H2Importer.getItemIdPrecise(items, item.getName(), item.getVersion()));
 		ps.setInt(ix++, shopId);
 		ps.setString(ix++, item.getCurrency());
 		ps.setString(ix++, item.getStock());

@@ -19,6 +19,8 @@ import java.time.Instant;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Objects;
+import java.util.Optional;
 import java.util.Set;
 import java.util.stream.Collectors;
 import lombok.Getter;
@@ -106,6 +108,25 @@ public class H2Importer
 			.min(compareNameAndGroup(itemName, version))
 			.orElse(new NERInfoItem("null item", "", "", "", "", 0, false, false, false))
 			.getItemID();
+	}
+
+	public static int getItemIdPrecise(Set<NERInfoItem> items, String itemName, String version) {
+		Optional<NERInfoItem> matchedItem = items.stream().filter(item ->
+		{
+			if (version != null && item.getVersion() != null)
+			{
+				return item.getGroup().equals(itemName) && item.getVersion().equals(version);
+			} else {
+				return item.getGroup().equals(itemName) && item.isDefaultVersion();
+			}
+		}).findFirst();
+
+		if (matchedItem.isPresent()) {
+			return matchedItem.get().getItemID();
+		} else {
+			log.warn("No item matched for {}#{}", itemName, version);
+			return 20594; // Bank filler ID
+		}
 	}
 
 	private static Comparator<NERInfoItem> compareNameAndGroup(String itemName, String version) {

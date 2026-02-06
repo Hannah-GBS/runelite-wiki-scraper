@@ -60,8 +60,8 @@ public class ImportItems implements ImportStep
 			{
 				if (seenIds.containsKey(item.getItemID()))
 				{
-					log.warn("item [{}] has a duplicate id [{}] with [{}], skipping",
-						item.getName(), item.getItemID(), seenIds.get(item.getItemID())
+					log.warn("item [{}#{}] has a duplicate id [{}] with [{}], skipping",
+						item.getGroup(), item.getVersion(), item.getItemID(), seenIds.get(item.getItemID())
 					);
 					continue;
 				}
@@ -78,7 +78,7 @@ public class ImportItems implements ImportStep
 				stmt.setBoolean(ix++, item.isDefaultVersion());
 				stmt.setString(ix++, item.getName().toLowerCase());
 				stmt.addBatch();
-				seenIds.put(item.getItemID(), item.getName());
+				seenIds.put(item.getItemID(), item.getGroup() + "#" + item.getVersion());
 			}
 
 			stmt.executeBatch();
