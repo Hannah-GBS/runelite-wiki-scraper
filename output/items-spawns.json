@@ -1069,6 +1069,14 @@
         "plane": "0"
       },
       {
+        "coords": "2260,6012",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 1 (1 requires telegrab)",
+        "mapID": "-1",
+        "name": "Bones",
+        "plane": "2"
+      },
+      {
         "coords": "2541,3028",
         "isMembers": true,
         "location": "Inside Gu'Tanoth",
@@ -4006,6 +4014,22 @@
         "plane": "0"
       },
       {
+        "coords": "2275,5966",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 1 (2 require telegrab)",
+        "mapID": "-1",
+        "name": "Coins",
+        "plane": "1"
+      },
+      {
+        "coords": "2247,5847",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 5",
+        "mapID": "-1",
+        "name": "Coins",
+        "plane": "0"
+      },
+      {
         "coords": "1859,3546",
         "isMembers": true,
         "location": "Hosidius - east of the Vinery",
@@ -5276,6 +5300,14 @@
         "coords": "2553,5855",
         "isMembers": true,
         "location": "Hallowed Sepulchre - floor 4",
+        "mapID": "-1",
+        "name": "Gold ring",
+        "plane": "2"
+      },
+      {
+        "coords": "2247,5843",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 5",
         "mapID": "-1",
         "name": "Gold ring",
         "plane": "2"
@@ -9181,6 +9213,19 @@
         "location": "Wilderness - hill of spiders north-west of Lava Dragon Isle",
         "mapID": "0",
         "name": "Sapphire",
+        "plane": "0"
+      }
+    ]
+  },
+  {
+    "group": "Sapphire bolt tips",
+    "spawns": [
+      {
+        "coords": "2245,5843",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 5",
+        "mapID": "-1",
+        "name": "Sapphire bolt tips",
         "plane": "0"
       }
     ]
