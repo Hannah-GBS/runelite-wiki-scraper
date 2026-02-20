@@ -139,6 +139,14 @@
         "plane": "0"
       },
       {
+        "coords": "1834,6187",
+        "isMembers": false,
+        "location": "Realm of Memories",
+        "mapID": "-1",
+        "name": "Cabbage",
+        "plane": "2"
+      },
+      {
         "coords": "3752,9780",
         "isMembers": true,
         "location": "Sisterhood Sanctuary",
@@ -1077,6 +1085,30 @@
         "plane": "2"
       },
       {
+        "coords": "2491,5990",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 2",
+        "mapID": "-1",
+        "name": "Bones",
+        "plane": "2"
+      },
+      {
+        "coords": "2554,5952",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 2 (unobtainable)",
+        "mapID": "-1",
+        "name": "Bones",
+        "plane": "2"
+      },
+      {
+        "coords": "2399,5816",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 3 (unobtainable)",
+        "mapID": "-1",
+        "name": "Bones",
+        "plane": "1"
+      },
+      {
         "coords": "2541,3028",
         "isMembers": true,
         "location": "Inside Gu'Tanoth",
@@ -1596,6 +1628,22 @@
         "mapID": "0",
         "name": "Bowl of water",
         "plane": "0"
+      },
+      {
+        "coords": "2556,5952",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 2 (unobtainable)",
+        "mapID": "-1",
+        "name": "Coins",
+        "plane": "2"
+      },
+      {
+        "coords": "2518,5862",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 4",
+        "mapID": "-1",
+        "name": "Coins",
+        "plane": "2"
       },
       {
         "coords": "1639,3572",
@@ -3349,6 +3397,14 @@
         "plane": "0"
       },
       {
+        "coords": "1835,6186",
+        "isMembers": false,
+        "location": "Realm of Memories",
+        "mapID": "-1",
+        "name": "Cabbage",
+        "plane": "2"
+      },
+      {
         "coords": "1645,3285",
         "isMembers": true,
         "location": "Salvager Overlook - East Tower (ground floor)",
@@ -4020,6 +4076,46 @@
         "mapID": "-1",
         "name": "Coins",
         "plane": "1"
+      },
+      {
+        "coords": "2488,5978",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 2 (1 requires telegrab)",
+        "mapID": "-1",
+        "name": "Coins",
+        "plane": "1"
+      },
+      {
+        "coords": "2488,5987",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 2 (unobtainable)",
+        "mapID": "-1",
+        "name": "Coins",
+        "plane": "1"
+      },
+      {
+        "coords": "2392,5877",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 3 (1 requires telegrab)",
+        "mapID": "-1",
+        "name": "Coins",
+        "plane": "1"
+      },
+      {
+        "coords": "2388,5886",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 3 (unobtainable)",
+        "mapID": "-1",
+        "name": "Coins",
+        "plane": "1"
+      },
+      {
+        "coords": "2550,5849",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 4",
+        "mapID": "-1",
+        "name": "Coins",
+        "plane": "2"
       },
       {
         "coords": "2247,5847",
