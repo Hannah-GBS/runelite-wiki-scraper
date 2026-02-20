@@ -10993,34 +10993,6 @@
     "ticks": "0"
   },
   {
-    "facilities": "Barronite Crusher",
-    "materials": [
-      {
-        "imagename": "Barronite deposit",
-        "name": "Barronite deposit",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "[[File:Barronite shards.png|class=inventory-image|link=Barronite shards]]",
-      "image_name": "Barronite shards",
-      "name": "Barronite shards",
-      "quantity": "6",
-      "quantitynote": "There is a ~92.3% chance to give 6 - 8 shards, and ~5% chance to give 15-35 shards, although this is influenced by the [[Charm (Ruins of Camdozaal)|charms]] one has activated. It is possible to receive ancient relics, a [[barronite head]], or a [[Imcando hammer (broken)|broken imcando hammer]] instead."
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "30",
-        "level": "14",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "",
-    "tools": "Hammer"
-  },
-  {
     "facilities": "Lectern (Arceuus)",
     "materials": [
       {
@@ -13275,7 +13247,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">153,969,548</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">157,229,492</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -16194,7 +16166,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "125",
         "level": "83",
         "name": "Herblore"
@@ -19123,7 +19095,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">154,143,313</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">156,871,821</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -71983,47 +71955,6 @@
     "ticks": ""
   },
   {
-    "facilities": "Watchtower Wizard",
-    "materials": [
-      {
-        "imagename": "Vial of water",
-        "name": "Vial of water",
-        "quantity": "1"
-      },
-      {
-        "imagename": "Guam leaf",
-        "name": "Guam leaf",
-        "quantity": "1"
-      },
-      {
-        "imagename": "Jangerberries",
-        "name": "Jangerberries",
-        "quantity": "1"
-      },
-      {
-        "imagename": "Ground bat bones",
-        "name": "Ground bat bones",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Magic ogre potion.png|class=inventory-image|link=Magic ogre potion]]",
-      "image_name": "Magic ogre potion",
-      "name": "Magic ogre potion",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "20",
-        "level": "14",
-        "name": "Herblore"
-      }
-    ],
-    "ticks": ""
-  },
-  {
     "materials": [
       {
         "imagename": "Lantadyme potion (unf)",
@@ -107253,7 +107184,14 @@
       "name": "Squid beak",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
     "ticks": "3",
     "tools": "Knife"
   },
@@ -107272,7 +107210,14 @@
       "name": "Squid beak",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
     "ticks": "3",
     "tools": "Knife"
   },
@@ -119887,7 +119832,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [

@@ -11655,6 +11655,38 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "25th anniversary 5x5 hat",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "25th anniversary helmet",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "25th anniversary skeleton tabard",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "25th anniversary warrior tabard",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "4th birthday hat",
         "sellPrice": "0",
         "stock": "inf",
@@ -11752,6 +11784,14 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Banshee top",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Beer belly sweater",
         "sellPrice": "0",
         "stock": "inf",
         "version": null
@@ -11992,6 +12032,14 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Chicken wings",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Christmas dinner",
         "sellPrice": "0",
         "stock": "inf",
         "version": null
@@ -12487,7 +12535,31 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Grim reaper bottoms",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Grim reaper gloves",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Grim reaper hood",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Grim reaper top",
         "sellPrice": "0",
         "stock": "inf",
         "version": null
@@ -12575,6 +12647,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Jad jumper",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Jester hat",
         "sellPrice": "0",
         "stock": "inf",
@@ -12608,6 +12688,14 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Love crossbow",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Lovley jubbly bib",
         "sellPrice": "0",
         "stock": "inf",
         "version": null
@@ -13087,6 +13175,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Spooky chair",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Spooky gloves",
         "sellPrice": "0",
         "stock": "inf",
@@ -13096,6 +13192,14 @@
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Spooky hood",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Spooky pumpkin lantern",
         "sellPrice": "0",
         "stock": "inf",
         "version": null
@@ -22800,7 +22904,7 @@
       }
     ],
     "location": "Port Roberts",
-    "mapID": "-1",
+    "mapID": "0",
     "name": "Iron Bill",
     "plane": "0",
     "sellMultiplier": "2500"
