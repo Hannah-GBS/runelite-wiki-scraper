@@ -4511,7 +4511,7 @@
     "plane": "0"
   },
   {
-    "coords": "2483,3489",
+    "coords": "?",
     "isMembers": true,
     "items": [
       {
@@ -4539,10 +4539,10 @@
         "version": null
       }
     ],
-    "location": "1st floor of the Grand Tree. <br/> {{*}} East of the Grand Tree",
+    "location": "1st floor of the Grand Tree. <br/> {{*}} East of the Gnomeball Field",
     "mapID": "0",
     "name": "Barman (Blurberry Bar)",
-    "plane": "1"
+    "plane": "0"
   },
   {
     "buyMultiplier": "400",
@@ -7889,7 +7889,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (0 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -7914,7 +7914,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (0 subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -8052,7 +8052,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (1 Subquest)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -8090,7 +8090,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (1 subquest)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -8228,7 +8228,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (2 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -8279,7 +8279,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (2 subquest)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -8417,7 +8417,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (3 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -8481,7 +8481,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (3 subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -8619,7 +8619,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (4 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -8696,7 +8696,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (4 subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -8834,7 +8834,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (5 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -8924,7 +8924,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (5 subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -9062,7 +9062,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (6 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -9165,7 +9165,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (6 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -9303,7 +9303,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (7 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -9419,7 +9419,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (7 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -9557,7 +9557,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (8 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -9686,7 +9686,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (8 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -9824,7 +9824,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (full)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -9966,7 +9966,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (full)",
     "plane": "0",
     "sellMultiplier": "1300"
@@ -10104,7 +10104,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (full, diary)",
     "plane": "0",
     "sellMultiplier": "1040"
@@ -10246,7 +10246,7 @@
       }
     ],
     "location": "Lumbridge Castle basement",
-    "mapID": "12",
+    "mapID": "-1",
     "name": "Culinaromancer's Chest (full, diary)",
     "plane": "0",
     "sellMultiplier": "1040"
@@ -14140,7 +14140,7 @@
   },
   {
     "coords": "3183,3356",
-    "isMembers": true,
+    "isMembers": false,
     "items": [
       {
         "buyPrice": "N/A",
