@@ -5442,10 +5442,11 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Amulet of glory (uncharged).png|class=inventory-image|link=Amulet of glory (uncharged)]]",
+      "image": "[[File:Amulet of glory (uncharged).png|class=inventory-image|link=Amulet of glory]]",
       "image_name": "Amulet of glory (uncharged)",
-      "name": "Amulet of glory (uncharged)",
-      "quantity": "1"
+      "name": "Amulet of glory",
+      "quantity": "1",
+      "txt": "Amulet of glory (uncharged)"
     },
     "skills": [
       {
@@ -13247,7 +13248,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">157,229,492</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">164,653,916</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19095,7 +19096,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">156,871,821</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">161,422,626</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -27296,6 +27297,32 @@
     "facilities": "Cooking range",
     "materials": [
       {
+        "imagename": "Raw t-bone steak",
+        "name": "Raw t-bone steak",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "[[File:Burnt t-bone steak.png|class=inventory-image|link=Burnt t-bone steak]]",
+      "image_name": "Burnt t-bone steak",
+      "name": "Burnt t-bone steak",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "13",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
         "imagename": "Raw yellowfin",
         "name": "Raw yellowfin",
         "quantity": "1"
@@ -30612,10 +30639,11 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Combat bracelet (uncharged).png|class=inventory-image|link=Combat bracelet (uncharged)]]",
+      "image": "[[File:Combat bracelet (uncharged).png|class=inventory-image|link=Combat bracelet]]",
       "image_name": "Combat bracelet (uncharged)",
-      "name": "Combat bracelet (uncharged)",
-      "quantity": "1"
+      "name": "Combat bracelet",
+      "quantity": "1",
+      "txt": "Combat bracelet (uncharged)"
     },
     "skills": [
       {
@@ -31674,6 +31702,32 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "",
+    "materials": [
+      {
+        "imagename": "Raw t-bone steak",
+        "name": "Raw t-bone steak",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "[[File:Cooked t-bone steak.png|class=inventory-image|link=Cooked t-bone steak]]",
+      "image_name": "Cooked t-bone steak",
+      "name": "Cooked t-bone steak",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "90",
+        "level": "13",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": ""
   },
   {
     "facilities": "Cooking range",
@@ -86364,6 +86418,25 @@
     "tools": "Knife"
   },
   {
+    "facilities": "Soar Leader Pitri",
+    "materials": [
+      {
+        "imagename": "Perfected quetzal whistle",
+        "name": "Perfected quetzal whistle",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Perfected quetzal whistle(i).png|class=inventory-image|link=Perfected quetzal whistle(i)]]",
+      "image_name": "Perfected quetzal whistle(i)",
+      "name": "Perfected quetzal whistle(i)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "imagename": "Pheasant tail feathers",
@@ -88858,6 +88931,34 @@
       }
     ],
     "ticks": "4"
+  },
+  {
+    "facilities": "Essence orifice",
+    "materials": [
+      {
+        "imagename": "Tainted essence chunk",
+        "name": "Tainted essence chunk",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Pure essence.png|class=inventory-image|link=Pure essence]]",
+      "image_name": "Pure essence",
+      "name": "Pure essence",
+      "quantity": "5",
+      "quantitynote": "Items are received noted"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "0",
+        "level": "64",
+        "name": "Mining"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Pickaxe"
   },
   {
     "facilities": "Anvil",
@@ -92605,6 +92706,47 @@
   {
     "materials": [
       {
+        "imagename": "Dragonstone ring",
+        "name": "Dragonstone ring",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Cosmic rune",
+        "name": "Cosmic rune",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Earth rune",
+        "name": "Earth rune",
+        "quantity": "15"
+      },
+      {
+        "imagename": "Water rune",
+        "name": "Water rune",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Ring of wealth (uncharged).png|class=inventory-image|link=Ring of wealth]]",
+      "image_name": "Ring of wealth (uncharged)",
+      "name": "Ring of wealth",
+      "quantity": "1",
+      "txt": "Ring of wealth (uncharged)"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "78",
+        "level": "68",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "imagename": "Ring of wealth",
         "name": "Ring of wealth",
         "quantity": "1"
@@ -92629,46 +92771,6 @@
     },
     "skills": [],
     "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "imagename": "Dragonstone ring",
-        "name": "Dragonstone ring",
-        "quantity": "1"
-      },
-      {
-        "imagename": "Cosmic rune",
-        "name": "Cosmic rune",
-        "quantity": "1"
-      },
-      {
-        "imagename": "Earth rune",
-        "name": "Earth rune",
-        "quantity": "15"
-      },
-      {
-        "imagename": "Water rune",
-        "name": "Water rune",
-        "quantity": "15"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Ring of wealth (uncharged).png|class=inventory-image|link=Ring of wealth (uncharged)]]",
-      "image_name": "Ring of wealth (uncharged)",
-      "name": "Ring of wealth (uncharged)",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "78",
-        "level": "68",
-        "name": "Magic"
-      }
-    ],
-    "ticks": "1"
   },
   {
     "facilities": "Forestry Shop",
@@ -101824,6 +101926,29 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "imagename": "Herb sack",
+        "name": "Herb sack",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Pristine spider silk",
+        "name": "Pristine spider silk",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Silklined herb sack.png|class=inventory-image|link=Silklined herb sack]]",
+      "image_name": "Silklined herb sack",
+      "name": "Silklined herb sack",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Blast Furnace",
     "materials": [
       {
@@ -102586,10 +102711,11 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Skills necklace (uncharged).png|class=inventory-image|link=Skills necklace (uncharged)]]",
+      "image": "[[File:Skills necklace (uncharged).png|class=inventory-image|link=Skills necklace]]",
       "image_name": "Skills necklace (uncharged)",
-      "name": "Skills necklace (uncharged)",
-      "quantity": "1"
+      "name": "Skills necklace",
+      "quantity": "1",
+      "txt": "Skills necklace (uncharged)"
     },
     "skills": [
       {
