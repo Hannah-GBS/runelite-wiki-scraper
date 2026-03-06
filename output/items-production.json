@@ -13248,7 +13248,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">163,251,788</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">162,177,204</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19096,7 +19096,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">162,216,785</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">158,693,935</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -122199,13 +122199,13 @@
         "boostable": "Yes",
         "experience": "10",
         "level": "5",
-        "name": "Crafting"
+        "name": "Fletching"
       },
       {
-        "boostable": "Yes",
+        "boostable": "No",
         "experience": "10",
-        "level": "5",
-        "name": "Fletching"
+        "level": "1",
+        "name": "Crafting"
       }
     ],
     "ticks": "2",

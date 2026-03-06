@@ -14140,7 +14140,7 @@
   },
   {
     "coords": "3183,3356",
-    "isMembers": false,
+    "isMembers": true,
     "items": [
       {
         "buyPrice": "N/A",
@@ -34135,7 +34135,7 @@
     ],
     "location": "Sophanem",
     "mapID": "0",
-    "name": "Raetul and Co's Cloth Store. (after [[Contact!]])",
+    "name": "Raetul and Co's Cloth Store. (after Contact!)",
     "plane": "0",
     "sellMultiplier": "1000"
   },
