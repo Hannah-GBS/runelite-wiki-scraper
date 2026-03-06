@@ -981,6 +981,14 @@
         "plane": "0"
       },
       {
+        "coords": "1658,3085",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "mapID": "0",
+        "name": "Bones",
+        "plane": "0"
+      },
+      {
         "coords": "1636,2934",
         "isMembers": true,
         "location": "Colossal Wyrm (2 require telegrab)",
@@ -1667,7 +1675,7 @@
     "group": "Box trap",
     "spawns": [
       {
-        "coords": "1631,3092",
+        "coords": "1628,3093",
         "isMembers": true,
         "location": "Civitas illa Fortis - upstairs on a table in the small building in south-west corner. Note: Ironmen cannot loot it.",
         "mapID": "0",
@@ -2703,6 +2711,14 @@
         "plane": "0"
       },
       {
+        "coords": "1621,9566",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - tunnel",
+        "mapID": "-1",
+        "name": "Bucket",
+        "plane": "0"
+      },
+      {
         "coords": "3359,4777",
         "isMembers": false,
         "location": "Clan Wars - Free for all",
@@ -2770,6 +2786,14 @@
         "coords": "2616,3255",
         "isMembers": true,
         "location": "East Ardougne - well south of the Ardougne Zoo",
+        "mapID": "0",
+        "name": "Bucket",
+        "plane": "0"
+      },
+      {
+        "coords": "3248,2468",
+        "isMembers": true,
+        "location": "Elder Reggle's Farming Shop",
         "mapID": "0",
         "name": "Bucket",
         "plane": "0"
@@ -2939,6 +2963,14 @@
         "isMembers": true,
         "location": "The Pandemonium - down ladder",
         "mapID": "-1",
+        "name": "Bucket",
+        "plane": "0"
+      },
+      {
+        "coords": "3150,2395",
+        "isMembers": true,
+        "location": "The Summer Shore",
+        "mapID": "0",
         "name": "Bucket",
         "plane": "0"
       },
@@ -3655,7 +3687,7 @@
     "group": "Cheese",
     "spawns": [
       {
-        "coords": "1644,3092",
+        "coords": "1646,3094",
         "isMembers": true,
         "location": "Civitas illa Fortis",
         "mapID": "0",
@@ -3826,6 +3858,14 @@
         "isMembers": true,
         "location": "Prifddinas - on a table in Aneirin's Armour",
         "mapID": "29",
+        "name": "Chisel",
+        "plane": "0"
+      },
+      {
+        "coords": "3154,2407",
+        "isMembers": true,
+        "location": "The Summer Shore",
+        "mapID": "0",
         "name": "Chisel",
         "plane": "0"
       },
@@ -4741,14 +4781,6 @@
     "group": "Earth rune",
     "spawns": [
       {
-        "coords": "1394,3116",
-        "isMembers": true,
-        "location": "Moss giants west of Ralos' Rise",
-        "mapID": "0",
-        "name": "Earth rune",
-        "plane": "0"
-      },
-      {
         "coords": "3195,3515",
         "isMembers": false,
         "location": "Varrock - north-east of the Grand Exchange",
@@ -4761,6 +4793,14 @@
         "isMembers": false,
         "location": "Varrock Sewers - western end",
         "mapID": "12",
+        "name": "Earth rune",
+        "plane": "0"
+      },
+      {
+        "coords": "1394,3116",
+        "isMembers": true,
+        "location": "West of Ralos' Rise",
+        "mapID": "0",
         "name": "Earth rune",
         "plane": "0"
       },
@@ -4847,6 +4887,14 @@
         "coords": "3169,3291",
         "isMembers": false,
         "location": "Lumbridge - north-west of Fred the Farmer's house",
+        "mapID": "0",
+        "name": "Egg",
+        "plane": "0"
+      },
+      {
+        "coords": "1553,3123",
+        "isMembers": true,
+        "location": "Ortus Farm",
         "mapID": "0",
         "name": "Egg",
         "plane": "0"
@@ -4983,6 +5031,14 @@
         "coords": "1506,2984",
         "isMembers": true,
         "location": "Sunset Coast",
+        "mapID": "0",
+        "name": "Feather",
+        "plane": "0"
+      },
+      {
+        "coords": "3182,2421",
+        "isMembers": true,
+        "location": "The Summer Shore",
         "mapID": "0",
         "name": "Feather",
         "plane": "0"
@@ -5804,6 +5860,14 @@
         "mapID": "-1",
         "name": "Hammer",
         "plane": "0"
+      },
+      {
+        "coords": "3176,2426",
+        "isMembers": true,
+        "location": "The Summer Shore",
+        "mapID": "0",
+        "name": "Hammer",
+        "plane": "0"
       }
     ]
   },
@@ -6084,7 +6148,7 @@
       {
         "coords": "1519,3225",
         "isMembers": true,
-        "location": "Quetzacalli Gorge(1st floor)",
+        "location": "Quetzacalli Gorge (1st floor)",
         "mapID": "0",
         "name": "Iron dagger",
         "plane": "1"
@@ -6623,6 +6687,14 @@
         "plane": "1"
       },
       {
+        "coords": "1648,9577",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - Barracks",
+        "mapID": "-1",
+        "name": "Bucket",
+        "plane": "0"
+      },
+      {
         "coords": "1649,2906",
         "isMembers": true,
         "location": "Colossal Wyrm Agility Course - advanced route",
@@ -6879,6 +6951,14 @@
         "plane": "0"
       },
       {
+        "coords": "1646,3095",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "mapID": "0",
+        "name": "Knife",
+        "plane": "0"
+      },
+      {
         "coords": "3618,3387",
         "isMembers": true,
         "location": "Darkmeyer",
@@ -7066,6 +7146,14 @@
         "coords": "1587,3277",
         "isMembers": true,
         "location": "The Proudspire",
+        "mapID": "0",
+        "name": "Knife",
+        "plane": "0"
+      },
+      {
+        "coords": "3149,2424",
+        "isMembers": true,
+        "location": "The Summer Shore",
         "mapID": "0",
         "name": "Knife",
         "plane": "0"
@@ -8589,6 +8677,14 @@
         "plane": "1"
       },
       {
+        "coords": "3141,2403",
+        "isMembers": true,
+        "location": "The Summer Shore",
+        "mapID": "0",
+        "name": "Pot",
+        "plane": "0"
+      },
+      {
         "coords": "3232,3399",
         "isMembers": false,
         "location": "Varrock - the Blue Moon Inn",
@@ -9358,6 +9454,14 @@
         "isMembers": true,
         "location": "The Pandemonium - on a crate on the dock",
         "mapID": "-1",
+        "name": "Saw",
+        "plane": "0"
+      },
+      {
+        "coords": "3185,2406",
+        "isMembers": true,
+        "location": "The Summer Shore",
+        "mapID": "0",
         "name": "Saw",
         "plane": "0"
       },
@@ -10531,6 +10635,14 @@
         "mapID": "-1",
         "name": "Sweetcorn",
         "plane": "1"
+      },
+      {
+        "coords": "1574,3139",
+        "isMembers": true,
+        "location": "Ortus Farm (1st floor)",
+        "mapID": "0",
+        "name": "Sweetcorn",
+        "plane": "1"
       }
     ]
   },
@@ -11074,6 +11186,14 @@
         "isMembers": true,
         "location": "Temple Knight training grounds",
         "mapID": "10136",
+        "name": "Vial",
+        "plane": "0"
+      },
+      {
+        "coords": "3186,2401",
+        "isMembers": true,
+        "location": "The Summer Shore",
+        "mapID": "0",
         "name": "Vial",
         "plane": "0"
       },
