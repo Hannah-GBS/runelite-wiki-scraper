@@ -7579,7 +7579,7 @@
         "plane": "1"
       },
       {
-        "coords": "153,3293",
+        "coords": "1533,3293",
         "isMembers": true,
         "location": "The Darkfrost - Hueycoatl base camp",
         "mapID": "0",
@@ -10635,14 +10635,6 @@
         "mapID": "-1",
         "name": "Sweetcorn",
         "plane": "1"
-      },
-      {
-        "coords": "1574,3139",
-        "isMembers": true,
-        "location": "Ortus Farm (1st floor)",
-        "mapID": "0",
-        "name": "Sweetcorn",
-        "plane": "1"
       }
     ]
   },
@@ -10652,7 +10644,7 @@
       {
         "coords": "1574,3139",
         "isMembers": true,
-        "location": "Ortus Farm",
+        "location": "Ortus Farm (1st floor)",
         "mapID": "0",
         "name": "Sweetcorn",
         "plane": "1"
