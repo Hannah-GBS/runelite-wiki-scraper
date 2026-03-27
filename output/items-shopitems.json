@@ -208,7 +208,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Ranging cape(t)",
+        "name": "Ranging cape",
         "stock": "1",
         "version": "Trimmed"
       }
@@ -608,10 +608,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Attack cape(t)",
+        "name": "Attack cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Warriors' Guild",
@@ -866,9 +866,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "20",
-        "version": null
+        "version": "Unlit"
       }
     ],
     "location": "Yanille",
@@ -884,10 +884,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Waterskin(4)",
+        "name": "Waterskin",
         "sellPrice": "1000",
         "stock": "inf",
-        "version": null
+        "version": "(4)"
       }
     ],
     "location": "Nardah",
@@ -1146,7 +1146,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Waterskin(3)",
+        "name": "Waterskin",
         "stock": "10",
         "version": "(3)"
       }
@@ -2218,7 +2218,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Chocolate slice",
+        "name": "Chocolate cake",
         "stock": "6",
         "version": "Slice"
       }
@@ -2254,7 +2254,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Chocolate slice",
+        "name": "Chocolate cake",
         "stock": "8",
         "version": "Slice"
       }
@@ -3305,9 +3305,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "5",
-        "version": null
+        "version": "Unlit"
       },
       {
         "currency": "Coins",
@@ -3445,7 +3445,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Runecraft cape(t)",
+        "name": "Runecraft cape",
         "stock": "1",
         "version": "Trimmed"
       }
@@ -4147,15 +4147,15 @@
       },
       {
         "currency": "Coins",
-        "name": "Waterskin(0)",
+        "name": "Waterskin",
         "stock": "5",
-        "version": null
+        "version": "(4)"
       },
       {
         "currency": "Coins",
-        "name": "Waterskin(4)",
+        "name": "Waterskin",
         "stock": "5",
-        "version": null
+        "version": "(0)"
       }
     ],
     "location": "Bandit Camp",
@@ -4773,15 +4773,15 @@
       },
       {
         "currency": "Coins",
-        "name": "Waterskin(0)",
+        "name": "Waterskin",
         "stock": "5",
-        "version": null
+        "version": "(4)"
       },
       {
         "currency": "Coins",
-        "name": "Waterskin(4)",
+        "name": "Waterskin",
         "stock": "5",
-        "version": null
+        "version": "(0)"
       }
     ],
     "location": "Bedabin Camp",
@@ -5467,10 +5467,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Blighted super restore(4)",
+        "name": "Blighted super restore",
         "sellPrice": "2",
         "stock": "inf",
-        "version": null
+        "version": "4 dose"
       },
       {
         "buyPrice": "40",
@@ -5523,10 +5523,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Esoteric emblem (tier 1)",
+        "name": "Esoteric emblem",
         "sellPrice": "2",
         "stock": "inf",
-        "version": null
+        "version": "Tier 1"
       },
       {
         "buyPrice": "40",
@@ -5539,74 +5539,74 @@
       {
         "buyPrice": "320",
         "currency": "Points",
-        "name": "Morrigan's coif (bh)(inactive)",
+        "name": "Morrigan's coif (bh)",
         "sellPrice": "400",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "440",
         "currency": "Points",
-        "name": "Morrigan's javelin (bh)(inactive)",
+        "name": "Morrigan's javelin (bh)",
         "sellPrice": "550",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "480",
         "currency": "Points",
-        "name": "Morrigan's leather body (bh)(inactive)",
+        "name": "Morrigan's leather body (bh)",
         "sellPrice": "600",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "400",
         "currency": "Points",
-        "name": "Morrigan's leather chaps (bh)(inactive)",
+        "name": "Morrigan's leather chaps (bh)",
         "sellPrice": "500",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "240",
         "currency": "Points",
-        "name": "Morrigan's throwing axe (bh)(inactive)",
+        "name": "Morrigan's throwing axe (bh)",
         "sellPrice": "300",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "320",
         "currency": "Points",
-        "name": "Statius's full helm (bh)(inactive)",
+        "name": "Statius's full helm (bh)",
         "sellPrice": "400",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "480",
         "currency": "Points",
-        "name": "Statius's platebody (bh)(inactive)",
+        "name": "Statius's platebody (bh)",
         "sellPrice": "600",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "400",
         "currency": "Points",
-        "name": "Statius's platelegs (bh)(inactive)",
+        "name": "Statius's platelegs (bh)",
         "sellPrice": "500",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "360",
         "currency": "Points",
-        "name": "Statius's warhammer (bh)(inactive)",
+        "name": "Statius's warhammer (bh)",
         "sellPrice": "450",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "N/A",
@@ -5619,66 +5619,66 @@
       {
         "buyPrice": "480",
         "currency": "Points",
-        "name": "Vesta's chainbody (bh)(inactive)",
+        "name": "Vesta's chainbody (bh)",
         "sellPrice": "600",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "520",
         "currency": "Points",
-        "name": "Vesta's longsword (bh)(inactive)",
+        "name": "Vesta's longsword (bh)",
         "sellPrice": "650",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "440",
         "currency": "Points",
-        "name": "Vesta's plateskirt (bh)(inactive)",
+        "name": "Vesta's plateskirt (bh)",
         "sellPrice": "550",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "240",
         "currency": "Points",
-        "name": "Vesta's spear (bh)(inactive)",
+        "name": "Vesta's spear (bh)",
         "sellPrice": "300",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "240",
         "currency": "Points",
-        "name": "Zuriel's hood (bh)(inactive)",
+        "name": "Zuriel's hood (bh)",
         "sellPrice": "300",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "320",
         "currency": "Points",
-        "name": "Zuriel's robe bottom (bh)(inactive)",
+        "name": "Zuriel's robe bottom (bh)",
         "sellPrice": "400",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "400",
         "currency": "Points",
-        "name": "Zuriel's robe top (bh)(inactive)",
+        "name": "Zuriel's robe top (bh)",
         "sellPrice": "500",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "240",
         "currency": "Points",
-        "name": "Zuriel's staff (bh)(inactive)",
+        "name": "Zuriel's staff (bh)",
         "sellPrice": "300",
         "stock": "inf",
-        "version": null
+        "version": "Inactive"
       }
     ],
     "location": "Daimon's Crater",
@@ -6467,9 +6467,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "5",
-        "version": null
+        "version": "Unlit"
       }
     ],
     "location": "Cam Torum",
@@ -6529,10 +6529,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Agility cape(t)",
+        "name": "Agility cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Brimhaven",
@@ -10789,9 +10789,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "10",
-        "version": null
+        "version": "Unlit"
       }
     ],
     "location": "Darkmeyer",
@@ -12343,46 +12343,6 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Festive nutcracker boots",
-        "sellPrice": "0",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Festive nutcracker hat",
-        "sellPrice": "0",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Festive nutcracker staff",
-        "sellPrice": "0",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Festive nutcracker top",
-        "sellPrice": "0",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Festive nutcracker trousers",
-        "sellPrice": "0",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
         "name": "Festive scarf",
         "sellPrice": "0",
         "stock": "inf",
@@ -12751,6 +12711,46 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Nutcracker boots",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": "Festive"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Nutcracker hat",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": "Festive"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Nutcracker staff",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": "Festive"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Nutcracker top",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": "Festive"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Nutcracker trousers",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": "Festive"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Oculus orb",
         "sellPrice": "0",
         "stock": "inf",
@@ -12967,10 +12967,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Secret santa present (red)",
+        "name": "Secret santa present",
         "sellPrice": "0",
         "stock": "inf",
-        "version": null
+        "version": "Red"
       },
       {
         "buyPrice": "N/A",
@@ -13287,10 +13287,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Ugly halloween jumper (orange)",
+        "name": "Ugly halloween jumper",
         "sellPrice": "0",
         "stock": "inf",
-        "version": null
+        "version": "Orange"
       },
       {
         "buyPrice": "N/A",
@@ -13409,16 +13409,16 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Beach boxing gloves (pink)",
+        "name": "Beach boxing gloves",
         "stock": "5",
-        "version": "Pink"
+        "version": "Yellow"
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Beach boxing gloves (yellow)",
+        "name": "Beach boxing gloves",
         "stock": "5",
-        "version": "Yellow"
+        "version": "Pink"
       },
       {
         "currency": "Coins",
@@ -13727,10 +13727,10 @@
       {
         "buyPrice": "N/A",
         "currency": "NMZ",
-        "name": "Compost potion(4)",
+        "name": "Compost potion",
         "sellPrice": "5000",
         "stock": "inf",
-        "version": null
+        "version": "4 dose"
       },
       {
         "buyPrice": "N/A",
@@ -13825,34 +13825,34 @@
       {
         "buyPrice": "N/A",
         "currency": "NMZ",
-        "name": "Absorption (1)",
+        "name": "Absorption",
         "sellPrice": "1000",
         "stock": "inf",
-        "version": null
+        "version": "1 dose"
       },
       {
         "buyPrice": "N/A",
         "currency": "NMZ",
-        "name": "Overload (1) (Nightmare Zone)",
+        "name": "Overload (Nightmare Zone)",
         "sellPrice": "1500",
         "stock": "inf",
-        "version": null
+        "version": "1 dose"
       },
       {
         "buyPrice": "N/A",
         "currency": "NMZ",
-        "name": "Super magic potion (1)",
+        "name": "Super magic potion",
         "sellPrice": "250",
         "stock": "inf",
-        "version": null
+        "version": "1 dose"
       },
       {
         "buyPrice": "N/A",
         "currency": "NMZ",
-        "name": "Super ranging (1)",
+        "name": "Super ranging",
         "sellPrice": "250",
         "stock": "inf",
-        "version": null
+        "version": "1 dose"
       }
     ],
     "location": "Yanille",
@@ -13993,9 +13993,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "5",
-        "version": null
+        "version": "Unlit"
       }
     ],
     "location": "Dorgesh-Kaan",
@@ -14293,10 +14293,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Slayer cape(t)",
+        "name": "Slayer cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Shilo Village",
@@ -14467,7 +14467,7 @@
       },
       {
         "currency": "Stardust",
-        "name": "Celestial ring (uncharged)",
+        "name": "Celestial ring",
         "stock": "50",
         "version": "Uncharged"
       },
@@ -15351,9 +15351,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "20",
-        "version": null
+        "version": "Unlit"
       }
     ],
     "location": "The Summer Shore",
@@ -15601,10 +15601,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Construct. cape(t)",
+        "name": "Construct. cape",
         "sellPrice": "99,000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "",
@@ -15627,10 +15627,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Construct. cape(t)",
+        "name": "Construct. cape",
         "sellPrice": "99,000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "",
@@ -15653,10 +15653,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Construct. cape(t)",
+        "name": "Construct. cape",
         "sellPrice": "99,000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "",
@@ -15679,10 +15679,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Construct. cape(t)",
+        "name": "Construct. cape",
         "sellPrice": "99,000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "",
@@ -15705,10 +15705,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Construct. cape(t)",
+        "name": "Construct. cape",
         "sellPrice": "99,000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "",
@@ -15731,10 +15731,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Construct. cape(t)",
+        "name": "Construct. cape",
         "sellPrice": "99,000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "",
@@ -16267,14 +16267,6 @@
       {
         "buyPrice": "N/A",
         "currency": "Tithe",
-        "name": "Auto-weed",
-        "sellPrice": "50",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Tithe",
         "name": "Bologa's blessing",
         "sellPrice": "1",
         "stock": "inf",
@@ -16383,6 +16375,14 @@
         "sellPrice": "5",
         "stock": "inf",
         "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Tithe",
+        "name": "Tithe Farm",
+        "sellPrice": "50",
+        "stock": "inf",
+        "version": "Reward shop"
       }
     ],
     "location": "Hosidius",
@@ -17563,7 +17563,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Chocolate slice",
+        "name": "Chocolate cake",
         "stock": "5",
         "version": "Slice"
       }
@@ -19371,10 +19371,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Mining cape(t)",
+        "name": "Mining cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Mining Guild",
@@ -21017,9 +21017,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "10",
-        "version": null
+        "version": "Unlit"
       },
       {
         "currency": "Coins",
@@ -21365,10 +21365,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Cooking cape(t)",
+        "name": "Cooking cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Cooks' Guild",
@@ -21987,7 +21987,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Fletching cape(t)",
+        "name": "Fletching cape",
         "stock": "1",
         "version": "Trimmed"
       }
@@ -22455,10 +22455,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Hunter cape(t)",
+        "name": "Hunter cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Feldip Hunter area",
@@ -22583,10 +22583,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Firemaking cape(t)",
+        "name": "Firemaking cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "North-east of the Sorcerer's Tower",
@@ -22667,9 +22667,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "20",
-        "version": null
+        "version": "Unlit"
       }
     ],
     "location": "Hunter Guild",
@@ -23305,10 +23305,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Rod of ivandis (10)",
+        "name": "Rod of ivandis",
         "sellPrice": "1000",
         "stock": "20",
-        "version": null
+        "version": "(10)"
       },
       {
         "currency": "Coins",
@@ -23583,9 +23583,9 @@
     "items": [
       {
         "currency": "Coins",
-        "name": "Antipoison(3)",
+        "name": "Antipoison",
         "stock": "10",
-        "version": null
+        "version": "3 dose"
       },
       {
         "currency": "Coins",
@@ -23727,9 +23727,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "10",
-        "version": null
+        "version": "Unlit"
       },
       {
         "currency": "Coins",
@@ -23763,9 +23763,9 @@
     "items": [
       {
         "currency": "Coins",
-        "name": "Antipoison(3)",
+        "name": "Antipoison",
         "stock": "10",
-        "version": null
+        "version": "3 dose"
       },
       {
         "currency": "Coins",
@@ -23907,9 +23907,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "10",
-        "version": null
+        "version": "Unlit"
       },
       {
         "currency": "Coins",
@@ -24001,34 +24001,34 @@
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Animation overrides#Godswords",
+        "name": "Animation overrides",
         "sellPrice": "75",
         "stock": "\u221e",
-        "version": null
+        "version": "Godswords"
       },
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Animation overrides#Godswords",
+        "name": "Animation overrides",
         "sellPrice": "75",
         "stock": "\u221e",
-        "version": null
+        "version": "Godswords"
       },
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Animation overrides#Godswords",
+        "name": "Animation overrides",
         "sellPrice": "75",
         "stock": "\u221e",
-        "version": null
+        "version": "Godswords"
       },
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Animation overrides#Godswords",
+        "name": "Animation overrides",
         "sellPrice": "75",
         "stock": "\u221e",
-        "version": null
+        "version": "Godswords"
       },
       {
         "buyPrice": "N/A",
@@ -24097,10 +24097,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Blighted super restore(4)",
+        "name": "Blighted super restore",
         "sellPrice": "1",
         "stock": "\u221e",
-        "version": null
+        "version": "4 dose"
       },
       {
         "buyPrice": "N/A",
@@ -24433,10 +24433,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Vesta's longsword (inactive)",
+        "name": "Vesta's blighted longsword",
         "sellPrice": "300",
         "stock": "\u221e",
-        "version": null
+        "version": "Inactive"
       },
       {
         "buyPrice": "N/A",
@@ -24547,10 +24547,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Herblore cape(t)",
+        "name": "Herblore cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "The Druid's circle in Taverley",
@@ -25100,7 +25100,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Chocolate slice",
+        "name": "Chocolate cake",
         "stock": "8",
         "version": "Slice"
       }
@@ -25387,7 +25387,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Chocolate slice",
+        "name": "Chocolate cake",
         "stock": "5",
         "version": "Slice"
       }
@@ -25515,10 +25515,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Slayer cape(t)",
+        "name": "Slayer cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Shilo Village",
@@ -26137,9 +26137,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Attack potion(3)",
+        "name": "Attack potion",
         "stock": "3",
-        "version": null
+        "version": "3 dose"
       },
       {
         "currency": "Coins",
@@ -28282,7 +28282,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Magic cape(t)",
+        "name": "Magic cape",
         "stock": "1",
         "version": "Trimmed"
       }
@@ -28821,7 +28821,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Thieving cape(t)",
+        "name": "Thieving cape",
         "stock": "1",
         "version": "Trimmed"
       }
@@ -28847,10 +28847,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Crafting cape(t)",
+        "name": "Crafting cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Crafting Guild",
@@ -28873,10 +28873,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Fishing cape(t)",
+        "name": "Fishing cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Fishing Guild",
@@ -28917,10 +28917,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Defence cape(t)",
+        "name": "Defence cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Lumbridge",
@@ -29075,9 +29075,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "15",
-        "version": null
+        "version": "Unlit"
       }
     ],
     "location": "Dorgesh-Kaan",
@@ -29539,10 +29539,10 @@
       {
         "buyPrice": "",
         "currency": "Coins",
-        "name": "Chugging barrel (disassembled)",
+        "name": "Chugging barrel",
         "sellPrice": "",
         "stock": "inf",
-        "version": null
+        "version": "Disassembled"
       },
       {
         "buyPrice": "",
@@ -30331,9 +30331,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "20",
-        "version": null
+        "version": "Unlit"
       }
     ],
     "location": "Nardah",
@@ -30409,15 +30409,15 @@
       },
       {
         "currency": "Coins",
-        "name": "Chocolate slice",
+        "name": "Chocolate cake",
         "stock": "8",
         "version": "Slice"
       },
       {
         "currency": "Coins",
-        "name": "Waterskin(4)",
+        "name": "Waterskin",
         "stock": "50",
-        "version": null
+        "version": "(4)"
       }
     ],
     "location": "Sophanem",
@@ -30865,9 +30865,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "10",
-        "version": null
+        "version": "Unlit"
       },
       {
         "currency": "Coins",
@@ -31027,9 +31027,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "10",
-        "version": null
+        "version": "Unlit"
       },
       {
         "currency": "Coins",
@@ -31071,10 +31071,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Music cape(t)",
+        "name": "Music cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Rellekka",
@@ -31784,34 +31784,34 @@
       {
         "buyPrice": "N/A",
         "currency": "Volcanic Mine points",
-        "name": "Prospector boots#Volcanic Mine",
+        "name": "Prospector boots",
         "sellPrice": "21,000",
         "stock": "inf",
-        "version": null
+        "version": "Volcanic Mine"
       },
       {
         "buyPrice": "N/A",
         "currency": "Volcanic Mine points",
-        "name": "Prospector helmet#Volcanic Mine",
+        "name": "Prospector helmet",
         "sellPrice": "26,000",
         "stock": "inf",
-        "version": null
+        "version": "Volcanic Mine"
       },
       {
         "buyPrice": "N/A",
         "currency": "Volcanic Mine points",
-        "name": "Prospector jacket#Volcanic Mine",
+        "name": "Prospector jacket",
         "sellPrice": "39,000",
         "stock": "inf",
-        "version": null
+        "version": "Volcanic Mine"
       },
       {
         "buyPrice": "N/A",
         "currency": "Volcanic Mine points",
-        "name": "Prospector legs#Volcanic Mine",
+        "name": "Prospector legs",
         "sellPrice": "34,000",
         "stock": "inf",
-        "version": null
+        "version": "Volcanic Mine"
       },
       {
         "buyPrice": "N/A",
@@ -32197,7 +32197,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Waterskin(3)",
+        "name": "Waterskin",
         "stock": "20",
         "version": "(3)"
       }
@@ -33642,27 +33642,27 @@
       },
       {
         "currency": "Golden nugget",
-        "name": "Prospector boots#Motherlode Mine",
+        "name": "Prospector boots",
         "stock": "100",
-        "version": null
+        "version": "Motherlode Mine"
       },
       {
         "currency": "Golden nugget",
-        "name": "Prospector helmet#Motherlode Mine",
+        "name": "Prospector helmet",
         "stock": "100",
-        "version": null
+        "version": "Motherlode Mine"
       },
       {
         "currency": "Golden nugget",
-        "name": "Prospector jacket#Motherlode Mine",
+        "name": "Prospector jacket",
         "stock": "100",
-        "version": null
+        "version": "Motherlode Mine"
       },
       {
         "currency": "Golden nugget",
-        "name": "Prospector legs#Motherlode Mine",
+        "name": "Prospector legs",
         "stock": "100",
-        "version": null
+        "version": "Motherlode Mine"
       },
       {
         "currency": "Golden nugget",
@@ -34034,9 +34034,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "5",
-        "version": null
+        "version": "Unlit"
       }
     ],
     "location": "Quetzacalli Gorge",
@@ -34393,9 +34393,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Olive oil(3)",
+        "name": "Olive oil",
         "stock": "2",
-        "version": null
+        "version": "3 dose"
       },
       {
         "currency": "Coins",
@@ -34441,9 +34441,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Waterskin(4)",
+        "name": "Waterskin",
         "stock": "1",
-        "version": null
+        "version": "(4)"
       }
     ],
     "location": "South of Baxtorian Falls",
@@ -34641,14 +34641,14 @@
       },
       {
         "currency": "Coins",
-        "name": "Olive oil pack",
-        "stock": "20",
-        "version": null
+        "name": "Olive oil",
+        "stock": "150",
+        "version": "4 dose"
       },
       {
         "currency": "Coins",
-        "name": "Olive oil(4)",
-        "stock": "150",
+        "name": "Olive oil pack",
+        "stock": "20",
         "version": null
       },
       {
@@ -36038,10 +36038,10 @@
       {
         "buyPrice": "28846",
         "currency": "Coins",
-        "name": "Facility bottle (empty)",
+        "name": "Facility bottle",
         "sellPrice": "75000",
         "stock": "100",
-        "version": null
+        "version": "Empty"
       },
       {
         "currency": "Coins",
@@ -36377,15 +36377,15 @@
       },
       {
         "currency": "Coins",
-        "name": "Waterskin(0)",
+        "name": "Waterskin",
         "stock": "100",
-        "version": null
+        "version": "(4)"
       },
       {
         "currency": "Coins",
-        "name": "Waterskin(4)",
+        "name": "Waterskin",
         "stock": "100",
-        "version": null
+        "version": "(0)"
       }
     ],
     "location": "",
@@ -36564,10 +36564,10 @@
       {
         "buyPrice": "28846",
         "currency": "Coins",
-        "name": "Facility bottle (empty)",
+        "name": "Facility bottle",
         "sellPrice": "75000",
         "stock": "100",
-        "version": null
+        "version": "Empty"
       },
       {
         "currency": "Coins",
@@ -37118,6 +37118,12 @@
       },
       {
         "currency": "Coins",
+        "name": "Bug lantern",
+        "stock": "50",
+        "version": "Unlit"
+      },
+      {
+        "currency": "Coins",
         "name": "Earmuffs",
         "stock": "50",
         "version": null
@@ -37239,12 +37245,6 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit bug lantern",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
         "name": "Witchwood icon",
         "stock": "50",
         "version": null
@@ -37322,10 +37322,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Slayer ring (8)",
+        "name": "Slayer ring",
         "sellPrice": "75",
         "stock": "inf",
-        "version": null
+        "version": "(8)"
       }
     ],
     "location": "",
@@ -37348,10 +37348,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Strength cape(t)",
+        "name": "Strength cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Warriors' Guild",
@@ -37517,10 +37517,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Zeal Tokens",
-        "name": "Blighted super restore(4)",
+        "name": "Blighted super restore",
         "sellPrice": "10",
         "stock": "inf",
-        "version": null
+        "version": "4 dose"
       },
       {
         "buyPrice": "N/A",
@@ -38212,9 +38212,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Unlit torch",
+        "name": "Torch",
         "stock": "5",
-        "version": null
+        "version": "Unlit"
       }
     ],
     "location": "Sunset Coast",
@@ -38238,10 +38238,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Hitpoints cape(t)",
+        "name": "Hitpoints cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Emir's Arena",
@@ -38473,16 +38473,16 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Adamant spear(kp)",
+        "name": "Adamant spear",
         "stock": "0",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Bronze spear(kp)",
+        "name": "Bronze spear",
         "stock": "10",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       },
       {
         "currency": "Coins",
@@ -38493,30 +38493,30 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Iron spear(kp)",
+        "name": "Iron spear",
         "stock": "10",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Mithril spear(kp)",
+        "name": "Mithril spear",
         "stock": "2",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Rune spear(kp)",
+        "name": "Rune spear",
         "stock": "0",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Steel spear(kp)",
+        "name": "Steel spear",
         "stock": "5",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       }
     ],
     "location": "Tai Bwo Wannai",
@@ -38533,16 +38533,16 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Adamant spear(kp)",
+        "name": "Adamant spear",
         "stock": "0",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Bronze spear(kp)",
+        "name": "Bronze spear",
         "stock": "10",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       },
       {
         "currency": "Coins",
@@ -38553,30 +38553,30 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Iron spear(kp)",
+        "name": "Iron spear",
         "stock": "10",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Mithril spear(kp)",
+        "name": "Mithril spear",
         "stock": "2",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Rune spear(kp)",
+        "name": "Rune spear",
         "stock": "0",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Steel spear(kp)",
+        "name": "Steel spear",
         "stock": "5",
-        "version": "(kp)"
+        "version": "Karambwan poison"
       }
     ],
     "location": "Tai Bwo Wannai",
@@ -40039,9 +40039,9 @@
     "items": [
       {
         "currency": "Coins",
-        "name": "Antipoison(3)",
+        "name": "Antipoison",
         "stock": "20",
-        "version": null
+        "version": "3 dose"
       },
       {
         "currency": "Coins",
@@ -40370,10 +40370,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Smithing cape(t)",
+        "name": "Smithing cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Mudskipper Point, south of Port Sarim",
@@ -41280,10 +41280,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Achievement diary cape (t)",
+        "name": "Achievement diary cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "South of Draynor Village bank",
@@ -43566,26 +43566,26 @@
       {
         "buyPrice": "N/A",
         "currency": "Void Knight commendation points",
-        "name": "Void Knights' Reward Options#Herb pack",
+        "name": "Void Knights' Reward Options",
         "sellPrice": "30",
         "stock": "inf",
-        "version": null
+        "version": "Herb pack"
       },
       {
         "buyPrice": "N/A",
         "currency": "Void Knight commendation points",
-        "name": "Void Knights' Reward Options#Mineral pack",
+        "name": "Void Knights' Reward Options",
         "sellPrice": "15",
         "stock": "inf",
-        "version": null
+        "version": "Mineral pack"
       },
       {
         "buyPrice": "N/A",
         "currency": "Void Knight commendation points",
-        "name": "Void Knights' Reward Options#Seed pack",
+        "name": "Void Knights' Reward Options",
         "sellPrice": "15",
         "stock": "inf",
-        "version": null
+        "version": "Seed pack"
       },
       {
         "buyPrice": "N/A",
@@ -44180,21 +44180,21 @@
     "items": [
       {
         "currency": "Coins",
-        "name": "Attack potion(3)",
+        "name": "Attack potion",
         "stock": "10",
-        "version": null
+        "version": "3 dose"
       },
       {
         "currency": "Coins",
-        "name": "Defence potion(3)",
+        "name": "Defence potion",
         "stock": "10",
-        "version": null
+        "version": "3 dose"
       },
       {
         "currency": "Coins",
-        "name": "Strength potion(3)",
+        "name": "Strength potion",
         "stock": "10",
-        "version": null
+        "version": "3 dose"
       }
     ],
     "location": "ground floor of the Warriors' Guild",
@@ -45316,10 +45316,10 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Quest point cape (t)",
+        "name": "Quest point cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "",
@@ -45334,7 +45334,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Woodcut. cape(t)",
+        "name": "Woodcutting cape",
         "sellPrice": "99000",
         "stock": "inf",
         "version": null
@@ -45345,7 +45345,7 @@
         "name": "Woodcutting cape",
         "sellPrice": "99000",
         "stock": "inf",
-        "version": null
+        "version": "Trimmed"
       }
     ],
     "location": "Lumbridge",
@@ -46146,9 +46146,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Relicym's balm(3)",
+        "name": "Relicym's balm",
         "stock": "100",
-        "version": null
+        "version": "3 dose"
       },
       {
         "currency": "Coins",
@@ -46158,9 +46158,9 @@
       },
       {
         "currency": "Coins",
-        "name": "Sanfew serum(3)",
+        "name": "Sanfew serum",
         "stock": "0",
-        "version": null
+        "version": "3 dose"
       },
       {
         "currency": "Coins",
