@@ -2991,6 +2991,14 @@
         "plane": "1"
       },
       {
+        "coords": "1881,2981",
+        "isMembers": true,
+        "location": "Vatrachos Island",
+        "mapID": "0",
+        "name": "Bucket",
+        "plane": "0"
+      },
+      {
         "coords": "2849,10332",
         "isMembers": true,
         "location": "Weiss - Salt Mines",
@@ -11428,7 +11436,7 @@
       {
         "coords": "2848,3921",
         "isMembers": true,
-        "location": "Weiss",
+        "location": "Weiss{{efn|Note that the 4 southern spawns in Weiss must be telegrabbed.}}",
         "mapID": "0",
         "name": "Wolf bones",
         "plane": "0"

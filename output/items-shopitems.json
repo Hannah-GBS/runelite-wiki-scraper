@@ -11751,6 +11751,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Archibald",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Banana cape",
         "sellPrice": "0",
         "stock": "inf",
@@ -29373,7 +29381,7 @@
     "sellMultiplier": "1300"
   },
   {
-    "buyMultiplier": "600",
+    "buyMultiplier": "700",
     "coords": "1400,2865",
     "isMembers": true,
     "items": [
