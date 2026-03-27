@@ -13,19 +13,6 @@
     ]
   },
   {
-    "group": "Ahab's beer",
-    "spawns": [
-      {
-        "coords": "3049,3257",
-        "isMembers": false,
-        "location": "Port Sarim - Rusty Anchor Inn",
-        "mapID": "0",
-        "name": "Ahab's beer",
-        "plane": "0"
-      }
-    ]
-  },
-  {
     "group": "Air rune",
     "spawns": [
       {
@@ -177,8 +164,9 @@
         "isMembers": true,
         "location": "Wilderness - Deep Wilderness Dungeon",
         "mapID": "26",
-        "name": "Attack potion(1)",
-        "plane": "0"
+        "name": "Attack potion",
+        "plane": "0",
+        "version": "1 dose"
       }
     ]
   },
@@ -883,19 +871,6 @@
         "location": "Taverley Dungeon",
         "mapID": "20",
         "name": "Blue dragon scale",
-        "plane": "0"
-      }
-    ]
-  },
-  {
-    "group": "Blue hat (Legends' Quest)",
-    "spawns": [
-      {
-        "coords": "2379,4712",
-        "isMembers": true,
-        "location": "Viyeldi Caves",
-        "mapID": "10173",
-        "name": "Blue hat",
         "plane": "0"
       }
     ]
@@ -1825,19 +1800,6 @@
         "location": "Trouble Brewing",
         "mapID": "0",
         "name": "Brewin' guide",
-        "plane": "0"
-      }
-    ]
-  },
-  {
-    "group": "Brewin' guide (unobtainable item)",
-    "spawns": [
-      {
-        "coords": "3804,3010",
-        "isMembers": true,
-        "location": "Trouble Brewing",
-        "mapID": "0",
-        "name": "Brewin' Guide",
         "plane": "0"
       }
     ]
@@ -3199,8 +3161,9 @@
         "isMembers": true,
         "location": "Ruins of Tapoyauik{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "mapID": "-1",
-        "name": "Unlit bug lantern",
-        "plane": "0"
+        "name": "Bug lantern",
+        "plane": "0",
+        "version": "Unlit"
       }
     ]
   },
@@ -3462,8 +3425,9 @@
         "isMembers": true,
         "location": "Salvager Overlook - General Store",
         "mapID": "0",
-        "name": "Cabbages(2)",
-        "plane": "0"
+        "name": "Cabbages",
+        "plane": "0",
+        "version": "2"
       }
     ]
   },
@@ -3475,8 +3439,9 @@
         "isMembers": true,
         "location": "Karamja - Moss Giant Island",
         "mapID": "0",
-        "name": "Slice of cake",
-        "plane": "0"
+        "name": "Cake",
+        "plane": "0",
+        "version": "Slice"
       }
     ]
   },
@@ -3509,16 +3474,18 @@
         "isMembers": true,
         "location": "Ardougne Monastery",
         "mapID": "0",
-        "name": "Lit candle",
-        "plane": "0"
+        "name": "Candle",
+        "plane": "0",
+        "version": "Lit"
       },
       {
         "coords": "3644,3360",
         "isMembers": true,
         "location": "Darkmeyer - lower tier",
         "mapID": "0",
-        "name": "Lit candle",
-        "plane": "0"
+        "name": "Candle",
+        "plane": "0",
+        "version": "Lit"
       },
       {
         "coords": "1635,3621",
@@ -3541,8 +3508,9 @@
         "isMembers": true,
         "location": "Land's End - north-western house",
         "mapID": "0",
-        "name": "Lit candle",
-        "plane": "0"
+        "name": "Candle",
+        "plane": "0",
+        "version": "Lit"
       },
       {
         "coords": "1644,3284",
@@ -3557,24 +3525,27 @@
         "isMembers": true,
         "location": "Slepe - building west of the Sisterhood Sanctuary entrance",
         "mapID": "0",
-        "name": "Lit candle",
-        "plane": "0"
+        "name": "Candle",
+        "plane": "0",
+        "version": "Lit"
       },
       {
         "coords": "3750,3339",
         "isMembers": true,
         "location": "Slepe - eastern house (1st floor)",
         "mapID": "0",
-        "name": "Lit candle",
-        "plane": "1"
+        "name": "Candle",
+        "plane": "1",
+        "version": "Lit"
       },
       {
         "coords": "3698,3339",
         "isMembers": true,
         "location": "Slepe - western house (1st floor)",
         "mapID": "0",
-        "name": "Lit candle",
-        "plane": "1"
+        "name": "Candle",
+        "plane": "1",
+        "version": "Lit"
       },
       {
         "coords": "1680,3232",
@@ -3589,24 +3560,27 @@
         "isMembers": true,
         "location": "The Teomat - northern building",
         "mapID": "0",
-        "name": "Lit candle",
-        "plane": "0"
+        "name": "Candle",
+        "plane": "0",
+        "version": "Lit"
       },
       {
         "coords": "3208,3395",
         "isMembers": true,
         "location": "Varrock Swordshop (1st floor)",
         "mapID": "0",
-        "name": "Lit candle",
-        "plane": "1"
+        "name": "Candle",
+        "plane": "1",
+        "version": "Lit"
       },
       {
         "coords": "2547,3114",
         "isMembers": true,
         "location": "Yanille Watchtower",
         "mapID": "0",
-        "name": "Lit candle",
-        "plane": "0"
+        "name": "Candle",
+        "plane": "0",
+        "version": "Lit"
       }
     ]
   },
@@ -4542,19 +4516,6 @@
         "mapID": "0",
         "name": "Cup of tea",
         "plane": "0"
-      }
-    ]
-  },
-  {
-    "group": "Cup of tea (Zogre Flesh Eaters)",
-    "spawns": [
-      {
-        "coords": "2593,3103",
-        "isMembers": true,
-        "location": "Yanille - building north of the Wizards' Guild",
-        "mapID": "0",
-        "name": "Cup of Tea",
-        "plane": "1"
       }
     ]
   },
@@ -7217,19 +7178,6 @@
     ]
   },
   {
-    "group": "Lamp (Spirits of the Elid)",
-    "spawns": [
-      {
-        "coords": "3369,9317",
-        "isMembers": true,
-        "location": "Nardah - Genie Cave",
-        "mapID": "10070",
-        "name": "Lamp",
-        "plane": "0"
-      }
-    ]
-  },
-  {
     "group": "Leather",
     "spawns": [
       {
@@ -9035,8 +8983,9 @@
         "isMembers": true,
         "location": "Wilderness - Pirates' Hideout",
         "mapID": "0",
-        "name": "Half a redberry pie",
-        "plane": "0"
+        "name": "Redberry pie",
+        "plane": "0",
+        "version": "Half"
       }
     ]
   },
@@ -9285,19 +9234,6 @@
     ]
   },
   {
-    "group": "Rope (Olaf's Quest)",
-    "spawns": [
-      {
-        "coords": "2700,10163",
-        "isMembers": true,
-        "location": "Brine Rat Cavern",
-        "mapID": "10026",
-        "name": "Rope",
-        "plane": "0"
-      }
-    ]
-  },
-  {
     "group": "Rotten apple",
     "spawns": [
       {
@@ -9312,19 +9248,6 @@
   },
   {
     "group": "Rotten barrel",
-    "spawns": [
-      {
-        "coords": "2710,10157",
-        "isMembers": true,
-        "location": "Brine Rat Cavern",
-        "mapID": "10026",
-        "name": "Rotten barrel",
-        "plane": "0"
-      }
-    ]
-  },
-  {
-    "group": "Rotten barrel (unobtainable item)",
     "spawns": [
       {
         "coords": "2710,10157",
@@ -10578,8 +10501,9 @@
         "isMembers": true,
         "location": "Observatory Dungeon entrance",
         "mapID": "0",
-        "name": "Superantipoison(1)",
-        "plane": "0"
+        "name": "Superantipoison",
+        "plane": "0",
+        "version": "1 dose"
       }
     ]
   },
@@ -11060,8 +10984,9 @@
         "isMembers": true,
         "location": "Sunset Coast (1st floor)",
         "mapID": "0",
-        "name": "Unlit torch",
-        "plane": "1"
+        "name": "Torch",
+        "plane": "1",
+        "version": "Unlit"
       }
     ]
   },
@@ -11278,16 +11203,18 @@
         "isMembers": true,
         "location": "Necropolis",
         "mapID": "0",
-        "name": "Waterskin(4)",
-        "plane": "0"
+        "name": "Waterskin",
+        "plane": "0",
+        "version": "(4)"
       },
       {
         "coords": "3172,2857",
         "isMembers": true,
         "location": "Ruins of Unkah",
         "mapID": "-1",
-        "name": "Waterskin(0)",
-        "plane": "0"
+        "name": "Waterskin",
+        "plane": "0",
+        "version": "(0)"
       }
     ]
   },
@@ -11306,19 +11233,6 @@
         "coords": "3009,3204",
         "isMembers": false,
         "location": "Port Sarim - Wydin's Food Store",
-        "mapID": "0",
-        "name": "White apron",
-        "plane": "0"
-      }
-    ]
-  },
-  {
-    "group": "White apron (Gerrant's Fishy Business)",
-    "spawns": [
-      {
-        "coords": "3016,3229",
-        "isMembers": false,
-        "location": "Port Sarim - Gerrant's Fishy Business",
         "mapID": "0",
         "name": "White apron",
         "plane": "0"
@@ -11386,19 +11300,6 @@
         "name": "Wine of zamorak",
         "plane": "0"
       },
-      {
-        "coords": "3018,10353",
-        "isMembers": true,
-        "location": "Wilderness - Deep Wilderness Dungeon",
-        "mapID": "26",
-        "name": "Wine of zamorak",
-        "plane": "0"
-      }
-    ]
-  },
-  {
-    "group": "Wine of zamorak (unobtainable item)",
-    "spawns": [
       {
         "coords": "3018,10353",
         "isMembers": true,
