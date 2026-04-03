@@ -13364,7 +13364,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">155,018,308</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">152,535,623</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19152,7 +19152,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">153,412,917</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">149,468,611</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -40186,10 +40186,11 @@
     ],
     "members": true,
     "output": {
-      "image": "[[File:Crystal seedling (w).png|class=inventory-image|link=Crystal seedling]]",
+      "image": "[[File:Crystal seedling (w).png|class=inventory-image|link=Crystal seedling (w)]]",
       "image_name": "Crystal seedling (w)",
       "name": "Crystal seedling",
-      "quantity": "1"
+      "quantity": "1",
+      "version": "Watered"
     },
     "skills": [
       {
