@@ -4736,8 +4736,74 @@
         "quantity": "1"
       },
       {
+        "imagename": "Brandy",
+        "name": "Brandy",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Alco-chunks.png|class=inventory-image|link=Alco-chunks]]",
+      "image_name": "Alco-chunks",
+      "name": "Alco-chunks",
+      "quantity": "1"
+    },
+    "skills": []
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Pineapple chunks",
+        "name": "Pineapple chunks",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Gin",
+        "name": "Gin",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Alco-chunks.png|class=inventory-image|link=Alco-chunks]]",
+      "image_name": "Alco-chunks",
+      "name": "Alco-chunks",
+      "quantity": "1"
+    },
+    "skills": []
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Pineapple chunks",
+        "name": "Pineapple chunks",
+        "quantity": "1"
+      },
+      {
         "imagename": "Vodka",
         "name": "Vodka",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Alco-chunks.png|class=inventory-image|link=Alco-chunks]]",
+      "image_name": "Alco-chunks",
+      "name": "Alco-chunks",
+      "quantity": "1"
+    },
+    "skills": []
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Pineapple chunks",
+        "name": "Pineapple chunks",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Whisky",
+        "name": "Whisky",
         "quantity": "1"
       }
     ],
@@ -13364,7 +13430,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">152,535,623</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">149,158,746</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19152,7 +19218,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">149,468,611</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">142,274,502</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -44647,6 +44713,25 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "facilities": "Otto Godblessed",
+    "materials": [
+      {
+        "imagename": "Broken dragon hasta",
+        "name": "Broken dragon hasta",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Dragon hasta.png|class=inventory-image|link=Dragon hasta]]",
+      "image_name": "Dragon hasta",
+      "name": "Dragon hasta",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
