@@ -2194,6 +2194,36 @@
     "sellMultiplier": "1000"
   },
   {
+    "buyMultiplier": "550",
+    "coords": "1210,3096",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bronze knife",
+        "stock": "2000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron knife",
+        "stock": "1000",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel knife",
+        "stock": "800",
+        "version": null
+      }
+    ],
+    "location": "Tal Teklan",
+    "mapID": "0",
+    "name": "Arcuani's Archery Supplies Demonic Pacts League",
+    "plane": "0",
+    "sellMultiplier": "1000"
+  },
+  {
     "buyMultiplier": "800",
     "coords": "2656,3310",
     "isMembers": true,
@@ -14811,6 +14841,72 @@
     "sellMultiplier": "1000"
   },
   {
+    "coords": "1350,3057",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Compost",
+        "sellPrice": "20",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Empty plant pot",
+        "sellPrice": "1",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Gardening trowel",
+        "sellPrice": "12",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Plant cure",
+        "sellPrice": "40",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Rake",
+        "sellPrice": "6",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Seed dibber",
+        "sellPrice": "6",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Watering can",
+        "sellPrice": "8",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Kastori",
+    "mapID": "0",
+    "name": "Ehecatl",
+    "plane": "0"
+  },
+  {
     "buyMultiplier": "600",
     "coords": "3170,2416",
     "isMembers": true,
@@ -17767,6 +17863,54 @@
     "sellMultiplier": "1000"
   },
   {
+    "buyMultiplier": "600",
+    "coords": "1659,3140",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bronze dagger",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze halberd",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron dagger",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Iron halberd",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel dagger",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Steel halberd",
+        "stock": "2",
+        "version": null
+      }
+    ],
+    "location": "Civitas illa Fortis",
+    "mapID": "0",
+    "name": "Fortis Blacksmith Demonic Pacts League",
+    "plane": "0",
+    "sellMultiplier": "1000"
+  },
+  {
     "buyMultiplier": "950",
     "coords": "1675,3112",
     "isMembers": true,
@@ -18009,6 +18153,30 @@
     "location": "Civitas illa Fortis",
     "mapID": "0",
     "name": "Fortis General Store",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "1669,3121",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bird snare",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Box trap",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "Civitas illa Fortis",
+    "mapID": "0",
+    "name": "Fortis General Store Demonic Pacts League",
     "plane": "0",
     "sellMultiplier": "1300"
   },
@@ -37276,6 +37444,30 @@
     "sellMultiplier": "1000"
   },
   {
+    "buyMultiplier": "600",
+    "coords": "?",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Anti-dragon shield",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Elemental shield",
+        "stock": "10",
+        "version": null
+      }
+    ],
+    "location": "",
+    "mapID": "0",
+    "name": "Slayer Equipment (shop) Demonic Pacts League",
+    "plane": "0",
+    "sellMultiplier": "1000"
+  },
+  {
     "coords": "?",
     "isMembers": true,
     "items": [
@@ -41046,6 +41238,24 @@
     "location": "",
     "mapID": "0",
     "name": "Trader Stan's Trading Post",
+    "plane": "0",
+    "sellMultiplier": "2500"
+  },
+  {
+    "buyMultiplier": "150",
+    "coords": "?",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Hunters' crossbow",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "",
+    "mapID": "0",
+    "name": "Trader Stan's Trading Post Only in Leagues at [[Sunset Coast]]",
     "plane": "0",
     "sellMultiplier": "2500"
   },
