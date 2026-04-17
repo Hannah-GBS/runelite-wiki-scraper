@@ -13430,7 +13430,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">149,158,746</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">148,589,789</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -17575,7 +17575,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Pirate bandana (Trouble Brewing)"
   },
   {
@@ -19218,7 +19218,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">142,274,502</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">147,136,182</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -21157,6 +21157,7 @@
     "ticks": ""
   },
   {
+    "facilities": "Workbench (Trouble Brewing)",
     "materials": [
       {
         "imagename": "Logs",
@@ -30911,38 +30912,6 @@
     "ticks": "2"
   },
   {
-    "facilities": "Big Compost Bin",
-    "materials": [
-      {
-        "imagename": "Weeds",
-        "name": "Weeds",
-        "quantity": "30"
-      },
-      {
-        "imagename": "Bucket",
-        "name": "Bucket",
-        "quantity": "30"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Compost.png|class=inventory-image|link=Compost]]",
-      "image_name": "Compost",
-      "name": "Compost",
-      "quantity": "30",
-      "subtxt": "Big compost bin"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "4.5",
-        "level": "45",
-        "name": "Farming"
-      }
-    ],
-    "ticks": "120"
-  },
-  {
     "facilities": "Compost Bin",
     "materials": [
       {
@@ -30972,7 +30941,39 @@
         "name": "Farming"
       }
     ],
-    "ticks": "60"
+    "ticks": "4"
+  },
+  {
+    "facilities": "Big Compost Bin",
+    "materials": [
+      {
+        "imagename": "Weeds",
+        "name": "Weeds",
+        "quantity": "30"
+      },
+      {
+        "imagename": "Bucket",
+        "name": "Bucket",
+        "quantity": "30"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Compost.png|class=inventory-image|link=Compost]]",
+      "image_name": "Compost",
+      "name": "Compost",
+      "quantity": "30",
+      "subtxt": "Big compost bin"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "4.5",
+        "level": "45",
+        "name": "Farming"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "materials": [
@@ -70794,6 +70795,7 @@
     "ticks": "4"
   },
   {
+    "facilities": "Workbench (Trouble Brewing)",
     "materials": [
       {
         "imagename": "Logs",
@@ -87758,6 +87760,7 @@
     "ticks": "1"
   },
   {
+    "facilities": "Workbench (Trouble Brewing)",
     "materials": [
       {
         "imagename": "Logs",
@@ -91688,7 +91691,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Pirate hat"
   },
   {
@@ -94224,33 +94227,6 @@
     "tools": "Watering can"
   },
   {
-    "facilities": "Big Compost Bin",
-    "materials": [
-      {
-        "imagename": "Tomato",
-        "name": "Tomato",
-        "quantity": "30"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Rotten tomato.png|class=inventory-image|link=Rotten tomato]]",
-      "image_name": "Rotten tomato",
-      "name": "Rotten tomato",
-      "quantity": "30",
-      "subtxt": "Big compost bin"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "4.5",
-        "level": "45",
-        "name": "Farming"
-      }
-    ],
-    "ticks": "120"
-  },
-  {
     "facilities": "Compost Bin",
     "materials": [
       {
@@ -94275,7 +94251,34 @@
         "name": "Farming"
       }
     ],
-    "ticks": "60"
+    "ticks": "4"
+  },
+  {
+    "facilities": "Big Compost Bin",
+    "materials": [
+      {
+        "imagename": "Tomato",
+        "name": "Tomato",
+        "quantity": "30"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Rotten tomato.png|class=inventory-image|link=Rotten tomato]]",
+      "image_name": "Rotten tomato",
+      "name": "Rotten tomato",
+      "quantity": "30",
+      "subtxt": "Big compost bin"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "4.5",
+        "level": "45",
+        "name": "Farming"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "materials": [
@@ -118004,7 +118007,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "0",
         "level": "89",
         "name": "Herblore"
