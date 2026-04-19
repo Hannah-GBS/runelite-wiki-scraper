@@ -298,6 +298,26 @@
     "sellMultiplier": "1300"
   },
   {
+    "buyMultiplier": "400",
+    "coords": "2614,3293",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "40",
+        "currency": "Coins",
+        "name": "Wrath talisman",
+        "sellPrice": "130",
+        "stock": "1",
+        "version": null
+      }
+    ],
+    "location": "East Ardougne",
+    "mapID": "0",
+    "name": "Aemad's Adventuring Supplies. Demonic Pacts League",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
     "buyMultiplier": "700",
     "coords": "1596,3102",
     "isMembers": true,
@@ -18172,6 +18192,12 @@
         "name": "Box trap",
         "stock": "5",
         "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pestle and mortar",
+        "stock": "10",
+        "version": null
       }
     ],
     "location": "Civitas illa Fortis",
@@ -31598,6 +31624,36 @@
   },
   {
     "buyMultiplier": "400",
+    "coords": "1720,3060",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bird snare",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Box trap",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pestle and mortar",
+        "stock": "10",
+        "version": null
+      }
+    ],
+    "location": "Outer Fortis",
+    "mapID": "0",
+    "name": "Outer Fortis General Store Demonic Pacts League",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
     "coords": "3069,3517",
     "isMembers": false,
     "items": [
@@ -41255,7 +41311,7 @@
     ],
     "location": "",
     "mapID": "0",
-    "name": "Trader Stan's Trading Post Only in Leagues at [[Sunset Coast]]",
+    "name": "Trader Stan's Trading Post Demonic Pacts League",
     "plane": "0",
     "sellMultiplier": "2500"
   },
