@@ -303,6 +303,14 @@
     "isMembers": true,
     "items": [
       {
+        "buyPrice": "6",
+        "currency": "Coins",
+        "name": "Raw cave eel",
+        "sellPrice": "19",
+        "stock": "100",
+        "version": null
+      },
+      {
         "buyPrice": "40",
         "currency": "Coins",
         "name": "Wrath talisman",
@@ -20013,6 +20021,26 @@
     "sellMultiplier": "2000"
   },
   {
+    "buyMultiplier": "400",
+    "coords": "3477,3497",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "0",
+        "currency": "Coins",
+        "name": "Blood talisman",
+        "sellPrice": "8",
+        "stock": "1",
+        "version": null
+      }
+    ],
+    "location": "Canifis",
+    "mapID": "0",
+    "name": "General Store (Canifis) Demonic Pacts League",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
     "buyMultiplier": "700",
     "coords": "3014,3224",
     "isMembers": false,
@@ -26237,6 +26265,120 @@
         "currency": "League Points",
         "name": "Raging echoes spirit tree scroll",
         "sellPrice": "6000",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle",
+    "mapID": "0",
+    "name": "Leagues Reward Shop",
+    "plane": "0"
+  },
+  {
+    "coords": "3220,3212",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Demonic Pacts Relic Hunter (T1)",
+        "sellPrice": "1000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Demonic Pacts Relic Hunter (T2)",
+        "sellPrice": "5000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Demonic Pacts Relic Hunter (T3)",
+        "sellPrice": "20000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Demonic axe ornament kit",
+        "sellPrice": "10000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Demonic pacts banner",
+        "sellPrice": "500",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Demonic pacts demon butler scroll",
+        "sellPrice": "4000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Demonic pacts throne scroll",
+        "sellPrice": "3000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Demonic quill",
+        "sellPrice": "3000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Demonic skin contract",
+        "sellPrice": "3000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Demonic staff ornament kit",
+        "sellPrice": "2000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Demonic trident ornament kit",
+        "sellPrice": "4500",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Impish ritual kit",
+        "sellPrice": "1000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "League Points",
+        "name": "Impish whistle",
+        "sellPrice": "8000",
         "stock": "inf",
         "version": null
       }

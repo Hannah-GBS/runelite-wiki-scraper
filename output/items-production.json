@@ -13430,7 +13430,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">148,589,789</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">148,605,762</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19218,7 +19218,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">147,392,339</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">146,650,997</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -73056,7 +73056,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "4"
   },
   {
     "materials": [
@@ -83865,6 +83865,25 @@
     "ticks": "1"
   },
   {
+    "facilities": "Lava crater",
+    "materials": [
+      {
+        "imagename": "Spiked+pois. egg",
+        "name": "Spiked/pois. egg",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Omega egg.png|class=inventory-image|link=Omega egg]]",
+      "image_name": "Omega egg",
+      "name": "Omega egg",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "materials": [
       {
         "imagename": "Chopped onion",
@@ -88421,6 +88440,25 @@
     "skills": [],
     "ticks": "",
     "tools": "Rat poison"
+  },
+  {
+    "facilities": "Poison crater",
+    "materials": [
+      {
+        "imagename": "Yellow egg",
+        "name": "Yellow egg",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Poisoned egg.png|class=inventory-image|link=Poisoned egg]]",
+      "image_name": "Poisoned egg",
+      "name": "Poisoned egg",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -106026,6 +106064,29 @@
     "ticks": "5"
   },
   {
+    "materials": [
+      {
+        "imagename": "Soulreaper axe",
+        "name": "Soulreaper axe",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Demonic axe ornament kit",
+        "name": "Demonic axe ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Soulreaper axe (o).png|class=inventory-image|link=Soulreaper axe (o)]]",
+      "image_name": "Soulreaper axe (o)",
+      "name": "Soulreaper axe (o)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Abbot Langley",
     "materials": [
       {
@@ -106425,6 +106486,29 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Poisoned egg",
+        "name": "Poisoned egg",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Spikes (Barbarian Assault)",
+        "name": "Spikes (Barbarian Assault)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Spiked+pois. egg.png|class=inventory-image|link=Spiked/pois. egg]]",
+      "image_name": "Spiked+pois. egg",
+      "name": "Spiked/pois. egg",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
