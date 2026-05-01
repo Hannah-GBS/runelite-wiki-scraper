@@ -12999,8 +12999,7 @@
       "image": "[[File:Black slayer helmet (i).png|class=inventory-image|link=Black slayer helmet (i)]]",
       "image_name": "Black slayer helmet (i)",
       "name": "Black slayer helmet (i)",
-      "quantity": "1",
-      "subtxt": "Crafting"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": "0"
@@ -13430,7 +13429,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">148,605,762</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">144,127,106</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19218,7 +19217,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">146,650,997</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">138,414,237</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -62029,6 +62028,29 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "imagename": "Iban's staff",
+        "name": "Iban's staff",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Demonic staff ornament kit",
+        "name": "Demonic staff ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Iban's staff (orn).png|class=inventory-image|link=Iban's staff (o)]]",
+      "image_name": "Iban's staff (orn)",
+      "name": "Iban's staff (o)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Dark Mage",
     "materials": [
       {
@@ -62051,6 +62073,29 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Iban's staff (u)",
+        "name": "Iban's staff (u)",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Demonic staff ornament kit",
+        "name": "Demonic staff ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Iban's staff (u) (o).png|class=inventory-image|link=Iban's staff (u) (o)]]",
+      "image_name": "Iban's staff (u) (o)",
+      "name": "Iban's staff (u) (o)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -86982,7 +87027,8 @@
       "image": "[[File:Pheasant boots.png|class=inventory-image|link=Pheasant boots]]",
       "image_name": "Pheasant boots",
       "name": "Pheasant boots",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -86994,6 +87040,33 @@
     ],
     "ticks": "3",
     "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Pheasant tail feathers",
+        "name": "Pheasant tail feathers",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Pheasant boots.png|class=inventory-image|link=Pheasant boots]]",
+      "image_name": "Pheasant boots",
+      "name": "Pheasant boots",
+      "quantity": "1",
+      "subtxt": "Costume needle"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "2",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Costume needle"
   },
   {
     "materials": [
@@ -87013,7 +87086,8 @@
       "image": "[[File:Pheasant cape.png|class=inventory-image|link=Pheasant cape]]",
       "image_name": "Pheasant cape",
       "name": "Pheasant cape",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -87025,6 +87099,33 @@
     ],
     "ticks": "3",
     "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Pheasant tail feathers",
+        "name": "Pheasant tail feathers",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Pheasant cape.png|class=inventory-image|link=Pheasant cape]]",
+      "image_name": "Pheasant cape",
+      "name": "Pheasant cape",
+      "quantity": "1",
+      "subtxt": "Costume needle"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "2",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Costume needle"
   },
   {
     "materials": [
@@ -87044,7 +87145,8 @@
       "image": "[[File:Pheasant hat.png|class=inventory-image|link=Pheasant hat]]",
       "image_name": "Pheasant hat",
       "name": "Pheasant hat",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -87056,6 +87158,33 @@
     ],
     "ticks": "3",
     "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Pheasant tail feathers",
+        "name": "Pheasant tail feathers",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Pheasant hat.png|class=inventory-image|link=Pheasant hat]]",
+      "image_name": "Pheasant hat",
+      "name": "Pheasant hat",
+      "quantity": "1",
+      "subtxt": "Costume needle"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "2",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Costume needle"
   },
   {
     "materials": [
@@ -87075,7 +87204,8 @@
       "image": "[[File:Pheasant legs.png|class=inventory-image|link=Pheasant legs]]",
       "image_name": "Pheasant legs",
       "name": "Pheasant legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -87087,6 +87217,33 @@
     ],
     "ticks": "3",
     "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Pheasant tail feathers",
+        "name": "Pheasant tail feathers",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Pheasant legs.png|class=inventory-image|link=Pheasant legs]]",
+      "image_name": "Pheasant legs",
+      "name": "Pheasant legs",
+      "quantity": "1",
+      "subtxt": "Costume needle"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "2",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Costume needle"
   },
   {
     "materials": [
@@ -116771,6 +116928,52 @@
   {
     "materials": [
       {
+        "imagename": "Trident of the seas (e)",
+        "name": "Trident of the seas (e)",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Demonic trident ornament kit",
+        "name": "Demonic trident ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Trident of the seas (e) (o).png|class=inventory-image|link=Trident of the seas (e) (o)]]",
+      "image_name": "Trident of the seas (e) (o)",
+      "name": "Trident of the seas (e) (o)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Trident of the seas",
+        "name": "Trident of the seas",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Demonic trident ornament kit",
+        "name": "Demonic trident ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Trident of the seas (o).png|class=inventory-image|link=Trident of the seas (o)]]",
+      "image_name": "Trident of the seas (o)",
+      "name": "Trident of the seas (o)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "imagename": "Uncharged trident",
         "name": "Trident of the seas",
         "quantity": "1",
@@ -116859,6 +117062,52 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Trident of the swamp (e)",
+        "name": "Trident of the swamp (e)",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Demonic trident ornament kit",
+        "name": "Demonic trident ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Trident of the swamp (e) (o).png|class=inventory-image|link=Trident of the swamp (e) (o)]]",
+      "image_name": "Trident of the swamp (e) (o)",
+      "name": "Trident of the swamp (e) (o)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Trident of the swamp",
+        "name": "Trident of the swamp",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Demonic trident ornament kit",
+        "name": "Demonic trident ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Trident of the swamp (o).png|class=inventory-image|link=Trident of the swamp (o)]]",
+      "image_name": "Trident of the swamp (o)",
+      "name": "Trident of the swamp (o)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [

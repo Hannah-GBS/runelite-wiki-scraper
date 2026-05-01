@@ -23464,7 +23464,7 @@
     "sellMultiplier": "1200"
   },
   {
-    "coords": "3300,6064",
+    "coords": "2247,3153",
     "isMembers": true,
     "items": [
       {
@@ -23493,7 +23493,7 @@
       }
     ],
     "location": "Isafdar, Prifddinas",
-    "mapID": "29",
+    "mapID": "0",
     "name": "Islwyn",
     "plane": "0"
   },
@@ -36600,32 +36600,6 @@
     "location": "Yanille",
     "mapID": "0",
     "name": "Selena",
-    "plane": "0"
-  },
-  {
-    "coords": "3293,3180",
-    "isMembers": false,
-    "items": [
-      {
-        "buyPrice": "n/a",
-        "currency": "Coins",
-        "name": "Keris",
-        "sellPrice": "20000",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "n/a",
-        "currency": "Coins",
-        "name": "Keris partisan",
-        "sellPrice": "60000",
-        "stock": "inf",
-        "version": null
-      }
-    ],
-    "location": "Al Kharid",
-    "mapID": "0",
-    "name": "Selim",
     "plane": "0"
   },
   {
