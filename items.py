@@ -3,7 +3,6 @@ import json
 import os
 import re
 import traceback
-from contextlib import nullcontext
 from operator import itemgetter
 from typing import Dict, List
 from urllib.parse import quote
@@ -15,7 +14,7 @@ import mwparserfromhell as mw
 output_dir = "output/"
 
 
-def get_production():
+def get_production(items: list[dict]):
     print("Scraping recipes")
     item_production = api.bucket_category_production("Items")
     name = "items-production.json"
@@ -38,7 +37,7 @@ def get_production():
             recipe["output"]["name"] = recipe["page_name_sub"]
         recipe.pop("page_name_sub")
 
-    redirects = api.query_redirects(materials, "production")
+    redirects = api.query_redirects(materials, "production", items)
 
     for recipe in item_production:
         for material in recipe["materials"]:
@@ -59,7 +58,7 @@ def get_production():
         json.dump(sorted_production, fi, separators=(",", ":"), sort_keys=True)
 
 
-def get_shop_items():
+def get_shop_items(info_items: list[dict]):
     print("Scraping shops")
     file_name = "items-shopitems.json"
     min_name = "items-shopitems.min.json"
@@ -219,7 +218,7 @@ def get_shop_items():
             print("Item {} failed:".format(name))
             traceback.print_exc()
 
-    redirects = api.query_redirects(item_names, "shops")
+    redirects = api.query_redirects(item_names, "shops", info_items)
 
     for shop in shop_items:
         items = shop["items"]
@@ -240,7 +239,7 @@ def get_shop_items():
         json.dump(sorted_shops, fi, separators=(",", ":"), sort_keys=True)
 
 
-def get_item_spawns():
+def get_item_spawns(items: list[dict]):
     print("Scraping item spawns")
     item_pages = api.query_category("Items")
     file_name = "items-spawns.json"
@@ -302,7 +301,7 @@ def get_item_spawns():
             print("Item {} failed:".format(name))
             traceback.print_exc()
 
-    redirects = api.query_redirects(item_names, "spawns")
+    redirects = api.query_redirects(item_names, "spawns", items)
 
     for group in item_spawns:
         spawns = group["spawns"]
@@ -360,8 +359,10 @@ def get_item_info():
     with open(output_dir + min_name, "w+") as fi:
         json.dump(sorted_info, fi, separators=(",", ":"), sort_keys=True)
 
+    return sorted_info
 
-def get_item_drops():
+
+def get_item_drops(items: list[dict]):
     print("Scraping drops")
     file_name = "items-drop-sources.json"
     min_name = "items-drop-sources.min.json"
@@ -410,7 +411,7 @@ def get_item_drops():
         item_drops.append(drop_object)
         item_names.append(name)
 
-    redirects = api.query_redirects(item_names, "drops")
+    redirects = api.query_redirects(item_names, "drops", items)
 
     for item in item_drops:
         if item["name"] in redirects:
@@ -483,9 +484,9 @@ def format_location(location):
 
 def run():
     print("running")
-    get_production()
-    get_item_spawns()
-    get_shop_items()
-    get_item_info()
-    get_item_drops()
+    items = get_item_info()
+    get_production(items)
+    get_item_spawns(items)
+    get_shop_items(items)
+    get_item_drops(items)
     generate_hashes()

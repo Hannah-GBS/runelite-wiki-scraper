@@ -177,7 +177,7 @@ def bucket_item_infobox() -> list[dict]:
     return items
 
 
-def query_redirects(page_names: list[str], category: str) -> dict[str, dict]:
+def query_redirects(page_names: list[str], category: str, items: list[dict]) -> dict[str, dict]:
     cache_file_name = "redirects-" + category + ".cache.json"
     mismatch_file_name = "output/redirects-mismatch-" + category + ".json"
     if use_cache and os.path.isfile(cache_file_name):
@@ -201,8 +201,9 @@ def query_redirects(page_names: list[str], category: str) -> dict[str, dict]:
                         "version": redirect["tofragment"] if "tofragment" in redirect else None
                     }
                     redirects[redirect["from"]] = obj
+                    versions = [i["version"] for i in items if i["group"] == redirect["to"]]
 
-                    if "tofragment" not in redirect:
+                    if "tofragment" not in redirect or (len(versions) > 0 and redirect["tofragment"] not in versions):
                         mismatches[redirect["from"]] = obj
 
     with open(cache_file_name, "w+") as fi:
