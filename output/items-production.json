@@ -13429,7 +13429,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">142,054,702</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">138,041,585</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19217,7 +19217,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">138,625,648</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">136,402,719</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -54822,6 +54822,312 @@
   {
     "materials": [
       {
+        "imagename": "Bolt of linen",
+        "name": "Bolt of linen",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Silk",
+        "name": "Silk",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Thread",
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Gem pouch.png|class=inventory-image|link=Gem pouch]]",
+      "image_name": "Gem pouch",
+      "name": "Gem pouch",
+      "quantity": "1",
+      "subtxt": "Needle"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "25",
+        "level": "12",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Bolt of linen",
+        "name": "Bolt of linen",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Silk",
+        "name": "Silk",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Gem pouch.png|class=inventory-image|link=Gem pouch]]",
+      "image_name": "Gem pouch",
+      "name": "Gem pouch",
+      "quantity": "1",
+      "subtxt": "Costume needle"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "25",
+        "level": "12",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Costume needle"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Gem bag",
+        "name": "Gem bag",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Gem tote",
+        "name": "Gem tote",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Immaculate mole skin",
+        "name": "Immaculate mole skin",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Gem sack.png|class=inventory-image|link=Gem sack]]",
+      "image_name": "Gem sack",
+      "name": "Gem sack",
+      "quantity": "1",
+      "subtxt": "Costume needle"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "300",
+        "level": "81",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Costume needle"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Gem bag",
+        "name": "Gem bag",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Gem tote",
+        "name": "Gem tote",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Thread",
+        "name": "Thread",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Immaculate mole skin",
+        "name": "Immaculate mole skin",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Gem sack.png|class=inventory-image|link=Gem sack]]",
+      "image_name": "Gem sack",
+      "name": "Gem sack",
+      "quantity": "1",
+      "subtxt": "Needle"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "300",
+        "level": "81",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Bolt of canvas",
+        "name": "Bolt of canvas",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Silk",
+        "name": "Silk",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Gem pouch",
+        "name": "Gem pouch",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Gem satchel.png|class=inventory-image|link=Gem satchel]]",
+      "image_name": "Gem satchel",
+      "name": "Gem satchel",
+      "quantity": "1",
+      "subtxt": "Costume needle"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "50",
+        "level": "39",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Costume needle"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Bolt of canvas",
+        "name": "Bolt of canvas",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Silk",
+        "name": "Silk",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Thread",
+        "name": "Thread",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Gem pouch",
+        "name": "Gem pouch",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Gem satchel.png|class=inventory-image|link=Gem satchel]]",
+      "image_name": "Gem satchel",
+      "name": "Gem satchel",
+      "quantity": "1",
+      "subtxt": "Needle"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "50",
+        "level": "39",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Bolt of cotton",
+        "name": "Bolt of cotton",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Silk",
+        "name": "Silk",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Gem satchel",
+        "name": "Gem satchel",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Gem tote.png|class=inventory-image|link=Gem tote]]",
+      "image_name": "Gem tote",
+      "name": "Gem tote",
+      "quantity": "1",
+      "subtxt": "Costume needle"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "200",
+        "level": "81",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Costume needle"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Bolt of cotton",
+        "name": "Bolt of cotton",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Silk",
+        "name": "Silk",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Thread",
+        "name": "Thread",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Gem satchel",
+        "name": "Gem satchel",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Gem tote.png|class=inventory-image|link=Gem tote]]",
+      "image_name": "Gem tote",
+      "name": "Gem tote",
+      "quantity": "1",
+      "subtxt": "Needle"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "200",
+        "level": "81",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
         "imagename": "Avernic defender",
         "name": "Avernic defender",
         "quantity": "1"
@@ -66315,6 +66621,64 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Safta Doc",
+    "materials": [
+      {
+        "imagename": "Trading sticks",
+        "name": "Trading sticks",
+        "quantity": "600"
+      },
+      {
+        "imagename": "Jade",
+        "name": "Jade",
+        "quantity": "3"
+      },
+      {
+        "imagename": "Gout tuber",
+        "name": "Gout tuber",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Jade machete.png|class=inventory-image|link=Jade machete]]",
+      "image_name": "Jade machete",
+      "name": "Jade machete",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Safta Doc",
+    "materials": [
+      {
+        "imagename": "Trading sticks",
+        "name": "Trading sticks",
+        "quantity": "600"
+      },
+      {
+        "imagename": "Uncut jade",
+        "name": "Uncut jade",
+        "quantity": "3"
+      },
+      {
+        "imagename": "Gout tuber",
+        "name": "Gout tuber",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Jade machete.png|class=inventory-image|link=Jade machete]]",
+      "image_name": "Jade machete",
+      "name": "Jade machete",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Furnace",
@@ -84723,6 +85087,64 @@
     "ticks": "3"
   },
   {
+    "facilities": "Safta Doc",
+    "materials": [
+      {
+        "imagename": "Trading sticks",
+        "name": "Trading sticks",
+        "quantity": "300"
+      },
+      {
+        "imagename": "Opal",
+        "name": "Opal",
+        "quantity": "3"
+      },
+      {
+        "imagename": "Gout tuber",
+        "name": "Gout tuber",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Opal machete.png|class=inventory-image|link=Opal machete]]",
+      "image_name": "Opal machete",
+      "name": "Opal machete",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Safta Doc",
+    "materials": [
+      {
+        "imagename": "Trading sticks",
+        "name": "Trading sticks",
+        "quantity": "300"
+      },
+      {
+        "imagename": "Uncut opal",
+        "name": "Uncut opal",
+        "quantity": "3"
+      },
+      {
+        "imagename": "Gout tuber",
+        "name": "Gout tuber",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Opal machete.png|class=inventory-image|link=Opal machete]]",
+      "image_name": "Opal machete",
+      "name": "Opal machete",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Furnace",
     "materials": [
       {
@@ -92014,6 +92436,64 @@
     ],
     "ticks": "2",
     "tools": "Chisel"
+  },
+  {
+    "facilities": "Safta Doc",
+    "materials": [
+      {
+        "imagename": "Trading sticks",
+        "name": "Trading sticks",
+        "quantity": "1200"
+      },
+      {
+        "imagename": "Red topaz",
+        "name": "Red topaz",
+        "quantity": "3"
+      },
+      {
+        "imagename": "Gout tuber",
+        "name": "Gout tuber",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Red topaz machete.png|class=inventory-image|link=Red topaz machete]]",
+      "image_name": "Red topaz machete",
+      "name": "Red topaz machete",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Safta Doc",
+    "materials": [
+      {
+        "imagename": "Trading sticks",
+        "name": "Trading sticks",
+        "quantity": "1200"
+      },
+      {
+        "imagename": "Uncut red topaz",
+        "name": "Uncut red topaz",
+        "quantity": "3"
+      },
+      {
+        "imagename": "Gout tuber",
+        "name": "Gout tuber",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Red topaz machete.png|class=inventory-image|link=Red topaz machete]]",
+      "image_name": "Red topaz machete",
+      "name": "Red topaz machete",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Cooking range",
