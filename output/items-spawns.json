@@ -5775,6 +5775,14 @@
         "plane": "0"
       },
       {
+        "coords": "2789,2524",
+        "isMembers": true,
+        "location": "Red Rock",
+        "mapID": "0",
+        "name": "Hammer",
+        "plane": "0"
+      },
+      {
         "coords": "2961,5802",
         "isMembers": false,
         "location": "Ruins of Camdozaal",
@@ -9176,6 +9184,14 @@
         "plane": "0"
       },
       {
+        "coords": "2791,2501",
+        "isMembers": true,
+        "location": "Red Rock",
+        "mapID": "-1",
+        "name": "Rope",
+        "plane": "0"
+      },
+      {
         "coords": "2728,10220",
         "isMembers": true,
         "location": "Rellekka Hunter area - polar eagle lair",
@@ -9365,6 +9381,22 @@
         "plane": "0"
       },
       {
+        "coords": "2865,2327",
+        "isMembers": true,
+        "location": "Last Light - on a crate in the lighthouse",
+        "mapID": "-1",
+        "name": "Saw",
+        "plane": "0"
+      },
+      {
+        "coords": "2790,2517",
+        "isMembers": true,
+        "location": "Red Rock - on a crate",
+        "mapID": "-1",
+        "name": "Saw",
+        "plane": "0"
+      },
+      {
         "coords": "1522,3638",
         "isMembers": true,
         "location": "Shayzien Encampment",
@@ -9522,6 +9554,14 @@
         "coords": "1308,2934",
         "isMembers": true,
         "location": "North of Darkmoon Ravine (1 telegrabbable, rest inaccessible)",
+        "mapID": "0",
+        "name": "Seaweed",
+        "plane": "0"
+      },
+      {
+        "coords": "2787,2516",
+        "isMembers": true,
+        "location": "Red Rock (inaccessible)",
         "mapID": "0",
         "name": "Seaweed",
         "plane": "0"

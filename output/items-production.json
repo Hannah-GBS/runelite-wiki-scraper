@@ -791,6 +791,71 @@
     "ticks": "1"
   },
   {
+    "facilities": "Phabelle Bile",
+    "materials": [
+      {
+        "imagename": "Thammaron's sceptre (u)",
+        "name": "Thammaron's sceptre",
+        "quantity": "1",
+        "version": "Uncharged"
+      },
+      {
+        "imagename": "Skull of vet'ion",
+        "name": "Skull of vet'ion",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Coins",
+        "name": "Coins",
+        "quantity": "500000"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Accursed sceptre (u).png|class=inventory-image|link=Accursed sceptre (u)]]",
+      "image_name": "Accursed sceptre (u)",
+      "name": "Accursed sceptre (a)",
+      "quantity": "1",
+      "subtxt": "Phabelle Bile",
+      "version": "Uncharged"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Thammaron's sceptre (u)",
+        "name": "Thammaron's sceptre",
+        "quantity": "1",
+        "version": "Uncharged"
+      },
+      {
+        "imagename": "Skull of vet'ion",
+        "name": "Skull of vet'ion",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Accursed sceptre (u).png|class=inventory-image|link=Accursed sceptre (u)]]",
+      "image_name": "Accursed sceptre (u)",
+      "name": "Accursed sceptre (a)",
+      "quantity": "1",
+      "subtxt": "Crafting",
+      "version": "Uncharged"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "85",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -1241,6 +1306,38 @@
       }
     ],
     "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "imagename": "Adamant cannonball",
+        "name": "Adamant cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Chain",
+        "name": "Chain",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Adamant chainshot cannonball.png|class=inventory-image|link=Adamant chainshot cannonball]]",
+      "image_name": "Adamant chainshot cannonball",
+      "name": "Adamant chainshot cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "125",
+        "level": "75",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
     "tools": "Hammer"
   },
   {
@@ -2301,6 +2398,38 @@
       }
     ],
     "ticks": "6"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "imagename": "Adamant cannonball",
+        "name": "Adamant cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Rubium splinters",
+        "name": "Rubium splinters",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Adamant incendiary cannonball.png|class=inventory-image|link=Adamant incendiary cannonball]]",
+      "image_name": "Adamant incendiary cannonball",
+      "name": "Adamant incendiary cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "125",
+        "level": "75",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -13429,7 +13558,7 @@
       "image": "[[File:Blade of saeldor.png|class=inventory-image|link=Blade of saeldor]]",
       "image_name": "Blade of saeldor",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">138,041,585</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">128,940,988</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19217,7 +19346,7 @@
       "image": "[[File:Bow of faerdhinen.png|class=inventory-image|link=Bow of faerdhinen]]",
       "image_name": "Bow of faerdhinen",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">136,402,719</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">128,012,935</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -21964,6 +22093,38 @@
     "facilities": "Anvil",
     "materials": [
       {
+        "imagename": "Bronze cannonball",
+        "name": "Bronze cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Chain",
+        "name": "Chain",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Bronze chainshot cannonball.png|class=inventory-image|link=Bronze chainshot cannonball]]",
+      "image_name": "Bronze chainshot cannonball",
+      "name": "Bronze chainshot cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "5",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
         "imagename": "Bronze bar",
         "name": "Bronze bar",
         "quantity": "2"
@@ -22509,6 +22670,38 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "imagename": "Bronze cannonball",
+        "name": "Bronze cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Rubium splinters",
+        "name": "Rubium splinters",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Bronze incendiary cannonball.png|class=inventory-image|link=Bronze incendiary cannonball]]",
+      "image_name": "Bronze incendiary cannonball",
+      "name": "Bronze incendiary cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "5",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -54853,7 +55046,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Needle"
   },
   {
@@ -54885,7 +55078,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Costume needle"
   },
   {
@@ -55001,7 +55194,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Costume needle"
   },
   {
@@ -55043,7 +55236,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Needle"
   },
   {
@@ -55080,7 +55273,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Costume needle"
   },
   {
@@ -55122,7 +55315,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Needle"
   },
   {
@@ -64575,6 +64768,38 @@
     "facilities": "Anvil",
     "materials": [
       {
+        "imagename": "Iron cannonball",
+        "name": "Iron cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Chain",
+        "name": "Chain",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Iron chainshot cannonball.png|class=inventory-image|link=Iron chainshot cannonball]]",
+      "image_name": "Iron chainshot cannonball",
+      "name": "Iron chainshot cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "20",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
         "imagename": "Iron bar",
         "name": "Iron bar",
         "quantity": "2"
@@ -65097,6 +65322,38 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "imagename": "Iron cannonball",
+        "name": "Iron cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Rubium splinters",
+        "name": "Rubium splinters",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Iron incendiary cannonball.png|class=inventory-image|link=Iron incendiary cannonball]]",
+      "image_name": "Iron incendiary cannonball",
+      "name": "Iron incendiary cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "20",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -68337,32 +68594,6 @@
     ],
     "ticks": "3",
     "tools": "Glassblowing pipe"
-  },
-  {
-    "materials": [
-      {
-        "imagename": "Larch logs",
-        "name": "Larch logs",
-        "quantity": "2"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "[[File:Larch blowpipe.png|class=inventory-image|link=Larch blowpipe]]",
-      "image_name": "Larch blowpipe",
-      "name": "Larch blowpipe",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "",
-        "experience": "0",
-        "level": "70",
-        "name": "Fletching"
-      }
-    ],
-    "ticks": "",
-    "tools": "Knife"
   },
   {
     "facilities": "Anvil",
@@ -76604,6 +76835,38 @@
     "facilities": "Anvil",
     "materials": [
       {
+        "imagename": "Mithril cannonball",
+        "name": "Mithril cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Chain",
+        "name": "Chain",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Mithril chainshot cannonball.png|class=inventory-image|link=Mithril chainshot cannonball]]",
+      "image_name": "Mithril chainshot cannonball",
+      "name": "Mithril chainshot cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "55",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
         "imagename": "Mithril bar",
         "name": "Mithril bar",
         "quantity": "2"
@@ -77126,6 +77389,38 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "imagename": "Mithril cannonball",
+        "name": "Mithril cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Rubium splinters",
+        "name": "Rubium splinters",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Mithril incendiary cannonball.png|class=inventory-image|link=Mithril incendiary cannonball]]",
+      "image_name": "Mithril incendiary cannonball",
+      "name": "Mithril incendiary cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "55",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -96139,6 +96434,38 @@
     "facilities": "Anvil",
     "materials": [
       {
+        "imagename": "Rune cannonball",
+        "name": "Rune cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Chain",
+        "name": "Chain",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Rune chainshot cannonball.png|class=inventory-image|link=Rune chainshot cannonball]]",
+      "image_name": "Rune chainshot cannonball",
+      "name": "Rune chainshot cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "150",
+        "level": "90",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
         "imagename": "Runite bar",
         "name": "Runite bar",
         "quantity": "2"
@@ -97227,6 +97554,38 @@
       }
     ],
     "ticks": "6"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "imagename": "Rune cannonball",
+        "name": "Rune cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Rubium splinters",
+        "name": "Rubium splinters",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Rune incendiary cannonball.png|class=inventory-image|link=Rune incendiary cannonball]]",
+      "image_name": "Rune incendiary cannonball",
+      "name": "Rune incendiary cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "150",
+        "level": "90",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -101137,6 +101496,29 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Monkey skin",
+        "name": "Monkey skin",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Seaweed",
+        "name": "Seaweed",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Seaweed sandwich.png|class=inventory-image|link=Seaweed sandwich]]",
+      "image_name": "Seaweed sandwich",
+      "name": "Seaweed sandwich",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -109839,6 +110221,38 @@
     "facilities": "Anvil",
     "materials": [
       {
+        "imagename": "Steel cannonball",
+        "name": "Steel cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Chain",
+        "name": "Chain",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Steel chainshot cannonball.png|class=inventory-image|link=Steel chainshot cannonball]]",
+      "image_name": "Steel chainshot cannonball",
+      "name": "Steel chainshot cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "35",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
         "imagename": "Steel bar",
         "name": "Steel bar",
         "quantity": "2"
@@ -110916,6 +111330,38 @@
       }
     ],
     "ticks": "6"
+  },
+  {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "imagename": "Steel cannonball",
+        "name": "Steel cannonball",
+        "quantity": "2"
+      },
+      {
+        "imagename": "Rubium splinters",
+        "name": "Rubium splinters",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Steel incendiary cannonball.png|class=inventory-image|link=Steel incendiary cannonball]]",
+      "image_name": "Steel incendiary cannonball",
+      "name": "Steel incendiary cannonball",
+      "quantity": "2"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "35",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -113058,6 +113504,29 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "imagename": "Monkey corpse",
+        "name": "Monkey corpse",
+        "quantity": "1"
+      },
+      {
+        "imagename": "Seaweed",
+        "name": "Seaweed",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "[[File:Stuffed monkey.png|class=inventory-image|link=Stuffed monkey]]",
+      "image_name": "Stuffed monkey",
+      "name": "Stuffed monkey",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Taxidermist",
