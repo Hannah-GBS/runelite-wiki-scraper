@@ -1198,7 +1198,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "42.5",
+        "experience": "42.4",
         "level": "75",
         "name": "Smithing"
       }
@@ -1225,7 +1225,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "85",
+        "experience": "84.8",
         "level": "75",
         "name": "Smithing"
       }
@@ -2341,7 +2341,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
@@ -3616,7 +3616,7 @@
       "image": "Adamantite bar.png",
       "name": "Adamantite bar",
       "quantity": "1",
-      "subtxt": "Catalyzed"
+      "subtxt": "Catalysed"
     },
     "skills": [
       {
@@ -7333,7 +7333,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "10",
+        "experience": "9.5",
         "level": "6",
         "name": "Magic"
       }
@@ -13090,7 +13090,7 @@
     "output": {
       "image": "Blade of saeldor.png",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">121,750,382</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">131,192,930</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18655,7 +18655,7 @@
     "output": {
       "image": "Bow of faerdhinen.png",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">121,049,865</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">127,813,967</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -21231,7 +21231,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "9",
+        "experience": "8.8",
         "level": "5",
         "name": "Smithing"
       }
@@ -21258,7 +21258,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "18",
+        "experience": "17.6",
         "level": "5",
         "name": "Smithing"
       }
@@ -21880,7 +21880,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
@@ -47146,7 +47146,7 @@
       "image": "Elemental metal.png",
       "name": "Elemental metal",
       "quantity": "1",
-      "subtxt": "Catalyzed"
+      "subtxt": "Catalysed"
     },
     "skills": [
       {
@@ -60300,7 +60300,7 @@
     ],
     "members": true,
     "output": {
-      "image": "Iban's staff (orn).png",
+      "image": "Iban's staff (o).png",
       "name": "Iban's staff (o)",
       "quantity": "1"
     },
@@ -62383,7 +62383,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "17",
+        "experience": "17.2",
         "level": "20",
         "name": "Smithing"
       }
@@ -62410,7 +62410,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "34",
+        "experience": "34.4",
         "level": "20",
         "name": "Smithing"
       }
@@ -63010,7 +63010,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
@@ -68830,7 +68830,7 @@
       "image": "Lovakite bar.png",
       "name": "Lovakite bar",
       "quantity": "1",
-      "subtxt": "Catalyzed"
+      "subtxt": "Catalysed"
     },
     "skills": [
       {
@@ -73786,7 +73786,7 @@
       "image": "Mithril bar.png",
       "name": "Mithril bar",
       "quantity": "1",
-      "subtxt": "Catalyzed"
+      "subtxt": "Catalysed"
     },
     "skills": [
       {
@@ -74655,7 +74655,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
@@ -81215,6 +81215,50 @@
   {
     "materials": [
       {
+        "image": "Slayer helmet.png",
+        "name": "Slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "image": "Demonic quill.png",
+        "name": "Demonic quill",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Oathplate slayer helmet.png",
+      "name": "Oathplate slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Slayer helmet (i).png",
+        "name": "Slayer helmet (i)",
+        "quantity": "1"
+      },
+      {
+        "image": "Demonic quill.png",
+        "name": "Demonic quill",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Oathplate slayer helmet (i).png",
+      "name": "Oathplate slayer helmet (i)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "image": "Molten glass.png",
         "name": "Molten glass",
         "quantity": "1"
@@ -87762,6 +87806,60 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "image": "Oathplate slayer helmet.png",
+        "name": "Oathplate slayer helmet",
+        "quantity": "1"
+      },
+      {
+        "image": "Purifying sigil.png",
+        "name": "Purifying sigil",
+        "quantity": "1"
+      },
+      {
+        "image": "Aether rune.png",
+        "name": "Aether rune",
+        "quantity": "2500"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Radiant slayer helmet.png",
+      "name": "Radiant slayer helmet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Oathplate slayer helmet (i).png",
+        "name": "Oathplate slayer helmet (i)",
+        "quantity": "1"
+      },
+      {
+        "image": "Purifying sigil.png",
+        "name": "Purifying sigil",
+        "quantity": "1"
+      },
+      {
+        "image": "Aether rune.png",
+        "name": "Aether rune",
+        "quantity": "2500"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Radiant slayer helmet (i).png",
+      "name": "Radiant slayer helmet (i)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Cooking range",
     "materials": [
       {
@@ -92992,7 +93090,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "50.5",
+        "experience": "50.8",
         "level": "90",
         "name": "Smithing"
       }
@@ -93019,7 +93117,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "101",
+        "experience": "101.6",
         "level": "90",
         "name": "Smithing"
       }
@@ -94167,7 +94265,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
@@ -95610,7 +95708,7 @@
       "image": "Runite bar.png",
       "name": "Runite bar",
       "quantity": "1",
-      "subtxt": "Catalyzed"
+      "subtxt": "Catalysed"
     },
     "skills": [
       {
@@ -106054,7 +106152,7 @@
       "image": "Steel bar.png",
       "name": "Steel bar",
       "quantity": "1",
-      "subtxt": "Catalyzed"
+      "subtxt": "Catalysed"
     },
     "skills": [
       {
@@ -107461,7 +107559,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
