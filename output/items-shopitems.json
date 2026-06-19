@@ -16391,6 +16391,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Tithe",
+        "name": "Auto-weed (interface item)",
+        "sellPrice": "50",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Tithe",
         "name": "Bologa's blessing",
         "sellPrice": "1",
         "stock": "inf",
@@ -16499,14 +16507,6 @@
         "sellPrice": "5",
         "stock": "inf",
         "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Tithe",
-        "name": "Tithe Farm",
-        "sellPrice": "50",
-        "stock": "inf",
-        "version": "Reward shop"
       }
     ],
     "location": "Hosidius",

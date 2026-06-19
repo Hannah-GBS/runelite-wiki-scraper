@@ -13090,7 +13090,7 @@
     "output": {
       "image": "Blade of saeldor.png",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">131,192,930</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">128,628,282</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18655,7 +18655,7 @@
     "output": {
       "image": "Bow of faerdhinen.png",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">127,813,967</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">125,568,454</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -66250,12 +66250,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -66278,12 +66278,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -66306,12 +66306,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -66334,12 +66334,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -66362,12 +66362,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -66390,12 +66390,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -71117,14 +71117,14 @@
       {
         "image": "Coins.png",
         "name": "Coins",
-        "quantity": "60000"
+        "quantity": "12000"
       }
     ],
     "members": true,
     "output": {
       "image": "Mangled extract.png",
       "name": "Mangled extract",
-      "quantity": "5"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": "0"
@@ -72306,12 +72306,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -72334,12 +72334,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -72362,12 +72362,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -72390,12 +72390,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -72418,12 +72418,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -72446,12 +72446,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -88115,12 +88115,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -88143,12 +88143,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -88171,12 +88171,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -88199,12 +88199,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -88227,12 +88227,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -88255,12 +88255,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -88283,12 +88283,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -97827,14 +97827,14 @@
       {
         "image": "Coins.png",
         "name": "Coins",
-        "quantity": "120000"
+        "quantity": "24000"
       }
     ],
     "members": true,
     "output": {
       "image": "Scarred extract.png",
       "name": "Scarred extract",
-      "quantity": "5"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": "0"
@@ -101356,12 +101356,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -101384,12 +101384,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -101412,12 +101412,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -101440,12 +101440,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -101468,12 +101468,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -101496,12 +101496,12 @@
       {
         "image": "Calcite.png",
         "name": "Calcite",
-        "quantity": "3"
+        "quantity": "0.46"
       },
       {
         "image": "Pyrophosphite.png",
         "name": "Pyrophosphite",
-        "quantity": "3"
+        "quantity": ".46"
       }
     ],
     "members": true,
@@ -117657,14 +117657,14 @@
       {
         "image": "Coins.png",
         "name": "Coins",
-        "quantity": "6250"
+        "quantity": "1250"
       }
     ],
     "members": true,
     "output": {
       "image": "Warped extract.png",
       "name": "Warped extract",
-      "quantity": "5"
+      "quantity": "1"
     },
     "skills": [],
     "ticks": "0"
