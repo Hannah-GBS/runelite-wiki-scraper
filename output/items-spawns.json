@@ -11351,6 +11351,19 @@
     ]
   },
   {
+    "group": "Wizard blizzard",
+    "spawns": [
+      {
+        "coords": "2601,7829",
+        "isMembers": true,
+        "location": "Sangvesti - central house",
+        "mapID": "-1",
+        "name": "Wizard blizzard",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Wizard hat",
     "spawns": [
       {
