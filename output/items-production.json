@@ -5245,6 +5245,28 @@
     "tools": "Chisel"
   },
   {
+    "materials": [
+      {
+        "image": "Stew.png",
+        "name": "Stew",
+        "quantity": "1"
+      },
+      {
+        "image": "Amitire leaves.png",
+        "name": "Amitire leaves",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amitire stew.png",
+      "name": "Amitire stew",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Wizard Mizgog",
     "materials": [
       {
@@ -5627,6 +5649,35 @@
       {
         "boostable": "Yes",
         "experience": "500",
+        "level": "86",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Amulet of torture.png",
+        "name": "Amulet of torture",
+        "quantity": "1"
+      },
+      {
+        "image": "Etched araxyte fang.png",
+        "name": "Etched araxyte fang",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of rancour.png",
+      "name": "Amulet of rancour",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "500<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"This fact is likely to be disputed and needs a source for confirmation.\">confirmation needed</span>&#93;</sup>[[Category:Pages with unsourced statements]]",
         "level": "86",
         "name": "Crafting"
       }
@@ -12063,7 +12114,8 @@
     "output": {
       "image": "Black d'hide body.png",
       "name": "Black d'hide body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -12088,7 +12140,8 @@
     "output": {
       "image": "Black d'hide body.png",
       "name": "Black d'hide body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -12118,7 +12171,8 @@
     "output": {
       "image": "Black d'hide chaps.png",
       "name": "Black d'hide chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -12143,7 +12197,8 @@
     "output": {
       "image": "Black d'hide chaps.png",
       "name": "Black d'hide chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -12208,7 +12263,8 @@
     "output": {
       "image": "Black d'hide vambraces.png",
       "name": "Black d'hide vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -12233,7 +12289,8 @@
     "output": {
       "image": "Black d'hide vambraces.png",
       "name": "Black d'hide vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -13228,7 +13285,7 @@
     "output": {
       "image": "Blade of saeldor.png",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">123,562,300</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">121,675,304</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -16109,6 +16166,31 @@
   {
     "materials": [
       {
+        "image": "Blisterwood logs.png",
+        "name": "Blisterwood logs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blisterwood stake.png",
+      "name": "Blisterwood stake",
+      "quantity": "5"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "70",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
         "image": "Ancient sceptre.png",
         "name": "Ancient sceptre",
         "quantity": "1"
@@ -16336,6 +16418,32 @@
     ],
     "ticks": "1",
     "tools": "Blood tiara, Blood talisman"
+  },
+  {
+    "materials": [
+      {
+        "image": "Leechfin.png",
+        "name": "Leechfin",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blood sac.png",
+      "name": "Blood sac",
+      "quantity": "1",
+      "quantitynote": "Not always given."
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "?",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "",
+    "tools": "Knife"
   },
   {
     "facilities": "Blood Altar",
@@ -16787,7 +16895,8 @@
     "output": {
       "image": "Blue d'hide body.png",
       "name": "Blue d'hide body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -16812,7 +16921,8 @@
     "output": {
       "image": "Blue d'hide body.png",
       "name": "Blue d'hide body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -16842,7 +16952,8 @@
     "output": {
       "image": "Blue d'hide chaps.png",
       "name": "Blue d'hide chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -16867,7 +16978,8 @@
     "output": {
       "image": "Blue d'hide chaps.png",
       "name": "Blue d'hide chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -16932,7 +17044,8 @@
     "output": {
       "image": "Blue d'hide vambraces.png",
       "name": "Blue d'hide vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -16957,7 +17070,8 @@
     "output": {
       "image": "Blue d'hide vambraces.png",
       "name": "Blue d'hide vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -18793,7 +18907,7 @@
     "output": {
       "image": "Bow of faerdhinen.png",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">123,311,014</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">120,360,221</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -29709,7 +29823,8 @@
     "output": {
       "image": "Clothes pouch.png",
       "name": "Clothes pouch",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -29750,7 +29865,8 @@
     "output": {
       "image": "Clothes pouch.png",
       "name": "Clothes pouch",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -29884,7 +30000,8 @@
     "output": {
       "image": "Coif.png",
       "name": "Coif",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -29909,7 +30026,8 @@
     "output": {
       "image": "Coif.png",
       "name": "Coif",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -41113,6 +41231,29 @@
   {
     "materials": [
       {
+        "image": "Silver sickle (b).png",
+        "name": "Silver sickle (b)",
+        "quantity": "1"
+      },
+      {
+        "image": "Diamond.png",
+        "name": "Diamond",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Diamond sickle (b).png",
+      "name": "Diamond sickle (b)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
         "image": "Ruby necklace.png",
         "name": "Ruby necklace",
         "quantity": "1"
@@ -48356,6 +48497,33 @@
     "ticks": "3"
   },
   {
+    "materials": [
+      {
+        "image": "Syringe barrel.png",
+        "name": "Syringe barrel",
+        "quantity": "1"
+      },
+      {
+        "image": "Syringe needle.png",
+        "name": "Syringe needle",
+        "quantity": "1"
+      },
+      {
+        "image": "Syringe plunger.png",
+        "name": "Syringe plunger",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Empty syringe.png",
+      "name": "Empty syringe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Teak demon lectern",
     "materials": [
       {
@@ -48651,6 +48819,40 @@
       "quantity": "1"
     },
     "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Diamond sickle (b).png",
+        "name": "Diamond sickle (b)",
+        "quantity": "1"
+      },
+      {
+        "image": "Cosmic rune.png",
+        "name": "Cosmic rune",
+        "quantity": "1"
+      },
+      {
+        "image": "Earth rune.png",
+        "name": "Earth rune",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Enchanted diamond sickle (b).png",
+      "name": "Enchanted diamond sickle (b)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "67",
+        "level": "57",
+        "name": "Magic"
+      }
+    ],
     "ticks": "1"
   },
   {
@@ -49298,6 +49500,54 @@
   {
     "materials": [
       {
+        "image": "Araxyte fang.png",
+        "name": "Araxyte fang",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Etched araxyte fang.png",
+      "name": "Etched araxyte fang",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "?",
+        "level": "86",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Elder venator fang.png",
+        "name": "Elder venator fang",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Etched elder venator fang.png",
+      "name": "Etched elder venator fang",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "1",
+        "experience": "0",
+        "level": "84",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Infinity boots.png",
         "name": "Infinity boots",
         "quantity": "1"
@@ -49437,8 +49687,8 @@
         "version": "1 dose"
       },
       {
-        "image": "Araxyte venom sack.png",
-        "name": "Araxyte venom sack",
+        "image": "Araxyte venom sac.png",
+        "name": "Araxyte venom sac",
         "quantity": "1"
       }
     ],
@@ -49468,8 +49718,8 @@
         "version": "2 dose"
       },
       {
-        "image": "Araxyte venom sack.png",
-        "name": "Araxyte venom sack",
+        "image": "Araxyte venom sac.png",
+        "name": "Araxyte venom sac",
         "quantity": "2"
       }
     ],
@@ -49499,8 +49749,8 @@
         "version": "3 dose"
       },
       {
-        "image": "Araxyte venom sack.png",
-        "name": "Araxyte venom sack",
+        "image": "Araxyte venom sac.png",
+        "name": "Araxyte venom sac",
         "quantity": "3"
       }
     ],
@@ -49530,8 +49780,8 @@
         "version": "4 dose"
       },
       {
-        "image": "Araxyte venom sack.png",
-        "name": "Araxyte venom sack",
+        "image": "Araxyte venom sac.png",
+        "name": "Araxyte venom sac",
         "quantity": "4"
       }
     ],
@@ -53017,6 +53267,50 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "image": "Left crest half.png",
+        "name": "Left crest half",
+        "quantity": "1"
+      },
+      {
+        "image": "Right crest half.png",
+        "name": "Right crest half",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Full crest.png",
+      "name": "Full crest",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Empty syringe.png",
+        "name": "Empty syringe",
+        "quantity": "1"
+      },
+      {
+        "image": "Venator stomach.png",
+        "name": "Venator stomach",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Full syringe.png",
+      "name": "Full syringe",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Forestry Shop",
     "materials": [
       {
@@ -55741,7 +56035,8 @@
     "output": {
       "image": "Green d'hide body.png",
       "name": "Green d'hide body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -55766,7 +56061,8 @@
     "output": {
       "image": "Green d'hide body.png",
       "name": "Green d'hide body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -55796,7 +56092,8 @@
     "output": {
       "image": "Green d'hide chaps.png",
       "name": "Green d'hide chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -55821,7 +56118,8 @@
     "output": {
       "image": "Green d'hide chaps.png",
       "name": "Green d'hide chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -55886,7 +56184,8 @@
     "output": {
       "image": "Green d'hide vambraces.png",
       "name": "Green d'hide vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -55911,7 +56210,8 @@
     "output": {
       "image": "Green d'hide vambraces.png",
       "name": "Green d'hide vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -58436,6 +58736,36 @@
     "ticks": "4"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Blisterwood flail.png",
+        "name": "Blisterwood flail",
+        "quantity": "1"
+      },
+      {
+        "image": "Blisterwood sickle (e).png",
+        "name": "Blisterwood sickle (e)",
+        "quantity": "1"
+      },
+      {
+        "image": "Hallowed marks (The Blood Moon Rises).png",
+        "name": "Hallowed marks (The Blood Moon Rises)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Hallowed flail.png",
+      "name": "Hallowed flail",
+      "outputnote": "The [[blisterwood sickle]] is returned when the hallowed flail is created.",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "image": "Snape grass.png",
@@ -58597,7 +58927,8 @@
     "output": {
       "image": "Hardleather body.png",
       "name": "Hardleather body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -58622,7 +58953,8 @@
     "output": {
       "image": "Hardleather body.png",
       "name": "Hardleather body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -66585,7 +66917,7 @@
       "image": "Large fur pouch.png",
       "name": "Large fur pouch",
       "quantity": "1",
-      "subtxt": "Regular needle"
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -66730,7 +67062,7 @@
       "image": "Large meat pouch.png",
       "name": "Large meat pouch",
       "quantity": "1",
-      "subtxt": "Regular needle"
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -67978,7 +68310,8 @@
     "output": {
       "image": "Leather body.png",
       "name": "Leather body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -68003,7 +68336,8 @@
     "output": {
       "image": "Leather body.png",
       "name": "Leather body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -68033,7 +68367,8 @@
     "output": {
       "image": "Leather boots.png",
       "name": "Leather boots",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -68058,7 +68393,8 @@
     "output": {
       "image": "Leather boots.png",
       "name": "Leather boots",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -68088,7 +68424,8 @@
     "output": {
       "image": "Leather chaps.png",
       "name": "Leather chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -68113,7 +68450,8 @@
     "output": {
       "image": "Leather chaps.png",
       "name": "Leather chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -68143,7 +68481,8 @@
     "output": {
       "image": "Leather cowl.png",
       "name": "Leather cowl",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -68168,7 +68507,8 @@
     "output": {
       "image": "Leather cowl.png",
       "name": "Leather cowl",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -68198,7 +68538,8 @@
     "output": {
       "image": "Leather gloves.png",
       "name": "Leather gloves",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -68223,7 +68564,8 @@
     "output": {
       "image": "Leather gloves.png",
       "name": "Leather gloves",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -68253,7 +68595,8 @@
     "output": {
       "image": "Leather vambraces.png",
       "name": "Leather vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -68278,7 +68621,8 @@
     "output": {
       "image": "Leather vambraces.png",
       "name": "Leather vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -72641,7 +72985,7 @@
       "image": "Medium fur pouch.png",
       "name": "Medium fur pouch",
       "quantity": "1",
-      "subtxt": "Regular needle"
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -75817,7 +76161,8 @@
     "output": {
       "image": "Mixed hide boots.png",
       "name": "Mixed hide boots",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -75847,7 +76192,8 @@
     "output": {
       "image": "Mixed hide boots.png",
       "name": "Mixed hide boots",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -75878,7 +76224,8 @@
     "output": {
       "image": "Mixed hide boots.png",
       "name": "Mixed hide boots",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Pellem"
     },
     "skills": [
       {
@@ -75908,7 +76255,8 @@
     "output": {
       "image": "Mixed hide cape.png",
       "name": "Mixed hide cape",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Pellem"
     },
     "skills": [
       {
@@ -75942,7 +76290,8 @@
     "output": {
       "image": "Mixed hide cape.png",
       "name": "Mixed hide cape",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -75972,7 +76321,8 @@
     "output": {
       "image": "Mixed hide cape.png",
       "name": "Mixed hide cape",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -76003,7 +76353,8 @@
     "output": {
       "image": "Mixed hide legs.png",
       "name": "Mixed hide legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Pellem"
     },
     "skills": [
       {
@@ -76037,7 +76388,8 @@
     "output": {
       "image": "Mixed hide legs.png",
       "name": "Mixed hide legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -76067,7 +76419,8 @@
     "output": {
       "image": "Mixed hide legs.png",
       "name": "Mixed hide legs",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -76102,7 +76455,8 @@
     "output": {
       "image": "Mixed hide top.png",
       "name": "Mixed hide top",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -76132,7 +76486,8 @@
     "output": {
       "image": "Mixed hide top.png",
       "name": "Mixed hide top",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -76163,7 +76518,8 @@
     "output": {
       "image": "Mixed hide top.png",
       "name": "Mixed hide top",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Pellem"
     },
     "skills": [
       {
@@ -78260,6 +78616,28 @@
     ],
     "ticks": "2",
     "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "image": "Loop half of key (The Blood Moon Rises).png",
+        "name": "Loop half of key (The Blood Moon Rises)",
+        "quantity": "1"
+      },
+      {
+        "image": "Tooth half of key (The Blood Moon Rises).png",
+        "name": "Tooth half of key (The Blood Moon Rises)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Myrmel key.png",
+      "name": "Myrmel key",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -80532,6 +80910,35 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Necklace of anguish.png",
+        "name": "Necklace of anguish",
+        "quantity": "1"
+      },
+      {
+        "image": "Etched elder venator fang.png",
+        "name": "Etched elder venator fang",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Necklace of rupture.png",
+      "name": "Necklace of rupture",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "500",
+        "level": "84",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -89334,7 +89741,8 @@
     "output": {
       "image": "Red d'hide body.png",
       "name": "Red d'hide body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -89359,7 +89767,8 @@
     "output": {
       "image": "Red d'hide body.png",
       "name": "Red d'hide body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -89389,7 +89798,8 @@
     "output": {
       "image": "Red d'hide chaps.png",
       "name": "Red d'hide chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -89414,7 +89824,8 @@
     "output": {
       "image": "Red d'hide chaps.png",
       "name": "Red d'hide chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -89479,7 +89890,8 @@
     "output": {
       "image": "Red d'hide vambraces.png",
       "name": "Red d'hide vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -89504,7 +89916,8 @@
     "output": {
       "image": "Red d'hide vambraces.png",
       "name": "Red d'hide vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -97211,6 +97624,167 @@
   {
     "materials": [
       {
+        "image": "Logs.png",
+        "name": "Logs",
+        "quantity": "1"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sap-treated logs.png",
+      "name": "Sap-treated logs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": ""
+  },
+  {
+    "materials": [
+      {
+        "image": "Magic logs.png",
+        "name": "Magic logs",
+        "quantity": "1"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sap-treated magic logs.png",
+      "name": "Sap-treated magic logs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": ""
+  },
+  {
+    "materials": [
+      {
+        "image": "Maple logs.png",
+        "name": "Maple logs",
+        "quantity": "1"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sap-treated maple logs.png",
+      "name": "Sap-treated maple logs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": ""
+  },
+  {
+    "materials": [
+      {
+        "image": "Oak logs.png",
+        "name": "Oak logs",
+        "quantity": "1"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sap-treated oak logs.png",
+      "name": "Sap-treated oak logs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": ""
+  },
+  {
+    "materials": [
+      {
+        "image": "Redwood logs.png",
+        "name": "Redwood logs",
+        "quantity": "1"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sap-treated redwood logs.png",
+      "name": "Sap-treated redwood logs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": ""
+  },
+  {
+    "materials": [
+      {
+        "image": "Willow logs.png",
+        "name": "Willow logs",
+        "quantity": "1"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sap-treated willow logs.png",
+      "name": "Sap-treated willow logs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": ""
+  },
+  {
+    "materials": [
+      {
+        "image": "Yew logs.png",
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sap-treated yew logs.png",
+      "name": "Sap-treated yew logs",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": ""
+  },
+  {
+    "materials": [
+      {
         "image": "Uncut sapphire.png",
         "name": "Uncut sapphire",
         "quantity": "1"
@@ -98438,6 +99012,732 @@
   {
     "materials": [
       {
+        "image": "Adamant arrow.png",
+        "name": "Adamant arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking adamant arrow.png",
+      "name": "Seeking adamant arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "?",
+        "experience": "0",
+        "level": "?",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Adamant arrowtips.png",
+        "name": "Adamant arrowtips",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking adamant arrow.png",
+      "name": "Seeking adamant arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "150",
+        "level": "60",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Amethyst arrow.png",
+        "name": "Amethyst arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking amethyst arrow.png",
+      "name": "Seeking amethyst arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "?",
+        "experience": "0",
+        "level": "?",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Amethyst arrowtips.png",
+        "name": "Amethyst arrowtips",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking amethyst arrow.png",
+      "name": "Seeking amethyst arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "?",
+        "experience": "202.5",
+        "level": "82",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sap-treated logs.png",
+        "name": "Sap-treated logs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking arrow shaft.png",
+      "name": "Seeking arrow shaft",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "5",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sap-treated magic logs.png",
+        "name": "Sap-treated magic logs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking arrow shaft.png",
+      "name": "Seeking arrow shaft",
+      "quantity": "90"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "30",
+        "level": "75",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sap-treated maple logs.png",
+        "name": "Sap-treated maple logs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking arrow shaft.png",
+      "name": "Seeking arrow shaft",
+      "quantity": "60"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "20",
+        "level": "45",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sap-treated oak logs.png",
+        "name": "Sap-treated oak logs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking arrow shaft.png",
+      "name": "Seeking arrow shaft",
+      "quantity": "30"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "15",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sap-treated redwood logs.png",
+        "name": "Sap-treated redwood logs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking arrow shaft.png",
+      "name": "Seeking arrow shaft",
+      "quantity": "105"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "35",
+        "level": "90",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sap-treated willow logs.png",
+        "name": "Sap-treated willow logs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking arrow shaft.png",
+      "name": "Seeking arrow shaft",
+      "quantity": "45"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "30",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sap-treated yew logs.png",
+        "name": "Sap-treated yew logs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking arrow shaft.png",
+      "name": "Seeking arrow shaft",
+      "quantity": "75"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "60",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "image": "Broad arrows.png",
+        "name": "Broad arrows",
+        "quantity": "15"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking broad arrows.png",
+      "name": "Seeking broad arrows",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "0",
+        "level": "52",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Broad arrowheads.png",
+        "name": "Broad arrowheads",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking broad arrows.png",
+      "name": "Seeking broad arrows",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "150",
+        "level": "52",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze arrow.png",
+        "name": "Bronze arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking bronze arrow.png",
+      "name": "Seeking bronze arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Bronze arrowtips.png",
+        "name": "Bronze arrowtips",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking bronze arrow.png",
+      "name": "Seeking bronze arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "19.5",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon arrow.png",
+        "name": "Dragon arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking dragon arrow.png",
+      "name": "Seeking dragon arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "?",
+        "experience": "0",
+        "level": "90",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Dragon arrowtips.png",
+        "name": "Dragon arrowtips",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking dragon arrow.png",
+      "name": "Seeking dragon arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "?",
+        "experience": "225",
+        "level": "90",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking arrow shaft.png",
+        "name": "Seeking arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Feather.png",
+        "name": "Feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking headless arrow.png",
+      "name": "Seeking headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "?",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron arrow.png",
+        "name": "Iron arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking iron arrow.png",
+      "name": "Seeking iron arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "0",
+        "level": "15",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Iron arrowtips.png",
+        "name": "Iron arrowtips",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking iron arrow.png",
+      "name": "Seeking iron arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "37.5",
+        "level": "15",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril arrow.png",
+        "name": "Mithril arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking mithril arrow.png",
+      "name": "Seeking mithril arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "0",
+        "level": "45",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Mithril arrowtips.png",
+        "name": "Mithril arrowtips",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking mithril arrow.png",
+      "name": "Seeking mithril arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "112.5",
+        "level": "45",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Rune arrow.png",
+        "name": "Rune arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking rune arrow.png",
+      "name": "Seeking rune arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "?",
+        "experience": "0",
+        "level": "?",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Rune arrowtips.png",
+        "name": "Rune arrowtips",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking rune arrow.png",
+      "name": "Seeking rune arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "187",
+        "level": "75",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Steel arrowtips.png",
+        "name": "Steel arrowtips",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking steel arrow.png",
+      "name": "Seeking steel arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "75",
+        "level": "30",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel arrow.png",
+        "name": "Steel arrow",
+        "quantity": "15"
+      },
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking steel arrow.png",
+      "name": "Seeking steel arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "0",
+        "level": "30",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Seers ring.png",
         "name": "Seers ring",
         "quantity": "1"
@@ -98567,6 +99867,23 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dead blood serpent.png",
+        "name": "Dead blood serpent",
+        "quantity": "3"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Serpent rope.png",
+      "name": "Serpent rope",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -101834,7 +103151,7 @@
       "image": "Small fur pouch.png",
       "name": "Small fur pouch",
       "quantity": "1",
-      "subtxt": "Regular needle"
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -101891,7 +103208,7 @@
       "image": "Small meat pouch.png",
       "name": "Small meat pouch",
       "quantity": "1",
-      "subtxt": "Regular needle"
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -102614,7 +103931,8 @@
     "output": {
       "image": "Snakeskin bandana.png",
       "name": "Snakeskin bandana",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -102639,7 +103957,8 @@
     "output": {
       "image": "Snakeskin bandana.png",
       "name": "Snakeskin bandana",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -102669,7 +103988,8 @@
     "output": {
       "image": "Snakeskin body.png",
       "name": "Snakeskin body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -102694,7 +104014,8 @@
     "output": {
       "image": "Snakeskin body.png",
       "name": "Snakeskin body",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -102724,7 +104045,8 @@
     "output": {
       "image": "Snakeskin boots.png",
       "name": "Snakeskin boots",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -102749,7 +104071,8 @@
     "output": {
       "image": "Snakeskin boots.png",
       "name": "Snakeskin boots",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -102779,7 +104102,8 @@
     "output": {
       "image": "Snakeskin chaps.png",
       "name": "Snakeskin chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -102804,7 +104128,8 @@
     "output": {
       "image": "Snakeskin chaps.png",
       "name": "Snakeskin chaps",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -102869,7 +104194,8 @@
     "output": {
       "image": "Snakeskin vambraces.png",
       "name": "Snakeskin vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -102894,7 +104220,8 @@
     "output": {
       "image": "Snakeskin vambraces.png",
       "name": "Snakeskin vambraces",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
     },
     "skills": [
       {
@@ -117611,6 +118938,28 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "image": "Blood sac.png",
+        "name": "Blood sac",
+        "quantity": "50"
+      },
+      {
+        "image": "Vial.png",
+        "name": "Vial",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Vial of blood.png",
+      "name": "Vial of blood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Water",
     "materials": [
       {
@@ -120685,7 +122034,8 @@
     "output": {
       "image": "Yak-hide armour (legs).png",
       "name": "Yak-hide armour (legs)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -120741,7 +122091,8 @@
     "output": {
       "image": "Yak-hide armour (top).png",
       "name": "Yak-hide armour (top)",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {

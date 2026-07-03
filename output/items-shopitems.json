@@ -14869,6 +14869,82 @@
     "sellMultiplier": "1000"
   },
   {
+    "buyMultiplier": "500",
+    "coords": "3163,7717",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Blisterwood flail",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Blisterwood sickle",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Blisterwood sickle (e)",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Hallowed flail",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Ivandis flail",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Rod of ivandis",
+        "sellPrice": "1000",
+        "stock": "inf",
+        "version": "(10)"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Silver sickle",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Silver sickle (b)",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Sunspear",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Castle Drakan",
+    "mapID": "-1",
+    "name": "Efaritay's Supplies",
+    "plane": "0",
+    "sellMultiplier": "1000"
+  },
+  {
     "coords": "1350,3057",
     "isMembers": true,
     "items": [
@@ -19807,6 +19883,24 @@
     "location": "Miscellania",
     "mapID": "0",
     "name": "Gardener Gunnhild",
+    "plane": "0",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "",
+    "coords": "3603,3321",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Garlic cocktail",
+        "stock": "20",
+        "version": null
+      }
+    ],
+    "location": "Darkmeyer",
+    "mapID": "-1",
+    "name": "Garlic Cocktail Supply",
     "plane": "0",
     "sellMultiplier": "1000"
   },
@@ -31417,6 +31511,61 @@
     "mapID": "0",
     "name": "Olaf the Bard",
     "plane": "0"
+  },
+  {
+    "buyMultiplier": "500",
+    "coords": "3607,3208",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Blisterwood flail",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Blisterwood sickle",
+        "sellPrice": "20000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Ivandis flail",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Rod of ivandis",
+        "sellPrice": "1000",
+        "stock": "inf",
+        "version": "(10)"
+      },
+      {
+        "currency": "Coins",
+        "name": "Silver sickle",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Silver sickle (b)",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Meiyerditch",
+    "mapID": "0",
+    "name": "Old Man Ral's Supplies",
+    "plane": "0",
+    "sellMultiplier": "1000"
   },
   {
     "coords": "2151,3868",
