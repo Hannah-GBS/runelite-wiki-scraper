@@ -13285,7 +13285,7 @@
     "output": {
       "image": "Blade of saeldor.png",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">121,675,304</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,819,687</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -16166,6 +16166,36 @@
   {
     "materials": [
       {
+        "image": "Enchanted diamond sickle (b).png",
+        "name": "Enchanted diamond sickle (b)",
+        "quantity": "1"
+      },
+      {
+        "image": "Blisterwood logs.png",
+        "name": "Blisterwood logs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blisterwood sickle (e).png",
+      "name": "Blisterwood sickle (e)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "94",
+        "level": "70",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
         "image": "Blisterwood logs.png",
         "name": "Blisterwood logs",
         "quantity": "1"
@@ -16437,7 +16467,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "2",
+        "experience": "20",
         "level": "?",
         "name": "Cooking"
       }
@@ -18907,7 +18937,7 @@
     "output": {
       "image": "Bow of faerdhinen.png",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">120,360,221</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">117,035,100</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -26020,6 +26050,31 @@
   {
     "materials": [
       {
+        "image": "Raw impaler meat.png",
+        "name": "Raw impaler meat",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Burnt meat.png",
+      "name": "Burnt meat",
+      "outputnote": "This recipe has a chance to give a [[cooked meat]] instead.",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
         "image": "Raw rat meat.png",
         "name": "Raw rat meat",
         "quantity": "1"
@@ -30844,6 +30899,32 @@
       {
         "image": "Raw boar meat.png",
         "name": "Raw boar meat",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Cooked meat.png",
+      "name": "Cooked meat",
+      "outputnote": "This recipe has a chance to give a [[burnt meat]] instead.",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "30",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Raw impaler meat.png",
+        "name": "Raw impaler meat",
         "quantity": "1"
       }
     ],
@@ -41247,7 +41328,14 @@
       "name": "Diamond sickle (b)",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "32",
+        "level": "64",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "1",
     "tools": "Chisel"
   },
@@ -41851,7 +41939,40 @@
       "costnote": "Value based on the cost for a [[rune pouch note]]",
       "image": "Divine rune pouch.png",
       "name": "Divine rune pouch",
-      "quantity": "1"
+      "quantity": "1",
+      "subtxt": "Costume needle"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "75",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "Costume needle"
+  },
+  {
+    "materials": [
+      {
+        "image": "Rune pouch.png",
+        "name": "Rune pouch",
+        "quantity": "1"
+      },
+      {
+        "image": "Thread of elidinis.png",
+        "name": "Thread of elidinis",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "costnote": "Value based on the cost for a [[rune pouch note]]",
+      "image": "Divine rune pouch.png",
+      "name": "Divine rune pouch",
+      "quantity": "1",
+      "subtxt": "Needle"
     },
     "skills": [
       {
@@ -48313,7 +48434,14 @@
       "name": "Emerald sickle (b)",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "20",
+        "level": "48",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "1",
     "tools": "Chisel"
   },
@@ -49519,7 +49647,8 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "1"
+    "ticks": "1",
+    "tools": "Chisel"
   },
   {
     "materials": [
@@ -49543,7 +49672,8 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "1"
+    "ticks": "1",
+    "tools": "Chisel"
   },
   {
     "materials": [
@@ -93393,7 +93523,14 @@
       "name": "Ruby sickle (b)",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "26",
+        "level": "56",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "1",
     "tools": "Chisel"
   },
@@ -97642,7 +97779,7 @@
     },
     "skills": [],
     "ticks": "0",
-    "tools": ""
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -99088,9 +99225,9 @@
     },
     "skills": [
       {
-        "boostable": "?",
+        "boostable": "<sup class=\"nowrap\">[<span title=\"This requirement is not boostable\" style=\"cursor:help; text-decoration: underline dotted;\">not boostable</span>]</sup>",
         "experience": "0",
-        "level": "?",
+        "level": "70",
         "name": "Fletching"
       }
     ],
@@ -99439,7 +99576,7 @@
       {
         "boostable": "?",
         "experience": "0",
-        "level": "90",
+        "level": "??",
         "name": "Fletching"
       }
     ],
@@ -99497,7 +99634,7 @@
       {
         "boostable": "",
         "experience": "15",
-        "level": "?",
+        "level": "1",
         "name": "Fletching"
       }
     ],
@@ -101275,6 +101412,28 @@
   {
     "materials": [
       {
+        "image": "Ancient symbol (The Blood Moon Rises).png",
+        "name": "Ancient symbol (The Blood Moon Rises)",
+        "quantity": "1"
+      },
+      {
+        "image": "Ancient shield.png",
+        "name": "Ancient shield (The Blood Moon Rises)",
+        "quantity": "1"
+      }
+    ],
+    "members": "",
+    "output": {
+      "image": "Shield with symbol.png",
+      "name": "Shield with symbol",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Mixed sgg.png",
         "name": "Mixed sgg",
         "quantity": "1"
@@ -101825,6 +101984,31 @@
       {
         "image": "Raw boar meat.png",
         "name": "Raw boar meat",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sinew.png",
+      "name": "Sinew",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "3",
+        "level": "1",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Raw impaler meat.png",
+        "name": "Raw impaler meat",
         "quantity": "1"
       }
     ],
@@ -111652,7 +111836,7 @@
       "image": "Sunfire rune.png",
       "name": "Sunfire rune",
       "quantity": "62",
-      "quantitynote": "Below 98 runecrafting, each pure essence consumes up to 2 extracts, producing runes based on the number of extracts used: 2 extracts \u2192 122 runes, 1 extract \u2192 62 runes. At 98\u201399 runecrafting, each pure essence consumes up to 3 extracts, producing runes based on the number of extracts used: 3 extracts \u2192 183 runes, 2 extracts \u2192 123 runes, 1 extract \u2192 63 runes. [[Raiments of the Eye]] will not multiply the additional runes from the extract."
+      "quantitynote": "Below 98 runecrafting, each pure essence consumes up to 2 extracts, producing runes based on the number of extracts used: 2 extracts \u2192 122 runes, 1 extract \u2192 62 runes.\n<br>At 98\u201399 runecrafting, each pure essence consumes up to 3 extracts, producing runes based on the number of extracts used: 3 extracts \u2192 183 runes, 2 extracts \u2192 123 runes, 1 extract \u2192 63 runes.\n<br>[[Raiments of the Eye]] will not multiply the additional runes from the extract."
     },
     "skills": [
       {
