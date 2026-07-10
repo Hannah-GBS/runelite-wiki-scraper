@@ -958,46 +958,82 @@
     "plane": "0"
   },
   {
-    "buyMultiplier": "550",
+    "buyMultiplier": "500",
     "coords": "3302,3211",
     "isMembers": true,
     "items": [
       {
         "currency": "Coins",
-        "name": "Maple blackjack",
-        "stock": "25",
+        "name": "Blood rune",
+        "stock": "100",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "Maple blackjack(o)",
-        "stock": "25",
+        "name": "Body rune",
+        "stock": "100",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "Oak blackjack(o)",
-        "stock": "25",
+        "name": "Chaos rune",
+        "stock": "100",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "Willow blackjack",
-        "stock": "25",
+        "name": "Chaos rune pack",
+        "stock": "5",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "Willow blackjack(o)",
-        "stock": "25",
+        "name": "Cosmic rune",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Death rune",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Law rune",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mind rune",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Mind rune pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Nature rune",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Soul rune",
+        "stock": "100",
         "version": null
       }
     ],
     "location": "Al Kharid",
     "mapID": "0",
-    "name": "Ali's Discount Wares. (blackjacks)",
+    "name": "Ali's Discount Wares. (Catalytic runes)",
     "plane": "0",
-    "sellMultiplier": "1000"
+    "sellMultiplier": "1250"
   },
   {
     "buyMultiplier": "550",
@@ -1037,7 +1073,109 @@
     ],
     "location": "Al Kharid",
     "mapID": "0",
-    "name": "Ali's Discount Wares. (blackjacks)",
+    "name": "Ali's Discount Wares. (Defensive blackjacks)",
+    "plane": "0",
+    "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "500",
+    "coords": "3302,3211",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Air rune",
+        "stock": "20",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Air rune pack",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Earth rune",
+        "stock": "20",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Earth rune pack",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fire rune",
+        "stock": "20",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Fire rune pack",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Water rune",
+        "stock": "20",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Water rune pack",
+        "stock": "3",
+        "version": null
+      }
+    ],
+    "location": "Al Kharid",
+    "mapID": "0",
+    "name": "Ali's Discount Wares. (Elemental runes)",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "550",
+    "coords": "3302,3211",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Maple blackjack",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Maple blackjack(o)",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Oak blackjack(o)",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Willow blackjack",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Willow blackjack(o)",
+        "stock": "25",
+        "version": null
+      }
+    ],
+    "location": "Al Kharid",
+    "mapID": "0",
+    "name": "Ali's Discount Wares. (Offensive blackjacks)",
     "plane": "0",
     "sellMultiplier": "1000"
   },
@@ -1244,144 +1382,6 @@
     "name": "Ali's Discount Wares. (menaphite gear)",
     "plane": "0",
     "sellMultiplier": "1000"
-  },
-  {
-    "buyMultiplier": "500",
-    "coords": "3302,3211",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Air rune",
-        "stock": "20",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Air rune pack",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Earth rune",
-        "stock": "20",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Earth rune pack",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Fire rune",
-        "stock": "20",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Fire rune pack",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Water rune",
-        "stock": "20",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Water rune pack",
-        "stock": "3",
-        "version": null
-      }
-    ],
-    "location": "Al Kharid",
-    "mapID": "0",
-    "name": "Ali's Discount Wares. (runes)",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "500",
-    "coords": "3302,3211",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Blood rune",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Body rune",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chaos rune",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chaos rune pack",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cosmic rune",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Death rune",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Law rune",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Mind rune",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Mind rune pack",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Nature rune",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Soul rune",
-        "stock": "100",
-        "version": null
-      }
-    ],
-    "location": "Al Kharid",
-    "mapID": "0",
-    "name": "Ali's Discount Wares. (runes)",
-    "plane": "0",
-    "sellMultiplier": "1250"
   },
   {
     "buyMultiplier": "700",
@@ -7820,144 +7820,6 @@
     "isMembers": true,
     "items": [
       {
-        "currency": "Coins",
-        "name": "Bowl",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket of milk",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cake tin",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cheese",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chocolate bar",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cooking apple",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Egg",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty cup",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Grapes",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pat of butter",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pie dish",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pizza base",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of cream",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of flour",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spice",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tomato",
-        "stock": "1",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge Castle basement",
-    "mapID": "-1",
-    "name": "Culinaromancer's Chest (0 Subquests)",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "coords": "3219,9623",
-    "isMembers": true,
-    "items": [
-      {
         "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Hardleather gloves",
@@ -7973,145 +7835,7 @@
     ],
     "location": "Lumbridge Castle basement",
     "mapID": "-1",
-    "name": "Culinaromancer's Chest (0 subquests)",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "coords": "3219,9623",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bowl",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket of milk",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cake tin",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cheese",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chocolate bar",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cooking apple",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Egg",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty cup",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Grapes",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pat of butter",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pie dish",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pizza base",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of cream",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of flour",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spice",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tomato",
-        "stock": "2",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge Castle basement",
-    "mapID": "-1",
-    "name": "Culinaromancer's Chest (1 Subquest)",
+    "name": "Culinaromancer's Chest (0 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
   },
@@ -8149,145 +7873,7 @@
     ],
     "location": "Lumbridge Castle basement",
     "mapID": "-1",
-    "name": "Culinaromancer's Chest (1 subquest)",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "coords": "3219,9623",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bowl",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket of milk",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cake tin",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cheese",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chocolate bar",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cooking apple",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Egg",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty cup",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Grapes",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pat of butter",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pie dish",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pizza base",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of cream",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of flour",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spice",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tomato",
-        "stock": "3",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge Castle basement",
-    "mapID": "-1",
-    "name": "Culinaromancer's Chest (2 Subquests)",
+    "name": "Culinaromancer's Chest (1 Subquest)",
     "plane": "0",
     "sellMultiplier": "1300"
   },
@@ -8338,145 +7924,7 @@
     ],
     "location": "Lumbridge Castle basement",
     "mapID": "-1",
-    "name": "Culinaromancer's Chest (2 subquest)",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "coords": "3219,9623",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bowl",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket of milk",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cake tin",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cheese",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chocolate bar",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cooking apple",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Egg",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty cup",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Grapes",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pat of butter",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pie dish",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pizza base",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of cream",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of flour",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spice",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tomato",
-        "stock": "4",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge Castle basement",
-    "mapID": "-1",
-    "name": "Culinaromancer's Chest (3 Subquests)",
+    "name": "Culinaromancer's Chest (2 Subquest)",
     "plane": "0",
     "sellMultiplier": "1300"
   },
@@ -8540,145 +7988,7 @@
     ],
     "location": "Lumbridge Castle basement",
     "mapID": "-1",
-    "name": "Culinaromancer's Chest (3 subquests)",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "coords": "3219,9623",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bowl",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket of milk",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cake tin",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cheese",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chocolate bar",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cooking apple",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Egg",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty cup",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "4",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Grapes",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pat of butter",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pie dish",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pizza base",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of cream",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of flour",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spice",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tomato",
-        "stock": "5",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge Castle basement",
-    "mapID": "-1",
-    "name": "Culinaromancer's Chest (4 Subquests)",
+    "name": "Culinaromancer's Chest (3 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
   },
@@ -8755,145 +8065,7 @@
     ],
     "location": "Lumbridge Castle basement",
     "mapID": "-1",
-    "name": "Culinaromancer's Chest (4 subquests)",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "coords": "3219,9623",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bowl",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket of milk",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cake tin",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cheese",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chocolate bar",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cooking apple",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Egg",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty cup",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "6",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Grapes",
-        "stock": "6",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pat of butter",
-        "stock": "6",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pie dish",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pizza base",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of cream",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of flour",
-        "stock": "6",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spice",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tomato",
-        "stock": "10",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge Castle basement",
-    "mapID": "-1",
-    "name": "Culinaromancer's Chest (5 Subquests)",
+    "name": "Culinaromancer's Chest (4 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
   },
@@ -8983,145 +8155,7 @@
     ],
     "location": "Lumbridge Castle basement",
     "mapID": "-1",
-    "name": "Culinaromancer's Chest (5 subquests)",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "coords": "3219,9623",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bowl",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket of milk",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cake tin",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cheese",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chocolate bar",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cooking apple",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Egg",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty cup",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "6",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Grapes",
-        "stock": "6",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pat of butter",
-        "stock": "7",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pie dish",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pizza base",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of cream",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of flour",
-        "stock": "6",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spice",
-        "stock": "13",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tomato",
-        "stock": "13",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge Castle basement",
-    "mapID": "-1",
-    "name": "Culinaromancer's Chest (6 Subquests)",
+    "name": "Culinaromancer's Chest (5 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
   },
@@ -9225,144 +8259,6 @@
     "location": "Lumbridge Castle basement",
     "mapID": "-1",
     "name": "Culinaromancer's Chest (6 Subquests)",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "coords": "3219,9623",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bowl",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket of milk",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cake tin",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cheese",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chocolate bar",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cooking apple",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Egg",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty cup",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "7",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Grapes",
-        "stock": "7",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pat of butter",
-        "stock": "8",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pie dish",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pizza base",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of cream",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of flour",
-        "stock": "7",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spice",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tomato",
-        "stock": "15",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge Castle basement",
-    "mapID": "-1",
-    "name": "Culinaromancer's Chest (7 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
   },
@@ -9479,144 +8375,6 @@
     "location": "Lumbridge Castle basement",
     "mapID": "-1",
     "name": "Culinaromancer's Chest (7 Subquests)",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "coords": "3219,9623",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bowl",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket of milk",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cake tin",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cheese",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chocolate bar",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cooking apple",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Egg",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty cup",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "8",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Grapes",
-        "stock": "7",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pat of butter",
-        "stock": "9",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pie dish",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pizza base",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of cream",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of flour",
-        "stock": "7",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spice",
-        "stock": "18",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tomato",
-        "stock": "18",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge Castle basement",
-    "mapID": "-1",
-    "name": "Culinaromancer's Chest (8 Subquests)",
     "plane": "0",
     "sellMultiplier": "1300"
   },
@@ -9757,6 +8515,1248 @@
       {
         "currency": "Coins",
         "name": "Bowl",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket of milk",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Egg",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty cup",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grapes",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pat of butter",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pie dish",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pizza base",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of cream",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of flour",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spice",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "1",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle basement",
+    "mapID": "-1",
+    "name": "Culinaromancer's Chest (food, 0 Subquests)",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "3219,9623",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket of milk",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Egg",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty cup",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grapes",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pat of butter",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pie dish",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pizza base",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of cream",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of flour",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spice",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "2",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle basement",
+    "mapID": "-1",
+    "name": "Culinaromancer's Chest (food, 1 Subquest)",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "3219,9623",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket of milk",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Egg",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty cup",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grapes",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pat of butter",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pie dish",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pizza base",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of cream",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of flour",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spice",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "3",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle basement",
+    "mapID": "-1",
+    "name": "Culinaromancer's Chest (food, 2 Subquests)",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "3219,9623",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket of milk",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Egg",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty cup",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "2",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grapes",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pat of butter",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pie dish",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pizza base",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of cream",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of flour",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spice",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "4",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle basement",
+    "mapID": "-1",
+    "name": "Culinaromancer's Chest (food, 3 Subquests)",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "3219,9623",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket of milk",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Egg",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty cup",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "4",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grapes",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pat of butter",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pie dish",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pizza base",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of cream",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of flour",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spice",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "5",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle basement",
+    "mapID": "-1",
+    "name": "Culinaromancer's Chest (food, 4 Subquests)",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "3219,9623",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket of milk",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Egg",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty cup",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grapes",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pat of butter",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pie dish",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pizza base",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of cream",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of flour",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spice",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "10",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle basement",
+    "mapID": "-1",
+    "name": "Culinaromancer's Chest (food, 5 Subquests)",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "3219,9623",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket of milk",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Egg",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty cup",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grapes",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pat of butter",
+        "stock": "7",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pie dish",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pizza base",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of cream",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of flour",
+        "stock": "6",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spice",
+        "stock": "13",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "13",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle basement",
+    "mapID": "-1",
+    "name": "Culinaromancer's Chest (food, 6 Subquests)",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "3219,9623",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket of milk",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Egg",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty cup",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "7",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grapes",
+        "stock": "7",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pat of butter",
+        "stock": "8",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pie dish",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pizza base",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of cream",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of flour",
+        "stock": "7",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spice",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "15",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle basement",
+    "mapID": "-1",
+    "name": "Culinaromancer's Chest (food, 7 Subquests)",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "3219,9623",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket of milk",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Egg",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty cup",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "8",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grapes",
+        "stock": "7",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pat of butter",
+        "stock": "9",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pie dish",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pizza base",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of cream",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of flour",
+        "stock": "7",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spice",
+        "stock": "18",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "18",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle basement",
+    "mapID": "-1",
+    "name": "Culinaromancer's Chest (food, 8 Subquests)",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "3219,9623",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
         "stock": "50",
         "version": null
       },
@@ -9883,9 +9883,147 @@
     ],
     "location": "Lumbridge Castle basement",
     "mapID": "-1",
-    "name": "Culinaromancer's Chest (full)",
+    "name": "Culinaromancer's Chest (food, full)",
     "plane": "0",
     "sellMultiplier": "1300"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "3219,9623",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket of milk",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cheese",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chocolate bar",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cooking apple",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Egg",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty cup",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "8",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Grapes",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pat of butter",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pie dish",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pizza base",
+        "stock": "1",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of cream",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot of flour",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spice",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tomato",
+        "stock": "50",
+        "version": null
+      }
+    ],
+    "location": "Lumbridge Castle basement",
+    "mapID": "-1",
+    "name": "Culinaromancer's Chest (food, full, diary)",
+    "plane": "0",
+    "sellMultiplier": "1040"
   },
   {
     "buyMultiplier": "400",
@@ -10028,144 +10166,6 @@
     "name": "Culinaromancer's Chest (full)",
     "plane": "0",
     "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "coords": "3219,9623",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bowl",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Bucket of milk",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cake tin",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cheese",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chocolate bar",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Cooking apple",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Egg",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty cup",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "8",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Grapes",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pat of butter",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pie dish",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pizza base",
-        "stock": "1",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of cream",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot of flour",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Spice",
-        "stock": "50",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tomato",
-        "stock": "50",
-        "version": null
-      }
-    ],
-    "location": "Lumbridge Castle basement",
-    "mapID": "-1",
-    "name": "Culinaromancer's Chest (full, diary)",
-    "plane": "0",
-    "sellMultiplier": "1040"
   },
   {
     "buyMultiplier": "400",
@@ -10389,7 +10389,7 @@
     ],
     "location": "Ape Atoll",
     "mapID": "0",
-    "name": "Daga's Scimitar Smithy Monkey Madness I",
+    "name": "Daga's Scimitar Smithy (Monkey Madness I)",
     "plane": "0",
     "sellMultiplier": "1000"
   },

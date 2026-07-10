@@ -126,14 +126,6 @@
         "plane": "0"
       },
       {
-        "coords": "1834,6187",
-        "isMembers": false,
-        "location": "Realm of Memories",
-        "mapID": "-1",
-        "name": "Cabbage",
-        "plane": "2"
-      },
-      {
         "coords": "3752,9780",
         "isMembers": true,
         "location": "Sisterhood Sanctuary",
@@ -3400,17 +3392,9 @@
         "plane": "0"
       },
       {
-        "coords": "1835,6186",
-        "isMembers": false,
-        "location": "Realm of Memories",
-        "mapID": "-1",
-        "name": "Cabbage",
-        "plane": "2"
-      },
-      {
         "coords": "1645,3285",
         "isMembers": true,
-        "location": "Salvager Overlook - East Tower (ground floor)",
+        "location": "Salvager Overlook - east tower (ground floor)",
         "mapID": "0",
         "name": "Candle",
         "plane": "0"
@@ -3952,6 +3936,14 @@
         "mapID": "0",
         "name": "Cocktail glass",
         "plane": "1"
+      },
+      {
+        "coords": "2600,7829",
+        "isMembers": true,
+        "location": "Sangvesti",
+        "mapID": "-1",
+        "name": "Cocktail glass",
+        "plane": "0"
       },
       {
         "coords": "1374,3502",
@@ -5309,7 +5301,7 @@
       {
         "coords": "3192,9822",
         "isMembers": false,
-        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Varrock - west bank basement{{Refn|name=telegrab,crack_the_clue_iii|This spawn requires telekinetic grab or completion of Crack the Clue III to obtain.}}",
         "mapID": "12",
         "name": "Gold bar",
         "plane": "0"
