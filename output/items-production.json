@@ -5677,7 +5677,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "500<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"This fact is likely to be disputed and needs a source for confirmation.\">confirmation needed</span>&#93;</sup>[[Category:Pages with unsourced statements]]",
+        "experience": "500",
         "level": "86",
         "name": "Crafting"
       }
@@ -11279,7 +11279,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Knife"
   },
   {
@@ -13285,7 +13285,7 @@
     "output": {
       "image": "Blade of saeldor.png",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">114,819,687</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">126,440,240</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18937,7 +18937,7 @@
     "output": {
       "image": "Bow of faerdhinen.png",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">117,035,100</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">128,395,642</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -49641,8 +49641,8 @@
     },
     "skills": [
       {
-        "boostable": "",
-        "experience": "?",
+        "boostable": "Yes",
+        "experience": "0",
         "level": "86",
         "name": "Crafting"
       }
@@ -77114,6 +77114,24 @@
     "ticks": ""
   },
   {
+    "facilities": "Alry the Angler",
+    "materials": [
+      {
+        "image": "Golden tench.png",
+        "name": "Golden tench",
+        "quantity": "1"
+      }
+    ],
+    "members": "",
+    "output": {
+      "image": "Molch pearl.png",
+      "name": "Molch pearl",
+      "quantity": "100"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Furnace",
     "materials": [
       {
@@ -97779,7 +97797,7 @@
     },
     "skills": [],
     "ticks": "0",
-    "tools": "Knife"
+    "tools": ""
   },
   {
     "materials": [
@@ -99009,7 +99027,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "1"
   },
   {
     "materials": [
@@ -99151,40 +99169,40 @@
       {
         "image": "Adamant arrow.png",
         "name": "Adamant arrow",
-        "quantity": "15"
+        "quantity": "150"
       },
       {
-        "image": "Bucket of bloodwood sap.png",
-        "name": "Bucket of bloodwood sap",
-        "quantity": "1"
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "150"
       }
     ],
     "members": true,
     "output": {
       "image": "Seeking adamant arrow.png",
       "name": "Seeking adamant arrow",
-      "quantity": "15"
+      "quantity": "150"
     },
     "skills": [
       {
-        "boostable": "?",
+        "boostable": "",
         "experience": "0",
-        "level": "?",
+        "level": "1",
         "name": "Fletching"
       }
     ],
-    "ticks": "1"
+    "ticks": "2"
   },
   {
     "materials": [
       {
-        "image": "Seeking headless arrow.png",
-        "name": "Seeking headless arrow",
+        "image": "Adamant arrowtips.png",
+        "name": "Adamant arrowtips",
         "quantity": "15"
       },
       {
-        "image": "Adamant arrowtips.png",
-        "name": "Adamant arrowtips",
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
         "quantity": "15"
       }
     ],
@@ -99202,32 +99220,32 @@
         "name": "Fletching"
       }
     ],
-    "ticks": "1"
+    "ticks": "2"
   },
   {
     "materials": [
       {
-        "image": "Amethyst arrow.png",
-        "name": "Amethyst arrow",
-        "quantity": "15"
-      },
-      {
         "image": "Bucket of bloodwood sap.png",
         "name": "Bucket of bloodwood sap",
         "quantity": "1"
+      },
+      {
+        "image": "Adamant arrow.png",
+        "name": "Adamant arrow",
+        "quantity": "15"
       }
     ],
     "members": true,
     "output": {
-      "image": "Seeking amethyst arrow.png",
-      "name": "Seeking amethyst arrow",
+      "image": "Seeking adamant arrow.png",
+      "name": "Seeking adamant arrow",
       "quantity": "15"
     },
     "skills": [
       {
-        "boostable": "<sup class=\"nowrap\">[<span title=\"This requirement is not boostable\" style=\"cursor:help; text-decoration: underline dotted;\">not boostable</span>]</sup>",
+        "boostable": "",
         "experience": "0",
-        "level": "70",
+        "level": "1",
         "name": "Fletching"
       }
     ],
@@ -99236,13 +99254,42 @@
   {
     "materials": [
       {
+        "image": "Amethyst arrow.png",
+        "name": "Amethyst arrow",
+        "quantity": "150"
+      },
+      {
         "image": "Seeking headless arrow.png",
         "name": "Seeking headless arrow",
-        "quantity": "15"
-      },
+        "quantity": "150"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking amethyst arrow.png",
+      "name": "Seeking amethyst arrow",
+      "quantity": "150"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
       {
         "image": "Amethyst arrowtips.png",
         "name": "Amethyst arrowtips",
+        "quantity": "15"
+      },
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
         "quantity": "15"
       }
     ],
@@ -99254,9 +99301,38 @@
     },
     "skills": [
       {
-        "boostable": "?",
+        "boostable": "Yes",
         "experience": "202.5",
         "level": "82",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      },
+      {
+        "image": "Amethyst arrow.png",
+        "name": "Amethyst arrow",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking amethyst arrow.png",
+      "name": "Seeking amethyst arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
         "name": "Fletching"
       }
     ],
@@ -99440,43 +99516,14 @@
   {
     "materials": [
       {
-        "image": "Broad arrows.png",
-        "name": "Broad arrows",
+        "image": "Broad arrowheads.png",
+        "name": "Broad arrowheads",
         "quantity": "15"
       },
-      {
-        "image": "Bucket of bloodwood sap.png",
-        "name": "Bucket of bloodwood sap",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Seeking broad arrows.png",
-      "name": "Seeking broad arrows",
-      "quantity": "15"
-    },
-    "skills": [
-      {
-        "boostable": "yes",
-        "experience": "0",
-        "level": "52",
-        "name": "Fletching"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "materials": [
       {
         "image": "Seeking headless arrow.png",
         "name": "Seeking headless arrow",
         "quantity": "15"
-      },
-      {
-        "image": "Broad arrowheads.png",
-        "name": "Broad arrowheads",
-        "quantity": "15"
       }
     ],
     "members": true,
@@ -99487,31 +99534,60 @@
     },
     "skills": [
       {
-        "boostable": "yes",
+        "boostable": "Yes",
         "experience": "150",
         "level": "52",
         "name": "Fletching"
       }
     ],
-    "ticks": "1"
+    "ticks": "2"
   },
   {
     "materials": [
       {
-        "image": "Bronze arrow.png",
-        "name": "Bronze arrow",
-        "quantity": "15"
+        "image": "Broad arrows.png",
+        "name": "Broad arrows",
+        "quantity": "150"
       },
       {
-        "image": "Bucket of bloodwood sap.png",
-        "name": "Bucket of bloodwood sap",
-        "quantity": "1"
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "150"
       }
     ],
     "members": true,
     "output": {
-      "image": "Seeking bronze arrow.png",
-      "name": "Seeking bronze arrow",
+      "image": "Seeking broad arrows.png",
+      "name": "Seeking broad arrows",
+      "quantity": "150"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      },
+      {
+        "image": "Broad arrows.png",
+        "name": "Broad arrows",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking broad arrows.png",
+      "name": "Seeking broad arrows",
       "quantity": "15"
     },
     "skills": [
@@ -99527,13 +99603,42 @@
   {
     "materials": [
       {
+        "image": "Bronze arrow.png",
+        "name": "Bronze arrow",
+        "quantity": "150"
+      },
+      {
         "image": "Seeking headless arrow.png",
         "name": "Seeking headless arrow",
-        "quantity": "15"
-      },
+        "quantity": "150"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking bronze arrow.png",
+      "name": "Seeking bronze arrow",
+      "quantity": "150"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
       {
         "image": "Bronze arrowtips.png",
         "name": "Bronze arrowtips",
+        "quantity": "15"
+      },
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
         "quantity": "15"
       }
     ],
@@ -99551,6 +99656,64 @@
         "name": "Fletching"
       }
     ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      },
+      {
+        "image": "Bronze arrow.png",
+        "name": "Bronze arrow",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking bronze arrow.png",
+      "name": "Seeking bronze arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      },
+      {
+        "image": "Dragon arrow.png",
+        "name": "Dragon arrow",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking dragon arrow.png",
+      "name": "Seeking dragon arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
     "ticks": "1"
   },
   {
@@ -99558,40 +99721,40 @@
       {
         "image": "Dragon arrow.png",
         "name": "Dragon arrow",
-        "quantity": "15"
+        "quantity": "150"
       },
       {
-        "image": "Bucket of bloodwood sap.png",
-        "name": "Bucket of bloodwood sap",
-        "quantity": "1"
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "150"
       }
     ],
     "members": true,
     "output": {
       "image": "Seeking dragon arrow.png",
       "name": "Seeking dragon arrow",
-      "quantity": "15"
+      "quantity": "150"
     },
     "skills": [
       {
-        "boostable": "?",
+        "boostable": "",
         "experience": "0",
-        "level": "??",
+        "level": "1",
         "name": "Fletching"
       }
     ],
-    "ticks": "1"
+    "ticks": "2"
   },
   {
     "materials": [
       {
-        "image": "Seeking headless arrow.png",
-        "name": "Seeking headless arrow",
+        "image": "Dragon arrowtips.png",
+        "name": "Dragon arrowtips",
         "quantity": "15"
       },
       {
-        "image": "Dragon arrowtips.png",
-        "name": "Dragon arrowtips",
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
         "quantity": "15"
       }
     ],
@@ -99603,13 +99766,13 @@
     },
     "skills": [
       {
-        "boostable": "?",
+        "boostable": "Yes",
         "experience": "225",
         "level": "90",
         "name": "Fletching"
       }
     ],
-    "ticks": "1"
+    "ticks": "2"
   },
   {
     "materials": [
@@ -99643,14 +99806,14 @@
   {
     "materials": [
       {
-        "image": "Iron arrow.png",
-        "name": "Iron arrow",
-        "quantity": "15"
-      },
-      {
         "image": "Bucket of bloodwood sap.png",
         "name": "Bucket of bloodwood sap",
         "quantity": "1"
+      },
+      {
+        "image": "Iron arrow.png",
+        "name": "Iron arrow",
+        "quantity": "15"
       }
     ],
     "members": true,
@@ -99661,9 +99824,9 @@
     },
     "skills": [
       {
-        "boostable": "yes",
+        "boostable": "",
         "experience": "0",
-        "level": "15",
+        "level": "1",
         "name": "Fletching"
       }
     ],
@@ -99672,13 +99835,42 @@
   {
     "materials": [
       {
+        "image": "Iron arrow.png",
+        "name": "Iron arrow",
+        "quantity": "150"
+      },
+      {
         "image": "Seeking headless arrow.png",
         "name": "Seeking headless arrow",
-        "quantity": "15"
-      },
+        "quantity": "150"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking iron arrow.png",
+      "name": "Seeking iron arrow",
+      "quantity": "150"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
       {
         "image": "Iron arrowtips.png",
         "name": "Iron arrowtips",
+        "quantity": "15"
+      },
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
         "quantity": "15"
       }
     ],
@@ -99696,19 +99888,19 @@
         "name": "Fletching"
       }
     ],
-    "ticks": "1"
+    "ticks": "2"
   },
   {
     "materials": [
       {
-        "image": "Mithril arrow.png",
-        "name": "Mithril arrow",
-        "quantity": "15"
-      },
-      {
         "image": "Bucket of bloodwood sap.png",
         "name": "Bucket of bloodwood sap",
         "quantity": "1"
+      },
+      {
+        "image": "Mithril arrow.png",
+        "name": "Mithril arrow",
+        "quantity": "15"
       }
     ],
     "members": true,
@@ -99719,9 +99911,9 @@
     },
     "skills": [
       {
-        "boostable": "yes",
+        "boostable": "",
         "experience": "0",
-        "level": "45",
+        "level": "1",
         "name": "Fletching"
       }
     ],
@@ -99730,13 +99922,42 @@
   {
     "materials": [
       {
+        "image": "Mithril arrow.png",
+        "name": "Mithril arrow",
+        "quantity": "150"
+      },
+      {
         "image": "Seeking headless arrow.png",
         "name": "Seeking headless arrow",
-        "quantity": "15"
-      },
+        "quantity": "150"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking mithril arrow.png",
+      "name": "Seeking mithril arrow",
+      "quantity": "150"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
       {
         "image": "Mithril arrowtips.png",
         "name": "Mithril arrowtips",
+        "quantity": "15"
+      },
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
         "quantity": "15"
       }
     ],
@@ -99754,6 +99975,35 @@
         "name": "Fletching"
       }
     ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
+      },
+      {
+        "image": "Rune arrow.png",
+        "name": "Rune arrow",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking rune arrow.png",
+      "name": "Seeking rune arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
     "ticks": "1"
   },
   {
@@ -99761,41 +100011,41 @@
       {
         "image": "Rune arrow.png",
         "name": "Rune arrow",
-        "quantity": "15"
+        "quantity": "150"
       },
       {
-        "image": "Bucket of bloodwood sap.png",
-        "name": "Bucket of bloodwood sap",
-        "quantity": "1"
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "150"
       }
     ],
     "members": true,
     "output": {
       "image": "Seeking rune arrow.png",
       "name": "Seeking rune arrow",
-      "quantity": "15"
+      "quantity": "150"
     },
     "skills": [
       {
-        "boostable": "?",
+        "boostable": "",
         "experience": "0",
-        "level": "?",
+        "level": "1",
         "name": "Fletching"
       }
     ],
-    "ticks": "1"
+    "ticks": "2"
   },
   {
     "materials": [
-      {
-        "image": "Seeking headless arrow.png",
-        "name": "Seeking headless arrow",
-        "quantity": "15"
-      },
       {
         "image": "Rune arrowtips.png",
         "name": "Rune arrowtips",
         "quantity": "15"
+      },
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "15"
       }
     ],
     "members": true,
@@ -99806,24 +100056,24 @@
     },
     "skills": [
       {
-        "boostable": "yes",
-        "experience": "187",
+        "boostable": "Yes",
+        "experience": "187.5",
         "level": "75",
         "name": "Fletching"
       }
     ],
-    "ticks": "1"
+    "ticks": "2"
   },
   {
     "materials": [
       {
-        "image": "Seeking headless arrow.png",
-        "name": "Seeking headless arrow",
-        "quantity": "15"
+        "image": "Bucket of bloodwood sap.png",
+        "name": "Bucket of bloodwood sap",
+        "quantity": "1"
       },
       {
-        "image": "Steel arrowtips.png",
-        "name": "Steel arrowtips",
+        "image": "Steel arrow.png",
+        "name": "Steel arrow",
         "quantity": "15"
       }
     ],
@@ -99835,9 +100085,9 @@
     },
     "skills": [
       {
-        "boostable": "yes",
-        "experience": "75",
-        "level": "30",
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
         "name": "Fletching"
       }
     ],
@@ -99848,12 +100098,41 @@
       {
         "image": "Steel arrow.png",
         "name": "Steel arrow",
+        "quantity": "150"
+      },
+      {
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "150"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking steel arrow.png",
+      "name": "Seeking steel arrow",
+      "quantity": "150"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel arrowtips.png",
+        "name": "Steel arrowtips",
         "quantity": "15"
       },
       {
-        "image": "Bucket of bloodwood sap.png",
-        "name": "Bucket of bloodwood sap",
-        "quantity": "1"
+        "image": "Seeking headless arrow.png",
+        "name": "Seeking headless arrow",
+        "quantity": "15"
       }
     ],
     "members": true,
@@ -99865,12 +100144,12 @@
     "skills": [
       {
         "boostable": "yes",
-        "experience": "0",
-        "level": "30",
+        "experience": "37.5",
+        "level": "15",
         "name": "Fletching"
       }
     ],
-    "ticks": "1"
+    "ticks": "2"
   },
   {
     "materials": [
@@ -102432,7 +102711,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Knife"
   },
   {
