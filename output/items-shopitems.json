@@ -19887,13 +19887,13 @@
     "sellMultiplier": "1000"
   },
   {
-    "buyMultiplier": "",
     "coords": "3603,3321",
     "isMembers": true,
     "items": [
       {
         "currency": "Coins",
         "name": "Garlic cocktail",
+        "sellPrice": "20",
         "stock": "20",
         "version": null
       }
@@ -19901,8 +19901,7 @@
     "location": "Darkmeyer",
     "mapID": "-1",
     "name": "Garlic Cocktail Supply",
-    "plane": "0",
-    "sellMultiplier": "1000"
+    "plane": "0"
   },
   {
     "coords": "2765,3213",
@@ -25903,7 +25902,7 @@
     "sellMultiplier": "1000"
   },
   {
-    "coords": "3220,3212",
+    "coords": "3226,3215",
     "isMembers": true,
     "items": [
       {
@@ -25969,7 +25968,7 @@
     "plane": "0"
   },
   {
-    "coords": "3220,3212",
+    "coords": "3226,3215",
     "isMembers": true,
     "items": [
       {
@@ -26051,7 +26050,7 @@
     "plane": "0"
   },
   {
-    "coords": "3220,3212",
+    "coords": "3226,3215",
     "isMembers": true,
     "items": [
       {
@@ -26133,7 +26132,7 @@
     "plane": "0"
   },
   {
-    "coords": "3220,3212",
+    "coords": "3226,3215",
     "isMembers": true,
     "items": [
       {
@@ -26231,7 +26230,7 @@
     "plane": "0"
   },
   {
-    "coords": "3220,3212",
+    "coords": "3226,3215",
     "isMembers": true,
     "items": [
       {
@@ -26369,7 +26368,7 @@
     "plane": "0"
   },
   {
-    "coords": "3220,3212",
+    "coords": "3226,3215",
     "isMembers": true,
     "items": [
       {
@@ -30170,6 +30169,7 @@
     "sellMultiplier": "1000"
   },
   {
+    "buyMultiplier": "700",
     "coords": "1360,2922",
     "isMembers": true,
     "items": [
@@ -30233,7 +30233,8 @@
     "location": "Moonrise Brewery and Winery",
     "mapID": "0",
     "name": "Moonrise Wines",
-    "plane": "0"
+    "plane": "0",
+    "sellMultiplier": "1000"
   },
   {
     "buyMultiplier": "600",
@@ -30364,6 +30365,34 @@
     "name": "Multicannon parts for sale",
     "plane": "0",
     "sellMultiplier": "1070"
+  },
+  {
+    "buyMultiplier": "0",
+    "coords": "3493,3230",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Beer",
+        "sellPrice": "2",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Meat pie",
+        "sellPrice": "15",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Burgh de Rott",
+    "mapID": "0",
+    "name": "Myreque's Rest",
+    "plane": "0",
+    "sellMultiplier": "1000"
   },
   {
     "coords": "2400,5986",
@@ -33279,6 +33308,7 @@
     "sellMultiplier": "1100"
   },
   {
+    "buyMultiplier": "500",
     "coords": "1871,3295",
     "isMembers": true,
     "items": [
@@ -33308,7 +33338,8 @@
     "location": "Port Roberts",
     "mapID": "0",
     "name": "Port Roberts Silk Stall",
-    "plane": "0"
+    "plane": "0",
+    "sellMultiplier": "500"
   },
   {
     "buyMultiplier": "700",
@@ -37765,30 +37796,6 @@
     "sellMultiplier": "1000"
   },
   {
-    "buyMultiplier": "600",
-    "coords": "?",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Anti-dragon shield",
-        "stock": "10",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Elemental shield",
-        "stock": "10",
-        "version": null
-      }
-    ],
-    "location": "",
-    "mapID": "0",
-    "name": "Slayer Equipment (shop) Demonic Pacts League",
-    "plane": "0",
-    "sellMultiplier": "1000"
-  },
-  {
     "coords": "?",
     "isMembers": true,
     "items": [
@@ -38338,7 +38345,7 @@
         "version": null
       }
     ],
-    "location": "Mistrock, South of Aldarin",
+    "location": "Mistrock",
     "mapID": "0",
     "name": "Stick Your Ore Inn",
     "plane": "0"
