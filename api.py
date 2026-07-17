@@ -105,11 +105,16 @@ def bucket_category_production(category_name: str) -> List[dict]:
             f'{{bucket.Not("Category:Beta items")}})',
             "production_json"):
 
-        for item in res["bucket"]:
-            recipe_json = json.loads(str(item["production_json"]))
-            # recipe_json["page_name"] = item["page_name"]
-            recipe_json["page_name_sub"] = item["page_name_sub"]
-            items.append(recipe_json)
+        if "bucket" in res:
+            for item in res["bucket"]:
+                recipe_json = json.loads(str(item["production_json"]))
+                # recipe_json["page_name"] = item["page_name"]
+                recipe_json["page_name_sub"] = item["page_name_sub"]
+                items.append(recipe_json)
+        elif "error" in res:
+            sys.exit([res["bucketQuery"], res["error"]])
+        else:
+            sys.exit([res["bucketQuery"], "No error code given"])
 
     with open(cache_file_name, "w+") as fi:
         json.dump(items, fi)
@@ -135,12 +140,17 @@ def bucket_category_drop_sources(category_name: str) -> Dict[str, object]:
              f'name")}},{{bucket.Not("Category:Jagex moderator items")}},{{bucket.Not("Category:Beta items")}})')
 
     for res in get_wiki_bucket_api(query, "item_name"):
-        for item in res["bucket"]:
-            drop_json = json.loads(str(item["drop_json"]))
-            if drop_json["Dropped item"] in drop_items:
-                drop_items[drop_json["Dropped item"]]["results"].append(drop_json)
-            else:
-                drop_items[drop_json["Dropped item"]] = {"results": [drop_json]}
+        if "bucket" in res:
+            for item in res["bucket"]:
+                drop_json = json.loads(str(item["drop_json"]))
+                if drop_json["Dropped item"] in drop_items:
+                    drop_items[drop_json["Dropped item"]]["results"].append(drop_json)
+                else:
+                    drop_items[drop_json["Dropped item"]] = {"results": [drop_json]}
+        elif "error" in res:
+            sys.exit([res["bucketQuery"], res["error"]])
+        else:
+            sys.exit([res["bucketQuery"], "No error code given"])
 
     with open(cache_file_name, "w+") as fi:
         json.dump(drop_items, fi)
@@ -167,9 +177,14 @@ def bucket_item_infobox() -> list[dict]:
              f'name")}},{{bucket.Not("Category:Jagex moderator items")}},{{bucket.Not("Category:Beta items")}})')
 
     for res in get_wiki_bucket_api(query, "item_id"):
-        for item in res["bucket"]:
-            if "item_id" in item:
-                items.append(item)
+        if "bucket" in res:
+            for item in res["bucket"]:
+                if "item_id" in item:
+                    items.append(item)
+        elif "error" in res:
+            sys.exit([res["bucketQuery"], res["error"]])
+        else:
+            sys.exit([res["bucketQuery"], "No error code given"])
 
     with open(cache_file_name, "w+") as fi:
         json.dump(items, fi)
