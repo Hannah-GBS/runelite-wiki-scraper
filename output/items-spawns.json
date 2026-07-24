@@ -3619,17 +3619,17 @@
         "plane": "0"
       },
       {
-        "coords": "3139,3814",
+        "coords": "3021,3640",
         "isMembers": false,
-        "location": "Wilderness - Between the Lava Maze and Lava Dragon Isle",
+        "location": "Wilderness - Dark Warriors' Fortress",
         "mapID": "0",
         "name": "Chaos rune",
         "plane": "0"
       },
       {
-        "coords": "3021,3640",
+        "coords": "3139,3814",
         "isMembers": false,
-        "location": "Wilderness - Dark Warriors' Fortress",
+        "location": "Wilderness - Wilderness Pond",
         "mapID": "0",
         "name": "Chaos rune",
         "plane": "0"
@@ -5922,7 +5922,7 @@
       {
         "coords": "1746,3489",
         "isMembers": true,
-        "location": "Hosidius - Monk's camp",
+        "location": "Hosidius - Monk camp",
         "mapID": "0",
         "name": "Holy mould",
         "plane": "0"
@@ -8774,7 +8774,7 @@
       {
         "coords": "1731,3578",
         "isMembers": true,
-        "location": "Hosidius - chapel north of allotment patch (1st floor)",
+        "location": "Hosidius - church north of allotment patch (1st floor)",
         "mapID": "0",
         "name": "Purple dye",
         "plane": "1"

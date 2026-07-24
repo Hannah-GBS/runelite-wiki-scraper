@@ -5000,7 +5000,7 @@
     ],
     "location": "Port Sarim",
     "mapID": "0",
-    "name": "Betty's Magic Emporium.",
+    "name": "Betty's Magic Emporium",
     "plane": "0",
     "sellMultiplier": "1000"
   },
@@ -19891,6 +19891,7 @@
     "isMembers": true,
     "items": [
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Garlic cocktail",
         "sellPrice": "20",
