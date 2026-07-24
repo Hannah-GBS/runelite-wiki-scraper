@@ -8574,7 +8574,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "190",
+        "experience": "30",
         "level": "74",
         "name": "Fletching"
       }
@@ -13285,7 +13285,7 @@
     "output": {
       "image": "Blade of saeldor.png",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">126,440,240</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">124,168,333</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -16461,8 +16461,7 @@
     "output": {
       "image": "Blood sac.png",
       "name": "Blood sac",
-      "quantity": "1",
-      "quantitynote": "Not always given."
+      "quantity": "0.333"
     },
     "skills": [
       {
@@ -18937,7 +18936,7 @@
     "output": {
       "image": "Bow of faerdhinen.png",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">128,395,642</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">118,307,401</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -31325,7 +31324,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "60"
+        "quantity": "100"
       },
       {
         "image": "Corrupted body (basic).png",
@@ -31376,7 +31375,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "40"
+        "quantity": "50"
       },
       {
         "image": "Corrupted ore.png",
@@ -31422,7 +31421,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "80"
+        "quantity": "100"
       },
       {
         "image": "Corrupted body (attuned).png",
@@ -31473,7 +31472,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "60"
+        "quantity": "50"
       },
       {
         "image": "Corrupted bow (basic).png",
@@ -31506,11 +31505,6 @@
   {
     "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
-      {
-        "image": "Corrupted shards.png",
-        "name": "Corrupted shards",
-        "quantity": "20"
-      },
       {
         "image": "Weapon frame (corrupted).png",
         "name": "Weapon frame (corrupted)",
@@ -31617,7 +31611,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "60"
+        "quantity": "50"
       },
       {
         "image": "Corrupted halberd (basic).png",
@@ -31650,11 +31644,6 @@
   {
     "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
-      {
-        "image": "Corrupted shards.png",
-        "name": "Corrupted shards",
-        "quantity": "20"
-      },
       {
         "image": "Weapon frame (corrupted).png",
         "name": "Weapon frame (corrupted)",
@@ -31712,7 +31701,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "60"
+        "quantity": "50"
       },
       {
         "image": "Corrupted helm (basic).png",
@@ -31763,7 +31752,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "40"
+        "quantity": "50"
       },
       {
         "image": "Corrupted ore.png",
@@ -31809,7 +31798,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "80"
+        "quantity": "100"
       },
       {
         "image": "Corrupted helm (attuned).png",
@@ -31860,7 +31849,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "60"
+        "quantity": "50"
       },
       {
         "image": "Corrupted legs (basic).png",
@@ -31911,7 +31900,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "40"
+        "quantity": "50"
       },
       {
         "image": "Corrupted ore.png",
@@ -31957,7 +31946,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "80"
+        "quantity": "100"
       },
       {
         "image": "Corrupted legs (attuned).png",
@@ -32095,7 +32084,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "60"
+        "quantity": "50"
       },
       {
         "image": "Corrupted staff (basic).png",
@@ -32128,11 +32117,6 @@
   {
     "facilities": "Singing Bowl (The Corrupted Gauntlet)",
     "materials": [
-      {
-        "image": "Corrupted shards.png",
-        "name": "Corrupted shards",
-        "quantity": "20"
-      },
       {
         "image": "Weapon frame (corrupted).png",
         "name": "Weapon frame (corrupted)",
@@ -32718,6 +32702,30 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "facilities": "Thurgo",
+    "materials": [
+      {
+        "image": "Steel bar.png",
+        "name": "Steel bar",
+        "quantity": "1"
+      },
+      {
+        "image": "Redberry pie.png",
+        "name": "Redberry pie",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Crowbar.png",
+      "name": "Crowbar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Hammer"
   },
   {
     "materials": [
@@ -34267,7 +34275,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "60"
+        "quantity": "100"
       },
       {
         "image": "Crystal body (basic).png",
@@ -34318,7 +34326,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "40"
+        "quantity": "50"
       },
       {
         "image": "Crystal ore.png",
@@ -34387,7 +34395,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "80"
+        "quantity": "100"
       },
       {
         "image": "Crystal body (attuned).png",
@@ -34499,7 +34507,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "60"
+        "quantity": "50"
       },
       {
         "image": "Crystal bow (basic).png",
@@ -34532,11 +34540,6 @@
   {
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
-      {
-        "image": "Crystal shards (The Gauntlet).png",
-        "name": "Crystal shards (The Gauntlet)",
-        "quantity": "20"
-      },
       {
         "image": "Weapon frame.png",
         "name": "Weapon frame",
@@ -36057,7 +36060,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "60"
+        "quantity": "50"
       },
       {
         "image": "Crystal halberd (basic).png",
@@ -36090,11 +36093,6 @@
   {
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
-      {
-        "image": "Crystal shards (The Gauntlet).png",
-        "name": "Crystal shards (The Gauntlet)",
-        "quantity": "20"
-      },
       {
         "image": "Weapon frame.png",
         "name": "Weapon frame",
@@ -37504,7 +37502,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "60"
+        "quantity": "50"
       },
       {
         "image": "Crystal helm (basic).png",
@@ -37555,7 +37553,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "40"
+        "quantity": "50"
       },
       {
         "image": "Crystal ore.png",
@@ -37624,7 +37622,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "80"
+        "quantity": "100"
       },
       {
         "image": "Crystal helm (attuned).png",
@@ -39015,7 +39013,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "60"
+        "quantity": "50"
       },
       {
         "image": "Crystal legs (basic).png",
@@ -39066,7 +39064,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "40"
+        "quantity": "50"
       },
       {
         "image": "Crystal ore.png",
@@ -39135,7 +39133,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "80"
+        "quantity": "100"
       },
       {
         "image": "Crystal legs (attuned).png",
@@ -39474,7 +39472,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "60"
+        "quantity": "50"
       },
       {
         "image": "Crystal staff (basic).png",
@@ -39507,11 +39505,6 @@
   {
     "facilities": "Singing Bowl (The Gauntlet)",
     "materials": [
-      {
-        "image": "Crystal shards (The Gauntlet).png",
-        "name": "Crystal shards (The Gauntlet)",
-        "quantity": "20"
-      },
       {
         "image": "Weapon frame.png",
         "name": "Weapon frame",
@@ -50719,6 +50712,30 @@
     "skills": [],
     "ticks": "7",
     "tools": "hammer"
+  },
+  {
+    "materials": [
+      {
+        "image": "Fighter torso (l).png",
+        "name": "Fighter torso",
+        "quantity": "1",
+        "version": "Locked"
+      },
+      {
+        "image": "Bounty hunter ornament kit.png",
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Fighter torso (l)(or).png",
+      "name": "Fighter torso (or)",
+      "quantity": "1",
+      "version": "Locked"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -64457,7 +64474,7 @@
       {
         "boostable": "Yes",
         "experience": "437.5",
-        "level": "77",
+        "level": "75",
         "name": "Construction"
       }
     ],
@@ -67136,7 +67153,7 @@
       {
         "boostable": "Yes",
         "experience": "2.5",
-        "level": "77",
+        "level": "75",
         "name": "Construction"
       }
     ],
@@ -101696,7 +101713,7 @@
         "quantity": "1"
       },
       {
-        "image": "Ancient shield.png",
+        "image": "Ancient shield (The Blood Moon Rises).png",
         "name": "Ancient shield (The Blood Moon Rises)",
         "quantity": "1"
       }
