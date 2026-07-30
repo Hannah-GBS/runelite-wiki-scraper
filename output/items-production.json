@@ -5634,35 +5634,6 @@
         "quantity": "1"
       },
       {
-        "image": "Araxyte fang.png",
-        "name": "Araxyte fang",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Amulet of rancour.png",
-      "name": "Amulet of rancour",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "500",
-        "level": "86",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "image": "Amulet of torture.png",
-        "name": "Amulet of torture",
-        "quantity": "1"
-      },
-      {
         "image": "Etched araxyte fang.png",
         "name": "Etched araxyte fang",
         "quantity": "1"
@@ -13285,7 +13256,7 @@
     "output": {
       "image": "Blade of saeldor.png",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">124,168,333</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">110,281,838</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18936,7 +18907,7 @@
     "output": {
       "image": "Bow of faerdhinen.png",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">118,307,401</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">110,861,528</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -32174,7 +32145,7 @@
       {
         "image": "Corrupted shards.png",
         "name": "Corrupted shards",
-        "quantity": "40"
+        "quantity": "50"
       }
     ],
     "members": true,
@@ -54303,8 +54274,8 @@
   {
     "materials": [
       {
-        "image": "Desert goat horn.png",
-        "name": "Desert goat horn",
+        "image": "Goat horn.png",
+        "name": "Goat horn",
         "quantity": "1"
       }
     ],
@@ -65948,6 +65919,51 @@
     "skills": [],
     "ticks": "0",
     "tools": "Pestle and mortar"
+  },
+  {
+    "facilities": "Brewery",
+    "materials": [
+      {
+        "image": "Bucket of water.png",
+        "name": "Bucket of water",
+        "quantity": "2"
+      },
+      {
+        "image": "Barley malt.png",
+        "name": "Barley malt",
+        "quantity": "2"
+      },
+      {
+        "image": "Kelda hops.png",
+        "name": "Kelda hops",
+        "quantity": "1"
+      },
+      {
+        "image": "Ale yeast.png",
+        "name": "Ale yeast",
+        "quantity": "1"
+      },
+      {
+        "image": "Beer glass.png",
+        "name": "Beer glass",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Kelda stout.png",
+      "name": "Kelda stout",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "6",
+        "level": "22",
+        "name": "Cooking"
+      }
+    ],
+    "ticks": "3"
   },
   {
     "materials": [
@@ -112449,6 +112465,31 @@
   {
     "materials": [
       {
+        "image": "Sunstone.png",
+        "name": "Sunstone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sunstone core.png",
+      "name": "Sunstone core",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "60",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "0",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
         "image": "Super antifire potion(2).png",
         "name": "Super antifire potion",
         "quantity": "1",
@@ -114337,7 +114378,7 @@
       {
         "image": "Crystal shards (The Gauntlet).png",
         "name": "Crystal shards (The Gauntlet)",
-        "quantity": "40"
+        "quantity": "50"
       }
     ],
     "members": true,

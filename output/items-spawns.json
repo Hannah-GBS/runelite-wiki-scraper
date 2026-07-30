@@ -2988,6 +2988,14 @@
         "mapID": "0",
         "name": "Bucket of milk",
         "plane": "0"
+      },
+      {
+        "coords": "2567,2255",
+        "isMembers": false,
+        "location": "Wyrmscraig",
+        "mapID": "0",
+        "name": "Bucket of milk",
+        "plane": "0"
       }
     ]
   },
@@ -3556,6 +3564,14 @@
         "name": "Candle",
         "plane": "1",
         "version": "Lit"
+      },
+      {
+        "coords": "2579,2270",
+        "isMembers": true,
+        "location": "Wyrmscraig",
+        "mapID": "0",
+        "name": "Candle",
+        "plane": "0"
       },
       {
         "coords": "2547,3114",
@@ -6374,6 +6390,14 @@
         "mapID": "-1",
         "name": "Iron pickaxe",
         "plane": "0"
+      },
+      {
+        "coords": "2613,8600",
+        "isMembers": true,
+        "location": "Wyrmscraig Cavern",
+        "mapID": "-1",
+        "name": "Iron pickaxe",
+        "plane": "0"
       }
     ]
   },
@@ -6818,6 +6842,14 @@
         "mapID": "0",
         "name": "Keg",
         "plane": "1"
+      },
+      {
+        "coords": "3793,2872",
+        "isMembers": true,
+        "location": "Harmony Island - 2nd floor of crashed ship",
+        "mapID": "0",
+        "name": "Keg",
+        "plane": "2"
       }
     ]
   },
@@ -7851,6 +7883,14 @@
         "mapID": "0",
         "name": "Needle",
         "plane": "0"
+      },
+      {
+        "coords": "2572,2243",
+        "isMembers": false,
+        "location": "Wyrmscraig",
+        "mapID": "0",
+        "name": "Needle",
+        "plane": "0"
       }
     ]
   },
@@ -8115,6 +8155,14 @@
         "coords": "1452,3193",
         "isMembers": true,
         "location": "The Teomat - northern building",
+        "mapID": "0",
+        "name": "Papyrus",
+        "plane": "0"
+      },
+      {
+        "coords": "2539,2217",
+        "isMembers": true,
+        "location": "Wyrmsgraig - Ardeaglais",
         "mapID": "0",
         "name": "Papyrus",
         "plane": "0"
@@ -10138,6 +10186,14 @@
         "mapID": "0",
         "name": "Spade",
         "plane": "1"
+      },
+      {
+        "coords": "2592,2291",
+        "isMembers": true,
+        "location": "Wyrmscraig",
+        "mapID": "0",
+        "name": "Spade",
+        "plane": "0"
       }
     ]
   },
@@ -10751,6 +10807,14 @@
         "mapID": "0",
         "name": "Thread",
         "plane": "0"
+      },
+      {
+        "coords": "2575,2243",
+        "isMembers": true,
+        "location": "Wyrmscraig - Auchrie",
+        "mapID": "0",
+        "name": "Thread",
+        "plane": "0"
       }
     ]
   },
@@ -10853,12 +10917,28 @@
         "plane": "1"
       },
       {
+        "coords": "3280,5347",
+        "isMembers": true,
+        "location": "Chambers of Xeric",
+        "mapID": "-1",
+        "name": "Tinderbox",
+        "plane": "0"
+      },
+      {
         "coords": "1737,3169",
         "isMembers": true,
         "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "mapID": "0",
         "name": "Tinderbox",
         "plane": "0"
+      },
+      {
+        "coords": "2543,2862",
+        "isMembers": false,
+        "location": "Corsair Cove",
+        "mapID": "0",
+        "name": "Tinderbox",
+        "plane": "1"
       },
       {
         "coords": "1327,3319",
@@ -10899,6 +10979,14 @@
         "mapID": "0",
         "name": "Tinderbox",
         "plane": "0"
+      },
+      {
+        "coords": "3806,2873",
+        "isMembers": true,
+        "location": "Harmony Island - 1st floor of crashed ship",
+        "mapID": "0",
+        "name": "Keg",
+        "plane": "1"
       },
       {
         "coords": "1742,3604",
