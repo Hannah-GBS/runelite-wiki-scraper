@@ -32,14 +32,20 @@ def get_wiki_bucket_api(query: str, order_by: str) -> Iterator[any]:
         args["query"] = f'{query}.limit(500).offset({offset}).orderBy("{order_by}", "asc").run()'
         url = "https://oldschool.runescape.wiki/api.php?" + urllib.parse.urlencode(args) + "&formatversion=2"
         print("Grabbing " + url)
-        with urllib.request.urlopen(urllib.request.Request(url, headers=user_agent)) as raw:
-            js = json.load(raw)
+        retries = 0
+        while retries < 3:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=user_agent)) as raw:
+                js = json.load(raw)
 
-        yield js
-        if len(js["bucket"]) < 500:
-            return
-        else:
-            offset += 500
+            if "error" in js:
+                retries += 1
+            else:
+                yield js
+                if len(js["bucket"]) < 500:
+                    return
+                else:
+                    offset += 500
+                    break
 
 
 def query_category(category_name: str) -> dict[str, dict[str, str]]:
@@ -112,10 +118,6 @@ def bucket_category_production(category_name: str) -> List[dict]:
                 # recipe_json["page_name"] = item["page_name"]
                 recipe_json["page_name_sub"] = item["page_name_sub"]
                 items.append(recipe_json)
-        elif "error" in res:
-            sys.exit([res["bucketQuery"], res["error"]])
-        else:
-            sys.exit([res["bucketQuery"], "No error code given"])
 
     with open(cache_file_name, "w+") as fi:
         json.dump(items, fi)
@@ -148,10 +150,6 @@ def bucket_category_drop_sources(category_name: str) -> Dict[str, object]:
                     drop_items[drop_json["Dropped item"]]["results"].append(drop_json)
                 else:
                     drop_items[drop_json["Dropped item"]] = {"results": [drop_json]}
-        elif "error" in res:
-            sys.exit([res["bucketQuery"], res["error"]])
-        else:
-            sys.exit([res["bucketQuery"], "No error code given"])
 
     with open(cache_file_name, "w+") as fi:
         json.dump(drop_items, fi)
@@ -182,10 +180,6 @@ def bucket_item_infobox() -> list[dict]:
             for item in res["bucket"]:
                 if "item_id" in item:
                     items.append(item)
-        elif "error" in res:
-            sys.exit([res["bucketQuery"], res["error"]])
-        else:
-            sys.exit([res["bucketQuery"], "No error code given"])
 
     with open(cache_file_name, "w+") as fi:
         json.dump(items, fi)
