@@ -13256,7 +13256,7 @@
     "output": {
       "image": "Blade of saeldor.png",
       "name": "Blade of saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">110,281,838</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">117,407,105</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18907,7 +18907,7 @@
     "output": {
       "image": "Bow of faerdhinen.png",
       "name": "Bow of faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">110,861,528</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">112,782,095</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -22305,7 +22305,14 @@
       "name": "Bronze key (Prince Ali Rescue)",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "2",
+        "level": "?",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "0"
   },
   {
@@ -58876,7 +58883,6 @@
     "output": {
       "image": "Hallowed flail.png",
       "name": "Hallowed flail",
-      "outputnote": "The [[blisterwood sickle]] is returned when the hallowed flail is created.",
       "quantity": "1"
     },
     "skills": [],
@@ -88609,7 +88615,7 @@
     "output": {
       "image": "Quicklime.png",
       "name": "Quicklime",
-      "outputnote": "If incorrect or no [[gloves]] are worn, the process will still produce quicklime, but still also damage the player for 8 [[Hitpoints]].",
+      "outputnote": "If incorrect or no [[gloves]] are worn, the process will still produce quicklime, but will also damage the player for 8 [[Hitpoints]].",
       "quantity": "1"
     },
     "skills": [],
