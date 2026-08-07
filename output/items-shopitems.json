@@ -30310,102 +30310,6 @@
     "sellMultiplier": "1000"
   },
   {
-    "buyMultiplier": "",
-    "coords": "2566,2255",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bucket",
-        "stock": "3",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Chisel",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Goat horn",
-        "stock": "0",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Hammer",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Jug",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Needle",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pot",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Rope",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Shears",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Thread",
-        "stock": "20",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Tinderbox",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Wyrmscraig goat fur",
-        "stock": "0",
-        "version": null
-      }
-    ],
-    "location": "Wyrmscraig",
-    "mapID": "-1",
-    "name": "Mr Supplies Jnr",
-    "plane": "0",
-    "sellMultiplier": ""
-  },
-  {
     "buyMultiplier": "400",
     "coords": "3011,3452",
     "isMembers": true,
@@ -31674,6 +31578,7 @@
         "version": "(10)"
       },
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Silver sickle",
         "stock": "inf",
@@ -38841,8 +38746,8 @@
     "sellMultiplier": "1300"
   },
   {
-    "buyMultiplier": "",
-    "coords": "?",
+    "buyMultiplier": "400",
+    "coords": "2566,2254",
     "isMembers": true,
     "items": [
       {
@@ -38934,7 +38839,7 @@
     "mapID": "0",
     "name": "Supplies's Supplies",
     "plane": "0",
-    "sellMultiplier": ""
+    "sellMultiplier": "1300"
   },
   {
     "coords": "3372,3276",
@@ -41759,24 +41664,6 @@
     "location": "",
     "mapID": "0",
     "name": "Trader Stan's Trading Post",
-    "plane": "0",
-    "sellMultiplier": "2500"
-  },
-  {
-    "buyMultiplier": "150",
-    "coords": "?",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Hunters' crossbow",
-        "stock": "5",
-        "version": null
-      }
-    ],
-    "location": "",
-    "mapID": "0",
-    "name": "Trader Stan's Trading Post Demonic Pacts League",
     "plane": "0",
     "sellMultiplier": "2500"
   },

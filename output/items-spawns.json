@@ -4688,7 +4688,7 @@
         "coords": "3443,9741",
         "isMembers": true,
         "location": "Nature Grotto",
-        "mapID": "14",
+        "mapID": "-1",
         "name": "Druid pouch",
         "plane": "1"
       }
@@ -8708,6 +8708,14 @@
         "mapID": "-1",
         "name": "Pot of flour",
         "plane": "0"
+      },
+      {
+        "coords": "1239,3677",
+        "isMembers": true,
+        "location": "Kebos Lowlands - Mary and Gordon's house (1st floor)",
+        "mapID": "0",
+        "name": "Thread",
+        "plane": "1"
       }
     ]
   },
@@ -9538,6 +9546,14 @@
         "coords": "2652,2413",
         "isMembers": true,
         "location": "Charred Island",
+        "mapID": "0",
+        "name": "Seaweed",
+        "plane": "0"
+      },
+      {
+        "coords": "3051,2634",
+        "isMembers": true,
+        "location": "Dognose Island",
         "mapID": "0",
         "name": "Seaweed",
         "plane": "0"
