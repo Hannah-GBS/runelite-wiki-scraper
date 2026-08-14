@@ -9281,7 +9281,7 @@
         "quantityHigh": 19,
         "quantityLow": 10,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "",
@@ -10375,7 +10375,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "88",
@@ -11468,7 +11468,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/69",
+        "rarity": "4/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/56",
         "source": "Ancient chest"
       }
     ],
@@ -11482,7 +11490,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/69",
+        "rarity": "4/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/56",
         "source": "Ancient chest"
       }
     ],
@@ -11496,7 +11512,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/69",
+        "rarity": "4/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/56",
         "source": "Ancient chest"
       }
     ],
@@ -15667,7 +15691,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "20/69",
+        "rarity": "14/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "12/56",
         "source": "Ancient chest"
       }
     ],
@@ -18856,6 +18888,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "230",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/3,000",
+        "source": "Giant Mole"
+      }
+    ],
+    "group": "Baby Mole",
+    "name": "Baby Mole"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "48",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -18866,20 +18912,6 @@
     ],
     "group": "Baby dragon bone",
     "name": "Baby dragon bone"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "230",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/3,000",
-        "source": "Giant Mole"
-      }
-    ],
-    "group": "Baby mole",
-    "name": "Baby mole"
   },
   {
     "dropSources": [
@@ -21733,6 +21765,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Grizzly bear cub"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Reanimated bear"
       }
     ],
     "group": "Bear ribs",
@@ -23574,7 +23614,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "",
@@ -34621,7 +34661,7 @@
         "source": "Giant skeleton (Tarn's Lair)"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 250,
         "quantityLow": 150,
@@ -37199,7 +37239,7 @@
         "quantityHigh": 19,
         "quantityLow": 10,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "",
@@ -38053,7 +38093,7 @@
         "quantityHigh": 89,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       }
     ],
     "group": "Bone bolts",
@@ -38089,7 +38129,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       }
     ],
     "group": "Bone dagger",
@@ -40456,12 +40496,20 @@
         "source": "Monk"
       },
       {
-        "dropLevel": "17,22,23,30,45",
+        "dropLevel": "17,22,23,45",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Monk of Zamorak"
+      },
+      {
+        "dropLevel": "17,22,30",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Monk of Zamorak (Paterdomus)"
       },
       {
         "dropLevel": "135",
@@ -42254,8 +42302,22 @@
         "source": "Wardrobe (Zogre Flesh Eaters)"
       }
     ],
-    "group": "Book of 'h.a.m'",
-    "name": "Book of 'h.a.m'"
+    "group": "Book of 'H.A.M'",
+    "name": "Book of 'H.A.M'"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Surprise Exam"
+      }
+    ],
+    "group": "Book of Knowledge",
+    "name": "Book of Knowledge"
   },
   {
     "dropSources": [
@@ -42270,20 +42332,6 @@
     ],
     "group": "Book of folklore",
     "name": "Book of folklore"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Surprise Exam"
-      }
-    ],
-    "group": "Book of knowledge",
-    "name": "Book of knowledge"
   },
   {
     "dropSources": [
@@ -48005,7 +48053,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "25",
@@ -48573,7 +48621,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "78",
@@ -53073,7 +53121,7 @@
         "quantityHigh": 2,
         "quantityLow": 1,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "52",
@@ -53081,7 +53129,7 @@
         "quantityHigh": 2,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "78",
@@ -53985,7 +54033,7 @@
         "quantityHigh": 9,
         "quantityLow": 5,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "",
@@ -60857,7 +60905,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "30",
@@ -62010,7 +62058,7 @@
         "source": "Gold key red"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -62350,7 +62398,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/1,250",
         "source": "Venator"
       },
       {
@@ -63270,14 +63318,6 @@
         "quantityLow": 1,
         "rarity": "1/118",
         "source": "Long-tailed Wyvern"
-      },
-      {
-        "dropLevel": "270,588",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/25",
-        "source": "Mad Angel"
       },
       {
         "dropLevel": "249",
@@ -64690,6 +64730,14 @@
         "quantityLow": 1,
         "rarity": "1/128",
         "source": "Lynx Tamer"
+      },
+      {
+        "dropLevel": "270,588",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/25",
+        "source": "Mad Angel"
       },
       {
         "dropLevel": "42",
@@ -69623,7 +69671,7 @@
         "quantityHigh": 250,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "28",
@@ -71548,8 +71596,8 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
+        "quantityHigh": 8,
+        "quantityLow": 8,
         "rarity": "5/128",
         "source": "Forgotten Soul"
       },
@@ -72458,7 +72506,7 @@
         "source": "Gorak#Full"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 25000,
         "quantityLow": 17500,
@@ -83739,6 +83787,20 @@
         "source": "Trinket of advanced weaponry"
       }
     ],
+    "group": "Corrupted Volatile Nightmare staff",
+    "name": "Corrupted Volatile Nightmare staff"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/8",
+        "source": "Trinket of advanced weaponry"
+      }
+    ],
     "group": "Corrupted armadyl godsword",
     "name": "Corrupted armadyl godsword"
   },
@@ -84203,20 +84265,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/8",
-        "source": "Trinket of advanced weaponry"
-      }
-    ],
-    "group": "Corrupted volatile nightmare staff",
-    "name": "Corrupted volatile nightmare staff"
-  },
-  {
-    "dropSources": [
-      {
         "dropLevel": "350",
         "dropType": "combat",
         "quantityHigh": 350,
@@ -84390,7 +84438,7 @@
         "quantityHigh": 9,
         "quantityLow": 5,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "",
@@ -85985,7 +86033,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "",
+        "dropLevel": "2",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -88075,6 +88123,14 @@
         "quantityLow": 1,
         "rarity": "1/4",
         "source": "Dagannoth spawn"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/4",
+        "source": "Reanimated dagannoth"
       }
     ],
     "group": "Dagannoth ribs",
@@ -90130,7 +90186,7 @@
         "quantityHigh": 4,
         "quantityLow": 2,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "28",
@@ -92259,7 +92315,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "20/69",
+        "rarity": "14/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "12/56",
         "source": "Ancient chest"
       }
     ],
@@ -93139,7 +93203,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/69",
+        "rarity": "3/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/56",
         "source": "Ancient chest"
       }
     ],
@@ -93238,7 +93310,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       }
     ],
     "group": "Dorgesh-kaan sphere",
@@ -93252,7 +93324,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       }
     ],
     "group": "Dorgeshuun crossbow",
@@ -94537,7 +94609,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/69",
+        "rarity": "3/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/56",
         "source": "Ancient chest"
       }
     ],
@@ -95251,7 +95331,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/69",
+        "rarity": "4/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/56",
         "source": "Ancient chest"
       }
     ],
@@ -100793,7 +100881,7 @@
         "quantityHigh": 19,
         "quantityLow": 10,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "",
@@ -102415,7 +102503,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "3",
@@ -103431,7 +103519,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/69",
+        "rarity": "2/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/56",
         "source": "Ancient chest"
       }
     ],
@@ -104528,7 +104624,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "78",
@@ -108677,7 +108773,7 @@
         "quantityHigh": 19,
         "quantityLow": 10,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "",
@@ -110243,7 +110339,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "88",
@@ -112621,7 +112717,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "78",
@@ -112643,7 +112739,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "78",
@@ -112756,8 +112852,8 @@
         "source": "Wingman Skree"
       }
     ],
-    "group": "Frozen key piece (armadyl)",
-    "name": "Frozen key piece (armadyl)"
+    "group": "Frozen key piece (Armadyl)",
+    "name": "Frozen key piece (Armadyl)"
   },
   {
     "dropSources": [
@@ -112794,8 +112890,8 @@
         "source": "Sergeant Strongstack"
       }
     ],
-    "group": "Frozen key piece (bandos)",
-    "name": "Frozen key piece (bandos)"
+    "group": "Frozen key piece (Bandos)",
+    "name": "Frozen key piece (Bandos)"
   },
   {
     "dropSources": [
@@ -112832,8 +112928,8 @@
         "source": "Starlight"
       }
     ],
-    "group": "Frozen key piece (saradomin)",
-    "name": "Frozen key piece (saradomin)"
+    "group": "Frozen key piece (Saradomin)",
+    "name": "Frozen key piece (Saradomin)"
   },
   {
     "dropSources": [
@@ -112870,8 +112966,8 @@
         "source": "Zakl'n Gritch"
       }
     ],
-    "group": "Frozen key piece (zamorak)",
-    "name": "Frozen key piece (zamorak)"
+    "group": "Frozen key piece (Zamorak)",
+    "name": "Frozen key piece (Zamorak)"
   },
   {
     "dropSources": [
@@ -113862,7 +113958,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/42",
+        "rarity": "1/8",
         "source": "Abyssal guardian"
       },
       {
@@ -113878,7 +113974,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/42",
+        "rarity": "1/5",
         "source": "Abyssal walker"
       },
       {
@@ -115350,7 +115446,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Goblin (Goblin Village)"
       },
       {
@@ -115358,7 +115454,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Goblin (God Wars Dungeon)"
       },
       {
@@ -115366,7 +115462,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Goblin (Vault of War)"
       },
       {
@@ -115374,7 +115470,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Goblin guard"
       },
       {
@@ -115382,7 +115478,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Goblin#Drop table 1"
       },
       {
@@ -115390,7 +115486,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Goblin#Drop table 2"
       },
       {
@@ -115398,7 +115494,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Reanimated goblin"
       }
     ],
@@ -117530,12 +117626,20 @@
   {
     "dropSources": [
       {
-        "dropLevel": "17,22,23,30,45",
+        "dropLevel": "17,22,23,45",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Monk of Zamorak"
+      },
+      {
+        "dropLevel": "17,22,30",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Monk of Zamorak (Paterdomus)"
       }
     ],
     "group": "Golden key",
@@ -120247,7 +120351,7 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/62.1",
         "source": "Forgotten Soul"
@@ -120799,7 +120903,7 @@
       {
         "dropLevel": "252",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/546.1",
         "source": "Lava dragon"
@@ -122923,7 +123027,7 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/93.1",
         "source": "Forgotten Soul"
@@ -123475,7 +123579,7 @@
       {
         "dropLevel": "252",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/819.2",
         "source": "Lava dragon"
@@ -125657,7 +125761,7 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/124.1",
         "source": "Forgotten Soul"
@@ -126185,7 +126289,7 @@
       {
         "dropLevel": "252",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/1,092.3",
         "source": "Lava dragon"
@@ -128277,7 +128381,7 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/11.6",
         "source": "Forgotten Soul"
@@ -128805,7 +128909,7 @@
       {
         "dropLevel": "252",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/102.4",
         "source": "Lava dragon"
@@ -130787,7 +130891,7 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/26.6",
         "source": "Forgotten Soul"
@@ -131323,7 +131427,7 @@
       {
         "dropLevel": "252",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/234.1",
         "source": "Lava dragon"
@@ -133367,7 +133471,7 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/46.5",
         "source": "Forgotten Soul"
@@ -133903,7 +134007,7 @@
       {
         "dropLevel": "252",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/409.6",
         "source": "Lava dragon"
@@ -135989,7 +136093,7 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/74.5",
         "source": "Forgotten Soul"
@@ -136549,7 +136653,7 @@
       {
         "dropLevel": "252",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/655.4",
         "source": "Lava dragon"
@@ -138723,7 +138827,7 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/124.1",
         "source": "Forgotten Soul"
@@ -139291,7 +139395,7 @@
       {
         "dropLevel": "252",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/1,092.3",
         "source": "Lava dragon"
@@ -141337,7 +141441,7 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/15.5",
         "source": "Forgotten Soul"
@@ -141857,7 +141961,7 @@
       {
         "dropLevel": "252",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/136.5",
         "source": "Lava dragon"
@@ -144027,7 +144131,7 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/33.9",
         "source": "Forgotten Soul"
@@ -144611,7 +144715,7 @@
       {
         "dropLevel": "252",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/297.9",
         "source": "Lava dragon"
@@ -147169,7 +147273,7 @@
       {
         "dropLevel": "20",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/20.7",
         "source": "Forgotten Soul"
@@ -147721,7 +147825,7 @@
       {
         "dropLevel": "252",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/182",
         "source": "Lava dragon"
@@ -150640,7 +150744,7 @@
         "source": "Coffin (Hallowed Sepulchre)"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 10,
         "quantityLow": 8,
@@ -150658,7 +150762,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/128",
+        "rarity": "1/127",
         "source": "Mad Angel"
       }
     ],
@@ -150673,7 +150777,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "20",
@@ -150711,7 +150815,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "20",
@@ -150749,7 +150853,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "20",
@@ -150787,7 +150891,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "",
@@ -150847,7 +150951,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "20",
@@ -150885,7 +150989,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "",
@@ -150931,7 +151035,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "",
@@ -151025,7 +151129,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "",
@@ -153706,7 +153810,7 @@
         "source": "Alchemical Hydra"
       }
     ],
-    "group": "Ikkle hydra",
+    "group": "Ikkle Hydra",
     "name": "Ikkle hydra"
   },
   {
@@ -160417,8 +160521,8 @@
         "source": "TzKal-Zuk"
       }
     ],
-    "group": "Jal-nib-rek",
-    "name": "Jal-nib-rek"
+    "group": "Jal-Nib-Rek",
+    "name": "Jal-Nib-Rek"
   },
   {
     "dropSources": [
@@ -161635,7 +161739,7 @@
         "dropType": "crafting",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/315",
+        "rarity": "1/300",
         "source": "Golem crafting"
       }
     ],
@@ -162261,8 +162365,8 @@
         "source": "Kalphite Queen"
       }
     ],
-    "group": "Kalphite princess",
-    "name": "Kalphite princess"
+    "group": "Kalphite Princess",
+    "name": "Kalphite Princess"
   },
   {
     "dropSources": [
@@ -163532,7 +163636,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/69",
+        "rarity": "2/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/56",
         "source": "Ancient chest"
       }
     ],
@@ -166144,7 +166256,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/42",
+        "rarity": "1/8",
         "source": "Abyssal guardian"
       },
       {
@@ -166160,7 +166272,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/42",
+        "rarity": "1/5",
         "source": "Abyssal walker"
       },
       {
@@ -167806,7 +167918,7 @@
         "quantityHigh": 9,
         "quantityLow": 5,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "",
@@ -168089,7 +168201,7 @@
         "source": "Giant skeleton (Shadow Dungeon)"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 250,
         "quantityLow": 150,
@@ -170224,7 +170336,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "78",
@@ -170315,12 +170427,12 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/400",
-        "source": "Spoils of war"
+        "rarity": "1/650",
+        "source": "Monumental chest"
       }
     ],
-    "group": "Lil' creator",
-    "name": "Lil' creator"
+    "group": "Lil' Zik",
+    "name": "Lil' Zik"
   },
   {
     "dropSources": [
@@ -170329,12 +170441,12 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/650",
-        "source": "Monumental chest"
+        "rarity": "1/400",
+        "source": "Spoils of war"
       }
     ],
-    "group": "Lil' zik",
-    "name": "Lil' zik"
+    "group": "Lil' creator",
+    "name": "Lil' creator"
   },
   {
     "dropSources": [
@@ -171806,7 +171918,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "228,248,656",
+        "dropLevel": "",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -174756,7 +174868,7 @@
         "source": "Man"
       },
       {
-        "dropLevel": "17,22,23,30,45",
+        "dropLevel": "17,22,23,45",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -179931,7 +180043,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/42",
+        "rarity": "1/8",
         "source": "Abyssal guardian"
       },
       {
@@ -179947,7 +180059,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/42",
+        "rarity": "1/5",
         "source": "Abyssal walker"
       },
       {
@@ -180384,7 +180496,7 @@
         "quantityHigh": 19,
         "quantityLow": 10,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "28",
@@ -181316,7 +181428,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "78",
@@ -188079,6 +188191,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Monkey Zombie"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Reanimated monkey"
       }
     ],
     "group": "Monkey paw",
@@ -188165,7 +188285,7 @@
         "source": "Colossal Hydra"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 6,
         "quantityLow": 2,
@@ -190665,12 +190785,12 @@
         "dropType": "hunter",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "41/1,400,000",
+        "rarity": "1/40,000",
         "source": "Wyrmscraig Goat"
       }
     ],
-    "group": "Mr mcgroot",
-    "name": "Mr mcgroot"
+    "group": "Mr McGroot",
+    "name": "Mr McGroot"
   },
   {
     "dropSources": [
@@ -193612,7 +193732,7 @@
         "quantityHigh": 4,
         "quantityLow": 2,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "28",
@@ -195823,7 +195943,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       }
     ],
     "group": "Newcomer map",
@@ -196076,7 +196196,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/200",
+        "rarity": "1/600",
         "source": "Araxxor"
       }
     ],
@@ -196090,7 +196210,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/200",
+        "rarity": "1/600",
         "source": "Araxxor"
       }
     ],
@@ -196104,7 +196224,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/200",
+        "rarity": "1/600",
         "source": "Araxxor"
       }
     ],
@@ -197254,6 +197374,14 @@
         "quantityLow": 1,
         "rarity": "1/4",
         "source": "Ogress Warrior"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/4",
+        "source": "Reanimated ogre"
       }
     ],
     "group": "Ogre ribs",
@@ -197305,7 +197433,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "24,26",
@@ -201317,8 +201445,8 @@
         "source": "Chaos Fanatic"
       }
     ],
-    "group": "Pet chaos elemental",
-    "name": "Pet chaos elemental"
+    "group": "Pet Chaos Elemental",
+    "name": "Pet Chaos Elemental"
   },
   {
     "dropSources": [
@@ -201331,8 +201459,8 @@
         "source": "Dagannoth Prime"
       }
     ],
-    "group": "Pet dagannoth prime",
-    "name": "Pet dagannoth prime"
+    "group": "Pet Dagannoth Prime",
+    "name": "Pet Dagannoth Prime"
   },
   {
     "dropSources": [
@@ -201345,8 +201473,8 @@
         "source": "Dagannoth Rex"
       }
     ],
-    "group": "Pet dagannoth rex",
-    "name": "Pet dagannoth rex"
+    "group": "Pet Dagannoth Rex",
+    "name": "Pet Dagannoth Rex"
   },
   {
     "dropSources": [
@@ -201359,8 +201487,120 @@
         "source": "Dagannoth Supreme"
       }
     ],
-    "group": "Pet dagannoth supreme",
-    "name": "Pet dagannoth supreme"
+    "group": "Pet Dagannoth Supreme",
+    "name": "Pet Dagannoth Supreme"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "624",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,000",
+        "source": "General Graardor"
+      }
+    ],
+    "group": "Pet General Graardor",
+    "name": "Pet General Graardor"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "650",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,000",
+        "source": "K'ril Tsutsaroth"
+      }
+    ],
+    "group": "Pet K'ril Tsutsaroth",
+    "name": "Pet K'ril Tsutsaroth"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "291",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/3,000",
+        "source": "Kraken"
+      }
+    ],
+    "group": "Pet Kraken",
+    "name": "Pet Kraken"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "580",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,000",
+        "source": "Kree'arra"
+      }
+    ],
+    "group": "Pet Kree'arra",
+    "name": "Pet Kree'arra"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,000",
+        "source": "Barbarian Assault/Gambles#High"
+      }
+    ],
+    "group": "Pet Penance Queen",
+    "name": "Pet Penance Queen"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "301",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/3,000",
+        "source": "Thermonuclear smoke devil"
+      }
+    ],
+    "group": "Pet Smoke Devil",
+    "name": "Pet Smoke Devil"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "725",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/4,000",
+        "source": "Zulrah"
+      }
+    ],
+    "group": "Pet Snakeling",
+    "name": "Pet Snakeling"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "596",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,000",
+        "source": "Commander Zilyana"
+      }
+    ],
+    "group": "Pet Zilyana",
+    "name": "Pet Zilyana"
   },
   {
     "dropSources": [
@@ -201375,118 +201615,6 @@
     ],
     "group": "Pet dark core",
     "name": "Pet dark core"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "624",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,000",
-        "source": "General Graardor"
-      }
-    ],
-    "group": "Pet general graardor",
-    "name": "Pet general graardor"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "650",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,000",
-        "source": "K'ril Tsutsaroth"
-      }
-    ],
-    "group": "Pet k'ril tsutsaroth",
-    "name": "Pet k'ril tsutsaroth"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "291",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/3,000",
-        "source": "Kraken"
-      }
-    ],
-    "group": "Pet kraken",
-    "name": "Pet kraken"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "580",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,000",
-        "source": "Kree'arra"
-      }
-    ],
-    "group": "Pet kree'arra",
-    "name": "Pet kree'arra"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/1,000",
-        "source": "Barbarian Assault/Gambles#High"
-      }
-    ],
-    "group": "Pet penance queen",
-    "name": "Pet penance queen"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "301",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/3,000",
-        "source": "Thermonuclear smoke devil"
-      }
-    ],
-    "group": "Pet smoke devil",
-    "name": "Pet smoke devil"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "725",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/4,000",
-        "source": "Zulrah"
-      }
-    ],
-    "group": "Pet snakeling",
-    "name": "Pet snakeling"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "596",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,000",
-        "source": "Commander Zilyana"
-      }
-    ],
-    "group": "Pet zilyana",
-    "name": "Pet zilyana"
   },
   {
     "dropSources": [
@@ -206434,8 +206562,8 @@
         "source": "King Black Dragon"
       }
     ],
-    "group": "Prince black dragon",
-    "name": "Prince black dragon"
+    "group": "Prince Black Dragon",
+    "name": "Prince Black Dragon"
   },
   {
     "dropSources": [
@@ -207914,7 +208042,7 @@
         "source": "Rabbit"
       },
       {
-        "dropLevel": "",
+        "dropLevel": "2",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -208542,7 +208670,7 @@
         "source": "Gorad"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 2,
         "quantityLow": 1,
@@ -209679,6 +209807,14 @@
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "82",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Boat fishing spot (anglerfish)"
+      },
       {
         "dropLevel": "192",
         "dropType": "combat",
@@ -211283,6 +211419,14 @@
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "65",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Boat fishing spot (karambwan)"
+      },
       {
         "dropLevel": "65",
         "dropType": "fishing",
@@ -215546,6 +215690,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Vine (McGrubor's Wood)"
+      }
+    ],
+    "group": "Red vine worm",
+    "name": "Red vine worm"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "25",
         "dropType": "thieving",
         "quantityHigh": 1,
@@ -216900,7 +217058,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -218212,7 +218370,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "25",
@@ -219517,7 +219675,7 @@
         "source": "General Graardor"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -225211,7 +225369,7 @@
         "source": "Gold Chest (red)"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -226651,8 +226809,8 @@
         "source": "Reward casket (beginner)"
       }
     ],
-    "group": "Rune scimitar ornament kit (guthix)",
-    "name": "Rune scimitar ornament kit (guthix)"
+    "group": "Rune scimitar ornament kit (Guthix)",
+    "name": "Rune scimitar ornament kit (Guthix)"
   },
   {
     "dropSources": [
@@ -226665,8 +226823,8 @@
         "source": "Reward casket (beginner)"
       }
     ],
-    "group": "Rune scimitar ornament kit (saradomin)",
-    "name": "Rune scimitar ornament kit (saradomin)"
+    "group": "Rune scimitar ornament kit (Saradomin)",
+    "name": "Rune scimitar ornament kit (Saradomin)"
   },
   {
     "dropSources": [
@@ -226679,8 +226837,8 @@
         "source": "Reward casket (beginner)"
       }
     ],
-    "group": "Rune scimitar ornament kit (zamorak)",
-    "name": "Rune scimitar ornament kit (zamorak)"
+    "group": "Rune scimitar ornament kit (Zamorak)",
+    "name": "Rune scimitar ornament kit (Zamorak)"
   },
   {
     "dropSources": [
@@ -228355,7 +228513,7 @@
         "source": "Gnormadium Avlafrim"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 300,
         "quantityLow": 100,
@@ -229875,7 +230033,7 @@
         "source": "Coffin (Hallowed Sepulchre)#High"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 2,
         "quantityLow": 1,
@@ -236258,7 +236416,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/42",
+        "rarity": "1/8",
         "source": "Abyssal guardian"
       },
       {
@@ -236274,7 +236432,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/42",
+        "rarity": "1/5",
         "source": "Abyssal walker"
       },
       {
@@ -236518,8 +236676,8 @@
         "source": "Rewards Chest (Fortis Colosseum)#Wave 12"
       }
     ],
-    "group": "Smol heredit",
-    "name": "Smol heredit"
+    "group": "Smol Heredit",
+    "name": "Smol Heredit"
   },
   {
     "dropSources": [
@@ -240710,7 +240868,7 @@
         "source": "Gold Chest (red)"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "84",
         "dropType": "thieving",
         "quantityHigh": 250,
         "quantityLow": 150,
@@ -241237,7 +241395,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Chest (Dorgesh-Kaan Average)#Zanik's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Zanik's chests"
       },
       {
         "dropLevel": "25",
@@ -242822,8 +242980,8 @@
         "source": "K'ril Tsutsaroth"
       }
     ],
-    "group": "Staff of the dead",
-    "name": "Staff of the dead"
+    "group": "Staff of the Dead",
+    "name": "Staff of the Dead"
   },
   {
     "dropSources": [
@@ -267944,6 +268102,14 @@
         "source": "Pee Hat"
       },
       {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/4",
+        "source": "Reanimated troll"
+      },
+      {
         "dropLevel": "14,29,49,79,120,159",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -268466,7 +268632,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/69",
+        "rarity": "2/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/56",
         "source": "Ancient chest"
       }
     ],
@@ -268480,7 +268654,15 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/69",
+        "rarity": "4/60",
+        "source": "Ancient chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/56",
         "source": "Ancient chest"
       }
     ],
@@ -268508,6 +268690,20 @@
     ],
     "group": "Tyrannical ring",
     "name": "Tyrannical ring"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "702",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/200",
+        "source": "TzTok-Jad"
+      }
+    ],
+    "group": "TzRek-Jad",
+    "name": "TzRek-Jad"
   },
   {
     "dropSources": [
@@ -268544,20 +268740,6 @@
     ],
     "group": "Tzhaar-ket-om ornament kit",
     "name": "Tzhaar-ket-om ornament kit"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "702",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/200",
-        "source": "TzTok-Jad"
-      }
-    ],
-    "group": "Tzrek-jad",
-    "name": "Tzrek-jad"
   },
   {
     "dropSources": [
@@ -269345,7 +269527,7 @@
         "dropType": "crafting",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "5/110",
+        "rarity": "1/23",
         "source": "Golem crafting"
       },
       {
@@ -270517,7 +270699,7 @@
         "dropType": "crafting",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "24/110",
+        "rarity": "5/23",
         "source": "Golem crafting"
       },
       {
@@ -272403,7 +272585,7 @@
         "dropType": "crafting",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "10/110",
+        "rarity": "2/23",
         "source": "Golem crafting"
       },
       {
@@ -272506,7 +272688,7 @@
         "dropLevel": "741",
         "dropType": "combat",
         "quantityHigh": 13,
-        "quantityLow": 6,
+        "quantityLow": 10,
         "rarity": "15/159",
         "source": "Maggot King"
       },
@@ -273385,7 +273567,7 @@
         "dropType": "crafting",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "71/110",
+        "rarity": "15/23",
         "source": "Golem crafting"
       },
       {
@@ -273997,6 +274179,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Black unicorn"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Reanimated unicorn"
       },
       {
         "dropLevel": "15",
@@ -275043,7 +275233,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "291",
@@ -275174,7 +275364,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "454,681",
+        "dropLevel": "",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -275328,6 +275518,20 @@
     ],
     "group": "Vampyre kraken tentacle",
     "name": "Vampyre kraken tentacle"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "346",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Vampyre Snail"
+      }
+    ],
+    "group": "Vampyre snelm",
+    "name": "Vampyre snelm"
   },
   {
     "dropSources": [
@@ -279083,7 +279287,7 @@
         "quantityHigh": 19,
         "quantityLow": 10,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "",
@@ -280377,7 +280581,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/20",
-        "source": "Chest (Dorgesh-Kaan Average)#Oldak's house"
+        "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
       },
       {
         "dropLevel": "88",
@@ -283606,6 +283810,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "40",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Fishing spot (Hemenster)"
+      }
+    ],
+    "group": "Whitefish",
+    "name": "Whitefish"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "890",
         "dropType": "combat",
         "quantityHigh": 3,
@@ -285488,8 +285706,8 @@
         "source": "Zoja"
       }
     ],
-    "group": "Wine of zamorak",
-    "name": "Wine of zamorak"
+    "group": "Wine of Zamorak",
+    "name": "Wine of Zamorak"
   },
   {
     "dropSources": [
@@ -288499,12 +288717,20 @@
         "source": "Elder Chaos druid"
       },
       {
-        "dropLevel": "17,22,23,30,45",
+        "dropLevel": "17,22,23,45",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/20",
         "source": "Monk of Zamorak"
+      },
+      {
+        "dropLevel": "17,22,30",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/20",
+        "source": "Monk of Zamorak (Paterdomus)"
       },
       {
         "dropLevel": "26",
@@ -288553,12 +288779,20 @@
         "source": "Elder Chaos druid"
       },
       {
-        "dropLevel": "17,22,23,30,45",
+        "dropLevel": "17,22,23,45",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/20",
         "source": "Monk of Zamorak"
+      },
+      {
+        "dropLevel": "17,22,30",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/20",
+        "source": "Monk of Zamorak (Paterdomus)"
       },
       {
         "dropLevel": "26",

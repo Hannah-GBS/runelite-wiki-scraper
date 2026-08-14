@@ -8162,7 +8162,7 @@
       {
         "coords": "2539,2217",
         "isMembers": true,
-        "location": "Wyrmsgraig - Ardeaglais",
+        "location": "Wyrmscraig - Ardeaglais",
         "mapID": "0",
         "name": "Papyrus",
         "plane": "0"
@@ -10248,14 +10248,14 @@
     ]
   },
   {
-    "group": "Staff of armadyl",
+    "group": "Staff of Armadyl",
     "spawns": [
       {
         "coords": "2638,9906",
         "isMembers": true,
         "location": "Temple of Ikov",
         "mapID": "10147",
-        "name": "Staff of armadyl",
+        "name": "Staff of Armadyl",
         "plane": "0"
       }
     ]
@@ -11410,14 +11410,14 @@
     ]
   },
   {
-    "group": "Wine of zamorak",
+    "group": "Wine of Zamorak",
     "spawns": [
       {
         "coords": "2930,3515",
         "isMembers": false,
         "location": "Asgarnia - Chaos Temple",
         "mapID": "0",
-        "name": "Wine of zamorak",
+        "name": "Wine of Zamorak",
         "plane": "0"
       },
       {
@@ -11425,7 +11425,7 @@
         "isMembers": false,
         "location": "Asgarnia - Chaos Temple (1st floor)",
         "mapID": "0",
-        "name": "Wine of zamorak",
+        "name": "Wine of Zamorak",
         "plane": "1"
       },
       {
@@ -11433,7 +11433,7 @@
         "isMembers": false,
         "location": "Wilderness - Chaos Temple",
         "mapID": "0",
-        "name": "Wine of zamorak",
+        "name": "Wine of Zamorak",
         "plane": "0"
       },
       {
@@ -11441,7 +11441,7 @@
         "isMembers": true,
         "location": "Wilderness - Deep Wilderness Dungeon",
         "mapID": "26",
-        "name": "Wine of zamorak",
+        "name": "Wine of Zamorak",
         "plane": "0"
       }
     ]

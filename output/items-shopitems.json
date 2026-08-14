@@ -27274,56 +27274,56 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Crystal of amlodd",
+        "name": "Crystal of Amlodd",
         "stock": "10",
         "version": null
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Crystal of cadarn",
+        "name": "Crystal of Cadarn",
         "stock": "10",
         "version": null
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Crystal of crwys",
+        "name": "Crystal of Crwys",
         "stock": "10",
         "version": null
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Crystal of hefin",
+        "name": "Crystal of Hefin",
         "stock": "10",
         "version": null
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Crystal of iorwerth",
+        "name": "Crystal of Iorwerth",
         "stock": "10",
         "version": null
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Crystal of ithell",
+        "name": "Crystal of Ithell",
         "stock": "10",
         "version": null
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Crystal of meilyr",
+        "name": "Crystal of Meilyr",
         "stock": "10",
         "version": null
       },
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Crystal of trahaearn",
+        "name": "Crystal of Trahaearn",
         "stock": "10",
         "version": null
       },
@@ -27559,7 +27559,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Book of balance",
+        "name": "Book of Balance",
         "sellPrice": "12000",
         "stock": "inf",
         "version": null
@@ -27567,7 +27567,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Book of darkness",
+        "name": "Book of Darkness",
         "sellPrice": "14000",
         "stock": "inf",
         "version": null
@@ -27575,7 +27575,15 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Book of law",
+        "name": "Book of Law",
+        "sellPrice": "14000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Book of War",
         "sellPrice": "14000",
         "stock": "inf",
         "version": null
@@ -27585,14 +27593,6 @@
         "currency": "Coins",
         "name": "Book of the dead",
         "sellPrice": "9500",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Book of war",
-        "sellPrice": "14000",
         "stock": "inf",
         "version": null
       },
@@ -27759,7 +27759,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Imbued guthix cape",
+        "name": "Imbued Guthix cape",
         "sellPrice": "250000",
         "stock": "inf",
         "version": null
@@ -27767,7 +27767,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Imbued saradomin cape",
+        "name": "Imbued Saradomin cape",
         "sellPrice": "250000",
         "stock": "inf",
         "version": null
@@ -27775,7 +27775,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Imbued zamorak cape",
+        "name": "Imbued Zamorak cape",
         "sellPrice": "250000",
         "stock": "inf",
         "version": null
