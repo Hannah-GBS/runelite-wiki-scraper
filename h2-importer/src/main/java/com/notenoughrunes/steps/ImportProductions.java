@@ -1,8 +1,6 @@
 package com.notenoughrunes.steps;
 
 import com.notenoughrunes.H2Importer;
-import static com.notenoughrunes.H2Importer.SELECT_LAST;
-import static com.notenoughrunes.H2Importer.getLast;
 import com.notenoughrunes.model.NERInfoItem;
 import com.notenoughrunes.model.NERProductionMaterial;
 import com.notenoughrunes.model.NERProductionRecipe;
@@ -10,7 +8,6 @@ import com.notenoughrunes.model.NERProductionSkill;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.sql.Statement;
 import java.util.Set;
 import lombok.extern.slf4j.Slf4j;
 

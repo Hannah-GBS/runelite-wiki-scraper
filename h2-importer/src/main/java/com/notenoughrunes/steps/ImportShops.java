@@ -1,7 +1,6 @@
 package com.notenoughrunes.steps;
 
 import com.notenoughrunes.H2Importer;
-import static com.notenoughrunes.H2Importer.getLast;
 import com.notenoughrunes.model.NERInfoItem;
 import com.notenoughrunes.model.NERShop;
 import com.notenoughrunes.model.NERShopItem;

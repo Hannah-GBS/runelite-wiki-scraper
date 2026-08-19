@@ -12,17 +12,13 @@ import java.io.File;
 import java.nio.file.Files;
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.time.Duration;
 import java.time.Instant;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
-import java.util.Objects;
 import java.util.Optional;
 import java.util.Set;
-import java.util.stream.Collectors;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -32,9 +28,6 @@ import org.apache.commons.text.similarity.LevenshteinDistance;
 @RequiredArgsConstructor
 public class H2Importer
 {
-
-	public static final String SELECT_LAST = "SELECT last_insert_rowid()";
-	
 	@Getter
 	private static File inputDir;
 
@@ -89,67 +82,27 @@ public class H2Importer
 	{
 		StringBuilder sb = new StringBuilder("jdbc:sqlite:");
 		sb.append(fileName);
-		
-//		for (String p : parameters) {
-//			sb.append(';');
-//			sb.append(p);
-//		}
-		
+
 		return sb.toString();
 	}
 
-	public static int getItemId(Set<NERInfoItem> items, String itemName, String version) {
-		Set<NERInfoItem> matchedItems = items.stream()
-			.filter(item -> item.getName().contains(itemName) || itemName.contains(item.getName())
-			|| item.getGroup().contains(itemName) || itemName.contains(item.getGroup()))
-			.collect(Collectors.toSet());
 
-		return matchedItems.stream()
-			.min(compareNameAndGroup(itemName, version))
-			.orElse(new NERInfoItem("null item", "", "", "", "", 0, false, false, false))
-			.getItemID();
-	}
-
-	public static int getItemIdPrecise(Set<NERInfoItem> items, String itemName, String version) {
+	public static int getItemIdPrecise(Set<NERInfoItem> items, String itemGroupName, String version) {
 		Optional<NERInfoItem> matchedItem = items.stream().filter(item ->
 		{
 			if (version != null && item.getVersion() != null)
 			{
-				return item.getGroup().equals(itemName) && item.getVersion().equals(version);
+				return item.getGroup().equals(itemGroupName) && item.getVersion().equals(version);
 			} else {
-				return item.getGroup().equals(itemName) && item.isDefaultVersion();
+				return item.getGroup().equals(itemGroupName) && item.isDefaultVersion();
 			}
 		}).findFirst();
 
 		if (matchedItem.isPresent()) {
 			return matchedItem.get().getItemID();
 		} else {
-			log.warn("No item matched for {}#{}", itemName, version);
+			log.warn("No item matched for {}#{}", itemGroupName, version);
 			return 20594; // Bank filler ID
 		}
 	}
-
-	private static Comparator<NERInfoItem> compareNameAndGroup(String itemName, String version) {
-		return Comparator.comparing((NERInfoItem item) -> new LevenshteinDistance().apply(item.getGroup(), itemName))
-			.thenComparing(item -> new LevenshteinDistance().apply(item.getVersion() != null && itemName.toLowerCase().contains(item.getVersion().toLowerCase()) ? item.getVersion() : "", itemName))
-			.thenComparing(item -> new LevenshteinDistance().apply(item.getName(), itemName))
-			.thenComparing(item -> new LevenshteinDistance().apply(item.getVersion() != null ? item.getVersion() : "", version != null ? version : ""))
-			.thenComparing(NERInfoItem::getItemID);
-	}
-
-	public static int getLast(Connection db) throws Exception
-	{
-		try (PreparedStatement ps = db.prepareStatement(SELECT_LAST))
-		{
-			ResultSet rs = ps.executeQuery();
-			rs.first();
-			return rs.getInt(1);
-		}
-		catch (Exception e)
-		{
-			log.error("select last failed");
-			throw e;
-		}
-	}
-
 }
