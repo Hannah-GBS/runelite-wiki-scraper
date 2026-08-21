@@ -958,7 +958,7 @@
       {
         "coords": "1636,2934",
         "isMembers": true,
-        "location": "Colossal Wyrm (2 require telegrab)",
+        "location": "Colossal Wyrm Remains (2 require telegrab)",
         "mapID": "0",
         "name": "Bones",
         "plane": "0"
@@ -1956,19 +1956,6 @@
     ]
   },
   {
-    "group": "Broken hasta (tortugan)",
-    "spawns": [
-      {
-        "coords": "3172,2428",
-        "isMembers": true,
-        "location": "The Summer Shore - Elder Blunn's house",
-        "mapID": "0",
-        "name": "Broken hasta (tortugan)",
-        "plane": "0"
-      }
-    ]
-  },
-  {
     "group": "Broken pole",
     "spawns": [
       {
@@ -2207,7 +2194,7 @@
       {
         "coords": "3016,3244",
         "isMembers": false,
-        "location": "Port Sarim - Grum's Gold Exchange (1st floor)",
+        "location": "Port Sarim - (1st floor)",
         "mapID": "0",
         "name": "Bronze bolts",
         "plane": "1"
@@ -3294,7 +3281,7 @@
         "isMembers": true,
         "location": "Cam Torum",
         "mapID": "-1",
-        "name": "Burnt Chicken",
+        "name": "Burnt chicken",
         "plane": "1"
       }
     ]
@@ -3320,7 +3307,7 @@
         "isMembers": true,
         "location": "Catherby - Caleb's house",
         "mapID": "0",
-        "name": "Burnt Fish (herring)",
+        "name": "Burnt fish (herring)",
         "plane": "0"
       }
     ]
@@ -4960,14 +4947,14 @@
     ]
   },
   {
-    "group": "Explosive discovery",
+    "group": "Explosive Discovery",
     "spawns": [
       {
         "coords": "3734,3318",
         "isMembers": true,
         "location": "Slepe - church (2nd floor)",
         "mapID": "0",
-        "name": "Explosive discovery",
+        "name": "Explosive Discovery",
         "plane": "2"
       }
     ]
@@ -5215,19 +5202,6 @@
         "location": "Mudskipper Point",
         "mapID": "0",
         "name": "Forlorn boot",
-        "plane": "0"
-      }
-    ]
-  },
-  {
-    "group": "Fossilised skull (tortugan)",
-    "spawns": [
-      {
-        "coords": "3168,2399",
-        "isMembers": true,
-        "location": "The Summer Shore - Elder Coco's house",
-        "mapID": "0",
-        "name": "Fossilised skull (tortugan)",
         "plane": "0"
       }
     ]
@@ -8019,7 +7993,7 @@
         "isMembers": true,
         "location": "Shayzien - Secluded Chapel",
         "mapID": "0",
-        "name": "Old note (Secluded chapel)",
+        "name": "Old note (Secluded Chapel)",
         "plane": "0"
       }
     ]
@@ -9106,7 +9080,7 @@
       {
         "coords": "2700,10163",
         "isMembers": true,
-        "location": "Brine Rat Cavern",
+        "location": "Brine Rat Cavern - special spawn",
         "mapID": "10026",
         "name": "Rope",
         "plane": "0"
@@ -9827,7 +9801,7 @@
         "isMembers": true,
         "location": "Feldip Hills - north of the Corsair Cove Resource Area",
         "mapID": "0",
-        "name": "Skull",
+        "name": "Skull (item)",
         "plane": "0"
       },
       {
@@ -9835,7 +9809,7 @@
         "isMembers": true,
         "location": "Lovakengj - north-west of the Kourend Castle",
         "mapID": "0",
-        "name": "Skull",
+        "name": "Skull (item)",
         "plane": "0"
       },
       {
@@ -9843,7 +9817,7 @@
         "isMembers": true,
         "location": "Shayzien",
         "mapID": "0",
-        "name": "Skull",
+        "name": "Skull (item)",
         "plane": "0"
       },
       {
@@ -9851,7 +9825,7 @@
         "isMembers": true,
         "location": "Sisterhood Sanctuary",
         "mapID": "14",
-        "name": "Skull",
+        "name": "Skull (item)",
         "plane": "0"
       },
       {
@@ -9859,7 +9833,7 @@
         "isMembers": false,
         "location": "Wilderness - Bone Yard",
         "mapID": "0",
-        "name": "Skull",
+        "name": "Skull (item)",
         "plane": "0"
       },
       {
@@ -9867,7 +9841,7 @@
         "isMembers": false,
         "location": "Wilderness - north-east of Goblin Village",
         "mapID": "0",
-        "name": "Skull",
+        "name": "Skull (item)",
         "plane": "0"
       }
     ]
@@ -10214,19 +10188,6 @@
     ]
   },
   {
-    "group": "Spirit angler headband (tortugan)",
-    "spawns": [
-      {
-        "coords": "3167,2423",
-        "isMembers": true,
-        "location": "The Summer Shore - Elder Krill's house",
-        "mapID": "0",
-        "name": "Spirit angler headband",
-        "plane": "0"
-      }
-    ]
-  },
-  {
     "group": "Staff",
     "spawns": [
       {
@@ -10498,7 +10459,7 @@
         "isMembers": true,
         "location": "Werewolf Agility Course",
         "mapID": "14",
-        "name": "Stick",
+        "name": "Stick (item)",
         "plane": "0"
       }
     ]
@@ -10701,19 +10662,6 @@
     ]
   },
   {
-    "group": "Tankard (tortugan)",
-    "spawns": [
-      {
-        "coords": "3133,2413",
-        "isMembers": true,
-        "location": "The Summer Shore - westernmost house (1st floor)",
-        "mapID": "0",
-        "name": "Tankard",
-        "plane": "1"
-      }
-    ]
-  },
-  {
     "group": "Tarn's diary",
     "spawns": [
       {
@@ -10753,14 +10701,14 @@
     ]
   },
   {
-    "group": "The turncloak",
+    "group": "The Turncloak",
     "spawns": [
       {
         "coords": "3730,3354",
         "isMembers": true,
         "location": "Slepe - Crombwick Manor (1st floor)",
         "mapID": "0",
-        "name": "The turncloak",
+        "name": "The Turncloak",
         "plane": "1"
       }
     ]
