@@ -56,8 +56,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age amulet",
-    "name": "3rd age amulet"
+    "group": "3rd Age amulet",
+    "name": "3rd Age amulet"
   },
   {
     "dropSources": [
@@ -86,46 +86,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age axe",
-    "name": "3rd age axe"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/249,262.5",
-        "source": "Reward casket (elite)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/313,168",
-        "source": "Reward casket (master)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,750",
-        "source": "The Mimic#Elite"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,244",
-        "source": "The Mimic#Master"
-      }
-    ],
-    "group": "3rd age bow",
-    "name": "3rd age bow"
+    "group": "3rd Age axe",
+    "name": "3rd Age axe"
   },
   {
     "dropSources": [
@@ -162,128 +124,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age cloak",
-    "name": "3rd age cloak"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/313,168",
-        "source": "Reward casket (master)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,750",
-        "source": "The Mimic#Elite"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,244",
-        "source": "The Mimic#Master"
-      }
-    ],
-    "group": "3rd age druidic cloak",
-    "name": "3rd age druidic cloak"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/313,168",
-        "source": "Reward casket (master)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,750",
-        "source": "The Mimic#Elite"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,244",
-        "source": "The Mimic#Master"
-      }
-    ],
-    "group": "3rd age druidic robe bottoms",
-    "name": "3rd age druidic robe bottoms"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/313,168",
-        "source": "Reward casket (master)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,750",
-        "source": "The Mimic#Elite"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,244",
-        "source": "The Mimic#Master"
-      }
-    ],
-    "group": "3rd age druidic robe top",
-    "name": "3rd age druidic robe top"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/313,168",
-        "source": "Reward casket (master)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,750",
-        "source": "The Mimic#Elite"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,244",
-        "source": "The Mimic#Master"
-      }
-    ],
-    "group": "3rd age druidic staff",
-    "name": "3rd age druidic staff"
+    "group": "3rd Age bow",
+    "name": "3rd Age bow"
   },
   {
     "dropSources": [
@@ -300,9 +142,31 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/211,250",
-        "source": "Reward casket (hard)"
+        "rarity": "1/313,168",
+        "source": "Reward casket (master)"
       },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,750",
+        "source": "The Mimic#Elite"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,244",
+        "source": "The Mimic#Master"
+      }
+    ],
+    "group": "3rd Age cloak",
+    "name": "3rd Age cloak"
+  },
+  {
+    "dropSources": [
       {
         "dropLevel": "",
         "dropType": "reward",
@@ -328,8 +192,98 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age full helmet",
-    "name": "3rd age full helmet"
+    "group": "3rd Age druidic cloak",
+    "name": "3rd Age druidic cloak"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/313,168",
+        "source": "Reward casket (master)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,750",
+        "source": "The Mimic#Elite"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,244",
+        "source": "The Mimic#Master"
+      }
+    ],
+    "group": "3rd Age druidic robe bottoms",
+    "name": "3rd Age druidic robe bottoms"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/313,168",
+        "source": "Reward casket (master)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,750",
+        "source": "The Mimic#Elite"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,244",
+        "source": "The Mimic#Master"
+      }
+    ],
+    "group": "3rd Age druidic robe top",
+    "name": "3rd Age druidic robe top"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/313,168",
+        "source": "Reward casket (master)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,750",
+        "source": "The Mimic#Elite"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,244",
+        "source": "The Mimic#Master"
+      }
+    ],
+    "group": "3rd Age druidic staff",
+    "name": "3rd Age druidic staff"
   },
   {
     "dropSources": [
@@ -374,46 +328,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age kiteshield",
-    "name": "3rd age kiteshield"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/249,262.5",
-        "source": "Reward casket (elite)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/313,168",
-        "source": "Reward casket (master)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,750",
-        "source": "The Mimic#Elite"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5,244",
-        "source": "The Mimic#Master"
-      }
-    ],
-    "group": "3rd age longsword",
-    "name": "3rd age longsword"
+    "group": "3rd Age full helmet",
+    "name": "3rd Age full helmet"
   },
   {
     "dropSources": [
@@ -458,11 +374,19 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age mage hat",
-    "name": "3rd age mage hat"
+    "group": "3rd Age kiteshield",
+    "name": "3rd Age kiteshield"
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/249,262.5",
+        "source": "Reward casket (elite)"
+      },
       {
         "dropLevel": "",
         "dropType": "reward",
@@ -488,8 +412,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age pickaxe",
-    "name": "3rd age pickaxe"
+    "group": "3rd Age longsword",
+    "name": "3rd Age longsword"
   },
   {
     "dropSources": [
@@ -534,8 +458,38 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age platebody",
-    "name": "3rd age platebody"
+    "group": "3rd Age mage hat",
+    "name": "3rd Age mage hat"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/313,168",
+        "source": "Reward casket (master)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,750",
+        "source": "The Mimic#Elite"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,244",
+        "source": "The Mimic#Master"
+      }
+    ],
+    "group": "3rd Age pickaxe",
+    "name": "3rd Age pickaxe"
   },
   {
     "dropSources": [
@@ -580,8 +534,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age platelegs",
-    "name": "3rd age platelegs"
+    "group": "3rd Age platebody",
+    "name": "3rd Age platebody"
   },
   {
     "dropSources": [
@@ -626,8 +580,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age plateskirt",
-    "name": "3rd age plateskirt"
+    "group": "3rd Age platelegs",
+    "name": "3rd Age platelegs"
   },
   {
     "dropSources": [
@@ -672,8 +626,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age range coif",
-    "name": "3rd age range coif"
+    "group": "3rd Age plateskirt",
+    "name": "3rd Age plateskirt"
   },
   {
     "dropSources": [
@@ -718,8 +672,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age range legs",
-    "name": "3rd age range legs"
+    "group": "3rd Age range coif",
+    "name": "3rd Age range coif"
   },
   {
     "dropSources": [
@@ -764,8 +718,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age range top",
-    "name": "3rd age range top"
+    "group": "3rd Age range legs",
+    "name": "3rd Age range legs"
   },
   {
     "dropSources": [
@@ -810,8 +764,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age robe",
-    "name": "3rd age robe"
+    "group": "3rd Age range top",
+    "name": "3rd Age range top"
   },
   {
     "dropSources": [
@@ -856,8 +810,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age robe top",
-    "name": "3rd age robe top"
+    "group": "3rd Age robe",
+    "name": "3rd Age robe"
   },
   {
     "dropSources": [
@@ -902,8 +856,54 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age vambraces",
-    "name": "3rd age vambraces"
+    "group": "3rd Age robe top",
+    "name": "3rd Age robe top"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/249,262.5",
+        "source": "Reward casket (elite)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/211,250",
+        "source": "Reward casket (hard)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/313,168",
+        "source": "Reward casket (master)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,750",
+        "source": "The Mimic#Elite"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,244",
+        "source": "The Mimic#Master"
+      }
+    ],
+    "group": "3rd Age vambraces",
+    "name": "3rd Age vambraces"
   },
   {
     "dropSources": [
@@ -940,8 +940,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "3rd age wand",
-    "name": "3rd age wand"
+    "group": "3rd Age wand",
+    "name": "3rd Age wand"
   },
   {
     "dropSources": [
@@ -2985,7 +2985,7 @@
         "quantityHigh": 170,
         "quantityLow": 150,
         "rarity": "1/9",
-        "source": "Spoils of war"
+        "source": "Spoils of War"
       },
       {
         "dropLevel": "141,142",
@@ -10692,6 +10692,48 @@
   {
     "dropSources": [
       {
+        "dropLevel": "91",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Doomion"
+      }
+    ],
+    "group": "Amulet of Doomion",
+    "name": "Amulet of Doomion"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "91",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Holthion"
+      }
+    ],
+    "group": "Amulet of Holthion",
+    "name": "Amulet of Holthion"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "91",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Othainian"
+      }
+    ],
+    "group": "Amulet of Othanian",
+    "name": "Amulet of Othanian"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "82",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -10958,20 +11000,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "91",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Doomion"
-      }
-    ],
-    "group": "Amulet of doomion",
-    "name": "Amulet of doomion"
-  },
-  {
-    "dropSources": [
-      {
         "dropLevel": "83,93",
         "dropType": "hunter",
         "quantityHigh": 3,
@@ -11005,20 +11033,6 @@
     "group": "Amulet of glory (t)",
     "name": "Amulet of glory (t4)",
     "version": "(t4)"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "91",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Holthion"
-      }
-    ],
-    "group": "Amulet of holthion",
-    "name": "Amulet of holthion"
   },
   {
     "dropSources": [
@@ -11151,20 +11165,6 @@
     ],
     "group": "Amulet of magic (t)",
     "name": "Amulet of magic (t)"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "91",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Othainian"
-      }
-    ],
-    "group": "Amulet of othanian",
-    "name": "Amulet of othanian"
   },
   {
     "dropSources": [
@@ -11443,8 +11443,8 @@
         "source": "Silver Chest (red)"
       }
     ],
-    "group": "Amulet of the damned",
-    "name": "Amulet of the damned (full)",
+    "group": "Amulet of the Damned",
+    "name": "Amulet of the Damned (full)",
     "version": "Full"
   },
   {
@@ -15521,8 +15521,8 @@
         "source": "Nylocas Vasilias"
       }
     ],
-    "group": "Arachnids of vampyrium",
-    "name": "Arachnids of vampyrium"
+    "group": "Arachnids of Vampyrium",
+    "name": "Arachnids of Vampyrium"
   },
   {
     "dropSources": [
@@ -19097,11 +19097,11 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
-        "source": "Boxes (Ballad of the basilisk)"
+        "source": "Boxes (Ballad of the Basilisk)"
       }
     ],
-    "group": "Ballad of the basilisk",
-    "name": "Ballad of the basilisk"
+    "group": "Ballad of the Basilisk",
+    "name": "Ballad of the Basilisk"
   },
   {
     "dropSources": [
@@ -19204,6 +19204,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Crate (Food Store, banana)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (banana)"
       },
       {
         "dropLevel": "5",
@@ -26676,7 +26684,7 @@
         "dropType": "hunter",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/75",
+        "rarity": "1/40",
         "source": "Black warlock"
       }
     ],
@@ -31280,7 +31288,7 @@
         "quantityHigh": 15,
         "quantityLow": 10,
         "rarity": "1/9",
-        "source": "Spoils of war"
+        "source": "Spoils of War"
       },
       {
         "dropLevel": "",
@@ -31702,7 +31710,7 @@
         "quantityHigh": 35,
         "quantityLow": 25,
         "rarity": "1/9",
-        "source": "Spoils of war"
+        "source": "Spoils of War"
       },
       {
         "dropLevel": "464",
@@ -32338,7 +32346,7 @@
         "quantityHigh": 45,
         "quantityLow": 35,
         "rarity": "1/9",
-        "source": "Spoils of war"
+        "source": "Spoils of War"
       },
       {
         "dropLevel": "464",
@@ -32808,7 +32816,7 @@
         "quantityHigh": 25,
         "quantityLow": 15,
         "rarity": "1/9",
-        "source": "Spoils of war"
+        "source": "Spoils of War"
       },
       {
         "dropLevel": "",
@@ -33365,7 +33373,7 @@
         "quantityHigh": 4,
         "quantityLow": 4,
         "rarity": "1/9",
-        "source": "Spoils of war"
+        "source": "Spoils of War"
       },
       {
         "dropLevel": "464",
@@ -33818,7 +33826,7 @@
         "quantityHigh": 30,
         "quantityLow": 20,
         "rarity": "1/9",
-        "source": "Spoils of war"
+        "source": "Spoils of War"
       }
     ],
     "group": "Blighted vengeance sack",
@@ -36251,7 +36259,7 @@
         "dropType": "hunter",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/75",
+        "rarity": "1/40",
         "source": "Sapphire glacialis"
       }
     ],
@@ -42950,8 +42958,8 @@
         "source": "Chest (Tombs of Amascut)"
       }
     ],
-    "group": "Breach of the scarab",
-    "name": "Breach of the scarab"
+    "group": "Breach of the Scarab",
+    "name": "Breach of the Scarab"
   },
   {
     "dropSources": [
@@ -43968,8 +43976,48 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/1,648",
         "source": "Reanimated abyssal"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,648",
+        "source": "Reanimated aviansie"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,648",
+        "source": "Reanimated bloodveld"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,648",
+        "source": "Reanimated dagannoth"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,648",
+        "source": "Reanimated hellhound"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,648",
+        "source": "Reanimated kalphite"
       },
       {
         "dropLevel": "152",
@@ -47467,6 +47515,14 @@
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (bronze scimitar)"
+      },
       {
         "dropLevel": "5",
         "dropType": "combat",
@@ -56545,6 +56601,14 @@
         "source": "Crafting stall"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (chisel)"
+      },
+      {
         "dropLevel": "15",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -57045,6 +57109,14 @@
         "source": "Christmas cracker"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Curator Haig Halen"
+      },
+      {
         "dropLevel": "28,38",
         "dropType": "hunter",
         "quantityHigh": 1,
@@ -57292,8 +57364,8 @@
         "source": "Callisto"
       }
     ],
-    "group": "Claws of callisto",
-    "name": "Claws of callisto"
+    "group": "Claws of Callisto",
+    "name": "Claws of Callisto"
   },
   {
     "dropSources": [
@@ -57698,7 +57770,7 @@
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/60",
         "source": "Rod Fishing spot (anglerfish)"
       },
       {
@@ -57896,7 +57968,7 @@
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/514",
         "source": "Rod Fishing spot (anglerfish)"
       },
       {
@@ -58094,7 +58166,7 @@
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/3,024",
         "source": "Rod Fishing spot (anglerfish)"
       },
       {
@@ -58292,7 +58364,7 @@
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/998",
         "source": "Rod Fishing spot (anglerfish)"
       },
       {
@@ -58506,7 +58578,7 @@
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/604",
         "source": "Rod Fishing spot (anglerfish)"
       },
       {
@@ -58740,11 +58812,19 @@
         "source": "Soft clay rocks"
       },
       {
-        "dropLevel": "50",
+        "dropLevel": "53",
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/1,027",
+        "source": "Sunstone monolith"
+      },
+      {
+        "dropLevel": "53",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,027",
         "source": "Sunstone rocks"
       },
       {
@@ -58962,11 +59042,19 @@
         "source": "Soft clay rocks"
       },
       {
-        "dropLevel": "50",
+        "dropLevel": "53",
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/8,737",
+        "source": "Sunstone monolith"
+      },
+      {
+        "dropLevel": "53",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/8,737",
         "source": "Sunstone rocks"
       },
       {
@@ -59184,11 +59272,19 @@
         "source": "Soft clay rocks"
       },
       {
-        "dropLevel": "50",
+        "dropLevel": "53",
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/51,397",
+        "source": "Sunstone monolith"
+      },
+      {
+        "dropLevel": "53",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/51,397",
         "source": "Sunstone rocks"
       },
       {
@@ -59406,11 +59502,19 @@
         "source": "Soft clay rocks"
       },
       {
-        "dropLevel": "50",
+        "dropLevel": "53",
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/16,961",
+        "source": "Sunstone monolith"
+      },
+      {
+        "dropLevel": "53",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/16,961",
         "source": "Sunstone rocks"
       },
       {
@@ -59628,11 +59732,19 @@
         "source": "Soft clay rocks"
       },
       {
-        "dropLevel": "50",
+        "dropLevel": "53",
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/10,279",
+        "source": "Sunstone monolith"
+      },
+      {
+        "dropLevel": "53",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/10,279",
         "source": "Sunstone rocks"
       },
       {
@@ -62094,7 +62206,7 @@
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/1,400",
+        "rarity": "1/900",
         "source": "Hero"
       },
       {
@@ -82855,8 +82967,8 @@
         "source": "Yama#Contract"
       }
     ],
-    "group": "Contract of bloodied blows",
-    "name": "Contract of bloodied blows"
+    "group": "Contract of Bloodied Blows",
+    "name": "Contract of Bloodied Blows"
   },
   {
     "dropSources": [
@@ -82869,8 +82981,8 @@
         "source": "Dossier"
       }
     ],
-    "group": "Contract of catalyst acquisition",
-    "name": "Contract of catalyst acquisition"
+    "group": "Contract of Catalyst Acquisition",
+    "name": "Contract of Catalyst Acquisition"
   },
   {
     "dropSources": [
@@ -82915,8 +83027,8 @@
         "source": "Yama#Contract"
       }
     ],
-    "group": "Contract of divine severance",
-    "name": "Contract of divine severance"
+    "group": "Contract of Divine Severance",
+    "name": "Contract of Divine Severance"
   },
   {
     "dropSources": [
@@ -82937,8 +83049,8 @@
         "source": "Yama#Contract"
       }
     ],
-    "group": "Contract of familiar acquisition",
-    "name": "Contract of familiar acquisition"
+    "group": "Contract of Familiar Acquisition",
+    "name": "Contract of Familiar Acquisition"
   },
   {
     "dropSources": [
@@ -82983,8 +83095,8 @@
         "source": "Yama#Contract"
       }
     ],
-    "group": "Contract of forfeit breath",
-    "name": "Contract of forfeit breath"
+    "group": "Contract of Forfeit Breath",
+    "name": "Contract of Forfeit Breath"
   },
   {
     "dropSources": [
@@ -83029,8 +83141,8 @@
         "source": "Yama#Contract"
       }
     ],
-    "group": "Contract of glyphic attenuation",
-    "name": "Contract of glyphic attenuation"
+    "group": "Contract of Glyphic Attenuation",
+    "name": "Contract of Glyphic Attenuation"
   },
   {
     "dropSources": [
@@ -83043,8 +83155,8 @@
         "source": "Dossier"
       }
     ],
-    "group": "Contract of harmony acquisition",
-    "name": "Contract of harmony acquisition"
+    "group": "Contract of Harmony Acquisition",
+    "name": "Contract of Harmony Acquisition"
   },
   {
     "dropSources": [
@@ -83057,8 +83169,8 @@
         "source": "Dossier"
       }
     ],
-    "group": "Contract of oathplate acquisition",
-    "name": "Contract of oathplate acquisition"
+    "group": "Contract of Oathplate Acquisition",
+    "name": "Contract of Oathplate Acquisition"
   },
   {
     "dropSources": [
@@ -83103,8 +83215,8 @@
         "source": "Yama#Contract"
       }
     ],
-    "group": "Contract of sensory clouding",
-    "name": "Contract of sensory clouding"
+    "group": "Contract of Sensory Clouding",
+    "name": "Contract of Sensory Clouding"
   },
   {
     "dropSources": [
@@ -83117,8 +83229,8 @@
         "source": "Dossier"
       }
     ],
-    "group": "Contract of shard acquisition",
-    "name": "Contract of shard acquisition"
+    "group": "Contract of Shard Acquisition",
+    "name": "Contract of Shard Acquisition"
   },
   {
     "dropSources": [
@@ -83131,8 +83243,8 @@
         "source": "Dossier"
       }
     ],
-    "group": "Contract of worm acquisition",
-    "name": "Contract of worm acquisition"
+    "group": "Contract of Worm Acquisition",
+    "name": "Contract of Worm Acquisition"
   },
   {
     "dropSources": [
@@ -93268,11 +93380,11 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
-        "source": "Chest (Doll of iban)"
+        "source": "Chest (Doll of Iban)"
       }
     ],
-    "group": "Doll of iban",
-    "name": "Doll of iban"
+    "group": "Doll of Iban",
+    "name": "Doll of Iban"
   },
   {
     "dropSources": [
@@ -95557,7 +95669,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/800",
+        "rarity": "1/540",
         "source": "Armoured kraken"
       },
       {
@@ -95565,7 +95677,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/1,000",
+        "rarity": "1/720",
         "source": "Great white shark"
       },
       {
@@ -95573,7 +95685,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/400",
         "source": "Orca"
       },
       {
@@ -95581,7 +95693,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/300",
+        "rarity": "1/320",
         "source": "Vampyre kraken"
       },
       {
@@ -95589,7 +95701,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/500",
+        "rarity": "1/360",
         "source": "Veiled kraken"
       }
     ],
@@ -96339,7 +96451,7 @@
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 1,
-        "rarity": "1/140",
+        "rarity": "4/540",
         "source": "Armoured kraken"
       },
       {
@@ -96355,7 +96467,7 @@
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 1,
-        "rarity": "1/200",
+        "rarity": "4/720",
         "source": "Great white shark"
       },
       {
@@ -96387,7 +96499,7 @@
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "2/400",
         "source": "Orca"
       },
       {
@@ -96395,7 +96507,7 @@
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 1,
-        "rarity": "1/80",
+        "rarity": "2/320",
         "source": "Vampyre kraken"
       },
       {
@@ -96403,7 +96515,7 @@
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 1,
-        "rarity": "4/500",
+        "rarity": "2/360",
         "source": "Veiled kraken"
       }
     ],
@@ -96455,7 +96567,7 @@
         "dropType": "combat",
         "quantityHigh": 11,
         "quantityLow": 4,
-        "rarity": "Unknown",
+        "rarity": "1/75",
         "source": "Orca"
       }
     ],
@@ -103857,7 +103969,7 @@
         "dropType": "thieving",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "4/60",
+        "rarity": "3/60",
         "source": "Rusty chest"
       },
       {
@@ -104843,12 +104955,170 @@
   {
     "dropSources": [
       {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Goblin#Drop table 1"
+      },
+      {
+        "dropLevel": "2,5,13",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Goblin#Drop table 2"
+      },
+      {
+        "dropLevel": "51",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Molanisk"
+      }
+    ],
+    "group": "Energy potion",
+    "name": "Energy potion(1)",
+    "version": "1 dose"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "23",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Banshee"
+      },
+      {
+        "dropLevel": "89",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Cockathrice"
+      },
+      {
+        "dropLevel": "37",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Cockatrice"
+      },
+      {
+        "dropLevel": "7,8,11,12",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Crawling Hand"
+      },
+      {
+        "dropLevel": "45",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Crushing hand"
+      },
+      {
+        "dropLevel": "7,11",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Dark wizard#Low level"
+      },
+      {
+        "dropLevel": "24",
+        "dropType": "combat",
+        "quantityHigh": 6,
+        "quantityLow": 6,
+        "rarity": "Unknown",
+        "source": "Desert Lizard"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Goblin#Drop table 1"
+      },
+      {
+        "dropLevel": "2,5,13",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Goblin#Drop table 2"
+      },
+      {
+        "dropLevel": "42",
+        "dropType": "combat",
+        "quantityHigh": 6,
+        "quantityLow": 6,
+        "rarity": "Unknown",
+        "source": "Lizard"
+      },
+      {
+        "dropLevel": "51",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Molanisk"
+      },
+      {
+        "dropLevel": "70",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Screaming banshee"
+      },
+      {
+        "dropLevel": "12",
+        "dropType": "combat",
+        "quantityHigh": 6,
+        "quantityLow": 6,
+        "rarity": "Unknown",
+        "source": "Small Lizard"
+      }
+    ],
+    "group": "Energy potion",
+    "name": "Energy potion(2)",
+    "version": "2 dose"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
         "rarity": "4/62",
         "source": "Adept potion pack"
+      },
+      {
+        "dropLevel": "9",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Al Kharid warrior"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Anja"
       },
       {
         "dropLevel": "",
@@ -104859,6 +105129,62 @@
         "source": "Apprentice potion pack"
       },
       {
+        "dropLevel": "23",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Cave crawler"
+      },
+      {
+        "dropLevel": "68",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Chasm Crawler"
+      },
+      {
+        "dropLevel": "3",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Cuffs"
+      },
+      {
+        "dropLevel": "20,22,23",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Dark wizard#High level"
+      },
+      {
+        "dropLevel": "7,11",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Dark wizard#Low level"
+      },
+      {
+        "dropLevel": "24",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Desert Lizard"
+      },
+      {
+        "dropLevel": "3",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Drunken man"
+      },
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -104867,12 +105193,124 @@
         "source": "Elaborate lockbox"
       },
       {
+        "dropLevel": "7",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Farmer#Free-to-play"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Farmer#Members"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Hengel"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Jeff"
+      },
+      {
+        "dropLevel": "42",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Lizard"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Man"
+      },
+      {
+        "dropLevel": "51",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Molanisk"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Narf"
+      },
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
         "rarity": "3/50",
         "source": "Ornate lockbox"
+      },
+      {
+        "dropLevel": "5",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Penda"
+      },
+      {
+        "dropLevel": "15",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Rogue#Level 15"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Rusty"
+      },
+      {
+        "dropLevel": "12",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Small Lizard"
+      },
+      {
+        "dropLevel": "14,16,21",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Thief"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Woman"
       }
     ],
     "group": "Energy potion",
@@ -104882,12 +105320,116 @@
   {
     "dropSources": [
       {
+        "dropLevel": "23",
+        "dropType": "combat",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Unknown",
+        "source": "Banshee"
+      },
+      {
+        "dropLevel": "23",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Cave crawler"
+      },
+      {
+        "dropLevel": "68",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Chasm Crawler"
+      },
+      {
+        "dropLevel": "89",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Cockathrice"
+      },
+      {
+        "dropLevel": "37",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Cockatrice"
+      },
+      {
+        "dropLevel": "7,8,11,12",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Crawling Hand"
+      },
+      {
+        "dropLevel": "45",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Crushing hand"
+      },
+      {
+        "dropLevel": "20,22,23",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Dark wizard#High level"
+      },
+      {
+        "dropLevel": "7,11",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Dark wizard#Low level"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Goblin#Drop table 1"
+      },
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Jekyll and Hyde#Ranarr"
+      },
+      {
+        "dropLevel": "55",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Killerwatt"
+      },
+      {
+        "dropLevel": "55",
+        "dropType": "combat",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Killerwatt"
+      },
+      {
+        "dropLevel": "70",
+        "dropType": "combat",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Unknown",
+        "source": "Screaming banshee"
       }
     ],
     "group": "Energy potion",
@@ -106639,6 +107181,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Evil Chicken (Recipe for Disaster)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Nest (Evil Chicken's Lair)"
       }
     ],
     "group": "Evil chicken's egg",
@@ -106748,9 +107298,23 @@
         "source": "Doom of Mokhaiotl"
       }
     ],
-    "group": "Eye of ayak",
+    "group": "Eye of Ayak",
     "name": "Eye of ayak (uncharged)",
     "version": "Uncharged"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (eye of gnome)"
+      }
+    ],
+    "group": "Eye of gnome",
+    "name": "Eye of gnome"
   },
   {
     "dropSources": [
@@ -107121,8 +107685,8 @@
         "source": "Chest (Tombs of Amascut)"
       }
     ],
-    "group": "Eye of the corruptor",
-    "name": "Eye of the corruptor"
+    "group": "Eye of the Corruptor",
+    "name": "Eye of the Corruptor"
   },
   {
     "dropSources": [
@@ -107135,8 +107699,8 @@
         "source": "Duke Sucellus"
       }
     ],
-    "group": "Eye of the duke",
-    "name": "Eye of the duke"
+    "group": "Eye of the Duke",
+    "name": "Eye of the Duke"
   },
   {
     "dropSources": [
@@ -107260,8 +107824,8 @@
         "source": "Venenatis"
       }
     ],
-    "group": "Fangs of venenatis",
-    "name": "Fangs of venenatis"
+    "group": "Fangs of Venenatis",
+    "name": "Fangs of Venenatis"
   },
   {
     "dropSources": [
@@ -113116,6 +113680,14 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Curator Haig Halen"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "1/7",
         "source": "Ocean Man"
       }
@@ -115365,6 +115937,22 @@
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Goblin Temple)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Crate (Goblin Village)"
+      },
       {
         "dropLevel": "12,13,15,17",
         "dropType": "combat",
@@ -117626,20 +118214,12 @@
   {
     "dropSources": [
       {
-        "dropLevel": "17,22,23,45",
+        "dropLevel": "30",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
-        "source": "Monk of Zamorak"
-      },
-      {
-        "dropLevel": "17,22,30",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Monk of Zamorak (Paterdomus)"
+        "source": "Monk of Zamorak (Paterdomus)#Level 30"
       }
     ],
     "group": "Golden key",
@@ -119769,7 +120349,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3.125/128",
+        "rarity": "1/40.96",
         "source": "Blood Reaver"
       },
       {
@@ -119958,10 +120538,10 @@
       },
       {
         "dropLevel": "",
-        "dropType": "reward",
+        "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "5/16",
+        "rarity": "1/3.2",
         "source": "Chest (alchemist's signet)"
       },
       {
@@ -121609,7 +122189,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3.125/128",
+        "rarity": "1/40.96",
         "source": "Spiritual ranger#Zaros"
       },
       {
@@ -121617,7 +122197,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3.125/128",
+        "rarity": "1/40.96",
         "source": "Spiritual warrior#Zaros"
       },
       {
@@ -121713,7 +122293,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "5/408",
+        "rarity": "1/81.6",
         "source": "Tormented Demon"
       },
       {
@@ -122181,7 +122761,7 @@
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
-        "rarity": "2/132",
+        "rarity": "1/66",
         "source": "Ancient Wyvern"
       },
       {
@@ -122626,10 +123206,10 @@
       },
       {
         "dropLevel": "",
-        "dropType": "reward",
+        "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "4/16",
+        "rarity": "1/4",
         "source": "Chest (alchemist's signet)"
       },
       {
@@ -124429,7 +125009,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "8/408",
+        "rarity": "1/51",
         "source": "Tormented Demon"
       },
       {
@@ -124883,7 +125463,7 @@
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
-        "rarity": "2/132",
+        "rarity": "1/66",
         "source": "Ancient Wyvern"
       },
       {
@@ -125328,10 +125908,10 @@
       },
       {
         "dropLevel": "",
-        "dropType": "reward",
+        "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "4/16",
+        "rarity": "1/4",
         "source": "Chest (alchemist's signet)"
       },
       {
@@ -127139,7 +127719,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "8/408",
+        "rarity": "1/51",
         "source": "Tormented Demon"
       },
       {
@@ -135223,7 +135803,7 @@
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
-        "rarity": "5/264",
+        "rarity": "1/52.8",
         "source": "Ancient Wyvern"
       },
       {
@@ -135668,10 +136248,10 @@
       },
       {
         "dropLevel": "",
-        "dropType": "reward",
+        "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "5/16",
+        "rarity": "1/3.2",
         "source": "Chest (alchemist's signet)"
       },
       {
@@ -137503,7 +138083,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "10/408",
+        "rarity": "1/40.8",
         "source": "Tormented Demon"
       },
       {
@@ -137973,7 +138553,7 @@
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
-        "rarity": "3/264",
+        "rarity": "1/88",
         "source": "Ancient Wyvern"
       },
       {
@@ -138426,10 +139006,10 @@
       },
       {
         "dropLevel": "",
-        "dropType": "reward",
+        "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "3/16",
+        "rarity": "1/5.3",
         "source": "Chest (alchemist's signet)"
       },
       {
@@ -140237,7 +140817,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "6/408",
+        "rarity": "1/68",
         "source": "Tormented Demon"
       },
       {
@@ -143469,7 +144049,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2.5/128",
+        "rarity": "1/51.2",
         "source": "Blood Reaver"
       },
       {
@@ -143690,10 +144270,10 @@
       },
       {
         "dropLevel": "",
-        "dropType": "reward",
+        "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/16",
+        "rarity": "1/4",
         "source": "Chest (alchemist's signet)"
       },
       {
@@ -145445,7 +146025,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2.5/128",
+        "rarity": "1/51.2",
         "source": "Spiritual ranger#Zaros"
       },
       {
@@ -145453,7 +146033,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2.5/128",
+        "rarity": "1/51.2",
         "source": "Spiritual warrior#Zaros"
       },
       {
@@ -145589,7 +146169,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/408",
+        "rarity": "1/102",
         "source": "Tormented Demon"
       },
       {
@@ -146141,7 +146721,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2.5/128",
+        "rarity": "1/51.2",
         "source": "Blood Reaver"
       },
       {
@@ -146162,10 +146742,10 @@
       },
       {
         "dropLevel": "",
-        "dropType": "reward",
+        "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/16",
+        "rarity": "1/4",
         "source": "Chest (alchemist's signet)"
       },
       {
@@ -146357,7 +146937,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2.5/128",
+        "rarity": "1/51.2",
         "source": "Spiritual ranger#Zaros"
       },
       {
@@ -146365,7 +146945,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2.5/128",
+        "rarity": "1/51.2",
         "source": "Spiritual warrior#Zaros"
       },
       {
@@ -146381,7 +146961,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/408",
+        "rarity": "1/102",
         "source": "Tormented Demon"
       },
       {
@@ -149223,7 +149803,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1.875/128",
+        "rarity": "1/68.27",
         "source": "Blood Reaver"
       },
       {
@@ -149236,10 +149816,10 @@
       },
       {
         "dropLevel": "",
-        "dropType": "reward",
+        "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/16",
+        "rarity": "1/5.33",
         "source": "Chest (alchemist's signet)"
       },
       {
@@ -149423,7 +150003,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1.875/128",
+        "rarity": "1/68.27",
         "source": "Spiritual ranger#Zaros"
       },
       {
@@ -149431,7 +150011,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1.875/128",
+        "rarity": "1/68.27",
         "source": "Spiritual warrior#Zaros"
       },
       {
@@ -149471,7 +150051,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/408",
+        "rarity": "1/136",
         "source": "Tormented Demon"
       },
       {
@@ -151137,6 +151717,14 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
+        "source": "Crate (hammer)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
         "source": "Crate of hammers"
       },
       {
@@ -152770,7 +153358,7 @@
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Very rare",
+        "rarity": "1/76,599",
         "source": "Rod Fishing spot (anglerfish)"
       },
       {
@@ -152879,11 +153467,11 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
-        "source": "Chest (Doll of iban)"
+        "source": "Chest (Doll of Iban)"
       }
     ],
-    "group": "History of iban",
-    "name": "History of iban"
+    "group": "History of Iban",
+    "name": "History of Iban"
   },
   {
     "dropSources": [
@@ -153180,8 +153768,8 @@
         "source": "Gryphon"
       }
     ],
-    "group": "Horn of plenty",
-    "name": "Horn of plenty (empty)",
+    "group": "Horn of Plenty",
+    "name": "Horn of Plenty (empty)",
     "version": "Empty"
   },
   {
@@ -153811,7 +154399,7 @@
       }
     ],
     "group": "Ikkle Hydra",
-    "name": "Ikkle hydra"
+    "name": "Ikkle Hydra"
   },
   {
     "dropSources": [
@@ -159741,6 +160329,14 @@
         "source": "Bandit#Level 22"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (iron scimitar)"
+      },
+      {
         "dropLevel": "100",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -161419,8 +162015,8 @@
         "source": "Alchemical Hydra"
       }
     ],
-    "group": "Jar of chemicals",
-    "name": "Jar of chemicals"
+    "group": "Jar of Chemicals",
+    "name": "Jar of Chemicals"
   },
   {
     "dropSources": [
@@ -161433,8 +162029,8 @@
         "source": "Skotizo"
       }
     ],
-    "group": "Jar of darkness",
-    "name": "Jar of darkness"
+    "group": "Jar of Darkness",
+    "name": "Jar of Darkness"
   },
   {
     "dropSources": [
@@ -161447,8 +162043,8 @@
         "source": "Vorkath#Post-quest"
       }
     ],
-    "group": "Jar of decay",
-    "name": "Jar of decay"
+    "group": "Jar of Decay",
+    "name": "Jar of Decay"
   },
   {
     "dropSources": [
@@ -161461,8 +162057,8 @@
         "source": "Kraken"
       }
     ],
-    "group": "Jar of dirt",
-    "name": "Jar of dirt"
+    "group": "Jar of Dirt",
+    "name": "Jar of Dirt"
   },
   {
     "dropSources": [
@@ -161483,8 +162079,8 @@
         "source": "The Nightmare"
       }
     ],
-    "group": "Jar of dreams",
-    "name": "Jar of dreams"
+    "group": "Jar of Dreams",
+    "name": "Jar of Dreams"
   },
   {
     "dropSources": [
@@ -161497,8 +162093,8 @@
         "source": "Sarachnis"
       }
     ],
-    "group": "Jar of eyes",
-    "name": "Jar of eyes"
+    "group": "Jar of Eyes",
+    "name": "Jar of Eyes"
   },
   {
     "dropSources": [
@@ -161511,8 +162107,8 @@
         "source": "Shellbane gryphon"
       }
     ],
-    "group": "Jar of feathers",
-    "name": "Jar of feathers"
+    "group": "Jar of Feathers",
+    "name": "Jar of Feathers"
   },
   {
     "dropSources": [
@@ -161525,8 +162121,8 @@
         "source": "Mad Angel"
       }
     ],
-    "group": "Jar of light",
-    "name": "Jar of light"
+    "group": "Jar of Light",
+    "name": "Jar of Light"
   },
   {
     "dropSources": [
@@ -161539,8 +162135,8 @@
         "source": "Unsired"
       }
     ],
-    "group": "Jar of miasma",
-    "name": "Jar of miasma"
+    "group": "Jar of Miasma",
+    "name": "Jar of Miasma"
   },
   {
     "dropSources": [
@@ -161553,8 +162149,8 @@
         "source": "Kalphite Queen"
       }
     ],
-    "group": "Jar of sand",
-    "name": "Jar of sand"
+    "group": "Jar of Sand",
+    "name": "Jar of Sand"
   },
   {
     "dropSources": [
@@ -161567,8 +162163,8 @@
         "source": "Thermonuclear smoke devil"
       }
     ],
-    "group": "Jar of smoke",
-    "name": "Jar of smoke"
+    "group": "Jar of Smoke",
+    "name": "Jar of Smoke"
   },
   {
     "dropSources": [
@@ -161581,8 +162177,8 @@
         "source": "Cerberus"
       }
     ],
-    "group": "Jar of souls",
-    "name": "Jar of souls"
+    "group": "Jar of Souls",
+    "name": "Jar of Souls"
   },
   {
     "dropSources": [
@@ -161595,8 +162191,8 @@
         "source": "Corporeal Beast"
       }
     ],
-    "group": "Jar of spirits",
-    "name": "Jar of spirits"
+    "group": "Jar of Spirits",
+    "name": "Jar of Spirits"
   },
   {
     "dropSources": [
@@ -161609,8 +162205,8 @@
         "source": "Grotesque Guardians"
       }
     ],
-    "group": "Jar of stone",
-    "name": "Jar of stone"
+    "group": "Jar of Stone",
+    "name": "Jar of Stone"
   },
   {
     "dropSources": [
@@ -161623,8 +162219,8 @@
         "source": "Zulrah"
       }
     ],
-    "group": "Jar of swamp",
-    "name": "Jar of swamp"
+    "group": "Jar of Swamp",
+    "name": "Jar of Swamp"
   },
   {
     "dropSources": [
@@ -161637,8 +162233,8 @@
         "source": "Araxxor"
       }
     ],
-    "group": "Jar of venom",
-    "name": "Jar of venom"
+    "group": "Jar of Venom",
+    "name": "Jar of Venom"
   },
   {
     "dropSources": [
@@ -161715,8 +162311,8 @@
         "source": "Chest (Tombs of Amascut)"
       }
     ],
-    "group": "Jewel of amascut",
-    "name": "Jewel of amascut"
+    "group": "Jewel of Amascut",
+    "name": "Jewel of Amascut"
   },
   {
     "dropSources": [
@@ -161729,8 +162325,8 @@
         "source": "Chest (Tombs of Amascut)"
       }
     ],
-    "group": "Jewel of the sun",
-    "name": "Jewel of the sun"
+    "group": "Jewel of the Sun",
+    "name": "Jewel of the Sun"
   },
   {
     "dropSources": [
@@ -166196,7 +166792,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/600",
+        "rarity": "1/540",
         "source": "Armoured kraken"
       },
       {
@@ -166204,7 +166800,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/500",
+        "rarity": "1/720",
         "source": "Great white shark"
       },
       {
@@ -166212,7 +166808,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/400",
         "source": "Orca"
       },
       {
@@ -166220,7 +166816,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/300",
+        "rarity": "1/320",
         "source": "Vampyre kraken"
       },
       {
@@ -166228,7 +166824,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/500",
+        "rarity": "1/360",
         "source": "Veiled kraken"
       }
     ],
@@ -170427,12 +171023,12 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/650",
-        "source": "Monumental chest"
+        "rarity": "1/400",
+        "source": "Spoils of War"
       }
     ],
-    "group": "Lil' Zik",
-    "name": "Lil' Zik"
+    "group": "Lil' Creator",
+    "name": "Lil' Creator"
   },
   {
     "dropSources": [
@@ -170441,12 +171037,12 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/400",
-        "source": "Spoils of war"
+        "rarity": "1/650",
+        "source": "Monumental chest"
       }
     ],
-    "group": "Lil' creator",
-    "name": "Lil' creator"
+    "group": "Lil' Zik",
+    "name": "Lil' Zik"
   },
   {
     "dropSources": [
@@ -170473,8 +171069,8 @@
         "source": "Lily"
       }
     ],
-    "group": "Lily of the elid",
-    "name": "Lily of the elid"
+    "group": "Lily of the Elid",
+    "name": "Lily of the Elid"
   },
   {
     "dropSources": [
@@ -170487,8 +171083,8 @@
         "source": "Chest (Tombs of Amascut)"
       }
     ],
-    "group": "Lily of the sands",
-    "name": "Lily of the sands"
+    "group": "Lily of the Sands",
+    "name": "Lily of the Sands"
   },
   {
     "dropSources": [
@@ -171948,8 +172544,8 @@
         "source": "The Nightmare"
       }
     ],
-    "group": "Little nightmare",
-    "name": "Little nightmare"
+    "group": "Little Nightmare",
+    "name": "Little Nightmare"
   },
   {
     "dropSources": [
@@ -175710,6 +176306,20 @@
     ],
     "group": "Lyre",
     "name": "Lyre"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (m'amulet mould)"
+      }
+    ],
+    "group": "M'amulet mould",
+    "name": "M'amulet mould"
   },
   {
     "dropSources": [
@@ -179654,8 +180264,8 @@
         "source": "Undead Druid"
       }
     ],
-    "group": "Mask of ranul",
-    "name": "Mask of ranul"
+    "group": "Mask of Ranul",
+    "name": "Mask of Ranul"
   },
   {
     "dropSources": [
@@ -187937,7 +188547,7 @@
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/100",
+        "rarity": "1.5/100",
         "source": "Fishing spot (aerial fishing)"
       }
     ],
@@ -188173,6 +188783,20 @@
     ],
     "group": "Monkey corpse",
     "name": "Monkey corpse"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (monkey dentures)"
+      }
+    ],
+    "group": "Monkey dentures",
+    "name": "Monkey dentures"
   },
   {
     "dropSources": [
@@ -188465,7 +189089,7 @@
         "dropType": "hunter",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/75",
+        "rarity": "1/40",
         "source": "Moonlight moth"
       }
     ],
@@ -195787,6 +196411,14 @@
         "source": "Crate (Elemental Workshop)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (needle)"
+      },
+      {
         "dropLevel": "20",
         "dropType": "thieving",
         "quantityHigh": 1,
@@ -199482,6 +200114,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "48",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Khazard commander"
+      }
+    ],
+    "group": "Orb of Protection",
+    "name": "Orb of Protection"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -199510,20 +200156,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "48",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Khazard commander"
-      }
-    ],
-    "group": "Orb of protection",
-    "name": "Orb of protection"
-  },
-  {
-    "dropSources": [
-      {
         "dropLevel": "112",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -199532,8 +200164,8 @@
         "source": "Khazard warlord"
       }
     ],
-    "group": "Orbs of protection",
-    "name": "Orbs of protection"
+    "group": "Orbs of Protection",
+    "name": "Orbs of Protection"
   },
   {
     "dropSources": [
@@ -201238,8 +201870,8 @@
         "source": "Frost Nagua"
       }
     ],
-    "group": "Pendant of ates",
-    "name": "Pendant of ates#Inert",
+    "group": "Pendant of Ates",
+    "name": "Pendant of Ates#Inert",
     "version": "Inert"
   },
   {
@@ -201253,8 +201885,8 @@
         "source": "Movario"
       }
     ],
-    "group": "Pendant of lucien",
-    "name": "Pendant of lucien"
+    "group": "Pendant of Lucien",
+    "name": "Pendant of Lucien"
   },
   {
     "dropSources": [
@@ -201903,6 +202535,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cage (Underground Pass, unicorn)"
+      }
+    ],
+    "group": "Piece of railing",
+    "name": "Piece of railing"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "52",
         "dropType": "farming",
         "quantityHigh": 1,
@@ -202089,7 +202735,7 @@
         "dropType": "thieving",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "4/60",
+        "rarity": "3/60",
         "source": "Tarnished chest"
       },
       {
@@ -207261,7 +207907,7 @@
         "quantityHigh": 1000,
         "quantityLow": 1000,
         "rarity": "1/9",
-        "source": "Spoils of war"
+        "source": "Spoils of War"
       },
       {
         "dropLevel": "93",
@@ -216142,8 +216788,8 @@
         "source": "Chest (Tombs of Amascut)"
       }
     ],
-    "group": "Remnant of akkha",
-    "name": "Remnant of akkha"
+    "group": "Remnant of Akkha",
+    "name": "Remnant of Akkha"
   },
   {
     "dropSources": [
@@ -216156,8 +216802,8 @@
         "source": "Chest (Tombs of Amascut)"
       }
     ],
-    "group": "Remnant of ba-ba",
-    "name": "Remnant of ba-ba"
+    "group": "Remnant of Ba-Ba",
+    "name": "Remnant of Ba-Ba"
   },
   {
     "dropSources": [
@@ -216170,8 +216816,8 @@
         "source": "Chest (Tombs of Amascut)"
       }
     ],
-    "group": "Remnant of kephri",
-    "name": "Remnant of kephri"
+    "group": "Remnant of Kephri",
+    "name": "Remnant of Kephri"
   },
   {
     "dropSources": [
@@ -216184,8 +216830,8 @@
         "source": "Chest (Tombs of Amascut)"
       }
     ],
-    "group": "Remnant of zebak",
-    "name": "Remnant of zebak"
+    "group": "Remnant of Zebak",
+    "name": "Remnant of Zebak"
   },
   {
     "dropSources": [
@@ -216226,7 +216872,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Once",
-        "source": "Chest (Doll of iban)"
+        "source": "Chest (Doll of Iban)"
       }
     ],
     "group": "Restore potion",
@@ -216956,8 +217602,8 @@
         "source": "The Mimic#Master"
       }
     ],
-    "group": "Ring of 3rd age",
-    "name": "Ring of 3rd age"
+    "group": "Ring of 3rd Age",
+    "name": "Ring of 3rd Age"
   },
   {
     "dropSources": [
@@ -216970,8 +217616,8 @@
         "source": "Dr Fenkenstrain"
       }
     ],
-    "group": "Ring of charos",
-    "name": "Ring of charos"
+    "group": "Ring of Charos",
+    "name": "Ring of Charos"
   },
   {
     "dropSources": [
@@ -216984,8 +217630,8 @@
         "source": "Dr Fenkenstrain"
       }
     ],
-    "group": "Ring of charos",
-    "name": "Ring of charos(a)",
+    "group": "Ring of Charos",
+    "name": "Ring of Charos(a)",
     "version": "Activated"
   },
   {
@@ -217685,6 +218331,22 @@
         "quantityLow": 1,
         "rarity": "1/739,975",
         "source": "Soft clay rocks"
+      },
+      {
+        "dropLevel": "53",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/741,575",
+        "source": "Sunstone monolith"
+      },
+      {
+        "dropLevel": "53",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/741,575",
+        "source": "Sunstone rocks"
       },
       {
         "dropLevel": "1",
@@ -228638,7 +229300,7 @@
         "quantityHigh": 170,
         "quantityLow": 150,
         "rarity": "1/9",
-        "source": "Spoils of war"
+        "source": "Spoils of War"
       },
       {
         "dropLevel": "246,274",
@@ -231950,8 +232612,8 @@
         "source": "Monumental chest#Normal Mode"
       }
     ],
-    "group": "Scythe of vitur",
-    "name": "Scythe of vitur (uncharged)",
+    "group": "Scythe of Vitur",
+    "name": "Scythe of Vitur (uncharged)",
     "version": "Uncharged"
   },
   {
@@ -233301,6 +233963,14 @@
         "quantityLow": 56,
         "rarity": "3.75/235",
         "source": "Phantom Muspah"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 100,
+        "quantityLow": 100,
+        "rarity": "Always",
+        "source": "Shark lure pack"
       },
       {
         "dropLevel": "235",
@@ -235357,8 +236027,8 @@
         "source": "Vet'ion"
       }
     ],
-    "group": "Skull of vet'ion",
-    "name": "Skull of vet'ion"
+    "group": "Skull of Vet'ion",
+    "name": "Skull of Vet'ion"
   },
   {
     "dropSources": [
@@ -242464,6 +243134,20 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "1/1,404",
+        "source": "Reward casket (easy)#Standard"
+      }
+    ],
+    "group": "Staff of Bob the Cat",
+    "name": "Staff of Bob the Cat"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "Always",
         "source": "Adventurer Jon#Getting started Magic"
       },
@@ -242606,20 +243290,6 @@
     ],
     "group": "Staff of air",
     "name": "Staff of air"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/1,404",
-        "source": "Reward casket (easy)#Standard"
-      }
-    ],
-    "group": "Staff of bob the cat",
-    "name": "Staff of bob the cat"
   },
   {
     "dropSources": [
@@ -254688,7 +255358,7 @@
         "dropType": "hunter",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/75",
+        "rarity": "1/40",
         "source": "Sunlight Moth"
       }
     ],
@@ -254698,7 +255368,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "50",
+        "dropLevel": "53",
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -254706,7 +255376,7 @@
         "source": "Sunstone monolith"
       },
       {
-        "dropLevel": "50",
+        "dropLevel": "53",
         "dropType": "mining",
         "quantityHigh": 2,
         "quantityLow": 1,
@@ -254833,7 +255503,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Once",
-        "source": "Chest (Doll of iban)"
+        "source": "Chest (Doll of Iban)"
       },
       {
         "dropLevel": "",
@@ -260006,8 +260676,8 @@
       {
         "dropLevel": "62",
         "dropType": "agility",
-        "quantityHigh": 15,
-        "quantityLow": 12,
+        "quantityHigh": 24,
+        "quantityLow": 11,
         "rarity": "Always",
         "source": "Termites (NPC)#Advanced"
       },
@@ -260333,8 +261003,36 @@
         "source": "Pestilent Bloat"
       }
     ],
-    "group": "The butcher",
-    "name": "The butcher"
+    "group": "The Butcher",
+    "name": "The Butcher"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "336,995,1195",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Sotetseg"
+      }
+    ],
+    "group": "The Shadow Realm",
+    "name": "The Shadow Realm"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "331,960,1160",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Xarpus"
+      }
+    ],
+    "group": "The Wild Hunt",
+    "name": "The Wild Hunt"
   },
   {
     "dropSources": [
@@ -260395,20 +261093,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "336,995,1195",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Sotetseg"
-      }
-    ],
-    "group": "The shadow realm",
-    "name": "The shadow realm"
-  },
-  {
-    "dropSources": [
-      {
         "dropLevel": "489,544",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -260427,20 +261111,6 @@
     ],
     "group": "The wardens",
     "name": "The wardens"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "331,960,1160",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Xarpus"
-      }
-    ],
-    "group": "The wild hunt",
-    "name": "The wild hunt"
   },
   {
     "dropSources": [
@@ -260559,6 +261229,14 @@
         "source": "Chilled jelly"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (thread)"
+      },
+      {
         "dropLevel": "92,100,101,113",
         "dropType": "combat",
         "quantityHigh": 10,
@@ -260661,8 +261339,8 @@
         "source": "Chest (Tombs of Amascut)"
       }
     ],
-    "group": "Thread of elidinis",
-    "name": "Thread of elidinis"
+    "group": "Thread of Elidinis",
+    "name": "Thread of Elidinis"
   },
   {
     "dropSources": [
@@ -261251,6 +261929,14 @@
         "quantityLow": 1,
         "rarity": "20/128",
         "source": "Cave goblin miner"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (tinderbox)"
       },
       {
         "dropLevel": "90",
@@ -263685,8 +264371,8 @@
         "source": "The Hueycoatl"
       }
     ],
-    "group": "Tome of earth",
-    "name": "Tome of earth (empty)",
+    "group": "Tome of Earth",
+    "name": "Tome of Earth (empty)",
     "version": "Empty"
   },
   {
@@ -263700,51 +264386,9 @@
         "source": "Reward Cart"
       }
     ],
-    "group": "Tome of fire",
-    "name": "Tome of fire (empty)",
+    "group": "Tome of Fire",
+    "name": "Tome of Fire (empty)",
     "version": "Empty"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Musty bookshelf"
-      }
-    ],
-    "group": "Tome of the moon",
-    "name": "Tome of the moon"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Musty bookshelf"
-      }
-    ],
-    "group": "Tome of the sun",
-    "name": "Tome of the sun"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Musty bookshelf"
-      }
-    ],
-    "group": "Tome of the temple",
-    "name": "Tome of the temple"
   },
   {
     "dropSources": [
@@ -263757,9 +264401,51 @@
         "source": "Reward pool"
       }
     ],
-    "group": "Tome of water",
-    "name": "Tome of water (empty)",
+    "group": "Tome of Water",
+    "name": "Tome of Water (empty)",
     "version": "Empty"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Musty bookshelf"
+      }
+    ],
+    "group": "Tome of the Moon",
+    "name": "Tome of the Moon"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Musty bookshelf"
+      }
+    ],
+    "group": "Tome of the Sun",
+    "name": "Tome of the Sun"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Musty bookshelf"
+      }
+    ],
+    "group": "Tome of the Temple",
+    "name": "Tome of the Temple"
   },
   {
     "dropSources": [
@@ -263812,8 +264498,8 @@
         "source": "Rewards Chest (Fortis Colosseum)#Wave 9"
       }
     ],
-    "group": "Tonalztics of ralos",
-    "name": "Tonalztics of ralos (uncharged)",
+    "group": "Tonalztics of Ralos",
+    "name": "Tonalztics of Ralos (uncharged)",
     "version": "Uncharged"
   },
   {
@@ -266336,8 +267022,8 @@
         "source": "Kraken"
       }
     ],
-    "group": "Trident of the seas",
-    "name": "Trident of the seas (full)",
+    "group": "Trident of the Seas",
+    "name": "Trident of the Seas (full)",
     "version": "Charged"
   },
   {
@@ -268974,7 +269660,7 @@
         "dropType": "thieving",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "4/60",
+        "rarity": "3/60",
         "source": "Reinforced chest"
       },
       {
@@ -269054,7 +269740,7 @@
         "source": "Cave kraken"
       }
     ],
-    "group": "Trident of the seas",
+    "group": "Trident of the Seas",
     "name": "Uncharged trident",
     "version": "Uncharged"
   },
@@ -274329,6 +275015,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Smashed cage"
+      }
+    ],
+    "group": "Unicorn horn (Underground Pass)",
+    "name": "Unicorn horn (Underground Pass)"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "6",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -274806,7 +275506,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "7/3,500",
-        "source": "Ancient Zygomite"
+        "source": "Ancient Zygomite#Fossil Island"
       },
       {
         "dropLevel": "50",
@@ -275826,8 +276526,8 @@
         "source": "Verzik Vitur"
       }
     ],
-    "group": "Verzik vitur - patient record",
-    "name": "Verzik vitur - patient record"
+    "group": "Verzik Vitur - Patient Record",
+    "name": "Verzik Vitur - Patient Record"
   },
   {
     "dropSources": [
@@ -277200,8 +277900,8 @@
         "source": "Vet'ion"
       }
     ],
-    "group": "Vet'ion jr.",
-    "name": "Vet'ion jr."
+    "group": "Vet'ion Jr.",
+    "name": "Vet'ion Jr."
   },
   {
     "dropSources": [
@@ -282944,7 +283644,7 @@
         "dropType": "hunter",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/75",
+        "rarity": "1/40",
         "source": "Snowy knight"
       }
     ],
@@ -286396,6 +287096,36 @@
     ],
     "group": "Wooden stock",
     "name": "Wooden stock"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Alpaca"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Sheep"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Sheep (Zanaris)"
+      }
+    ],
+    "group": "Wool",
+    "name": "Wool"
   },
   {
     "dropSources": [

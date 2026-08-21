@@ -95,15 +95,15 @@
         "quantity": "1"
       },
       {
-        "image": "3rd age axe.png",
-        "name": "3rd age axe",
+        "image": "3rd Age axe.png",
+        "name": "3rd Age axe",
         "quantity": "1"
       }
     ],
     "members": true,
     "output": {
-      "image": "3rd age felling axe.png",
-      "name": "3rd age felling axe",
+      "image": "3rd Age felling axe.png",
+      "name": "3rd Age felling axe",
       "quantity": "1"
     },
     "skills": [
@@ -707,8 +707,8 @@
         "version": "Uncharged"
       },
       {
-        "image": "Skull of vet'ion.png",
-        "name": "Skull of vet'ion",
+        "image": "Skull of Vet'ion.png",
+        "name": "Skull of Vet'ion",
         "quantity": "1"
       },
       {
@@ -737,8 +737,8 @@
         "version": "Uncharged"
       },
       {
-        "image": "Skull of vet'ion.png",
-        "name": "Skull of vet'ion",
+        "image": "Skull of Vet'ion.png",
+        "name": "Skull of Vet'ion",
         "quantity": "1"
       }
     ],
@@ -770,8 +770,8 @@
         "version": "Uncharged"
       },
       {
-        "image": "Skull of vet'ion.png",
-        "name": "Skull of vet'ion",
+        "image": "Skull of Vet'ion.png",
+        "name": "Skull of Vet'ion",
         "quantity": "1"
       },
       {
@@ -800,8 +800,8 @@
         "version": "Uncharged"
       },
       {
-        "image": "Skull of vet'ion.png",
-        "name": "Skull of vet'ion",
+        "image": "Skull of Vet'ion.png",
+        "name": "Skull of Vet'ion",
         "quantity": "1"
       }
     ],
@@ -1102,8 +1102,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant bolts.png",
+      "name": "Adamant bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "70",
+        "level": "61",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant bolts(unf).png",
+        "name": "Adamant bolts(unf)",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant bolts.png",
+      "name": "Adamant bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "70",
+        "level": "61",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant bolts(unf).png",
+        "name": "Adamant bolts(unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant bolts.png",
+      "name": "Adamant bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "70",
+        "level": "61",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant bolts(unf).png",
+        "name": "Adamant bolts(unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant bolts.png",
+      "name": "Adamant bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "70",
+        "level": "61",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant bolts(unf).png",
+        "name": "Adamant bolts(unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant bolts.png",
+      "name": "Adamant bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "70",
+        "level": "61",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant bolts(unf).png",
+        "name": "Adamant bolts(unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant bolts.png",
+      "name": "Adamant bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "70",
+        "level": "61",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant bolts(unf).png",
+        "name": "Adamant bolts(unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant bolts.png",
+      "name": "Adamant bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "70",
+        "level": "61",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant bolts(unf).png",
+        "name": "Adamant bolts(unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -1547,8 +1750,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant dart.png",
+      "name": "Adamant dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "150",
+        "level": "67",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant dart tip.png",
+        "name": "Adamant dart tip",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant dart.png",
+      "name": "Adamant dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "150",
+        "level": "67",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant dart tip.png",
+        "name": "Adamant dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant dart.png",
+      "name": "Adamant dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "150",
+        "level": "67",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant dart tip.png",
+        "name": "Adamant dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant dart.png",
+      "name": "Adamant dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "150",
+        "level": "67",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant dart tip.png",
+        "name": "Adamant dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant dart.png",
+      "name": "Adamant dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "150",
+        "level": "67",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant dart tip.png",
+        "name": "Adamant dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant dart.png",
+      "name": "Adamant dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "150",
+        "level": "67",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant dart tip.png",
+        "name": "Adamant dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Adamant dart.png",
+      "name": "Adamant dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "150",
+        "level": "67",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Adamant dart tip.png",
+        "name": "Adamant dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -4778,8 +5184,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of redirection.png",
-        "name": "Scroll of redirection",
+        "image": "Scroll of Redirection.png",
+        "name": "Scroll of Redirection",
         "quantity": "1"
       }
     ],
@@ -5053,8 +5459,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amethyst dart.png",
+      "name": "Amethyst dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "210",
+        "level": "90",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Amethyst dart tip.png",
+        "name": "Amethyst dart tip",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amethyst dart.png",
+      "name": "Amethyst dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "210",
+        "level": "90",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Amethyst dart tip.png",
+        "name": "Amethyst dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amethyst dart.png",
+      "name": "Amethyst dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "210",
+        "level": "90",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Amethyst dart tip.png",
+        "name": "Amethyst dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amethyst dart.png",
+      "name": "Amethyst dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "210",
+        "level": "90",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Amethyst dart tip.png",
+        "name": "Amethyst dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amethyst dart.png",
+      "name": "Amethyst dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "210",
+        "level": "90",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Amethyst dart tip.png",
+        "name": "Amethyst dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amethyst dart.png",
+      "name": "Amethyst dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "210",
+        "level": "90",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Amethyst dart tip.png",
+        "name": "Amethyst dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amethyst dart.png",
+      "name": "Amethyst dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "210",
+        "level": "90",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Amethyst dart tip.png",
+        "name": "Amethyst dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -5265,6 +5874,40 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "image": "Pre-nature amulet.png",
+        "name": "Pre-nature amulet",
+        "quantity": "1"
+      },
+      {
+        "image": "Cosmic rune.png",
+        "name": "Cosmic rune",
+        "quantity": "1"
+      },
+      {
+        "image": "Air rune.png",
+        "name": "Air rune",
+        "quantity": "3"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of Nature.png",
+      "name": "Amulet of Nature",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "37",
+        "level": "27",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Wizard Mizgog",
@@ -5561,40 +6204,6 @@
   {
     "materials": [
       {
-        "image": "Pre-nature amulet.png",
-        "name": "Pre-nature amulet",
-        "quantity": "1"
-      },
-      {
-        "image": "Cosmic rune.png",
-        "name": "Cosmic rune",
-        "quantity": "1"
-      },
-      {
-        "image": "Air rune.png",
-        "name": "Air rune",
-        "quantity": "3"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Amulet of nature.png",
-      "name": "Amulet of nature",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "37",
-        "level": "27",
-        "name": "Magic"
-      }
-    ],
-    "ticks": "1"
-  },
-  {
-    "materials": [
-      {
         "image": "Diamond amulet.png",
         "name": "Diamond amulet",
         "quantity": "1"
@@ -5692,8 +6301,8 @@
   {
     "materials": [
       {
-        "image": "Amulet of the eye.png",
-        "name": "Amulet of the eye",
+        "image": "Amulet of the Eye.png",
+        "name": "Amulet of the Eye",
         "quantity": "1"
       },
       {
@@ -5704,8 +6313,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Amulet of the eye (blue).png",
-      "name": "Amulet of the eye",
+      "image": "Amulet of the Eye (blue).png",
+      "name": "Amulet of the Eye",
       "quantity": "1",
       "version": "Blue"
     },
@@ -5715,8 +6324,8 @@
   {
     "materials": [
       {
-        "image": "Amulet of the eye.png",
-        "name": "Amulet of the eye",
+        "image": "Amulet of the Eye.png",
+        "name": "Amulet of the Eye",
         "quantity": "1"
       },
       {
@@ -5727,8 +6336,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Amulet of the eye (green).png",
-      "name": "Amulet of the eye",
+      "image": "Amulet of the Eye (green).png",
+      "name": "Amulet of the Eye",
       "quantity": "1",
       "version": "Green"
     },
@@ -5738,8 +6347,8 @@
   {
     "materials": [
       {
-        "image": "Amulet of the eye.png",
-        "name": "Amulet of the eye",
+        "image": "Amulet of the Eye.png",
+        "name": "Amulet of the Eye",
         "quantity": "1"
       },
       {
@@ -5750,8 +6359,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Amulet of the eye (red).png",
-      "name": "Amulet of the eye",
+      "image": "Amulet of the Eye (red).png",
+      "name": "Amulet of the Eye",
       "quantity": "1",
       "version": "Red"
     },
@@ -11887,7 +12496,8 @@
     "output": {
       "image": "Bird house.png",
       "name": "Bird house (item)",
-      "quantity": "1"
+      "quantity": "1",
+      "txt": "Bird house"
     },
     "skills": [
       {
@@ -13361,7 +13971,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">111,296,335</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">108,932,465</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -15110,6 +15720,29 @@
     "ticks": "0"
   },
   {
+    "facilities": "Shrine of Ralos",
+    "materials": [
+      {
+        "image": "Dizana's quiver.png",
+        "name": "Dizana's quiver",
+        "quantity": "1"
+      },
+      {
+        "image": "Sunfire splinters.png",
+        "name": "Sunfire splinters",
+        "quantity": "150000"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blessed Dizana's quiver.png",
+      "name": "Blessed Dizana's quiver",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Turael",
     "materials": [
       {
@@ -15779,29 +16412,6 @@
     "ticks": "0"
   },
   {
-    "facilities": "Shrine of Ralos",
-    "materials": [
-      {
-        "image": "Dizana's quiver.png",
-        "name": "Dizana's quiver",
-        "quantity": "1"
-      },
-      {
-        "image": "Sunfire splinters.png",
-        "name": "Sunfire splinters",
-        "quantity": "150000"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Blessed dizana's quiver.png",
-      "name": "Blessed dizana's quiver",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
     "facilities": "Exposed altar",
     "materials": [
       {
@@ -16184,8 +16794,8 @@
   {
     "materials": [
       {
-        "image": "Rod of ivandis.png",
-        "name": "Rod of ivandis",
+        "image": "Rod of Ivandis.png",
+        "name": "Rod of Ivandis",
         "quantity": "1"
       },
       {
@@ -17759,8 +18369,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blurite bolts.png",
+      "name": "Blurite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "24",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Blurite bolts (unf).png",
+        "name": "Blurite bolts (unf)",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blurite bolts.png",
+      "name": "Blurite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "24",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Blurite bolts (unf).png",
+        "name": "Blurite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blurite bolts.png",
+      "name": "Blurite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "24",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Blurite bolts (unf).png",
+        "name": "Blurite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blurite bolts.png",
+      "name": "Blurite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "24",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Blurite bolts (unf).png",
+        "name": "Blurite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blurite bolts.png",
+      "name": "Blurite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "24",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Blurite bolts (unf).png",
+        "name": "Blurite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blurite bolts.png",
+      "name": "Blurite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "24",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Blurite bolts (unf).png",
+        "name": "Blurite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blurite bolts.png",
+      "name": "Blurite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "24",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Blurite bolts (unf).png",
+        "name": "Blurite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -18833,8 +19646,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Boots of brimstone.png",
-      "name": "Boots of brimstone",
+      "image": "Boots of Brimstone.png",
+      "name": "Boots of Brimstone",
       "quantity": "1"
     },
     "skills": [],
@@ -19012,7 +19825,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">108,232,214</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">109,444,498</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -20906,8 +21719,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of redirection.png",
-        "name": "Scroll of redirection",
+        "image": "Scroll of Redirection.png",
+        "name": "Scroll of Redirection",
         "quantity": "1"
       }
     ],
@@ -20991,8 +21804,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Broad bolts.png",
+      "name": "Broad bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "30",
+        "level": "55",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Unfinished broad bolts.png",
+        "name": "Unfinished broad bolts",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Broad bolts.png",
+      "name": "Broad bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "30",
+        "level": "55",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Unfinished broad bolts.png",
+        "name": "Unfinished broad bolts",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Broad bolts.png",
+      "name": "Broad bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "30",
+        "level": "55",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Unfinished broad bolts.png",
+        "name": "Unfinished broad bolts",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Broad bolts.png",
+      "name": "Broad bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "30",
+        "level": "55",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Unfinished broad bolts.png",
+        "name": "Unfinished broad bolts",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Broad bolts.png",
+      "name": "Broad bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "30",
+        "level": "55",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Unfinished broad bolts.png",
+        "name": "Unfinished broad bolts",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Broad bolts.png",
+      "name": "Broad bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "30",
+        "level": "55",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Unfinished broad bolts.png",
+        "name": "Unfinished broad bolts",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Broad bolts.png",
+      "name": "Broad bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "30",
+        "level": "55",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Unfinished broad bolts.png",
+        "name": "Unfinished broad bolts",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -21492,8 +22508,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze bolts.png",
+      "name": "Bronze bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5",
+        "level": "9",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze bolts (unf).png",
+        "name": "Bronze bolts (unf)",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze bolts.png",
+      "name": "Bronze bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5",
+        "level": "9",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze bolts (unf).png",
+        "name": "Bronze bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze bolts.png",
+      "name": "Bronze bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5",
+        "level": "9",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze bolts (unf).png",
+        "name": "Bronze bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze bolts.png",
+      "name": "Bronze bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5",
+        "level": "9",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze bolts (unf).png",
+        "name": "Bronze bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze bolts.png",
+      "name": "Bronze bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5",
+        "level": "9",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze bolts (unf).png",
+        "name": "Bronze bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze bolts.png",
+      "name": "Bronze bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5",
+        "level": "9",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze bolts (unf).png",
+        "name": "Bronze bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze bolts.png",
+      "name": "Bronze bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5",
+        "level": "9",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze bolts (unf).png",
+        "name": "Bronze bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -21959,8 +23178,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze dart.png",
+      "name": "Bronze dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "18",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze dart tip.png",
+        "name": "Bronze dart tip",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze dart.png",
+      "name": "Bronze dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "18",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze dart tip.png",
+        "name": "Bronze dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze dart.png",
+      "name": "Bronze dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "18",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze dart tip.png",
+        "name": "Bronze dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze dart.png",
+      "name": "Bronze dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "18",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze dart tip.png",
+        "name": "Bronze dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze dart.png",
+      "name": "Bronze dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "18",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze dart tip.png",
+        "name": "Bronze dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze dart.png",
+      "name": "Bronze dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "18",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze dart tip.png",
+        "name": "Bronze dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bronze dart.png",
+      "name": "Bronze dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "18",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bronze dart tip.png",
+        "name": "Bronze dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -27425,8 +28847,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Cake of guidance.png",
-      "name": "Cake of guidance",
+      "image": "Cake of Guidance.png",
+      "name": "Cake of Guidance",
       "quantity": "1"
     },
     "skills": [
@@ -40190,6 +41612,39 @@
     "ticks": "5"
   },
   {
+    "facilities": "Curator Haig Halen",
+    "materials": [
+      {
+        "image": "Digsite pendant.png",
+        "name": "Digsite pendant",
+        "quantity": "1"
+      },
+      {
+        "image": "Ruby.png",
+        "name": "Ruby",
+        "quantity": "250"
+      },
+      {
+        "image": "Fire rune.png",
+        "name": "Fire rune",
+        "quantity": "500"
+      },
+      {
+        "image": "Cosmic rune.png",
+        "name": "Cosmic rune",
+        "quantity": "100"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Curator's medallion.png",
+      "name": "Curator's medallion",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Thakkrad Sigmundson",
     "materials": [
       {
@@ -41036,8 +42491,8 @@
   {
     "materials": [
       {
-        "image": "Eye of ayak (uncharged).png",
-        "name": "Eye of ayak",
+        "image": "Eye of Ayak (uncharged).png",
+        "name": "Eye of Ayak",
         "quantity": "1",
         "version": "Uncharged"
       }
@@ -42172,8 +43627,8 @@
         "quantity": "1"
       },
       {
-        "image": "Thread of elidinis.png",
-        "name": "Thread of elidinis",
+        "image": "Thread of Elidinis.png",
+        "name": "Thread of Elidinis",
         "quantity": "1"
       }
     ],
@@ -42204,8 +43659,8 @@
         "quantity": "1"
       },
       {
-        "image": "Thread of elidinis.png",
-        "name": "Thread of elidinis",
+        "image": "Thread of Elidinis.png",
+        "name": "Thread of Elidinis",
         "quantity": "1"
       }
     ],
@@ -42727,8 +44182,8 @@
   {
     "materials": [
       {
-        "image": "Blessed dizana's quiver.png",
-        "name": "Blessed dizana's quiver",
+        "image": "Blessed Dizana's quiver.png",
+        "name": "Blessed Dizana's quiver",
         "quantity": "1"
       },
       {
@@ -42754,8 +44209,8 @@
   {
     "materials": [
       {
-        "image": "Blessed dizana's quiver.png",
-        "name": "Blessed dizana's quiver",
+        "image": "Blessed Dizana's quiver.png",
+        "name": "Blessed Dizana's quiver",
         "quantity": "1"
       },
       {
@@ -43286,8 +44741,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon bolts.png",
+      "name": "Dragon bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "120",
+        "level": "84",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon bolts (unf).png",
+        "name": "Dragon bolts (unf)",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon bolts.png",
+      "name": "Dragon bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "120",
+        "level": "84",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon bolts (unf).png",
+        "name": "Dragon bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon bolts.png",
+      "name": "Dragon bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "120",
+        "level": "84",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon bolts (unf).png",
+        "name": "Dragon bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon bolts.png",
+      "name": "Dragon bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "120",
+        "level": "84",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon bolts (unf).png",
+        "name": "Dragon bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon bolts.png",
+      "name": "Dragon bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "120",
+        "level": "84",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon bolts (unf).png",
+        "name": "Dragon bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon bolts.png",
+      "name": "Dragon bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "120",
+        "level": "84",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon bolts (unf).png",
+        "name": "Dragon bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon bolts.png",
+      "name": "Dragon bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "120",
+        "level": "84",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon bolts (unf).png",
+        "name": "Dragon bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -43758,8 +45416,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon dart.png",
+      "name": "Dragon dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "250",
+        "level": "95",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon dart tip.png",
+        "name": "Dragon dart tip",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon dart.png",
+      "name": "Dragon dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "250",
+        "level": "95",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon dart tip.png",
+        "name": "Dragon dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon dart.png",
+      "name": "Dragon dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "250",
+        "level": "95",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon dart tip.png",
+        "name": "Dragon dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon dart.png",
+      "name": "Dragon dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "250",
+        "level": "95",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon dart tip.png",
+        "name": "Dragon dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon dart.png",
+      "name": "Dragon dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "250",
+        "level": "95",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon dart tip.png",
+        "name": "Dragon dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon dart.png",
+      "name": "Dragon dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "250",
+        "level": "95",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon dart tip.png",
+        "name": "Dragon dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon dart.png",
+      "name": "Dragon dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "250",
+        "level": "95",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon dart tip.png",
+        "name": "Dragon dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -49278,7 +51139,7 @@
     },
     "skills": [],
     "ticks": "1",
-    "tools": "Ring of charos(a)"
+    "tools": "Ring of Charos(a)"
   },
   {
     "facilities": "Fossegrimen",
@@ -51000,7 +52861,7 @@
     ],
     "members": true,
     "output": {
-      "image": "Fighter torso (l)(or).png",
+      "image": "Fighter torso (or).png",
       "name": "Fighter torso (or)",
       "quantity": "1",
       "version": "Locked"
@@ -52797,8 +54658,211 @@
         "quantity": "6"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "24"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Flighted ogre arrow.png",
+      "name": "Flighted ogre arrow",
+      "quantity": "6"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5.4",
+        "level": "5",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ogre arrow shaft.png",
+        "name": "Ogre arrow shaft",
+        "quantity": "6"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "24"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Flighted ogre arrow.png",
+      "name": "Flighted ogre arrow",
+      "quantity": "6"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5.4",
+        "level": "5",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ogre arrow shaft.png",
+        "name": "Ogre arrow shaft",
+        "quantity": "6"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "24"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Flighted ogre arrow.png",
+      "name": "Flighted ogre arrow",
+      "quantity": "6"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5.4",
+        "level": "5",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ogre arrow shaft.png",
+        "name": "Ogre arrow shaft",
+        "quantity": "6"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "24"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Flighted ogre arrow.png",
+      "name": "Flighted ogre arrow",
+      "quantity": "6"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5.4",
+        "level": "5",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ogre arrow shaft.png",
+        "name": "Ogre arrow shaft",
+        "quantity": "6"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "24"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Flighted ogre arrow.png",
+      "name": "Flighted ogre arrow",
+      "quantity": "6"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5.4",
+        "level": "5",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ogre arrow shaft.png",
+        "name": "Ogre arrow shaft",
+        "quantity": "6"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "24"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Flighted ogre arrow.png",
+      "name": "Flighted ogre arrow",
+      "quantity": "6"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5.4",
+        "level": "5",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ogre arrow shaft.png",
+        "name": "Ogre arrow shaft",
+        "quantity": "6"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "24"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Flighted ogre arrow.png",
+      "name": "Flighted ogre arrow",
+      "quantity": "6"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "5.4",
+        "level": "5",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ogre arrow shaft.png",
+        "name": "Ogre arrow shaft",
+        "quantity": "6"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "24"
       }
     ],
@@ -53631,8 +55695,8 @@
   {
     "materials": [
       {
-        "image": "Pendant of ates (inert).png",
-        "name": "Pendant of ates",
+        "image": "Pendant of Ates (inert).png",
+        "name": "Pendant of Ates",
         "quantity": "1",
         "version": "Inert"
       }
@@ -54308,6 +56372,52 @@
     "ticks": "20"
   },
   {
+    "materials": [
+      {
+        "image": "Giant Squirrel.png",
+        "name": "Giant Squirrel",
+        "quantity": "1"
+      },
+      {
+        "image": "Calcified acorn.png",
+        "name": "Calcified acorn",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bone Squirrel.png",
+      "name": "Giant Squirrel",
+      "quantity": "1",
+      "version": "Bone"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Giant Squirrel.png",
+        "name": "Giant Squirrel",
+        "quantity": "1"
+      },
+      {
+        "image": "Dark acorn.png",
+        "name": "Dark acorn",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dark Squirrel.png",
+      "name": "Giant Squirrel",
+      "quantity": "1",
+      "version": "Dark"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Pot-boiler",
     "materials": [
       {
@@ -54420,52 +56530,6 @@
     },
     "skills": [],
     "ticks": "20"
-  },
-  {
-    "materials": [
-      {
-        "image": "Giant Squirrel.png",
-        "name": "Giant squirrel",
-        "quantity": "1"
-      },
-      {
-        "image": "Calcified acorn.png",
-        "name": "Calcified acorn",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Bone Squirrel.png",
-      "name": "Giant squirrel",
-      "quantity": "1",
-      "version": "Bone"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "image": "Giant Squirrel.png",
-        "name": "Giant squirrel",
-        "quantity": "1"
-      },
-      {
-        "image": "Dark acorn.png",
-        "name": "Dark acorn",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Dark Squirrel.png",
-      "name": "Giant squirrel",
-      "quantity": "1",
-      "version": "Dark"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "materials": [
@@ -59732,8 +61796,8 @@
   {
     "materials": [
       {
-        "image": "Hat of the eye.png",
-        "name": "Hat of the eye",
+        "image": "Hat of the Eye.png",
+        "name": "Hat of the Eye",
         "quantity": "1"
       },
       {
@@ -59744,10 +61808,10 @@
     ],
     "members": true,
     "output": {
-      "image": "Hat of the eye (blue).png",
-      "name": "Hat of the eye",
+      "image": "Hat of the Eye (blue).png",
+      "name": "Hat of the Eye",
       "quantity": "1",
-      "txt": "Hat of the eye (blue)",
+      "txt": "Hat of the Eye (blue)",
       "version": "Blue"
     },
     "skills": [],
@@ -59756,8 +61820,8 @@
   {
     "materials": [
       {
-        "image": "Hat of the eye.png",
-        "name": "Hat of the eye",
+        "image": "Hat of the Eye.png",
+        "name": "Hat of the Eye",
         "quantity": "1"
       },
       {
@@ -59768,10 +61832,10 @@
     ],
     "members": true,
     "output": {
-      "image": "Hat of the eye (green).png",
-      "name": "Hat of the eye",
+      "image": "Hat of the Eye (green).png",
+      "name": "Hat of the Eye",
       "quantity": "1",
-      "txt": "Hat of the eye (green)",
+      "txt": "Hat of the Eye (green)",
       "version": "Green"
     },
     "skills": [],
@@ -59780,8 +61844,8 @@
   {
     "materials": [
       {
-        "image": "Hat of the eye.png",
-        "name": "Hat of the eye",
+        "image": "Hat of the Eye.png",
+        "name": "Hat of the Eye",
         "quantity": "1"
       },
       {
@@ -59792,10 +61856,10 @@
     ],
     "members": true,
     "output": {
-      "image": "Hat of the eye (red).png",
-      "name": "Hat of the eye",
+      "image": "Hat of the Eye (red).png",
+      "name": "Hat of the Eye",
       "quantity": "1",
-      "txt": "Hat of the eye (red)",
+      "txt": "Hat of the Eye (red)",
       "version": "Red"
     },
     "skills": [],
@@ -59847,8 +61911,211 @@
         "quantity": "15"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless arrow.png",
+      "name": "Headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Arrow shaft.png",
+        "name": "Arrow shaft",
+        "quantity": "15"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless arrow.png",
+      "name": "Headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Arrow shaft.png",
+        "name": "Arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless arrow.png",
+      "name": "Headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Arrow shaft.png",
+        "name": "Arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless arrow.png",
+      "name": "Headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Arrow shaft.png",
+        "name": "Arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless arrow.png",
+      "name": "Headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Arrow shaft.png",
+        "name": "Arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless arrow.png",
+      "name": "Headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Arrow shaft.png",
+        "name": "Arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless arrow.png",
+      "name": "Headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Arrow shaft.png",
+        "name": "Arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "15"
       }
     ],
@@ -59876,8 +62143,211 @@
         "quantity": "20"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "20"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless atlatl dart 5.png",
+      "name": "Headless atlatl dart",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "20",
+        "level": "74",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Atlatl dart shaft 5.png",
+        "name": "Atlatl dart shaft",
+        "quantity": "20"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "20"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless atlatl dart 5.png",
+      "name": "Headless atlatl dart",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "20",
+        "level": "74",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Atlatl dart shaft 5.png",
+        "name": "Atlatl dart shaft",
+        "quantity": "20"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "20"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless atlatl dart 5.png",
+      "name": "Headless atlatl dart",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "20",
+        "level": "74",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Atlatl dart shaft 5.png",
+        "name": "Atlatl dart shaft",
+        "quantity": "20"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "20"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless atlatl dart 5.png",
+      "name": "Headless atlatl dart",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "20",
+        "level": "74",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Atlatl dart shaft 5.png",
+        "name": "Atlatl dart shaft",
+        "quantity": "20"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "20"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless atlatl dart 5.png",
+      "name": "Headless atlatl dart",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "20",
+        "level": "74",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Atlatl dart shaft 5.png",
+        "name": "Atlatl dart shaft",
+        "quantity": "20"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "20"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless atlatl dart 5.png",
+      "name": "Headless atlatl dart",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "20",
+        "level": "74",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Atlatl dart shaft 5.png",
+        "name": "Atlatl dart shaft",
+        "quantity": "20"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "20"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Headless atlatl dart 5.png",
+      "name": "Headless atlatl dart",
+      "quantity": "20"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "20",
+        "level": "74",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Atlatl dart shaft 5.png",
+        "name": "Atlatl dart shaft",
+        "quantity": "20"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "20"
       }
     ],
@@ -59951,8 +62421,8 @@
   {
     "materials": [
       {
-        "image": "Helm of neitiznot.png",
-        "name": "Helm of neitiznot",
+        "image": "Helm of Neitiznot.png",
+        "name": "Helm of Neitiznot",
         "quantity": "1"
       },
       {
@@ -59963,8 +62433,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Helm of neitiznot (or).png",
-      "name": "Helm of neitiznot (or)",
+      "image": "Helm of Neitiznot (or).png",
+      "name": "Helm of Neitiznot (or)",
       "quantity": "1"
     },
     "skills": [],
@@ -60691,8 +63161,8 @@
   {
     "materials": [
       {
-        "image": "Scythe of vitur (uncharged).png",
-        "name": "Scythe of vitur",
+        "image": "Scythe of Vitur (uncharged).png",
+        "name": "Scythe of Vitur",
         "quantity": "1",
         "version": "Uncharged"
       },
@@ -60836,8 +63306,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of redirection.png",
-        "name": "Scroll of redirection",
+        "image": "Scroll of Redirection.png",
+        "name": "Scroll of Redirection",
         "quantity": "1"
       }
     ],
@@ -63317,8 +65787,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron bolts.png",
+      "name": "Iron bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "39",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron bolts (unf).png",
+        "name": "Iron bolts (unf)",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron bolts.png",
+      "name": "Iron bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "39",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron bolts (unf).png",
+        "name": "Iron bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron bolts.png",
+      "name": "Iron bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "39",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron bolts (unf).png",
+        "name": "Iron bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron bolts.png",
+      "name": "Iron bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "39",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron bolts (unf).png",
+        "name": "Iron bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron bolts.png",
+      "name": "Iron bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "39",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron bolts (unf).png",
+        "name": "Iron bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron bolts.png",
+      "name": "Iron bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "39",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron bolts (unf).png",
+        "name": "Iron bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron bolts.png",
+      "name": "Iron bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "15",
+        "level": "39",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron bolts (unf).png",
+        "name": "Iron bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -63762,8 +66435,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron dart.png",
+      "name": "Iron dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "38",
+        "level": "22",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron dart tip.png",
+        "name": "Iron dart tip",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron dart.png",
+      "name": "Iron dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "38",
+        "level": "22",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron dart tip.png",
+        "name": "Iron dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron dart.png",
+      "name": "Iron dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "38",
+        "level": "22",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron dart tip.png",
+        "name": "Iron dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron dart.png",
+      "name": "Iron dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "38",
+        "level": "22",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron dart tip.png",
+        "name": "Iron dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron dart.png",
+      "name": "Iron dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "38",
+        "level": "22",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron dart tip.png",
+        "name": "Iron dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron dart.png",
+      "name": "Iron dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "38",
+        "level": "22",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron dart tip.png",
+        "name": "Iron dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Iron dart.png",
+      "name": "Iron dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "38",
+        "level": "22",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Iron dart tip.png",
+        "name": "Iron dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -65176,8 +68052,8 @@
   {
     "materials": [
       {
-        "image": "Rod of ivandis.png",
-        "name": "Rod of ivandis",
+        "image": "Rod of Ivandis.png",
+        "name": "Rod of Ivandis",
         "quantity": "1"
       },
       {
@@ -66509,8 +69385,8 @@
         "quantity": "1"
       },
       {
-        "image": "Jewel of amascut.png",
-        "name": "Jewel of amascut",
+        "image": "Jewel of Amascut.png",
+        "name": "Jewel of Amascut",
         "quantity": "1"
       }
     ],
@@ -66531,8 +69407,8 @@
         "quantity": "1"
       },
       {
-        "image": "Breach of the scarab.png",
-        "name": "Breach of the scarab",
+        "image": "Breach of the Scarab.png",
+        "name": "Breach of the Scarab",
         "quantity": "1"
       }
     ],
@@ -66553,8 +69429,8 @@
         "quantity": "1"
       },
       {
-        "image": "Eye of the corruptor.png",
-        "name": "Eye of the corruptor",
+        "image": "Eye of the Corruptor.png",
+        "name": "Eye of the Corruptor",
         "quantity": "1"
       }
     ],
@@ -66575,8 +69451,8 @@
         "quantity": "1"
       },
       {
-        "image": "Jewel of the sun.png",
-        "name": "Jewel of the sun",
+        "image": "Jewel of the Sun.png",
+        "name": "Jewel of the Sun",
         "quantity": "1"
       }
     ],
@@ -72246,14 +75122,14 @@
       {
         "image": "Coins.png",
         "name": "Coins",
-        "quantity": "12000"
+        "quantity": "60000"
       }
     ],
     "members": true,
     "output": {
       "image": "Mangled extract.png",
       "name": "Mangled extract",
-      "quantity": "1"
+      "quantity": "5"
     },
     "skills": [],
     "ticks": "0"
@@ -73323,8 +76199,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Medallion of the deep.png",
-      "name": "Medallion of the deep",
+      "image": "Medallion of the Deep.png",
+      "name": "Medallion of the Deep",
       "quantity": "1"
     },
     "skills": [
@@ -73720,8 +76596,8 @@
         "quantity": "1"
       },
       {
-        "image": "Lily of the sands.png",
-        "name": "Lily of the sands",
+        "image": "Lily of the Sands.png",
+        "name": "Lily of the Sands",
         "quantity": "1"
       }
     ],
@@ -75061,8 +77937,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril bolts.png",
+      "name": "Mithril bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "54",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril bolts (unf).png",
+        "name": "Mithril bolts (unf)",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril bolts.png",
+      "name": "Mithril bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "54",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril bolts (unf).png",
+        "name": "Mithril bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril bolts.png",
+      "name": "Mithril bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "54",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril bolts (unf).png",
+        "name": "Mithril bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril bolts.png",
+      "name": "Mithril bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "54",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril bolts (unf).png",
+        "name": "Mithril bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril bolts.png",
+      "name": "Mithril bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "54",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril bolts (unf).png",
+        "name": "Mithril bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril bolts.png",
+      "name": "Mithril bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "54",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril bolts (unf).png",
+        "name": "Mithril bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril bolts.png",
+      "name": "Mithril bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "54",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril bolts (unf).png",
+        "name": "Mithril bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -75506,8 +78585,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril dart.png",
+      "name": "Mithril dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "112",
+        "level": "52",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril dart tip.png",
+        "name": "Mithril dart tip",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril dart.png",
+      "name": "Mithril dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "112",
+        "level": "52",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril dart tip.png",
+        "name": "Mithril dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril dart.png",
+      "name": "Mithril dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "112",
+        "level": "52",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril dart tip.png",
+        "name": "Mithril dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril dart.png",
+      "name": "Mithril dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "112",
+        "level": "52",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril dart tip.png",
+        "name": "Mithril dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril dart.png",
+      "name": "Mithril dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "112",
+        "level": "52",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril dart tip.png",
+        "name": "Mithril dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril dart.png",
+      "name": "Mithril dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "112",
+        "level": "52",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril dart tip.png",
+        "name": "Mithril dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mithril dart.png",
+      "name": "Mithril dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "112",
+        "level": "52",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Mithril dart tip.png",
+        "name": "Mithril dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -81654,8 +84936,8 @@
   {
     "materials": [
       {
-        "image": "Helm of neitiznot.png",
-        "name": "Helm of neitiznot",
+        "image": "Helm of Neitiznot.png",
+        "name": "Helm of Neitiznot",
         "quantity": "1"
       },
       {
@@ -87261,8 +90543,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Plain of mud sphere.png",
-      "name": "Plain of mud sphere",
+      "image": "Plain of Mud sphere.png",
+      "name": "Plain of Mud sphere",
       "quantity": "1"
     },
     "skills": [],
@@ -87748,8 +91030,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of redirection.png",
-        "name": "Scroll of redirection",
+        "image": "Scroll of Redirection.png",
+        "name": "Scroll of Redirection",
         "quantity": "1"
       }
     ],
@@ -88493,8 +91775,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of redirection.png",
-        "name": "Scroll of redirection",
+        "image": "Scroll of Redirection.png",
+        "name": "Scroll of Redirection",
         "quantity": "1"
       }
     ],
@@ -91641,8 +94923,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of redirection.png",
-        "name": "Scroll of redirection",
+        "image": "Scroll of Redirection.png",
+        "name": "Scroll of Redirection",
         "quantity": "1"
       }
     ],
@@ -92002,8 +95284,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of redirection.png",
-        "name": "Scroll of redirection",
+        "image": "Scroll of Redirection.png",
+        "name": "Scroll of Redirection",
         "quantity": "1"
       }
     ],
@@ -92653,8 +95935,8 @@
   {
     "materials": [
       {
-        "image": "Robe bottoms of the eye.png",
-        "name": "Robe bottoms of the eye",
+        "image": "Robe bottoms of the Eye.png",
+        "name": "Robe bottoms of the Eye",
         "quantity": "1"
       },
       {
@@ -92665,8 +95947,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Robe bottoms of the eye (blue).png",
-      "name": "Robe bottoms of the eye",
+      "image": "Robe bottoms of the Eye (blue).png",
+      "name": "Robe bottoms of the Eye",
       "quantity": "1",
       "version": "Blue"
     },
@@ -92676,8 +95958,8 @@
   {
     "materials": [
       {
-        "image": "Robe bottoms of the eye.png",
-        "name": "Robe bottoms of the eye",
+        "image": "Robe bottoms of the Eye.png",
+        "name": "Robe bottoms of the Eye",
         "quantity": "1"
       },
       {
@@ -92688,8 +95970,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Robe bottoms of the eye (green).png",
-      "name": "Robe bottoms of the eye",
+      "image": "Robe bottoms of the Eye (green).png",
+      "name": "Robe bottoms of the Eye",
       "quantity": "1",
       "version": "Green"
     },
@@ -92699,8 +95981,8 @@
   {
     "materials": [
       {
-        "image": "Robe bottoms of the eye.png",
-        "name": "Robe bottoms of the eye",
+        "image": "Robe bottoms of the Eye.png",
+        "name": "Robe bottoms of the Eye",
         "quantity": "1"
       },
       {
@@ -92711,8 +95993,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Robe bottoms of the eye (red).png",
-      "name": "Robe bottoms of the eye",
+      "image": "Robe bottoms of the Eye (red).png",
+      "name": "Robe bottoms of the Eye",
       "quantity": "1",
       "version": "Red"
     },
@@ -92734,8 +96016,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Robe of elidinis (bottom).png",
-      "name": "Robe of elidinis (bottom)",
+      "image": "Robe of Elidinis (bottom).png",
+      "name": "Robe of Elidinis (bottom)",
       "quantity": "1"
     },
     "skills": [],
@@ -92757,8 +96039,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Robe of elidinis (top).png",
-      "name": "Robe of elidinis (top)",
+      "image": "Robe of Elidinis (top).png",
+      "name": "Robe of Elidinis (top)",
       "quantity": "1"
     },
     "skills": [],
@@ -92768,8 +96050,8 @@
   {
     "materials": [
       {
-        "image": "Robe top of the eye.png",
-        "name": "Robe top of the eye",
+        "image": "Robe top of the Eye.png",
+        "name": "Robe top of the Eye",
         "quantity": "1"
       },
       {
@@ -92780,8 +96062,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Robe top of the eye (blue).png",
-      "name": "Robe top of the eye",
+      "image": "Robe top of the Eye (blue).png",
+      "name": "Robe top of the Eye",
       "quantity": "1",
       "version": "Blue"
     },
@@ -92791,8 +96073,8 @@
   {
     "materials": [
       {
-        "image": "Robe top of the eye.png",
-        "name": "Robe top of the eye",
+        "image": "Robe top of the Eye.png",
+        "name": "Robe top of the Eye",
         "quantity": "1"
       },
       {
@@ -92803,8 +96085,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Robe top of the eye (green).png",
-      "name": "Robe top of the eye",
+      "image": "Robe top of the Eye (green).png",
+      "name": "Robe top of the Eye",
       "quantity": "1",
       "version": "Green"
     },
@@ -92814,8 +96096,8 @@
   {
     "materials": [
       {
-        "image": "Robe top of the eye.png",
-        "name": "Robe top of the eye",
+        "image": "Robe top of the Eye.png",
+        "name": "Robe top of the Eye",
         "quantity": "1"
       },
       {
@@ -92826,8 +96108,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Robe top of the eye (red).png",
-      "name": "Robe top of the eye",
+      "image": "Robe top of the Eye (red).png",
+      "name": "Robe top of the Eye",
       "quantity": "1",
       "version": "Red"
     },
@@ -92955,8 +96237,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Rod of ivandis.png",
-      "name": "Rod of ivandis",
+      "image": "Rod of Ivandis.png",
+      "name": "Rod of Ivandis",
       "quantity": "1"
     },
     "skills": [],
@@ -94949,8 +98231,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Rune dart.png",
+      "name": "Rune dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "188",
+        "level": "81",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Rune dart tip.png",
+        "name": "Rune dart tip",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Rune dart.png",
+      "name": "Rune dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "188",
+        "level": "81",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Rune dart tip.png",
+        "name": "Rune dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Rune dart.png",
+      "name": "Rune dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "188",
+        "level": "81",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Rune dart tip.png",
+        "name": "Rune dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Rune dart.png",
+      "name": "Rune dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "188",
+        "level": "81",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Rune dart tip.png",
+        "name": "Rune dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Rune dart.png",
+      "name": "Rune dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "188",
+        "level": "81",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Rune dart tip.png",
+        "name": "Rune dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Rune dart.png",
+      "name": "Rune dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "188",
+        "level": "81",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Rune dart tip.png",
+        "name": "Rune dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Rune dart.png",
+      "name": "Rune dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "188",
+        "level": "81",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Rune dart tip.png",
+        "name": "Rune dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -97346,8 +100831,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Runite bolts.png",
+      "name": "Runite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "69",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Runite bolts (unf).png",
+        "name": "Runite bolts (unf)",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Runite bolts.png",
+      "name": "Runite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "69",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Runite bolts (unf).png",
+        "name": "Runite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Runite bolts.png",
+      "name": "Runite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "69",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Runite bolts (unf).png",
+        "name": "Runite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Runite bolts.png",
+      "name": "Runite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "69",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Runite bolts (unf).png",
+        "name": "Runite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Runite bolts.png",
+      "name": "Runite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "69",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Runite bolts (unf).png",
+        "name": "Runite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Runite bolts.png",
+      "name": "Runite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "69",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Runite bolts (unf).png",
+        "name": "Runite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Runite bolts.png",
+      "name": "Runite bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "69",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Runite bolts (unf).png",
+        "name": "Runite bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -98301,8 +101989,8 @@
   {
     "materials": [
       {
-        "image": "Scythe of vitur (uncharged).png",
-        "name": "Scythe of vitur",
+        "image": "Scythe of Vitur (uncharged).png",
+        "name": "Scythe of Vitur",
         "quantity": "1",
         "version": "Uncharged"
       },
@@ -99506,14 +103194,14 @@
       {
         "image": "Coins.png",
         "name": "Coins",
-        "quantity": "24000"
+        "quantity": "120000"
       }
     ],
     "members": true,
     "output": {
       "image": "Scarred extract.png",
       "name": "Scarred extract",
-      "quantity": "1"
+      "quantity": "5"
     },
     "skills": [],
     "ticks": "0"
@@ -100450,8 +104138,211 @@
         "quantity": "15"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking headless arrow.png",
+      "name": "Seeking headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking arrow shaft.png",
+        "name": "Seeking arrow shaft",
+        "quantity": "15"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking headless arrow.png",
+      "name": "Seeking headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking arrow shaft.png",
+        "name": "Seeking arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking headless arrow.png",
+      "name": "Seeking headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking arrow shaft.png",
+        "name": "Seeking arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking headless arrow.png",
+      "name": "Seeking headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking arrow shaft.png",
+        "name": "Seeking arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking headless arrow.png",
+      "name": "Seeking headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking arrow shaft.png",
+        "name": "Seeking arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking headless arrow.png",
+      "name": "Seeking headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking arrow shaft.png",
+        "name": "Seeking arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seeking headless arrow.png",
+      "name": "Seeking headless arrow",
+      "quantity": "15"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "15",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Seeking arrow shaft.png",
+        "name": "Seeking arrow shaft",
+        "quantity": "15"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "15"
       }
     ],
@@ -102643,6 +106534,101 @@
   {
     "materials": [
       {
+        "image": "Silver bolts.png",
+        "name": "Silver bolts",
+        "quantity": "5"
+      },
+      {
+        "image": "Weapon poison.png",
+        "name": "Weapon poison",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Silver bolts (p).png",
+      "name": "Silver bolts",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Silver bolts.png",
+        "name": "Silver bolts",
+        "quantity": "5"
+      },
+      {
+        "image": "Weapon poison(+).png",
+        "name": "Weapon poison(+)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Silver bolts (p+).png",
+      "name": "Silver bolts",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Silver bolts.png",
+        "name": "Silver bolts",
+        "quantity": "5"
+      },
+      {
+        "image": "Weapon poison(++).png",
+        "name": "Weapon poison(++)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Silver bolts (p++).png",
+      "name": "Silver bolts",
+      "quantity": "5"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Silver bolts (unf).png",
+        "name": "Silver bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Silver bolts.png",
+      "name": "Silver bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "43",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "image": "Silver bolts (unf).png",
         "name": "Silver bolts (unf)",
         "quantity": "10"
@@ -102650,6 +106636,180 @@
       {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Silver bolts.png",
+      "name": "Silver bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "43",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Silver bolts (unf).png",
+        "name": "Silver bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Silver bolts.png",
+      "name": "Silver bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "43",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Silver bolts (unf).png",
+        "name": "Silver bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Silver bolts.png",
+      "name": "Silver bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "43",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Silver bolts (unf).png",
+        "name": "Silver bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Silver bolts.png",
+      "name": "Silver bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "43",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Silver bolts (unf).png",
+        "name": "Silver bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Silver bolts.png",
+      "name": "Silver bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "43",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Silver bolts (unf).png",
+        "name": "Silver bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Silver bolts.png",
+      "name": "Silver bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "43",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Silver bolts (unf).png",
+        "name": "Silver bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -106226,8 +110386,8 @@
         "quantity": "1"
       },
       {
-        "image": "Eye of the duke.png",
-        "name": "Eye of the duke",
+        "image": "Eye of the Duke.png",
+        "name": "Eye of the Duke",
         "quantity": "1"
       },
       {
@@ -107825,6 +111985,29 @@
     "tools": "Pestle and mortar"
   },
   {
+    "facilities": "Juna",
+    "materials": [
+      {
+        "image": "Staff of the Dead.png",
+        "name": "Staff of the Dead",
+        "quantity": "1"
+      },
+      {
+        "image": "Guthixian icon.png",
+        "name": "Guthixian icon",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Staff of Balance.png",
+      "name": "Staff of Balance",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "image": "Staff of the Dead.png",
@@ -107895,29 +112078,6 @@
     "output": {
       "image": "Staff of air.png",
       "name": "Staff of air",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": ""
-  },
-  {
-    "facilities": "Juna",
-    "materials": [
-      {
-        "image": "Staff of the Dead.png",
-        "name": "Staff of the Dead",
-        "quantity": "1"
-      },
-      {
-        "image": "Guthixian icon.png",
-        "name": "Guthixian icon",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Staff of balance.png",
-      "name": "Staff of balance",
       "quantity": "1"
     },
     "skills": [],
@@ -109080,8 +113240,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel bolts.png",
+      "name": "Steel bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "35",
+        "level": "46",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel bolts (unf).png",
+        "name": "Steel bolts (unf)",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel bolts.png",
+      "name": "Steel bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "35",
+        "level": "46",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel bolts (unf).png",
+        "name": "Steel bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel bolts.png",
+      "name": "Steel bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "35",
+        "level": "46",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel bolts (unf).png",
+        "name": "Steel bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel bolts.png",
+      "name": "Steel bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "35",
+        "level": "46",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel bolts (unf).png",
+        "name": "Steel bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel bolts.png",
+      "name": "Steel bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "35",
+        "level": "46",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel bolts (unf).png",
+        "name": "Steel bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel bolts.png",
+      "name": "Steel bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "35",
+        "level": "46",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel bolts (unf).png",
+        "name": "Steel bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel bolts.png",
+      "name": "Steel bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "35",
+        "level": "46",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel bolts (unf).png",
+        "name": "Steel bolts (unf)",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -109547,8 +113910,211 @@
         "quantity": "10"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel dart.png",
+      "name": "Steel dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "37",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel dart tip.png",
+        "name": "Steel dart tip",
+        "quantity": "10"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel dart.png",
+      "name": "Steel dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "37",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel dart tip.png",
+        "name": "Steel dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel dart.png",
+      "name": "Steel dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "37",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel dart tip.png",
+        "name": "Steel dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel dart.png",
+      "name": "Steel dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "37",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel dart tip.png",
+        "name": "Steel dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel dart.png",
+      "name": "Steel dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "37",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel dart tip.png",
+        "name": "Steel dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel dart.png",
+      "name": "Steel dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "37",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel dart tip.png",
+        "name": "Steel dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Steel dart.png",
+      "name": "Steel dart",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "37",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Steel dart tip.png",
+        "name": "Steel dart tip",
+        "quantity": "10"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
         "quantity": "10"
       }
     ],
@@ -114495,8 +119061,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of redirection.png",
-        "name": "Scroll of redirection",
+        "image": "Scroll of Redirection.png",
+        "name": "Scroll of Redirection",
         "quantity": "1"
       }
     ],
@@ -116737,15 +121303,15 @@
       },
       {
         "image": "Uncharged trident.png",
-        "name": "Trident of the seas",
+        "name": "Trident of the Seas",
         "quantity": "1",
         "version": "Uncharged"
       }
     ],
     "members": "",
     "output": {
-      "image": "Trident of the seas (full).png",
-      "name": "Trident of the seas",
+      "image": "Trident of the Seas (full).png",
+      "name": "Trident of the Seas",
       "quantity": "1",
       "version": "Charged"
     },
@@ -116756,7 +121322,7 @@
     "materials": [
       {
         "image": "Uncharged trident.png",
-        "name": "Trident of the seas",
+        "name": "Trident of the Seas",
         "quantity": "1",
         "version": "Uncharged"
       },
@@ -116769,7 +121335,7 @@
     "members": true,
     "output": {
       "image": "Uncharged trident (e).png",
-      "name": "Trident of the seas (e)",
+      "name": "Trident of the Seas (e)",
       "quantity": "1",
       "version": "Uncharged"
     },
@@ -116779,8 +121345,8 @@
   {
     "materials": [
       {
-        "image": "Trident of the seas (e).png",
-        "name": "Trident of the seas (e)",
+        "image": "Trident of the Seas (e).png",
+        "name": "Trident of the Seas (e)",
         "quantity": "1"
       },
       {
@@ -116791,8 +121357,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Trident of the seas (e) (o).png",
-      "name": "Trident of the seas (e) (o)",
+      "image": "Trident of the Seas (e) (o).png",
+      "name": "Trident of the Seas (e) (o)",
       "quantity": "1"
     },
     "skills": [],
@@ -116801,8 +121367,8 @@
   {
     "materials": [
       {
-        "image": "Trident of the seas.png",
-        "name": "Trident of the seas",
+        "image": "Trident of the Seas.png",
+        "name": "Trident of the Seas",
         "quantity": "1"
       },
       {
@@ -116813,8 +121379,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Trident of the seas (o).png",
-      "name": "Trident of the seas (o)",
+      "image": "Trident of the Seas (o).png",
+      "name": "Trident of the Seas (o)",
       "quantity": "1"
     },
     "skills": [],
@@ -116824,7 +121390,7 @@
     "materials": [
       {
         "image": "Uncharged trident.png",
-        "name": "Trident of the seas",
+        "name": "Trident of the Seas",
         "quantity": "1",
         "version": "Uncharged"
       },
@@ -116837,7 +121403,7 @@
     "members": true,
     "output": {
       "image": "Uncharged toxic trident.png",
-      "name": "Trident of the swamp",
+      "name": "Trident of the Swamp",
       "quantity": "1",
       "version": "Uncharged"
     },
@@ -116856,7 +121422,7 @@
     "materials": [
       {
         "image": "Uncharged trident (e).png",
-        "name": "Trident of the seas (e)",
+        "name": "Trident of the Seas (e)",
         "quantity": "1",
         "version": "Uncharged"
       },
@@ -116869,7 +121435,7 @@
     "members": true,
     "output": {
       "image": "Uncharged toxic trident (e).png",
-      "name": "Trident of the swamp (e)",
+      "name": "Trident of the Swamp (e)",
       "quantity": "1",
       "version": "Uncharged"
     },
@@ -116889,7 +121455,7 @@
     "materials": [
       {
         "image": "Uncharged toxic trident.png",
-        "name": "Trident of the swamp",
+        "name": "Trident of the Swamp",
         "quantity": "1",
         "version": "Uncharged"
       },
@@ -116902,7 +121468,7 @@
     "members": true,
     "output": {
       "image": "Uncharged toxic trident (e).png",
-      "name": "Trident of the swamp (e)",
+      "name": "Trident of the Swamp (e)",
       "quantity": "1",
       "version": "Uncharged"
     },
@@ -116912,8 +121478,8 @@
   {
     "materials": [
       {
-        "image": "Trident of the swamp (e).png",
-        "name": "Trident of the swamp (e)",
+        "image": "Trident of the Swamp (e).png",
+        "name": "Trident of the Swamp (e)",
         "quantity": "1"
       },
       {
@@ -116924,8 +121490,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Trident of the swamp (e) (o).png",
-      "name": "Trident of the swamp (e) (o)",
+      "image": "Trident of the Swamp (e) (o).png",
+      "name": "Trident of the Swamp (e) (o)",
       "quantity": "1"
     },
     "skills": [],
@@ -116934,8 +121500,8 @@
   {
     "materials": [
       {
-        "image": "Trident of the swamp.png",
-        "name": "Trident of the swamp",
+        "image": "Trident of the Swamp.png",
+        "name": "Trident of the Swamp",
         "quantity": "1"
       },
       {
@@ -116946,8 +121512,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Trident of the swamp (o).png",
-      "name": "Trident of the swamp (o)",
+      "image": "Trident of the Swamp (o).png",
+      "name": "Trident of the Swamp (o)",
       "quantity": "1"
     },
     "skills": [],
@@ -117011,8 +121577,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of redirection.png",
-        "name": "Scroll of redirection",
+        "image": "Scroll of Redirection.png",
+        "name": "Scroll of Redirection",
         "quantity": "1"
       }
     ],
@@ -117419,14 +121985,14 @@
       {
         "image": "Coins.png",
         "name": "Coins",
-        "quantity": "6000"
+        "quantity": "30000"
       }
     ],
     "members": true,
     "output": {
       "image": "Twisted extract.png",
       "name": "Twisted extract",
-      "quantity": "1"
+      "quantity": "5"
     },
     "skills": [],
     "ticks": "0"
@@ -119719,8 +124285,8 @@
         "version": "Uncharged"
       },
       {
-        "image": "Claws of callisto.png",
-        "name": "Claws of callisto",
+        "image": "Claws of Callisto.png",
+        "name": "Claws of Callisto",
         "quantity": "1"
       },
       {
@@ -119749,8 +124315,8 @@
         "version": "Uncharged"
       },
       {
-        "image": "Claws of callisto.png",
-        "name": "Claws of callisto",
+        "image": "Claws of Callisto.png",
+        "name": "Claws of Callisto",
         "quantity": "1"
       }
     ],
@@ -120478,7 +125044,7 @@
     "facilities": "Nigel",
     "materials": [
       {
-        "image": "Volatile nightmare staff.png",
+        "image": "Volatile Nightmare staff.png",
         "name": "Volatile Nightmare staff",
         "quantity": "1"
       },
@@ -120627,14 +125193,14 @@
       {
         "image": "Coins.png",
         "name": "Coins",
-        "quantity": "1250"
+        "quantity": "5000"
       }
     ],
     "members": true,
     "output": {
       "image": "Warped extract.png",
       "name": "Warped extract",
-      "quantity": "1"
+      "quantity": "5"
     },
     "skills": [],
     "ticks": "0"
@@ -121571,8 +126137,8 @@
         "version": "Uncharged"
       },
       {
-        "image": "Fangs of venenatis.png",
-        "name": "Fangs of venenatis",
+        "image": "Fangs of Venenatis.png",
+        "name": "Fangs of Venenatis",
         "quantity": "1"
       },
       {
@@ -121601,8 +126167,8 @@
         "version": "Uncharged"
       },
       {
-        "image": "Fangs of venenatis.png",
-        "name": "Fangs of venenatis",
+        "image": "Fangs of Venenatis.png",
+        "name": "Fangs of Venenatis",
         "quantity": "1"
       }
     ],
@@ -123463,8 +128029,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of redirection.png",
-        "name": "Scroll of redirection",
+        "image": "Scroll of Redirection.png",
+        "name": "Scroll of Redirection",
         "quantity": "1"
       }
     ],
