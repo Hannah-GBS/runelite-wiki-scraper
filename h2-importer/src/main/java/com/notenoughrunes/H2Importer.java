@@ -15,19 +15,22 @@ import java.sql.DriverManager;
 import java.time.Duration;
 import java.time.Instant;
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 import java.util.Set;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.apache.commons.text.similarity.LevenshteinDistance;
 
 @Slf4j
 @RequiredArgsConstructor
 public class H2Importer
 {
+	static final Pattern CLUE_SCROLL_PATTERN = Pattern.compile("Clue scroll \\((.*)\\)");
+	static final String SCROLL_BOX_STRING = "Scroll box ($1)";
+
 	@Getter
 	private static File inputDir;
 
@@ -88,13 +91,24 @@ public class H2Importer
 
 
 	public static int getItemIdPrecise(Set<NERInfoItem> items, String itemGroupName, String version) {
+		String groupName;
+		Matcher clueScrollMatcher = CLUE_SCROLL_PATTERN.matcher(itemGroupName);
+		if (clueScrollMatcher.find())
+		{
+			groupName = clueScrollMatcher.replaceAll(SCROLL_BOX_STRING);
+		}
+		else
+		{
+			groupName = itemGroupName;
+		}
+
 		Optional<NERInfoItem> matchedItem = items.stream().filter(item ->
 		{
 			if (version != null && item.getVersion() != null)
 			{
-				return item.getGroup().equals(itemGroupName) && item.getVersion().equals(version);
+				return item.getGroup().equalsIgnoreCase(groupName) && item.getVersion().equalsIgnoreCase(version);
 			} else {
-				return item.getGroup().equals(itemGroupName) && item.isDefaultVersion();
+				return item.getGroup().equalsIgnoreCase(groupName) && item.isDefaultVersion();
 			}
 		}).findFirst();
 
