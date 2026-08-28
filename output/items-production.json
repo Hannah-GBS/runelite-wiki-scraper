@@ -13971,7 +13971,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">108,932,465</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">111,835,605</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -17153,7 +17153,7 @@
       {
         "boostable": "",
         "experience": "20",
-        "level": "?",
+        "level": "1",
         "name": "Cooking"
       }
     ],
@@ -19825,7 +19825,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">109,444,498</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">112,008,731</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -29081,6 +29081,30 @@
     ],
     "ticks": "4",
     "tools": "Saw, Hammer"
+  },
+  {
+    "facilities": "Sawmill",
+    "materials": [
+      {
+        "image": "Camphor logs.png",
+        "name": "Camphor logs",
+        "quantity": "1"
+      },
+      {
+        "image": "Sawmill coupon (camphor plank).png",
+        "name": "Sawmill coupon (camphor plank)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Camphor plank.png",
+      "name": "Camphor plank",
+      "quantity": "1",
+      "subtxt": "Sawmill + Sawmill coupon"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Sawmill",
@@ -42426,6 +42450,31 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Charged onyx.png",
+        "name": "Charged onyx",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Deconstructed onyx.png",
+      "name": "Deconstructed onyx",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "no",
+        "experience": "0",
+        "level": "70",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "2",
+    "tools": "Chisel,Hammer"
   },
   {
     "materials": [
@@ -67762,6 +67811,30 @@
         "quantity": "1"
       },
       {
+        "image": "Sawmill coupon (ironwood plank).png",
+        "name": "Sawmill coupon (ironwood plank)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ironwood plank.png",
+      "name": "Ironwood plank",
+      "quantity": "1",
+      "subtxt": "Sawmill + Sawmill coupon"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Sawmill",
+    "materials": [
+      {
+        "image": "Ironwood logs.png",
+        "name": "Ironwood logs",
+        "quantity": "1"
+      },
+      {
         "image": "Coins.png",
         "name": "Coins",
         "quantity": "5000"
@@ -74654,6 +74727,30 @@
         "quantity": "1"
       },
       {
+        "image": "Sawmill coupon (mahogany plank).png",
+        "name": "Sawmill coupon (mahogany plank)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mahogany plank.png",
+      "name": "Mahogany plank",
+      "quantity": "1",
+      "subtxt": "Sawmill + Sawmill coupon"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Sawmill",
+    "materials": [
+      {
+        "image": "Mahogany logs.png",
+        "name": "Mahogany logs",
+        "quantity": "1"
+      },
+      {
         "image": "Coins.png",
         "name": "Coins",
         "quantity": "1500"
@@ -76213,7 +76310,7 @@
       {
         "boostable": "",
         "experience": "500",
-        "level": "?",
+        "level": "1",
         "name": "Crafting"
       }
     ],
@@ -108173,6 +108270,87 @@
     "ticks": ""
   },
   {
+    "facilities": "Dunstan",
+    "materials": [
+      {
+        "image": "Maple logs.png",
+        "name": "Maple logs",
+        "quantity": "1"
+      },
+      {
+        "image": "Iron bar.png",
+        "name": "Iron bar",
+        "quantity": "1"
+      },
+      {
+        "image": "Rope.png",
+        "name": "Rope",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sled (unwaxed).png",
+      "name": "Sled",
+      "quantity": "1",
+      "version": "Unwaxed"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sled (unwaxed).png",
+        "name": "Sled",
+        "quantity": "1",
+        "version": "Unwaxed"
+      },
+      {
+        "image": "Wax.png",
+        "name": "Wax",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sled.png",
+      "name": "Sled",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Dunstan",
+    "materials": [
+      {
+        "image": "Yew logs.png",
+        "name": "Yew logs",
+        "quantity": "1"
+      },
+      {
+        "image": "Iron bar.png",
+        "name": "Iron bar",
+        "quantity": "1"
+      },
+      {
+        "image": "Rope.png",
+        "name": "Rope",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sled (unwaxed).png",
+      "name": "Sled",
+      "quantity": "1",
+      "version": "Unwaxed"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Doric's Whetstone",
     "materials": [
       {
@@ -119155,6 +119333,30 @@
     ],
     "ticks": "4",
     "tools": "Saw, Hammer"
+  },
+  {
+    "facilities": "Sawmill",
+    "materials": [
+      {
+        "image": "Teak logs.png",
+        "name": "Teak logs",
+        "quantity": "1"
+      },
+      {
+        "image": "Sawmill coupon (teak plank).png",
+        "name": "Sawmill coupon (teak plank)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Teak plank.png",
+      "name": "Teak plank",
+      "quantity": "1",
+      "subtxt": "Sawmill + Sawmill coupon"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Sawmill",

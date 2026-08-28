@@ -118,7 +118,7 @@
     "group": "Ashes",
     "spawns": [
       {
-        "coords": "1494,3177",
+        "coords": "1497,3173",
         "isMembers": true,
         "location": "Bandits' camp north-east of Ralos' Rise",
         "mapID": "-1",
@@ -1930,6 +1930,14 @@
         "plane": "1"
       },
       {
+        "coords": "2597,7829",
+        "isMembers": true,
+        "location": "Sangvesti",
+        "mapID": "-1",
+        "name": "Broken glass",
+        "plane": "0"
+      },
+      {
         "coords": "3734,3358",
         "isMembers": true,
         "location": "Slepe - Crombwick Manor",
@@ -2054,6 +2062,14 @@
     "group": "Bronze axe",
     "spawns": [
       {
+        "coords": "1366,3362",
+        "isMembers": true,
+        "location": "Auburnvale",
+        "mapID": "0",
+        "name": "Bronze axe",
+        "plane": "0"
+      },
+      {
         "coords": "1683,2975",
         "isMembers": true,
         "location": "Avium Savannah - near Marcellus's house",
@@ -2094,6 +2110,22 @@
         "plane": "1"
       },
       {
+        "coords": "2521,2916",
+        "isMembers": true,
+        "location": "Feldip Hills - by the Hunting expert's hut",
+        "mapID": "0",
+        "name": "Bronze axe",
+        "plane": "0"
+      },
+      {
+        "coords": "2778,10079",
+        "isMembers": true,
+        "location": "Kendal's Lair",
+        "mapID": "10152",
+        "name": "Bronze axe",
+        "plane": "0"
+      },
+      {
         "coords": "3185,3277",
         "isMembers": false,
         "location": "Lumbridge - outside Fred the Farmer's house",
@@ -2110,9 +2142,17 @@
         "plane": "0"
       },
       {
-        "coords": "2805,3703",
+        "coords": "2341,3811",
         "isMembers": true,
-        "location": "Mountain Camp - in the cave",
+        "location": "Neitiznot",
+        "mapID": "0",
+        "name": "Bronze axe",
+        "plane": "0"
+      },
+      {
+        "coords": "3305,6123",
+        "isMembers": true,
+        "location": "Prifddinas",
         "mapID": "0",
         "name": "Bronze axe",
         "plane": "0"
@@ -2137,6 +2177,14 @@
         "coords": "2825,3088",
         "isMembers": true,
         "location": "Tai Bwo Wannai - Hardwood Grove",
+        "mapID": "0",
+        "name": "Bronze axe",
+        "plane": "0"
+      },
+      {
+        "coords": "3127,2414",
+        "isMembers": true,
+        "location": "The Great Conch",
         "mapID": "0",
         "name": "Bronze axe",
         "plane": "0"
@@ -6070,7 +6118,7 @@
       {
         "coords": "1700,3185",
         "isMembers": true,
-        "location": "Civitas illa Fortis",
+        "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "mapID": "0",
         "name": "Iron battleaxe",
         "plane": "0"
@@ -6946,6 +6994,14 @@
         "isMembers": true,
         "location": "East Ardougne - basement of the Carnillean Mansion",
         "mapID": "2",
+        "name": "Knife",
+        "plane": "0"
+      },
+      {
+        "coords": "2523,2914",
+        "isMembers": true,
+        "location": "Feldip Hills - Hunting expert's house",
+        "mapID": "0",
         "name": "Knife",
         "plane": "0"
       },
@@ -8025,7 +8081,7 @@
       {
         "coords": "1417,3065",
         "isMembers": true,
-        "location": "Varlamore - Kastori",
+        "location": "Varlamore - On an island east of Kastori{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain. Only the northernmost spawn is reachable from the east bank of the river. The other two are unreachable.}}",
         "mapID": "0",
         "name": "Orange",
         "plane": "0"
@@ -9355,15 +9411,7 @@
       {
         "coords": "2679,3740",
         "isMembers": true,
-        "location": "Rellekka - on a small island near the rock crabs",
-        "mapID": "0",
-        "name": "Sapphire",
-        "plane": "0"
-      },
-      {
-        "coords": "2775,3850",
-        "isMembers": true,
-        "location": "Trollweiss Mountain summit",
+        "location": "Rellekka - on a small island near the rock crabs{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
         "mapID": "0",
         "name": "Sapphire",
         "plane": "0"
@@ -10319,10 +10367,10 @@
     "group": "Steel knife",
     "spawns": [
       {
-        "coords": "2805,3703",
+        "coords": "2771,10081",
         "isMembers": true,
         "location": "Kendal's Lair",
-        "mapID": "0",
+        "mapID": "10152",
         "name": "Steel knife",
         "plane": "0"
       }
@@ -10949,7 +10997,7 @@
         "isMembers": true,
         "location": "Harmony Island - 1st floor of crashed ship",
         "mapID": "0",
-        "name": "Keg",
+        "name": "Tinderbox",
         "plane": "1"
       },
       {
@@ -11007,6 +11055,14 @@
         "mapID": "0",
         "name": "Tinderbox",
         "plane": "1"
+      },
+      {
+        "coords": "1815,4825",
+        "isMembers": true,
+        "location": "The Adventurous",
+        "mapID": "-1",
+        "name": "Tinderbox",
+        "plane": "0"
       },
       {
         "coords": "2324,9800",
@@ -11390,19 +11446,6 @@
         "location": "Wilderness - Deep Wilderness Dungeon",
         "mapID": "26",
         "name": "Wine of Zamorak",
-        "plane": "0"
-      }
-    ]
-  },
-  {
-    "group": "Wizard blizzard",
-    "spawns": [
-      {
-        "coords": "2601,7829",
-        "isMembers": true,
-        "location": "Sangvesti - central house",
-        "mapID": "-1",
-        "name": "Wizard blizzard",
         "plane": "0"
       }
     ]
