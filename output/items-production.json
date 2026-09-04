@@ -5943,6 +5943,41 @@
     "ticks": "1"
   },
   {
+    "facilities": "Air Altar",
+    "materials": [
+      {
+        "image": "Amulet of magic.png",
+        "name": "Amulet of magic",
+        "quantity": "1"
+      },
+      {
+        "image": "Air diamond.png",
+        "name": "Air diamond",
+        "quantity": "1"
+      },
+      {
+        "image": "Air rune.png",
+        "name": "Air rune",
+        "quantity": "100"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of air.png",
+      "name": "Amulet of air",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "18",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
     "materials": [
       {
         "image": "Amulet of fury.png",
@@ -6065,6 +6100,76 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Earth Altar",
+    "materials": [
+      {
+        "image": "Amulet of magic.png",
+        "name": "Amulet of magic",
+        "quantity": "1"
+      },
+      {
+        "image": "Earth emerald.png",
+        "name": "Earth emerald",
+        "quantity": "1"
+      },
+      {
+        "image": "Earth rune.png",
+        "name": "Earth rune",
+        "quantity": "100"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of earth.png",
+      "name": "Amulet of earth",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "100",
+        "level": "20",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "3"
+  },
+  {
+    "facilities": "Fire Altar",
+    "materials": [
+      {
+        "image": "Amulet of magic.png",
+        "name": "Amulet of magic",
+        "quantity": "1"
+      },
+      {
+        "image": "Fire ruby.png",
+        "name": "Fire ruby",
+        "quantity": "1"
+      },
+      {
+        "image": "Fire rune.png",
+        "name": "Fire rune",
+        "quantity": "100"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of fire.png",
+      "name": "Amulet of fire",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "125",
+        "level": "21",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "3"
   },
   {
     "materials": [
@@ -6427,6 +6532,41 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Water Altar",
+    "materials": [
+      {
+        "image": "Amulet of magic.png",
+        "name": "Amulet of magic",
+        "quantity": "1"
+      },
+      {
+        "image": "Water sapphire.png",
+        "name": "Water sapphire",
+        "quantity": "1"
+      },
+      {
+        "image": "Water rune.png",
+        "name": "Water rune",
+        "quantity": "100"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of water.png",
+      "name": "Amulet of water",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "19",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "3"
   },
   {
     "facilities": "Cooking range",
@@ -13971,7 +14111,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">111,835,605</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">112,978,567</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19825,7 +19965,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">112,008,731</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">111,177,448</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -49648,6 +49788,66 @@
     },
     "skills": [],
     "ticks": ""
+  },
+  {
+    "facilities": "Runic Altar",
+    "materials": [
+      {
+        "image": "Amulet of air.png",
+        "name": "Amulet of air",
+        "quantity": "1"
+      },
+      {
+        "image": "Amulet of fire.png",
+        "name": "Amulet of fire",
+        "quantity": "1"
+      },
+      {
+        "image": "Amulet of earth.png",
+        "name": "Amulet of earth",
+        "quantity": "1"
+      },
+      {
+        "image": "Amulet of water.png",
+        "name": "Amulet of water",
+        "quantity": "1"
+      },
+      {
+        "image": "Air rune.png",
+        "name": "Air rune",
+        "quantity": "500"
+      },
+      {
+        "image": "Fire rune.png",
+        "name": "Fire rune",
+        "quantity": "500"
+      },
+      {
+        "image": "Earth rune.png",
+        "name": "Earth rune",
+        "quantity": "500"
+      },
+      {
+        "image": "Water rune.png",
+        "name": "Water rune",
+        "quantity": "500"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Elemental amulet.png",
+      "name": "Elemental amulet",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "175",
+        "level": "30",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": "3"
   },
   {
     "facilities": "Workbench (Elemental Workshop)",
@@ -91936,6 +92136,35 @@
         "quantity": "1"
       },
       {
+        "image": "Blue feather.png",
+        "name": "Blue feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Prototype dart.png",
+      "name": "Prototype dart",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Prototype dart tip.png",
+        "name": "Prototype dart tip",
+        "quantity": "1"
+      },
+      {
         "image": "Feather.png",
         "name": "Feather",
         "quantity": "10"
@@ -91955,7 +92184,181 @@
         "name": "Fletching"
       }
     ],
-    "ticks": ""
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Prototype dart tip.png",
+        "name": "Prototype dart tip",
+        "quantity": "1"
+      },
+      {
+        "image": "Gryphon feather.png",
+        "name": "Gryphon feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Prototype dart.png",
+      "name": "Prototype dart",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Prototype dart tip.png",
+        "name": "Prototype dart tip",
+        "quantity": "1"
+      },
+      {
+        "image": "Orange feather.png",
+        "name": "Orange feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Prototype dart.png",
+      "name": "Prototype dart",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Prototype dart tip.png",
+        "name": "Prototype dart tip",
+        "quantity": "1"
+      },
+      {
+        "image": "Red feather.png",
+        "name": "Red feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Prototype dart.png",
+      "name": "Prototype dart",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Prototype dart tip.png",
+        "name": "Prototype dart tip",
+        "quantity": "1"
+      },
+      {
+        "image": "Stripy feather.png",
+        "name": "Stripy feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Prototype dart.png",
+      "name": "Prototype dart",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Prototype dart tip.png",
+        "name": "Prototype dart tip",
+        "quantity": "1"
+      },
+      {
+        "image": "Stymphike feather.png",
+        "name": "Stymphike feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Prototype dart.png",
+      "name": "Prototype dart",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Prototype dart tip.png",
+        "name": "Prototype dart tip",
+        "quantity": "1"
+      },
+      {
+        "image": "Yellow feather.png",
+        "name": "Yellow feather",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Prototype dart.png",
+      "name": "Prototype dart",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "10",
+        "level": "10",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "facilities": "An experimental anvil",

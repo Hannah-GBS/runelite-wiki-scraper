@@ -3122,6 +3122,22 @@
         "source": "Gryphon"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 59,
+        "quantityLow": 59,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 59,
+        "quantityLow": 59,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
+      },
+      {
         "dropLevel": "53",
         "dropType": "sailing",
         "quantityHigh": 7,
@@ -3154,6 +3170,14 @@
         "source": "Martial salvage"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 52,
+        "quantityLow": 40,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
+      },
+      {
         "dropLevel": "111",
         "dropType": "combat",
         "quantityHigh": 54,
@@ -3168,30 +3192,6 @@
         "quantityLow": 2,
         "rarity": "25/1,036",
         "source": "Plundered salvage"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 59,
-        "quantityLow": 59,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 59,
-        "quantityLow": 59,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 52,
-        "quantityLow": 40,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
       },
       {
         "dropLevel": "93",
@@ -7705,6 +7705,14 @@
         "source": "Grotesque Guardians"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 11,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
         "dropLevel": "189,215",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -7745,6 +7753,14 @@
         "source": "Lost mahogany crate"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 11,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
+      },
+      {
         "dropLevel": "374",
         "dropType": "combat",
         "quantityHigh": 3,
@@ -7759,22 +7775,6 @@
         "quantityLow": 1,
         "rarity": "2/128",
         "source": "Nuclear smoke devil"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 14,
-        "quantityLow": 11,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 20,
-        "quantityLow": 11,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
       },
       {
         "dropLevel": "152",
@@ -8079,6 +8079,22 @@
         "source": "Fremennik salvage"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 30,
+        "quantityLow": 29,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 30,
+        "quantityLow": 28,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
+      },
+      {
         "dropLevel": "73",
         "dropType": "sailing",
         "quantityHigh": 3,
@@ -8088,27 +8104,11 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 30,
-        "quantityLow": 29,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 28,
-        "quantityLow": 28,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 25,
         "quantityLow": 22,
         "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
+        "source": "Medium port reward bag"
       }
     ],
     "group": "Adamantite nails",
@@ -8341,6 +8341,14 @@
         "source": "Guard (Prifddinas)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 18,
+        "quantityLow": 18,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -8363,6 +8371,14 @@
         "quantityLow": 1,
         "rarity": "1/128",
         "source": "Iorwerth Warrior#Iorwerth Dungeon"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 17,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
       },
       {
         "dropLevel": "116",
@@ -8395,6 +8411,14 @@
         "quantityLow": 2,
         "rarity": "4/128",
         "source": "Magma strykewyrm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 14,
+        "quantityLow": 12,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
       },
       {
         "dropLevel": "135",
@@ -8483,22 +8507,6 @@
         "quantityLow": 40,
         "rarity": "4/100",
         "source": "Phosani's Nightmare"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 17,
-        "quantityLow": 10,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 14,
-        "quantityLow": 12,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
       },
       {
         "dropLevel": "335",
@@ -9064,6 +9072,20 @@
     ],
     "group": "Air battlestaff",
     "name": "Air battlestaff"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "55",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/64",
+        "source": "Killerwatt"
+      }
+    ],
+    "group": "Air diamond",
+    "name": "Air diamond"
   },
   {
     "dropSources": [
@@ -10602,6 +10624,20 @@
     ],
     "group": "Air talisman",
     "name": "Air talisman"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Tombs of Amascut)"
+      }
+    ],
+    "group": "Akila's journal",
+    "name": "Akila's journal"
   },
   {
     "dropSources": [
@@ -17657,10 +17693,34 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#Lunar Isle"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 200,
         "quantityLow": 150,
         "rarity": "5/45",
         "source": "Intricate pouch"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Lunar Isle"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Lunar Isle"
       },
       {
         "dropLevel": "42,59",
@@ -19368,6 +19428,22 @@
         "quantityLow": 1,
         "rarity": "2/20",
         "source": "Maniacal monkey"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Musa Point"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Musa Point"
       }
     ],
     "group": "Banana",
@@ -20378,6 +20454,36 @@
     ],
     "group": "Barley seed",
     "name": "Barley seed"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#The Pandemonium"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#The Pandemonium"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#The Pandemonium"
+      }
+    ],
+    "group": "Barnacle blaster",
+    "name": "Barnacle blaster"
   },
   {
     "dropSources": [
@@ -21949,6 +22055,14 @@
         "source": "Camphor tree"
       },
       {
+        "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/143,000",
+        "source": "Camphor tree (Farming)"
+      },
+      {
         "dropLevel": "77",
         "dropType": "woodcutting",
         "quantityHigh": 1,
@@ -21963,6 +22077,14 @@
         "quantityLow": 1,
         "rarity": "1/70,000",
         "source": "Ironwood tree"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/70,000",
+        "source": "Ironwood tree (Farming)"
       },
       {
         "dropLevel": "40",
@@ -22027,6 +22149,14 @@
         "quantityLow": 1,
         "rarity": "1/70,000",
         "source": "Rosewood tree"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/70,000",
+        "source": "Rosewood tree (Farming)"
       },
       {
         "dropLevel": "35",
@@ -24621,6 +24751,14 @@
         "source": "Thrower troll (Trollheim)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Entrana"
+      },
+      {
         "dropLevel": "141,142",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -24941,6 +25079,14 @@
         "dropType": "woodcutting",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Camphor tree (Farming)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "Very rare",
         "source": "Ent"
       },
@@ -24951,6 +25097,14 @@
         "quantityLow": 1,
         "rarity": "Unknown",
         "source": "Ironwood tree"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Ironwood tree (Farming)"
       },
       {
         "dropLevel": "40",
@@ -25532,6 +25686,14 @@
         "source": "Hunters' loot sack (supplies)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Land's End"
+      },
+      {
         "dropLevel": "74",
         "dropType": "hunter",
         "quantityHigh": 1,
@@ -25558,6 +25720,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Land's End"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": -1,
         "quantityLow": -1,
         "rarity": "Always",
@@ -25580,12 +25750,28 @@
         "source": "Redwood birdhouse"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Land's End"
+      },
+      {
         "dropLevel": "34",
         "dropType": "hunter",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "65/100",
         "source": "Teak birdhouse"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Land's End"
       },
       {
         "dropLevel": "24",
@@ -25646,6 +25832,14 @@
         "dropType": "woodcutting",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Camphor tree (Farming)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "Rare",
         "source": "Ent"
       },
@@ -25672,6 +25866,14 @@
         "quantityLow": 1,
         "rarity": "Unknown",
         "source": "Ironwood tree"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Ironwood tree (Farming)"
       },
       {
         "dropLevel": "40",
@@ -25905,6 +26107,14 @@
       },
       {
         "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Camphor tree (Farming)"
+      },
+      {
+        "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -26006,6 +26216,14 @@
         "quantityLow": 1,
         "rarity": "Unknown",
         "source": "Ironwood tree"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Ironwood tree (Farming)"
       },
       {
         "dropLevel": "40",
@@ -45881,14 +46099,6 @@
         "source": "Giant rockslug"
       },
       {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 19,
-        "quantityLow": 11,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
         "dropLevel": "115,154",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -45943,6 +46153,14 @@
         "quantityLow": 1,
         "rarity": "200/1,721",
         "source": "Small salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 19,
+        "quantityLow": 11,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Bronze bar",
@@ -46336,14 +46554,6 @@
         "source": "Pirate (Thieving)"
       },
       {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 59,
-        "quantityLow": 40,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
         "dropLevel": "33",
         "dropType": "thieving",
         "quantityHigh": 10,
@@ -46358,6 +46568,14 @@
         "quantityLow": 2,
         "rarity": "100/1,721",
         "source": "Small salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 59,
+        "quantityLow": 40,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Bronze cannonball",
@@ -47278,14 +47496,6 @@
         "source": "Ogre Coffin"
       },
       {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 30,
-        "quantityLow": 21,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
         "dropLevel": "15",
         "dropType": "mining",
         "quantityHigh": 10,
@@ -47308,6 +47518,14 @@
         "quantityLow": 1,
         "rarity": "200/1,721",
         "source": "Small salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 30,
+        "quantityLow": 21,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Bronze nails",
@@ -48666,12 +48884,28 @@
         "source": "Kalphite Queen"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 40,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Sunset Coast"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 10,
         "rarity": "5/99",
         "source": "Manta ray (monster)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 40,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Sunset Coast"
       },
       {
         "dropLevel": "15",
@@ -48696,6 +48930,14 @@
         "quantityLow": 10,
         "rarity": "3/100",
         "source": "Stingray"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 39,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Sunset Coast"
       }
     ],
     "group": "Bucket of sand",
@@ -52358,12 +52600,36 @@
         "source": "Flambeed (Nightmare Zone)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#Ardougne"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Ardougne"
+      },
+      {
         "dropLevel": "48",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "4/128",
         "source": "Market Guard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Ardougne"
       },
       {
         "dropLevel": "",
@@ -52375,11 +52641,19 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
+        "dropType": "reward",
+        "quantityHigh": 2,
+        "quantityLow": 2,
         "rarity": "Unknown",
-        "source": "Tiny port reward bag (ardougne)"
+        "source": "Small port reward bag#Ardougne"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Ardougne"
       },
       {
         "dropLevel": "48",
@@ -52678,28 +52952,28 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 12,
+        "quantityLow": 12,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 9,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
+      },
+      {
         "dropLevel": "85",
         "dropType": "sailing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/8",
         "source": "Lost camphor crate"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 12,
-        "quantityLow": 12,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 14,
-        "quantityLow": 9,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
       },
       {
         "dropLevel": "210",
@@ -53148,12 +53422,28 @@
         "source": "King Sand Crab"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Port Sarim"
+      },
+      {
         "dropLevel": "53",
         "dropType": "sailing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "100/2,218",
         "source": "Large salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Port Sarim"
       },
       {
         "dropLevel": "103",
@@ -53244,6 +53534,14 @@
         "source": "Sea Snake Young"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Port Sarim"
+      },
+      {
         "dropLevel": "55",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -53253,11 +53551,11 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Unknown",
-        "source": "Tiny port reward bag (port sarim)"
+        "source": "Tiny port reward bag#Port Sarim"
       }
     ],
     "group": "Casket",
@@ -53726,7 +54024,15 @@
   {
     "dropSources": [
       {
-        "dropLevel": "",
+        "dropLevel": "71",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Twig"
+      },
+      {
+        "dropLevel": "30",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -53740,7 +54046,15 @@
   {
     "dropSources": [
       {
-        "dropLevel": "",
+        "dropLevel": "71",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Berry"
+      },
+      {
+        "dropLevel": "30",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -56719,6 +57033,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "34",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Constantinius"
+      }
+    ],
+    "group": "Chest key (Fancy chest)",
+    "name": "Chest key (Fancy chest)"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "304",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -57417,14 +57745,6 @@
         "quantityLow": 3,
         "rarity": "3/128",
         "source": "Red dragon"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (ardougne)"
       }
     ],
     "group": "Chocolate cake",
@@ -60121,6 +60441,14 @@
       },
       {
         "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Camphor tree (Farming)"
+      },
+      {
+        "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -60134,6 +60462,14 @@
         "quantityLow": 1,
         "rarity": "Unknown",
         "source": "Ironwood tree"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Ironwood tree (Farming)"
       },
       {
         "dropLevel": "40",
@@ -60190,6 +60526,14 @@
         "quantityLow": 1,
         "rarity": "Unknown",
         "source": "Rosewood tree"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Rosewood tree (Farming)"
       },
       {
         "dropLevel": "35",
@@ -65920,7 +66264,7 @@
         "dropType": "reward",
         "quantityHigh": 100,
         "quantityLow": 100,
-        "rarity": "Always",
+        "rarity": "Once",
         "source": "Coal pile"
       },
       {
@@ -66164,6 +66508,14 @@
         "source": "H.A.M. Member"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 39,
+        "quantityLow": 39,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
         "dropLevel": "82",
         "dropType": "combat",
         "quantityHigh": 3,
@@ -66234,6 +66586,14 @@
         "quantityLow": 1,
         "rarity": "10/512",
         "source": "Lanzig"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 14,
+        "quantityLow": 14,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
       },
       {
         "dropLevel": "",
@@ -66314,6 +66674,14 @@
         "quantityLow": 4,
         "rarity": "4/128",
         "source": "Magma strykewyrm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 14,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
       },
       {
         "dropLevel": "24",
@@ -66442,38 +66810,6 @@
         "quantityLow": 220,
         "rarity": "4/100",
         "source": "Phosani's Nightmare"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 14,
-        "quantityLow": 14,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 20,
-        "quantityLow": 14,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 18,
-        "quantityLow": 16,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 19,
-        "quantityLow": 12,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
       },
       {
         "dropLevel": "",
@@ -66676,6 +67012,14 @@
         "source": "Small Lizard"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 18,
+        "quantityLow": 16,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
+      },
+      {
         "dropLevel": "160",
         "dropType": "combat",
         "quantityHigh": 15,
@@ -66818,6 +67162,14 @@
         "quantityLow": 1,
         "rarity": "2/128",
         "source": "Thug"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 19,
+        "quantityLow": 12,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "113",
@@ -74466,6 +74818,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 57294,
+        "quantityLow": 54849,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 1250,
         "quantityLow": 750,
         "rarity": "1/12",
@@ -75890,10 +76250,18 @@
       {
         "dropLevel": "",
         "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
+        "quantityHigh": 5350,
+        "quantityLow": 3864,
         "rarity": "Always",
         "source": "Large port coin bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 26859,
+        "quantityLow": 26859,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
       },
       {
         "dropLevel": "",
@@ -76458,10 +76826,18 @@
       {
         "dropLevel": "",
         "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
+        "quantityHigh": 3595,
+        "quantityLow": 2486,
         "rarity": "Always",
         "source": "Medium port coin bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 23514,
+        "quantityLow": 23264,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
       },
       {
         "dropLevel": "65",
@@ -77982,30 +78358,6 @@
         "quantityLow": 40,
         "rarity": "Always",
         "source": "Pontak"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 26859,
-        "quantityLow": 26859,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 23514,
-        "quantityLow": 23264,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 11640,
-        "quantityLow": 8875,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
       },
       {
         "dropLevel": "91",
@@ -79986,8 +80338,8 @@
       {
         "dropLevel": "",
         "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
+        "quantityHigh": 2714,
+        "quantityLow": 1613,
         "rarity": "Always",
         "source": "Small port coin bag"
       },
@@ -81038,6 +81390,14 @@
         "quantityLow": 800,
         "rarity": "Always",
         "source": "Tiny port coin bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 11640,
+        "quantityLow": 8875,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "141,142",
@@ -83343,6 +83703,14 @@
         "quantityLow": 40,
         "rarity": "25/256",
         "source": "Gangster"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Hosidius"
       }
     ],
     "group": "Compost",
@@ -84157,14 +84525,6 @@
         "source": "Penda"
       },
       {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 20,
-        "quantityLow": 10,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
         "dropLevel": "13",
         "dropType": "combat",
         "quantityHigh": 3,
@@ -84291,6 +84651,14 @@
         "quantityLow": 1,
         "rarity": "2/128",
         "source": "Thief (Varlamore)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "48",
@@ -86887,6 +87255,14 @@
         "source": "Guard (Prifddinas)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#Priffddinas"
+      },
+      {
         "dropLevel": "278",
         "dropType": "combat",
         "quantityHigh": 10,
@@ -86928,11 +87304,11 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 10,
         "quantityLow": 10,
         "rarity": "Unknown",
-        "source": "Large port reward bag (prifddinas)"
+        "source": "Large port reward bag#Priffddinas"
       },
       {
         "dropLevel": "75",
@@ -86949,6 +87325,14 @@
         "quantityLow": 1,
         "rarity": "1/40",
         "source": "Mahogany tree#Prifddinas"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Priffddinas"
       },
       {
         "dropLevel": "55",
@@ -90885,7 +91269,7 @@
         "dropType": "reward",
         "quantityHigh": 100,
         "quantityLow": 100,
-        "rarity": "Always",
+        "rarity": "Once",
         "source": "Death rune pile"
       },
       {
@@ -95055,6 +95439,14 @@
         "source": "Great white shark"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 55,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
         "dropLevel": "73",
         "dropType": "sailing",
         "quantityHigh": 3,
@@ -96947,6 +97339,14 @@
         "source": "Great white shark"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
         "dropLevel": "116",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -97023,6 +97423,14 @@
         "source": "Frost dragon"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 12,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
         "dropLevel": "111",
         "dropType": "combat",
         "quantityHigh": 10,
@@ -97045,14 +97453,6 @@
         "quantityLow": 4,
         "rarity": "1/75",
         "source": "Orca"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 12,
-        "quantityLow": 11,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
       }
     ],
     "group": "Dragon nails",
@@ -99043,6 +99443,20 @@
     ],
     "group": "Dream log",
     "name": "Dream log"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "34",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Pavo"
+      }
+    ],
+    "group": "Drinking flask",
+    "name": "Drinking flask"
   },
   {
     "dropSources": [
@@ -101086,6 +101500,20 @@
     ],
     "group": "Earth battlestaff",
     "name": "Earth battlestaff"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "51",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/64",
+        "source": "Molanisk"
+      }
+    ],
+    "group": "Earth emerald",
+    "name": "Earth emerald"
   },
   {
     "dropSources": [
@@ -104305,6 +104733,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Elkhorn coral (Farming)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 8,
+        "quantityLow": 8,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Red Rock"
       }
     ],
     "group": "Elkhorn coral",
@@ -104479,6 +104915,14 @@
         "quantityLow": 1,
         "rarity": "1/128",
         "source": "Shellbane gryphon"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 3,
+        "quantityLow": 3,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#The Summer Shore"
       },
       {
         "dropLevel": "92",
@@ -105461,14 +105905,6 @@
         "quantityLow": 1,
         "rarity": "Common",
         "source": "Goblin#Drop table 2"
-      },
-      {
-        "dropLevel": "51",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Common",
-        "source": "Molanisk"
       }
     ],
     "group": "Energy potion",
@@ -105556,14 +105992,6 @@
         "quantityLow": 6,
         "rarity": "Unknown",
         "source": "Lizard"
-      },
-      {
-        "dropLevel": "51",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Common",
-        "source": "Molanisk"
       },
       {
         "dropLevel": "70",
@@ -107179,20 +107607,20 @@
   {
     "dropSources": [
       {
-        "dropLevel": "66",
+        "dropLevel": "",
         "dropType": "woodcutting",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/400",
-        "source": "Camphor tree"
+        "source": "Camphor tree (Farming)"
       },
       {
-        "dropLevel": "80",
+        "dropLevel": "",
         "dropType": "woodcutting",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/400",
-        "source": "Ironwood tree"
+        "source": "Ironwood tree (Farming)"
       },
       {
         "dropLevel": "75",
@@ -107227,12 +107655,12 @@
         "source": "Oak tree"
       },
       {
-        "dropLevel": "92",
+        "dropLevel": "",
         "dropType": "woodcutting",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/400",
-        "source": "Rosewood tree"
+        "source": "Rosewood tree (Farming)"
       },
       {
         "dropLevel": "35",
@@ -109263,27 +109691,27 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 45,
+        "dropType": "reward",
+        "quantityHigh": 56,
         "quantityLow": 45,
         "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
+        "source": "Huge port reward bag"
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 53,
-        "quantityLow": 53,
+        "quantityLow": 51,
         "rarity": "Unknown",
-        "source": "Port reward bag#Large"
+        "source": "Large port reward bag"
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 25,
         "quantityLow": 25,
         "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
+        "source": "Medium port reward bag"
       },
       {
         "dropLevel": "",
@@ -109594,6 +110022,28 @@
     ],
     "group": "Fire orb",
     "name": "Fire orb"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "66",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/64",
+        "source": "Infernal Mage"
+      },
+      {
+        "dropLevel": "162",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/64",
+        "source": "Malevolent Mage"
+      }
+    ],
+    "group": "Fire ruby",
+    "name": "Fire ruby"
   },
   {
     "dropSources": [
@@ -110194,7 +110644,7 @@
         "dropType": "reward",
         "quantityHigh": 100,
         "quantityLow": 100,
-        "rarity": "Always",
+        "rarity": "Once",
         "source": "Fire rune pile"
       },
       {
@@ -111671,19 +112121,19 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 56,
-        "quantityLow": 15,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
-        "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Raw swordtip squid"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 56,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "246",
@@ -113464,6 +113914,14 @@
         "source": "Fremennik salvage"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#Rellekka"
+      },
+      {
         "dropLevel": "48",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -113480,6 +113938,14 @@
         "source": "Lanzig"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Rellekka"
+      },
+      {
         "dropLevel": "48",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -113494,6 +113960,22 @@
         "quantityLow": 1,
         "rarity": "1/128",
         "source": "Market Guard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Rellekka"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Rellekka"
       },
       {
         "dropLevel": "48",
@@ -113783,7 +114265,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "11/256",
-        "source": "Fishing spot (frogspawn)#Small net"
+        "source": "Fishing spot (frog spawn, eels)#Small net"
       },
       {
         "dropLevel": "28,38",
@@ -115482,6 +115964,20 @@
     ],
     "group": "Gilded coif",
     "name": "Gilded coif"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Secure chest"
+      }
+    ],
+    "group": "Gilded cross",
+    "name": "Gilded cross"
   },
   {
     "dropSources": [
@@ -119653,12 +120149,28 @@
         "source": "Grapevine (item)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 40,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#Aldarin"
+      },
+      {
         "dropLevel": "333",
         "dropType": "combat",
         "quantityHigh": 100,
         "quantityLow": 100,
         "rarity": "5/126",
         "source": "Kalphite Queen"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 40,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Aldarin"
       },
       {
         "dropLevel": "22",
@@ -119669,20 +120181,28 @@
         "source": "Market stall (wine)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 40,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Aldarin"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 40,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Aldarin"
+      },
+      {
         "dropLevel": "301",
         "dropType": "combat",
         "quantityHigh": 100,
         "quantityLow": 100,
         "rarity": "1/107",
         "source": "Thermonuclear smoke devil"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (aldarin)"
       },
       {
         "dropLevel": "",
@@ -150666,11 +151186,27 @@
     "dropSources": [
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Unknown",
-        "source": "Tiny port reward bag (the pandemonium)"
+        "source": "Medium port reward bag#The Pandemonium"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#The Pandemonium"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
     "group": "Grog",
@@ -154637,6 +155173,42 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Bounty tasks"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/5",
+        "source": "Courier tasks"
+      }
+    ],
+    "group": "Huge port coin bag",
+    "name": "Huge port coin bag"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5",
+        "source": "Courier tasks"
+      }
+    ],
+    "group": "Huge port reward bag",
+    "name": "Huge port reward bag"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "100",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -154974,6 +155546,20 @@
     ],
     "group": "Iban's ashes",
     "name": "Iban's ashes"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Closed chest (Temple of Ikov)"
+      }
+    ],
+    "group": "Ice arrows",
+    "name": "Ice arrows"
   },
   {
     "dropSources": [
@@ -157623,14 +158209,6 @@
         "source": "Pirate (Thieving)"
       },
       {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 18,
-        "quantityLow": 10,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
         "dropLevel": "115,154",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -157701,6 +158279,14 @@
         "quantityLow": 1,
         "rarity": "3/128",
         "source": "Thug"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 18,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "36",
@@ -158095,14 +158681,6 @@
         "source": "Pirate (Thieving)"
       },
       {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 59,
-        "quantityLow": 41,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
         "dropLevel": "33",
         "dropType": "thieving",
         "quantityHigh": 10,
@@ -158125,6 +158703,14 @@
         "quantityLow": 5,
         "rarity": "3/60",
         "source": "Tarnished chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 59,
+        "quantityLow": 41,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Iron cannonball",
@@ -159509,22 +160095,6 @@
         "source": "Ogre Coffin"
       },
       {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 29,
-        "quantityLow": 27,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 30,
-        "quantityLow": 20,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
         "dropLevel": "15",
         "dropType": "mining",
         "quantityHigh": 5,
@@ -159533,12 +160103,28 @@
         "source": "Rubble (In Aid of the Myreque)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 29,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
+      },
+      {
         "dropLevel": "15",
         "dropType": "sailing",
         "quantityHigh": 5,
         "quantityLow": 1,
         "rarity": "100/1,721",
         "source": "Small salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "",
@@ -160212,22 +160798,6 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 20,
-        "quantityLow": 10,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 20,
-        "quantityLow": 12,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
-        "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -160371,6 +160941,14 @@
         "source": "Small Lizard"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
+      },
+      {
         "dropLevel": "24",
         "dropType": "combat",
         "quantityHigh": 5,
@@ -160457,6 +161035,14 @@
         "quantityLow": 1,
         "rarity": "4/128",
         "source": "Thug"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 12,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "28",
@@ -161503,20 +162089,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 11,
+        "quantityLow": 11,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
         "dropLevel": "95",
         "dropType": "sailing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/8",
         "source": "Lost ironwood crate"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 11,
-        "quantityLow": 11,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
       }
     ],
     "group": "Ironwood plank",
@@ -161525,20 +162111,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 7,
+        "quantityLow": 7,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
         "dropLevel": "87",
         "dropType": "sailing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "10/424",
         "source": "Opulent salvage"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 7,
-        "quantityLow": 7,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
       },
       {
         "dropLevel": "211",
@@ -161645,1116 +162231,6 @@
     ],
     "group": "Ironwood seed",
     "name": "Ironwood seed"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (aldarin)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (ardougne)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (brimhaven)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (cairn isle)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (catherby)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (civitas illa fortis)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (corsair cove)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (deepfin point)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (entrana)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (etceteria)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (hosidius)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (jatizso)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (lands end)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (lunar isle)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (musa point)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (neitiznot)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (piscatoris)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (port khazard)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (port piscarilius)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (port roberts)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (port sarim)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (port tyras)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (prifddinas)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (red rock)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (rellekka)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (ruins of unkah)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (summer shore)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (sunset coast)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (the pandemonium)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Huge port reward bag (void knights outpost)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (brimhaven)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (cairn isle)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (catherby)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (civitas illa fortis)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (corsair cove)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (deepfin point)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (entrana)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (hosidius)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (jatizso)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (lands end)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (lunar isle)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (musa point)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (neitiznot)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (piscatoris)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (port khazard)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (port piscarilius)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (port roberts)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (port sarim)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (port tyras)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (red rock)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (rellekka)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (ruins of unkah)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (summer shore)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (sunset coast)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (the pandemonium)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Large port reward bag (void knights outpost)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (brimhaven)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (cairn isle)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (catherby)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (civitas illa fortis)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (corsair cove)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (deepfin point)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (entrana)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (etceteria)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (hosidius)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (jatizso)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (lands end)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (lunar isle)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (musa point)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (neitiznot)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (piscatoris)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (port khazard)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (port piscarilius)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (port roberts)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (port sarim)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (port tyras)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (prifddinas)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (red rock)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (rellekka)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (ruins of unkah)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (summer shore)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (sunset coast)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (the pandemonium)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag (void knights outpost)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (brimhaven)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (cairn isle)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (catherby)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (civitas illa fortis)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (corsair cove)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (deepfin point)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (entrana)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (etceteria)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (hosidius)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (jatizso)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (lands end)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (lunar isle)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (musa point)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (neitiznot)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (piscatoris)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (port khazard)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (port piscarilius)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (port roberts)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (port sarim)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (port tyras)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (prifddinas)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (red rock)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (rellekka)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (ruins of unkah)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (summer shore)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (sunset coast)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (the pandemonium)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Small port reward bag (void knights outpost)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (brimhaven)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (cairn isle)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (catherby)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (civitas illa fortis)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (corsair cove)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (deepfin point)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (entrana)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (etceteria)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (hosidius)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (jatizso)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (lands end)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (lunar isle)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (musa point)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (neitiznot)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (piscatoris)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (port khazard)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (port piscarilius)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (port roberts)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (port tyras)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (prifddinas)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (red rock)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (rellekka)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (ruins of unkah)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (summer shore)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (sunset coast)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": -1,
-        "quantityLow": -1,
-        "rarity": "Unknown",
-        "source": "Tiny port reward bag (void knights outpost)"
-      }
-    ],
-    "group": "Items",
-    "name": "Item"
   },
   {
     "dropSources": [
@@ -164176,7 +163652,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/300",
-        "source": "Golem crafting"
+        "source": "Golem (sunstone)"
       }
     ],
     "group": "Jeweller's chisel",
@@ -165345,6 +164821,34 @@
     ],
     "group": "Key (The Lost Tribe)",
     "name": "Key (The Lost Tribe)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Tree Gnome Village Dungeon)"
+      }
+    ],
+    "group": "Key (Tree Gnome Village Dungeon)",
+    "name": "Key (Tree Gnome Village Dungeon)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Waterfall Dungeon)"
+      }
+    ],
+    "group": "Key (Waterfall Dungeon)",
+    "name": "Key (Waterfall Dungeon)"
   },
   {
     "dropSources": [
@@ -168710,6 +168214,42 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Bounty tasks"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/5",
+        "source": "Courier tasks"
+      }
+    ],
+    "group": "Large port coin bag",
+    "name": "Large port coin bag"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5",
+        "source": "Courier tasks"
+      }
+    ],
+    "group": "Large port reward bag",
+    "name": "Large port reward bag"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "59",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -171831,12 +171371,36 @@
         "source": "Barracuda salvage"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#Deepfin Point"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Deepfin Point"
+      },
+      {
         "dropLevel": "25",
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Lead rocks"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Deepfin Point"
       }
     ],
     "group": "Lead ore",
@@ -176464,12 +176028,12 @@
         "source": "Calcified rocks"
       },
       {
-        "dropLevel": "66",
+        "dropLevel": "",
         "dropType": "woodcutting",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/966",
-        "source": "Camphor tree"
+        "source": "Camphor tree (Farming)"
       },
       {
         "dropLevel": "1",
@@ -176584,12 +176148,12 @@
         "source": "Iron rocks#Varlamore"
       },
       {
-        "dropLevel": "80",
+        "dropLevel": "",
         "dropType": "woodcutting",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/482",
-        "source": "Ironwood tree"
+        "source": "Ironwood tree (Farming)"
       },
       {
         "dropLevel": "75",
@@ -176656,12 +176220,12 @@
         "source": "Rod Fishing spot (lure, bait)#Stripy feathers"
       },
       {
-        "dropLevel": "92",
+        "dropLevel": "",
         "dropType": "woodcutting",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/482",
-        "source": "Rosewood tree"
+        "source": "Rosewood tree (Farming)"
       },
       {
         "dropLevel": "85",
@@ -178562,7 +178126,7 @@
         "dropType": "reward",
         "quantityHigh": 100,
         "quantityLow": 100,
-        "rarity": "Always",
+        "rarity": "Once",
         "source": "Magic logs pile"
       },
       {
@@ -179952,6 +179516,22 @@
         "source": "Gangster"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 18,
+        "quantityLow": 14,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 19,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
+      },
+      {
         "dropLevel": "70",
         "dropType": "sailing",
         "quantityHigh": 1,
@@ -179961,27 +179541,11 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 18,
-        "quantityLow": 18,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 20,
-        "quantityLow": 20,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 11,
         "quantityLow": 11,
         "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
+        "source": "Medium port reward bag"
       },
       {
         "dropLevel": "82",
@@ -180098,6 +179662,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 7,
+        "quantityLow": 7,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 6,
         "quantityLow": 6,
         "rarity": "15/144",
@@ -180142,6 +179714,22 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 8,
+        "quantityLow": 8,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 12,
+        "quantityLow": 12,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
+      },
+      {
         "dropLevel": "64",
         "dropType": "sailing",
         "quantityHigh": 1,
@@ -180151,27 +179739,11 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 8,
-        "quantityLow": 8,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 12,
         "quantityLow": 12,
         "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 12,
-        "quantityLow": 12,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "128",
@@ -182521,6 +182093,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (The Pandemonium)"
+      }
+    ],
+    "group": "Medallion of the Deep",
+    "name": "Medallion of the Deep"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "149",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -182571,6 +182157,42 @@
     ],
     "group": "Medium ninja monkey bones",
     "name": "Medium ninja monkey bones"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Bounty tasks"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/5",
+        "source": "Courier tasks"
+      }
+    ],
+    "group": "Medium port coin bag",
+    "name": "Medium port coin bag"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5",
+        "source": "Courier tasks"
+      }
+    ],
+    "group": "Medium port reward bag",
+    "name": "Medium port reward bag"
   },
   {
     "dropSources": [
@@ -185555,12 +185177,28 @@
         "source": "Grotesque Guardians"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 19,
+        "quantityLow": 19,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
         "dropLevel": "278",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "5/128",
         "source": "Insatiable mutated Bloodveld"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
       },
       {
         "dropLevel": "68,98,106",
@@ -185593,6 +185231,14 @@
         "quantityLow": 5,
         "rarity": "5/107",
         "source": "Mature custodian stalker"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 11,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
       },
       {
         "dropLevel": "304",
@@ -185641,30 +185287,6 @@
         "quantityLow": 1,
         "rarity": "1/128",
         "source": "Paladin"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 20,
-        "quantityLow": 15,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 20,
-        "quantityLow": 11,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 19,
-        "quantityLow": 19,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
       },
       {
         "dropLevel": "",
@@ -185737,6 +185359,14 @@
         "quantityLow": 1,
         "rarity": "5/128",
         "source": "Skeleton fremennik"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 19,
+        "quantityLow": 19,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "48",
@@ -186243,12 +185873,28 @@
         "source": "Hammerhead shark"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 58,
+        "quantityLow": 49,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
+      },
+      {
         "dropLevel": "53",
         "dropType": "sailing",
         "quantityHigh": 5,
         "quantityLow": 2,
         "rarity": "50/2,218",
         "source": "Large salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 59,
+        "quantityLow": 40,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
       },
       {
         "dropLevel": "64",
@@ -186259,38 +185905,6 @@
         "source": "Plundered salvage"
       },
       {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 58,
-        "quantityLow": 49,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 59,
-        "quantityLow": 40,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 40,
-        "quantityLow": 40,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 51,
-        "quantityLow": 45,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
         "dropLevel": "76",
         "dropType": "thieving",
         "quantityHigh": 10,
@@ -186299,12 +185913,28 @@
         "source": "Reinforced chest"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 40,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
+      },
+      {
         "dropLevel": "54",
         "dropType": "thieving",
         "quantityHigh": 10,
         "quantityLow": 5,
         "rarity": "1/60",
         "source": "Tarnished chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 54,
+        "quantityLow": 44,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Mithril cannonball",
@@ -188146,6 +187776,14 @@
         "source": "Ava's assembler"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 24,
+        "quantityLow": 21,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
+      },
+      {
         "dropLevel": "53",
         "dropType": "sailing",
         "quantityHigh": 5,
@@ -188163,30 +187801,6 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 24,
-        "quantityLow": 21,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 22,
-        "quantityLow": 22,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 30,
-        "quantityLow": 20,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
-        "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -188200,6 +187814,22 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Rubble (In Aid of the Myreque)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 22,
+        "quantityLow": 22,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Mithril nails",
@@ -188432,6 +188062,22 @@
         "source": "Maggot King"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 19,
+        "quantityLow": 14,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Jatizo"
+      },
+      {
         "dropLevel": "55",
         "dropType": "mining",
         "quantityHigh": 1,
@@ -188470,14 +188116,6 @@
         "quantityLow": 165,
         "rarity": "5/100",
         "source": "Phosani's Nightmare"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 19,
-        "quantityLow": 14,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
       },
       {
         "dropLevel": "",
@@ -188542,6 +188180,14 @@
         "quantityLow": 1,
         "rarity": "1/128",
         "source": "Small Lizard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Jatizo"
       },
       {
         "dropLevel": "",
@@ -198407,6 +198053,28 @@
   {
     "dropSources": [
       {
+        "dropLevel": "244",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "Spiked Turoth"
+      },
+      {
+        "dropLevel": "83,85,87,89",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "Turoth"
+      }
+    ],
+    "group": "Necklace of fangs",
+    "name": "Necklace of fangs"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "17,27",
         "dropType": "hunter",
         "quantityHigh": 1,
@@ -199465,27 +199133,11 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 11,
         "quantityLow": 11,
         "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 12,
-        "quantityLow": 12,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 20,
-        "quantityLow": 10,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
+        "source": "Medium port reward bag"
       },
       {
         "dropLevel": "",
@@ -199502,6 +199154,14 @@
         "quantityLow": 15,
         "rarity": "1/32",
         "source": "Reward pool"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 12,
+        "quantityLow": 12,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "15",
@@ -199534,6 +199194,14 @@
         "quantityLow": 30,
         "rarity": "5/144",
         "source": "Supply crate (Mahogany Homes)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "454",
@@ -199575,19 +199243,19 @@
     "dropSources": [
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 15,
         "quantityLow": 7,
         "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
+        "source": "Medium port reward bag"
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 14,
         "quantityLow": 6,
         "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Oak repair kit",
@@ -204677,6 +204345,22 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 8,
+        "quantityLow": 8,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Red Rock"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Red Rock"
+      },
+      {
         "dropLevel": "52",
         "dropType": "farming",
         "quantityHigh": 1,
@@ -204779,6 +204463,14 @@
         "source": "Hermit crab"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 3,
+        "quantityLow": 3,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#The Summer Shore"
+      },
+      {
         "dropLevel": "53",
         "dropType": "sailing",
         "quantityHigh": 5,
@@ -204793,6 +204485,14 @@
         "quantityLow": 1,
         "rarity": "16/297",
         "source": "Manta ray (monster)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#The Summer Shore"
       },
       {
         "dropLevel": "111",
@@ -204929,6 +204629,22 @@
         "source": "Jungle horror"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Brimhaven"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Brimhaven"
+      },
+      {
         "dropLevel": "247",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -204951,6 +204667,22 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Pineapple plant"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Brimhaven"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Brimhaven"
       },
       {
         "dropLevel": "79",
@@ -205530,14 +205262,6 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 20,
-        "quantityLow": 13,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
-        "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 30,
         "quantityLow": 20,
@@ -205551,6 +205275,14 @@
         "quantityLow": 1,
         "rarity": "100/1,721",
         "source": "Small salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 13,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "30,35,40,45,50,55,60,64,70",
@@ -206729,50 +206461,6 @@
     ],
     "group": "Porcelain cup (trimmed)",
     "name": "Porcelain cup (trimmed)"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/5",
-        "source": "Bounty tasks"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/5",
-        "source": "Courier tasks"
-      }
-    ],
-    "group": "Port coin bag",
-    "name": "Port coin bag"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5",
-        "source": "Bounty tasks"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/5",
-        "source": "Courier tasks"
-      }
-    ],
-    "group": "Port reward bag",
-    "name": "Port reward bag"
   },
   {
     "dropSources": [
@@ -212702,6 +212390,22 @@
         "source": "Guardian Drake"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Port Piscarilius"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Port Piscarilius"
+      },
+      {
         "dropLevel": "82",
         "dropType": "fishing",
         "quantityHigh": 1,
@@ -212716,6 +212420,22 @@
         "quantityLow": 60,
         "rarity": "7/100",
         "source": "Skotizo"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Port Piscarilius"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Port Piscarilius"
       }
     ],
     "group": "Raw anglerfish",
@@ -212792,6 +212512,14 @@
         "quantityLow": 1,
         "rarity": "10/128",
         "source": "King Sand Crab"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Catherby"
       },
       {
         "dropLevel": "68,98,106",
@@ -213609,7 +213337,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Common",
-        "source": "Fishing spot (frogspawn)#Bait"
+        "source": "Fishing spot (frog spawn, eels)#Bait"
       },
       {
         "dropLevel": "103",
@@ -213936,6 +213664,14 @@
         "quantityLow": 1,
         "rarity": "Common",
         "source": "Fishing spot (big net, harpoon)#Big net"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Catherby"
       }
     ],
     "group": "Raw cod",
@@ -214698,6 +214434,14 @@
         "source": "Locust rider"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Catherby"
+      },
+      {
         "dropLevel": "63",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -215017,9 +214761,25 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Port Khazard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
         "quantityLow": 5,
         "rarity": "540/6,400",
         "source": "Reward pool#Levels 81+"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Port Khazard"
       },
       {
         "dropLevel": "593,798,1157",
@@ -215044,6 +214804,14 @@
         "quantityLow": 2,
         "rarity": "221/1,140",
         "source": "The Mimic#Master"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Port Khazard"
       }
     ],
     "group": "Raw manta ray",
@@ -215156,6 +214924,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Piscatoris"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 450,
         "quantityLow": 150,
         "rarity": "Varies",
@@ -215176,6 +214952,14 @@
         "quantityLow": 18,
         "rarity": "8/150",
         "source": "Mad Angel"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Piscatoris"
       },
       {
         "dropLevel": "587,791,1146",
@@ -215980,6 +215764,14 @@
         "source": "Fishing Trawler"
       },
       {
+        "dropLevel": "10",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Fishing spot (Hemenster)"
+      },
+      {
         "dropLevel": "5",
         "dropType": "fishing",
         "quantityHigh": 1,
@@ -216703,7 +216495,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Common",
-        "source": "Fishing spot (frogspawn)#Bait"
+        "source": "Fishing spot (frog spawn, eels)#Bait"
       },
       {
         "dropLevel": "28",
@@ -217416,6 +217208,14 @@
         "quantityLow": 4,
         "rarity": "2/128",
         "source": "Rock (Troll)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Catherby"
       },
       {
         "dropLevel": "104",
@@ -219085,11 +218885,11 @@
     "dropSources": [
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 14,
         "quantityLow": 6,
         "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Repair kit",
@@ -223903,6 +223703,14 @@
         "source": "Great white shark"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 60,
+        "quantityLow": 49,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
+      },
+      {
         "dropLevel": "116",
         "dropType": "combat",
         "quantityHigh": 14,
@@ -223957,14 +223765,6 @@
         "quantityLow": 2,
         "rarity": "10/1,036",
         "source": "Plundered salvage"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 49,
-        "quantityLow": 49,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
       },
       {
         "dropLevel": "235",
@@ -227920,11 +227720,11 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 22,
+        "dropType": "reward",
+        "quantityHigh": 26,
         "quantityLow": 22,
         "rarity": "Unknown",
-        "source": "Port reward bag#Large"
+        "source": "Large port reward bag"
       },
       {
         "dropLevel": "61,67,70,72,76,80",
@@ -231149,6 +230949,14 @@
         "source": "Kraken"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 17,
+        "quantityLow": 7,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
+      },
+      {
         "dropLevel": "85",
         "dropType": "sailing",
         "quantityHigh": 1,
@@ -231179,14 +230987,6 @@
         "quantityLow": 2,
         "rarity": "3/128",
         "source": "Mithril dragon"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 17,
-        "quantityLow": 17,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
       },
       {
         "dropLevel": "82",
@@ -231957,6 +231757,22 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 7,
+        "quantityLow": 7,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 11,
+        "quantityLow": 11,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 20,
         "quantityLow": 15,
         "rarity": "2/60",
@@ -232081,22 +231897,6 @@
         "quantityLow": 11,
         "rarity": "2/100",
         "source": "Phosani's Nightmare"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 7,
-        "quantityLow": 7,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 11,
-        "quantityLow": 11,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
       },
       {
         "dropLevel": "82",
@@ -232562,11 +232362,27 @@
     "dropSources": [
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Unknown",
-        "source": "Tiny port reward bag (the pandemonium)"
+        "source": "Medium port reward bag#The Pandemonium"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#The Pandemonium"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
     "group": "Sailor's mirage",
@@ -234669,19 +234485,19 @@
     "dropSources": [
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 15,
-        "quantityLow": 15,
+        "quantityLow": 11,
         "rarity": "Unknown",
-        "source": "Port reward bag#Huge"
+        "source": "Huge port reward bag"
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 18,
         "quantityLow": 13,
         "rarity": "Unknown",
-        "source": "Port reward bag#Large"
+        "source": "Large port reward bag"
       }
     ],
     "group": "Sawmill coupon (camphor plank)",
@@ -234691,19 +234507,33 @@
     "dropSources": [
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
+        "quantityHigh": 17,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag"
+      }
+    ],
+    "group": "Sawmill coupon (ironwood plank)",
+    "name": "Sawmill coupon (ironwood plank)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 19,
         "quantityLow": 11,
         "rarity": "Unknown",
-        "source": "Port reward bag#Large"
+        "source": "Large port reward bag"
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 20,
         "quantityLow": 14,
         "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
+        "source": "Medium port reward bag"
       }
     ],
     "group": "Sawmill coupon (mahogany plank)",
@@ -234737,11 +234567,11 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 15,
-        "quantityLow": 5,
+        "quantityLow": 15,
         "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "15",
@@ -234750,6 +234580,14 @@
         "quantityLow": 1,
         "rarity": "50/1,721",
         "source": "Small salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Sawmill coupon (oak plank)",
@@ -234759,11 +234597,11 @@
     "dropSources": [
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 20,
         "quantityLow": 19,
         "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
+        "source": "Medium port reward bag"
       }
     ],
     "group": "Sawmill coupon (teak plank)",
@@ -234780,20 +234618,20 @@
         "source": "Lost wooden crate"
       },
       {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 18,
-        "quantityLow": 10,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
         "dropLevel": "15",
         "dropType": "sailing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "100/1,721",
         "source": "Small salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 18,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Sawmill coupon (wood plank)",
@@ -236943,6 +236781,20 @@
     ],
     "group": "Ship ticket",
     "name": "Ship ticket"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "34",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Xocotla"
+      }
+    ],
+    "group": "Shipping contract",
+    "name": "Shipping contract"
   },
   {
     "dropSources": [
@@ -239548,6 +239400,42 @@
     ],
     "group": "Small ninja monkey bones",
     "name": "Small ninja monkey bones"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Bounty tasks"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/5",
+        "source": "Courier tasks"
+      }
+    ],
+    "group": "Small port coin bag",
+    "name": "Small port coin bag"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5",
+        "source": "Courier tasks"
+      }
+    ],
+    "group": "Small port reward bag",
+    "name": "Small port reward bag"
   },
   {
     "dropSources": [
@@ -245100,10 +244988,34 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Ruins of Unkah"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 64,
         "quantityLow": 32,
         "rarity": "1/4",
         "source": "Reward pool"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Ruins of Unkah"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Ruins of Unkah"
       }
     ],
     "group": "Spirit flakes",
@@ -249977,6 +249889,14 @@
         "source": "Marlo's crate"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 12,
+        "quantityLow": 12,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
+      },
+      {
         "dropLevel": "24",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -250031,30 +249951,6 @@
         "quantityLow": 1,
         "rarity": "1/128",
         "source": "Paladin"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 12,
-        "quantityLow": 12,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 15,
-        "quantityLow": 13,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 16,
-        "quantityLow": 13,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
       },
       {
         "dropLevel": "",
@@ -250127,6 +250023,14 @@
         "quantityLow": 3,
         "rarity": "5/128",
         "source": "Skeleton warlord"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 13,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "15",
@@ -250207,6 +250111,14 @@
         "quantityLow": 2,
         "rarity": "10/512",
         "source": "Svetlana"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 16,
+        "quantityLow": 13,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "24",
@@ -250688,6 +250600,14 @@
         "source": "Frozen cache"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#Port Roberts"
+      },
+      {
         "dropLevel": "93",
         "dropType": "combat",
         "quantityHigh": 15,
@@ -250704,6 +250624,14 @@
         "source": "Killerwatt"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Port Roberts"
+      },
+      {
         "dropLevel": "270,588",
         "dropType": "combat",
         "quantityHigh": 100,
@@ -250718,6 +250646,22 @@
         "quantityLow": 15,
         "rarity": "15/107",
         "source": "Mature custodian stalker"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 60,
+        "quantityLow": 46,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Port Roberts"
       },
       {
         "dropLevel": "1001",
@@ -250750,22 +250694,6 @@
         "quantityLow": 1,
         "rarity": "5/200",
         "source": "Pirate (Thieving)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 60,
-        "quantityLow": 46,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 60,
-        "quantityLow": 41,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
       },
       {
         "dropLevel": "76",
@@ -250824,6 +250752,14 @@
         "source": "Skeleton (Tarn's Lair)#Low level"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Port Roberts"
+      },
+      {
         "dropLevel": "302",
         "dropType": "combat",
         "quantityHigh": 200,
@@ -250870,6 +250806,14 @@
         "quantityLow": 48,
         "rarity": "4/100",
         "source": "Tiger shark"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 60,
+        "quantityLow": 41,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "464",
@@ -253297,36 +253241,20 @@
         "source": "Large salvage"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 29,
+        "quantityLow": 29,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
+      },
+      {
         "dropLevel": "20",
         "dropType": "thieving",
         "quantityHigh": 11,
         "quantityLow": 1,
         "rarity": "2/100",
         "source": "Ogre Coffin"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 29,
-        "quantityLow": 29,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 22,
-        "quantityLow": 22,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 30,
-        "quantityLow": 20,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
       },
       {
         "dropLevel": "",
@@ -253367,6 +253295,22 @@
         "quantityLow": 12,
         "rarity": "5/128",
         "source": "Skeleton (mage)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 22,
+        "quantityLow": 22,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "22,32",
@@ -253613,6 +253557,14 @@
         "source": "Giant Rock Crab"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#Void Knights' Outpost"
+      },
+      {
         "dropLevel": "82",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -253665,8 +253617,24 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Void Knights' Outpost"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "3/256",
         "source": "Liam"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Void Knights' Outpost"
       },
       {
         "dropLevel": "",
@@ -253731,6 +253699,14 @@
         "quantityLow": 1,
         "rarity": "2/128",
         "source": "Skeleton (Tarn's Lair)#Medium level"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Void Knights' Outpost"
       },
       {
         "dropLevel": "104",
@@ -254217,6 +254193,14 @@
         "source": "Kalphite Soldier"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Corsair Cove"
+      },
+      {
         "dropLevel": "82,87,94",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -254247,6 +254231,14 @@
         "quantityLow": 1,
         "rarity": "2/20",
         "source": "Maniacal monkey"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Corsair Cove"
       },
       {
         "dropLevel": "33",
@@ -254311,6 +254303,14 @@
         "quantityLow": 1,
         "rarity": "2/128",
         "source": "Skeleton warlord"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Corsair Cove"
       },
       {
         "dropLevel": "88,93",
@@ -259278,6 +259278,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Hosidius"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 12,
         "quantityLow": 6,
         "rarity": "3/30",
@@ -259911,7 +259919,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "43/1,000",
-        "source": "Fishing spot (frogspawn)#Small net"
+        "source": "Fishing spot (frog spawn, eels)#Small net"
       },
       {
         "dropLevel": "51",
@@ -262350,6 +262358,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#Etceteria"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 4,
         "rarity": "Varies",
@@ -262397,11 +262413,11 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 24,
-        "quantityLow": 24,
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
         "rarity": "Unknown",
-        "source": "Large port reward bag (etceteria)"
+        "source": "Large port reward bag#Etceteria"
       },
       {
         "dropLevel": "53",
@@ -262422,10 +262438,26 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Etceteria"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 20,
         "quantityLow": 10,
         "rarity": "Varies",
         "source": "Reward Cart"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Etceteria"
       },
       {
         "dropLevel": "139",
@@ -262570,6 +262602,14 @@
         "source": "Gangster"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 18,
+        "quantityLow": 14,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
+      },
+      {
         "dropLevel": "50",
         "dropType": "sailing",
         "quantityHigh": 1,
@@ -262578,36 +262618,20 @@
         "source": "Lost teak crate"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 17,
+        "quantityLow": 17,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag"
+      },
+      {
         "dropLevel": "741",
         "dropType": "combat",
         "quantityHigh": 22,
         "quantityLow": 22,
         "rarity": "10/235",
         "source": "Phantom Muspah"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 18,
-        "quantityLow": 14,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Large"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 11,
-        "quantityLow": 11,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 20,
-        "quantityLow": 9,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
       },
       {
         "dropLevel": "93",
@@ -262624,6 +262648,14 @@
         "quantityLow": 40,
         "rarity": "1/32.3",
         "source": "Reward casket (elite)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 11,
+        "quantityLow": 11,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "128",
@@ -262648,6 +262680,14 @@
         "quantityLow": 16,
         "rarity": "4/144",
         "source": "Supply crate (Mahogany Homes)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 9,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Teak plank",
@@ -262665,35 +262705,19 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 10,
         "quantityLow": 7,
         "rarity": "Unknown",
-        "source": "Port reward bag#Large"
+        "source": "Large port reward bag"
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 14,
         "quantityLow": 14,
         "rarity": "Unknown",
-        "source": "Port reward bag#Medium"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 15,
-        "quantityLow": 15,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Small"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 13,
-        "quantityLow": 5,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
+        "source": "Medium port reward bag"
       },
       {
         "dropLevel": "93",
@@ -262702,6 +262726,22 @@
         "quantityLow": 1,
         "rarity": "5/108",
         "source": "Pygmy kraken"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 13,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       }
     ],
     "group": "Teak repair kit",
@@ -263987,6 +264027,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "34",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cozyac"
+      }
+    ],
+    "group": "Threatening note",
+    "name": "Threatening note"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -264335,14 +264389,6 @@
         "source": "Minotaur"
       },
       {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 17,
-        "quantityLow": 14,
-        "rarity": "Unknown",
-        "source": "Port reward bag#Tiny"
-      },
-      {
         "dropLevel": "13",
         "dropType": "combat",
         "quantityHigh": 3,
@@ -264437,6 +264483,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Tin rocks"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 17,
+        "quantityLow": 14,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag"
       },
       {
         "dropLevel": "32",
@@ -264983,6 +265037,42 @@
     ],
     "group": "Tinderbox",
     "name": "Tinderbox"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Bounty tasks"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/5",
+        "source": "Courier tasks"
+      }
+    ],
+    "group": "Tiny port coin bag",
+    "name": "Tiny port coin bag"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5",
+        "source": "Courier tasks"
+      }
+    ],
+    "group": "Tiny port reward bag",
+    "name": "Tiny port reward bag"
   },
   {
     "dropSources": [
@@ -269262,6 +269352,20 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chest (Tribal Totem)"
+      }
+    ],
+    "group": "Totem",
+    "name": "Totem"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "1/2,000",
         "source": "Accumulator max cape"
       },
@@ -272172,6 +272276,14 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#Red Rock"
+      },
+      {
         "dropLevel": "77",
         "dropType": "farming",
         "quantityHigh": 1,
@@ -272264,6 +272376,14 @@
         "quantityLow": 1,
         "rarity": "1/1,280",
         "source": "Hermit crab"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#The Summer Shore"
       },
       {
         "dropLevel": "133",
@@ -272525,7 +272645,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "299/10,000",
+        "rarity": "6/200",
         "source": "Bag full of gems"
       },
       {
@@ -272886,7 +273006,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/23",
-        "source": "Golem crafting"
+        "source": "Golem (sunstone)"
       },
       {
         "dropLevel": "",
@@ -273467,7 +273587,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "50/10,000",
+        "rarity": "1/200",
         "source": "Bag full of gems"
       },
       {
@@ -273753,7 +273873,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3,459/10,000",
+        "rarity": "69/200",
         "source": "Bag full of gems"
       },
       {
@@ -274058,7 +274178,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "5/23",
-        "source": "Golem crafting"
+        "source": "Golem (sunstone)"
       },
       {
         "dropLevel": "",
@@ -275591,7 +275711,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1,202/10,000",
+        "rarity": "24/200",
         "source": "Bag full of gems"
       },
       {
@@ -275944,7 +276064,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "2/23",
-        "source": "Golem crafting"
+        "source": "Golem (sunstone)"
       },
       {
         "dropLevel": "",
@@ -276605,7 +276725,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4,990/10,000",
+        "rarity": "100/200",
         "source": "Bag full of gems"
       },
       {
@@ -276926,7 +277046,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "15/23",
-        "source": "Golem crafting"
+        "source": "Golem (sunstone)"
       },
       {
         "dropLevel": "",
@@ -277249,6 +277369,14 @@
         "source": "Silver rocks"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Cairn Isle"
+      },
+      {
         "dropLevel": "70",
         "dropType": "mining",
         "quantityHigh": 1,
@@ -277287,6 +277415,14 @@
         "quantityLow": 1,
         "rarity": "32/32,768",
         "source": "Tin rocks"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#Cairn Isle"
       },
       {
         "dropLevel": "74",
@@ -278946,6 +279082,36 @@
     ],
     "group": "Vanilla pod",
     "name": "Vanilla pod"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Civitas illa Fortis"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Civitas illa Fortis"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#Civitas illa Fortis"
+      }
+    ],
+    "group": "Varlamorian kebab",
+    "name": "Varlamorian kebab"
   },
   {
     "dropSources": [
@@ -281688,11 +281854,27 @@
       },
       {
         "dropLevel": "",
-        "dropType": "sailing",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Unknown",
-        "source": "Tiny port reward bag (the pandemonium)"
+        "source": "Medium port reward bag#The Pandemonium"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Small port reward bag#The Pandemonium"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
     "group": "Vodka",
@@ -283922,6 +284104,36 @@
   {
     "dropSources": [
       {
+        "dropLevel": "149",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/64",
+        "source": "Giant Sea Snake"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/64",
+        "source": "Sea Snake Hatchling"
+      },
+      {
+        "dropLevel": "90",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/64",
+        "source": "Sea Snake Young"
+      }
+    ],
+    "group": "Water sapphire",
+    "name": "Water sapphire"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "350",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -284216,6 +284428,20 @@
     "group": "Watering can",
     "name": "Watering can(8)",
     "version": "(8)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (The Pandemonium)"
+      }
+    ],
+    "group": "Waterlogged journal",
+    "name": "Waterlogged journal"
   },
   {
     "dropSources": [
@@ -288804,6 +289030,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "34",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Adala"
+      }
+    ],
+    "group": "Wine labels",
+    "name": "Wine labels"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "24",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -290233,6 +290473,14 @@
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Neitiznot"
+      },
       {
         "dropLevel": "22",
         "dropType": "combat",
@@ -293531,6 +293779,30 @@
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Huge port reward bag#Port Tyras"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Large port reward bag#Port Tyras"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Unknown",
+        "source": "Medium port reward bag#Port Tyras"
+      },
       {
         "dropLevel": "725",
         "dropType": "combat",

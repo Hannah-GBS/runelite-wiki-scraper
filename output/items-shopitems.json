@@ -29681,7 +29681,7 @@
         "version": null
       }
     ],
-    "location": "Miscellania and Etceteria Dungeon",
+    "location": "Miscellania Expansion",
     "mapID": "-1",
     "name": "Miscellanian Clothes Shop",
     "plane": "0",
@@ -29741,7 +29741,7 @@
         "version": null
       }
     ],
-    "location": "Miscellania and Etceteria Dungeon",
+    "location": "Miscellania Expansion",
     "mapID": "-1",
     "name": "Miscellanian Food Shop",
     "plane": "0",
@@ -29819,7 +29819,7 @@
         "version": null
       }
     ],
-    "location": "Miscellania and Etceteria Dungeon",
+    "location": "Miscellania Expansion",
     "mapID": "-1",
     "name": "Miscellanian General Store",
     "plane": "0",
@@ -38204,7 +38204,7 @@
     "sellMultiplier": "1300"
   },
   {
-    "coords": "?",
+    "coords": "3709,3835",
     "isMembers": true,
     "items": [
       {
@@ -39696,7 +39696,7 @@
         "version": null
       }
     ],
-    "location": "Miscellania and Etceteria dungeon",
+    "location": "Miscellania Expansion",
     "mapID": "-1",
     "name": "The Esoterican Arms",
     "plane": "0",
