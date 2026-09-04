@@ -2943,7 +2943,7 @@
         "coords": "2633,9908",
         "isMembers": true,
         "location": "Temple of Ikov",
-        "mapID": "0",
+        "mapID": "-1",
         "name": "Bucket",
         "plane": "0"
       },
@@ -4355,7 +4355,7 @@
       {
         "coords": "2971,3382",
         "isMembers": false,
-        "location": "Falador - Cassie's Shield Shop (1st floor)",
+        "location": "Falador - Cassie's Shield Shop. (1st floor)",
         "mapID": "0",
         "name": "Cooked chicken",
         "plane": "1"
@@ -7744,6 +7744,19 @@
         "location": "Wilderness - Dark Warriors' Fortress",
         "mapID": "0",
         "name": "Mind rune",
+        "plane": "0"
+      }
+    ]
+  },
+  {
+    "group": "Mirror",
+    "spawns": [
+      {
+        "coords": "3437,3337",
+        "isMembers": true,
+        "location": "Nature Grotto",
+        "mapID": "0",
+        "name": "Mirror",
         "plane": "0"
       }
     ]
