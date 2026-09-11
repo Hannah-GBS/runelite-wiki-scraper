@@ -14111,7 +14111,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">112,978,567</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">107,134,720</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -17508,6 +17508,29 @@
   {
     "materials": [
       {
+        "image": "Fur head.png",
+        "name": "Fur head",
+        "quantity": "1"
+      },
+      {
+        "image": "Red dye.png",
+        "name": "Red dye",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bloody head.png",
+      "name": "Bloody head",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": ""
+  },
+  {
+    "materials": [
+      {
         "image": "Black cape.png",
         "name": "Black cape",
         "quantity": "1"
@@ -19965,7 +19988,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">111,177,448</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">107,744,277</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -25478,6 +25501,31 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bruma root.png",
+        "name": "Bruma root",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bruma kindling.png",
+      "name": "Bruma kindling",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0.6\u00d7Fletching level",
+        "level": "1",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "4",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -31549,6 +31597,24 @@
       }
     ],
     "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Soft clay.png",
+        "name": "Soft clay",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Clay head.png",
+      "name": "Clay head",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Knife"
   },
   {
     "materials": [
@@ -56128,6 +56194,90 @@
   {
     "materials": [
       {
+        "image": "Clay head.png",
+        "name": "Clay head",
+        "quantity": "1"
+      },
+      {
+        "image": "Bear fur.png",
+        "name": "Bear fur",
+        "quantity": "1"
+      },
+      {
+        "image": "Thread.png",
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Fur head.png",
+      "name": "Fur head",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "image": "Clay head.png",
+        "name": "Clay head",
+        "quantity": "1"
+      },
+      {
+        "image": "Fur.png",
+        "name": "Fur",
+        "quantity": "1"
+      },
+      {
+        "image": "Thread.png",
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Fur head.png",
+      "name": "Fur head",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "image": "Clay head.png",
+        "name": "Clay head",
+        "quantity": "1"
+      },
+      {
+        "image": "Grey wolf fur.png",
+        "name": "Grey wolf fur",
+        "quantity": "1"
+      },
+      {
+        "image": "Thread.png",
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Fur head.png",
+      "name": "Fur head",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
         "image": "Sapphire necklace.png",
         "name": "Sapphire necklace",
         "quantity": "1"
@@ -56321,7 +56471,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Costume needle"
   },
   {
@@ -56362,7 +56512,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "0",
     "tools": "Needle"
   },
   {
@@ -65508,6 +65658,33 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Battered barrel.png",
+        "name": "Battered barrel",
+        "quantity": "1"
+      },
+      {
+        "image": "Sea-soaked bowstring.png",
+        "name": "Sea-soaked bowstring",
+        "quantity": "1"
+      },
+      {
+        "image": "Weathered rosewood plank.png",
+        "name": "Weathered rosewood plank",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Instrument.png",
+      "name": "Instrument",
+      "quantity": "1"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -117370,6 +117547,146 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Grain.png",
+        "name": "Grain",
+        "quantity": "1"
+      },
+      {
+        "image": "Bear fur.png",
+        "name": "Bear fur",
+        "quantity": "1"
+      },
+      {
+        "image": "Thread.png",
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Stuffed dog.png",
+      "name": "Stuffed dog",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "image": "Grain.png",
+        "name": "Grain",
+        "quantity": "1"
+      },
+      {
+        "image": "Fox fur.png",
+        "name": "Fox fur",
+        "quantity": "1"
+      },
+      {
+        "image": "Thread.png",
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Stuffed dog.png",
+      "name": "Stuffed dog",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "image": "Grain.png",
+        "name": "Grain",
+        "quantity": "1"
+      },
+      {
+        "image": "Fur.png",
+        "name": "Fur",
+        "quantity": "1"
+      },
+      {
+        "image": "Thread.png",
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Stuffed dog.png",
+      "name": "Stuffed dog",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "image": "Grain.png",
+        "name": "Grain",
+        "quantity": "1"
+      },
+      {
+        "image": "Grey wolf fur.png",
+        "name": "Grey wolf fur",
+        "quantity": "1"
+      },
+      {
+        "image": "Thread.png",
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Stuffed dog.png",
+      "name": "Stuffed dog",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Needle"
+  },
+  {
+    "materials": [
+      {
+        "image": "Grain.png",
+        "name": "Grain",
+        "quantity": "1"
+      },
+      {
+        "image": "Jaguar fur.png",
+        "name": "Jaguar fur",
+        "quantity": "1"
+      },
+      {
+        "image": "Thread.png",
+        "name": "Thread",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Stuffed dog.png",
+      "name": "Stuffed dog",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Needle"
   },
   {
     "facilities": "Taxidermist",

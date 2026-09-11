@@ -988,6 +988,28 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Boxes (Elemental Workshop)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Elemental Workshop)"
+      }
+    ],
+    "group": "A stone bowl",
+    "name": "A stone bowl"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "350",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -3133,7 +3155,7 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 59,
-        "quantityLow": 59,
+        "quantityLow": 42,
         "rarity": "Unknown",
         "source": "Large port reward bag"
       },
@@ -4064,7 +4086,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/128",
+        "rarity": "1/129",
         "source": "Turoth"
       }
     ],
@@ -7727,6 +7749,14 @@
         "quantityLow": 3,
         "rarity": "5/128",
         "source": "King Black Dragon"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 15,
+        "rarity": "Unknown",
+        "source": "Large port reward bag"
       },
       {
         "dropLevel": "252",
@@ -18878,7 +18908,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/76.7",
+        "rarity": "1/77.3",
         "source": "Turoth"
       },
       {
@@ -21153,6 +21183,20 @@
     ],
     "group": "Batta tin",
     "name": "Batta tin"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "30",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Floatsam"
+      }
+    ],
+    "group": "Battered barrel",
+    "name": "Battered barrel"
   },
   {
     "dropSources": [
@@ -23485,7 +23529,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/54.2",
+        "rarity": "1/54.6",
         "source": "Turoth"
       },
       {
@@ -31296,7 +31340,7 @@
       {
         "dropLevel": "50,62",
         "dropType": "agility",
-        "quantityHigh": 28,
+        "quantityHigh": 38,
         "quantityLow": 22,
         "rarity": "4/5",
         "source": "Termites (NPC)"
@@ -41030,6 +41074,14 @@
         "source": "Outlaw"
       },
       {
+        "dropLevel": "22,23",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Outlaw (A Ruff Situation)"
+      },
+      {
         "dropLevel": "62",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -45909,6 +45961,14 @@
         "source": "Cave slime"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Wintertodt)"
+      },
+      {
         "dropLevel": "5",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -47598,6 +47658,14 @@
         "source": "Buried skeleton (Shaman Caves)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (old)"
+      },
+      {
         "dropLevel": "7,10,11,20",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -48346,6 +48414,20 @@
     "group": "Brown spice",
     "name": "Brown spice (4)",
     "version": "(4)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Sprouting Roots"
+      }
+    ],
+    "group": "Bruma herb",
+    "name": "Bruma herb"
   },
   {
     "dropSources": [
@@ -51146,7 +51228,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/80.7",
+        "rarity": "1/81.4",
         "source": "Turoth"
       },
       {
@@ -52236,7 +52318,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/242.2",
+        "rarity": "1/244.1",
         "source": "Turoth"
       },
       {
@@ -72173,6 +72255,14 @@
         "quantityHigh": 9,
         "quantityLow": 9,
         "rarity": "123/128",
+        "source": "Farmer (Tal Teklan)"
+      },
+      {
+        "dropLevel": "10",
+        "dropType": "thieving",
+        "quantityHigh": 9,
+        "quantityLow": 9,
+        "rarity": "123/128",
         "source": "Farmer (Varlamore)"
       },
       {
@@ -81628,7 +81718,7 @@
         "dropType": "combat",
         "quantityHigh": 44,
         "quantityLow": 44,
-        "rarity": "29/128",
+        "rarity": "29/129",
         "source": "Turoth"
       },
       {
@@ -81636,7 +81726,7 @@
         "dropType": "combat",
         "quantityHigh": 132,
         "quantityLow": 132,
-        "rarity": "12/128",
+        "rarity": "12/129",
         "source": "Turoth"
       },
       {
@@ -81644,7 +81734,7 @@
         "dropType": "combat",
         "quantityHigh": 440,
         "quantityLow": 440,
-        "rarity": "1/128",
+        "rarity": "1/129",
         "source": "Turoth"
       },
       {
@@ -100998,7 +101088,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/553.7",
+        "rarity": "1/558",
         "source": "Turoth"
       },
       {
@@ -106332,7 +106422,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/16",
         "source": "Killerwatt"
       },
       {
@@ -106340,7 +106430,7 @@
         "dropType": "combat",
         "quantityHigh": 10,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "1/40",
         "source": "Killerwatt"
       },
       {
@@ -123217,7 +123307,7 @@
       {
         "dropLevel": "160",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/151.7",
         "source": "Smoke devil"
@@ -123457,9 +123547,9 @@
       {
         "dropLevel": "83,85,87,89",
         "dropType": "combat",
-        "quantityHigh": 3,
+        "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/88.1",
+        "rarity": "1/88.8",
         "source": "Turoth"
       },
       {
@@ -125925,7 +126015,7 @@
       {
         "dropLevel": "160",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/227.6",
         "source": "Smoke devil"
@@ -126181,9 +126271,9 @@
       {
         "dropLevel": "83,85,87,89",
         "dropType": "combat",
-        "quantityHigh": 3,
+        "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/132.1",
+        "rarity": "1/133.2",
         "source": "Turoth"
       },
       {
@@ -128643,7 +128733,7 @@
       {
         "dropLevel": "160",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/303.4",
         "source": "Smoke devil"
@@ -128891,9 +128981,9 @@
       {
         "dropLevel": "83,85,87,89",
         "dropType": "combat",
-        "quantityHigh": 3,
+        "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/176.2",
+        "rarity": "1/177.5",
         "source": "Turoth"
       },
       {
@@ -131199,7 +131289,7 @@
       {
         "dropLevel": "160",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/28.4",
         "source": "Smoke devil"
@@ -131423,9 +131513,9 @@
       {
         "dropLevel": "83,85,87,89",
         "dropType": "combat",
-        "quantityHigh": 3,
+        "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/16.5",
+        "rarity": "1/16.6",
         "source": "Turoth"
       },
       {
@@ -133741,7 +133831,7 @@
       {
         "dropLevel": "160",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/65",
         "source": "Smoke devil"
@@ -133957,9 +134047,9 @@
       {
         "dropLevel": "83,85,87,89",
         "dropType": "combat",
-        "quantityHigh": 3,
+        "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/37.8",
+        "rarity": "1/38",
         "source": "Turoth"
       },
       {
@@ -136305,7 +136395,7 @@
       {
         "dropLevel": "160",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/113.8",
         "source": "Smoke devil"
@@ -136513,9 +136603,9 @@
       {
         "dropLevel": "83,85,87,89",
         "dropType": "combat",
-        "quantityHigh": 3,
+        "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/66.1",
+        "rarity": "1/66.6",
         "source": "Turoth"
       },
       {
@@ -139007,7 +139097,7 @@
       {
         "dropLevel": "160",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/182",
         "source": "Smoke devil"
@@ -139255,9 +139345,9 @@
       {
         "dropLevel": "83,85,87,89",
         "dropType": "combat",
-        "quantityHigh": 3,
+        "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/105.7",
+        "rarity": "1/106.5",
         "source": "Turoth"
       },
       {
@@ -141741,7 +141831,7 @@
       {
         "dropLevel": "160",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/303.4",
         "source": "Smoke devil"
@@ -141989,9 +142079,9 @@
       {
         "dropLevel": "83,85,87,89",
         "dropType": "combat",
-        "quantityHigh": 3,
+        "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/176.2",
+        "rarity": "1/177.5",
         "source": "Turoth"
       },
       {
@@ -144243,7 +144333,7 @@
       {
         "dropLevel": "160",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/37.9",
         "source": "Smoke devil"
@@ -144467,9 +144557,9 @@
       {
         "dropLevel": "83,85,87,89",
         "dropType": "combat",
-        "quantityHigh": 3,
+        "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/22",
+        "rarity": "1/22.2",
         "source": "Turoth"
       },
       {
@@ -147053,7 +147143,7 @@
       {
         "dropLevel": "160",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/82.7",
         "source": "Smoke devil"
@@ -147341,9 +147431,9 @@
       {
         "dropLevel": "83,85,87,89",
         "dropType": "combat",
-        "quantityHigh": 3,
+        "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/48",
+        "rarity": "1/48.4",
         "source": "Turoth"
       },
       {
@@ -150147,7 +150237,7 @@
       {
         "dropLevel": "160",
         "dropType": "combat",
-        "quantityHigh": 2,
+        "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/50.6",
         "source": "Smoke devil"
@@ -150371,9 +150461,9 @@
       {
         "dropLevel": "83,85,87,89",
         "dropType": "combat",
-        "quantityHigh": 3,
+        "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/29.4",
+        "rarity": "1/29.6",
         "source": "Turoth"
       },
       {
@@ -152879,7 +152969,23 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
+        "source": "Crate (Wintertodt)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
         "source": "Crate (hammer)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (old)"
       },
       {
         "dropLevel": "",
@@ -157511,7 +157617,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/52.4",
+        "rarity": "1/52.8",
         "source": "Turoth"
       },
       {
@@ -165413,6 +165519,14 @@
         "source": "Crate (Glough's Laboratory)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Wintertodt)"
+      },
+      {
         "dropLevel": "100",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -166876,7 +166990,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/112.3",
+        "rarity": "1/113.2",
         "source": "Turoth"
       },
       {
@@ -168042,7 +168156,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/337",
+        "rarity": "1/339.6",
         "source": "Turoth"
       },
       {
@@ -171179,7 +171293,7 @@
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
-        "rarity": "6/128",
+        "rarity": "6/129",
         "source": "Turoth"
       },
       {
@@ -171537,7 +171651,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Always",
+        "rarity": "Once",
         "source": "Crate (Elemental Workshop I, leather)"
       },
       {
@@ -173073,7 +173187,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "7/128",
+        "rarity": "7/129",
         "source": "Turoth"
       },
       {
@@ -185007,7 +185121,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/128",
+        "rarity": "3/129",
         "source": "Turoth"
       },
       {
@@ -187100,7 +187214,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/128",
+        "rarity": "1/129",
         "source": "Turoth"
       },
       {
@@ -197661,7 +197775,7 @@
         "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
-        "rarity": "5/128",
+        "rarity": "5/129",
         "source": "Turoth"
       },
       {
@@ -197669,7 +197783,7 @@
         "dropType": "combat",
         "quantityHigh": 37,
         "quantityLow": 37,
-        "rarity": "1/128",
+        "rarity": "1/129",
         "source": "Turoth"
       },
       {
@@ -198065,7 +198179,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/128",
+        "rarity": "1/129",
         "source": "Turoth"
       }
     ],
@@ -198089,6 +198203,14 @@
         "quantityLow": 1,
         "rarity": "1/10",
         "source": "Baby impling jar"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Boxes (Elemental Workshop)"
       },
       {
         "dropLevel": "",
@@ -199248,6 +199370,14 @@
         "quantityLow": 7,
         "rarity": "Unknown",
         "source": "Medium port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 7,
+        "quantityLow": 7,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "",
@@ -206309,7 +206439,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/75.3",
+        "rarity": "1/75.8",
         "source": "Turoth"
       },
       {
@@ -207673,7 +207803,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/110.7",
+        "rarity": "1/111.6",
         "source": "Turoth"
       },
       {
@@ -207905,6 +208035,14 @@
         "quantityLow": 1,
         "rarity": "5/128",
         "source": "Farmer (Kastori)"
+      },
+      {
+        "dropLevel": "10",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "5/128",
+        "source": "Farmer (Tal Teklan)"
       },
       {
         "dropLevel": "10",
@@ -218833,6 +218971,20 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
+        "source": "Crate (Wintertodt)"
+      }
+    ],
+    "group": "Rejuvenation potion (unf)",
+    "name": "Rejuvenation potion (unf)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
         "source": "Chest (Tombs of Amascut)"
       }
     ],
@@ -220709,6 +220861,14 @@
         "quantityLow": 1,
         "rarity": "1/256,961",
         "source": "Farmer"
+      },
+      {
+        "dropLevel": "10",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/256,961",
+        "source": "Farmer (Tal Teklan)"
       },
       {
         "dropLevel": "42",
@@ -224619,7 +224779,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/128",
+        "rarity": "1/129",
         "source": "Turoth"
       },
       {
@@ -234628,7 +234788,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 18,
+        "quantityHigh": 20,
         "quantityLow": 10,
         "rarity": "Unknown",
         "source": "Tiny port reward bag"
@@ -234915,6 +235075,20 @@
     ],
     "group": "Sea turtle",
     "name": "Sea turtle"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "30",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Floatsam"
+      }
+    ],
+    "group": "Sea-soaked bowstring",
+    "name": "Sea-soaked bowstring"
   },
   {
     "dropSources": [
@@ -241402,7 +241576,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/168.5",
+        "rarity": "1/169.8",
         "source": "Turoth"
       },
       {
@@ -243222,7 +243396,7 @@
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
-        "rarity": "1/387.6",
+        "rarity": "1/390.6",
         "source": "Turoth"
       },
       {
@@ -253875,7 +254049,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "7/128",
+        "rarity": "7/129",
         "source": "Turoth"
       },
       {
@@ -263125,7 +263299,7 @@
         "source": "Bush (The Dig Site)"
       },
       {
-        "dropLevel": "",
+        "dropLevel": "25",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -263358,16 +263532,16 @@
       {
         "dropLevel": "62",
         "dropType": "agility",
-        "quantityHigh": 24,
-        "quantityLow": 11,
+        "quantityHigh": 21,
+        "quantityLow": 12,
         "rarity": "Always",
         "source": "Termites (NPC)#Advanced"
       },
       {
         "dropLevel": "50",
         "dropType": "agility",
-        "quantityHigh": 10,
-        "quantityLow": 8,
+        "quantityHigh": 14,
+        "quantityLow": 11,
         "rarity": "Always",
         "source": "Termites (NPC)#Basic"
       }
@@ -263909,6 +264083,14 @@
         "quantityLow": 10,
         "rarity": "1/128",
         "source": "Chilled jelly"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Elemental Workshop, thread)"
       },
       {
         "dropLevel": "",
@@ -264641,6 +264823,14 @@
         "quantityLow": 1,
         "rarity": "1/6",
         "source": "Crate (Glough's Laboratory)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Wintertodt)"
       },
       {
         "dropLevel": "",
@@ -266225,7 +266415,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/35.9",
+        "rarity": "1/36.2",
         "source": "Turoth"
       },
       {
@@ -269137,7 +269327,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/861.2",
+        "rarity": "1/868",
         "source": "Turoth"
       },
       {
@@ -269358,6 +269548,20 @@
     ],
     "group": "Totem",
     "name": "Totem"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "48",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Emissary Ascended"
+      }
+    ],
+    "group": "Tower key (The Heart of Darkness)",
+    "name": "Tower key (The Heart of Darkness)"
   },
   {
     "dropSources": [
@@ -286182,6 +286386,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "30",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Floatsam"
+      }
+    ],
+    "group": "Weathered rosewood plank",
+    "name": "Weathered rosewood plank"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "",
         "quantityHigh": 1,
@@ -293003,7 +293221,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "",
+        "dropLevel": "1",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
