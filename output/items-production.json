@@ -1490,7 +1490,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
@@ -8169,8 +8169,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -12477,8 +12477,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -13566,8 +13566,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -14111,7 +14111,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">107,134,720</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">110,538,882</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19988,7 +19988,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">107,744,277</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">106,553,042</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -23059,7 +23059,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
@@ -58737,8 +58737,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -63470,6 +63470,29 @@
   {
     "materials": [
       {
+        "image": "Scythe of Vitur (uncharged).png",
+        "name": "Scythe of Vitur",
+        "quantity": "1",
+        "version": "Uncharged"
+      },
+      {
+        "image": "Holy ornament kit.png",
+        "name": "Holy ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Holy Scythe of Vitur.png",
+      "name": "Holy Scythe of Vitur",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "image": "Holy book.png",
         "name": "Holy book",
         "quantity": "1"
@@ -63552,29 +63575,6 @@
     "output": {
       "image": "Holy sanguinesti staff.png",
       "name": "Holy sanguinesti staff",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
-  },
-  {
-    "materials": [
-      {
-        "image": "Scythe of Vitur (uncharged).png",
-        "name": "Scythe of Vitur",
-        "quantity": "1",
-        "version": "Uncharged"
-      },
-      {
-        "image": "Holy ornament kit.png",
-        "name": "Holy ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Holy scythe of vitur.png",
-      "name": "Holy scythe of vitur",
       "quantity": "1"
     },
     "skills": [],
@@ -66601,7 +66601,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
@@ -78799,7 +78799,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
@@ -91983,8 +91983,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Potion of sealegs.png",
-      "name": "Potion of sealegs",
+      "image": "Potion of Sealegs.png",
+      "name": "Potion of Sealegs",
       "quantity": "1"
     },
     "skills": [],
@@ -96299,8 +96299,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -96371,8 +96371,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -98656,7 +98656,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
@@ -102049,8 +102049,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -102124,8 +102124,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -102214,8 +102214,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -102679,8 +102679,8 @@
     ],
     "members": true,
     "output": {
-      "image": "Sanguine scythe of vitur.png",
-      "name": "Sanguine scythe of vitur",
+      "image": "Sanguine Scythe of Vitur.png",
+      "name": "Sanguine Scythe of Vitur",
       "quantity": "1"
     },
     "skills": [],
@@ -105420,8 +105420,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -108311,8 +108311,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -108519,8 +108519,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -114386,7 +114386,7 @@
         "name": "Smithing"
       }
     ],
-    "ticks": "2",
+    "ticks": "3",
     "tools": "Hammer"
   },
   {
@@ -121834,6 +121834,37 @@
   {
     "materials": [
       {
+        "image": "Staff of the Dead.png",
+        "name": "Staff of the Dead",
+        "quantity": "1"
+      },
+      {
+        "image": "Magic fang.png",
+        "name": "Magic fang",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Toxic staff (uncharged).png",
+      "name": "Toxic Staff of the Dead",
+      "quantity": "1",
+      "version": "Uncharged"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "59",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
         "image": "Tanzanite fang.png",
         "name": "Tanzanite fang",
         "quantity": "1"
@@ -121897,8 +121928,8 @@
     "facilities": "Nigel",
     "materials": [
       {
-        "image": "Toxic staff of the dead.png",
-        "name": "Toxic staff of the dead",
+        "image": "Toxic Staff of the Dead.png",
+        "name": "Toxic Staff of the Dead",
         "quantity": "1"
       },
       {
@@ -121915,37 +121946,6 @@
     },
     "skills": [],
     "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "image": "Staff of the Dead.png",
-        "name": "Staff of the Dead",
-        "quantity": "1"
-      },
-      {
-        "image": "Magic fang.png",
-        "name": "Magic fang",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Toxic staff (uncharged).png",
-      "name": "Toxic staff of the dead",
-      "quantity": "1",
-      "version": "Uncharged"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "0",
-        "level": "59",
-        "name": "Crafting"
-      }
-    ],
-    "ticks": "1",
-    "tools": "Chisel"
   },
   {
     "facilities": "Crafting table 4",
@@ -122075,8 +122075,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -123030,8 +123030,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],
@@ -126160,8 +126160,8 @@
         "quantity": "1"
       },
       {
-        "image": "Scroll of imbuing.png",
-        "name": "Scroll of imbuing",
+        "image": "Scroll of Imbuing.png",
+        "name": "Scroll of Imbuing",
         "quantity": "1"
       }
     ],

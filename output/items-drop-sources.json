@@ -9574,6 +9574,14 @@
         "source": "Emissary Acolyte"
       },
       {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 8,
+        "quantityLow": 8,
+        "rarity": "5/128",
+        "source": "Emissary Ascended"
+      },
+      {
         "dropLevel": "76",
         "dropType": "combat",
         "quantityHigh": 8,
@@ -14382,6 +14390,20 @@
     ],
     "group": "Ancient stole",
     "name": "Ancient stole"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chest (Fallen From Grace)"
+      }
+    ],
+    "group": "Ancient sunstone core",
+    "name": "Ancient sunstone core"
   },
   {
     "dropSources": [
@@ -31340,7 +31362,7 @@
       {
         "dropLevel": "50,62",
         "dropType": "agility",
-        "quantityHigh": 38,
+        "quantityHigh": 39,
         "quantityLow": 22,
         "rarity": "4/5",
         "source": "Termites (NPC)"
@@ -34243,6 +34265,48 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/224",
+        "source": "Lunar Chest"
+      }
+    ],
+    "group": "Blood Moon chestplate",
+    "name": "Blood Moon chestplate"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/224",
+        "source": "Lunar Chest"
+      }
+    ],
+    "group": "Blood Moon helm",
+    "name": "Blood Moon helm"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/224",
+        "source": "Lunar Chest"
+      }
+    ],
+    "group": "Blood Moon tassets",
+    "name": "Blood Moon tassets"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "161,174",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -34285,48 +34349,6 @@
     ],
     "group": "Blood essence",
     "name": "Blood essence"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/224",
-        "source": "Lunar Chest"
-      }
-    ],
-    "group": "Blood moon chestplate",
-    "name": "Blood moon chestplate"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/224",
-        "source": "Lunar Chest"
-      }
-    ],
-    "group": "Blood moon helm",
-    "name": "Blood moon helm"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/224",
-        "source": "Lunar Chest"
-      }
-    ],
-    "group": "Blood moon tassets",
-    "name": "Blood moon tassets"
   },
   {
     "dropSources": [
@@ -36617,6 +36639,62 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "1/224",
+        "source": "Lunar Chest"
+      }
+    ],
+    "group": "Blue Moon chestplate",
+    "name": "Blue Moon chestplate"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/224",
+        "source": "Lunar Chest"
+      }
+    ],
+    "group": "Blue Moon helm",
+    "name": "Blue Moon helm"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/224",
+        "source": "Lunar Chest"
+      }
+    ],
+    "group": "Blue Moon spear",
+    "name": "Blue Moon spear"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/224",
+        "source": "Lunar Chest"
+      }
+    ],
+    "group": "Blue Moon tassets",
+    "name": "Blue Moon tassets"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "1/1,404",
         "source": "Reward casket (easy)#Standard"
       }
@@ -37145,62 +37223,6 @@
     ],
     "group": "Blue liquid",
     "name": "Blue liquid"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/224",
-        "source": "Lunar Chest"
-      }
-    ],
-    "group": "Blue moon chestplate",
-    "name": "Blue moon chestplate"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/224",
-        "source": "Lunar Chest"
-      }
-    ],
-    "group": "Blue moon helm",
-    "name": "Blue moon helm"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/224",
-        "source": "Lunar Chest"
-      }
-    ],
-    "group": "Blue moon spear",
-    "name": "Blue moon spear"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/224",
-        "source": "Lunar Chest"
-      }
-    ],
-    "group": "Blue moon tassets",
-    "name": "Blue moon tassets"
   },
   {
     "dropSources": [
@@ -39192,14 +39214,6 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Chaos dwarf"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/8",
-        "source": "Chest (Gu'Tanoth)"
       },
       {
         "dropLevel": "1",
@@ -54200,20 +54214,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/8",
-        "source": "Chest (Gu'Tanoth)"
-      }
-    ],
-    "group": "Chaos dwarf",
-    "name": "Chaos dwarf"
-  },
-  {
-    "dropSources": [
-      {
         "dropLevel": "124",
         "dropType": "combat",
         "quantityHigh": 10,
@@ -54988,6 +54988,14 @@
         "quantityLow": 6,
         "rarity": "5/128",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 6,
+        "quantityLow": 6,
+        "rarity": "5/128",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
@@ -57727,6 +57735,14 @@
         "quantityLow": 1,
         "rarity": "1/7",
         "source": "Sandwich lady"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/50",
+        "source": "Twiggy O'Korn"
       }
     ],
     "group": "Chocolate bar",
@@ -65308,6 +65324,14 @@
         "source": "Emissary Acolyte"
       },
       {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "Emissary Ascended"
+      },
+      {
         "dropLevel": "76",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -72136,6 +72160,46 @@
         "quantityLow": 100,
         "rarity": "3/128",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "27/128",
+        "source": "Emissary Ascended"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 35,
+        "quantityLow": 35,
+        "rarity": "26/128",
+        "source": "Emissary Ascended"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "13/128",
+        "source": "Emissary Ascended"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 50,
+        "quantityLow": 50,
+        "rarity": "11/128",
+        "source": "Emissary Ascended"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 100,
+        "quantityLow": 100,
+        "rarity": "3/128",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
@@ -84933,7 +84997,7 @@
         "source": "Trinket of advanced weaponry"
       }
     ],
-    "group": "Corrupted scythe of vitur",
+    "group": "Corrupted Scythe of Vitur",
     "name": "Corrupted scythe of vitur (uncharged)",
     "version": "Uncharged"
   },
@@ -86495,6 +86559,20 @@
     ],
     "group": "Cracked sample",
     "name": "Cracked sample"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Schematic crate"
+      }
+    ],
+    "group": "Crane schematic",
+    "name": "Crane schematic"
   },
   {
     "dropSources": [
@@ -97515,7 +97593,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 12,
+        "quantityHigh": 14,
         "quantityLow": 10,
         "rarity": "Unknown",
         "source": "Huge port reward bag"
@@ -99555,7 +99633,7 @@
         "dropType": "reward",
         "quantityHigh": 6,
         "quantityLow": 6,
-        "rarity": "Always",
+        "rarity": "Once",
         "source": "Skeleton (Ancient Guthixian Temple)"
       }
     ],
@@ -104144,50 +104222,50 @@
         "source": "Lunar Chest"
       }
     ],
+    "group": "Eclipse Moon chestplate",
+    "name": "Eclipse Moon chestplate"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/224",
+        "source": "Lunar Chest"
+      }
+    ],
+    "group": "Eclipse Moon helm",
+    "name": "Eclipse Moon helm"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/224",
+        "source": "Lunar Chest"
+      }
+    ],
+    "group": "Eclipse Moon tassets",
+    "name": "Eclipse Moon tassets"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/224",
+        "source": "Lunar Chest"
+      }
+    ],
     "group": "Eclipse atlatl",
     "name": "Eclipse atlatl"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/224",
-        "source": "Lunar Chest"
-      }
-    ],
-    "group": "Eclipse moon chestplate",
-    "name": "Eclipse moon chestplate"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/224",
-        "source": "Lunar Chest"
-      }
-    ],
-    "group": "Eclipse moon helm",
-    "name": "Eclipse moon helm"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/224",
-        "source": "Lunar Chest"
-      }
-    ],
-    "group": "Eclipse moon tassets",
-    "name": "Eclipse moon tassets"
   },
   {
     "dropSources": [
@@ -105095,14 +105173,6 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Casket (Pirate's Treasure)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/8",
-        "source": "Chest (Gu'Tanoth)"
       },
       {
         "dropLevel": "",
@@ -119492,6 +119562,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chest (Fallen From Grace)"
+      }
+    ],
+    "group": "Golem primer",
+    "name": "Golem primer"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "34",
         "dropType": "farming",
         "quantityHigh": 1,
@@ -122039,6 +122123,14 @@
         "quantityLow": 1,
         "rarity": "1/182",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/182",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
@@ -124715,6 +124807,14 @@
         "quantityLow": 1,
         "rarity": "1/273.1",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/273.1",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
@@ -127451,6 +127551,14 @@
         "source": "Emissary Acolyte"
       },
       {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/364.1",
+        "source": "Emissary Ascended"
+      },
+      {
         "dropLevel": "76",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -130071,6 +130179,14 @@
         "source": "Emissary Acolyte"
       },
       {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/34.1",
+        "source": "Emissary Ascended"
+      },
+      {
         "dropLevel": "76",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -132579,6 +132695,14 @@
         "quantityLow": 1,
         "rarity": "1/78",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/78",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
@@ -135159,6 +135283,14 @@
         "quantityLow": 1,
         "rarity": "1/136.5",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/136.5",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
@@ -137757,6 +137889,14 @@
         "quantityLow": 1,
         "rarity": "1/218.5",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/218.5",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
@@ -140517,6 +140657,14 @@
         "source": "Emissary Acolyte"
       },
       {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/364.1",
+        "source": "Emissary Ascended"
+      },
+      {
         "dropLevel": "76",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -143129,6 +143277,14 @@
         "quantityLow": 1,
         "rarity": "1/45.5",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/45.5",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
@@ -145819,6 +145975,14 @@
         "quantityLow": 1,
         "rarity": "1/99.3",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/99.3",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
@@ -148953,6 +149117,14 @@
         "quantityLow": 1,
         "rarity": "1/60.7",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/60.7",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
@@ -158361,6 +158533,14 @@
         "quantityLow": 1,
         "rarity": "5/128",
         "source": "Skeleton Mage#Level 83"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 20,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "15",
@@ -172411,6 +172591,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Schematic crate"
+      }
+    ],
+    "group": "Lever schematic",
+    "name": "Lever schematic"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "593,798,1157",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -174043,6 +174237,20 @@
     ],
     "group": "Linum tirinum (corrupted)",
     "name": "Linum tirinum (corrupted)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Scrolls (Defender of Varrock)"
+      }
+    ],
+    "group": "List of elders",
+    "name": "List of elders"
   },
   {
     "dropSources": [
@@ -182915,6 +183123,14 @@
         "source": "Emissary Acolyte"
       },
       {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "1/128",
+        "source": "Emissary Ascended"
+      },
+      {
         "dropLevel": "76",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -187932,7 +188148,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 22,
+        "quantityHigh": 26,
         "quantityLow": 22,
         "rarity": "Unknown",
         "source": "Small port reward bag"
@@ -188294,6 +188510,14 @@
         "quantityLow": 1,
         "rarity": "1/128",
         "source": "Small Lizard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 13,
+        "quantityLow": 13,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "",
@@ -198183,8 +198407,8 @@
         "source": "Turoth"
       }
     ],
-    "group": "Necklace of fangs",
-    "name": "Necklace of fangs"
+    "group": "Necklace of Fangs",
+    "name": "Necklace of Fangs"
   },
   {
     "dropSources": [
@@ -198654,7 +198878,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/600",
+        "rarity": "1/200",
         "source": "Araxxor"
       }
     ],
@@ -198668,7 +198892,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/600",
+        "rarity": "1/200",
         "source": "Araxxor"
       }
     ],
@@ -198682,7 +198906,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/600",
+        "rarity": "1/200",
         "source": "Araxxor"
       }
     ],
@@ -203987,28 +204211,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "305",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/300",
-        "source": "Chaos Elemental"
-      },
-      {
-        "dropLevel": "202",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/1,000",
-        "source": "Chaos Fanatic"
-      }
-    ],
-    "group": "Pet Chaos Elemental",
-    "name": "Pet Chaos Elemental"
-  },
-  {
-    "dropSources": [
-      {
         "dropLevel": "303",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -204159,6 +204361,28 @@
     ],
     "group": "Pet Zilyana",
     "name": "Pet Zilyana"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "305",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/300",
+        "source": "Chaos Elemental"
+      },
+      {
+        "dropLevel": "202",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,000",
+        "source": "Chaos Fanatic"
+      }
+    ],
+    "group": "Pet chaos elemental",
+    "name": "Pet chaos elemental"
   },
   {
     "dropSources": [
@@ -208594,6 +208818,20 @@
     "dropSources": [
       {
         "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Bookcase"
+      }
+    ],
+    "group": "Prayer book",
+    "name": "Prayer book"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -212236,20 +212474,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/8",
-        "source": "Chest (Gu'Tanoth)"
-      }
-    ],
-    "group": "Rat",
-    "name": "Rat"
-  },
-  {
-    "dropSources": [
-      {
         "dropLevel": "70",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -213370,7 +213594,7 @@
       {
         "dropLevel": "87",
         "dropType": "fishing",
-        "quantityHigh": 1,
+        "quantityHigh": 5,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Bluefin shoal"
@@ -213870,7 +214094,7 @@
       {
         "dropLevel": "69",
         "dropType": "fishing",
-        "quantityHigh": 1,
+        "quantityHigh": 5,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Giant krill shoal"
@@ -213956,7 +214180,7 @@
       {
         "dropLevel": "73",
         "dropType": "fishing",
-        "quantityHigh": 1,
+        "quantityHigh": 5,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Haddock shoal"
@@ -213986,7 +214210,7 @@
       {
         "dropLevel": "83",
         "dropType": "fishing",
-        "quantityHigh": 1,
+        "quantityHigh": 5,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Halibut shoal"
@@ -214976,7 +215200,7 @@
       {
         "dropLevel": "91",
         "dropType": "fishing",
-        "quantityHigh": 1,
+        "quantityHigh": 5,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Marlin shoal"
@@ -217454,7 +217678,7 @@
       {
         "dropLevel": "79",
         "dropType": "fishing",
-        "quantityHigh": 1,
+        "quantityHigh": 5,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Yellowfin shoal"
@@ -220283,8 +220507,8 @@
         "source": "Reward casket (hard)"
       }
     ],
-    "group": "Robin hood hat",
-    "name": "Robin hood hat"
+    "group": "Robin Hood hat",
+    "name": "Robin Hood hat"
   },
   {
     "dropSources": [
@@ -221669,14 +221893,6 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/8",
-        "source": "Chest (Gu'Tanoth)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
         "rarity": "Always",
         "source": "Rotten Apple Pile"
       },
@@ -222477,6 +222693,14 @@
         "quantityLow": 1,
         "rarity": "100/1,036",
         "source": "Plundered salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
     "group": "Rum",
@@ -234894,20 +235118,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/8",
-        "source": "Chest (Gu'Tanoth)"
-      }
-    ],
-    "group": "Scorpion",
-    "name": "Scorpion"
-  },
-  {
-    "dropSources": [
-      {
         "dropLevel": "1",
         "dropType": "woodcutting",
         "quantityHigh": 1,
@@ -234932,6 +235142,20 @@
     ],
     "group": "Scrawled note",
     "name": "Scrawled note"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Rocks (Scrawled notebook)"
+      }
+    ],
+    "group": "Scrawled notebook",
+    "name": "Scrawled notebook"
   },
   {
     "dropSources": [
@@ -238019,7 +238243,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Always",
+        "rarity": "Once",
         "source": "Skeleton (Ancient Guthixian Temple)"
       }
     ],
@@ -244808,20 +245032,6 @@
     ],
     "group": "Spice",
     "name": "Spice"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/8",
-        "source": "Chest (Gu'Tanoth)"
-      }
-    ],
-    "group": "Spider",
-    "name": "Spider"
   },
   {
     "dropSources": [
@@ -252677,6 +252887,14 @@
         "source": "Emissary Acolyte"
       },
       {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "Emissary Ascended"
+      },
+      {
         "dropLevel": "76",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -253557,6 +253775,14 @@
         "source": "Emissary Acolyte"
       },
       {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "Emissary Ascended"
+      },
+      {
         "dropLevel": "76",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -254317,6 +254543,14 @@
         "quantityLow": 1,
         "rarity": "9/128",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "9/128",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
@@ -262905,7 +263139,7 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 15,
-        "quantityLow": 15,
+        "quantityLow": 10,
         "rarity": "Unknown",
         "source": "Small port reward bag"
       },
@@ -263533,7 +263767,7 @@
         "dropLevel": "62",
         "dropType": "agility",
         "quantityHigh": 21,
-        "quantityLow": 12,
+        "quantityLow": 11,
         "rarity": "Always",
         "source": "Termites (NPC)#Advanced"
       },
@@ -283300,6 +283534,14 @@
         "quantityLow": 8,
         "rarity": "5/128",
         "source": "Emissary Acolyte"
+      },
+      {
+        "dropLevel": "117",
+        "dropType": "combat",
+        "quantityHigh": 8,
+        "quantityLow": 8,
+        "rarity": "5/128",
+        "source": "Emissary Ascended"
       },
       {
         "dropLevel": "76",
