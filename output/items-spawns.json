@@ -2086,6 +2086,14 @@
         "plane": "0"
       },
       {
+        "coords": "3228,9932",
+        "isMembers": true,
+        "location": "Bryophyta's lair",
+        "mapID": "10027",
+        "name": "Bronze axe",
+        "plane": "0"
+      },
+      {
         "coords": "3097,3239",
         "isMembers": false,
         "location": "Draynor Village - near Friendly Forester",
@@ -2676,6 +2684,22 @@
         "plane": "1"
       },
       {
+        "coords": "2146,5107",
+        "isMembers": true,
+        "location": "Braindeath Island",
+        "mapID": "-1",
+        "name": "Bucket",
+        "plane": "1"
+      },
+      {
+        "coords": "2160,5091",
+        "isMembers": true,
+        "location": "Braindeath Island - near the cupboard",
+        "mapID": "-1",
+        "name": "Bucket",
+        "plane": "0"
+      },
+      {
         "coords": "3478,3234",
         "isMembers": true,
         "location": "Burgh de Rott - by the exit",
@@ -2832,6 +2856,14 @@
         "isMembers": true,
         "location": "Kastori",
         "mapID": "0",
+        "name": "Bucket",
+        "plane": "0"
+      },
+      {
+        "coords": "1383,9455",
+        "isMembers": true,
+        "location": "Kastori - Citlalli's basement",
+        "mapID": "-1",
         "name": "Bucket",
         "plane": "0"
       },
@@ -4759,7 +4791,7 @@
     "group": "Dwarven stout",
     "spawns": [
       {
-        "coords": "1938,2758",
+        "coords": "1940,2757",
         "isMembers": true,
         "location": "Deepfin Point",
         "mapID": "-1",
@@ -6966,14 +6998,6 @@
         "plane": "0"
       },
       {
-        "coords": "1377,9451",
-        "isMembers": true,
-        "location": "Citlalli's basement",
-        "mapID": "-1",
-        "name": "Knife",
-        "plane": "0"
-      },
-      {
         "coords": "1646,3095",
         "isMembers": true,
         "location": "Civitas illa Fortis",
@@ -7026,6 +7050,14 @@
         "isMembers": true,
         "location": "Isle of Souls - near spinning wheel",
         "mapID": "0",
+        "name": "Knife",
+        "plane": "0"
+      },
+      {
+        "coords": "1377,9451",
+        "isMembers": true,
+        "location": "Kastori - Citlalli's basement",
+        "mapID": "-1",
         "name": "Knife",
         "plane": "0"
       },

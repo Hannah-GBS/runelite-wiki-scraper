@@ -26613,7 +26613,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Cape of legends",
+        "name": "Cape of Legends",
         "stock": "3",
         "version": null
       },
@@ -27526,6 +27526,14 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Arkan blade",
+        "sellPrice": "350000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "Ava's accumulator",
         "sellPrice": "7000",
         "stock": "inf",
@@ -27622,7 +27630,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
-        "name": "Cape of legends",
+        "name": "Cape of Legends",
         "sellPrice": "1900",
         "stock": "inf",
         "version": null
@@ -34255,7 +34263,7 @@
       {
         "buyPrice": "N/A",
         "currency": "Points",
-        "name": "Scroll of imbuing",
+        "name": "Scroll of Imbuing",
         "sellPrice": "200",
         "stock": "inf",
         "version": null
