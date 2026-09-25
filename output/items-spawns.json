@@ -4642,6 +4642,19 @@
     ]
   },
   {
+    "group": "Dead sea slug",
+    "spawns": [
+      {
+        "coords": "2352,5095",
+        "isMembers": true,
+        "location": "Witchhaven dungeon - during The Slug Menace",
+        "mapID": "-1",
+        "name": "Dead sea slug",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Death rune",
     "spawns": [
       {
@@ -5384,7 +5397,7 @@
       {
         "coords": "2068,8986",
         "isMembers": false,
-        "location": "Corsair Cove Dungeon{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Corsair Cove Dungeon{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.|group=s}}",
         "mapID": "31",
         "name": "Gold necklace",
         "plane": "0"
@@ -5392,7 +5405,7 @@
       {
         "coords": "3192,9821",
         "isMembers": false,
-        "location": "Varrock - west bank basement{{Refn|This spawn requires telekinetic grab to obtain.|group=s}}",
+        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.|group=s}}",
         "mapID": "12",
         "name": "Gold necklace",
         "plane": "0"

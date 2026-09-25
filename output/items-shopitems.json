@@ -822,6 +822,126 @@
     "plane": "0"
   },
   {
+    "buyMultiplier": "400",
+    "coords": "1413,2972",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bowl",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bucket",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Cake tin",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Chisel",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty bucket pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty jug pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Empty vial pack",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Hammer",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Jug",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Knife",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Needle",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pestle and mortar",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Pot",
+        "stock": "15",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rope",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Spade",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Thread",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Tinderbox",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Vial",
+        "stock": "15",
+        "version": null
+      }
+    ],
+    "location": "Aldarin",
+    "mapID": "0",
+    "name": "Aldarin General Store",
+    "plane": "0",
+    "sellMultiplier": "1300"
+  },
+  {
     "buyMultiplier": "700",
     "coords": "2567,3082",
     "isMembers": true,
@@ -955,6 +1075,32 @@
     "location": "Pollnivneach",
     "mapID": "0",
     "name": "Ali the Kebab seller",
+    "plane": "0"
+  },
+  {
+    "coords": "3355,2953",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Snake basket",
+        "sellPrice": "1",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Snake charm",
+        "sellPrice": "1",
+        "stock": "inf",
+        "version": null
+      }
+    ],
+    "location": "Pollnivneach",
+    "mapID": "0",
+    "name": "Ali the Snake Charmer",
     "plane": "0"
   },
   {
