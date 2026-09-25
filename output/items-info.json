@@ -123816,28 +123816,6 @@
     "version": "Normal"
   },
   {
-    "examineText": "A magic rock! This one casts the Vengeance spell and has 2 charges remaining.",
-    "group": "Trinket of vengeance",
-    "isDefaultVersion": false,
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28561,
-    "name": "Trinket of vengeance",
-    "url": "https://oldschool.runescape.wiki/w/Trinket_of_vengeance%23%282%29",
-    "version": "(2)"
-  },
-  {
-    "examineText": "A magic rock! This one casts the Vengeance spell and has one charge remaining.",
-    "group": "Trinket of vengeance",
-    "isDefaultVersion": false,
-    "isMembers": true,
-    "isTradeable": true,
-    "itemID": 28561,
-    "name": "Trinket of vengeance",
-    "url": "https://oldschool.runescape.wiki/w/Trinket_of_vengeance%23%281%29",
-    "version": "(1)"
-  },
-  {
     "examineText": "A magic rock! This one smells funny and lets you teleport.",
     "group": "Trinket of fairies",
     "isDefaultVersion": true,
@@ -129636,112 +129614,112 @@
   },
   {
     "examineText": "The chestplate of the Eclipse Moon.",
-    "group": "Eclipse moon chestplate (Last Man Standing)",
+    "group": "Eclipse Moon chestplate (Last Man Standing)",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29840,
-    "name": "Eclipse moon chestplate",
-    "url": "https://oldschool.runescape.wiki/w/Eclipse_moon_chestplate_%28Last_Man_Standing%29",
+    "name": "Eclipse Moon chestplate",
+    "url": "https://oldschool.runescape.wiki/w/Eclipse_Moon_chestplate_%28Last_Man_Standing%29",
     "version": null
   },
   {
     "examineText": "The tassets of the Eclipse Moon.",
-    "group": "Eclipse moon tassets (Last Man Standing)",
+    "group": "Eclipse Moon tassets (Last Man Standing)",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29841,
-    "name": "Eclipse moon tassets",
-    "url": "https://oldschool.runescape.wiki/w/Eclipse_moon_tassets_%28Last_Man_Standing%29",
+    "name": "Eclipse Moon tassets",
+    "url": "https://oldschool.runescape.wiki/w/Eclipse_Moon_tassets_%28Last_Man_Standing%29",
     "version": null
   },
   {
     "examineText": "The helm of the Eclipse Moon.",
-    "group": "Eclipse moon helm (Last Man Standing)",
+    "group": "Eclipse Moon helm (Last Man Standing)",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29842,
-    "name": "Eclipse moon helm",
-    "url": "https://oldschool.runescape.wiki/w/Eclipse_moon_helm_%28Last_Man_Standing%29",
+    "name": "Eclipse Moon helm",
+    "url": "https://oldschool.runescape.wiki/w/Eclipse_Moon_helm_%28Last_Man_Standing%29",
     "version": null
   },
   {
     "examineText": "The chestplate of the Blue Moon.",
-    "group": "Blue moon chestplate (Last Man Standing)",
+    "group": "Blue Moon chestplate (Last Man Standing)",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29843,
-    "name": "Blue moon chestplate",
-    "url": "https://oldschool.runescape.wiki/w/Blue_moon_chestplate_%28Last_Man_Standing%29",
+    "name": "Blue Moon chestplate",
+    "url": "https://oldschool.runescape.wiki/w/Blue_Moon_chestplate_%28Last_Man_Standing%29",
     "version": null
   },
   {
     "examineText": "The tassets of the Blue Moon.",
-    "group": "Blue moon tassets (Last Man Standing)",
+    "group": "Blue Moon tassets (Last Man Standing)",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29844,
-    "name": "Blue moon tassets",
-    "url": "https://oldschool.runescape.wiki/w/Blue_moon_tassets_%28Last_Man_Standing%29",
+    "name": "Blue Moon tassets",
+    "url": "https://oldschool.runescape.wiki/w/Blue_Moon_tassets_%28Last_Man_Standing%29",
     "version": null
   },
   {
     "examineText": "The helm of the Blue Moon.",
-    "group": "Blue moon helm (Last Man Standing)",
+    "group": "Blue Moon helm (Last Man Standing)",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29845,
-    "name": "Blue moon helm",
-    "url": "https://oldschool.runescape.wiki/w/Blue_moon_helm_%28Last_Man_Standing%29",
+    "name": "Blue Moon helm",
+    "url": "https://oldschool.runescape.wiki/w/Blue_Moon_helm_%28Last_Man_Standing%29",
     "version": null
   },
   {
     "examineText": "The chestplate of the Blood Moon.",
-    "group": "Blood moon chestplate (Last Man Standing)",
+    "group": "Blood Moon chestplate (Last Man Standing)",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29846,
-    "name": "Blood moon chestplate",
-    "url": "https://oldschool.runescape.wiki/w/Blood_moon_chestplate_%28Last_Man_Standing%29",
+    "name": "Blood Moon chestplate",
+    "url": "https://oldschool.runescape.wiki/w/Blood_Moon_chestplate_%28Last_Man_Standing%29",
     "version": null
   },
   {
     "examineText": "The tassets of the Blood Moon.",
-    "group": "Blood moon tassets (Last Man Standing)",
+    "group": "Blood Moon tassets (Last Man Standing)",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29847,
-    "name": "Blood moon tassets",
-    "url": "https://oldschool.runescape.wiki/w/Blood_moon_tassets_%28Last_Man_Standing%29",
+    "name": "Blood Moon tassets",
+    "url": "https://oldschool.runescape.wiki/w/Blood_Moon_tassets_%28Last_Man_Standing%29",
     "version": null
   },
   {
     "examineText": "The helm of the Blood Moon.",
-    "group": "Blood moon helm (Last Man Standing)",
+    "group": "Blood Moon helm (Last Man Standing)",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29848,
-    "name": "Blood moon helm",
-    "url": "https://oldschool.runescape.wiki/w/Blood_moon_helm_%28Last_Man_Standing%29",
+    "name": "Blood Moon helm",
+    "url": "https://oldschool.runescape.wiki/w/Blood_Moon_helm_%28Last_Man_Standing%29",
     "version": null
   },
   {
     "examineText": "A magical staff of ancient origin...",
-    "group": "Blue moon spear (Last Man Standing)",
+    "group": "Blue Moon spear (Last Man Standing)",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 29849,
-    "name": "Blue moon spear",
-    "url": "https://oldschool.runescape.wiki/w/Blue_moon_spear_%28Last_Man_Standing%29",
+    "name": "Blue Moon spear",
+    "url": "https://oldschool.runescape.wiki/w/Blue_Moon_spear_%28Last_Man_Standing%29",
     "version": null
   },
   {
@@ -147895,6 +147873,28 @@
     "version": null
   },
   {
+    "examineText": "A magic rock! This one casts the Vengeance spell and has 2 charges remaining.",
+    "group": "Trinket of vengeance",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 33428,
+    "name": "Trinket of vengeance",
+    "url": "https://oldschool.runescape.wiki/w/Trinket_of_vengeance%23%282%29",
+    "version": "(2)"
+  },
+  {
+    "examineText": "A magic rock! This one casts the Vengeance spell and has one charge remaining.",
+    "group": "Trinket of vengeance",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 33431,
+    "name": "Trinket of vengeance",
+    "url": "https://oldschool.runescape.wiki/w/Trinket_of_vengeance%23%281%29",
+    "version": "(1)"
+  },
+  {
     "examineText": "It needs to be charged with death runes, chaos runes, fire runes and coins.",
     "group": "Trident of the Seas (o)",
     "isDefaultVersion": false,
@@ -153847,17 +153847,6 @@
   },
   {
     "examineText": "Pocket sized.",
-    "group": "Yorkie puppy",
-    "isDefaultVersion": true,
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 34557,
-    "name": "Yorkie puppy",
-    "url": "https://oldschool.runescape.wiki/w/Yorkie_puppy%23Brown",
-    "version": "Brown"
-  },
-  {
-    "examineText": "Pocket sized.",
     "group": "Shiba puppy",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -153865,17 +153854,6 @@
     "itemID": 34559,
     "name": "Shiba puppy",
     "url": "https://oldschool.runescape.wiki/w/Shiba_puppy%23White",
-    "version": "White"
-  },
-  {
-    "examineText": "Pocket sized.",
-    "group": "Yorkie puppy",
-    "isDefaultVersion": false,
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 34559,
-    "name": "Yorkie puppy",
-    "url": "https://oldschool.runescape.wiki/w/Yorkie_puppy%23White",
     "version": "White"
   },
   {
@@ -153888,17 +153866,6 @@
     "name": "Shiba puppy",
     "url": "https://oldschool.runescape.wiki/w/Shiba_puppy%23Toasted",
     "version": "Toasted"
-  },
-  {
-    "examineText": "Pocket sized.",
-    "group": "Yorkie puppy",
-    "isDefaultVersion": false,
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 34561,
-    "name": "Yorkie puppy",
-    "url": "https://oldschool.runescape.wiki/w/Yorkie_puppy%23Golden",
-    "version": "Golden"
   },
   {
     "examineText": "The folds on its face are adorable.",
@@ -153932,6 +153899,39 @@
     "name": "Spaniel puppy",
     "url": "https://oldschool.runescape.wiki/w/Spaniel_puppy%23Black",
     "version": "Black"
+  },
+  {
+    "examineText": "Pocket sized.",
+    "group": "Yorkie puppy",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34569,
+    "name": "Yorkie puppy",
+    "url": "https://oldschool.runescape.wiki/w/Yorkie_puppy%23Brown",
+    "version": "Brown"
+  },
+  {
+    "examineText": "Pocket sized.",
+    "group": "Yorkie puppy",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34571,
+    "name": "Yorkie puppy",
+    "url": "https://oldschool.runescape.wiki/w/Yorkie_puppy%23White",
+    "version": "White"
+  },
+  {
+    "examineText": "Pocket sized.",
+    "group": "Yorkie puppy",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34573,
+    "name": "Yorkie puppy",
+    "url": "https://oldschool.runescape.wiki/w/Yorkie_puppy%23Golden",
+    "version": "Golden"
   },
   {
     "examineText": "I can hear the sea with this.",

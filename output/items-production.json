@@ -286,6 +286,40 @@
     "ticks": ""
   },
   {
+    "materials": [
+      {
+        "image": "A pattern.png",
+        "name": "A pattern",
+        "quantity": "1"
+      },
+      {
+        "image": "Hard leather.png",
+        "name": "Hard leather",
+        "quantity": "1"
+      },
+      {
+        "image": "Polished buttons.png",
+        "name": "Polished buttons",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "A container.png",
+      "name": "A container",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "50",
+        "level": "19",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "facilities": "Lava trough",
     "materials": [
       {
@@ -14111,7 +14145,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">110,538,882</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">107,171,520</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19988,7 +20022,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">106,553,042</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">105,726,464</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -23999,7 +24033,7 @@
       {
         "boostable": "",
         "experience": "2",
-        "level": "?",
+        "level": "1",
         "name": "Crafting"
       }
     ],
@@ -25555,7 +25589,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "3"
   },
   {
     "facilities": "Zaff",
@@ -25622,6 +25656,24 @@
     },
     "skills": [],
     "ticks": "3"
+  },
+  {
+    "facilities": "Water (Icthlarin's Little Helper)",
+    "materials": [
+      {
+        "image": "Bucket.png",
+        "name": "Bucket",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bucket of saltwater.png",
+      "name": "Bucket of saltwater",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Sand pit",
@@ -29148,6 +29200,49 @@
     "tools": "Gardening trowel"
   },
   {
+    "facilities": "Pedestal (Enakhra's Lament)",
+    "materials": [
+      {
+        "image": "Soft clay.png",
+        "name": "Soft clay",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Camel mask.png",
+      "name": "Camel mask",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Pedestal (Enakhra's Lament)",
+    "materials": [
+      {
+        "image": "Soft clay.png",
+        "name": "Soft clay",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Camel mould (p).png",
+      "name": "Camel mould (p)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "50",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
     "facilities": "Teak eagle lectern",
     "materials": [
       {
@@ -29825,6 +29920,54 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Canopic jar (oil and berries).png",
+        "name": "Canopic jar (The Curse of Arrav)",
+        "quantity": "1",
+        "version": "Oil and berries"
+      },
+      {
+        "image": "Ring of life.png",
+        "name": "Ring of life",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Canopic jar (full).png",
+      "name": "Canopic jar (The Curse of Arrav)",
+      "quantity": "1",
+      "version": "Full"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Canopic jar (oil).png",
+        "name": "Canopic jar (The Curse of Arrav)",
+        "quantity": "1",
+        "version": "Oil"
+      },
+      {
+        "image": "Dwellberries.png",
+        "name": "Dwellberries",
+        "quantity": "3"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Canopic jar (oil and berries).png",
+      "name": "Canopic jar (The Curse of Arrav)",
+      "quantity": "1",
+      "version": "Oil and berries"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -42834,6 +42977,28 @@
     "ticks": "0"
   },
   {
+    "materials": [
+      {
+        "image": "Kharidian headpiece.png",
+        "name": "Kharidian headpiece",
+        "quantity": "1"
+      },
+      {
+        "image": "Fake beard.png",
+        "name": "Fake beard",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Desert disguise.png",
+      "name": "Desert disguise",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Pot-boiler",
     "materials": [
       {
@@ -48860,7 +49025,7 @@
       {
         "image": "Cave nightshade.png",
         "name": "Cave nightshade",
-        "quantity": "3"
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -48889,7 +49054,7 @@
       {
         "image": "Nightshade.png",
         "name": "Nightshade",
-        "quantity": "3"
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -51311,7 +51476,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "1",
     "tools": "M'amulet mould"
   },
   {
@@ -56369,7 +56534,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": ""
+    "ticks": "0"
   },
   {
     "materials": [
@@ -58008,6 +58173,24 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "image": "Papyrus.png",
+        "name": "Papyrus",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Golem program.png",
+      "name": "Golem program",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Phoenix quill pen"
   },
   {
     "materials": [
@@ -65625,6 +65808,36 @@
     ],
     "ticks": "404",
     "tools": "Hammer"
+  },
+  {
+    "facilities": "Chaos Altar",
+    "materials": [
+      {
+        "image": "Wand (What Lies Below).png",
+        "name": "Wand (What Lies Below)",
+        "quantity": "1"
+      },
+      {
+        "image": "Chaos rune.png",
+        "name": "Chaos rune",
+        "quantity": "15"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Infused wand.png",
+      "name": "Infused wand",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "35",
+        "name": "Runecraft"
+      }
+    ],
+    "ticks": ""
   },
   {
     "materials": [
@@ -74325,7 +74538,54 @@
         "name": "Crafting"
       }
     ],
-    "ticks": ""
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "M'speak amulet (unstrung).png",
+        "name": "M'speak amulet (unstrung)",
+        "quantity": "1"
+      },
+      {
+        "image": "Water rune.png",
+        "name": "Water rune",
+        "quantity": "5"
+      },
+      {
+        "image": "Earth rune.png",
+        "name": "Earth rune",
+        "quantity": "10"
+      },
+      {
+        "image": "Astral rune.png",
+        "name": "Astral rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "M'speak amulet.png",
+      "name": "M'speak amulet",
+      "quantity": "1",
+      "subtxt": "String Jewellery"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "83",
+        "level": "80",
+        "name": "Magic"
+      },
+      {
+        "boostable": "",
+        "experience": "4",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "3",
+    "tools": "String Jewellery"
   },
   {
     "facilities": "Wall of flame",
@@ -90119,6 +90379,28 @@
     "ticks": "1"
   },
   {
+    "materials": [
+      {
+        "image": "Black dye.png",
+        "name": "Black dye",
+        "quantity": "1"
+      },
+      {
+        "image": "Phoenix feather.png",
+        "name": "Phoenix feather",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Phoenix quill pen.png",
+      "name": "Phoenix quill pen",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Pottery Oven",
     "materials": [
       {
@@ -90213,7 +90495,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "4",
     "tools": ""
   },
   {
@@ -93426,7 +93708,7 @@
       {
         "image": "Grimy ranarr weed.png",
         "name": "Grimy ranarr weed",
-        "quantity": "1"
+        "quantity": "27"
       },
       {
         "image": "Earth rune.png",
@@ -93443,7 +93725,7 @@
     "output": {
       "image": "Ranarr weed.png",
       "name": "Ranarr weed",
-      "quantity": "1",
+      "quantity": "27",
       "subtxt": "Degrime"
     },
     "skills": [
@@ -93763,6 +94045,33 @@
     },
     "skills": [],
     "ticks": "20"
+  },
+  {
+    "materials": [
+      {
+        "image": "Vial.png",
+        "name": "Vial",
+        "quantity": "1"
+      },
+      {
+        "image": "Red spiders' eggs.png",
+        "name": "Red spiders' eggs",
+        "quantity": "1"
+      },
+      {
+        "image": "Kwuarm.png",
+        "name": "Kwuarm",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Rat poison.png",
+      "name": "Rat poison",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "facilities": "Bone grinder",
@@ -109739,6 +110048,31 @@
     "tools": "Tinderbox"
   },
   {
+    "facilities": "Snake (desert)",
+    "materials": [
+      {
+        "image": "Snake basket.png",
+        "name": "Snake basket",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Snake basket full.png",
+      "name": "Snake basket full",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Agility"
+      }
+    ],
+    "ticks": ""
+  },
+  {
     "facilities": "Cooking range",
     "materials": [
       {
@@ -116981,6 +117315,140 @@
   {
     "materials": [
       {
+        "image": "Granite (5kg).png",
+        "name": "Granite",
+        "quantity": "1",
+        "version": "5kg"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Stone head (Camel).png",
+      "name": "Stone head",
+      "quantity": "1",
+      "version": "Camel"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "50",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "image": "Granite (5kg).png",
+        "name": "Granite",
+        "quantity": "1",
+        "version": "5kg"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Stone head (Icthlarin).png",
+      "name": "Stone head",
+      "quantity": "1",
+      "version": "Icthlarin"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "50",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "image": "Granite (5kg).png",
+        "name": "Granite",
+        "quantity": "1",
+        "version": "5kg"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Stone head (Lazim).png",
+      "name": "Stone head",
+      "quantity": "1",
+      "version": "Lazim"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "50",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "image": "Granite (5kg).png",
+        "name": "Granite",
+        "quantity": "1",
+        "version": "5kg"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Stone head (Zamorak).png",
+      "name": "Stone head",
+      "quantity": "1",
+      "version": "Zamorak"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "50",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "image": "Granite (5kg).png",
+        "name": "Granite",
+        "quantity": "1",
+        "version": "5kg"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Stone head (Cavity).png",
+      "name": "Stone head (Cavity)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "50",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Chisel, Camel mould (p)"
+  },
+  {
+    "materials": [
+      {
         "image": "Basalt.png",
         "name": "Basalt",
         "quantity": "1"
@@ -123281,6 +123749,25 @@
     "skills": [],
     "ticks": "2",
     "tools": "Knife"
+  },
+  {
+    "facilities": "Dung (scenery)",
+    "materials": [
+      {
+        "image": "Bucket.png",
+        "name": "Bucket",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ugthanki dung.png",
+      "name": "Ugthanki dung",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "",
+    "tools": "Spade"
   },
   {
     "materials": [

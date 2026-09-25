@@ -950,6 +950,20 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Drawers (Brimstail's cave)"
+      }
+    ],
+    "group": "A handwritten book",
+    "name": "A handwritten book"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "1/1,404",
         "source": "Reward casket (easy)#Standard"
       }
@@ -25059,6 +25073,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Crate (Tower of Life)#Binding fluids"
+      }
+    ],
+    "group": "Binding fluid",
+    "name": "Binding fluid"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "350",
         "dropType": "combat",
         "quantityHigh": 25,
@@ -42756,6 +42784,20 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Drawers (Zogre Flesh Eaters)"
+      }
+    ],
+    "group": "Book of portraiture",
+    "name": "Book of portraiture"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "1/2",
         "source": "Old Bookshelf (Wise Old Man)"
       }
@@ -53286,6 +53328,21 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Shelves (Uzer Mastaba)"
+      }
+    ],
+    "group": "Canopic jar (The Curse of Arrav)",
+    "name": "Canopic jar (oil)",
+    "version": "Oil"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "1/5,616",
         "source": "Reward casket (easy)#Standard"
       }
@@ -56832,6 +56889,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Dead tree (burnt)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Drawers (Zogre Flesh Eaters)"
       },
       {
         "dropLevel": "1",
@@ -67578,6 +67643,20 @@
     ],
     "group": "Cod",
     "name": "Cod"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chest (The Curse of Arrav)"
+      }
+    ],
+    "group": "Code key",
+    "name": "Code key"
   },
   {
     "dropSources": [
@@ -83738,6 +83817,20 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Crate (Tower of Life)#Coloured balls"
+      }
+    ],
+    "group": "Coloured ball",
+    "name": "Coloured ball"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
         "rarity": "7/62",
@@ -84867,6 +84960,21 @@
         "source": "Trinket of advanced weaponry"
       }
     ],
+    "group": "Corrupted Scythe of Vitur",
+    "name": "Corrupted Scythe of Vitur (uncharged)",
+    "version": "Uncharged"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/8",
+        "source": "Trinket of advanced weaponry"
+      }
+    ],
     "group": "Corrupted Volatile Nightmare staff",
     "name": "Corrupted Volatile Nightmare staff"
   },
@@ -84985,21 +85093,6 @@
     ],
     "group": "Corrupted ore",
     "name": "Corrupted ore"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/8",
-        "source": "Trinket of advanced weaponry"
-      }
-    ],
-    "group": "Corrupted Scythe of Vitur",
-    "name": "Corrupted scythe of vitur (uncharged)",
-    "version": "Uncharged"
   },
   {
     "dropSources": [
@@ -93129,6 +93222,20 @@
     ],
     "group": "Death talisman",
     "name": "Death talisman"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (The Curse of Arrav)"
+      }
+    ],
+    "group": "Decoder strips",
+    "name": "Decoder strips"
   },
   {
     "dropSources": [
@@ -106294,6 +106401,14 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Unknown",
+        "source": "Goblin#Drop table 1"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
         "source": "Hengel"
       },
       {
@@ -113490,6 +113605,14 @@
         "source": "Beekeeper (random event)"
       },
       {
+        "dropLevel": "18",
+        "dropType": "farming",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Flax (Farming)"
+      },
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -119366,7 +119489,7 @@
         "source": "Sarcophagus (Pyramid Plunder)#Room 8"
       },
       {
-        "dropLevel": "",
+        "dropLevel": "21,31,41,51,61,71,81,91",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -119504,7 +119627,7 @@
         "source": "Grand Gold Chest#Room 8"
       },
       {
-        "dropLevel": "",
+        "dropLevel": "21,31,41,51,61,71,81,91",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -119534,7 +119657,7 @@
         "source": "Grand Gold Chest#Room 8"
       },
       {
-        "dropLevel": "",
+        "dropLevel": "21,31,41,51,61,71,81,91",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -119704,6 +119827,20 @@
     ],
     "group": "Goutweed",
     "name": "Goutweed"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cooking pot (My Arm's Big Adventure)"
+      }
+    ],
+    "group": "Goutweedy lump",
+    "name": "Goutweedy lump"
   },
   {
     "dropSources": [
@@ -162521,7 +162658,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "",
+        "dropLevel": "21,31,41,51,61,71,81,91",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -179616,6 +179753,21 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (The Curse of Arrav)"
+      }
+    ],
+    "group": "Mahjarrat notes",
+    "name": "Mahjarrat notes (k-z)",
+    "version": "K-Z"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "210",
         "dropType": "combat",
         "quantityHigh": 30,
@@ -180063,7 +180215,7 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 12,
-        "quantityLow": 12,
+        "quantityLow": 9,
         "rarity": "Unknown",
         "source": "Small port reward bag"
       },
@@ -182629,6 +182781,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Crate (Tower of Life)#Metal bars"
+      }
+    ],
+    "group": "Metal bar",
+    "name": "Metal bar"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "47",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -182639,6 +182805,20 @@
     ],
     "group": "Metal key",
     "name": "Metal key"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Crate (Tower of Life)#Metal sheets"
+      }
+    ],
+    "group": "Metal sheet",
+    "name": "Metal sheet"
   },
   {
     "dropSources": [
@@ -186245,7 +186425,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 40,
+        "quantityHigh": 41,
         "quantityLow": 40,
         "rarity": "Unknown",
         "source": "Small port reward bag"
@@ -194427,6 +194607,20 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Music stand"
+      }
+    ],
+    "group": "Music sheet",
+    "name": "Music sheet"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "1/1,275",
         "source": "Reward casket (elite)"
       }
@@ -194475,6 +194669,20 @@
     ],
     "group": "Musty smelling note",
     "name": "Musty smelling note"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Fire remains (Monkey Madness II)"
+      }
+    ],
+    "group": "Mysterious note",
+    "name": "Mysterious note"
   },
   {
     "dropSources": [
@@ -199505,7 +199713,7 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 12,
-        "quantityLow": 12,
+        "quantityLow": 10,
         "rarity": "Unknown",
         "source": "Small port reward bag"
       },
@@ -203750,6 +203958,14 @@
         "source": "Bookcase (Twilight Temple)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Drawers (Zogre Flesh Eaters)"
+      },
+      {
         "dropLevel": "270,588",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -203810,6 +204026,20 @@
     ],
     "group": "Parasitic egg",
     "name": "Parasitic egg"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Kaleef"
+      }
+    ],
+    "group": "Parchment (Contact!)",
+    "name": "Parchment (Contact!)"
   },
   {
     "dropSources": [
@@ -204605,6 +204835,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "25",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Desert Phoenix"
+      }
+    ],
+    "group": "Phoenix feather",
+    "name": "Phoenix feather"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "1",
         "dropType": "woodcutting",
         "quantityHigh": 1,
@@ -205375,6 +205619,34 @@
     ],
     "group": "Pink skirt",
     "name": "Pink skirt"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Crate (Tower of Life)#Pipes"
+      }
+    ],
+    "group": "Pipe (Tower of Life)",
+    "name": "Pipe (Tower of Life)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Crate (Tower of Life)#Pipe rings"
+      }
+    ],
+    "group": "Pipe ring",
+    "name": "Pipe ring"
   },
   {
     "dropSources": [
@@ -220435,6 +220707,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Crate (Tower of Life)#Rivets"
+      }
+    ],
+    "group": "Rivets",
+    "name": "Rivets"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "80",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -234986,6 +235272,14 @@
         "quantityLow": 19,
         "rarity": "Unknown",
         "source": "Medium port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 16,
+        "quantityLow": 16,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
       }
     ],
     "group": "Sawmill coupon (teak plank)",
@@ -235220,7 +235514,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/128",
         "source": "Shantay"
       }
     ],
@@ -237291,12 +237585,34 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Piano (Witch's House)"
+      }
+    ],
+    "group": "Shrinking recipe",
+    "name": "Shrinking recipe"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "109",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Experiment No.2"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "Once",
+        "source": "Piano (Witch's House)"
       }
     ],
     "group": "Shrunk ogleroot",
@@ -250412,7 +250728,7 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 15,
-        "quantityLow": 13,
+        "quantityLow": 12,
         "rarity": "Unknown",
         "source": "Small port reward bag"
       },
@@ -250500,7 +250816,7 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 16,
-        "quantityLow": 13,
+        "quantityLow": 12,
         "rarity": "Unknown",
         "source": "Tiny port reward bag"
       },
@@ -251035,7 +251351,7 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 60,
-        "quantityLow": 46,
+        "quantityLow": 43,
         "rarity": "Unknown",
         "source": "Medium port reward bag"
       },
@@ -251134,6 +251450,14 @@
         "quantityLow": 6,
         "rarity": "3/128",
         "source": "Skeleton (Tarn's Lair)#Low level"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 53,
+        "quantityLow": 53,
+        "rarity": "Unknown",
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "",
@@ -253635,7 +253959,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 29,
+        "quantityHigh": 30,
         "quantityLow": 29,
         "rarity": "Unknown",
         "source": "Medium port reward bag"
@@ -253691,7 +254015,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 22,
+        "quantityHigh": 30,
         "quantityLow": 22,
         "rarity": "Unknown",
         "source": "Small port reward bag"
@@ -255551,6 +255875,62 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Fallen statue"
+      }
+    ],
+    "group": "Stone left arm",
+    "name": "Stone left arm"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Fallen statue"
+      }
+    ],
+    "group": "Stone left leg",
+    "name": "Stone left leg"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Fallen statue"
+      }
+    ],
+    "group": "Stone right arm",
+    "name": "Stone right arm"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Fallen statue"
+      }
+    ],
+    "group": "Stone right leg",
+    "name": "Stone right leg"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "21",
         "dropType": "thieving",
         "quantityHigh": 1,
@@ -255615,7 +255995,7 @@
         "source": "Sarcophagus (Pyramid Plunder)#Room 7"
       },
       {
-        "dropLevel": "",
+        "dropLevel": "21,31,41,51,61,71,81,91",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -255677,7 +256057,7 @@
         "source": "Sarcophagus (Pyramid Plunder)#Room 5"
       },
       {
-        "dropLevel": "",
+        "dropLevel": "21,31,41,51,61,71,81,91",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -255763,7 +256143,7 @@
         "source": "Sarcophagus (Pyramid Plunder)#Room 8"
       },
       {
-        "dropLevel": "",
+        "dropLevel": "21,31,41,51,61,71,81,91",
         "dropType": "thieving",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -255787,6 +256167,20 @@
     ],
     "group": "Stone tablet (Lizardman Temple)",
     "name": "Stone tablet (Lizardman Temple)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Kitchen Drawers"
+      }
+    ],
+    "group": "Storeroom key",
+    "name": "Storeroom key"
   },
   {
     "dropSources": [
@@ -257342,6 +257736,20 @@
     ],
     "group": "Strongbones' bone",
     "name": "Strongbones' bone"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Dead Explorer"
+      }
+    ],
+    "group": "Stronghold notes",
+    "name": "Stronghold notes"
   },
   {
     "dropSources": [
@@ -263013,7 +263421,7 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 18,
-        "quantityLow": 14,
+        "quantityLow": 13,
         "rarity": "Unknown",
         "source": "Large port reward bag"
       },
@@ -263123,7 +263531,7 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 14,
-        "quantityLow": 14,
+        "quantityLow": 7,
         "rarity": "Unknown",
         "source": "Medium port reward bag"
       },
@@ -263139,7 +263547,7 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 15,
-        "quantityLow": 10,
+        "quantityLow": 7,
         "rarity": "Unknown",
         "source": "Small port reward bag"
       },
@@ -265511,6 +265919,20 @@
     ],
     "group": "Tiny tempor",
     "name": "Tiny tempor"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Piano (Witch's House)"
+      }
+    ],
+    "group": "To-do list",
+    "name": "To-do list"
   },
   {
     "dropSources": [
@@ -270156,6 +270578,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "'The Guns'"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Crate (Tower of Life)#Triangle sandwiches"
       },
       {
         "dropLevel": "",
@@ -279388,6 +279818,20 @@
     ],
     "group": "Valuables",
     "name": "Valuables"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Crate (Tower of Life)#Valve wheels"
+      }
+    ],
+    "group": "Valve wheel",
+    "name": "Valve wheel"
   },
   {
     "dropSources": [
