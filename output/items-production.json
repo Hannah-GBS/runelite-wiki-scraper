@@ -14145,7 +14145,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">107,171,520</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">102,891,212</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -20022,7 +20022,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">105,726,464</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">102,873,389</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -25870,6 +25870,24 @@
     "ticks": "1"
   },
   {
+    "facilities": "Stagnant Lake",
+    "materials": [
+      {
+        "image": "Bucket.png",
+        "name": "Bucket",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bucket of water (Rum Deal).png",
+      "name": "Bucket of water (Rum Deal)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Lamp oil still",
     "materials": [
       {
@@ -30044,6 +30062,81 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Papyrus.png",
+        "name": "Papyrus",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Castle sketch 1.png",
+      "name": "Castle sketch 1",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "32",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Charcoal"
+  },
+  {
+    "materials": [
+      {
+        "image": "Papyrus.png",
+        "name": "Papyrus",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Castle sketch 2.png",
+      "name": "Castle sketch 2",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "32",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Charcoal"
+  },
+  {
+    "materials": [
+      {
+        "image": "Papyrus.png",
+        "name": "Papyrus",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Castle sketch 3.png",
+      "name": "Castle sketch 3",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "32",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Charcoal"
   },
   {
     "materials": [
@@ -50918,8 +51011,74 @@
   {
     "materials": [
       {
+        "image": "Bullseye lantern (empty).png",
+        "name": "Bullseye lantern (empty)",
+        "quantity": "1"
+      },
+      {
+        "image": "Emerald lens.png",
+        "name": "Emerald lens",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Emerald lantern (empty).png",
+      "name": "Emerald lantern",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Bullseye lantern (unf).png",
         "name": "Bullseye lantern (unf)",
+        "quantity": "1"
+      },
+      {
+        "image": "Emerald lens.png",
+        "name": "Emerald lens",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Emerald lantern (empty).png",
+      "name": "Emerald lantern",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sapphire lantern (empty).png",
+        "name": "Sapphire lantern",
+        "quantity": "1"
+      },
+      {
+        "image": "Emerald lens.png",
+        "name": "Emerald lens",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Emerald lantern (empty).png",
+      "name": "Emerald lantern",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sapphire lantern (empty).png",
+        "name": "Sapphire lantern",
         "quantity": "1"
       },
       {
@@ -57935,6 +58094,84 @@
     "tools": "Tiara mould"
   },
   {
+    "facilities": "Water Pool",
+    "materials": [
+      {
+        "image": "Blessed gold bowl.png",
+        "name": "Blessed gold bowl",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Golden bowl (blessed pure water).png",
+      "name": "Golden bowl",
+      "quantity": "1",
+      "version": "Blessed pure water"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Hollow reed"
+  },
+  {
+    "facilities": "Water",
+    "materials": [
+      {
+        "image": "Blessed gold bowl.png",
+        "name": "Blessed gold bowl",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Golden bowl (blessed water).png",
+      "name": "Golden bowl",
+      "quantity": "1",
+      "version": "Blessed water"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Water Pool",
+    "materials": [
+      {
+        "image": "Gold bowl.png",
+        "name": "Gold bowl",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Golden bowl (pure water).png",
+      "name": "Golden bowl",
+      "quantity": "1",
+      "version": "Pure water"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Hollow reed"
+  },
+  {
+    "facilities": "Water",
+    "materials": [
+      {
+        "image": "Gold bowl.png",
+        "name": "Gold bowl",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Golden bowl (water).png",
+      "name": "Golden bowl",
+      "quantity": "1",
+      "version": "Water"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Monument",
     "materials": [
       {
@@ -58188,7 +58425,14 @@
       "name": "Golem program",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "1",
     "tools": "Phoenix quill pen"
   },
@@ -62950,6 +63194,60 @@
     "ticks": "2"
   },
   {
+    "facilities": "Mossy rock (Viyeldi caves)",
+    "materials": [
+      {
+        "image": "Heart crystal.png",
+        "name": "Heart crystal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Heart crystal (activated).png",
+      "name": "Heart crystal",
+      "quantity": "1",
+      "version": "Activated"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Furnace (Viyeldi caves)",
+    "materials": [
+      {
+        "image": "Lump of crystal.png",
+        "name": "Lump of crystal",
+        "quantity": "1"
+      },
+      {
+        "image": "Hunk of crystal.png",
+        "name": "Hunk of crystal",
+        "quantity": "1"
+      },
+      {
+        "image": "Chunk of crystal.png",
+        "name": "Chunk of crystal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Heart crystal.png",
+      "name": "Heart crystal",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "50",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
     "materials": [
       {
         "image": "Unstrung heavy ballista.png",
@@ -63818,7 +64116,7 @@
       {
         "image": "Enchanted vial.png",
         "name": "Enchanted vial",
-        "quantity": "1"
+        "quantity": "10"
       },
       {
         "image": "Golden bowl (blessed pure water).png",
@@ -63831,10 +64129,29 @@
     "output": {
       "image": "Holy water.png",
       "name": "Holy water",
-      "quantity": "1"
+      "quantity": "10"
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Water Pool",
+    "materials": [
+      {
+        "image": "Enchanted vial.png",
+        "name": "Enchanted vial",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Holy water.png",
+      "name": "Holy water",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Hollow reed"
   },
   {
     "materials": [
@@ -92553,6 +92870,24 @@
     "ticks": "1"
   },
   {
+    "facilities": "Elemental Workshop",
+    "materials": [
+      {
+        "image": "primed bar.png",
+        "name": "primed bar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Primed mind bar.png",
+      "name": "Primed mind bar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "materials": [
       {
         "image": "Dragon boots.png",
@@ -94045,33 +94380,6 @@
     },
     "skills": [],
     "ticks": "20"
-  },
-  {
-    "materials": [
-      {
-        "image": "Vial.png",
-        "name": "Vial",
-        "quantity": "1"
-      },
-      {
-        "image": "Red spiders' eggs.png",
-        "name": "Red spiders' eggs",
-        "quantity": "1"
-      },
-      {
-        "image": "Kwuarm.png",
-        "name": "Kwuarm",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Rat poison.png",
-      "name": "Rat poison",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "1"
   },
   {
     "facilities": "Bone grinder",
@@ -103826,7 +104134,43 @@
       "name": "Sapphire lantern",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bullseye lantern (empty).png",
+        "name": "Bullseye lantern (empty)",
+        "quantity": "1"
+      },
+      {
+        "image": "Sapphire.png",
+        "name": "Sapphire",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sapphire lantern (empty).png",
+      "name": "Sapphire lantern",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "1"
   },
   {
@@ -103848,7 +104192,72 @@
       "name": "Sapphire lantern",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Emerald lantern (empty).png",
+        "name": "Emerald lantern",
+        "quantity": "1"
+      },
+      {
+        "image": "Sapphire.png",
+        "name": "Sapphire",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sapphire lantern (empty).png",
+      "name": "Sapphire lantern",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Emerald lantern (empty).png",
+        "name": "Emerald lantern",
+        "quantity": "1"
+      },
+      {
+        "image": "Sapphire.png",
+        "name": "Sapphire",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sapphire lantern (empty).png",
+      "name": "Sapphire lantern",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "1"
   },
   {
@@ -108120,6 +108529,33 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Sithik Ints",
+    "materials": [
+      {
+        "image": "Papyrus.png",
+        "name": "Papyrus",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sithik portrait.png",
+      "name": "Sithik portrait",
+      "outputnote": "Failing can produce a Sithik portrait (bad)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Charcoal"
   },
   {
     "materials": [
@@ -117308,7 +117744,14 @@
       "name": "Stone bowl",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "1",
     "tools": "Chisel"
   },

@@ -4677,7 +4677,7 @@
   {
     "examineText": "A specially-made golden bowl filled with water.",
     "group": "Golden bowl",
-    "isDefaultVersion": true,
+    "isDefaultVersion": false,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 723,
@@ -4710,7 +4710,7 @@
   {
     "examineText": "A blessed golden bowl. It has pure, sacred water in it.",
     "group": "Golden bowl",
-    "isDefaultVersion": false,
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 726,

@@ -1382,6 +1382,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Varies",
@@ -8459,7 +8467,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 14,
+        "quantityHigh": 16,
         "quantityLow": 12,
         "rarity": "Unknown",
         "source": "Medium port reward bag"
@@ -15643,6 +15651,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 5,
         "quantityLow": 3,
         "rarity": "2/60",
@@ -17299,6 +17315,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "38",
         "dropType": "thieving",
         "quantityHigh": 6,
@@ -18588,6 +18612,30 @@
         "source": "Locust rider"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -19508,7 +19556,7 @@
         "dropType": "reward",
         "quantityHigh": 25,
         "quantityLow": 25,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Musa Point"
       }
     ],
@@ -19548,6 +19596,14 @@
         "quantityLow": 1,
         "rarity": "12/640",
         "source": "Mammoth"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "",
@@ -20398,6 +20454,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "38",
         "dropType": "thieving",
         "quantityHigh": 12,
@@ -20544,7 +20608,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/480",
         "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
@@ -23225,6 +23289,14 @@
         "source": "Locust rider"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -24835,7 +24907,7 @@
         "dropType": "reward",
         "quantityHigh": 15,
         "quantityLow": 15,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Entrana"
       },
       {
@@ -25327,6 +25399,38 @@
         "source": "Mahogany birdhouse"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Hardwood (both)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Hardwood (mahogany)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Hardwood (teak)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Wood"
+      },
+      {
         "dropLevel": "44",
         "dropType": "hunter",
         "quantityHigh": 1,
@@ -25462,6 +25566,38 @@
         "source": "Mahogany birdhouse"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Hardwood (both)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Hardwood (mahogany)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Hardwood (teak)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Wood"
+      },
+      {
         "dropLevel": "44",
         "dropType": "hunter",
         "quantityHigh": 1,
@@ -25595,6 +25731,38 @@
         "quantityLow": 1,
         "rarity": "1/100",
         "source": "Mahogany birdhouse"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Hardwood (both)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Hardwood (mahogany)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Hardwood (teak)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Wood"
       },
       {
         "dropLevel": "44",
@@ -25864,7 +26032,7 @@
         "dropType": "reward",
         "quantityHigh": 5,
         "quantityLow": 5,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Land's End"
       },
       {
@@ -26008,6 +26176,38 @@
         "quantityLow": 1,
         "rarity": "Rare",
         "source": "Mahogany tree"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Hardwood (both)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Hardwood (mahogany)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Hardwood (teak)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Wood"
       },
       {
         "dropLevel": "44",
@@ -26374,6 +26574,38 @@
         "quantityLow": 1,
         "rarity": "Rare",
         "source": "Mahogany tree"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Hardwood (both)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Hardwood (mahogany)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Hardwood (teak)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Wood"
       },
       {
         "dropLevel": "44",
@@ -29766,6 +29998,20 @@
     ],
     "group": "Black plateskirt (t)",
     "name": "Black plateskirt (t)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Ogre Coffin (Zogre Flesh Eaters)"
+      }
+    ],
+    "group": "Black prism",
+    "name": "Black prism"
   },
   {
     "dropSources": [
@@ -34267,6 +34513,20 @@
     ],
     "group": "Blighted vengeance sack",
     "name": "Blighted vengeance sack"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "40",
+        "dropType": "farming",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Blindweed Patch"
+      }
+    ],
+    "group": "Blindweed",
+    "name": "Blindweed"
   },
   {
     "dropSources": [
@@ -46273,9 +46533,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 19,
-        "quantityLow": 11,
-        "rarity": "Unknown",
+        "quantityHigh": 31,
+        "quantityLow": 10,
+        "rarity": "3/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -46688,9 +46948,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 59,
+        "quantityHigh": 60,
         "quantityLow": 40,
-        "rarity": "Unknown",
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -47638,9 +47898,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 30,
-        "quantityLow": 21,
-        "rarity": "Unknown",
+        "quantityHigh": 49,
+        "quantityLow": 20,
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -49074,7 +49334,7 @@
         "dropType": "reward",
         "quantityHigh": 40,
         "quantityLow": 39,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Sunset Coast"
       }
     ],
@@ -50172,6 +50432,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "38",
         "dropType": "thieving",
         "quantityHigh": 3,
@@ -50958,6 +51226,14 @@
         "quantityLow": 1,
         "rarity": "1/726.7",
         "source": "Locust rider"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "133",
@@ -52042,6 +52318,30 @@
         "source": "Locust rider"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -52542,6 +52842,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "38",
         "dropType": "thieving",
         "quantityHigh": 1,
@@ -52790,7 +53098,7 @@
         "dropType": "reward",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Ardougne"
       },
       {
@@ -52994,6 +53302,14 @@
         "quantityLow": 1,
         "rarity": "Uncommon",
         "source": "Flowering Tree (Forestry event)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "",
@@ -53593,6 +53909,22 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing (cooked)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Unknown",
@@ -53707,7 +54039,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Port Sarim"
       }
     ],
@@ -54097,6 +54429,14 @@
         "quantityLow": 1,
         "rarity": "1/7,687.5",
         "source": "Long-tailed Wyvern"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "133",
@@ -62253,6 +62593,22 @@
         "source": "Man"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing (cooked)"
+      },
+      {
         "dropLevel": "24",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -62940,42 +63296,42 @@
       },
       {
         "dropLevel": "",
-        "dropType": "combat",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/139",
+        "rarity": "1/144.18",
         "source": "Gold Chest (black)"
       },
       {
         "dropLevel": "",
-        "dropType": "combat",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/139",
+        "rarity": "1/144",
         "source": "Gold Chest (brown)"
       },
       {
         "dropLevel": "",
-        "dropType": "combat",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/139",
+        "rarity": "1/144.09",
         "source": "Gold Chest (crimson)"
       },
       {
         "dropLevel": "",
-        "dropType": "combat",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/139",
+        "rarity": "1/144.28",
         "source": "Gold Chest (purple)"
       },
       {
         "dropLevel": "",
-        "dropType": "combat",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/139",
+        "rarity": "1/143.91",
         "source": "Gold Chest (red)"
       },
       {
@@ -66849,6 +67205,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 546,
+        "quantityLow": 546,
+        "rarity": "Always",
+        "source": "Managing Miscellania#Mining"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 20,
         "quantityLow": 14,
         "rarity": "Unknown",
@@ -67337,9 +67701,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 19,
-        "quantityLow": 12,
-        "rarity": "Unknown",
+        "quantityHigh": 33,
+        "quantityLow": 10,
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -81627,9 +81991,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 11640,
-        "quantityLow": 8875,
-        "rarity": "Unknown",
+        "quantityHigh": 15332,
+        "quantityLow": 5013,
+        "rarity": "6/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -83819,6 +84183,20 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Guard (Temple of Light)"
+      }
+    ],
+    "group": "Colour wheel",
+    "name": "Colour wheel"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "Common",
         "source": "Crate (Tower of Life)#Coloured balls"
       }
@@ -83956,7 +84334,7 @@
         "dropType": "reward",
         "quantityHigh": 15,
         "quantityLow": 15,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Hosidius"
       }
     ],
@@ -84904,7 +85282,7 @@
         "dropType": "reward",
         "quantityHigh": 20,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -88176,6 +88554,14 @@
         "quantityLow": 1,
         "rarity": "6/640",
         "source": "Mammoth"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "58,68",
@@ -93128,7 +93514,7 @@
       {
         "dropLevel": "336",
         "dropType": "combat",
-        "quantityHigh": 832,
+        "quantityHigh": 1046,
         "quantityLow": 201,
         "rarity": "1/36",
         "source": "Zalcano"
@@ -94534,6 +94920,20 @@
     ],
     "group": "Dom",
     "name": "Dom"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Pots (Darkness of Hallowvale)"
+      }
+    ],
+    "group": "Door key (Darkness of Hallowvale)",
+    "name": "Door key (Darkness of Hallowvale)"
   },
   {
     "dropSources": [
@@ -98856,6 +99256,14 @@
         "source": "Long-tailed Wyvern"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -100925,6 +101333,30 @@
         "source": "Locust rider"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -101493,6 +101925,14 @@
         "quantityLow": 2,
         "rarity": "16/640",
         "source": "Mammoth"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "38",
@@ -112405,9 +112845,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 56,
+        "quantityHigh": 25,
         "quantityLow": 15,
-        "rarity": "Unknown",
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -113637,6 +114077,14 @@
         "source": "Kurask"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1250,
+        "quantityLow": 1250,
+        "rarity": "Always",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
         "dropLevel": "725",
         "dropType": "combat",
         "quantityHigh": 1000,
@@ -114067,6 +114515,28 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing (cooked)"
+      }
+    ],
+    "group": "Fremennik boots",
+    "name": "Fremennik boots"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "88",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -114125,6 +114595,22 @@
         "quantityLow": 1,
         "rarity": "2/128",
         "source": "Dagannoth (Waterbirth Island)#Level 90"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing (cooked)"
       }
     ],
     "group": "Fremennik gloves",
@@ -122998,6 +123484,14 @@
         "source": "Man"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 3,
@@ -125704,6 +126198,22 @@
         "quantityLow": 1,
         "rarity": "1/178.1",
         "source": "Man"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Herbs"
       },
       {
         "dropLevel": "133",
@@ -128422,6 +128932,14 @@
         "quantityLow": 1,
         "rarity": "1/237.4",
         "source": "Man"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Herbs"
       },
       {
         "dropLevel": "133",
@@ -133562,6 +134080,14 @@
         "source": "Man"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 3,
@@ -136148,6 +136674,14 @@
         "quantityLow": 1,
         "rarity": "1/89",
         "source": "Man"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
       },
       {
         "dropLevel": "133",
@@ -138818,6 +139352,14 @@
         "quantityLow": 1,
         "rarity": "1/142.5",
         "source": "Man"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
       },
       {
         "dropLevel": "133",
@@ -141568,6 +142110,14 @@
         "quantityLow": 1,
         "rarity": "1/237.4",
         "source": "Man"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Herbs"
       },
       {
         "dropLevel": "133",
@@ -146890,6 +147440,14 @@
         "source": "Man"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 3,
@@ -150000,6 +150558,14 @@
         "source": "Man"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 3,
@@ -151604,7 +152170,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/480",
         "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
@@ -151920,6 +152486,30 @@
         "quantityLow": 1,
         "rarity": "Uncommon",
         "source": "Flowering Tree (Forestry event)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
       },
       {
         "dropLevel": "38",
@@ -153609,6 +154199,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "38",
         "dropType": "thieving",
         "quantityHigh": 9,
@@ -154307,6 +154905,30 @@
         "source": "Lobstrosity"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -154603,6 +155225,20 @@
     ],
     "group": "Hastily scrawled note",
     "name": "Hastily scrawled note"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chest (Hazeel Cult)"
+      }
+    ],
+    "group": "Hazeel scroll",
+    "name": "Hazeel scroll"
   },
   {
     "dropSources": [
@@ -155111,6 +155747,20 @@
     ],
     "group": "Hobgoblin champion scroll",
     "name": "Hobgoblin champion scroll"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Tall Reeds"
+      }
+    ],
+    "group": "Hollow reed",
+    "name": "Hollow reed"
   },
   {
     "dropSources": [
@@ -157578,6 +158228,30 @@
         "source": "Locust rider"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -158706,9 +159380,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 18,
+        "quantityHigh": 23,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "3/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -159130,9 +159804,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 59,
-        "quantityLow": 41,
-        "rarity": "Unknown",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -160546,7 +161220,7 @@
         "dropType": "reward",
         "quantityHigh": 30,
         "quantityLow": 20,
-        "rarity": "Unknown",
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -161463,8 +162137,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 20,
-        "quantityLow": 12,
-        "rarity": "Unknown",
+        "quantityLow": 10,
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -163460,6 +164134,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -164564,6 +165246,14 @@
         "quantityLow": 4,
         "rarity": "14/640",
         "source": "Mammoth"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "38",
@@ -166175,6 +166865,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "38",
         "dropType": "thieving",
         "quantityHigh": 6,
@@ -166949,6 +167647,30 @@
         "quantityLow": 1,
         "rarity": "1/1,011",
         "source": "Locust rider"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Herbs"
       },
       {
         "dropLevel": "133",
@@ -168133,6 +168855,30 @@
         "source": "Locust rider"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -168641,6 +169387,20 @@
     ],
     "group": "Large jerboa tail",
     "name": "Large jerboa tail"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Portrait (Darkness of Hallowvale)"
+      }
+    ],
+    "group": "Large ornate key",
+    "name": "Large ornate key"
   },
   {
     "dropSources": [
@@ -173976,6 +174736,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -176375,6 +177143,22 @@
         "quantityLow": 1,
         "rarity": "1/21",
         "source": "Magpie impling jar"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Fishing"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Fishing (cooked)"
       },
       {
         "dropLevel": "",
@@ -179209,6 +179993,14 @@
         "source": "Long-tailed Wyvern"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -179896,6 +180688,22 @@
         "source": "Mahogany tree (Farming)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 121,
+        "quantityLow": 121,
+        "rarity": "Always",
+        "source": "Managing Miscellania#Hardwood (both)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 223,
+        "quantityLow": 223,
+        "rarity": "Always",
+        "source": "Managing Miscellania#Hardwood (mahogany)"
+      },
+      {
         "dropLevel": "73",
         "dropType": "sailing",
         "quantityHigh": 1,
@@ -180352,6 +181160,14 @@
         "quantityLow": 1,
         "rarity": "1/303.5",
         "source": "Long-tailed Wyvern"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "133",
@@ -181010,6 +181826,14 @@
         "source": "Hunters' loot sack (supplies)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 892,
+        "quantityLow": 892,
+        "rarity": "Always",
+        "source": "Managing Miscellania#Wood"
+      },
+      {
         "dropLevel": "45",
         "dropType": "woodcutting",
         "quantityHigh": 1,
@@ -181236,6 +182060,14 @@
         "source": "Lunar Chest"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -181446,6 +182278,14 @@
         "quantityLow": 1,
         "rarity": "1/141",
         "source": "Head Guard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "38",
@@ -181928,6 +182768,30 @@
         "quantityLow": 1,
         "rarity": "1/247.3",
         "source": "Lobstrosity"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
       },
       {
         "dropLevel": "133",
@@ -186425,7 +187289,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 41,
+        "quantityHigh": 49,
         "quantityLow": 40,
         "rarity": "Unknown",
         "source": "Small port reward bag"
@@ -186441,9 +187305,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 54,
-        "quantityLow": 44,
-        "rarity": "Unknown",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -188338,7 +189202,7 @@
         "dropType": "reward",
         "quantityHigh": 30,
         "quantityLow": 20,
-        "rarity": "Unknown",
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -194319,6 +195183,14 @@
         "source": "Lobstrosity"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -194669,6 +195541,20 @@
     ],
     "group": "Musty smelling note",
     "name": "Musty smelling note"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "195",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Venator (The Blood Moon Rises)"
+      }
+    ],
+    "group": "Mysterious jerky",
+    "name": "Mysterious jerky"
   },
   {
     "dropSources": [
@@ -196007,6 +196893,14 @@
         "quantityLow": 1,
         "rarity": "1/214",
         "source": "Head Guard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "38",
@@ -199754,7 +200648,7 @@
         "dropType": "reward",
         "quantityHigh": 20,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -199814,9 +200708,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 14,
-        "quantityLow": 6,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "3/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -201178,6 +202072,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "38",
         "dropType": "thieving",
         "quantityHigh": 3,
@@ -202404,6 +203306,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "58,68",
         "dropType": "hunter",
         "quantityHigh": 1,
@@ -203471,6 +204381,14 @@
         "source": "Long-tailed Wyvern"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -203816,6 +204734,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -203956,6 +204882,14 @@
         "quantityLow": 1,
         "rarity": "1/6",
         "source": "Bookcase (Twilight Temple)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 5,
+        "rarity": "Once",
+        "source": "Crate (papyrus)"
       },
       {
         "dropLevel": "",
@@ -205279,7 +206213,7 @@
         "dropType": "reward",
         "quantityHigh": 25,
         "quantityLow": 25,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Brimhaven"
       },
       {
@@ -205427,6 +206361,14 @@
         "quantityLow": 1,
         "rarity": "3/640",
         "source": "Mammoth"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "",
@@ -205906,8 +206848,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 20,
-        "quantityLow": 13,
-        "rarity": "Unknown",
+        "quantityLow": 10,
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -206601,6 +207543,14 @@
         "quantityLow": 2,
         "rarity": "10/640",
         "source": "Mammoth"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "133",
@@ -208739,6 +209689,14 @@
         "quantityLow": 3,
         "rarity": "30/640",
         "source": "Mammoth"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "38",
@@ -212060,6 +213018,30 @@
         "source": "Lost teak crate"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -213068,7 +214050,7 @@
         "dropType": "reward",
         "quantityHigh": 5,
         "quantityLow": 5,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Port Piscarilius"
       }
     ],
@@ -214304,7 +215286,7 @@
         "dropType": "reward",
         "quantityHigh": 15,
         "quantityLow": 15,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Catherby"
       }
     ],
@@ -215444,7 +216426,7 @@
         "dropType": "reward",
         "quantityHigh": 10,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Port Khazard"
       }
     ],
@@ -217390,6 +218372,14 @@
         "source": "Larran's small chest"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 132,
+        "quantityLow": 132,
+        "rarity": "Always",
+        "source": "Managing Miscellania#Fishing"
+      },
+      {
         "dropLevel": "60",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -217746,6 +218736,14 @@
         "quantityLow": 112,
         "rarity": "3/60",
         "source": "Larran's small chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 440,
+        "quantityLow": 440,
+        "rarity": "Always",
+        "source": "Managing Miscellania#Fishing"
       },
       {
         "dropLevel": "60",
@@ -219102,6 +220100,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "38",
         "dropType": "thieving",
         "quantityHigh": 1,
@@ -219384,6 +220390,14 @@
         "source": "Long-tailed Wyvern"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -219534,9 +220548,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 14,
-        "quantityLow": 6,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "3/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -221935,6 +222949,14 @@
         "source": "Head Guard"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "38",
         "dropType": "thieving",
         "quantityHigh": 1,
@@ -222985,7 +224007,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/480",
         "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
@@ -233051,7 +234073,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/480",
         "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
@@ -235256,7 +236278,7 @@
         "dropType": "reward",
         "quantityHigh": 15,
         "quantityLow": 5,
-        "rarity": "Unknown",
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -235306,9 +236328,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 20,
+        "quantityHigh": 28,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -235450,6 +236472,20 @@
     ],
     "group": "Scrawled notebook",
     "name": "Scrawled notebook"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Guard (Temple of Light)"
+      }
+    ],
+    "group": "Scrawled notes",
+    "name": "Scrawled notes"
   },
   {
     "dropSources": [
@@ -236397,6 +237433,20 @@
     ],
     "group": "Shaman mask",
     "name": "Shaman mask"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Desk (Shaman Caves)"
+      }
+    ],
+    "group": "Shaman's tome",
+    "name": "Shaman's tome"
   },
   {
     "dropSources": [
@@ -241656,6 +242706,30 @@
         "source": "Magpie impling jar"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -245714,7 +246788,7 @@
         "dropType": "reward",
         "quantityHigh": 10,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Ruins of Unkah"
       }
     ],
@@ -245850,6 +246924,14 @@
         "quantityLow": 1,
         "rarity": "1/8",
         "source": "Lost ironwood crate"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "133",
@@ -246952,6 +248034,20 @@
     "group": "Stamina potion",
     "name": "Stamina potion(4)",
     "version": "4 dose"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "49",
+        "dropType": "farming",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Starflower (scenery)#Bloom"
+      }
+    ],
+    "group": "Star flower",
+    "name": "Star flower"
   },
   {
     "dropSources": [
@@ -250815,9 +251911,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 16,
-        "quantityLow": 12,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "3/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -251519,8 +252615,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 60,
-        "quantityLow": 41,
-        "rarity": "Unknown",
+        "quantityLow": 40,
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -254025,7 +255121,7 @@
         "dropType": "reward",
         "quantityHigh": 30,
         "quantityLow": 20,
-        "rarity": "Unknown",
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -257041,6 +258137,14 @@
         "quantityLow": 3,
         "rarity": "8/640",
         "source": "Mammoth"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "133",
@@ -261126,6 +262230,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "38",
         "dropType": "thieving",
         "quantityHigh": 2,
@@ -261502,6 +262614,14 @@
         "quantityLow": 2,
         "rarity": "8/160",
         "source": "Juvenile custodian stalker"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 132,
+        "quantityLow": 132,
+        "rarity": "Always",
+        "source": "Managing Miscellania#Fishing (cooked)"
       },
       {
         "dropLevel": "",
@@ -262536,6 +263656,30 @@
         "source": "Lobstrosity"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -263254,6 +264398,22 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 121,
+        "quantityLow": 121,
+        "rarity": "Always",
+        "source": "Managing Miscellania#Hardwood (both)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 301,
+        "quantityLow": 301,
+        "rarity": "Always",
+        "source": "Managing Miscellania#Hardwood (teak)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 5,
         "quantityLow": 5,
         "rarity": "Unknown",
@@ -263500,9 +264660,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 20,
-        "quantityLow": 9,
-        "rarity": "Unknown",
+        "quantityHigh": 35,
+        "quantityLow": 10,
+        "rarity": "3/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -263554,9 +264714,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 13,
+        "quantityHigh": 15,
         "quantityLow": 5,
-        "rarity": "Unknown",
+        "rarity": "3/96",
         "source": "Tiny port reward bag"
       }
     ],
@@ -263684,6 +264844,14 @@
         "quantityLow": 1,
         "rarity": "1/166.5",
         "source": "Long-tailed Wyvern"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "133",
@@ -265311,9 +266479,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 17,
-        "quantityLow": 14,
-        "rarity": "Unknown",
+        "quantityHigh": 52,
+        "quantityLow": 10,
+        "rarity": "4/96",
         "source": "Tiny port reward bag"
       },
       {
@@ -266731,6 +267899,30 @@
         "source": "Locust rider"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Herbs"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -267743,6 +268935,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "38",
         "dropType": "thieving",
         "quantityHigh": 2,
@@ -268293,6 +269493,22 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Fishing"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Fishing (cooked)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/150",
@@ -268761,6 +269977,20 @@
     ],
     "group": "Torn enhanced quetzal whistle blueprint",
     "name": "Torn enhanced quetzal whistle blueprint"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Broken lectern"
+      }
+    ],
+    "group": "Torn page",
+    "name": "Torn page"
   },
   {
     "dropSources": [
@@ -269577,6 +270807,30 @@
         "quantityLow": 1,
         "rarity": "1/1,397.7",
         "source": "Long-tailed Wyvern"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Flax"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Herbs"
       },
       {
         "dropLevel": "133",
@@ -272767,6 +274021,14 @@
         "source": "Greater demon#Regular"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 440,
+        "quantityLow": 440,
+        "rarity": "Always",
+        "source": "Managing Miscellania#Fishing (cooked)"
+      },
+      {
         "dropLevel": "115",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -273989,6 +275251,30 @@
         "source": "Magma strykewyrm"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Fishing"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Rare",
+        "source": "Managing Miscellania#Fishing (cooked)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Mining"
+      },
+      {
         "dropLevel": "55",
         "dropType": "mining",
         "quantityHigh": 1,
@@ -275127,6 +276413,30 @@
         "quantityLow": 1,
         "rarity": "16/32,768",
         "source": "Lovakite rocks"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing (cooked)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Mining"
       },
       {
         "dropLevel": "30",
@@ -277039,6 +278349,30 @@
         "source": "Maggot King"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing (cooked)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Mining"
+      },
+      {
         "dropLevel": "30",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -277997,6 +279331,30 @@
         "source": "Lovakite rocks"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Fishing (cooked)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Mining"
+      },
+      {
         "dropLevel": "30",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -278289,7 +279647,7 @@
         "dropType": "reward",
         "quantityHigh": 10,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "1/96",
         "source": "Tiny port reward bag#Cairn Isle"
       },
       {
@@ -282755,7 +284113,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/480",
         "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
@@ -286166,6 +287524,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -288808,6 +290174,14 @@
         "source": "Mammoth"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -289740,6 +291114,14 @@
         "source": "Lost oak crate"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
+      },
+      {
         "dropLevel": "133",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -290450,6 +291832,14 @@
         "quantityLow": 1,
         "rarity": "1/448",
         "source": "Head Guard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "38",
@@ -291498,6 +292888,14 @@
         "quantityLow": 4,
         "rarity": "10/640",
         "source": "Mammoth"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Common",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "38",
@@ -292642,6 +294040,14 @@
         "quantityLow": 1,
         "rarity": "1/30",
         "source": "Lunar Chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Uncommon",
+        "source": "Managing Miscellania#Farm"
       },
       {
         "dropLevel": "133",
