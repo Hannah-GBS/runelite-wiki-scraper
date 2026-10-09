@@ -4677,7 +4677,7 @@
   {
     "examineText": "A specially-made golden bowl filled with water.",
     "group": "Golden bowl",
-    "isDefaultVersion": true,
+    "isDefaultVersion": false,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 723,
@@ -4710,7 +4710,7 @@
   {
     "examineText": "A blessed golden bowl. It has pure, sacred water in it.",
     "group": "Golden bowl",
-    "isDefaultVersion": false,
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 726,
@@ -11844,6 +11844,17 @@
     "itemID": 1865,
     "name": "Pitta bread",
     "url": "https://oldschool.runescape.wiki/w/Pitta_bread",
+    "version": null
+  },
+  {
+    "examineText": "It's all burnt.",
+    "group": "Burnt pitta bread",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 1867,
+    "name": "Burnt pitta bread",
+    "url": "https://oldschool.runescape.wiki/w/Burnt_pitta_bread",
     "version": null
   },
   {
@@ -154206,6 +154217,127 @@
     "itemID": 34602,
     "name": "Stuffed dog",
     "url": "https://oldschool.runescape.wiki/w/Stuffed_dog",
+    "version": null
+  },
+  {
+    "examineText": "A cape from an almighty god, imbued with great power.",
+    "group": "Imbued ancient cape (Deadman)",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34607,
+    "name": "Imbued ancient cape (Deadman)",
+    "url": "https://oldschool.runescape.wiki/w/Imbued_ancient_cape_%28Deadman%29",
+    "version": null
+  },
+  {
+    "examineText": "The cape worn by only the most experienced players.",
+    "group": "Imbued ancient max cape",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34625,
+    "name": "Imbued ancient max cape",
+    "url": "https://oldschool.runescape.wiki/w/Imbued_ancient_max_cape%23Normal",
+    "version": "Normal"
+  },
+  {
+    "examineText": "The hood worn by only the most experienced players.",
+    "group": "Imbued ancient max hood",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34627,
+    "name": "Imbued ancient max hood",
+    "url": "https://oldschool.runescape.wiki/w/Imbued_ancient_max_hood",
+    "version": null
+  },
+  {
+    "examineText": "The cape worn by only the most experienced players. This one is broken.",
+    "group": "Imbued ancient max cape",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34629,
+    "name": "Imbued ancient max cape (broken)",
+    "url": "https://oldschool.runescape.wiki/w/Imbued_ancient_max_cape%23Broken",
+    "version": "Broken"
+  },
+  {
+    "examineText": "A rope tied onto a small net - genius!",
+    "group": "Net trap (item)",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 34631,
+    "name": "Net trap",
+    "url": "https://oldschool.runescape.wiki/w/Net_trap_%28item%29",
+    "version": null
+  },
+  {
+    "examineText": "A cape from an almighty god, imbued with great power.",
+    "group": "Imbued ancient cape",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34633,
+    "name": "Imbued ancient cape",
+    "url": "https://oldschool.runescape.wiki/w/Imbued_ancient_cape%23Normal",
+    "version": "Normal"
+  },
+  {
+    "examineText": "A cape from an almighty god, imbued with great power.",
+    "group": "Imbued ancient cape",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34635,
+    "name": "Imbued ancient cape (broken)",
+    "url": "https://oldschool.runescape.wiki/w/Imbued_ancient_cape%23Broken",
+    "version": "Broken"
+  },
+  {
+    "examineText": "A cape from an almighty god, imbued with great power.",
+    "group": "Imbued ancient cape",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34637,
+    "name": "Imbued ancient cape (l)",
+    "url": "https://oldschool.runescape.wiki/w/Imbued_ancient_cape%23Locked",
+    "version": "Locked"
+  },
+  {
+    "examineText": "A shadowy material that can be used to alter an imbued god cape.",
+    "group": "Ancient fabric",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34641,
+    "name": "Ancient fabric",
+    "url": "https://oldschool.runescape.wiki/w/Ancient_fabric",
+    "version": null
+  },
+  {
+    "examineText": "Contains some useful supplies.",
+    "group": "Supply crate (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34643,
+    "name": "Supply crate",
+    "url": "https://oldschool.runescape.wiki/w/Supply_crate_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "I can exchange these with Justine for items.",
+    "group": "Pete's vouchers",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34644,
+    "name": "Pete's vouchers",
+    "url": "https://oldschool.runescape.wiki/w/Pete%27s_vouchers",
     "version": null
   }
 ]
