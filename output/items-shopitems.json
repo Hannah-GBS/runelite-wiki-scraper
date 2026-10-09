@@ -298,34 +298,6 @@
     "sellMultiplier": "1300"
   },
   {
-    "buyMultiplier": "400",
-    "coords": "2614,3293",
-    "isMembers": true,
-    "items": [
-      {
-        "buyPrice": "6",
-        "currency": "Coins",
-        "name": "Raw cave eel",
-        "sellPrice": "19",
-        "stock": "100",
-        "version": null
-      },
-      {
-        "buyPrice": "40",
-        "currency": "Coins",
-        "name": "Wrath talisman",
-        "sellPrice": "130",
-        "stock": "1",
-        "version": null
-      }
-    ],
-    "location": "East Ardougne",
-    "mapID": "0",
-    "name": "Aemad's Adventuring Supplies. Demonic Pacts League",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
     "buyMultiplier": "700",
     "coords": "1596,3102",
     "isMembers": true,
@@ -992,6 +964,12 @@
         "currency": "Coins",
         "name": "Magic imp box pack",
         "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Net trap (item)",
+        "stock": "25",
         "version": null
       },
       {
@@ -15668,6 +15646,12 @@
       },
       {
         "currency": "Coins",
+        "name": "Net trap (item)",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Coins",
         "name": "Noose wand",
         "stock": "50",
         "version": null
@@ -23122,6 +23106,12 @@
         "currency": "Coins",
         "name": "Magic imp box pack",
         "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Net trap (item)",
+        "stock": "25",
         "version": null
       },
       {
@@ -30938,6 +30928,12 @@
         "currency": "Coins",
         "name": "Magic imp box pack",
         "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Net trap (item)",
+        "stock": "25",
         "version": null
       },
       {

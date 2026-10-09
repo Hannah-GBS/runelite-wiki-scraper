@@ -10667,6 +10667,69 @@
   {
     "materials": [
       {
+        "image": "Bones to bananas (tablet).png",
+        "name": "Bones to bananas (tablet)",
+        "quantity": "1"
+      },
+      {
+        "image": "Bones.png",
+        "name": "Bones",
+        "quantity": "27"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Banana.png",
+      "name": "Banana",
+      "quantity": "27",
+      "subtxt": "Tablet"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "image": "Earth rune.png",
+        "name": "Earth rune",
+        "quantity": "2"
+      },
+      {
+        "image": "Water rune.png",
+        "name": "Water rune",
+        "quantity": "2"
+      },
+      {
+        "image": "Nature rune.png",
+        "name": "Nature rune",
+        "quantity": "1"
+      },
+      {
+        "image": "Bones.png",
+        "name": "Bones",
+        "quantity": "27"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Banana.png",
+      "name": "Banana",
+      "quantity": "27",
+      "subtxt": "Bones to Bananas"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "15",
+        "name": "Magic"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
         "image": "Banana seedling (w).png",
         "name": "Banana seedling",
         "quantity": "1",
@@ -12194,6 +12257,35 @@
     ],
     "ticks": "4",
     "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bone beads.png",
+        "name": "Bone beads",
+        "quantity": "1"
+      },
+      {
+        "image": "Bronze wire.png",
+        "name": "Bronze wire",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Beads of the Dead.png",
+      "name": "Beads of the Dead",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "4",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Pot-boiler",
@@ -14145,7 +14237,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">107,171,520</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">102,747,125</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -19193,6 +19285,30 @@
   {
     "materials": [
       {
+        "image": "Sword pommel.png",
+        "name": "Sword pommel",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bone beads.png",
+      "name": "Bone beads",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "3",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Bone dagger.png",
         "name": "Bone dagger",
         "quantity": "1"
@@ -19391,6 +19507,30 @@
     "skills": [],
     "ticks": "0",
     "tools": "Chisel"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bone shard (Shilo Village).png",
+        "name": "Bone shard (Shilo Village)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bone key (Shilo Village).png",
+      "name": "Bone key (Shilo Village)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "3",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
   },
   {
     "facilities": "Historian Aldo",
@@ -20022,7 +20162,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">105,726,464</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">103,475,060</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -25870,6 +26010,24 @@
     "ticks": "1"
   },
   {
+    "facilities": "Stagnant Lake",
+    "materials": [
+      {
+        "image": "Bucket.png",
+        "name": "Bucket",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bucket of water (Rum Deal).png",
+      "name": "Bucket of water (Rum Deal)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Lamp oil still",
     "materials": [
       {
@@ -30044,6 +30202,81 @@
       }
     ],
     "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Papyrus.png",
+        "name": "Papyrus",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Castle sketch 1.png",
+      "name": "Castle sketch 1",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "32",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Charcoal"
+  },
+  {
+    "materials": [
+      {
+        "image": "Papyrus.png",
+        "name": "Papyrus",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Castle sketch 2.png",
+      "name": "Castle sketch 2",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "32",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Charcoal"
+  },
+  {
+    "materials": [
+      {
+        "image": "Papyrus.png",
+        "name": "Papyrus",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Castle sketch 3.png",
+      "name": "Castle sketch 3",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "32",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "",
+    "tools": "Charcoal"
   },
   {
     "materials": [
@@ -50918,8 +51151,77 @@
   {
     "materials": [
       {
+        "image": "Bullseye lantern (empty).png",
+        "name": "Bullseye lantern (empty)",
+        "quantity": "1"
+      },
+      {
+        "image": "Emerald lens.png",
+        "name": "Emerald lens",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Emerald lantern (empty).png",
+      "name": "Emerald lantern",
+      "quantity": "1",
+      "version": "Empty"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Bullseye lantern (unf).png",
         "name": "Bullseye lantern (unf)",
+        "quantity": "1"
+      },
+      {
+        "image": "Emerald lens.png",
+        "name": "Emerald lens",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Emerald lantern (empty).png",
+      "name": "Emerald lantern",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sapphire lantern (empty).png",
+        "name": "Sapphire lantern",
+        "quantity": "1",
+        "version": "Empty"
+      },
+      {
+        "image": "Emerald lens.png",
+        "name": "Emerald lens",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Emerald lantern (empty).png",
+      "name": "Emerald lantern",
+      "quantity": "1",
+      "version": "Empty"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sapphire lantern (empty).png",
+        "name": "Sapphire lantern",
         "quantity": "1"
       },
       {
@@ -57935,6 +58237,84 @@
     "tools": "Tiara mould"
   },
   {
+    "facilities": "Water Pool",
+    "materials": [
+      {
+        "image": "Blessed gold bowl.png",
+        "name": "Blessed gold bowl",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Golden bowl (blessed pure water).png",
+      "name": "Golden bowl",
+      "quantity": "1",
+      "version": "Blessed pure water"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Hollow reed"
+  },
+  {
+    "facilities": "Water",
+    "materials": [
+      {
+        "image": "Blessed gold bowl.png",
+        "name": "Blessed gold bowl",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Golden bowl (blessed water).png",
+      "name": "Golden bowl",
+      "quantity": "1",
+      "version": "Blessed water"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Water Pool",
+    "materials": [
+      {
+        "image": "Gold bowl.png",
+        "name": "Gold bowl",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Golden bowl (pure water).png",
+      "name": "Golden bowl",
+      "quantity": "1",
+      "version": "Pure water"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Hollow reed"
+  },
+  {
+    "facilities": "Water",
+    "materials": [
+      {
+        "image": "Gold bowl.png",
+        "name": "Gold bowl",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Golden bowl (water).png",
+      "name": "Golden bowl",
+      "quantity": "1",
+      "version": "Water"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Monument",
     "materials": [
       {
@@ -58188,7 +58568,14 @@
       "name": "Golem program",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "1",
     "tools": "Phoenix quill pen"
   },
@@ -62950,6 +63337,60 @@
     "ticks": "2"
   },
   {
+    "facilities": "Mossy rock (Viyeldi caves)",
+    "materials": [
+      {
+        "image": "Heart crystal.png",
+        "name": "Heart crystal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Heart crystal (activated).png",
+      "name": "Heart crystal",
+      "quantity": "1",
+      "version": "Activated"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "facilities": "Furnace (Viyeldi caves)",
+    "materials": [
+      {
+        "image": "Lump of crystal.png",
+        "name": "Lump of crystal",
+        "quantity": "1"
+      },
+      {
+        "image": "Hunk of crystal.png",
+        "name": "Hunk of crystal",
+        "quantity": "1"
+      },
+      {
+        "image": "Chunk of crystal.png",
+        "name": "Chunk of crystal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Heart crystal.png",
+      "name": "Heart crystal",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "50",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "4"
+  },
+  {
     "materials": [
       {
         "image": "Unstrung heavy ballista.png",
@@ -63818,7 +64259,7 @@
       {
         "image": "Enchanted vial.png",
         "name": "Enchanted vial",
-        "quantity": "1"
+        "quantity": "10"
       },
       {
         "image": "Golden bowl (blessed pure water).png",
@@ -63831,10 +64272,29 @@
     "output": {
       "image": "Holy water.png",
       "name": "Holy water",
-      "quantity": "1"
+      "quantity": "10"
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Water Pool",
+    "materials": [
+      {
+        "image": "Enchanted vial.png",
+        "name": "Enchanted vial",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Holy water.png",
+      "name": "Holy water",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1",
+    "tools": "Hollow reed"
   },
   {
     "materials": [
@@ -64525,6 +64985,29 @@
     "ticks": "1"
   },
   {
+    "facilities": "Kolodion",
+    "materials": [
+      {
+        "image": "Guthix cape.png",
+        "name": "Guthix cape",
+        "quantity": "1"
+      },
+      {
+        "image": "Ent's roots.png",
+        "name": "Ent's roots",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued Guthix cape.png",
+      "name": "Imbued Guthix cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Nigel",
     "materials": [
       {
@@ -64600,6 +65083,29 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Kolodion",
+    "materials": [
+      {
+        "image": "Saradomin cape.png",
+        "name": "Saradomin cape",
+        "quantity": "1"
+      },
+      {
+        "image": "Justiciar's hand.png",
+        "name": "Justiciar's hand",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued Saradomin cape.png",
+      "name": "Imbued Saradomin cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "facilities": "Nigel",
@@ -64679,6 +65185,29 @@
     "ticks": "0"
   },
   {
+    "facilities": "Kolodion",
+    "materials": [
+      {
+        "image": "Zamorak cape.png",
+        "name": "Zamorak cape",
+        "quantity": "1"
+      },
+      {
+        "image": "Demon's heart.png",
+        "name": "Demon's heart",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued Zamorak cape.png",
+      "name": "Imbued Zamorak cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Nigel",
     "materials": [
       {
@@ -64750,6 +65279,377 @@
     "output": {
       "image": "Imbued Zamorak max hood.png",
       "name": "Imbued Zamorak max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Imbued Guthix cape.png",
+        "name": "Imbued Guthix cape",
+        "quantity": "1"
+      },
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient cape.png",
+      "name": "Imbued ancient cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Imbued Saradomin cape.png",
+        "name": "Imbued Saradomin cape",
+        "quantity": "1"
+      },
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient cape.png",
+      "name": "Imbued ancient cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Imbued Zamorak cape.png",
+        "name": "Imbued Zamorak cape",
+        "quantity": "1"
+      },
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient cape.png",
+      "name": "Imbued ancient cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Imbued Guthix cape (Deadman).png",
+        "name": "Imbued Guthix cape (Deadman)",
+        "quantity": "1"
+      },
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient cape (Deadman).png",
+      "name": "Imbued ancient cape (Deadman)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Imbued Saradomin cape (Deadman).png",
+        "name": "Imbued Saradomin cape (Deadman)",
+        "quantity": "1"
+      },
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient cape (Deadman).png",
+      "name": "Imbued ancient cape (Deadman)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Imbued Zamorak cape (Deadman).png",
+        "name": "Imbued Zamorak cape (Deadman)",
+        "quantity": "1"
+      },
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient cape (Deadman).png",
+      "name": "Imbued ancient cape (Deadman)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "facilities": "Nigel",
+    "materials": [
+      {
+        "image": "Imbued ancient cape.png",
+        "name": "Imbued ancient cape",
+        "quantity": "1"
+      },
+      {
+        "image": "Armageddon cape fabric.png",
+        "name": "Armageddon cape fabric",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient cape (Deadman).png",
+      "name": "Imbued ancient cape (Deadman)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Guthix max hood.png",
+        "name": "Imbued Guthix max hood",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Guthix max cape.png",
+        "name": "Imbued Guthix max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient max cape.png",
+      "name": "Imbued ancient max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Saradomin max hood.png",
+        "name": "Imbued Saradomin max hood",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Saradomin max cape.png",
+        "name": "Imbued Saradomin max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient max cape.png",
+      "name": "Imbued ancient max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Zamorak max hood.png",
+        "name": "Imbued Zamorak max hood",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Zamorak max cape.png",
+        "name": "Imbued Zamorak max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient max cape.png",
+      "name": "Imbued ancient max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Imbued ancient cape.png",
+        "name": "Imbued ancient cape",
+        "quantity": "1"
+      },
+      {
+        "image": "Max hood.png",
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "image": "Max cape.png",
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient max cape.png",
+      "name": "Imbued ancient max cape",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Guthix max hood.png",
+        "name": "Imbued Guthix max hood",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Guthix max cape.png",
+        "name": "Imbued Guthix max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient max hood.png",
+      "name": "Imbued ancient max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Saradomin max hood.png",
+        "name": "Imbued Saradomin max hood",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Saradomin max cape.png",
+        "name": "Imbued Saradomin max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient max hood.png",
+      "name": "Imbued ancient max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ancient fabric.png",
+        "name": "Ancient fabric",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Zamorak max hood.png",
+        "name": "Imbued Zamorak max hood",
+        "quantity": "1"
+      },
+      {
+        "image": "Imbued Zamorak max cape.png",
+        "name": "Imbued Zamorak max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient max hood.png",
+      "name": "Imbued ancient max hood",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
+        "image": "Imbued ancient cape.png",
+        "name": "Imbued ancient cape",
+        "quantity": "1"
+      },
+      {
+        "image": "Max hood.png",
+        "name": "Max hood",
+        "quantity": "1"
+      },
+      {
+        "image": "Max cape.png",
+        "name": "Max cape",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Imbued ancient max hood.png",
+      "name": "Imbued ancient max hood",
       "quantity": "1"
     },
     "skills": [],
@@ -85732,6 +86632,35 @@
     "tools": "Hammer"
   },
   {
+    "materials": [
+      {
+        "image": "Rope.png",
+        "name": "Rope",
+        "quantity": "1"
+      },
+      {
+        "image": "Small fishing net.png",
+        "name": "Small fishing net",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Net trap (item).png",
+      "name": "Net trap (item)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "29",
+        "name": "Hunter"
+      }
+    ],
+    "ticks": ""
+  },
+  {
     "facilities": "Cooking range",
     "materials": [
       {
@@ -89780,6 +90709,69 @@
   {
     "materials": [
       {
+        "image": "Bones to peaches (tablet).png",
+        "name": "Bones to peaches (tablet)",
+        "quantity": "1"
+      },
+      {
+        "image": "Bones.png",
+        "name": "Bones",
+        "quantity": "27"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Peach.png",
+      "name": "Peach",
+      "quantity": "27",
+      "subtxt": "Tablet"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "image": "Earth rune.png",
+        "name": "Earth rune",
+        "quantity": "4"
+      },
+      {
+        "image": "Water rune.png",
+        "name": "Water rune",
+        "quantity": "4"
+      },
+      {
+        "image": "Nature rune.png",
+        "name": "Nature rune",
+        "quantity": "2"
+      },
+      {
+        "image": "Bones.png",
+        "name": "Bones",
+        "quantity": "27"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Peach.png",
+      "name": "Peach",
+      "quantity": "27",
+      "subtxt": "Bones to Peaches"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "35.5",
+        "level": "60",
+        "name": "Magic"
+      }
+    ],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
         "image": "Oyster pearl.png",
         "name": "Oyster pearl",
         "quantity": "1"
@@ -91929,6 +92921,24 @@
     "ticks": "Varies"
   },
   {
+    "facilities": "Barrel of flour",
+    "materials": [
+      {
+        "image": "Pot.png",
+        "name": "Pot",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Pot of flour.png",
+      "name": "Pot of flour",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "materials": [
       {
         "image": "Quicklime.png",
@@ -92551,6 +93561,24 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Elemental Workshop",
+    "materials": [
+      {
+        "image": "primed bar.png",
+        "name": "primed bar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Primed mind bar.png",
+      "name": "Primed mind bar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "materials": [
@@ -94045,33 +95073,6 @@
     },
     "skills": [],
     "ticks": "20"
-  },
-  {
-    "materials": [
-      {
-        "image": "Vial.png",
-        "name": "Vial",
-        "quantity": "1"
-      },
-      {
-        "image": "Red spiders' eggs.png",
-        "name": "Red spiders' eggs",
-        "quantity": "1"
-      },
-      {
-        "image": "Kwuarm.png",
-        "name": "Kwuarm",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Rat poison.png",
-      "name": "Rat poison",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "1"
   },
   {
     "facilities": "Bone grinder",
@@ -103826,7 +104827,44 @@
       "name": "Sapphire lantern",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Bullseye lantern (empty).png",
+        "name": "Bullseye lantern (empty)",
+        "quantity": "1"
+      },
+      {
+        "image": "Sapphire.png",
+        "name": "Sapphire",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sapphire lantern (empty).png",
+      "name": "Sapphire lantern",
+      "quantity": "1",
+      "version": "Empty"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "1"
   },
   {
@@ -103848,7 +104886,74 @@
       "name": "Sapphire lantern",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Emerald lantern (empty).png",
+        "name": "Emerald lantern",
+        "quantity": "1",
+        "version": "Empty"
+      },
+      {
+        "image": "Sapphire.png",
+        "name": "Sapphire",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sapphire lantern (empty).png",
+      "name": "Sapphire lantern",
+      "quantity": "1",
+      "version": "Empty"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Emerald lantern (empty).png",
+        "name": "Emerald lantern",
+        "quantity": "1"
+      },
+      {
+        "image": "Sapphire.png",
+        "name": "Sapphire",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sapphire lantern (empty).png",
+      "name": "Sapphire lantern",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "No",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "1"
   },
   {
@@ -108120,6 +109225,33 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Sithik Ints",
+    "materials": [
+      {
+        "image": "Papyrus.png",
+        "name": "Papyrus",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sithik portrait.png",
+      "name": "Sithik portrait",
+      "outputnote": "Failing can produce a Sithik portrait (bad)",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "1",
+        "name": "Crafting"
+      }
+    ],
+    "ticks": "1",
+    "tools": "Charcoal"
   },
   {
     "materials": [
@@ -117308,7 +118440,14 @@
       "name": "Stone bowl",
       "quantity": "1"
     },
-    "skills": [],
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "20",
+        "name": "Crafting"
+      }
+    ],
     "ticks": "1",
     "tools": "Chisel"
   },
