@@ -14237,7 +14237,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">102,747,125</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">100,739,343</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -20162,7 +20162,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">103,475,060</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">101,821,734</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -86648,7 +86648,8 @@
     "output": {
       "image": "Net trap (item).png",
       "name": "Net trap (item)",
-      "quantity": "1"
+      "quantity": "1",
+      "txt": "Net trap"
     },
     "skills": [
       {
@@ -89096,6 +89097,24 @@
   {
     "materials": [
       {
+        "image": "Orange (hat).png",
+        "name": "Orange (hat)",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Orange chunks.png",
+      "name": "Orange chunks",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
         "image": "Red dye.png",
         "name": "Red dye",
         "quantity": "1"
@@ -89222,6 +89241,24 @@
       {
         "image": "Orange.png",
         "name": "Orange",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Orange slices.png",
+      "name": "Orange slices",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2",
+    "tools": "Knife"
+  },
+  {
+    "materials": [
+      {
+        "image": "Orange (hat).png",
+        "name": "Orange (hat)",
         "quantity": "1"
       }
     ],
@@ -105239,6 +105276,32 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "facilities": "Furnace",
+    "materials": [
+      {
+        "image": "Iron bar.png",
+        "name": "Iron bar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Scarab emblem (iron).png",
+      "name": "Scarab emblem",
+      "quantity": "1",
+      "version": "Iron"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "0",
+        "level": "?",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "4"
   },
   {
     "materials": [

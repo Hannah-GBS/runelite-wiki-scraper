@@ -75229,61 +75229,6 @@
     "version": "Reward"
   },
   {
-    "examineText": "This can be used to raid items that were in your victim's bank.",
-    "group": "Bank key",
-    "isDefaultVersion": true,
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13302,
-    "name": "Bank key",
-    "url": "https://oldschool.runescape.wiki/w/Bank_key%231st",
-    "version": "1st"
-  },
-  {
-    "examineText": "This can be used to raid items that were in your victim's bank.",
-    "group": "Bank key",
-    "isDefaultVersion": false,
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13303,
-    "name": "Bank key",
-    "url": "https://oldschool.runescape.wiki/w/Bank_key%232nd",
-    "version": "2nd"
-  },
-  {
-    "examineText": "This can be used to raid items that were in your victim's bank.",
-    "group": "Bank key",
-    "isDefaultVersion": false,
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13304,
-    "name": "Bank key",
-    "url": "https://oldschool.runescape.wiki/w/Bank_key%233rd",
-    "version": "3rd"
-  },
-  {
-    "examineText": "This can be used to raid items that were in your victim's bank.",
-    "group": "Bank key",
-    "isDefaultVersion": false,
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13305,
-    "name": "Bank key",
-    "url": "https://oldschool.runescape.wiki/w/Bank_key%234th",
-    "version": "4th"
-  },
-  {
-    "examineText": "This can be used to raid items that were in your victim's bank.",
-    "group": "Bank key",
-    "isDefaultVersion": false,
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 13306,
-    "name": "Bank key",
-    "url": "https://oldschool.runescape.wiki/w/Bank_key%235th",
-    "version": "5th"
-  },
-  {
     "examineText": "These can be taken to Deadman Nigel in Lumbridge.",
     "group": "Blood money",
     "isDefaultVersion": true,

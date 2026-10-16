@@ -3168,18 +3168,26 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 59,
-        "quantityLow": 59,
-        "rarity": "Unknown",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "12/225",
         "source": "Huge port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 59,
-        "quantityLow": 42,
-        "rarity": "Unknown",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "8/155",
         "source": "Large port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 32,
+        "rarity": "2/465",
+        "source": "Large port reward bag#Port Roberts"
       },
       {
         "dropLevel": "53",
@@ -3216,9 +3224,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 52,
+        "quantityHigh": 60,
         "quantityLow": 40,
-        "rarity": "Unknown",
+        "rarity": "5.5/160",
         "source": "Medium port reward bag"
       },
       {
@@ -7752,8 +7760,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 20,
-        "quantityLow": 11,
-        "rarity": "Unknown",
+        "quantityLow": 10,
+        "rarity": "9/225",
         "source": "Huge port reward bag"
       },
       {
@@ -7775,9 +7783,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 15,
-        "quantityLow": 15,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "6/155",
         "source": "Large port reward bag"
       },
       {
@@ -7808,8 +7816,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 20,
-        "quantityLow": 11,
-        "rarity": "Unknown",
+        "quantityLow": 10,
+        "rarity": "3.5/160",
         "source": "Medium port reward bag"
       },
       {
@@ -8134,16 +8142,16 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 30,
-        "quantityLow": 29,
-        "rarity": "Unknown",
+        "quantityLow": 20,
+        "rarity": "12/225",
         "source": "Huge port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 30,
-        "quantityLow": 28,
-        "rarity": "Unknown",
+        "quantityLow": 20,
+        "rarity": "8/155",
         "source": "Large port reward bag"
       },
       {
@@ -8157,9 +8165,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
-        "quantityLow": 22,
-        "rarity": "Unknown",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "5.5/160",
         "source": "Medium port reward bag"
       }
     ],
@@ -8395,9 +8403,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 18,
-        "quantityLow": 18,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "9/225",
         "source": "Huge port reward bag"
       },
       {
@@ -8427,9 +8435,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 17,
+        "quantityHigh": 20,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "8/155",
         "source": "Large port reward bag"
       },
       {
@@ -8467,9 +8475,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 16,
-        "quantityLow": 12,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "5.5/160",
         "source": "Medium port reward bag"
       },
       {
@@ -9044,7 +9052,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/140",
+        "rarity": "1/139",
         "source": "Killerwatt"
       },
       {
@@ -9862,7 +9870,7 @@
         "dropType": "combat",
         "quantityHigh": 5,
         "quantityLow": 5,
-        "rarity": "3/140",
+        "rarity": "3/139",
         "source": "Killerwatt"
       },
       {
@@ -9870,7 +9878,7 @@
         "dropType": "combat",
         "quantityHigh": 17,
         "quantityLow": 17,
-        "rarity": "2/140",
+        "rarity": "2/139",
         "source": "Killerwatt"
       },
       {
@@ -9912,6 +9920,14 @@
         "quantityLow": 1,
         "rarity": "6/20",
         "source": "Magic Stall"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 30,
+        "quantityLow": 30,
+        "rarity": "Always",
+        "source": "Magic combat tutor"
       },
       {
         "dropLevel": "162",
@@ -10698,6 +10714,20 @@
     ],
     "group": "Air talisman",
     "name": "Air talisman"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Skeleton (Dragon Slayer II)"
+      }
+    ],
+    "group": "Aivas' diary",
+    "name": "Aivas' diary"
   },
   {
     "dropSources": [
@@ -16409,6 +16439,30 @@
         "quantityLow": 1,
         "rarity": "8/2,670",
         "source": "Fremennik salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "0.6/225",
+        "source": "Huge port reward bag#Rellekka"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "0.4/155",
+        "source": "Large port reward bag#Rellekka"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/480",
+        "source": "Medium port reward bag#Rellekka"
       }
     ],
     "group": "Archer helm",
@@ -17819,9 +17873,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
-        "quantityLow": 25,
-        "rarity": "Unknown",
+        "quantityHigh": 29,
+        "quantityLow": 21,
+        "rarity": "3/225",
         "source": "Huge port reward bag#Lunar Isle"
       },
       {
@@ -17835,17 +17889,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
-        "quantityLow": 25,
-        "rarity": "Unknown",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "2/155",
         "source": "Large port reward bag#Lunar Isle"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 25,
-        "quantityLow": 25,
-        "rarity": "Unknown",
+        "quantityLow": 23,
+        "rarity": "2/160",
         "source": "Medium port reward bag#Lunar Isle"
       },
       {
@@ -19214,6 +19268,36 @@
   {
     "dropSources": [
       {
+        "dropLevel": "73",
+        "dropType": "hunter",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Very rare",
+        "source": "Black chinchompa (Hunter)"
+      },
+      {
+        "dropLevel": "63",
+        "dropType": "hunter",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Very rare",
+        "source": "Carnivorous chinchompa"
+      },
+      {
+        "dropLevel": "53",
+        "dropType": "hunter",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Very rare",
+        "source": "Chinchompa (Hunter)"
+      }
+    ],
+    "group": "Baby chinchompa",
+    "name": "Baby chinchompa"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "48",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -19584,14 +19668,14 @@
         "dropType": "reward",
         "quantityHigh": 25,
         "quantityLow": 25,
-        "rarity": "Unknown",
+        "rarity": "2/168",
         "source": "Small port reward bag#Musa Point"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
-        "quantityLow": 25,
+        "quantityHigh": 30,
+        "quantityLow": 20,
         "rarity": "1/96",
         "source": "Tiny port reward bag#Musa Point"
       }
@@ -20642,7 +20726,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "0.5/160",
         "source": "Medium port reward bag#The Pandemonium"
       },
       {
@@ -20650,7 +20734,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "0.5/168",
         "source": "Small port reward bag#The Pandemonium"
       },
       {
@@ -20658,7 +20742,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/480",
+        "rarity": "1/768",
         "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
@@ -23857,6 +23941,30 @@
         "quantityLow": 1,
         "rarity": "8/2,670",
         "source": "Fremennik salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "0.6/225",
+        "source": "Huge port reward bag#Rellekka"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "0.4/155",
+        "source": "Large port reward bag#Rellekka"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/480",
+        "source": "Medium port reward bag#Rellekka"
       }
     ],
     "group": "Berserker helm",
@@ -24969,8 +25077,8 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 15,
-        "quantityLow": 15,
+        "quantityHigh": -1,
+        "quantityLow": -1,
         "rarity": "1/96",
         "source": "Tiny port reward bag#Entrana"
       },
@@ -26014,9 +26122,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 5,
+        "quantityHigh": 6,
         "quantityLow": 5,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Land's End"
       },
       {
@@ -26047,8 +26155,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "Unknown",
+        "quantityLow": 4,
+        "rarity": "2/160",
         "source": "Medium port reward bag#Land's End"
       },
       {
@@ -26078,9 +26186,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "Unknown",
+        "quantityHigh": 6,
+        "quantityLow": 4,
+        "rarity": "2/168",
         "source": "Small port reward bag#Land's End"
       },
       {
@@ -26094,8 +26202,8 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 5,
-        "quantityLow": 5,
+        "quantityHigh": 4,
+        "quantityLow": 4,
         "rarity": "1/96",
         "source": "Tiny port reward bag#Land's End"
       },
@@ -43142,6 +43250,20 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cupboard (Monkey Madness II)"
+      }
+    ],
+    "group": "Book of Spyology",
+    "name": "Book of Spyology"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "1/2",
         "source": "Old Bookshelf (Wise Old Man)"
       }
@@ -43162,6 +43284,20 @@
     ],
     "group": "Book of portraiture",
     "name": "Book of portraiture"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Bookcase (Waterfall Quest)"
+      }
+    ],
+    "group": "Book on Baxtorian",
+    "name": "Book on Baxtorian"
   },
   {
     "dropSources": [
@@ -46506,6 +46642,14 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
+        "source": "Woodsman tutor"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
         "source": "Workbench (Trouble Brewing, tools)"
       },
       {
@@ -46645,7 +46789,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 31,
+        "quantityHigh": 20,
         "quantityLow": 10,
         "rarity": "3/96",
         "source": "Tiny port reward bag"
@@ -48010,7 +48154,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 49,
+        "quantityHigh": 30,
         "quantityLow": 20,
         "rarity": "4/96",
         "source": "Tiny port reward bag"
@@ -48496,6 +48640,14 @@
         "quantityLow": 1,
         "rarity": "2/128",
         "source": "Skeleton (Tarn's Lair)#Low level"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/504",
+        "source": "Small port reward bag#Corsair Cove"
       }
     ],
     "group": "Bronze scimitar",
@@ -49404,9 +49556,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 40,
+        "quantityHigh": 48,
         "quantityLow": 40,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Sunset Coast"
       },
       {
@@ -49422,7 +49574,7 @@
         "dropType": "reward",
         "quantityHigh": 40,
         "quantityLow": 40,
-        "rarity": "Unknown",
+        "rarity": "2/160",
         "source": "Medium port reward bag#Sunset Coast"
       },
       {
@@ -49452,8 +49604,8 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 40,
-        "quantityLow": 39,
+        "quantityHigh": 47,
+        "quantityLow": 32,
         "rarity": "1/96",
         "source": "Tiny port reward bag#Sunset Coast"
       }
@@ -49564,7 +49716,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/3",
+        "rarity": "1/2",
         "source": "Bull shark"
       }
     ],
@@ -53170,7 +53322,7 @@
         "dropType": "reward",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "Unknown",
+        "rarity": "3/225",
         "source": "Huge port reward bag#Ardougne"
       },
       {
@@ -53178,7 +53330,7 @@
         "dropType": "reward",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Ardougne"
       },
       {
@@ -53193,8 +53345,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 2,
-        "quantityLow": 2,
-        "rarity": "Unknown",
+        "quantityLow": 1,
+        "rarity": "1/160",
         "source": "Medium port reward bag#Ardougne"
       },
       {
@@ -53209,15 +53361,15 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 2,
-        "quantityLow": 2,
-        "rarity": "Unknown",
+        "quantityLow": 1,
+        "rarity": "2/168",
         "source": "Small port reward bag#Ardougne"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 2,
-        "quantityLow": 2,
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "1/96",
         "source": "Tiny port reward bag#Ardougne"
       },
@@ -53528,17 +53680,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 12,
-        "quantityLow": 12,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "12/225",
         "source": "Huge port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 15,
-        "quantityLow": 9,
-        "rarity": "Unknown",
+        "quantityLow": 5,
+        "rarity": "5.5/155",
         "source": "Large port reward bag"
       },
       {
@@ -53570,6 +53722,22 @@
         "quantityLow": 1,
         "rarity": "4/119",
         "source": "Armoured kraken"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "9/225",
+        "source": "Huge port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "5.5/155",
+        "source": "Large port reward bag"
       },
       {
         "dropLevel": "205",
@@ -54015,7 +54183,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Port Sarim"
       },
       {
@@ -54047,7 +54215,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "2/160",
         "source": "Medium port reward bag#Port Sarim"
       },
       {
@@ -54143,7 +54311,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "2/168",
         "source": "Small port reward bag#Port Sarim"
       },
       {
@@ -55991,7 +56159,7 @@
         "dropType": "combat",
         "quantityHigh": 4,
         "quantityLow": 4,
-        "rarity": "9/140",
+        "rarity": "9/139",
         "source": "Killerwatt"
       },
       {
@@ -58360,6 +58528,14 @@
         "quantityLow": 3,
         "rarity": "3/128",
         "source": "Lava dragon"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/160",
+        "source": "Medium port reward bag#Ardougne"
       },
       {
         "dropLevel": "152",
@@ -66939,14 +67115,6 @@
         "source": "Dagannoth Rex"
       },
       {
-        "dropLevel": "24",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "13/128",
-        "source": "Desert Lizard"
-      },
-      {
         "dropLevel": "558,608,658,708,758,808,858,908",
         "dropType": "combat",
         "quantityHigh": 50,
@@ -67157,9 +67325,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 39,
-        "quantityLow": 39,
-        "rarity": "Unknown",
+        "quantityHigh": 50,
+        "quantityLow": 30,
+        "rarity": "9/225",
         "source": "Huge port reward bag"
       },
       {
@@ -67237,9 +67405,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 14,
-        "quantityLow": 14,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "8/155",
         "source": "Large port reward bag"
       },
       {
@@ -67334,8 +67502,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 20,
-        "quantityLow": 14,
-        "rarity": "Unknown",
+        "quantityLow": 10,
+        "rarity": "8/160",
         "source": "Medium port reward bag"
       },
       {
@@ -67669,10 +67837,18 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 18,
-        "quantityLow": 16,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "8/168",
         "source": "Small port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 20,
+        "rarity": "2/504",
+        "source": "Small port reward bag#Jatizo"
       },
       {
         "dropLevel": "160",
@@ -67821,7 +67997,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 33,
+        "quantityHigh": 20,
         "quantityLow": 10,
         "rarity": "4/96",
         "source": "Tiny port reward bag"
@@ -69099,14 +69275,6 @@
         "quantityLow": 350,
         "rarity": "12/128",
         "source": "Bandosian guard"
-      },
-      {
-        "dropLevel": "23",
-        "dropType": "combat",
-        "quantityHigh": 13,
-        "quantityLow": 13,
-        "rarity": "10/128",
-        "source": "Banshee"
       },
       {
         "dropLevel": "23",
@@ -70655,22 +70823,6 @@
       {
         "dropLevel": "23",
         "dropType": "combat",
-        "quantityHigh": 3,
-        "quantityLow": 3,
-        "rarity": "5/128",
-        "source": "Cave crawler"
-      },
-      {
-        "dropLevel": "23",
-        "dropType": "combat",
-        "quantityHigh": 8,
-        "quantityLow": 8,
-        "rarity": "3/128",
-        "source": "Cave crawler"
-      },
-      {
-        "dropLevel": "23",
-        "dropType": "combat",
         "quantityHigh": 29,
         "quantityLow": 29,
         "rarity": "3/128",
@@ -71567,17 +71719,9 @@
       {
         "dropLevel": "7,8,11,12",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "21/128",
-        "source": "Crawling Hand"
-      },
-      {
-        "dropLevel": "7,8,11,12",
-        "dropType": "combat",
         "quantityHigh": 8,
         "quantityLow": 8,
-        "rarity": "23/128",
+        "rarity": "24/128",
         "source": "Crawling Hand"
       },
       {
@@ -75535,9 +75679,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 57294,
-        "quantityLow": 54849,
-        "rarity": "Unknown",
+        "quantityHigh": 60000,
+        "quantityLow": 40000,
+        "rarity": "22/225",
         "source": "Huge port reward bag"
       },
       {
@@ -76647,25 +76791,17 @@
       {
         "dropLevel": "55",
         "dropType": "combat",
+        "quantityHigh": 200,
+        "quantityLow": 200,
+        "rarity": "11/139",
+        "source": "Killerwatt"
+      },
+      {
+        "dropLevel": "55",
+        "dropType": "combat",
         "quantityHigh": 11,
         "quantityLow": 11,
-        "rarity": "23/140",
-        "source": "Killerwatt"
-      },
-      {
-        "dropLevel": "55",
-        "dropType": "combat",
-        "quantityHigh": 44,
-        "quantityLow": 44,
-        "rarity": "28/140",
-        "source": "Killerwatt"
-      },
-      {
-        "dropLevel": "55",
-        "dropType": "combat",
-        "quantityHigh": 76,
-        "quantityLow": 76,
-        "rarity": "1/140",
+        "rarity": "3/139",
         "source": "Killerwatt"
       },
       {
@@ -76673,15 +76809,7 @@
         "dropType": "combat",
         "quantityHigh": 127,
         "quantityLow": 127,
-        "rarity": "1/140",
-        "source": "Killerwatt"
-      },
-      {
-        "dropLevel": "55",
-        "dropType": "combat",
-        "quantityHigh": 200,
-        "quantityLow": 200,
-        "rarity": "11/140",
+        "rarity": "1/139",
         "source": "Killerwatt"
       },
       {
@@ -76967,17 +77095,17 @@
       {
         "dropLevel": "",
         "dropType": "sailing",
-        "quantityHigh": 5350,
-        "quantityLow": 3864,
+        "quantityHigh": 5400,
+        "quantityLow": 3600,
         "rarity": "Always",
         "source": "Large port coin bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 26859,
-        "quantityLow": 26859,
-        "rarity": "Unknown",
+        "quantityHigh": 32500,
+        "quantityLow": 22500,
+        "rarity": "15/155",
         "source": "Large port reward bag"
       },
       {
@@ -77543,17 +77671,17 @@
       {
         "dropLevel": "",
         "dropType": "sailing",
-        "quantityHigh": 3595,
-        "quantityLow": 2486,
+        "quantityHigh": 3600,
+        "quantityLow": 2400,
         "rarity": "Always",
         "source": "Medium port coin bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 23514,
-        "quantityLow": 23264,
-        "rarity": "Unknown",
+        "quantityHigh": 25000,
+        "quantityLow": 15000,
+        "rarity": "14/160",
         "source": "Medium port reward bag"
       },
       {
@@ -81055,10 +81183,18 @@
       {
         "dropLevel": "",
         "dropType": "sailing",
-        "quantityHigh": 2714,
-        "quantityLow": 1613,
+        "quantityHigh": 2400,
+        "quantityLow": 1600,
         "rarity": "Always",
         "source": "Small port coin bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 17500,
+        "quantityLow": 10000,
+        "rarity": "15/168",
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "15",
@@ -82111,8 +82247,8 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 15332,
-        "quantityLow": 5013,
+        "quantityHigh": 12500,
+        "quantityLow": 5000,
         "rarity": "6/96",
         "source": "Tiny port reward bag"
       },
@@ -84452,8 +84588,8 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 15,
-        "quantityLow": 15,
+        "quantityHigh": 18,
+        "quantityLow": 18,
         "rarity": "1/96",
         "source": "Tiny port reward bag#Hosidius"
       }
@@ -88017,8 +88153,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 10,
-        "quantityLow": 10,
-        "rarity": "Unknown",
+        "quantityLow": 8,
+        "rarity": "3/225",
         "source": "Huge port reward bag#Priffddinas"
       },
       {
@@ -88064,9 +88200,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
-        "quantityLow": 10,
-        "rarity": "Unknown",
+        "quantityHigh": 12,
+        "quantityLow": 8,
+        "rarity": "2/155",
         "source": "Large port reward bag#Priffddinas"
       },
       {
@@ -88088,9 +88224,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
-        "quantityLow": 10,
-        "rarity": "Unknown",
+        "quantityHigh": 12,
+        "quantityLow": 9,
+        "rarity": "2/160",
         "source": "Medium port reward bag#Priffddinas"
       },
       {
@@ -92524,7 +92660,7 @@
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "3/140",
+        "rarity": "3/139",
         "source": "Killerwatt"
       },
       {
@@ -96236,9 +96372,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 55,
-        "quantityLow": 15,
-        "rarity": "Unknown",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "6/225",
         "source": "Huge port reward bag"
       },
       {
@@ -98136,9 +98272,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 1,
+        "quantityHigh": 2,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/225",
         "source": "Huge port reward bag"
       },
       {
@@ -98220,9 +98356,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 14,
+        "quantityHigh": 15,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "4/225",
         "source": "Huge port reward bag"
       },
       {
@@ -105587,8 +105723,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 8,
-        "quantityLow": 8,
-        "rarity": "Unknown",
+        "quantityLow": 6,
+        "rarity": "2/168",
         "source": "Small port reward bag#Red Rock"
       }
     ],
@@ -105770,7 +105906,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 3,
-        "rarity": "Unknown",
+        "rarity": "2/168",
         "source": "Small port reward bag#The Summer Shore"
       },
       {
@@ -106759,7 +106895,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "10/128",
         "source": "Banshee"
       },
       {
@@ -106777,14 +106913,6 @@
         "quantityLow": 1,
         "rarity": "Unknown",
         "source": "Cockatrice"
-      },
-      {
-        "dropLevel": "7,8,11,12",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Unknown",
-        "source": "Crawling Hand"
       },
       {
         "dropLevel": "45",
@@ -106807,7 +106935,7 @@
         "dropType": "combat",
         "quantityHigh": 6,
         "quantityLow": 6,
-        "rarity": "Unknown",
+        "rarity": "13/128",
         "source": "Desert Lizard"
       },
       {
@@ -106910,7 +107038,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "13/128",
         "source": "Cave crawler"
       },
       {
@@ -106958,7 +107086,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "13/128",
         "source": "Desert Lizard"
       },
       {
@@ -107133,7 +107261,7 @@
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "Unknown",
+        "rarity": "21/128",
         "source": "Banshee"
       },
       {
@@ -107141,7 +107269,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "5/128",
         "source": "Cave crawler"
       },
       {
@@ -107173,7 +107301,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "13/128",
         "source": "Crawling Hand"
       },
       {
@@ -107221,7 +107349,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/16",
+        "rarity": "29/139",
         "source": "Killerwatt"
       },
       {
@@ -107229,7 +107357,7 @@
         "dropType": "combat",
         "quantityHigh": 10,
         "quantityLow": 10,
-        "rarity": "1/40",
+        "rarity": "1/139",
         "source": "Killerwatt"
       },
       {
@@ -109677,6 +109805,22 @@
         "quantityLow": 1,
         "rarity": "8/2,670",
         "source": "Fremennik salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "0.6/225",
+        "source": "Huge port reward bag#Rellekka"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "0.4/155",
+        "source": "Large port reward bag#Rellekka"
       }
     ],
     "group": "Farseer helm",
@@ -110581,25 +110725,25 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 56,
-        "quantityLow": 45,
-        "rarity": "Unknown",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "12/225",
         "source": "Huge port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 53,
-        "quantityLow": 51,
-        "rarity": "Unknown",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "7/155",
         "source": "Large port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
-        "quantityLow": 25,
-        "rarity": "Unknown",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "4.5/160",
         "source": "Medium port reward bag"
       },
       {
@@ -110705,7 +110849,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/140",
+        "rarity": "1/139",
         "source": "Killerwatt"
       },
       {
@@ -110865,7 +111009,7 @@
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "1/140",
+        "rarity": "1/139",
         "source": "Killerwatt"
       },
       {
@@ -111947,17 +112091,17 @@
       {
         "dropLevel": "55",
         "dropType": "combat",
-        "quantityHigh": 18,
-        "quantityLow": 18,
-        "rarity": "5/140",
+        "quantityHigh": 45,
+        "quantityLow": 45,
+        "rarity": "8/139",
         "source": "Killerwatt"
       },
       {
         "dropLevel": "55",
         "dropType": "combat",
-        "quantityHigh": 45,
-        "quantityLow": 45,
-        "rarity": "8/140",
+        "quantityHigh": 18,
+        "quantityLow": 18,
+        "rarity": "5/139",
         "source": "Killerwatt"
       },
       {
@@ -113001,6 +113145,14 @@
         "source": "Blood-starved venator"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "3.5/160",
+        "source": "Medium port reward bag"
+      },
+      {
         "dropLevel": "87",
         "dropType": "sailing",
         "quantityHigh": 10,
@@ -113015,6 +113167,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Raw swordtip squid"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "8/168",
+        "source": "Small port reward bag"
       },
       {
         "dropLevel": "",
@@ -113168,14 +113328,6 @@
         "quantityLow": 100,
         "rarity": "Always",
         "source": "Bait pack"
-      },
-      {
-        "dropLevel": "23",
-        "dropType": "combat",
-        "quantityHigh": 15,
-        "quantityLow": 15,
-        "rarity": "22/128",
-        "source": "Banshee"
       },
       {
         "dropLevel": "23",
@@ -114861,7 +115013,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "0.6/225",
         "source": "Huge port reward bag#Rellekka"
       },
       {
@@ -114885,7 +115037,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "0.4/155",
         "source": "Large port reward bag#Rellekka"
       },
       {
@@ -114909,7 +115061,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "2/480",
         "source": "Medium port reward bag#Rellekka"
       },
       {
@@ -114917,7 +115069,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "2/168",
         "source": "Small port reward bag#Rellekka"
       },
       {
@@ -115179,7 +115331,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/3",
+        "rarity": "1/2",
         "source": "Frigatebird"
       }
     ],
@@ -115573,7 +115725,7 @@
         "dropType": "combat",
         "quantityHigh": 5,
         "quantityLow": 5,
-        "rarity": "Unknown",
+        "rarity": "1/134",
         "source": "Cave crawler"
       },
       {
@@ -117341,6 +117493,14 @@
         "quantityLow": 1,
         "rarity": "1/10",
         "source": "Drink troll"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/768",
+        "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
     "group": "Gin",
@@ -121124,7 +121284,7 @@
         "dropType": "reward",
         "quantityHigh": 40,
         "quantityLow": 40,
-        "rarity": "Unknown",
+        "rarity": "3/225",
         "source": "Huge port reward bag#Aldarin"
       },
       {
@@ -121139,8 +121299,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 40,
-        "quantityLow": 40,
-        "rarity": "Unknown",
+        "quantityLow": 35,
+        "rarity": "2/155",
         "source": "Large port reward bag#Aldarin"
       },
       {
@@ -121154,17 +121314,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 40,
-        "quantityLow": 40,
-        "rarity": "Unknown",
+        "quantityHigh": 50,
+        "quantityLow": 30,
+        "rarity": "2/160",
         "source": "Medium port reward bag#Aldarin"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 40,
-        "quantityLow": 40,
-        "rarity": "Unknown",
+        "quantityHigh": 50,
+        "quantityLow": 30,
+        "rarity": "2/168",
         "source": "Small port reward bag#Aldarin"
       },
       {
@@ -122318,7 +122478,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/80.3",
+        "rarity": "1/82.7",
         "source": "Banshee"
       },
       {
@@ -122542,7 +122702,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/124.1",
+        "rarity": "1/118.7",
         "source": "Cave crawler"
       },
       {
@@ -123502,7 +123662,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/85.3",
+        "rarity": "1/84.7",
         "source": "Killerwatt"
       },
       {
@@ -125018,7 +125178,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/120.5",
+        "rarity": "1/124.1",
         "source": "Banshee"
       },
       {
@@ -125234,7 +125394,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/186.2",
+        "rarity": "1/178.1",
         "source": "Cave crawler"
       },
       {
@@ -126194,7 +126354,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/128",
+        "rarity": "1/127.1",
         "source": "Killerwatt"
       },
       {
@@ -127744,7 +127904,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/160.6",
+        "rarity": "1/165.5",
         "source": "Banshee"
       },
       {
@@ -127960,7 +128120,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/248.2",
+        "rarity": "1/237.4",
         "source": "Cave crawler"
       },
       {
@@ -128920,7 +129080,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/170.7",
+        "rarity": "1/169.4",
         "source": "Killerwatt"
       },
       {
@@ -130452,7 +130612,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/15.1",
+        "rarity": "1/15.5",
         "source": "Banshee"
       },
       {
@@ -130652,7 +130812,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/23.3",
+        "rarity": "1/22.3",
         "source": "Cave crawler"
       },
       {
@@ -131564,7 +131724,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/16",
+        "rarity": "1/15.9",
         "source": "Killerwatt"
       },
       {
@@ -132986,7 +133146,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/34.4",
+        "rarity": "1/35.5",
         "source": "Banshee"
       },
       {
@@ -133178,7 +133338,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/53.2",
+        "rarity": "1/50.9",
         "source": "Cave crawler"
       },
       {
@@ -134090,7 +134250,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/36.6",
+        "rarity": "1/36.3",
         "source": "Killerwatt"
       },
       {
@@ -135574,7 +135734,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/60.2",
+        "rarity": "1/62.1",
         "source": "Banshee"
       },
       {
@@ -135774,7 +135934,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/93.1",
+        "rarity": "1/89",
         "source": "Cave crawler"
       },
       {
@@ -136686,7 +136846,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/64",
+        "rarity": "1/63.5",
         "source": "Killerwatt"
       },
       {
@@ -138140,7 +138300,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/96.4",
+        "rarity": "1/99.3",
         "source": "Banshee"
       },
       {
@@ -138348,7 +138508,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/148.9",
+        "rarity": "1/142.5",
         "source": "Cave crawler"
       },
       {
@@ -139340,7 +139500,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/102.4",
+        "rarity": "1/101.7",
         "source": "Killerwatt"
       },
       {
@@ -140906,7 +141066,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/160.6",
+        "rarity": "1/165.5",
         "source": "Banshee"
       },
       {
@@ -141114,7 +141274,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/248.2",
+        "rarity": "1/237.4",
         "source": "Cave crawler"
       },
       {
@@ -142098,7 +142258,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/170.7",
+        "rarity": "1/169.4",
         "source": "Killerwatt"
       },
       {
@@ -143600,7 +143760,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/20.1",
+        "rarity": "1/20.7",
         "source": "Banshee"
       },
       {
@@ -143792,7 +143952,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/31",
+        "rarity": "1/29.7",
         "source": "Cave crawler"
       },
       {
@@ -144688,7 +144848,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/21.3",
+        "rarity": "1/21.2",
         "source": "Killerwatt"
       },
       {
@@ -146154,7 +146314,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/43.8",
+        "rarity": "1/45.1",
         "source": "Banshee"
       },
       {
@@ -146402,7 +146562,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/67.7",
+        "rarity": "1/64.8",
         "source": "Cave crawler"
       },
       {
@@ -147450,7 +147610,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/46.5",
+        "rarity": "1/46.2",
         "source": "Killerwatt"
       },
       {
@@ -149448,7 +149608,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/26.8",
+        "rarity": "1/27.6",
         "source": "Banshee"
       },
       {
@@ -149640,7 +149800,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/41.4",
+        "rarity": "1/39.6",
         "source": "Cave crawler"
       },
       {
@@ -150576,7 +150736,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/28.4",
+        "rarity": "1/28.2",
         "source": "Killerwatt"
       },
       {
@@ -152328,7 +152488,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "0.5/160",
         "source": "Medium port reward bag#The Pandemonium"
       },
       {
@@ -152336,7 +152496,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "0.5/168",
         "source": "Small port reward bag#The Pandemonium"
       },
       {
@@ -152344,7 +152504,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/480",
+        "rarity": "1/768",
         "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
@@ -154171,6 +154331,14 @@
         "quantityLow": 1,
         "rarity": "8/128",
         "source": "Imp"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Master smithing tutor"
       },
       {
         "dropLevel": "",
@@ -156411,14 +156579,6 @@
   },
   {
     "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Bounty tasks"
-      },
       {
         "dropLevel": "",
         "dropType": "sailing",
@@ -159545,8 +159705,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 20,
-        "quantityLow": 20,
-        "rarity": "Unknown",
+        "quantityLow": 10,
+        "rarity": "6/168",
         "source": "Small port reward bag"
       },
       {
@@ -159576,7 +159736,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 23,
+        "quantityHigh": 20,
         "quantityLow": 10,
         "rarity": "3/96",
         "source": "Tiny port reward bag"
@@ -159980,6 +160140,22 @@
         "quantityLow": 5,
         "rarity": "2/60",
         "source": "Rusty chest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "8/168",
+        "source": "Small port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 30,
+        "rarity": "1/168",
+        "source": "Small port reward bag#Port Roberts"
       },
       {
         "dropLevel": "15",
@@ -161398,9 +161574,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 29,
-        "quantityLow": 25,
-        "rarity": "Unknown",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "8/168",
         "source": "Small port reward bag"
       },
       {
@@ -162042,6 +162218,14 @@
         "source": "Market Guard"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "2/160",
+        "source": "Medium port reward bag#Jatizo"
+      },
+      {
         "dropLevel": "24",
         "dropType": "combat",
         "quantityHigh": 5,
@@ -162246,8 +162430,16 @@
         "dropType": "reward",
         "quantityHigh": 20,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "8/168",
         "source": "Small port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "2/504",
+        "source": "Small port reward bag#Jatizo"
       },
       {
         "dropLevel": "24",
@@ -162674,6 +162866,14 @@
         "quantityLow": 1,
         "rarity": "32/10,850",
         "source": "Simple lockbox"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/168",
+        "source": "Small port reward bag#Void Knights' Outpost"
       }
     ],
     "group": "Iron platebody",
@@ -163008,6 +163208,14 @@
         "quantityLow": 1,
         "rarity": "1/128",
         "source": "Skeleton#Armed"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/504",
+        "source": "Small port reward bag#Corsair Cove"
       },
       {
         "dropLevel": "115,123,125,134,158",
@@ -163392,9 +163600,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 11,
-        "quantityLow": 11,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "9/225",
         "source": "Huge port reward bag"
       },
       {
@@ -163414,9 +163622,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 7,
-        "quantityLow": 7,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "9/225",
         "source": "Huge port reward bag"
       },
       {
@@ -166969,6 +167177,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/768",
+        "source": "Tiny port reward bag#The Pandemonium"
+      }
+    ],
+    "group": "Kraken colada",
+    "name": "Kraken colada"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "127",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -169608,14 +169830,6 @@
   },
   {
     "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Bounty tasks"
-      },
       {
         "dropLevel": "",
         "dropType": "sailing",
@@ -172770,15 +172984,15 @@
         "dropType": "reward",
         "quantityHigh": 10,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "1.5/225",
         "source": "Huge port reward bag#Deepfin Point"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
+        "quantityHigh": 24,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "1/155",
         "source": "Large port reward bag#Deepfin Point"
       },
       {
@@ -172792,9 +173006,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
+        "quantityHigh": 18,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "1/160",
         "source": "Medium port reward bag#Deepfin Point"
       }
     ],
@@ -178553,7 +178767,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/10",
+        "rarity": "1/3",
         "source": "Rogue#Level 135"
       },
       {
@@ -180763,6 +180977,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Cupboard (witch's house)"
+      }
+    ],
+    "group": "Magnet (Witch's House)",
+    "name": "Magnet (Witch's House)"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "538,758,1099",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -180854,6 +181082,14 @@
         "quantityLow": 10,
         "rarity": "Varies",
         "source": "Extra supply crate"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 27,
+        "quantityLow": 21,
+        "rarity": "1.5/225",
+        "source": "Huge port reward bag#Etceteria"
       },
       {
         "dropLevel": "",
@@ -181032,17 +181268,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 18,
-        "quantityLow": 14,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "12/225",
         "source": "Huge port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 20,
-        "quantityLow": 19,
-        "rarity": "Unknown",
+        "quantityLow": 10,
+        "rarity": "8/155",
         "source": "Large port reward bag"
       },
       {
@@ -181056,9 +181292,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 11,
-        "quantityLow": 11,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "6/160",
         "source": "Medium port reward bag"
       },
       {
@@ -181176,9 +181412,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 7,
-        "quantityLow": 7,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "6/168",
         "source": "Small port reward bag"
       },
       {
@@ -181230,17 +181466,25 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 8,
-        "quantityLow": 8,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "9/225",
         "source": "Huge port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 12,
-        "quantityLow": 12,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "6/155",
+        "source": "Large port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "6/160",
         "source": "Medium port reward bag"
       },
       {
@@ -181254,9 +181498,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 12,
-        "quantityLow": 9,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "6/168",
         "source": "Small port reward bag"
       },
       {
@@ -183735,14 +183979,6 @@
         "dropType": "sailing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Bounty tasks"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
         "rarity": "4/5",
         "source": "Courier tasks"
       }
@@ -184589,6 +184825,14 @@
         "quantityLow": 80,
         "rarity": "1/7",
         "source": "Lundail#Medium Wilderness diary"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 30,
+        "quantityLow": 30,
+        "rarity": "Always",
+        "source": "Magic combat tutor"
       },
       {
         "dropLevel": "162",
@@ -186785,9 +187029,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 19,
-        "quantityLow": 19,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "9/225",
         "source": "Huge port reward bag"
       },
       {
@@ -186802,8 +187046,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 20,
-        "quantityLow": 15,
-        "rarity": "Unknown",
+        "quantityLow": 10,
+        "rarity": "6/155",
         "source": "Large port reward bag"
       },
       {
@@ -186842,8 +187086,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 20,
-        "quantityLow": 11,
-        "rarity": "Unknown",
+        "quantityLow": 10,
+        "rarity": "6/160",
         "source": "Medium port reward bag"
       },
       {
@@ -186969,9 +187213,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 19,
-        "quantityLow": 19,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "6/168",
         "source": "Small port reward bag"
       },
       {
@@ -187481,10 +187725,18 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 58,
-        "quantityLow": 49,
-        "rarity": "Unknown",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "8/155",
         "source": "Large port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "2/465",
+        "source": "Large port reward bag#Port Roberts"
       },
       {
         "dropLevel": "53",
@@ -187497,10 +187749,18 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 59,
+        "quantityHigh": 60,
         "quantityLow": 40,
-        "rarity": "Unknown",
+        "rarity": "8/160",
         "source": "Medium port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 30,
+        "rarity": "1/160",
+        "source": "Medium port reward bag#Port Roberts"
       },
       {
         "dropLevel": "64",
@@ -187521,9 +187781,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 49,
+        "quantityHigh": 60,
         "quantityLow": 40,
-        "rarity": "Unknown",
+        "rarity": "7/168",
         "source": "Small port reward bag"
       },
       {
@@ -189384,9 +189644,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 24,
-        "quantityLow": 21,
-        "rarity": "Unknown",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "8/155",
         "source": "Large port reward bag"
       },
       {
@@ -189408,6 +189668,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "8/160",
+        "source": "Medium port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "5/2,000",
@@ -189424,9 +189692,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 26,
-        "quantityLow": 22,
-        "rarity": "Unknown",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "7/168",
         "source": "Small port reward bag"
       },
       {
@@ -189670,18 +189938,10 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 19,
-        "quantityLow": 14,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 10,
+        "quantityHigh": 20,
         "quantityLow": 10,
-        "rarity": "Unknown",
-        "source": "Medium port reward bag#Jatizo"
+        "rarity": "8/160",
+        "source": "Medium port reward bag"
       },
       {
         "dropLevel": "55",
@@ -189790,17 +190050,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 13,
-        "quantityLow": 13,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "7/168",
         "source": "Small port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
-        "quantityLow": 10,
-        "rarity": "Unknown",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "2/504",
         "source": "Small port reward bag#Jatizo"
       },
       {
@@ -190052,6 +190312,14 @@
         "quantityLow": 1,
         "rarity": "1/128",
         "source": "Kraka"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/465",
+        "source": "Large port reward bag#Void Knights' Outpost"
       },
       {
         "dropLevel": "123",
@@ -190334,6 +190602,14 @@
         "quantityLow": 1,
         "rarity": "1/62",
         "source": "Ice giant#Wilderness Slayer Cave"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/465",
+        "source": "Large port reward bag#Void Knights' Outpost"
       },
       {
         "dropLevel": "",
@@ -197627,7 +197903,7 @@
       {
         "dropLevel": "23",
         "dropType": "combat",
-        "quantityHigh": 4,
+        "quantityHigh": 3,
         "quantityLow": 3,
         "rarity": "6/128",
         "source": "Cave crawler"
@@ -198493,7 +198769,7 @@
         "dropType": "combat",
         "quantityHigh": 8,
         "quantityLow": 8,
-        "rarity": "11/140",
+        "rarity": "11/139",
         "source": "Killerwatt"
       },
       {
@@ -198501,7 +198777,7 @@
         "dropType": "combat",
         "quantityHigh": 37,
         "quantityLow": 37,
-        "rarity": "1/140",
+        "rarity": "1/139",
         "source": "Killerwatt"
       },
       {
@@ -200010,6 +200286,30 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 27,
+        "quantityLow": 27,
+        "rarity": "1.5/225",
+        "source": "Huge port reward bag#Deepfin Point"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 24,
+        "quantityLow": 21,
+        "rarity": "1/155",
+        "source": "Large port reward bag#Deepfin Point"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 17,
+        "quantityLow": 10,
+        "rarity": "1/160",
+        "source": "Medium port reward bag#Deepfin Point"
+      },
+      {
         "dropLevel": "74",
         "dropType": "mining",
         "quantityHigh": 1,
@@ -200828,9 +201128,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 11,
-        "quantityLow": 11,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "8/160",
         "source": "Medium port reward bag"
       },
       {
@@ -200852,9 +201152,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 12,
+        "quantityHigh": 20,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "8/168",
         "source": "Small port reward bag"
       },
       {
@@ -200939,16 +201239,16 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 15,
-        "quantityLow": 7,
-        "rarity": "Unknown",
+        "quantityLow": 5,
+        "rarity": "6/160",
         "source": "Medium port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 7,
-        "quantityLow": 7,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "6/168",
         "source": "Small port reward bag"
       },
       {
@@ -203766,7 +204066,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/3",
+        "rarity": "1/2",
         "source": "Osprey"
       }
     ],
@@ -206147,9 +206447,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 8,
+        "quantityHigh": 9,
         "quantityLow": 8,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Red Rock"
       },
       {
@@ -206157,7 +206457,7 @@
         "dropType": "reward",
         "quantityHigh": 5,
         "quantityLow": 5,
-        "rarity": "Unknown",
+        "rarity": "2/160",
         "source": "Medium port reward bag#Red Rock"
       },
       {
@@ -206267,7 +206567,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 3,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#The Summer Shore"
       },
       {
@@ -206291,7 +206591,7 @@
         "dropType": "reward",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "Unknown",
+        "rarity": "2/160",
         "source": "Medium port reward bag#The Summer Shore"
       },
       {
@@ -206433,15 +206733,15 @@
         "dropType": "reward",
         "quantityHigh": 25,
         "quantityLow": 25,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Brimhaven"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
+        "quantityHigh": 30,
         "quantityLow": 25,
-        "rarity": "Unknown",
+        "rarity": "2/160",
         "source": "Medium port reward bag#Brimhaven"
       },
       {
@@ -206471,16 +206771,16 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
-        "quantityLow": 25,
-        "rarity": "Unknown",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "2/168",
         "source": "Small port reward bag#Brimhaven"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
-        "quantityLow": 25,
+        "quantityHigh": 30,
+        "quantityLow": 20,
         "rarity": "1/96",
         "source": "Tiny port reward bag#Brimhaven"
       },
@@ -211318,7 +211618,7 @@
         "dropType": "combat",
         "quantityHigh": 13,
         "quantityLow": 13,
-        "rarity": "22/128",
+        "rarity": "21/128",
         "source": "Banshee"
       },
       {
@@ -214276,17 +214576,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "Unknown",
+        "quantityHigh": 6,
+        "quantityLow": 4,
+        "rarity": "2/155",
         "source": "Large port reward bag#Port Piscarilius"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "Unknown",
+        "quantityHigh": 6,
+        "quantityLow": 4,
+        "rarity": "2/160",
         "source": "Medium port reward bag#Port Piscarilius"
       },
       {
@@ -214308,16 +214608,16 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "Unknown",
+        "quantityHigh": 6,
+        "quantityLow": 4,
+        "rarity": "2/168",
         "source": "Small port reward bag#Port Piscarilius"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 5,
-        "quantityLow": 5,
+        "quantityHigh": 4,
+        "quantityLow": 4,
         "rarity": "1/96",
         "source": "Tiny port reward bag#Port Piscarilius"
       }
@@ -214400,9 +214700,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 15,
+        "quantityHigh": 18,
         "quantityLow": 15,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Catherby"
       },
       {
@@ -215552,8 +215852,16 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 15,
-        "quantityLow": 15,
+        "quantityHigh": 18,
+        "quantityLow": 12,
+        "rarity": "1/168",
+        "source": "Small port reward bag#Catherby"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 18,
+        "quantityLow": 12,
         "rarity": "1/96",
         "source": "Tiny port reward bag#Catherby"
       }
@@ -216320,9 +216628,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 15,
-        "quantityLow": 15,
-        "rarity": "Unknown",
+        "quantityHigh": 18,
+        "quantityLow": 12,
+        "rarity": "2/160",
         "source": "Medium port reward bag#Catherby"
       },
       {
@@ -216646,7 +216954,7 @@
         "dropType": "reward",
         "quantityHigh": 10,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "2/160",
         "source": "Medium port reward bag#Port Khazard"
       },
       {
@@ -216661,8 +216969,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 10,
-        "quantityLow": 10,
-        "rarity": "Unknown",
+        "quantityLow": 5,
+        "rarity": "1/168",
         "source": "Small port reward bag#Port Khazard"
       },
       {
@@ -216692,9 +217000,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
-        "quantityLow": 10,
-        "rarity": "1/96",
+        "quantityHigh": 6,
+        "quantityLow": 4,
+        "rarity": "1/192",
         "source": "Tiny port reward bag#Port Khazard"
       }
     ],
@@ -216810,7 +217118,7 @@
         "dropType": "reward",
         "quantityHigh": 10,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Piscatoris"
       },
       {
@@ -216840,9 +217148,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
-        "quantityLow": 10,
-        "rarity": "Unknown",
+        "quantityHigh": 12,
+        "quantityLow": 8,
+        "rarity": "2/160",
         "source": "Medium port reward bag#Piscatoris"
       },
       {
@@ -217836,6 +218144,22 @@
         "quantityLow": 1,
         "rarity": "4/128",
         "source": "Shellbane gryphon"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 5,
+        "rarity": "1/168",
+        "source": "Small port reward bag#Port Khazard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 6,
+        "quantityLow": 4,
+        "rarity": "1/192",
+        "source": "Tiny port reward bag#Port Khazard"
       },
       {
         "dropLevel": "211",
@@ -219112,9 +219436,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 15,
-        "quantityLow": 15,
-        "rarity": "Unknown",
+        "quantityHigh": 18,
+        "quantityLow": 12,
+        "rarity": "1/168",
         "source": "Small port reward bag#Catherby"
       },
       {
@@ -224289,7 +224613,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/480",
+        "rarity": "1/768",
         "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
@@ -225680,8 +226004,16 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 60,
-        "quantityLow": 49,
-        "rarity": "Unknown",
+        "quantityLow": 40,
+        "rarity": "9/225",
+        "source": "Huge port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "5.5/155",
         "source": "Large port reward bag"
       },
       {
@@ -229695,9 +230027,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 26,
-        "quantityLow": 22,
-        "rarity": "Unknown",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "9/225",
+        "source": "Huge port reward bag"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 30,
+        "quantityLow": 20,
+        "rarity": "5.5/155",
         "source": "Large port reward bag"
       },
       {
@@ -232899,6 +233239,14 @@
         "source": "Grotesque Guardians"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 5,
+        "rarity": "5/225",
+        "source": "Huge port reward bag"
+      },
+      {
         "dropLevel": "333",
         "dropType": "combat",
         "quantityHigh": 3,
@@ -232925,9 +233273,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 17,
-        "quantityLow": 7,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "2/155",
         "source": "Large port reward bag"
       },
       {
@@ -233731,17 +234079,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 7,
-        "quantityLow": 7,
-        "rarity": "Unknown",
+        "quantityHigh": 10,
+        "quantityLow": 5,
+        "rarity": "8/225",
         "source": "Huge port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 11,
-        "quantityLow": 11,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "3/155",
         "source": "Large port reward bag"
       },
       {
@@ -234339,7 +234687,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "0.5/160",
         "source": "Medium port reward bag#The Pandemonium"
       },
       {
@@ -234347,7 +234695,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "0.5/168",
         "source": "Small port reward bag#The Pandemonium"
       },
       {
@@ -234355,7 +234703,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/480",
+        "rarity": "1/768",
         "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
@@ -236460,17 +236808,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 15,
-        "quantityLow": 11,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "13/225",
         "source": "Huge port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 18,
-        "quantityLow": 13,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "8/155",
         "source": "Large port reward bag"
       }
     ],
@@ -236482,9 +236830,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 17,
+        "quantityHigh": 20,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "13/225",
         "source": "Huge port reward bag"
       }
     ],
@@ -236496,17 +236844,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 19,
-        "quantityLow": 11,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "8/155",
         "source": "Large port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 20,
-        "quantityLow": 14,
-        "rarity": "Unknown",
+        "quantityLow": 10,
+        "rarity": "8/160",
         "source": "Medium port reward bag"
       }
     ],
@@ -236542,9 +236890,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 15,
-        "quantityLow": 15,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "8/168",
         "source": "Small port reward bag"
       },
       {
@@ -236573,16 +236921,16 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 20,
-        "quantityLow": 19,
-        "rarity": "Unknown",
+        "quantityLow": 10,
+        "rarity": "8/160",
         "source": "Medium port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 16,
-        "quantityLow": 16,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "8/168",
         "source": "Small port reward bag"
       }
     ],
@@ -236610,7 +236958,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 28,
+        "quantityHigh": 20,
         "quantityLow": 10,
         "rarity": "4/96",
         "source": "Tiny port reward bag"
@@ -241412,6 +241760,14 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Fishing tutor"
+      },
+      {
         "dropLevel": "20",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -241479,14 +241835,6 @@
   },
   {
     "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Bounty tasks"
-      },
       {
         "dropLevel": "",
         "dropType": "sailing",
@@ -245544,7 +245892,7 @@
         "dropType": "combat",
         "quantityHigh": 4,
         "quantityLow": 4,
-        "rarity": "1/140",
+        "rarity": "1/139",
         "source": "Killerwatt"
       },
       {
@@ -247074,9 +247422,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
-        "quantityLow": 10,
-        "rarity": "Unknown",
+        "quantityHigh": 12,
+        "quantityLow": 8,
+        "rarity": "2/160",
         "source": "Medium port reward bag#Ruins of Unkah"
       },
       {
@@ -247090,16 +247438,16 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
-        "quantityLow": 10,
-        "rarity": "Unknown",
+        "quantityHigh": 12,
+        "quantityLow": 8,
+        "rarity": "2/168",
         "source": "Small port reward bag#Ruins of Unkah"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
-        "quantityLow": 10,
+        "quantityHigh": 11,
+        "quantityLow": 8,
         "rarity": "1/96",
         "source": "Tiny port reward bag#Ruins of Unkah"
       }
@@ -247704,7 +248052,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/140",
+        "rarity": "2/139",
         "source": "Killerwatt"
       },
       {
@@ -248036,7 +248384,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/140",
+        "rarity": "2/139",
         "source": "Killerwatt"
       },
       {
@@ -249796,7 +250144,7 @@
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "2/140",
+        "rarity": "2/139",
         "source": "Killerwatt"
       },
       {
@@ -251999,9 +252347,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 12,
-        "quantityLow": 12,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "6/160",
         "source": "Medium port reward bag"
       },
       {
@@ -252135,9 +252483,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 15,
-        "quantityLow": 12,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "6/168",
         "source": "Small port reward bag"
       },
       {
@@ -252712,7 +253060,7 @@
         "dropType": "reward",
         "quantityHigh": 25,
         "quantityLow": 25,
-        "rarity": "Unknown",
+        "rarity": "3/225",
         "source": "Huge port reward bag#Port Roberts"
       },
       {
@@ -252728,15 +253076,15 @@
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
-        "rarity": "2/140",
+        "rarity": "2/139",
         "source": "Killerwatt"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
+        "quantityHigh": 52,
         "quantityLow": 25,
-        "rarity": "Unknown",
+        "rarity": "2/465",
         "source": "Large port reward bag#Port Roberts"
       },
       {
@@ -252759,16 +253107,16 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 60,
-        "quantityLow": 43,
-        "rarity": "Unknown",
+        "quantityLow": 40,
+        "rarity": "8/160",
         "source": "Medium port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
+        "quantityHigh": 40,
         "quantityLow": 25,
-        "rarity": "Unknown",
+        "rarity": "1/160",
         "source": "Medium port reward bag#Port Roberts"
       },
       {
@@ -252862,17 +253210,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 53,
-        "quantityLow": 53,
-        "rarity": "Unknown",
+        "quantityHigh": 60,
+        "quantityLow": 40,
+        "rarity": "8/168",
         "source": "Small port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
-        "quantityLow": 25,
-        "rarity": "Unknown",
+        "quantityHigh": 40,
+        "quantityLow": 30,
+        "rarity": "1/168",
         "source": "Small port reward bag#Port Roberts"
       },
       {
@@ -253642,6 +253990,14 @@
         "quantityLow": 1,
         "rarity": "4/128",
         "source": "Lesser demon#Regular"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/480",
+        "source": "Medium port reward bag#Void Knights' Outpost"
       },
       {
         "dropLevel": "62",
@@ -255368,8 +255724,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 30,
-        "quantityLow": 29,
-        "rarity": "Unknown",
+        "quantityLow": 20,
+        "rarity": "8/160",
         "source": "Medium port reward bag"
       },
       {
@@ -255424,8 +255780,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 30,
-        "quantityLow": 22,
-        "rarity": "Unknown",
+        "quantityLow": 20,
+        "rarity": "8/168",
         "source": "Small port reward bag"
       },
       {
@@ -255693,7 +256049,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "3/225",
         "source": "Huge port reward bag#Void Knights' Outpost"
       },
       {
@@ -255749,7 +256105,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "2/465",
         "source": "Large port reward bag#Void Knights' Outpost"
       },
       {
@@ -255765,7 +256121,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "2/480",
         "source": "Medium port reward bag#Void Knights' Outpost"
       },
       {
@@ -255837,7 +256193,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "1/168",
         "source": "Small port reward bag#Void Knights' Outpost"
       },
       {
@@ -255961,6 +256317,14 @@
         "quantityLow": 1,
         "rarity": "4/128",
         "source": "Green dragon#Regular"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/480",
+        "source": "Medium port reward bag#Void Knights' Outpost"
       },
       {
         "dropLevel": "",
@@ -256337,7 +256701,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Corsair Cove"
       },
       {
@@ -256377,7 +256741,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "2/160",
         "source": "Medium port reward bag#Corsair Cove"
       },
       {
@@ -256449,7 +256813,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "2/504",
         "source": "Small port reward bag#Corsair Cove"
       },
       {
@@ -261540,7 +261904,7 @@
         "dropType": "reward",
         "quantityHigh": 25,
         "quantityLow": 25,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Hosidius"
       },
       {
@@ -264672,9 +265036,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "Unknown",
+        "quantityHigh": 29,
+        "quantityLow": 20,
+        "rarity": "1.5/225",
         "source": "Huge port reward bag#Etceteria"
       },
       {
@@ -264728,9 +265092,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 5,
+        "quantityHigh": 24,
         "quantityLow": 5,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Etceteria"
       },
       {
@@ -264768,9 +265132,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 5,
+        "quantityHigh": 17,
         "quantityLow": 5,
-        "rarity": "Unknown",
+        "rarity": "2/160",
         "source": "Medium port reward bag#Etceteria"
       },
       {
@@ -264784,9 +265148,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 5,
+        "quantityHigh": 12,
         "quantityLow": 5,
-        "rarity": "Unknown",
+        "rarity": "2/168",
         "source": "Small port reward bag#Etceteria"
       },
       {
@@ -264934,9 +265298,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 18,
-        "quantityLow": 13,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "8/155",
         "source": "Large port reward bag"
       },
       {
@@ -264950,9 +265314,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 17,
-        "quantityLow": 17,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "8/160",
         "source": "Medium port reward bag"
       },
       {
@@ -264982,9 +265346,9 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 11,
-        "quantityLow": 11,
-        "rarity": "Unknown",
+        "quantityHigh": 20,
+        "quantityLow": 10,
+        "rarity": "8/168",
         "source": "Small port reward bag"
       },
       {
@@ -265014,7 +265378,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 35,
+        "quantityHigh": 20,
         "quantityLow": 10,
         "rarity": "3/96",
         "source": "Tiny port reward bag"
@@ -265036,17 +265400,17 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
-        "quantityLow": 7,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "6/155",
         "source": "Large port reward bag"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 14,
-        "quantityLow": 7,
-        "rarity": "Unknown",
+        "quantityHigh": 15,
+        "quantityLow": 5,
+        "rarity": "6/160",
         "source": "Medium port reward bag"
       },
       {
@@ -265061,8 +265425,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 15,
-        "quantityLow": 7,
-        "rarity": "Unknown",
+        "quantityLow": 5,
+        "rarity": "6/168",
         "source": "Small port reward bag"
       },
       {
@@ -265697,7 +266061,7 @@
         "dropLevel": "62",
         "dropType": "agility",
         "quantityHigh": 21,
-        "quantityLow": 11,
+        "quantityLow": 16,
         "rarity": "Always",
         "source": "Termites (NPC)#Advanced"
       },
@@ -266833,7 +267197,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 52,
+        "quantityHigh": 20,
         "quantityLow": 10,
         "rarity": "4/96",
         "source": "Tiny port reward bag"
@@ -267330,6 +267694,14 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
+        "source": "Woodsman tutor"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
         "source": "Workbench (Trouble Brewing, tools)"
       },
       {
@@ -267394,14 +267766,6 @@
   },
   {
     "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "sailing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Bounty tasks"
-      },
       {
         "dropLevel": "",
         "dropType": "sailing",
@@ -271955,6 +272319,62 @@
     "dropSources": [
       {
         "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 25,
+        "quantityLow": 25,
+        "rarity": "Always",
+        "source": "Ranged combat tutor"
+      }
+    ],
+    "group": "Training arrows",
+    "name": "Training arrows"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Ranged combat tutor"
+      }
+    ],
+    "group": "Training bow",
+    "name": "Training bow"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Melee combat tutor"
+      }
+    ],
+    "group": "Training shield",
+    "name": "Training shield"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Melee combat tutor"
+      }
+    ],
+    "group": "Training sword",
+    "name": "Training sword"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -274763,8 +275183,8 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "Unknown",
+        "quantityLow": 4,
+        "rarity": "3/225",
         "source": "Huge port reward bag#Red Rock"
       },
       {
@@ -274866,7 +275286,7 @@
         "dropType": "reward",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "Unknown",
+        "rarity": "3/225",
         "source": "Huge port reward bag#The Summer Shore"
       },
       {
@@ -279953,7 +280373,7 @@
         "dropType": "reward",
         "quantityHigh": 10,
         "quantityLow": 10,
-        "rarity": "Unknown",
+        "rarity": "2/168",
         "source": "Small port reward bag#Cairn Isle"
       },
       {
@@ -279999,8 +280419,8 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 10,
-        "quantityLow": 10,
+        "quantityHigh": -1,
+        "quantityLow": -1,
         "rarity": "1/96",
         "source": "Tiny port reward bag#Cairn Isle"
       },
@@ -281684,7 +282104,7 @@
         "dropType": "reward",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "Unknown",
+        "rarity": "2/155",
         "source": "Large port reward bag#Civitas illa Fortis"
       },
       {
@@ -281692,7 +282112,7 @@
         "dropType": "reward",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "Unknown",
+        "rarity": "2/160",
         "source": "Medium port reward bag#Civitas illa Fortis"
       },
       {
@@ -281700,7 +282120,7 @@
         "dropType": "reward",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "Unknown",
+        "rarity": "2/168",
         "source": "Small port reward bag#Civitas illa Fortis"
       }
     ],
@@ -283632,7 +284052,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "13/128",
+        "rarity": "3/128",
         "source": "Cave crawler"
       },
       {
@@ -284451,7 +284871,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "0.5/160",
         "source": "Medium port reward bag#The Pandemonium"
       },
       {
@@ -284459,7 +284879,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "0.5/168",
         "source": "Small port reward bag#The Pandemonium"
       },
       {
@@ -284467,7 +284887,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/480",
+        "rarity": "1/768",
         "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
@@ -284946,6 +285366,22 @@
         "quantityLow": 1,
         "rarity": "8/2,670",
         "source": "Fremennik salvage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "0.6/225",
+        "source": "Huge port reward bag#Rellekka"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "0.4/155",
+        "source": "Large port reward bag#Rellekka"
       }
     ],
     "group": "Warrior helm",
@@ -288420,14 +288856,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "24",
-        "dropType": "combat",
-        "quantityHigh": 2,
-        "quantityLow": 2,
-        "rarity": "13/128",
-        "source": "Desert Lizard"
-      },
-      {
         "dropLevel": "42",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -288880,6 +289308,14 @@
         "quantityLow": 1,
         "rarity": "1/10",
         "source": "Drink troll"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/768",
+        "source": "Tiny port reward bag#The Pandemonium"
       }
     ],
     "group": "Whisky",
@@ -293126,7 +293562,7 @@
         "dropType": "reward",
         "quantityHigh": 15,
         "quantityLow": 15,
-        "rarity": "Unknown",
+        "rarity": "2/160",
         "source": "Medium port reward bag#Neitiznot"
       },
       {
@@ -296448,23 +296884,23 @@
         "dropType": "reward",
         "quantityHigh": 25,
         "quantityLow": 25,
-        "rarity": "Unknown",
+        "rarity": "3/225",
         "source": "Huge port reward bag#Port Tyras"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 25,
-        "quantityLow": 25,
-        "rarity": "Unknown",
+        "quantityLow": 23,
+        "rarity": "2/155",
         "source": "Large port reward bag#Port Tyras"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 25,
-        "quantityLow": 25,
-        "rarity": "Unknown",
+        "quantityHigh": 29,
+        "quantityLow": 22,
+        "rarity": "2/160",
         "source": "Medium port reward bag#Port Tyras"
       },
       {
