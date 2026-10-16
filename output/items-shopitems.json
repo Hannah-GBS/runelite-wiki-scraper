@@ -18406,36 +18406,6 @@
     "sellMultiplier": "1300"
   },
   {
-    "buyMultiplier": "400",
-    "coords": "1669,3121",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bird snare",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Box trap",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pestle and mortar",
-        "stock": "10",
-        "version": null
-      }
-    ],
-    "location": "Civitas illa Fortis",
-    "mapID": "0",
-    "name": "Fortis General Store Demonic Pacts League",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
     "buyMultiplier": "500",
     "coords": "1677,3114",
     "isMembers": true,
@@ -32106,36 +32076,6 @@
     "location": "Outer Fortis",
     "mapID": "0",
     "name": "Outer Fortis General Store",
-    "plane": "0",
-    "sellMultiplier": "1300"
-  },
-  {
-    "buyMultiplier": "400",
-    "coords": "1720,3060",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bird snare",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Box trap",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Pestle and mortar",
-        "stock": "10",
-        "version": null
-      }
-    ],
-    "location": "Outer Fortis",
-    "mapID": "0",
-    "name": "Outer Fortis General Store Demonic Pacts League",
     "plane": "0",
     "sellMultiplier": "1300"
   },
