@@ -8289,6 +8289,14 @@
         "source": "Chest (Ardougne Castle)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 72,
+        "quantityLow": 60,
+        "rarity": "6/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
         "dropLevel": "785",
         "dropType": "combat",
         "quantityHigh": 125,
@@ -8795,6 +8803,14 @@
         "source": "Abyssal Sire"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 191,
+        "quantityLow": 180,
+        "rarity": "6/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
         "dropLevel": "558,608,658,708,758,808,858,908",
         "dropType": "combat",
         "quantityHigh": 400,
@@ -8880,7 +8896,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "4/62",
+        "rarity": "6/93",
         "source": "Adept potion pack"
       },
       {
@@ -8888,7 +8904,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "4/85",
+        "rarity": "5/90",
         "source": "Apprentice potion pack"
       }
     ],
@@ -11710,16 +11726,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/60",
-        "source": "Ancient chest"
+        "rarity": "4/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/56",
-        "source": "Ancient chest"
+        "rarity": "4/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Ancestral hat",
@@ -11732,16 +11748,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/60",
-        "source": "Ancient chest"
+        "rarity": "4/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/56",
-        "source": "Ancient chest"
+        "rarity": "4/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Ancestral robe bottom",
@@ -11754,16 +11770,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/60",
-        "source": "Ancient chest"
+        "rarity": "4/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/56",
-        "source": "Ancient chest"
+        "rarity": "4/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Ancestral robe top",
@@ -11993,7 +12009,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "3/83",
+        "rarity": "3/79",
         "source": "Expert potion pack"
       },
       {
@@ -15455,7 +15471,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "6/62",
+        "rarity": "9/93",
         "source": "Adept potion pack"
       }
     ],
@@ -15539,7 +15555,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "7/62",
+        "rarity": "11/93",
         "source": "Adept potion pack"
       },
       {
@@ -15547,7 +15563,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "6/85",
+        "rarity": "7/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -15977,16 +15993,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "14/60",
-        "source": "Ancient chest"
+        "rarity": "12/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "12/56",
-        "source": "Ancient chest"
+        "rarity": "14/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Arcane prayer scroll",
@@ -16481,6 +16497,21 @@
     ],
     "group": "Archers ring",
     "name": "Archers ring"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/16",
+        "source": "Chest (The Fractured Archive)#Standard"
+      }
+    ],
+    "group": "Archivist's folio",
+    "name": "Archivist's folio (inert)",
+    "version": "Inert"
   },
   {
     "dropSources": [
@@ -17306,6 +17337,50 @@
     "dropSources": [
       {
         "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/15",
+        "source": "Chest (The Fractured Archive)#Unique"
+      }
+    ],
+    "group": "Ascension crossbows",
+    "name": "Ascension crossbows"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "80",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Common",
+        "source": "Ascension rocks"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 82,
+        "quantityLow": 75,
+        "rarity": "55/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 2,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Sprite"
+      }
+    ],
+    "group": "Ascension shards",
+    "name": "Ascension shards"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -17855,6 +17930,14 @@
         "source": "Blood Reaver"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 385,
+        "quantityLow": 301,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
         "dropLevel": "80",
         "dropType": "sailing",
         "quantityHigh": 3,
@@ -18002,7 +18085,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "11/85",
+        "rarity": "11/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -21553,6 +21636,14 @@
         "quantityLow": 3,
         "rarity": "3/118",
         "source": "Chest (Bryophyta's lair)#Members"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 37,
+        "quantityLow": 34,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "",
@@ -35375,6 +35466,14 @@
         "quantityLow": 2,
         "rarity": "3/128",
         "source": "Chest (Rogues' Castle, inside)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 385,
+        "quantityLow": 301,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "",
@@ -50064,6 +50163,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chest (The Fractured Archive)#Junk"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 28,
         "quantityLow": 28,
         "rarity": "1/107",
@@ -57627,6 +57734,20 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Observatory professor"
+      }
+    ],
+    "group": "Chart",
+    "name": "Chart"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 18,
         "quantityLow": 15,
         "rarity": "1/15",
@@ -63427,6 +63548,14 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "1/12",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "Varies",
         "source": "Chest (Tombs of Amascut)"
       },
@@ -67459,14 +67588,6 @@
         "source": "Liliya"
       },
       {
-        "dropLevel": "42",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "13/128",
-        "source": "Lizard"
-      },
-      {
         "dropLevel": "150",
         "dropType": "combat",
         "quantityHigh": 25,
@@ -67825,14 +67946,6 @@
         "quantityLow": 1,
         "rarity": "15/80",
         "source": "Shop Counter (ore)"
-      },
-      {
-        "dropLevel": "12",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "13/128",
-        "source": "Small Lizard"
       },
       {
         "dropLevel": "",
@@ -68487,14 +68600,6 @@
       {
         "dropLevel": "30,32,34,37",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
-        "source": "Afflicted"
-      },
-      {
-        "dropLevel": "30,32,34,37",
-        "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
         "rarity": "4/128",
@@ -68546,14 +68651,6 @@
         "quantityHigh": 10,
         "quantityLow": 10,
         "rarity": "23/128",
-        "source": "Al Kharid warrior"
-      },
-      {
-        "dropLevel": "9",
-        "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
         "source": "Al Kharid warrior"
       },
       {
@@ -68730,14 +68827,6 @@
         "quantityHigh": 10,
         "quantityLow": 10,
         "rarity": "23/128",
-        "source": "Anja"
-      },
-      {
-        "dropLevel": "2",
-        "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
         "source": "Anja"
       },
       {
@@ -70335,14 +70424,6 @@
       {
         "dropLevel": "5",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
-        "source": "Breoca"
-      },
-      {
-        "dropLevel": "5",
-        "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
         "rarity": "4/128",
@@ -70983,14 +71064,6 @@
       {
         "dropLevel": "4",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
-        "source": "Ceolburg"
-      },
-      {
-        "dropLevel": "4",
-        "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
         "rarity": "4/128",
@@ -71179,22 +71252,6 @@
         "quantityLow": 15,
         "rarity": "2/128",
         "source": "Chaos dwarf"
-      },
-      {
-        "dropLevel": "68",
-        "dropType": "combat",
-        "quantityHigh": 3,
-        "quantityLow": 3,
-        "rarity": "5/128",
-        "source": "Chasm Crawler"
-      },
-      {
-        "dropLevel": "68",
-        "dropType": "combat",
-        "quantityHigh": 8,
-        "quantityLow": 8,
-        "rarity": "3/128",
-        "source": "Chasm Crawler"
       },
       {
         "dropLevel": "68",
@@ -71527,14 +71584,6 @@
       {
         "dropLevel": "89",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "12/128",
-        "source": "Cockathrice"
-      },
-      {
-        "dropLevel": "89",
-        "dropType": "combat",
         "quantityHigh": 28,
         "quantityLow": 28,
         "rarity": "12/128",
@@ -71546,22 +71595,6 @@
         "quantityHigh": 62,
         "quantityLow": 62,
         "rarity": "4/128",
-        "source": "Cockathrice"
-      },
-      {
-        "dropLevel": "89",
-        "dropType": "combat",
-        "quantityHigh": 42,
-        "quantityLow": 42,
-        "rarity": "3/128",
-        "source": "Cockathrice"
-      },
-      {
-        "dropLevel": "89",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/128",
         "source": "Cockathrice"
       },
       {
@@ -71575,14 +71608,6 @@
       {
         "dropLevel": "37",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "12/128",
-        "source": "Cockatrice"
-      },
-      {
-        "dropLevel": "37",
-        "dropType": "combat",
         "quantityHigh": 28,
         "quantityLow": 28,
         "rarity": "12/128",
@@ -71594,22 +71619,6 @@
         "quantityHigh": 62,
         "quantityLow": 62,
         "rarity": "4/128",
-        "source": "Cockatrice"
-      },
-      {
-        "dropLevel": "37",
-        "dropType": "combat",
-        "quantityHigh": 42,
-        "quantityLow": 42,
-        "rarity": "3/128",
-        "source": "Cockatrice"
-      },
-      {
-        "dropLevel": "37",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/128",
         "source": "Cockatrice"
       },
       {
@@ -71735,17 +71744,9 @@
       {
         "dropLevel": "45",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "21/128",
-        "source": "Crushing hand"
-      },
-      {
-        "dropLevel": "45",
-        "dropType": "combat",
         "quantityHigh": 8,
         "quantityLow": 8,
-        "rarity": "23/128",
+        "rarity": "24/128",
         "source": "Crushing hand"
       },
       {
@@ -71786,14 +71787,6 @@
         "quantityHigh": 10,
         "quantityLow": 10,
         "rarity": "23/128",
-        "source": "Cuffs"
-      },
-      {
-        "dropLevel": "3",
-        "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
         "source": "Cuffs"
       },
       {
@@ -72247,25 +72240,9 @@
       {
         "dropLevel": "20,22,23",
         "dropType": "combat",
-        "quantityHigh": 2,
-        "quantityLow": 2,
-        "rarity": "16/128",
-        "source": "Dark wizard#High level"
-      },
-      {
-        "dropLevel": "20,22,23",
-        "dropType": "combat",
         "quantityHigh": 4,
         "quantityLow": 4,
         "rarity": "9/128",
-        "source": "Dark wizard#High level"
-      },
-      {
-        "dropLevel": "20,22,23",
-        "dropType": "combat",
-        "quantityHigh": 29,
-        "quantityLow": 29,
-        "rarity": "3/128",
         "source": "Dark wizard#High level"
       },
       {
@@ -72287,25 +72264,9 @@
       {
         "dropLevel": "7,11",
         "dropType": "combat",
-        "quantityHigh": 2,
-        "quantityLow": 2,
-        "rarity": "16/128",
-        "source": "Dark wizard#Low level"
-      },
-      {
-        "dropLevel": "7,11",
-        "dropType": "combat",
         "quantityHigh": 4,
         "quantityLow": 4,
         "rarity": "7/128",
-        "source": "Dark wizard#Low level"
-      },
-      {
-        "dropLevel": "7,11",
-        "dropType": "combat",
-        "quantityHigh": 29,
-        "quantityLow": 29,
-        "rarity": "3/128",
         "source": "Dark wizard#Low level"
       },
       {
@@ -72466,14 +72427,6 @@
         "quantityHigh": 10,
         "quantityLow": 10,
         "rarity": "23/128",
-        "source": "Drunken man"
-      },
-      {
-        "dropLevel": "3",
-        "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
         "source": "Drunken man"
       },
       {
@@ -73050,14 +73003,6 @@
         "quantityHigh": 10,
         "quantityLow": 10,
         "rarity": "23/128",
-        "source": "Farmer#Free-to-play"
-      },
-      {
-        "dropLevel": "7",
-        "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
         "source": "Farmer#Free-to-play"
       },
       {
@@ -73855,17 +73800,9 @@
       {
         "dropLevel": "5",
         "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
+        "quantityHigh": 8,
+        "quantityLow": 8,
         "rarity": "34/128",
-        "source": "Goblin (Goblin Village)"
-      },
-      {
-        "dropLevel": "5",
-        "dropType": "combat",
-        "quantityHigh": 3,
-        "quantityLow": 3,
-        "rarity": "13/128",
         "source": "Goblin (Goblin Village)"
       },
       {
@@ -73943,17 +73880,9 @@
       {
         "dropLevel": "5,11,13,16,25",
         "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
+        "quantityHigh": 8,
+        "quantityLow": 8,
         "rarity": "34/128",
-        "source": "Goblin (Vault of War)"
-      },
-      {
-        "dropLevel": "5,11,13,16,25",
-        "dropType": "combat",
-        "quantityHigh": 3,
-        "quantityLow": 3,
-        "rarity": "13/128",
         "source": "Goblin (Vault of War)"
       },
       {
@@ -73991,25 +73920,9 @@
       {
         "dropLevel": "42",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "28/128",
-        "source": "Goblin guard"
-      },
-      {
-        "dropLevel": "42",
-        "dropType": "combat",
-        "quantityHigh": 9,
-        "quantityLow": 9,
-        "rarity": "3/128",
-        "source": "Goblin guard"
-      },
-      {
-        "dropLevel": "42",
-        "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
-        "rarity": "3/128",
+        "rarity": "28/128",
         "source": "Goblin guard"
       },
       {
@@ -74031,25 +73944,9 @@
       {
         "dropLevel": "2",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "28/128",
-        "source": "Goblin#Drop table 1"
-      },
-      {
-        "dropLevel": "2",
-        "dropType": "combat",
-        "quantityHigh": 9,
-        "quantityLow": 9,
-        "rarity": "3/128",
-        "source": "Goblin#Drop table 1"
-      },
-      {
-        "dropLevel": "2",
-        "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
-        "rarity": "3/128",
+        "rarity": "28/128",
         "source": "Goblin#Drop table 1"
       },
       {
@@ -74071,17 +73968,9 @@
       {
         "dropLevel": "2,5,13",
         "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
+        "quantityHigh": 8,
+        "quantityLow": 8,
         "rarity": "34/128",
-        "source": "Goblin#Drop table 2"
-      },
-      {
-        "dropLevel": "2,5,13",
-        "dropType": "combat",
-        "quantityHigh": 3,
-        "quantityLow": 3,
-        "rarity": "13/128",
         "source": "Goblin#Drop table 2"
       },
       {
@@ -75423,14 +75312,6 @@
       {
         "dropLevel": "2",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
-        "source": "Hengel"
-      },
-      {
-        "dropLevel": "2",
-        "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
         "rarity": "4/128",
@@ -75762,14 +75643,6 @@
         "quantityHigh": 3,
         "quantityLow": 3,
         "rarity": "38/128",
-        "source": "Hygd"
-      },
-      {
-        "dropLevel": "4",
-        "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
         "source": "Hygd"
       },
       {
@@ -76442,14 +76315,6 @@
         "quantityHigh": 10,
         "quantityLow": 10,
         "rarity": "23/128",
-        "source": "Jeff"
-      },
-      {
-        "dropLevel": "2",
-        "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
         "source": "Jeff"
       },
       {
@@ -77567,14 +77432,6 @@
       {
         "dropLevel": "2",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
-        "source": "Man"
-      },
-      {
-        "dropLevel": "2",
-        "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
         "rarity": "4/128",
@@ -77795,14 +77652,6 @@
         "quantityLow": 876,
         "rarity": "7/128",
         "source": "Mithril dragon"
-      },
-      {
-        "dropLevel": "51",
-        "dropType": "combat",
-        "quantityHigh": 75,
-        "quantityLow": 1,
-        "rarity": "10/128",
-        "source": "Molanisk"
       },
       {
         "dropLevel": "135",
@@ -78258,14 +78107,6 @@
         "quantityHigh": 10,
         "quantityLow": 10,
         "rarity": "23/128",
-        "source": "Narf"
-      },
-      {
-        "dropLevel": "2",
-        "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
         "source": "Narf"
       },
       {
@@ -78735,14 +78576,6 @@
       {
         "dropLevel": "5",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
-        "source": "Ocga"
-      },
-      {
-        "dropLevel": "5",
-        "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
         "rarity": "4/128",
@@ -79002,14 +78835,6 @@
         "quantityHigh": 3,
         "quantityLow": 3,
         "rarity": "38/128",
-        "source": "Penda"
-      },
-      {
-        "dropLevel": "5",
-        "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
         "source": "Penda"
       },
       {
@@ -79743,14 +79568,6 @@
       {
         "dropLevel": "15",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
-        "source": "Rogue#Level 15"
-      },
-      {
-        "dropLevel": "15",
-        "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
         "rarity": "4/128",
@@ -79778,14 +79595,6 @@
         "quantityHigh": 10,
         "quantityLow": 10,
         "rarity": "23/128",
-        "source": "Rusty"
-      },
-      {
-        "dropLevel": "2",
-        "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
         "source": "Rusty"
       },
       {
@@ -79979,14 +79788,6 @@
         "quantityLow": 25002,
         "rarity": "7/128",
         "source": "Scorpia"
-      },
-      {
-        "dropLevel": "70",
-        "dropType": "combat",
-        "quantityHigh": 13,
-        "quantityLow": 13,
-        "rarity": "10/128",
-        "source": "Screaming banshee"
       },
       {
         "dropLevel": "70",
@@ -82111,14 +81912,6 @@
       {
         "dropLevel": "14,16,21",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
-        "source": "Thief"
-      },
-      {
-        "dropLevel": "14,16,21",
-        "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
         "rarity": "4/128",
@@ -83471,14 +83264,6 @@
       {
         "dropLevel": "2",
         "dropType": "combat",
-        "quantityHigh": 5,
-        "quantityLow": 5,
-        "rarity": "9/128",
-        "source": "Woman"
-      },
-      {
-        "dropLevel": "2",
-        "dropType": "combat",
         "quantityHigh": 15,
         "quantityLow": 15,
         "rarity": "4/128",
@@ -84467,7 +84252,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "7/62",
+        "rarity": "11/93",
         "source": "Adept potion pack"
       },
       {
@@ -84475,7 +84260,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "4/85",
+        "rarity": "4/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -93946,7 +93731,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "7/85",
+        "rarity": "7/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -94164,6 +93949,14 @@
         "source": "Branda the Fire Queen#Take pages"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 36,
+        "quantityLow": 30,
+        "rarity": "6/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
         "dropLevel": "350",
         "dropType": "combat",
         "quantityHigh": 24,
@@ -94204,16 +93997,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "14/60",
-        "source": "Ancient chest"
+        "rarity": "12/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "12/56",
-        "source": "Ancient chest"
+        "rarity": "14/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Dexterous prayer scroll",
@@ -94322,6 +94115,14 @@
         "quantityLow": 3,
         "rarity": "3/132",
         "source": "Ancient Wyvern"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 26,
+        "quantityLow": 24,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "",
@@ -95092,16 +94893,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/60",
-        "source": "Ancient chest"
+        "rarity": "3/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/56",
-        "source": "Ancient chest"
+        "rarity": "3/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Dinh's bulwark",
@@ -95562,6 +95363,14 @@
         "quantityLow": 100,
         "rarity": "1/5",
         "source": "Chest (Ancient Vault)#Ice quartz"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 369,
+        "quantityLow": 350,
+        "rarity": "6/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "",
@@ -96520,16 +96329,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/60",
-        "source": "Ancient chest"
+        "rarity": "3/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "3/56",
-        "source": "Ancient chest"
+        "rarity": "3/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Dragon claws",
@@ -97242,16 +97051,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/60",
-        "source": "Ancient chest"
+        "rarity": "4/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/56",
-        "source": "Ancient chest"
+        "rarity": "4/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Dragon hunter crossbow",
@@ -98570,6 +98379,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 2,
         "quantityLow": 2,
         "rarity": "10/107",
@@ -98916,6 +98733,14 @@
         "quantityLow": 1,
         "rarity": "1/5",
         "source": "Chest (Ancient Vault)#Shadow quartz"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "28",
@@ -102519,6 +102344,14 @@
         "source": "Araxxor"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 75,
+        "quantityLow": 68,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
         "dropLevel": "128",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -102907,6 +102740,14 @@
         "quantityLow": 5,
         "rarity": "Once",
         "source": "Chest (Movario's base, runes)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 3551,
+        "quantityLow": 3009,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "264",
@@ -105536,16 +105377,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/60",
-        "source": "Ancient chest"
+        "rarity": "2/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/56",
-        "source": "Ancient chest"
+        "rarity": "2/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Elder maul",
@@ -105990,6 +105831,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Casket (Pirate's Treasure)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 26,
+        "quantityLow": 24,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "",
@@ -106868,29 +106717,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "2",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Common",
-        "source": "Goblin#Drop table 1"
-      },
-      {
-        "dropLevel": "2,5,13",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Common",
-        "source": "Goblin#Drop table 2"
-      }
-    ],
-    "group": "Energy potion",
-    "name": "Energy potion(1)",
-    "version": "1 dose"
-  },
-  {
-    "dropSources": [
-      {
         "dropLevel": "23",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -106903,7 +106729,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "12/128",
         "source": "Cockathrice"
       },
       {
@@ -106911,23 +106737,15 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "12/128",
         "source": "Cockatrice"
-      },
-      {
-        "dropLevel": "45",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Unknown",
-        "source": "Crushing hand"
       },
       {
         "dropLevel": "7,11",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "16/128",
         "source": "Dark wizard#Low level"
       },
       {
@@ -106939,19 +106757,27 @@
         "source": "Desert Lizard"
       },
       {
-        "dropLevel": "2",
+        "dropLevel": "5",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Common",
-        "source": "Goblin#Drop table 1"
+        "rarity": "13/128",
+        "source": "Goblin (Goblin Village)"
+      },
+      {
+        "dropLevel": "5,11,13,16,25",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "13/128",
+        "source": "Goblin (Vault of War)"
       },
       {
         "dropLevel": "2,5,13",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Common",
+        "rarity": "13/128",
         "source": "Goblin#Drop table 2"
       },
       {
@@ -106959,7 +106785,7 @@
         "dropType": "combat",
         "quantityHigh": 6,
         "quantityLow": 6,
-        "rarity": "Unknown",
+        "rarity": "13/128",
         "source": "Lizard"
       },
       {
@@ -106967,7 +106793,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "10/128",
         "source": "Screaming banshee"
       },
       {
@@ -106975,7 +106801,7 @@
         "dropType": "combat",
         "quantityHigh": 6,
         "quantityLow": 6,
-        "rarity": "Unknown",
+        "rarity": "13/128",
         "source": "Small Lizard"
       }
     ],
@@ -106990,7 +106816,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "4/62",
+        "rarity": "6/93",
         "source": "Adept potion pack"
       },
       {
@@ -106998,7 +106824,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Afflicted"
       },
       {
@@ -107006,7 +106832,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Al Kharid warrior"
       },
       {
@@ -107014,7 +106840,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Anja"
       },
       {
@@ -107022,7 +106848,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "5/85",
+        "rarity": "5/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -107030,7 +106856,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Breoca"
       },
       {
@@ -107046,7 +106872,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Ceolburg"
       },
       {
@@ -107054,7 +106880,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "13/128",
         "source": "Chasm Crawler"
       },
       {
@@ -107062,7 +106888,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Cuffs"
       },
       {
@@ -107070,16 +106896,8 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "16/128",
         "source": "Dark wizard#High level"
-      },
-      {
-        "dropLevel": "7,11",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Unknown",
-        "source": "Dark wizard#Low level"
       },
       {
         "dropLevel": "24",
@@ -107094,7 +106912,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Drunken man"
       },
       {
@@ -107110,23 +106928,23 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Farmer#Free-to-play"
       },
       {
-        "dropLevel": "",
+        "dropLevel": "42",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
-        "source": "Farmer#Members"
+        "rarity": "3/128",
+        "source": "Goblin guard"
       },
       {
         "dropLevel": "2",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "3/128",
         "source": "Goblin#Drop table 1"
       },
       {
@@ -107134,7 +106952,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Hengel"
       },
       {
@@ -107142,7 +106960,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Hygd"
       },
       {
@@ -107150,7 +106968,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Jeff"
       },
       {
@@ -107158,7 +106976,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "13/128",
         "source": "Lizard"
       },
       {
@@ -107166,7 +106984,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Common",
+        "rarity": "9/128",
         "source": "Man"
       },
       {
@@ -107174,7 +106992,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Common",
+        "rarity": "10/128",
         "source": "Molanisk"
       },
       {
@@ -107182,7 +107000,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Narf"
       },
       {
@@ -107190,7 +107008,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Ocga"
       },
       {
@@ -107206,7 +107024,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Common",
+        "rarity": "9/128",
         "source": "Penda"
       },
       {
@@ -107214,7 +107032,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Common",
+        "rarity": "9/128",
         "source": "Rogue#Level 15"
       },
       {
@@ -107222,7 +107040,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Rusty"
       },
       {
@@ -107230,7 +107048,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "13/128",
         "source": "Small Lizard"
       },
       {
@@ -107238,7 +107056,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "9/128",
         "source": "Thief"
       },
       {
@@ -107246,7 +107064,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Common",
+        "rarity": "9/128",
         "source": "Woman"
       }
     ],
@@ -107277,7 +107095,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "5/128",
         "source": "Chasm Crawler"
       },
       {
@@ -107285,7 +107103,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "4/128",
         "source": "Cockathrice"
       },
       {
@@ -107293,7 +107111,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "4/128",
         "source": "Cockatrice"
       },
       {
@@ -107309,7 +107127,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "13/128",
         "source": "Crushing hand"
       },
       {
@@ -107317,7 +107135,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "3/128",
         "source": "Dark wizard#High level"
       },
       {
@@ -107325,15 +107143,23 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Unknown",
+        "rarity": "3/128",
         "source": "Dark wizard#Low level"
+      },
+      {
+        "dropLevel": "42",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/128",
+        "source": "Goblin guard"
       },
       {
         "dropLevel": "2",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Common",
+        "rarity": "3/128",
         "source": "Goblin#Drop table 1"
       },
       {
@@ -107365,7 +107191,7 @@
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
-        "rarity": "Unknown",
+        "rarity": "21/128",
         "source": "Screaming banshee"
       }
     ],
@@ -113612,14 +113438,6 @@
       {
         "dropLevel": "70",
         "dropType": "combat",
-        "quantityHigh": 15,
-        "quantityLow": 15,
-        "rarity": "22/128",
-        "source": "Screaming banshee"
-      },
-      {
-        "dropLevel": "70",
-        "dropType": "combat",
         "quantityHigh": 7,
         "quantityLow": 7,
         "rarity": "5/128",
@@ -113866,7 +113684,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "11/85",
+        "rarity": "11/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -114727,6 +114545,62 @@
     ],
     "group": "Fractured crystal (Mourning's End Part II)",
     "name": "Fractured crystal (Mourning's End Part II)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/80",
+        "source": "Chest (The Fractured Archive)#Standard"
+      }
+    ],
+    "group": "Fragment of burning fire",
+    "name": "Fragment of burning fire"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/80",
+        "source": "Chest (The Fractured Archive)#Standard"
+      }
+    ],
+    "group": "Fragment of deep water",
+    "name": "Fragment of deep water"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/80",
+        "source": "Chest (The Fractured Archive)#Standard"
+      }
+    ],
+    "group": "Fragment of living earth",
+    "name": "Fragment of living earth"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/80",
+        "source": "Chest (The Fractured Archive)#Standard"
+      }
+    ],
+    "group": "Fragment of whispering wind",
+    "name": "Fragment of whispering wind"
   },
   {
     "dropSources": [
@@ -133398,6 +133272,14 @@
         "source": "Chest (Bryophyta's lair)#Members"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 66,
+        "quantityLow": 60,
+        "rarity": "7/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
         "dropLevel": "264",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -146639,6 +146521,14 @@
       },
       {
         "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 20,
+        "quantityLow": 18,
+        "rarity": "7/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
+        "dropLevel": "",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -152012,6 +151902,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 28,
+        "quantityLow": 24,
+        "rarity": "7/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 40,
         "quantityLow": 40,
         "rarity": "3/80",
@@ -156353,6 +156251,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/15",
+        "source": "Chest (The Fractured Archive)#Unique"
+      }
+    ],
+    "group": "Horn of Bran",
+    "name": "Horn of Bran"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "209",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -156648,7 +156560,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "4/62",
+        "rarity": "6/93",
         "source": "Adept potion pack"
       },
       {
@@ -156656,7 +156568,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "2/85",
+        "rarity": "2/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -156664,7 +156576,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "6/83",
+        "rarity": "6/79",
         "source": "Expert potion pack"
       }
     ],
@@ -161772,6 +161684,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 915,
+        "quantityLow": 851,
+        "rarity": "6/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 5,
         "quantityLow": 5,
         "rarity": "Always",
@@ -165420,6 +165340,14 @@
         "source": "Market stall (wine)"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Observatory assistant"
+      },
+      {
         "dropLevel": "87",
         "dropType": "sailing",
         "quantityHigh": 1,
@@ -167131,16 +167059,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/60",
-        "source": "Ancient chest"
+        "rarity": "2/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/56",
-        "source": "Ancient chest"
+        "rarity": "2/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Kodai insignia",
@@ -167641,6 +167569,14 @@
         "quantityLow": 1,
         "rarity": "1/2,290.1",
         "source": "Chest (Bryophyta's lair)#Members"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 8,
+        "quantityLow": 7,
+        "rarity": "7/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "83",
@@ -180175,7 +180111,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "11/83",
+        "rarity": "10/79",
         "source": "Expert potion pack"
       }
     ],
@@ -181058,6 +180994,14 @@
         "quantityLow": 2,
         "rarity": "3/128",
         "source": "Cave horror"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 152,
+        "quantityLow": 140,
+        "rarity": "6/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "",
@@ -197959,7 +197903,7 @@
       {
         "dropLevel": "68",
         "dropType": "combat",
-        "quantityHigh": 4,
+        "quantityHigh": 3,
         "quantityLow": 3,
         "rarity": "6/128",
         "source": "Chasm Crawler"
@@ -198011,6 +197955,14 @@
         "quantityLow": 2,
         "rarity": "4/128",
         "source": "Chest (Rogues' Castle, inside)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 385,
+        "quantityLow": 301,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "",
@@ -201454,6 +201406,21 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/15",
+        "source": "Chest (The Fractured Archive)#Unique"
+      }
+    ],
+    "group": "Obligator",
+    "name": "Obligator (uncharged)",
+    "version": "Uncharged"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "149",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -202884,6 +202851,14 @@
         "quantityLow": 10,
         "rarity": "4/132",
         "source": "Ancient Wyvern"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 58,
+        "quantityLow": 50,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "309",
@@ -210884,7 +210859,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "2/62",
+        "rarity": "3/93",
         "source": "Adept potion pack"
       },
       {
@@ -210900,7 +210875,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "1/85",
+        "rarity": "1/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -210932,7 +210907,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "3/83",
+        "rarity": "3/79",
         "source": "Expert potion pack"
       },
       {
@@ -211225,7 +211200,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "2/62",
+        "rarity": "3/93",
         "source": "Adept potion pack"
       },
       {
@@ -211233,7 +211208,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "4/83",
+        "rarity": "3/79",
         "source": "Expert potion pack"
       }
     ],
@@ -211668,6 +211643,14 @@
         "quantityLow": 250,
         "rarity": "2/128",
         "source": "Chaos Fanatic"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1632,
+        "quantityLow": 1404,
+        "rarity": "6/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "785",
@@ -214224,7 +214207,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "6/83",
+        "rarity": "6/79",
         "source": "Expert potion pack"
       },
       {
@@ -218290,6 +218273,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 92,
+        "quantityLow": 80,
+        "rarity": "6/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 205,
         "quantityLow": 4,
         "rarity": "1/27",
@@ -221185,7 +221176,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "8/62",
+        "rarity": "11/93",
         "source": "Adept potion pack"
       },
       {
@@ -221193,7 +221184,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "10/85",
+        "rarity": "11/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -223371,6 +223362,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "5/15",
+        "source": "Chest (The Fractured Archive)#Unique"
+      }
+    ],
+    "group": "Rondache",
+    "name": "Rondache"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "35",
         "dropType": "sailing",
         "quantityHigh": 1,
@@ -223930,6 +223935,14 @@
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 27,
+        "quantityLow": 23,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
       {
         "dropLevel": "",
         "dropType": "reward",
@@ -228350,6 +228363,14 @@
         "quantityLow": 1,
         "rarity": "3/118",
         "source": "Chest (Obor's lair)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 7,
+        "quantityLow": 5,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "112",
@@ -233997,6 +234018,14 @@
         "source": "Chest (Ancient Vault)#Shadow quartz"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 26,
+        "quantityLow": 25,
+        "rarity": "6/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
         "dropLevel": "785",
         "dropType": "combat",
         "quantityHigh": 20,
@@ -235295,6 +235324,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 27,
+        "quantityLow": 24,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 256,
         "quantityLow": 5,
         "rarity": "1/27",
@@ -236114,7 +236151,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "2/83",
+        "rarity": "2/79",
         "source": "Expert potion pack"
       },
       {
@@ -237987,6 +238024,20 @@
     ],
     "group": "Serpentine visage",
     "name": "Serpentine visage"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Murphy"
+      }
+    ],
+    "group": "Sextant",
+    "name": "Sextant"
   },
   {
     "dropSources": [
@@ -242856,6 +242907,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 4,
+        "quantityLow": 3,
+        "rarity": "7/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 23,
         "quantityLow": 1,
         "rarity": "1/27",
@@ -244602,6 +244661,14 @@
         "source": "Chest (Bryophyta's lair)#Members"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 8,
+        "quantityLow": 7,
+        "rarity": "7/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
         "dropLevel": "83",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -246190,6 +246257,14 @@
         "quantityLow": 500,
         "rarity": "1/5",
         "source": "Chest (Ancient Vault)#Shadow quartz"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 380,
+        "quantityLow": 301,
+        "rarity": "11/330",
+        "source": "Chest (The Fractured Archive)#Standard"
       },
       {
         "dropLevel": "",
@@ -259400,7 +259475,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "10/85",
+        "rarity": "11/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -260636,7 +260711,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "6/62",
+        "rarity": "9/93",
         "source": "Adept potion pack"
       },
       {
@@ -260644,7 +260719,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "6/85",
+        "rarity": "7/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -260668,7 +260743,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "10/83",
+        "rarity": "10/79",
         "source": "Expert potion pack"
       },
       {
@@ -261059,7 +261134,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "2/62",
+        "rarity": "3/93",
         "source": "Adept potion pack"
       },
       {
@@ -261075,7 +261150,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "6/83",
+        "rarity": "6/79",
         "source": "Expert potion pack"
       },
       {
@@ -261145,7 +261220,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "2/62",
+        "rarity": "3/93",
         "source": "Adept potion pack"
       },
       {
@@ -261153,7 +261228,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "4/83",
+        "rarity": "4/79",
         "source": "Expert potion pack"
       }
     ],
@@ -261252,7 +261327,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "2/83",
+        "rarity": "2/79",
         "source": "Expert potion pack"
       },
       {
@@ -261590,7 +261665,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "2/62",
+        "rarity": "3/93",
         "source": "Adept potion pack"
       },
       {
@@ -261598,7 +261673,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "3/85",
+        "rarity": "3/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -261614,7 +261689,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "6/83",
+        "rarity": "6/79",
         "source": "Expert potion pack"
       },
       {
@@ -261747,7 +261822,7 @@
         "dropType": "reward",
         "quantityHigh": 3,
         "quantityLow": 2,
-        "rarity": "6/62",
+        "rarity": "9/93",
         "source": "Adept potion pack"
       },
       {
@@ -261755,7 +261830,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "5/85",
+        "rarity": "5/90",
         "source": "Apprentice potion pack"
       },
       {
@@ -261763,7 +261838,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "11/83",
+        "rarity": "10/79",
         "source": "Expert potion pack"
       },
       {
@@ -274984,16 +275059,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/60",
-        "source": "Ancient chest"
+        "rarity": "2/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "2/56",
-        "source": "Ancient chest"
+        "rarity": "2/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Twisted bow",
@@ -275006,16 +275081,16 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/60",
-        "source": "Ancient chest"
+        "rarity": "4/56",
+        "source": "Ancient chest#Challenge Mode"
       },
       {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "4/56",
-        "source": "Ancient chest"
+        "rarity": "4/60",
+        "source": "Ancient chest#Normal Mode"
       }
     ],
     "group": "Twisted buckler",
@@ -275535,6 +275610,14 @@
         "quantityLow": 7,
         "rarity": "3/128",
         "source": "Artio"
+      },
+      {
+        "dropLevel": "80",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Rare",
+        "source": "Ascension rocks"
       },
       {
         "dropLevel": "22",
@@ -276281,6 +276364,14 @@
         "source": "Scorpia"
       },
       {
+        "dropLevel": "",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/32,768",
+        "source": "Shooting Stars"
+      },
+      {
         "dropLevel": "75",
         "dropType": "thieving",
         "quantityHigh": 1,
@@ -276787,6 +276878,14 @@
         "quantityLow": 1,
         "rarity": "16/32,768",
         "source": "Ancient essence crystals"
+      },
+      {
+        "dropLevel": "80",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Rare",
+        "source": "Ascension rocks"
       },
       {
         "dropLevel": "22",
@@ -277427,6 +277526,14 @@
         "quantityLow": 1,
         "rarity": "Rare",
         "source": "Sarcophagus (Ancient Pyramid)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "16/32,768",
+        "source": "Shooting Stars"
       },
       {
         "dropLevel": "75",
@@ -278651,6 +278758,14 @@
         "source": "Artio"
       },
       {
+        "dropLevel": "80",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Rare",
+        "source": "Ascension rocks"
+      },
+      {
         "dropLevel": "22",
         "dropType": "mining",
         "quantityHigh": 1,
@@ -279403,6 +279518,14 @@
         "source": "Scorpia"
       },
       {
+        "dropLevel": "",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "8/32,768",
+        "source": "Shooting Stars"
+      },
+      {
         "dropLevel": "75",
         "dropType": "thieving",
         "quantityHigh": 1,
@@ -279687,6 +279810,14 @@
         "quantityLow": 1,
         "rarity": "32/32,768",
         "source": "Ancient essence crystals"
+      },
+      {
+        "dropLevel": "80",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Rare",
+        "source": "Ascension rocks"
       },
       {
         "dropLevel": "22",
@@ -280351,6 +280482,14 @@
         "quantityLow": 4,
         "rarity": "3/128",
         "source": "Scarab Mage"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "32/32,768",
+        "source": "Shooting Stars"
       },
       {
         "dropLevel": "75",
@@ -284084,7 +284223,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "13/128",
+        "rarity": "3/128",
         "source": "Chasm Crawler"
       },
       {
@@ -285400,6 +285539,20 @@
     ],
     "group": "Warrior ring",
     "name": "Warrior ring"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Brother Kojo"
+      }
+    ],
+    "group": "Watch",
+    "name": "Watch"
   },
   {
     "dropSources": [
@@ -288856,28 +289009,12 @@
   {
     "dropSources": [
       {
-        "dropLevel": "42",
-        "dropType": "combat",
-        "quantityHigh": 2,
-        "quantityLow": 2,
-        "rarity": "13/128",
-        "source": "Lizard"
-      },
-      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Skeleton (Uzer Mastaba)"
-      },
-      {
-        "dropLevel": "12",
-        "dropType": "combat",
-        "quantityHigh": 2,
-        "quantityLow": 2,
-        "rarity": "13/128",
-        "source": "Small Lizard"
       }
     ],
     "group": "Waterskin",
@@ -292178,6 +292315,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 36,
+        "quantityLow": 32,
+        "rarity": "7/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
         "rarity": "3/25",
@@ -294728,6 +294873,14 @@
         "source": "Calvar'ion"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 4,
+        "rarity": "7/330",
+        "source": "Chest (The Fractured Archive)#Standard"
+      },
+      {
         "dropLevel": "80,90",
         "dropType": "hunter",
         "quantityHigh": 1,
@@ -295263,7 +295416,7 @@
         "dropType": "reward",
         "quantityHigh": 4,
         "quantityLow": 2,
-        "rarity": "9/83",
+        "rarity": "8/79",
         "source": "Expert potion pack"
       },
       {
@@ -296862,6 +297015,21 @@
     ],
     "group": "Zombie trousers",
     "name": "Zombie trousers"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/15",
+        "source": "Chest (The Fractured Archive)#Unique"
+      }
+    ],
+    "group": "Zorya's tome",
+    "name": "Zorya's tome (uncharged)",
+    "version": "Uncharged"
   },
   {
     "dropSources": [
