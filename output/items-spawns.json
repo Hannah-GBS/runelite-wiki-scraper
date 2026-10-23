@@ -6864,6 +6864,14 @@
         "plane": "0"
       },
       {
+        "coords": "4119,5546",
+        "isMembers": true,
+        "location": "The Fractured Archive lobby",
+        "mapID": "0",
+        "name": "Jug of wine",
+        "plane": "0"
+      },
+      {
         "coords": "3511,3049",
         "isMembers": true,
         "location": "Uzer Oasis - Cassim's house",
@@ -7815,6 +7823,19 @@
         "location": "Ranging Guild - shooting range",
         "mapID": "0",
         "name": "Mithril arrow",
+        "plane": "0"
+      }
+    ]
+  },
+  {
+    "group": "Mithril pickaxe",
+    "spawns": [
+      {
+        "coords": "4114,5535",
+        "isMembers": true,
+        "location": "The Fractured Archive lobby",
+        "mapID": "0",
+        "name": "Mithril pickaxe",
         "plane": "0"
       }
     ]

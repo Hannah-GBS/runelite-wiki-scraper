@@ -8928,6 +8928,31 @@
     "tools": "Knife"
   },
   {
+    "materials": [
+      {
+        "image": "Ascension shards.png",
+        "name": "Ascension shards",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ascension bolts.png",
+      "name": "Ascension bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "yes",
+        "experience": "140",
+        "level": "86",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2",
+    "tools": "Chisel"
+  },
+  {
     "facilities": "Brewery",
     "materials": [
       {
@@ -14237,7 +14262,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">100,739,343</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">90,052,159</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -20162,7 +20187,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">101,821,734</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">90,047,218</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -25814,6 +25839,25 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "facilities": "Sand (pile)",
+    "materials": [
+      {
+        "image": "Bucket.png",
+        "name": "Bucket",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bucket of sand.png",
+      "name": "Bucket of sand",
+      "quantity": "1",
+      "subtxt": "Sand pile"
+    },
+    "skills": [],
+    "ticks": "0"
   },
   {
     "facilities": "Sand pit",
@@ -43405,6 +43449,74 @@
     ],
     "ticks": "3",
     "tools": "Amulet mould"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ascension bolts.png",
+        "name": "Ascension bolts",
+        "quantity": "10"
+      },
+      {
+        "image": "Diamond bolt tips.png",
+        "name": "Diamond bolt tips",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Diamond ascension bolts.png",
+      "name": "Diamond ascension bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "70",
+        "level": "86",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Diamond ascension bolts.png",
+        "name": "Diamond ascension bolts",
+        "quantity": "10"
+      },
+      {
+        "image": "Earth rune.png",
+        "name": "Earth rune",
+        "quantity": "10"
+      },
+      {
+        "image": "Cosmic rune.png",
+        "name": "Cosmic rune",
+        "quantity": "1"
+      },
+      {
+        "image": "Law rune.png",
+        "name": "Law rune",
+        "quantity": "2"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Diamond ascension bolts (e).png",
+      "name": "Diamond ascension bolts (e)",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "57",
+        "level": "57",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "3"
   },
   {
     "materials": [
@@ -65415,29 +65527,6 @@
     },
     "skills": [],
     "ticks": "0"
-  },
-  {
-    "facilities": "Nigel",
-    "materials": [
-      {
-        "image": "Imbued ancient cape.png",
-        "name": "Imbued ancient cape",
-        "quantity": "1"
-      },
-      {
-        "image": "Armageddon cape fabric.png",
-        "name": "Armageddon cape fabric",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Imbued ancient cape (Deadman).png",
-      "name": "Imbued ancient cape (Deadman)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": ""
   },
   {
     "materials": [
@@ -87949,13 +88038,13 @@
   {
     "materials": [
       {
-        "image": "Blamish oil.png",
-        "name": "Blamish oil",
+        "image": "Pearl fishing rod.png",
+        "name": "Pearl fishing rod",
         "quantity": "1"
       },
       {
-        "image": "Pearl fishing rod.png",
-        "name": "Pearl fishing rod",
+        "image": "Blamish oil.png",
+        "name": "Blamish oil",
         "quantity": "1"
       }
     ],
@@ -88186,6 +88275,74 @@
     ],
     "ticks": "3",
     "tools": "Amulet mould"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ascension bolts.png",
+        "name": "Ascension bolts",
+        "quantity": "10"
+      },
+      {
+        "image": "Onyx bolt tips.png",
+        "name": "Onyx bolt tips",
+        "quantity": "10"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Onyx ascension bolts.png",
+      "name": "Onyx ascension bolts",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "",
+        "experience": "70",
+        "level": "86",
+        "name": "Fletching"
+      }
+    ],
+    "ticks": "2"
+  },
+  {
+    "materials": [
+      {
+        "image": "Onyx ascension bolts.png",
+        "name": "Onyx ascension bolts",
+        "quantity": "10"
+      },
+      {
+        "image": "Fire rune.png",
+        "name": "Fire rune",
+        "quantity": "20"
+      },
+      {
+        "image": "Death rune.png",
+        "name": "Death rune",
+        "quantity": "1"
+      },
+      {
+        "image": "Cosmic rune.png",
+        "name": "Cosmic rune",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Onyx ascension bolts (e).png",
+      "name": "Onyx ascension bolts (e)",
+      "quantity": "10"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "97",
+        "level": "87",
+        "name": "Magic"
+      }
+    ],
+    "ticks": "3"
   },
   {
     "materials": [
@@ -93603,8 +93760,8 @@
     "facilities": "Elemental Workshop",
     "materials": [
       {
-        "image": "primed bar.png",
-        "name": "primed bar",
+        "image": "Primed bar.png",
+        "name": "Primed bar",
         "quantity": "1"
       }
     ],
@@ -103685,6 +103842,25 @@
     "ticks": "0"
   },
   {
+    "facilities": "Sand (pile)",
+    "materials": [
+      {
+        "image": "Empty sack.png",
+        "name": "Empty sack",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sandbag.png",
+      "name": "Sandbag",
+      "quantity": "1",
+      "subtxt": "Sand pile"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
     "facilities": "Sand pit",
     "materials": [
       {
@@ -103701,7 +103877,7 @@
       "subtxt": "Sandpit"
     },
     "skills": [],
-    "ticks": "0"
+    "ticks": "2"
   },
   {
     "materials": [
