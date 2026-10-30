@@ -14262,7 +14262,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">90,052,159</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">88,482,428</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -17193,7 +17193,7 @@
       }
     ],
     "ticks": "3",
-    "tools": "Knife"
+    "tools": "Knife, Fletching knife"
   },
   {
     "materials": [
@@ -20187,7 +20187,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">90,047,218</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">86,173,347</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -30008,6 +30008,24 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "materials": [
+      {
+        "image": "Old onion.png",
+        "name": "Old onion",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Candy onion.png",
+      "name": "Candy onion",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0",
+    "tools": "Molten sugar"
   },
   {
     "facilities": "Furnace",
@@ -51304,6 +51322,30 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "facilities": "Lamp oil still",
+    "materials": [
+      {
+        "image": "Emerald lantern (empty).png",
+        "name": "Emerald lantern",
+        "quantity": "1",
+        "version": "Empty"
+      },
+      {
+        "image": "Swamp tar.png",
+        "name": "Swamp tar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Emerald lantern (unlit).png",
+      "name": "Emerald lantern",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -75599,7 +75641,7 @@
         "name": "Crafting"
       }
     ],
-    "ticks": "",
+    "ticks": "3",
     "tools": "M'amulet mould"
   },
   {
@@ -82897,6 +82939,24 @@
     "ticks": "6"
   },
   {
+    "facilities": "Fire",
+    "materials": [
+      {
+        "image": "Sugar.png",
+        "name": "Sugar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Molten sugar.png",
+      "name": "Molten sugar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
     "facilities": "Bone grinder",
     "materials": [
       {
@@ -87959,6 +88019,30 @@
     "ticks": "20"
   },
   {
+    "facilities": "Lamp oil still",
+    "materials": [
+      {
+        "image": "Empty oil lamp.png",
+        "name": "Empty oil lamp",
+        "quantity": "1"
+      },
+      {
+        "image": "Swamp tar.png",
+        "name": "Swamp tar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Oil lamp.png",
+      "name": "Oil lamp",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Lamp oil still",
     "materials": [
       {
         "image": "Empty oil lantern.png",
@@ -87967,7 +88051,29 @@
       },
       {
         "image": "Swamp tar.png",
-        "name": "Lamp oil",
+        "name": "Swamp tar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Oil lantern.png",
+      "name": "Oil lantern",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Oil lantern frame.png",
+        "name": "Oil lantern frame",
+        "quantity": "1"
+      },
+      {
+        "image": "Oil lamp.png",
+        "name": "Oil lamp",
         "quantity": "1"
       }
     ],
@@ -87980,12 +88086,12 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "0",
+        "experience": "50",
         "level": "26",
         "name": "Crafting"
       }
     ],
-    "ticks": "1"
+    "ticks": "2"
   },
   {
     "facilities": "Anvil",
@@ -88298,7 +88404,7 @@
     "skills": [
       {
         "boostable": "",
-        "experience": "70",
+        "experience": "94",
         "level": "86",
         "name": "Fletching"
       }
@@ -90350,7 +90456,6 @@
     ],
     "members": true,
     "output": {
-      "costnote": "calculated",
       "image": "Part fish pie (cod).png",
       "name": "Part fish pie (cod)",
       "quantity": "1"
@@ -90409,7 +90514,6 @@
     ],
     "members": true,
     "output": {
-      "costnote": "calculated",
       "image": "Part garden pie (onion).png",
       "name": "Part garden pie (onion)",
       "quantity": "1"
@@ -90485,13 +90589,13 @@
   {
     "materials": [
       {
-        "image": "Part mud pie (compost).png",
-        "name": "Part mud pie (compost)",
+        "image": "Bucket of water.png",
+        "name": "Bucket of water",
         "quantity": "1"
       },
       {
-        "image": "Bucket of water.png",
-        "name": "Bucket of water",
+        "image": "Part mud pie (compost).png",
+        "name": "Part mud pie (compost)",
         "quantity": "1"
       }
     ],
@@ -95394,13 +95498,13 @@
   {
     "materials": [
       {
-        "image": "Part fish pie (cod).png",
-        "name": "Part fish pie (cod)",
+        "image": "Potato.png",
+        "name": "Potato",
         "quantity": "1"
       },
       {
-        "image": "Potato.png",
-        "name": "Potato",
+        "image": "Part fish pie (cod).png",
+        "name": "Part fish pie (cod)",
         "quantity": "1"
       }
     ],
@@ -95677,13 +95781,13 @@
   {
     "materials": [
       {
-        "image": "Part summer pie (watermelon).png",
-        "name": "Part summer pie (watermelon)",
+        "image": "Cooking apple.png",
+        "name": "Cooking apple",
         "quantity": "1"
       },
       {
-        "image": "Cooking apple.png",
-        "name": "Cooking apple",
+        "image": "Part summer pie (watermelon).png",
+        "name": "Part summer pie (watermelon)",
         "quantity": "1"
       }
     ],
@@ -105168,6 +105272,30 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Lamp oil still",
+    "materials": [
+      {
+        "image": "Sapphire lantern (empty).png",
+        "name": "Sapphire lantern",
+        "quantity": "1",
+        "version": "Empty"
+      },
+      {
+        "image": "Swamp tar.png",
+        "name": "Swamp tar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sapphire lantern (unlit).png",
+      "name": "Sapphire lantern",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Furnace",
@@ -125942,7 +126070,6 @@
     ],
     "members": false,
     "output": {
-      "costnote": "calculated",
       "image": "Uncooked pizza.png",
       "name": "Uncooked pizza",
       "quantity": "1"

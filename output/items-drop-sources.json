@@ -9604,7 +9604,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 58,
+        "quantityHigh": 60,
         "quantityLow": 30,
         "rarity": "1/10",
         "source": "Eclectic impling jar"
@@ -16501,6 +16501,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "984",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Archive Guardian"
+      }
+    ],
+    "group": "Archive key",
+    "name": "Archive key"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -22516,7 +22530,7 @@
         "dropType": "woodcutting",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/70,000",
+        "rarity": "1/70,021",
         "source": "Rosewood tree"
       },
       {
@@ -34928,6 +34942,14 @@
         "quantityLow": 1,
         "rarity": "1/82",
         "source": "Nex"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,600",
+        "source": "Rewards Guardian"
       },
       {
         "dropLevel": "182",
@@ -59132,20 +59154,20 @@
         "source": "Boat fishing spot (Piscatoris Fishing Colony)"
       },
       {
+        "dropLevel": "16",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,385",
+        "source": "Boat fishing spot (big net, harpoon)#Big net"
+      },
+      {
         "dropLevel": "76",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/65",
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "fishing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/1,385",
-        "source": "Boat fishing spot (big net, harpoon)#Small net"
       },
       {
         "dropLevel": "5",
@@ -59346,20 +59368,20 @@
         "source": "Boat fishing spot (Piscatoris Fishing Colony)"
       },
       {
+        "dropLevel": "16",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/11,775",
+        "source": "Boat fishing spot (big net, harpoon)#Big net"
+      },
+      {
         "dropLevel": "76",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/556",
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "fishing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/11,775",
-        "source": "Boat fishing spot (big net, harpoon)#Small net"
       },
       {
         "dropLevel": "5",
@@ -59560,20 +59582,20 @@
         "source": "Boat fishing spot (Piscatoris Fishing Colony)"
       },
       {
+        "dropLevel": "16",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/69,265",
+        "source": "Boat fishing spot (big net, harpoon)#Big net"
+      },
+      {
         "dropLevel": "76",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/3,271",
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "fishing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/69,265",
-        "source": "Boat fishing spot (big net, harpoon)#Small net"
       },
       {
         "dropLevel": "5",
@@ -59774,20 +59796,20 @@
         "source": "Boat fishing spot (Piscatoris Fishing Colony)"
       },
       {
+        "dropLevel": "16",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/22,857",
+        "source": "Boat fishing spot (big net, harpoon)#Big net"
+      },
+      {
         "dropLevel": "76",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/1,079",
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "fishing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/22,857",
-        "source": "Boat fishing spot (big net, harpoon)#Small net"
       },
       {
         "dropLevel": "5",
@@ -59988,20 +60010,20 @@
         "source": "Boat fishing spot (Piscatoris Fishing Colony)"
       },
       {
+        "dropLevel": "16",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/13,853",
+        "source": "Boat fishing spot (big net, harpoon)#Big net"
+      },
+      {
         "dropLevel": "76",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/654",
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "fishing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/13,853",
-        "source": "Boat fishing spot (big net, harpoon)#Small net"
       },
       {
         "dropLevel": "5",
@@ -60214,7 +60236,7 @@
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Uncommon",
+        "rarity": "1/33",
         "source": "Amethyst crystals"
       },
       {
@@ -60444,7 +60466,7 @@
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/287",
         "source": "Amethyst crystals"
       },
       {
@@ -60674,7 +60696,7 @@
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Very rare",
+        "rarity": "1/1,689",
         "source": "Amethyst crystals"
       },
       {
@@ -60904,7 +60926,7 @@
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/557",
         "source": "Amethyst crystals"
       },
       {
@@ -61134,7 +61156,7 @@
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/337",
         "source": "Amethyst crystals"
       },
       {
@@ -61440,14 +61462,6 @@
         "source": "Redwood tree"
       },
       {
-        "dropLevel": "92",
-        "dropType": "woodcutting",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Unknown",
-        "source": "Rosewood tree"
-      },
-      {
         "dropLevel": "",
         "dropType": "woodcutting",
         "quantityHigh": 1,
@@ -61486,6 +61500,14 @@
   {
     "dropSources": [
       {
+        "dropLevel": "92",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/52",
+        "source": "Rosewood tree"
+      },
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -61499,6 +61521,14 @@
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "92",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/448",
+        "source": "Rosewood tree"
+      },
       {
         "dropLevel": "",
         "dropType": "reward",
@@ -61514,6 +61544,14 @@
   {
     "dropSources": [
       {
+        "dropLevel": "92",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/2,636",
+        "source": "Rosewood tree"
+      },
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -61528,6 +61566,14 @@
   {
     "dropSources": [
       {
+        "dropLevel": "92",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/870",
+        "source": "Rosewood tree"
+      },
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -61541,6 +61587,14 @@
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "92",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/527",
+        "source": "Rosewood tree"
+      },
       {
         "dropLevel": "",
         "dropType": "reward",
@@ -88345,6 +88399,20 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Closed Chest (Lletya)"
+      }
+    ],
+    "group": "Crystal trinket",
+    "name": "Crystal trinket"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "1/50",
         "source": "Reward Chest (The Gauntlet)#Corrupted"
       },
@@ -102744,7 +102812,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 3551,
+        "quantityHigh": 3662,
         "quantityLow": 3009,
         "rarity": "11/330",
         "source": "Chest (The Fractured Archive)#Standard"
@@ -155743,20 +155811,20 @@
         "source": "Boat fishing spot (Piscatoris Fishing Colony)"
       },
       {
+        "dropLevel": "16",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,147,427",
+        "source": "Boat fishing spot (big net, harpoon)#Big net"
+      },
+      {
         "dropLevel": "76",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/80,343",
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "fishing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/1,147,427",
-        "source": "Boat fishing spot (big net, harpoon)#Small net"
       },
       {
         "dropLevel": "5",
@@ -168619,6 +168687,14 @@
         "quantityLow": 1,
         "rarity": "1,194/5,656",
         "source": "Prison Pete#Members"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/420",
+        "source": "Rewards Guardian"
       }
     ],
     "group": "Lamp",
@@ -179045,6 +179121,14 @@
         "quantityLow": 1,
         "rarity": "1/60",
         "source": "Intricate pouch"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,680",
+        "source": "Rewards Guardian"
       }
     ],
     "group": "Lost bag",
@@ -191975,6 +192059,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Lab books"
+      }
+    ],
+    "group": "Mixology lab notes",
+    "name": "Mixology lab notes"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "60",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -202030,6 +202128,20 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
+        "source": "Crate of onions (2026 Halloween event)"
+      }
+    ],
+    "group": "Old onion",
+    "name": "Old onion"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
         "source": "Bush (Watchtower)"
       }
     ],
@@ -204005,6 +204117,20 @@
     ],
     "group": "Orikalkum gravel",
     "name": "Orikalkum gravel"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Very rare",
+        "source": "Chest (The Fractured Archive)#Standard"
+      }
+    ],
+    "group": "Orion",
+    "name": "Orion"
   },
   {
     "dropSources": [
@@ -222496,7 +222622,7 @@
         "dropType": "mining",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/44,000",
+        "rarity": "1/44,050",
         "source": "Amethyst crystals"
       },
       {
@@ -247019,6 +247145,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Spare controls)"
+      }
+    ],
+    "group": "Spare controls",
+    "name": "Spare controls"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "1",
         "dropType": "fishing",
         "quantityHigh": 1,
@@ -263939,6 +264079,14 @@
         "quantityLow": 1,
         "rarity": "1/40",
         "source": "Intricate pouch"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,120",
+        "source": "Rewards Guardian"
       }
     ],
     "group": "Tarnished locket",
