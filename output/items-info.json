@@ -44297,7 +44297,7 @@
     "version": null
   },
   {
-    "examineText": "Previously a nice crispy loaf of bread.  Now just kind of icky.",
+    "examineText": "Previously a nice crispy loaf of bread. Now just kind of icky.",
     "group": "Soggy bread",
     "isDefaultVersion": true,
     "isMembers": true,
@@ -123970,7 +123970,7 @@
     "version": null
   },
   {
-    "examineText": "An abyssal extract amplifying the creation of blood, soul and wrath runes.",
+    "examineText": "An abyssal extract amplifying the creation of blood, soul, wrath and aether runes.",
     "group": "Scarred extract",
     "isDefaultVersion": true,
     "isMembers": true,
@@ -154574,7 +154574,7 @@
   {
     "examineText": "The book is weighed down by all the knowledge it contains.",
     "group": "Zorya's tome",
-    "isDefaultVersion": true,
+    "isDefaultVersion": false,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 34725,
@@ -154585,7 +154585,7 @@
   {
     "examineText": "The book is weighed down by all the knowledge it contains.",
     "group": "Zorya's tome",
-    "isDefaultVersion": false,
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 34727,
@@ -154613,6 +154613,94 @@
     "itemID": 34730,
     "name": "Leftovers",
     "url": "https://oldschool.runescape.wiki/w/Leftovers",
+    "version": null
+  },
+  {
+    "examineText": "Delicious!",
+    "group": "Candy onion",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34732,
+    "name": "Candy onion",
+    "url": "https://oldschool.runescape.wiki/w/Candy_onion",
+    "version": null
+  },
+  {
+    "examineText": "Sweet!",
+    "group": "Sugar",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34734,
+    "name": "Sugar",
+    "url": "https://oldschool.runescape.wiki/w/Sugar",
+    "version": null
+  },
+  {
+    "examineText": "A pot of hot molten sugar.",
+    "group": "Molten sugar",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34736,
+    "name": "Molten sugar",
+    "url": "https://oldschool.runescape.wiki/w/Molten_sugar",
+    "version": null
+  },
+  {
+    "examineText": "An old, soft and slightly furry onion.",
+    "group": "Old onion",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34738,
+    "name": "Old onion",
+    "url": "https://oldschool.runescape.wiki/w/Old_onion",
+    "version": null
+  },
+  {
+    "examineText": "Similar to the one worn by another pretend vampyre.",
+    "group": "Vampyre monocle",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34740,
+    "name": "Vampyre monocle",
+    "url": "https://oldschool.runescape.wiki/w/Vampyre_monocle",
+    "version": null
+  },
+  {
+    "examineText": "This is the outfit of a killer!",
+    "group": "Vampyre costume top",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34742,
+    "name": "Vampyre costume top",
+    "url": "https://oldschool.runescape.wiki/w/Vampyre_costume_top",
+    "version": null
+  },
+  {
+    "examineText": "This is the outfit of a killer!",
+    "group": "Vampyre costume bottom",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34744,
+    "name": "Vampyre costume bottom",
+    "url": "https://oldschool.runescape.wiki/w/Vampyre_costume_bottom",
+    "version": null
+  },
+  {
+    "examineText": "This is the outfit of a killer!",
+    "group": "Vampyre costume cape",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34746,
+    "name": "Vampyre costume cape",
+    "url": "https://oldschool.runescape.wiki/w/Vampyre_costume_cape",
     "version": null
   }
 ]
