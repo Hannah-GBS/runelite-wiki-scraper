@@ -406,6 +406,29 @@
         "quantity": "1"
       },
       {
+        "image": "Enchant diamond.png",
+        "name": "Enchant diamond",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Abyssal bracelet(5).png",
+      "name": "Abyssal bracelet",
+      "quantity": "1",
+      "version": "(5)"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Diamond bracelet.png",
+        "name": "Diamond bracelet",
+        "quantity": "1"
+      },
+      {
         "image": "Cosmic rune.png",
         "name": "Cosmic rune",
         "quantity": "1"
@@ -3754,6 +3777,32 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Adamantite bar.png",
+        "name": "Adamantite bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Adamant shortsword.png",
+      "name": "Adamant shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "62.5",
+        "level": "74",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "image": "Adamant spear.png",
@@ -3897,32 +3946,6 @@
         "boostable": "Yes",
         "experience": "125",
         "level": "78",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Adamantite bar.png",
-        "name": "Adamantite bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Adamant sword.png",
-      "name": "Adamant sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "62.5",
-        "level": "74",
         "name": "Smithing"
       }
     ],
@@ -5944,6 +5967,28 @@
     "ticks": "1"
   },
   {
+    "materials": [
+      {
+        "image": "Pre-nature amulet.png",
+        "name": "Pre-nature amulet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant emerald or jade.png",
+        "name": "Enchant emerald or jade",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of Nature.png",
+      "name": "Amulet of Nature",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Wizard Mizgog",
     "materials": [
       {
@@ -6070,6 +6115,28 @@
   {
     "materials": [
       {
+        "image": "Opal amulet.png",
+        "name": "Opal amulet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant sapphire or opal.png",
+        "name": "Enchant sapphire or opal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of bounty.png",
+      "name": "Amulet of bounty",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Jade amulet.png",
         "name": "Jade amulet",
         "quantity": "1"
@@ -6104,6 +6171,28 @@
   {
     "materials": [
       {
+        "image": "Jade amulet.png",
+        "name": "Jade amulet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant emerald or jade.png",
+        "name": "Enchant emerald or jade",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of chemistry.png",
+      "name": "Amulet of chemistry",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Emerald amulet.png",
         "name": "Emerald amulet",
         "quantity": "1"
@@ -6133,6 +6222,28 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Emerald amulet.png",
+        "name": "Emerald amulet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant emerald or jade.png",
+        "name": "Enchant emerald or jade",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of defence.png",
+      "name": "Amulet of defence",
+      "quantity": "1"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -6247,6 +6358,28 @@
   {
     "materials": [
       {
+        "image": "Onyx amulet.png",
+        "name": "Onyx amulet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant onyx.png",
+        "name": "Enchant onyx",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of fury.png",
+      "name": "Amulet of fury",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Amulet of fury.png",
         "name": "Amulet of fury",
         "quantity": "1"
@@ -6304,6 +6437,51 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragonstone amulet.png",
+        "name": "Dragonstone amulet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant dragonstone.png",
+        "name": "Enchant dragonstone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of glory (uncharged).png",
+      "name": "Amulet of glory",
+      "quantity": "1",
+      "txt": "Amulet of glory (uncharged)"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sapphire amulet.png",
+        "name": "Sapphire amulet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant sapphire or opal.png",
+        "name": "Enchant sapphire or opal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of magic.png",
+      "name": "Amulet of magic",
+      "quantity": "1"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -6377,6 +6555,28 @@
   {
     "materials": [
       {
+        "image": "Diamond amulet.png",
+        "name": "Diamond amulet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant diamond.png",
+        "name": "Enchant diamond",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of power.png",
+      "name": "Amulet of power",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Amulet of torture.png",
         "name": "Amulet of torture",
         "quantity": "1"
@@ -6435,6 +6635,28 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ruby amulet.png",
+        "name": "Ruby amulet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant ruby or topaz.png",
+        "name": "Enchant ruby or topaz",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Amulet of strength.png",
+      "name": "Amulet of strength",
+      "quantity": "1"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -12601,6 +12823,28 @@
   {
     "materials": [
       {
+        "image": "Onyx necklace.png",
+        "name": "Onyx necklace",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant onyx.png",
+        "name": "Enchant onyx",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Berserker necklace.png",
+      "name": "Berserker necklace",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Berserker necklace.png",
         "name": "Berserker necklace",
         "quantity": "1"
@@ -12768,6 +13012,28 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Emerald necklace.png",
+        "name": "Emerald necklace",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant emerald or jade.png",
+        "name": "Enchant emerald or jade",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Binding necklace.png",
+      "name": "Binding necklace",
+      "quantity": "1"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -14262,7 +14528,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">88,482,428</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">83,152,925</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -20187,7 +20453,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">86,173,347</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">81,494,074</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -21785,6 +22051,28 @@
   {
     "materials": [
       {
+        "image": "Sapphire bracelet.png",
+        "name": "Sapphire bracelet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant sapphire or opal.png",
+        "name": "Enchant sapphire or opal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bracelet of clay.png",
+      "name": "Bracelet of clay",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Topaz bracelet.png",
         "name": "Topaz bracelet",
         "quantity": "1"
@@ -21814,6 +22102,28 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Topaz bracelet.png",
+        "name": "Topaz bracelet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant ruby or topaz.png",
+        "name": "Enchant ruby or topaz",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bracelet of slaughter.png",
+      "name": "Bracelet of slaughter",
+      "quantity": "1"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -24623,6 +24933,32 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Bronze bar.png",
+        "name": "Bronze bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Bronze shortsword.png",
+      "name": "Bronze shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "12.5",
+        "level": "4",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "facilities": "Barbarian anvil",
     "materials": [
       {
@@ -24766,32 +25102,6 @@
         "boostable": "Yes",
         "experience": "25",
         "level": "8",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Bronze bar.png",
-        "name": "Bronze bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Bronze sword.png",
-      "name": "Bronze sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "12.5",
-        "level": "4",
         "name": "Smithing"
       }
     ],
@@ -26226,6 +26536,29 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Topaz amulet.png",
+        "name": "Topaz amulet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant ruby or topaz.png",
+        "name": "Enchant ruby or topaz",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Burning amulet(5).png",
+      "name": "Burning amulet",
+      "quantity": "1",
+      "version": "(5)"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -30348,6 +30681,29 @@
         "quantity": "1"
       },
       {
+        "image": "Enchant emerald or jade.png",
+        "name": "Enchant emerald or jade",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Castle wars bracelet.png",
+      "name": "Castle wars bracelet",
+      "quantity": "1",
+      "version": "(3)"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Emerald bracelet.png",
+        "name": "Emerald bracelet",
+        "quantity": "1"
+      },
+      {
         "image": "Cosmic rune.png",
         "name": "Cosmic rune",
         "quantity": "1"
@@ -32502,6 +32858,29 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragonstone bracelet.png",
+        "name": "Dragonstone bracelet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant dragonstone.png",
+        "name": "Enchant dragonstone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Combat bracelet (uncharged).png",
+      "name": "Combat bracelet",
+      "quantity": "1",
+      "txt": "Combat bracelet (uncharged)"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -43529,7 +43908,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "57",
+        "experience": "67",
         "level": "57",
         "name": "Magic"
       }
@@ -43853,6 +44232,29 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ruby necklace.png",
+        "name": "Ruby necklace",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant ruby or topaz.png",
+        "name": "Enchant ruby or topaz",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Digsite pendant (5).png",
+      "name": "Digsite pendant",
+      "quantity": "1",
+      "version": "(5)"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -45048,6 +45450,28 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Opal necklace.png",
+        "name": "Opal necklace",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant sapphire or opal.png",
+        "name": "Enchant sapphire or opal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dodgy necklace.png",
+      "name": "Dodgy necklace",
+      "quantity": "1"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -47504,6 +47928,28 @@
   {
     "materials": [
       {
+        "image": "Dragon shortsword.png",
+        "name": "Dragon shortsword",
+        "quantity": "1"
+      },
+      {
+        "image": "Bounty hunter ornament kit.png",
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon shortsword (cr).png",
+      "name": "Dragon shortsword (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "image": "Dragon spear.png",
         "name": "Dragon spear",
         "quantity": "1"
@@ -47759,28 +48205,6 @@
     },
     "skills": [],
     "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "image": "Dragon sword.png",
-        "name": "Dragon sword",
-        "quantity": "1"
-      },
-      {
-        "image": "Bounty hunter ornament kit.png",
-        "name": "Bounty hunter ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Dragon sword (cr).png",
-      "name": "Dragon sword (cr)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "materials": [
@@ -50024,6 +50448,28 @@
   {
     "materials": [
       {
+        "image": "Topaz ring.png",
+        "name": "Topaz ring",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant ruby or topaz.png",
+        "name": "Enchant ruby or topaz",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Efaritay's aid.png",
+      "name": "Efaritay's aid",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Scrambled egg.png",
         "name": "Scrambled egg",
         "quantity": "1"
@@ -52026,6 +52472,28 @@
   {
     "materials": [
       {
+        "image": "Diamond sickle (b).png",
+        "name": "Diamond sickle (b)",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant diamond.png",
+        "name": "Enchant diamond",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Enchanted diamond sickle (b).png",
+      "name": "Enchanted diamond sickle (b)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Emerald sickle (b).png",
         "name": "Emerald sickle (b)",
         "quantity": "1"
@@ -52039,6 +52507,28 @@
         "image": "Air rune.png",
         "name": "Air rune",
         "quantity": "3"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Enchanted emerald sickle (b).png",
+      "name": "Enchanted emerald sickle (b)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Emerald sickle (b).png",
+        "name": "Emerald sickle (b)",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant emerald or jade.png",
+        "name": "Enchant emerald or jade",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -52423,6 +52913,28 @@
   {
     "materials": [
       {
+        "image": "Ruby sickle (b).png",
+        "name": "Ruby sickle (b)",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant ruby or topaz.png",
+        "name": "Enchant ruby or topaz",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Enchanted ruby sickle (b).png",
+      "name": "Enchanted ruby sickle (b)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Vial.png",
         "name": "Vial",
         "quantity": "1"
@@ -52785,6 +53297,28 @@
       }
     ],
     "ticks": "3"
+  },
+  {
+    "materials": [
+      {
+        "image": "Opal bracelet.png",
+        "name": "Opal bracelet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant sapphire or opal.png",
+        "name": "Enchant sapphire or opal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Expeditious bracelet.png",
+      "name": "Expeditious bracelet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
   },
   {
     "materials": [
@@ -55589,6 +56123,28 @@
   {
     "materials": [
       {
+        "image": "Jade bracelet.png",
+        "name": "Jade bracelet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant emerald or jade.png",
+        "name": "Enchant emerald or jade",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Flamtaer bracelet.png",
+      "name": "Flamtaer bracelet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Ogre arrow shaft.png",
         "name": "Ogre arrow shaft",
         "quantity": "6"
@@ -56929,6 +57485,29 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sapphire necklace.png",
+        "name": "Sapphire necklace",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant sapphire or opal.png",
+        "name": "Enchant sapphire or opal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Games necklace(8).png",
+      "name": "Games necklace",
+      "quantity": "1",
+      "version": "8"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -62471,7 +63050,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "",
+    "ticks": "2",
     "tools": "Hammer"
   },
   {
@@ -66907,6 +67486,28 @@
   {
     "materials": [
       {
+        "image": "Ruby bracelet.png",
+        "name": "Ruby bracelet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant ruby or topaz.png",
+        "name": "Enchant ruby or topaz",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Inoculation bracelet.png",
+      "name": "Inoculation bracelet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Battered barrel.png",
         "name": "Battered barrel",
         "quantity": "1"
@@ -69139,6 +69740,32 @@
     "tools": ""
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Iron bar.png",
+        "name": "Iron bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Iron shortsword.png",
+      "name": "Iron shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "19",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "facilities": "Barbarian anvil",
     "materials": [
       {
@@ -69308,32 +69935,6 @@
         "boostable": "Yes",
         "experience": "50",
         "level": "23",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Iron bar.png",
-        "name": "Iron bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Iron sword.png",
-      "name": "Iron sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "25",
-        "level": "19",
         "name": "Smithing"
       }
     ],
@@ -81340,6 +81941,32 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Mithril bar.png",
+        "name": "Mithril bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Mithril shortsword.png",
+      "name": "Mithril shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "54",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "facilities": "Barbarian anvil",
     "materials": [
       {
@@ -81483,32 +82110,6 @@
         "boostable": "Yes",
         "experience": "100",
         "level": "58",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Mithril bar.png",
-        "name": "Mithril bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Mithril sword.png",
-      "name": "Mithril sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "50",
-        "level": "54",
         "name": "Smithing"
       }
     ],
@@ -86655,6 +87256,28 @@
   {
     "materials": [
       {
+        "image": "Topaz necklace.png",
+        "name": "Topaz necklace",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant ruby or topaz.png",
+        "name": "Enchant ruby or topaz",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Necklace of faith.png",
+      "name": "Necklace of faith",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Jade necklace.png",
         "name": "Jade necklace",
         "quantity": "1"
@@ -86685,6 +87308,29 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Jade necklace.png",
+        "name": "Jade necklace",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant emerald or jade.png",
+        "name": "Enchant emerald or jade",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Necklace of passage.png",
+      "name": "Necklace of passage",
+      "quantity": "1",
+      "version": "(5)"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -88403,7 +89049,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "94",
         "level": "86",
         "name": "Fletching"
@@ -91666,6 +92312,28 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Diamond necklace.png",
+        "name": "Diamond necklace",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant diamond.png",
+        "name": "Enchant diamond",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Phoenix necklace.png",
+      "name": "Phoenix necklace",
+      "quantity": "1"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -97014,6 +97682,28 @@
     "ticks": "1"
   },
   {
+    "materials": [
+      {
+        "image": "Onyx bracelet.png",
+        "name": "Onyx bracelet",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant onyx.png",
+        "name": "Enchant onyx",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Regen bracelet.png",
+      "name": "Regen bracelet",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
     "facilities": "Brew'ma",
     "materials": [
       {
@@ -97628,6 +98318,29 @@
   {
     "materials": [
       {
+        "image": "Emerald ring.png",
+        "name": "Emerald ring",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant emerald or jade.png",
+        "name": "Enchant emerald or jade",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ring of dueling(8).png",
+      "name": "Ring of dueling",
+      "quantity": "1",
+      "version": "(8)"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Ruby ring.png",
         "name": "Ruby ring",
         "quantity": "1"
@@ -97658,6 +98371,29 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Ruby ring.png",
+        "name": "Ruby ring",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant ruby or topaz.png",
+        "name": "Enchant ruby or topaz",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ring of forging.png",
+      "name": "Ring of forging",
+      "quantity": "1",
+      "subtxt": "Tablet"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -97721,6 +98457,28 @@
   {
     "materials": [
       {
+        "image": "Diamond ring.png",
+        "name": "Diamond ring",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant diamond.png",
+        "name": "Enchant diamond",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ring of life.png",
+      "name": "Ring of life",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Opal ring.png",
         "name": "Opal ring",
         "quantity": "1"
@@ -97750,6 +98508,50 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Opal ring.png",
+        "name": "Opal ring",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant sapphire or opal.png",
+        "name": "Enchant sapphire or opal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ring of pursuit.png",
+      "name": "Ring of pursuit",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Sapphire ring.png",
+        "name": "Sapphire ring",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant sapphire or opal.png",
+        "name": "Enchant sapphire or opal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ring of recoil.png",
+      "name": "Ring of recoil",
+      "quantity": "1"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -97824,6 +98626,29 @@
   {
     "materials": [
       {
+        "image": "Jade ring.png",
+        "name": "Jade ring",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant emerald or jade.png",
+        "name": "Enchant emerald or jade",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ring of returning(5).png",
+      "name": "Ring of returning",
+      "quantity": "1",
+      "version": "(5)"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Onyx ring.png",
         "name": "Onyx ring",
         "quantity": "1"
@@ -97858,6 +98683,28 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Onyx ring.png",
+        "name": "Onyx ring",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant onyx.png",
+        "name": "Enchant onyx",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ring of stone.png",
+      "name": "Ring of stone",
+      "quantity": "1"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -98084,6 +98931,29 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragonstone ring.png",
+        "name": "Dragonstone ring",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant dragonstone.png",
+        "name": "Enchant dragonstone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ring of wealth (uncharged).png",
+      "name": "Ring of wealth",
+      "quantity": "1",
+      "txt": "Ring of wealth (uncharged)"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -102672,6 +103542,32 @@
     "tools": "Hammer, Chisel"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Runite bar.png",
+        "name": "Runite bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Rune shortsword.png",
+      "name": "Rune shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "89",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "image": "Rune spear.png",
@@ -102815,32 +103711,6 @@
         "boostable": "Yes",
         "experience": "150",
         "level": "93",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Runite bar.png",
-        "name": "Runite bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Rune sword.png",
-      "name": "Rune sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "75",
-        "level": "89",
         "name": "Smithing"
       }
     ],
@@ -109471,6 +110341,29 @@
   {
     "materials": [
       {
+        "image": "Silvthrill rod.png",
+        "name": "Silvthrill rod",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant sapphire or opal.png",
+        "name": "Enchant sapphire or opal",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Silvthrill rod (e).png",
+      "name": "Silvthrill rod",
+      "quantity": "1",
+      "version": "Enchanted"
+    },
+    "skills": [],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
         "image": "Damaged monkey tail.png",
         "name": "Damaged monkey tail",
         "quantity": "1"
@@ -109967,6 +110860,29 @@
         "name": "Magic"
       }
     ],
+    "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Dragon necklace.png",
+        "name": "Dragon necklace",
+        "quantity": "1"
+      },
+      {
+        "image": "Enchant dragonstone.png",
+        "name": "Enchant dragonstone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Skills necklace (uncharged).png",
+      "name": "Skills necklace",
+      "quantity": "1",
+      "txt": "Skills necklace (uncharged)"
+    },
+    "skills": [],
     "ticks": "1"
   },
   {
@@ -112904,7 +113820,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Soul Altar",
+    "facilities": "Soul Altar (Kourend)",
     "materials": [
       {
         "image": "Dark essence fragments.png",
@@ -112935,7 +113851,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Soul Altar",
+    "facilities": "Soul Altar (Kourend)",
     "materials": [
       {
         "image": "Dark essence fragments.png",
@@ -118523,6 +119439,32 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Steel bar.png",
+        "name": "Steel bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Steel shortsword.png",
+      "name": "Steel shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "37.5",
+        "level": "34",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "facilities": "Barbarian anvil",
     "materials": [
       {
@@ -118692,32 +119634,6 @@
         "boostable": "Yes",
         "experience": "37.5",
         "level": "36",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Steel bar.png",
-        "name": "Steel bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Steel sword.png",
-      "name": "Steel sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "37.5",
-        "level": "34",
         "name": "Smithing"
       }
     ],
