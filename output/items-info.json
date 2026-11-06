@@ -8008,80 +8008,80 @@
     "version": null
   },
   {
-    "examineText": "A razor sharp sword.",
-    "group": "Bronze sword",
+    "examineText": "A razor sharp shortsword.",
+    "group": "Bronze shortsword",
     "isDefaultVersion": true,
     "isMembers": false,
     "isTradeable": true,
     "itemID": 1277,
-    "name": "Bronze sword",
-    "url": "https://oldschool.runescape.wiki/w/Bronze_sword",
+    "name": "Bronze shortsword",
+    "url": "https://oldschool.runescape.wiki/w/Bronze_shortsword",
     "version": null
   },
   {
-    "examineText": "A razor sharp sword.",
-    "group": "Iron sword",
+    "examineText": "A razor sharp shortsword.",
+    "group": "Iron shortsword",
     "isDefaultVersion": true,
     "isMembers": false,
     "isTradeable": true,
     "itemID": 1279,
-    "name": "Iron sword",
-    "url": "https://oldschool.runescape.wiki/w/Iron_sword",
+    "name": "Iron shortsword",
+    "url": "https://oldschool.runescape.wiki/w/Iron_shortsword",
     "version": null
   },
   {
-    "examineText": "A razor sharp sword.",
-    "group": "Steel sword",
+    "examineText": "A razor sharp shortsword.",
+    "group": "Steel shortsword",
     "isDefaultVersion": true,
     "isMembers": false,
     "isTradeable": true,
     "itemID": 1281,
-    "name": "Steel sword",
-    "url": "https://oldschool.runescape.wiki/w/Steel_sword",
+    "name": "Steel shortsword",
+    "url": "https://oldschool.runescape.wiki/w/Steel_shortsword",
     "version": null
   },
   {
-    "examineText": "A razor sharp sword.",
-    "group": "Black sword",
+    "examineText": "A razor sharp shortsword.",
+    "group": "Black shortsword",
     "isDefaultVersion": true,
     "isMembers": false,
     "isTradeable": true,
     "itemID": 1283,
-    "name": "Black sword",
-    "url": "https://oldschool.runescape.wiki/w/Black_sword",
+    "name": "Black shortsword",
+    "url": "https://oldschool.runescape.wiki/w/Black_shortsword",
     "version": null
   },
   {
-    "examineText": "A razor sharp sword.",
-    "group": "Mithril sword",
+    "examineText": "A razor sharp shortsword.",
+    "group": "Mithril shortsword",
     "isDefaultVersion": true,
     "isMembers": false,
     "isTradeable": true,
     "itemID": 1285,
-    "name": "Mithril sword",
-    "url": "https://oldschool.runescape.wiki/w/Mithril_sword",
+    "name": "Mithril shortsword",
+    "url": "https://oldschool.runescape.wiki/w/Mithril_shortsword",
     "version": null
   },
   {
-    "examineText": "A razor sharp sword.",
-    "group": "Adamant sword",
+    "examineText": "A razor sharp shortsword.",
+    "group": "Adamant shortsword",
     "isDefaultVersion": true,
     "isMembers": false,
     "isTradeable": true,
     "itemID": 1287,
-    "name": "Adamant sword",
-    "url": "https://oldschool.runescape.wiki/w/Adamant_sword",
+    "name": "Adamant shortsword",
+    "url": "https://oldschool.runescape.wiki/w/Adamant_shortsword",
     "version": null
   },
   {
-    "examineText": "A razor sharp sword.",
-    "group": "Rune sword",
+    "examineText": "A razor sharp shortsword.",
+    "group": "Rune shortsword",
     "isDefaultVersion": true,
     "isMembers": false,
     "isTradeable": true,
     "itemID": 1289,
-    "name": "Rune sword",
-    "url": "https://oldschool.runescape.wiki/w/Rune_sword",
+    "name": "Rune shortsword",
+    "url": "https://oldschool.runescape.wiki/w/Rune_shortsword",
     "version": null
   },
   {
@@ -38830,14 +38830,14 @@
     "version": null
   },
   {
-    "examineText": "A razor sharp sword.",
-    "group": "White sword",
+    "examineText": "A razor sharp shortsword.",
+    "group": "White shortsword",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 6605,
-    "name": "White sword",
-    "url": "https://oldschool.runescape.wiki/w/White_sword",
+    "name": "White shortsword",
+    "url": "https://oldschool.runescape.wiki/w/White_shortsword",
     "version": null
   },
   {
@@ -45375,14 +45375,14 @@
     "version": "Blue"
   },
   {
-    "examineText": "A less-than razor sharp sword.",
-    "group": "Wooden sword",
+    "examineText": "A less-than razor sharp shortsword.",
+    "group": "Wooden shortsword",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7675,
-    "name": "Wooden sword",
-    "url": "https://oldschool.runescape.wiki/w/Wooden_sword",
+    "name": "Wooden shortsword",
+    "url": "https://oldschool.runescape.wiki/w/Wooden_shortsword",
     "version": null
   },
   {
@@ -54799,50 +54799,6 @@
     "itemID": 9699,
     "name": "Fire rune",
     "url": "https://oldschool.runescape.wiki/w/Fire_rune_%28The_Slug_Menace%29",
-    "version": null
-  },
-  {
-    "examineText": "Basic training sword.",
-    "group": "Training sword",
-    "isDefaultVersion": true,
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9703,
-    "name": "Training sword",
-    "url": "https://oldschool.runescape.wiki/w/Training_sword",
-    "version": null
-  },
-  {
-    "examineText": "Made of flimsy painted wood.",
-    "group": "Training shield",
-    "isDefaultVersion": true,
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9704,
-    "name": "Training shield",
-    "url": "https://oldschool.runescape.wiki/w/Training_shield",
-    "version": null
-  },
-  {
-    "examineText": "Light and flexible, good for a beginner.",
-    "group": "Training bow",
-    "isDefaultVersion": true,
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9705,
-    "name": "Training bow",
-    "url": "https://oldschool.runescape.wiki/w/Training_bow",
-    "version": null
-  },
-  {
-    "examineText": "Standard training arrows.",
-    "group": "Training arrows",
-    "isDefaultVersion": true,
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 9706,
-    "name": "Training arrows",
-    "url": "https://oldschool.runescape.wiki/w/Training_arrows",
     "version": null
   },
   {
@@ -79674,13 +79630,13 @@
   },
   {
     "examineText": "A clue!",
-    "group": "Clue scroll (medium) - HQNM LZM STSNQ",
+    "group": "Clue scroll (medium) - BZOSZHM GZQKZM",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 19770,
     "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_%28medium%29_-_HQNM_LZM_STSNQ",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_%28medium%29_-_BZOSZHM_GZQKZM",
     "version": null
   },
   {
@@ -80103,13 +80059,13 @@
   },
   {
     "examineText": "A clue!",
-    "group": "Clue scroll (easy) - I wonder how many bronze swords he has handed out",
+    "group": "Clue scroll (easy) - I wonder how many bronze shortswords he has handed out",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 19816,
     "name": "Clue scroll (easy)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_%28easy%29_-_I_wonder_how_many_bronze_swords_he_has_handed_out",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_%28easy%29_-_I_wonder_how_many_bronze_shortswords_he_has_handed_out",
     "version": null
   },
   {
@@ -85800,14 +85756,14 @@
     "version": null
   },
   {
-    "examineText": "A razor sharp sword.",
-    "group": "Dragon sword",
+    "examineText": "A razor sharp shortsword.",
+    "group": "Dragon shortsword",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 21009,
-    "name": "Dragon sword",
-    "url": "https://oldschool.runescape.wiki/w/Dragon_sword",
+    "name": "Dragon shortsword",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_shortsword",
     "version": null
   },
   {
@@ -120263,14 +120219,14 @@
     "version": null
   },
   {
-    "examineText": "A razor sharp sword.",
-    "group": "Dragon sword (cr)",
+    "examineText": "A razor sharp shortsword.",
+    "group": "Dragon shortsword (cr)",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 28029,
-    "name": "Dragon sword (cr)",
-    "url": "https://oldschool.runescape.wiki/w/Dragon_sword_%28cr%29",
+    "name": "Dragon shortsword (cr)",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_shortsword_%28cr%29",
     "version": null
   },
   {
@@ -154176,6 +154132,94 @@
     "version": null
   },
   {
+    "examineText": "Karil the Tainted's leather skirt.",
+    "group": "Karil's leatherskirt (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34609,
+    "name": "Karil's leatherskirt",
+    "url": "https://oldschool.runescape.wiki/w/Karil%27s_leatherskirt_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "A sturdy chestplate.",
+    "group": "Bandos chestplate (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34611,
+    "name": "Bandos chestplate",
+    "url": "https://oldschool.runescape.wiki/w/Bandos_chestplate_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "A Penance Fighter torso armour.",
+    "group": "Fighter torso (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34613,
+    "name": "Fighter torso",
+    "url": "https://oldschool.runescape.wiki/w/Fighter_torso_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "A solid redwood shield covered in black dragon leather.",
+    "group": "Black d'hide shield (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34615,
+    "name": "Black d'hide shield",
+    "url": "https://oldschool.runescape.wiki/w/Black_d%27hide_shield_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "An ancient warrior's full helm.",
+    "group": "Torva full helm (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34617,
+    "name": "Torva full helm",
+    "url": "https://oldschool.runescape.wiki/w/Torva_full_helm_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "A weapon from the Abyss, embedded in a slimy tentacle.",
+    "group": "Abyssal tentacle (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34619,
+    "name": "Abyssal tentacle",
+    "url": "https://oldschool.runescape.wiki/w/Abyssal_tentacle_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "These will protect my feet.",
+    "group": "Dragon boots (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34621,
+    "name": "Dragon boots",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_boots_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "I hope this tastes better than it looks.",
+    "group": "Anglerfish (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34623,
+    "name": "Anglerfish",
+    "url": "https://oldschool.runescape.wiki/w/Anglerfish_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
     "examineText": "The cape worn by only the most experienced players.",
     "group": "Imbued ancient max cape",
     "isDefaultVersion": true,
@@ -154267,7 +154311,7 @@
     "examineText": "Contains some useful supplies.",
     "group": "Supply crate (Pete Kayer's Challenges)",
     "isDefaultVersion": true,
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 34643,
     "name": "Supply crate",
@@ -154701,6 +154745,160 @@
     "itemID": 34746,
     "name": "Vampyre costume cape",
     "url": "https://oldschool.runescape.wiki/w/Vampyre_costume_cape",
+    "version": null
+  },
+  {
+    "examineText": "Give it a rub.",
+    "group": "Antique lamp (Black Knights' Fortress)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34748,
+    "name": "Antique lamp",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_%28Black_Knights%27_Fortress%29",
+    "version": null
+  },
+  {
+    "examineText": "Give it a rub.",
+    "group": "Antique lamp (Demon Slayer)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34749,
+    "name": "Antique lamp",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_%28Demon_Slayer%29",
+    "version": null
+  },
+  {
+    "examineText": "I wonder what happens if I rub it...",
+    "group": "Antique lamp (Ernest the Chicken)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34750,
+    "name": "Antique lamp",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_%28Ernest_the_Chicken%29",
+    "version": null
+  },
+  {
+    "examineText": "Give it a rub.",
+    "group": "Antique lamp (Mudfoot's Big Adventure)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34751,
+    "name": "Antique lamp",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_%28Mudfoot%27s_Big_Adventure%29",
+    "version": null
+  },
+  {
+    "examineText": "Goblins... Such curious creatures.",
+    "group": "Mudfoot (item)",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34752,
+    "name": "Mudfoot",
+    "url": "https://oldschool.runescape.wiki/w/Mudfoot_%28item%29",
+    "version": null
+  },
+  {
+    "examineText": "I wonder what happens if I rub it...",
+    "group": "Antique lamp (Romeo & Juliet)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34754,
+    "name": "Antique lamp",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_%28Romeo_%26_Juliet%29",
+    "version": null
+  },
+  {
+    "examineText": "I wonder what happens if I rub it...",
+    "group": "Antique lamp (Shield of Arrav)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34755,
+    "name": "Antique lamp",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_%28Shield_of_Arrav%29",
+    "version": null
+  },
+  {
+    "examineText": "A letter found on the body of Betty's father in Land's End.",
+    "group": "Letter (Jack Holland)",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34756,
+    "name": "Letter",
+    "url": "https://oldschool.runescape.wiki/w/Letter_%28Jack_Holland%29",
+    "version": null
+  },
+  {
+    "examineText": "A cutting from an old newspaper found in Betty's home in Land's End.",
+    "group": "Newspaper cutting",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34757,
+    "name": "Newspaper cutting",
+    "url": "https://oldschool.runescape.wiki/w/Newspaper_cutting",
+    "version": null
+  },
+  {
+    "examineText": "A blood-covered knife found in the butcher's home in Land's End.",
+    "group": "Bloody knife (The Writing's on the Wall)",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34758,
+    "name": "Bloody knife",
+    "url": "https://oldschool.runescape.wiki/w/Bloody_knife_%28The_Writing%27s_on_the_Wall%29",
+    "version": null
+  },
+  {
+    "examineText": "A decapitated head found at Betty's uncle's home near Hosidius.",
+    "group": "Human head",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34759,
+    "name": "Human head",
+    "url": "https://oldschool.runescape.wiki/w/Human_head",
+    "version": null
+  },
+  {
+    "examineText": "A letter found in the mouth of Betty's uncle near Hosidius.",
+    "group": "Letter (Bernard Holland)",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34760,
+    "name": "Letter",
+    "url": "https://oldschool.runescape.wiki/w/Letter_%28Bernard_Holland%29",
+    "version": null
+  },
+  {
+    "examineText": "A certificate found in Betty's uncle's home near Hosidius.",
+    "group": "Certificate (The Writing's on the Wall)",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34761,
+    "name": "Certificate",
+    "url": "https://oldschool.runescape.wiki/w/Certificate_%28The_Writing%27s_on_the_Wall%29",
+    "version": null
+  },
+  {
+    "examineText": "A useful amulet for a ranger.",
+    "group": "Amulet of sight",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 34762,
+    "name": "Amulet of sight",
+    "url": "https://oldschool.runescape.wiki/w/Amulet_of_sight",
     "version": null
   }
 ]

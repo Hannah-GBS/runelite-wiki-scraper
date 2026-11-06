@@ -558,17 +558,17 @@
         "plane": "0"
       },
       {
-        "coords": "1943,9514",
+        "coords": "2535,2538",
         "isMembers": true,
-        "location": "Here be minotaurs",
+        "location": "Isle of Bones",
         "mapID": "-1",
         "name": "Big bones",
         "plane": "0"
       },
       {
-        "coords": "2535,2538",
+        "coords": "1943,9514",
         "isMembers": true,
-        "location": "Isle of Bones",
+        "location": "Minotaurs' Rest Cave",
         "mapID": "-1",
         "name": "Big bones",
         "plane": "0"
@@ -718,7 +718,7 @@
       {
         "coords": "2572,3284",
         "isMembers": true,
-        "location": "Ardougne Castle (1st floor)",
+        "location": "Ardougne Castle (1st floor){{Refn|name=thieving|This spawn requires 61 Thieving to picklock a door to access.}}",
         "mapID": "0",
         "name": "Black scimitar",
         "plane": "1"
@@ -2610,6 +2610,19 @@
     ]
   },
   {
+    "group": "Bronze shortsword",
+    "spawns": [
+      {
+        "coords": "2483,2929",
+        "isMembers": true,
+        "location": "Feldip Hills - western coast",
+        "mapID": "0",
+        "name": "Bronze shortsword",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Bronze spear",
     "spawns": [
       {
@@ -2632,19 +2645,6 @@
         "mapID": "0",
         "name": "Bronze sq shield",
         "plane": "1"
-      }
-    ]
-  },
-  {
-    "group": "Bronze sword",
-    "spawns": [
-      {
-        "coords": "2483,2929",
-        "isMembers": true,
-        "location": "Feldip Hills - western coast",
-        "mapID": "0",
-        "name": "Bronze sword",
-        "plane": "0"
       }
     ]
   },
@@ -2914,6 +2914,14 @@
         "mapID": "-1",
         "name": "Bucket",
         "plane": "0"
+      },
+      {
+        "coords": "3414,3493",
+        "isMembers": true,
+        "location": "Paterdomus Temple - top floor",
+        "mapID": "0",
+        "name": "Bucket",
+        "plane": "2"
       },
       {
         "coords": "3346,2966",
@@ -6535,6 +6543,43 @@
     ]
   },
   {
+    "group": "Iron shortsword",
+    "spawns": [
+      {
+        "coords": "1494,3177",
+        "isMembers": true,
+        "location": "Bandits' camp north-east of Ralos' Rise",
+        "mapID": "0",
+        "name": "Iron shortsword",
+        "plane": "0"
+      },
+      {
+        "coords": "2561,5983",
+        "isMembers": true,
+        "location": "Hallowed Sepulchre - floor 2",
+        "mapID": "-1",
+        "name": "Iron shortsword",
+        "plane": "1"
+      },
+      {
+        "coords": "1569,3547",
+        "isMembers": true,
+        "location": "Shayzien - Briget's Weapons",
+        "mapID": "0",
+        "name": "Iron shortsword",
+        "plane": "0"
+      },
+      {
+        "coords": "3425,9951",
+        "isMembers": true,
+        "location": "Slayer Tower basement",
+        "mapID": "14",
+        "name": "Iron shortsword",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Iron spit",
     "spawns": [
       {
@@ -6543,43 +6588,6 @@
         "location": "Weiss",
         "mapID": "0",
         "name": "Iron spit",
-        "plane": "0"
-      }
-    ]
-  },
-  {
-    "group": "Iron sword",
-    "spawns": [
-      {
-        "coords": "1494,3177",
-        "isMembers": true,
-        "location": "Bandits' camp north-east of Ralos' Rise",
-        "mapID": "0",
-        "name": "Iron sword",
-        "plane": "0"
-      },
-      {
-        "coords": "2561,5983",
-        "isMembers": true,
-        "location": "Hallowed Sepulchre - floor 2",
-        "mapID": "-1",
-        "name": "Iron sword",
-        "plane": "1"
-      },
-      {
-        "coords": "1569,3547",
-        "isMembers": true,
-        "location": "Shayzien - Briget's Weapons",
-        "mapID": "0",
-        "name": "Iron sword",
-        "plane": "0"
-      },
-      {
-        "coords": "3425,9951",
-        "isMembers": true,
-        "location": "Slayer Tower basement",
-        "mapID": "14",
-        "name": "Iron sword",
         "plane": "0"
       }
     ]
@@ -10545,6 +10553,27 @@
     ]
   },
   {
+    "group": "Steel shortsword",
+    "spawns": [
+      {
+        "coords": "1741,3189",
+        "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "mapID": "0",
+        "name": "Steel shortsword",
+        "plane": "0"
+      },
+      {
+        "coords": "3283,3658",
+        "isMembers": false,
+        "location": "Wilderness - north-east of the Chaos Temple",
+        "mapID": "0",
+        "name": "Steel shortsword",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Steel spear",
     "spawns": [
       {
@@ -10553,27 +10582,6 @@
         "location": "Neypotzli",
         "mapID": "-1",
         "name": "Steel spear",
-        "plane": "0"
-      }
-    ]
-  },
-  {
-    "group": "Steel sword",
-    "spawns": [
-      {
-        "coords": "1741,3189",
-        "isMembers": true,
-        "location": "Civitas illa Fortis",
-        "mapID": "0",
-        "name": "Steel sword",
-        "plane": "0"
-      },
-      {
-        "coords": "3283,3658",
-        "isMembers": false,
-        "location": "Wilderness - north-east of the Chaos Temple",
-        "mapID": "0",
-        "name": "Steel sword",
         "plane": "0"
       }
     ]

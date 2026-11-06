@@ -1826,6 +1826,104 @@
     "sellMultiplier": "1000"
   },
   {
+    "coords": "?",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Alliance log",
+        "sellPrice": "N/A",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Giant krill",
+        "sellPrice": "1",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Halibut",
+        "sellPrice": "2",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Leftovers",
+        "sellPrice": "0",
+        "stock": "Unknown",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Manta ray",
+        "sellPrice": "2",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Prayer potion",
+        "sellPrice": "2",
+        "stock": "4",
+        "version": "4 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Prayer potion",
+        "sellPrice": "1",
+        "stock": "1",
+        "version": "2 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Ranging potion",
+        "sellPrice": "2",
+        "stock": "1",
+        "version": "2 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Saradomin brew",
+        "sellPrice": "3",
+        "stock": "6",
+        "version": "4 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Super combat potion",
+        "sellPrice": "2",
+        "stock": "1",
+        "version": "2 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Super restore",
+        "sellPrice": "3",
+        "stock": "4",
+        "version": "4 dose"
+      }
+    ],
+    "location": "The Fractured Archive central chamber",
+    "mapID": "0",
+    "name": "Alliance Supplies",
+    "plane": "0"
+  },
+  {
     "coords": "1367,3635",
     "isMembers": true,
     "items": [
@@ -2750,7 +2848,7 @@
     ],
     "location": "Jatizso",
     "mapID": "0",
-    "name": "Armour Shop (Jatizso)",
+    "name": "Armour Shop",
     "plane": "0",
     "sellMultiplier": "1100"
   },
@@ -3767,7 +3865,7 @@
   },
   {
     "coords": "3094,3357",
-    "isMembers": true,
+    "isMembers": false,
     "items": [
       {
         "buyPrice": "N/A",
@@ -3785,7 +3883,7 @@
   },
   {
     "coords": "3094,3357",
-    "isMembers": true,
+    "isMembers": false,
     "items": [
       {
         "buyPrice": "N/A",
@@ -6116,7 +6214,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Adamant sword",
+        "name": "Adamant shortsword",
         "stock": "2",
         "version": null
       },
@@ -6146,7 +6244,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Black sword",
+        "name": "Black shortsword",
         "stock": "3",
         "version": null
       },
@@ -6182,7 +6280,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Bronze sword",
+        "name": "Bronze shortsword",
         "stock": "5",
         "version": null
       },
@@ -6224,7 +6322,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Iron sword",
+        "name": "Iron shortsword",
         "stock": "4",
         "version": null
       },
@@ -6266,7 +6364,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Mithril sword",
+        "name": "Mithril shortsword",
         "stock": "3",
         "version": null
       },
@@ -6308,7 +6406,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Steel sword",
+        "name": "Steel shortsword",
         "stock": "4",
         "version": null
       }
@@ -6410,13 +6508,13 @@
       },
       {
         "currency": "Coins",
-        "name": "Adamant sq shield",
+        "name": "Adamant shortsword",
         "stock": "2",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "Adamant sword",
+        "name": "Adamant sq shield",
         "stock": "2",
         "version": null
       },
@@ -6434,13 +6532,13 @@
       },
       {
         "currency": "Coins",
-        "name": "Bronze sq shield",
+        "name": "Bronze shortsword",
         "stock": "5",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "Bronze sword",
+        "name": "Bronze sq shield",
         "stock": "5",
         "version": null
       },
@@ -6458,13 +6556,13 @@
       },
       {
         "currency": "Coins",
-        "name": "Iron sq shield",
+        "name": "Iron shortsword",
         "stock": "4",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "Iron sword",
+        "name": "Iron sq shield",
         "stock": "4",
         "version": null
       },
@@ -6482,13 +6580,13 @@
       },
       {
         "currency": "Coins",
-        "name": "Mithril sq shield",
+        "name": "Mithril shortsword",
         "stock": "3",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "Mithril sword",
+        "name": "Mithril sq shield",
         "stock": "3",
         "version": null
       },
@@ -6506,13 +6604,13 @@
       },
       {
         "currency": "Coins",
-        "name": "Steel sq shield",
+        "name": "Steel shortsword",
         "stock": "4",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "Steel sword",
+        "name": "Steel sq shield",
         "stock": "4",
         "version": null
       },
@@ -6709,6 +6807,32 @@
     "location": "Brimhaven",
     "mapID": "0",
     "name": "Cap'n Izzy No-Beard",
+    "plane": "0"
+  },
+  {
+    "coords": "3218,3238",
+    "isMembers": false,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Defence cape",
+        "sellPrice": "99000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Defence cape",
+        "sellPrice": "99000",
+        "stock": "inf",
+        "version": "Trimmed"
+      }
+    ],
+    "location": "Lumbridge",
+    "mapID": "0",
+    "name": "Captain Harlan",
     "plane": "0"
   },
   {
@@ -11547,7 +11671,7 @@
         "version": null
       }
     ],
-    "location": "Lumbridge graveyard",
+    "location": "Grand Exchange",
     "mapID": "0",
     "name": "Deadman Reward Store",
     "plane": "0"
@@ -11581,10 +11705,29 @@
         "version": null
       }
     ],
-    "location": "Lumbridge graveyard",
+    "location": "Grand Exchange",
     "mapID": "0",
     "name": "Deadman Reward Store",
     "plane": "0"
+  },
+  {
+    "buyMultiplier": "",
+    "coords": "3180,5727",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Escape crystal",
+        "stock": "9500",
+        "version": null
+      }
+    ],
+    "location": "Death's Office",
+    "mapID": "-1",
+    "name": "Death (shop)",
+    "plane": "0",
+    "sellMultiplier": "1000"
   },
   {
     "buyMultiplier": "0",
@@ -16218,7 +16361,7 @@
     "sellMultiplier": "1300"
   },
   {
-    "coords": "3209,3435",
+    "coords": "3154,3513",
     "isMembers": true,
     "items": [
       {
@@ -16302,7 +16445,7 @@
         "version": null
       }
     ],
-    "location": "Varrock Square",
+    "location": "Grand Exchange",
     "mapID": "0",
     "name": "Events Reward Shop",
     "plane": "0"
@@ -26024,7 +26167,7 @@
     "sellMultiplier": "1000"
   },
   {
-    "coords": "3226,3215",
+    "coords": "3155,3512",
     "isMembers": true,
     "items": [
       {
@@ -26090,7 +26233,7 @@
     "plane": "0"
   },
   {
-    "coords": "3226,3215",
+    "coords": "3155,3512",
     "isMembers": true,
     "items": [
       {
@@ -26172,7 +26315,7 @@
     "plane": "0"
   },
   {
-    "coords": "3226,3215",
+    "coords": "3155,3512",
     "isMembers": true,
     "items": [
       {
@@ -26254,7 +26397,7 @@
     "plane": "0"
   },
   {
-    "coords": "3226,3215",
+    "coords": "3155,3512",
     "isMembers": true,
     "items": [
       {
@@ -26352,7 +26495,7 @@
     "plane": "0"
   },
   {
-    "coords": "3226,3215",
+    "coords": "3155,3512",
     "isMembers": true,
     "items": [
       {
@@ -26490,7 +26633,7 @@
     "plane": "0"
   },
   {
-    "coords": "3226,3215",
+    "coords": "3155,3512",
     "isMembers": true,
     "items": [
       {
@@ -28380,6 +28523,18 @@
       },
       {
         "currency": "Coins",
+        "name": "Bronze axe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bronze pickaxe",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
         "name": "Bucket",
         "stock": "3",
         "version": null
@@ -28393,18 +28548,6 @@
       {
         "currency": "Coins",
         "name": "Chisel",
-        "stock": "2",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty bucket pack",
-        "stock": "15",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Empty jug pack",
         "stock": "5",
         "version": null
       },
@@ -28440,14 +28583,8 @@
       },
       {
         "currency": "Coins",
-        "name": "Security book",
-        "stock": "5",
-        "version": null
-      },
-      {
-        "currency": "Coins",
         "name": "Shears",
-        "stock": "2",
+        "stock": "5",
         "version": null
       },
       {
@@ -28459,7 +28596,7 @@
       {
         "currency": "Coins",
         "name": "Tinderbox",
-        "stock": "2",
+        "stock": "5",
         "version": null
       }
     ],
@@ -29459,32 +29596,6 @@
     "location": "Neitiznot",
     "mapID": "0",
     "name": "Mawnis Burowgar",
-    "plane": "0"
-  },
-  {
-    "coords": "3218,3238",
-    "isMembers": false,
-    "items": [
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Defence cape",
-        "sellPrice": "99000",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Defence cape",
-        "sellPrice": "99000",
-        "stock": "inf",
-        "version": "Trimmed"
-      }
-    ],
-    "location": "Lumbridge",
-    "mapID": "0",
-    "name": "Melee combat tutor",
     "plane": "0"
   },
   {
@@ -30615,11 +30726,12 @@
     "plane": "0"
   },
   {
-    "buyMultiplier": "100",
+    "buyMultiplier": "",
     "coords": "3673,3222",
     "isMembers": true,
     "items": [
       {
+        "buyPrice": "N/A",
         "currency": "Coins",
         "name": "Escape crystal",
         "stock": "9500",
@@ -30630,7 +30742,7 @@
     "mapID": "0",
     "name": "Mysterious Stranger (shop)",
     "plane": "0",
-    "sellMultiplier": "750"
+    "sellMultiplier": "1000"
   },
   {
     "coords": "2451,2847",
@@ -31228,7 +31340,7 @@
     "plane": "0"
   },
   {
-    "coords": "3245,3200",
+    "coords": "?",
     "isMembers": false,
     "items": [
       {
@@ -31256,7 +31368,7 @@
         "version": "Deadman Mode"
       }
     ],
-    "location": "Lumbridge graveyard",
+    "location": "",
     "mapID": "0",
     "name": "Nigel",
     "plane": "0"
@@ -34435,7 +34547,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Adamant sword",
+        "name": "Adamant shortsword",
         "stock": "2",
         "version": null
       },
@@ -34471,7 +34583,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Mithril sword",
+        "name": "Mithril shortsword",
         "stock": "3",
         "version": null
       },
@@ -36666,7 +36778,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Rune sword",
+        "name": "Rune shortsword",
         "stock": "1",
         "version": null
       }
@@ -40715,6 +40827,22 @@
         "sellPrice": "2",
         "stock": "\u221e",
         "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Cider",
+        "sellPrice": "2",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Cooked meat",
+        "sellPrice": "4",
+        "stock": "\u221e",
+        "version": null
       }
     ],
     "location": "Lumbridge",
@@ -40943,6 +41071,104 @@
     "location": "Quetzacalli Gorge",
     "mapID": "-1",
     "name": "The Windbreaker",
+    "plane": "0"
+  },
+  {
+    "coords": "?",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Bandages (Theatre of Blood)",
+        "sellPrice": "N/A",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Manta ray",
+        "sellPrice": "2",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Message (Theatre of Blood)",
+        "sellPrice": "N/A",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Mushroom potato",
+        "sellPrice": "1",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Onion",
+        "sellPrice": "N/A",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Prayer potion",
+        "sellPrice": "2",
+        "stock": "\u221e",
+        "version": "4 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Saradomin brew",
+        "sellPrice": "3",
+        "stock": "\u221e",
+        "version": "4 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Sea turtle",
+        "sellPrice": "2",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Shark",
+        "sellPrice": "1",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Stamina potion",
+        "sellPrice": "1",
+        "stock": "\u221e",
+        "version": "4 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Super restore",
+        "sellPrice": "3",
+        "stock": "\u221e",
+        "version": "4 dose"
+      }
+    ],
+    "location": "Theatre of Blood",
+    "mapID": "0",
+    "name": "Theatre of Blood Supplies",
     "plane": "0"
   },
   {
@@ -43051,6 +43277,72 @@
     "sellMultiplier": "1300"
   },
   {
+    "coords": "?",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Foul chunky potion",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Jar of congealed blood",
+        "sellPrice": "0",
+        "stock": "\u221e{{Refn|Only one allowed per inventory.|group=c}}",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Mysterious jerky",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Putrid sticky potion",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Rancid slimy potion",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Rank frothy potion",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Smelly kebab",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      }
+    ],
+    "location": "Castle Drakan, inside Vampyrium",
+    "mapID": "0",
+    "name": "Useful Supplies",
+    "plane": "0"
+  },
+  {
     "buyMultiplier": "400",
     "coords": "3191,3359",
     "isMembers": false,
@@ -43549,7 +43841,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Adamant sword",
+        "name": "Adamant shortsword",
         "stock": "2",
         "version": null
       },
@@ -43567,7 +43859,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Black sword",
+        "name": "Black shortsword",
         "stock": "3",
         "version": null
       },
@@ -43585,7 +43877,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Bronze sword",
+        "name": "Bronze shortsword",
         "stock": "5",
         "version": null
       },
@@ -43603,7 +43895,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Iron sword",
+        "name": "Iron shortsword",
         "stock": "4",
         "version": null
       },
@@ -43621,7 +43913,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Mithril sword",
+        "name": "Mithril shortsword",
         "stock": "3",
         "version": null
       },
@@ -43639,7 +43931,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Steel sword",
+        "name": "Steel shortsword",
         "stock": "4",
         "version": null
       }
@@ -44445,7 +44737,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Adamant sword",
+        "name": "Adamant shortsword",
         "stock": "2",
         "version": null
       },
@@ -44469,7 +44761,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Black sword",
+        "name": "Black shortsword",
         "stock": "3",
         "version": null
       },
@@ -44511,7 +44803,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Bronze sword",
+        "name": "Bronze shortsword",
         "stock": "5",
         "version": null
       },
@@ -44559,7 +44851,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Iron sword",
+        "name": "Iron shortsword",
         "stock": "4",
         "version": null
       },
@@ -44595,7 +44887,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Mithril sword",
+        "name": "Mithril shortsword",
         "stock": "3",
         "version": null
       },
@@ -44643,7 +44935,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Steel sword",
+        "name": "Steel shortsword",
         "stock": "4",
         "version": null
       }
@@ -45519,13 +45811,13 @@
       },
       {
         "currency": "Coins",
-        "name": "White sq shield",
+        "name": "White shortsword",
         "stock": "20",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "White sword",
+        "name": "White sq shield",
         "stock": "20",
         "version": null
       },
@@ -45657,13 +45949,13 @@
       },
       {
         "currency": "Coins",
-        "name": "White sq shield",
+        "name": "White shortsword",
         "stock": "20",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "White sword",
+        "name": "White sq shield",
         "stock": "20",
         "version": null
       },
@@ -45795,13 +46087,13 @@
       },
       {
         "currency": "Coins",
-        "name": "White sq shield",
+        "name": "White shortsword",
         "stock": "10",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "White sword",
+        "name": "White sq shield",
         "stock": "10",
         "version": null
       },
@@ -45933,13 +46225,13 @@
       },
       {
         "currency": "Coins",
-        "name": "White sq shield",
+        "name": "White shortsword",
         "stock": "0",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "White sword",
+        "name": "White sq shield",
         "stock": "0",
         "version": null
       },
@@ -46071,13 +46363,13 @@
       },
       {
         "currency": "Coins",
-        "name": "White sq shield",
+        "name": "White shortsword",
         "stock": "10",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "White sword",
+        "name": "White sq shield",
         "stock": "10",
         "version": null
       },
@@ -46209,14 +46501,14 @@
       },
       {
         "currency": "Coins",
-        "name": "White sq shield",
-        "stock": "0",
+        "name": "White shortsword",
+        "stock": "10",
         "version": null
       },
       {
         "currency": "Coins",
-        "name": "White sword",
-        "stock": "10",
+        "name": "White sq shield",
+        "stock": "0",
         "version": null
       },
       {
@@ -46231,6 +46523,32 @@
     "name": "White Knight Armoury (Peon)",
     "plane": "2",
     "sellMultiplier": "1000"
+  },
+  {
+    "coords": "3227,3246",
+    "isMembers": false,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Woodcutting cape",
+        "sellPrice": "99000",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Woodcutting cape",
+        "sellPrice": "99000",
+        "stock": "inf",
+        "version": "Trimmed"
+      }
+    ],
+    "location": "Lumbridge",
+    "mapID": "0",
+    "name": "Wilfred",
+    "plane": "0"
   },
   {
     "buyMultiplier": "600",
@@ -46340,32 +46658,6 @@
     "location": "",
     "mapID": "0",
     "name": "Wise Old Man",
-    "plane": "0"
-  },
-  {
-    "coords": "3227,3246",
-    "isMembers": false,
-    "items": [
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Woodcutting cape",
-        "sellPrice": "99000",
-        "stock": "inf",
-        "version": null
-      },
-      {
-        "buyPrice": "N/A",
-        "currency": "Coins",
-        "name": "Woodcutting cape",
-        "sellPrice": "99000",
-        "stock": "inf",
-        "version": "Trimmed"
-      }
-    ],
-    "location": "Lumbridge",
-    "mapID": "0",
-    "name": "Woodsman tutor",
     "plane": "0"
   },
   {
