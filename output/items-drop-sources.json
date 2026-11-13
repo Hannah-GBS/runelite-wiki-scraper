@@ -9180,6 +9180,14 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Brazier (Chasm of Tears)#Air brazier"
+      },
+      {
         "dropLevel": "1001",
         "dropType": "combat",
         "quantityHigh": 100,
@@ -11262,6 +11270,20 @@
     ],
     "group": "Amulet of defence (t)",
     "name": "Amulet of defence (t)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/25,000",
+        "source": "Fountain of Rune"
+      }
+    ],
+    "group": "Amulet of eternal glory",
+    "name": "Amulet of eternal glory"
   },
   {
     "dropSources": [
@@ -17396,8 +17418,8 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 82,
-        "quantityLow": 75,
+        "quantityHigh": 93,
+        "quantityLow": 91,
         "rarity": "55/330",
         "source": "Chest (The Fractured Archive)#Standard"
       },
@@ -21581,7 +21603,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Once",
-        "source": "Floatsam"
+        "source": "Flotsam"
       }
     ],
     "group": "Battered barrel",
@@ -22642,6 +22664,20 @@
     ],
     "group": "Beaver",
     "name": "Beaver"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Equipment crate"
+      }
+    ],
+    "group": "Bee hunter's hat",
+    "name": "Bee hunter's hat"
   },
   {
     "dropSources": [
@@ -25542,6 +25578,20 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cupboard (Jerico's house)"
+      }
+    ],
+    "group": "Bird feed",
+    "name": "Bird feed"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": -1,
         "quantityLow": -1,
         "rarity": "Always",
@@ -25655,7 +25705,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Very rare",
-        "source": "Undead tree"
+        "source": "Undead tree#Members"
       },
       {
         "dropLevel": "30",
@@ -26632,7 +26682,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Rare",
-        "source": "Undead tree"
+        "source": "Undead tree#Members"
       },
       {
         "dropLevel": "",
@@ -27070,7 +27120,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Rare",
-        "source": "Undead tree"
+        "source": "Undead tree#Members"
       },
       {
         "dropLevel": "",
@@ -28656,6 +28706,20 @@
     ],
     "group": "Black elegant shirt",
     "name": "Black elegant shirt"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "17",
+        "dropType": "hunter",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Always",
+        "source": "Black Honey Buzzard"
+      }
+    ],
+    "group": "Black feather",
+    "name": "Black feather"
   },
   {
     "dropSources": [
@@ -39657,6 +39721,14 @@
         "source": "Black Heather"
       },
       {
+        "dropLevel": "17",
+        "dropType": "hunter",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Black Honey Buzzard"
+      },
+      {
         "dropLevel": "33",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -41143,6 +41215,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Hobgoblin#Unarmed"
+      },
+      {
+        "dropLevel": "1",
+        "dropType": "hunter",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Honey Buzzard"
       },
       {
         "dropLevel": "19",
@@ -42735,6 +42815,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "The Nightmare"
+      },
+      {
+        "dropLevel": "640",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "The Smorks"
       },
       {
         "dropLevel": "14,16,21",
@@ -46716,6 +46804,20 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 140,
+        "quantityLow": 60,
+        "rarity": "8/60",
+        "source": "Bea's supplies"
+      }
+    ],
+    "group": "Bronze arrowtips",
+    "name": "Bronze arrowtips"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
@@ -47556,6 +47658,14 @@
         "quantityLow": 1,
         "rarity": "Uncommon",
         "source": "Barrel (Shaman Caves)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 70,
+        "quantityLow": 30,
+        "rarity": "8/60",
+        "source": "Bea's supplies"
       },
       {
         "dropLevel": "107",
@@ -49185,6 +49295,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "1",
+        "dropType": "hunter",
+        "quantityHigh": -1,
+        "quantityLow": -1,
+        "rarity": "Always",
+        "source": "Honey Buzzard"
+      }
+    ],
+    "group": "Brown feather",
+    "name": "Brown feather"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -49291,6 +49415,20 @@
     ],
     "group": "Bruma torch",
     "name": "Bruma torch"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Gnome crates (Monkey Madness II)"
+      }
+    ],
+    "group": "Brush",
+    "name": "Brush"
   },
   {
     "dropSources": [
@@ -50143,36 +50281,6 @@
     ],
     "group": "Butch",
     "name": "Butch"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Crate (Land's End)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Hunter kit"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/18",
-        "source": "Scavenger beast"
-      }
-    ],
-    "group": "Butterfly net",
-    "name": "Butterfly net"
   },
   {
     "dropSources": [
@@ -58174,6 +58282,28 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/30",
+        "source": "Boxes (Goblin Cave)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/30",
+        "source": "Crate (Goblin Cave)"
+      }
+    ],
+    "group": "Chicken",
+    "name": "Chicken"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "350",
         "dropType": "combat",
         "quantityHigh": 10,
@@ -59379,7 +59509,7 @@
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "5,10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -59387,7 +59517,7 @@
         "source": "Boat fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "1,15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -59499,19 +59629,19 @@
         "source": "Fishing spot (sacred eel)"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "5,10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/1,408",
         "source": "Fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "1,15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/1,206",
         "source": "Fishing spot (small net, bait)#Small net"
       },
       {
@@ -59593,7 +59723,7 @@
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "5,10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -59601,7 +59731,7 @@
         "source": "Boat fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "1,15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -59713,19 +59843,19 @@
         "source": "Fishing spot (sacred eel)"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "5,10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/11,968",
         "source": "Fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "1,15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/10,254",
         "source": "Fishing spot (small net, bait)#Small net"
       },
       {
@@ -59807,7 +59937,7 @@
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "5,10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -59815,7 +59945,7 @@
         "source": "Boat fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "1,15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -59927,19 +60057,19 @@
         "source": "Fishing spot (sacred eel)"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "5,10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/70,400",
         "source": "Fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "1,15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/60,319",
         "source": "Fishing spot (small net, bait)#Small net"
       },
       {
@@ -60021,7 +60151,7 @@
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "5,10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -60029,7 +60159,7 @@
         "source": "Boat fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "1,15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -60141,19 +60271,19 @@
         "source": "Fishing spot (sacred eel)"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "5,10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/23,232",
         "source": "Fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "1,15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/19,905",
         "source": "Fishing spot (small net, bait)#Small net"
       },
       {
@@ -60235,7 +60365,7 @@
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "5,10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -60243,7 +60373,7 @@
         "source": "Boat fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "1,15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -60371,19 +60501,19 @@
         "source": "Fishing spot (sacred eel)"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "5,10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/14,080",
         "source": "Fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "1,15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Rare",
+        "rarity": "1/12,063",
         "source": "Fishing spot (small net, bait)#Small net"
       },
       {
@@ -69859,6 +69989,14 @@
         "quantityLow": 500,
         "rarity": "7/52",
         "source": "Basilisk Sentinel"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 300,
+        "quantityLow": 150,
+        "rarity": "8/60",
+        "source": "Bea's supplies"
       },
       {
         "dropLevel": "",
@@ -95100,6 +95238,20 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Shelf (Shades of Mort'ton)"
+      }
+    ],
+    "group": "Diary (Shades of Mort'ton)",
+    "name": "Diary (Shades of Mort'ton)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 15,
         "quantityLow": 5,
         "rarity": "21/4,488",
@@ -95300,6 +95452,14 @@
         "quantityLow": 1,
         "rarity": "1/20",
         "source": "Chest (Dorgesh-Kaan Average)#Oldak's chests"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Crate (Goblin Temple, sphere)"
       }
     ],
     "group": "Dorgesh-kaan sphere",
@@ -102635,6 +102795,14 @@
         "quantityLow": 45,
         "rarity": "6/115",
         "source": "Araxxor"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Brazier (Chasm of Tears)#Earth brazier"
       },
       {
         "dropLevel": "",
@@ -111104,6 +111272,14 @@
         "source": "Branda the Fire Queen"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Brazier (Chasm of Tears)#Fire brazier"
+      },
+      {
         "dropLevel": "318",
         "dropType": "combat",
         "quantityHigh": 20,
@@ -114874,7 +115050,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/80",
+        "rarity": "1/56",
         "source": "Chest (The Fractured Archive)#Standard"
       }
     ],
@@ -114888,7 +115064,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/80",
+        "rarity": "1/56",
         "source": "Chest (The Fractured Archive)#Standard"
       }
     ],
@@ -114902,7 +115078,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/80",
+        "rarity": "1/56",
         "source": "Chest (The Fractured Archive)#Standard"
       }
     ],
@@ -114916,7 +115092,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/80",
+        "rarity": "1/56",
         "source": "Chest (The Fractured Archive)#Standard"
       }
     ],
@@ -155044,6 +155220,14 @@
         "source": "Baby impling jar"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 6,
+        "quantityLow": 2,
+        "rarity": "3/60",
+        "source": "Bea's supplies"
+      },
+      {
         "dropLevel": "246",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -155926,6 +156110,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 140,
+        "quantityLow": 60,
+        "rarity": "16/60",
+        "source": "Bea's supplies"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "5/100",
@@ -156184,7 +156376,7 @@
         "source": "Boat fishing spot (big net, harpoon)#Harpoon"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "5,10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -156192,7 +156384,7 @@
         "source": "Boat fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "1,15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -156248,19 +156440,19 @@
         "source": "Fishing spot (river)#Leechfin"
       },
       {
-        "dropLevel": "",
-        "dropType": "",
+        "dropLevel": "5,10",
+        "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Very rare",
+        "rarity": "1/1,055,875",
         "source": "Fishing spot (small net, bait)#Bait"
       },
       {
-        "dropLevel": "",
-        "dropType": "",
+        "dropLevel": "1,15",
+        "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Very rare",
+        "rarity": "1/870,305",
         "source": "Fishing spot (small net, bait)#Small net"
       },
       {
@@ -157981,6 +158173,14 @@
         "source": "Tormented Demon"
       },
       {
+        "dropLevel": "912",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Xarth"
+      },
+      {
         "dropLevel": "336",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -158175,6 +158375,58 @@
     ],
     "group": "Inquisitor's plateskirt",
     "name": "Inquisitor's plateskirt"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Land's End)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Equipment crate"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Hunter kit"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/18",
+        "source": "Scavenger beast"
+      }
+    ],
+    "group": "Insect net",
+    "name": "Insect net"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Equipment crate"
+      }
+    ],
+    "group": "Insect repellent",
+    "name": "Insect repellent"
   },
   {
     "dropSources": [
@@ -159747,6 +159999,14 @@
         "source": "Ava's attractor"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 140,
+        "quantityLow": 60,
+        "rarity": "5/60",
+        "source": "Bea's supplies"
+      },
+      {
         "dropLevel": "115,118,122,127,158",
         "dropType": "combat",
         "quantityHigh": 5,
@@ -161116,6 +161376,14 @@
         "quantityLow": 1,
         "rarity": "Rare",
         "source": "Barrel (Shaman Caves)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 70,
+        "quantityLow": 30,
+        "rarity": "5/60",
+        "source": "Bea's supplies"
       },
       {
         "dropLevel": "107",
@@ -167213,6 +167481,20 @@
     ],
     "group": "Khazard helmet",
     "name": "Khazard helmet"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "12",
+        "dropType": "hunter",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Swarm of killer wasps"
+      }
+    ],
+    "group": "Killer wasp sting",
+    "name": "Killer wasp sting"
   },
   {
     "dropSources": [
@@ -173569,6 +173851,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 6,
+        "quantityLow": 2,
+        "rarity": "5/60",
+        "source": "Bea's supplies"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Once",
@@ -178238,20 +178528,20 @@
         "source": "Fishing spot (cage, harpoon)#Harpoon"
       },
       {
-        "dropLevel": "5",
-        "dropType": "fishing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/7,040",
-        "source": "Fishing spot (small net, bait)#Bait"
-      },
-      {
-        "dropLevel": "1",
+        "dropLevel": "",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/5,802",
-        "source": "Fishing spot (small net, bait)#Small net"
+        "source": "Fishing spot (small net, bait)#Varlamore"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "fishing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/7,040",
+        "source": "Fishing spot (small net, bait)#Varlamore"
       },
       {
         "dropLevel": "40",
@@ -202312,6 +202602,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Zul-Andra)"
+      }
+    ],
+    "group": "Ohn's diary",
+    "name": "Ohn's diary"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "36",
         "dropType": "thieving",
         "quantityHigh": 1,
@@ -207689,6 +207993,20 @@
     ],
     "group": "Pink skirt",
     "name": "Pink skirt"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "50",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "SnelmLover500"
+      }
+    ],
+    "group": "Pink snelm",
+    "name": "Pink snelm"
   },
   {
     "dropSources": [
@@ -214888,6 +215206,28 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/30",
+        "source": "Boxes (Goblin Cave)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/30",
+        "source": "Crate (Goblin Cave)"
+      }
+    ],
+    "group": "Rat",
+    "name": "Rat"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "70",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -215008,7 +215348,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "1",
+        "dropLevel": "15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -215088,7 +215428,7 @@
         "source": "Fishing Trawler"
       },
       {
-        "dropLevel": "1",
+        "dropLevel": "15",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -216674,7 +217014,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "5",
+        "dropLevel": "10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -216698,7 +217038,7 @@
         "source": "Dagannoth spawn"
       },
       {
-        "dropLevel": "5",
+        "dropLevel": "10",
         "dropType": "fishing",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -237980,7 +238320,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Once",
-        "source": "Floatsam"
+        "source": "Flotsam"
       }
     ],
     "group": "Sea-soaked bowstring",
@@ -247860,6 +248200,28 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/30",
+        "source": "Boxes (Goblin Cave)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/30",
+        "source": "Crate (Goblin Cave)"
+      }
+    ],
+    "group": "Spider",
+    "name": "Spider"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "44",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -252259,6 +252621,14 @@
         "source": "Ava's accumulator"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 140,
+        "quantityLow": 60,
+        "rarity": "1/60",
+        "source": "Bea's supplies"
+      },
+      {
         "dropLevel": "47",
         "dropType": "thieving",
         "quantityHigh": 5,
@@ -254474,6 +254844,14 @@
         "quantityLow": 1,
         "rarity": "Rare",
         "source": "Barrel (Shaman Caves)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 70,
+        "quantityLow": 30,
+        "rarity": "1/60",
+        "source": "Bea's supplies"
       },
       {
         "dropLevel": "166",
@@ -279214,6 +279592,14 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/1,000",
+        "source": "Crate (Gloomthorn Trail)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,000",
         "source": "Crate (Goblin Cave)"
       },
       {
@@ -281390,7 +281776,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
-        "source": "Undead tree"
+        "source": "Undead tree#Members"
       }
     ],
     "group": "Undead twigs",
@@ -286256,6 +286642,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "1",
+        "dropType": "hunter",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Swarm of wasps"
+      }
+    ],
+    "group": "Wasp sting",
+    "name": "Wasp sting"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -286442,6 +286842,14 @@
         "quantityLow": 10,
         "rarity": "2/58",
         "source": "Amoxliatl#Post-quest"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Once",
+        "source": "Brazier (Chasm of Tears)#Water brazier"
       },
       {
         "dropLevel": "127",
@@ -290083,7 +290491,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Once",
-        "source": "Floatsam"
+        "source": "Flotsam"
       }
     ],
     "group": "Weathered rosewood plank",
@@ -297407,6 +297815,14 @@
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "103",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/5,000",
+        "source": "A corpse"
+      },
       {
         "dropLevel": "30,32,34,37",
         "dropType": "combat",

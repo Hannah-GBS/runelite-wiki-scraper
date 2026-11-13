@@ -2126,6 +2126,14 @@
         "plane": "0"
       },
       {
+        "coords": "3585,3496",
+        "isMembers": true,
+        "location": "Haunted Woods - during A Shell of a Friend",
+        "mapID": "0",
+        "name": "Bronze axe",
+        "plane": "0"
+      },
+      {
         "coords": "2778,10079",
         "isMembers": true,
         "location": "Kendal's Lair",
@@ -3125,7 +3133,7 @@
       {
         "coords": "2823,3449",
         "isMembers": true,
-        "location": "Catherby - house north of Hickton's Archery Emporium",
+        "location": "Catherby - Councillor Catherine's office",
         "mapID": "0",
         "name": "Bucket of water",
         "plane": "0"
@@ -3217,6 +3225,14 @@
         "mapID": "0",
         "name": "Bucket of water",
         "plane": "1"
+      },
+      {
+        "coords": "3307,3391",
+        "isMembers": true,
+        "location": "Southwest of the Digsite",
+        "mapID": "0",
+        "name": "Bucket of water",
+        "plane": "0"
       },
       {
         "coords": "2885,3945",
@@ -4689,6 +4705,19 @@
     ]
   },
   {
+    "group": "Dew-covered branch",
+    "spawns": [
+      {
+        "coords": "3573,3485",
+        "isMembers": true,
+        "location": "Haunted Woods",
+        "mapID": "0",
+        "name": "Dew-covered branch",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Diary (Witch's House)",
     "spawns": [
       {
@@ -5308,6 +5337,19 @@
     ]
   },
   {
+    "group": "Fresh leaves",
+    "spawns": [
+      {
+        "coords": "3573,3502",
+        "isMembers": true,
+        "location": "Haunted Woods",
+        "mapID": "0",
+        "name": "Fresh leaves",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Garlic",
     "spawns": [
       {
@@ -5818,6 +5860,14 @@
         "plane": "0"
       },
       {
+        "coords": "3223,3252",
+        "isMembers": false,
+        "location": "Lumbridge",
+        "mapID": "0",
+        "name": "Hammer",
+        "plane": "0"
+      },
+      {
         "coords": "1401,2866",
         "isMembers": true,
         "location": "Mistrock",
@@ -5925,6 +5975,14 @@
         "coords": "3176,2426",
         "isMembers": true,
         "location": "The Summer Shore",
+        "mapID": "0",
+        "name": "Hammer",
+        "plane": "0"
+      },
+      {
+        "coords": "3186,3422",
+        "isMembers": false,
+        "location": "Varrock \u2013 Anvil building",
         "mapID": "0",
         "name": "Hammer",
         "plane": "0"
@@ -6875,7 +6933,7 @@
         "coords": "4119,5546",
         "isMembers": true,
         "location": "The Fractured Archive lobby",
-        "mapID": "0",
+        "mapID": "-1",
         "name": "Jug of wine",
         "plane": "0"
       },
@@ -7842,7 +7900,7 @@
         "coords": "4114,5535",
         "isMembers": true,
         "location": "The Fractured Archive lobby",
-        "mapID": "0",
+        "mapID": "-1",
         "name": "Mithril pickaxe",
         "plane": "0"
       }
@@ -10106,6 +10164,19 @@
     ]
   },
   {
+    "group": "Small fishing net (Evil Bob)",
+    "spawns": [
+      {
+        "coords": "2518,4768",
+        "isMembers": false,
+        "location": "ScapeRune",
+        "mapID": "10057",
+        "name": "Small fishing net (Evil Bob)",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Smashed glass",
     "spawns": [
       {
@@ -10301,6 +10372,14 @@
         "isMembers": true,
         "location": "Slayer Tower basement (requires Telekinetic Grab)",
         "mapID": "14",
+        "name": "Spade",
+        "plane": "0"
+      },
+      {
+        "coords": "3316,3385",
+        "isMembers": true,
+        "location": "Southwest of the Digsite",
+        "mapID": "0",
         "name": "Spade",
         "plane": "0"
       },
@@ -10647,6 +10726,19 @@
         "location": "Shayziens' Wall - southern outpost",
         "mapID": "0",
         "name": "Strawberry",
+        "plane": "0"
+      }
+    ]
+  },
+  {
+    "group": "Strong sticks",
+    "spawns": [
+      {
+        "coords": "3581,3479",
+        "isMembers": true,
+        "location": "Haunted Woods",
+        "mapID": "0",
+        "name": "Strong sticks",
         "plane": "0"
       }
     ]

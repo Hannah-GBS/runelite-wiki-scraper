@@ -950,7 +950,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Butterfly net",
+        "name": "Insect net",
         "stock": "5",
         "version": null
       },
@@ -5004,6 +5004,90 @@
     "name": "Battle Runes (Enter the Abyss)",
     "plane": "0",
     "sellMultiplier": "1000"
+  },
+  {
+    "buyMultiplier": "400",
+    "coords": "3316,3376",
+    "isMembers": true,
+    "items": [
+      {
+        "currency": "Coins",
+        "name": "Bird snare",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Bird snare pack",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Box trap",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Box trap pack",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Butterfly jar",
+        "stock": "100",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Magic box",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Magic imp box pack",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Net trap (item)",
+        "stock": "25",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Noose wand",
+        "stock": "50",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Rabbit snare",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Teasing stick",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Torch",
+        "stock": "20",
+        "version": "Unlit"
+      }
+    ],
+    "location": "North west of Exam Centre",
+    "mapID": "0",
+    "name": "Bea's Hunting Gear",
+    "plane": "0",
+    "sellMultiplier": "1300"
   },
   {
     "buyMultiplier": "800",
@@ -13609,6 +13693,38 @@
       {
         "buyPrice": "N/A",
         "currency": "Coins",
+        "name": "Vampyre costume bottom",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Vampyre costume cape",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Vampyre costume top",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
+        "name": "Vampyre monocle",
+        "sellPrice": "0",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Coins",
         "name": "War ship",
         "sellPrice": "0",
         "stock": "inf",
@@ -13872,6 +13988,30 @@
         "currency": "Coins",
         "name": "Oculus orb",
         "stock": "100",
+        "version": null
+      },
+      {
+        "buyPrice": "",
+        "currency": "Coins",
+        "name": "Painted kiteshield",
+        "sellPrice": "45",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "buyPrice": "",
+        "currency": "Coins",
+        "name": "Painted shortbow",
+        "sellPrice": "45",
+        "stock": "30",
+        "version": null
+      },
+      {
+        "buyPrice": "",
+        "currency": "Coins",
+        "name": "Painted shortsword",
+        "sellPrice": "45",
+        "stock": "30",
         "version": null
       },
       {
@@ -15771,7 +15911,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Butterfly net",
+        "name": "Insect net",
         "stock": "5",
         "version": null
       },
@@ -23205,7 +23345,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Butterfly net",
+        "name": "Insect net",
         "stock": "5",
         "version": null
       },
@@ -30996,7 +31136,7 @@
       },
       {
         "currency": "Coins",
-        "name": "Butterfly net",
+        "name": "Insect net",
         "stock": "5",
         "version": null
       },
@@ -41255,6 +41395,12 @@
       },
       {
         "currency": "Coins",
+        "name": "Needle",
+        "stock": "3",
+        "version": null
+      },
+      {
+        "currency": "Coins",
         "name": "Pink skirt",
         "stock": "5",
         "version": null
@@ -41281,6 +41427,12 @@
         "currency": "Coins",
         "name": "Silk",
         "stock": "5",
+        "version": null
+      },
+      {
+        "currency": "Coins",
+        "name": "Thread",
+        "stock": "100",
         "version": null
       },
       {
