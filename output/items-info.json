@@ -56551,14 +56551,14 @@
     "version": null
   },
   {
-    "examineText": "For catching butterflies...",
-    "group": "Butterfly net",
+    "examineText": "For catching insects...",
+    "group": "Insect net",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": true,
     "itemID": 10010,
-    "name": "Butterfly net",
-    "url": "https://oldschool.runescape.wiki/w/Butterfly_net",
+    "name": "Insect net",
+    "url": "https://oldschool.runescape.wiki/w/Insect_net",
     "version": null
   },
   {
@@ -63283,14 +63283,14 @@
     "version": null
   },
   {
-    "examineText": "For catching butterflies.",
-    "group": "Magic butterfly net",
+    "examineText": "For catching insects.",
+    "group": "Magic insect net",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 11259,
-    "name": "Magic butterfly net",
-    "url": "https://oldschool.runescape.wiki/w/Magic_butterfly_net",
+    "name": "Magic insect net",
+    "url": "https://oldschool.runescape.wiki/w/Magic_insect_net",
     "version": null
   },
   {
@@ -114081,7 +114081,7 @@
     "version": "Redwood"
   },
   {
-    "examineText": "The perfect hood for runecrafting.",
+    "examineText": "The perfect hat for runecrafting.",
     "group": "Hat of the Eye",
     "isDefaultVersion": true,
     "isMembers": true,
@@ -134739,17 +134739,6 @@
     "version": null
   },
   {
-    "examineText": "I need to decipher this.",
-    "group": "Clue scroll (hard) - YAROYGR",
-    "isDefaultVersion": true,
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30929,
-    "name": "Clue scroll (hard)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_%28hard%29_-_YAROYGR",
-    "version": null
-  },
-  {
     "examineText": "Perhaps someone at the observatory can teach me to navigate?",
     "group": "Clue scroll (hard) - 05.03N 34.58W",
     "isDefaultVersion": true,
@@ -134769,17 +134758,6 @@
     "itemID": 30932,
     "name": "Clue scroll (elite)",
     "url": "https://oldschool.runescape.wiki/w/Clue_scroll_%28elite%29_-_Crush_the_spirited_earth",
-    "version": null
-  },
-  {
-    "examineText": "A clue!",
-    "group": "Clue scroll (medium) - CUTE HI",
-    "isDefaultVersion": true,
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 30933,
-    "name": "Clue scroll (medium)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_%28medium%29_-_CUTE_HI",
     "version": null
   },
   {
@@ -146351,8 +146329,8 @@
     "isTradeable": false,
     "itemID": 33089,
     "name": "Bottomless milk bucket",
-    "url": "https://oldschool.runescape.wiki/w/Bottomless_milk_bucket%23Full",
-    "version": "Full"
+    "url": "https://oldschool.runescape.wiki/w/Bottomless_milk_bucket%23Filled",
+    "version": "Filled"
   },
   {
     "examineText": "It's a bucket that can hold a lot of milk at once.",
@@ -154899,6 +154877,193 @@
     "itemID": 34762,
     "name": "Amulet of sight",
     "url": "https://oldschool.runescape.wiki/w/Amulet_of_sight",
+    "version": null
+  },
+  {
+    "examineText": "A pretty shortsword.",
+    "group": "Painted shortsword",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34766,
+    "name": "Painted shortsword",
+    "url": "https://oldschool.runescape.wiki/w/Painted_shortsword",
+    "version": null
+  },
+  {
+    "examineText": "A pretty kiteshield.",
+    "group": "Painted kiteshield",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34769,
+    "name": "Painted kiteshield",
+    "url": "https://oldschool.runescape.wiki/w/Painted_kiteshield",
+    "version": null
+  },
+  {
+    "examineText": "A pretty shortbow.",
+    "group": "Painted shortbow",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34772,
+    "name": "Painted shortbow",
+    "url": "https://oldschool.runescape.wiki/w/Painted_shortbow",
+    "version": null
+  },
+  {
+    "examineText": "A box full of stinging insects.",
+    "group": "Bee box",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34775,
+    "name": "Bee box",
+    "url": "https://oldschool.runescape.wiki/w/Bee_box",
+    "version": null
+  },
+  {
+    "examineText": "Makes sure no bees get in your eyes!",
+    "group": "Bee hunter's hat",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34777,
+    "name": "Bee hunter's hat",
+    "url": "https://oldschool.runescape.wiki/w/Bee_hunter%27s_hat",
+    "version": null
+  },
+  {
+    "examineText": "If this is the point of the wasp, I can see why many people don't like them.",
+    "group": "Wasp sting",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34779,
+    "name": "Wasp sting",
+    "url": "https://oldschool.runescape.wiki/w/Wasp_sting",
+    "version": null
+  },
+  {
+    "examineText": "Perfectly engineered to cause sadness and pain.",
+    "group": "Killer wasp sting",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34781,
+    "name": "Killer wasp sting",
+    "url": "https://oldschool.runescape.wiki/w/Killer_wasp_sting",
+    "version": null
+  },
+  {
+    "examineText": "A fairly plain feather.",
+    "group": "Brown feather",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 34783,
+    "name": "Brown feather",
+    "url": "https://oldschool.runescape.wiki/w/Brown_feather",
+    "version": null
+  },
+  {
+    "examineText": "A fairly plain feather.",
+    "group": "Black feather",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 34785,
+    "name": "Black feather",
+    "url": "https://oldschool.runescape.wiki/w/Black_feather",
+    "version": null
+  },
+  {
+    "examineText": "A deadly throwing dart with a wasp stinger tip. Bea will trade these for supplies.",
+    "group": "Wasp dart",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34787,
+    "name": "Wasp dart",
+    "url": "https://oldschool.runescape.wiki/w/Wasp_dart",
+    "version": null
+  },
+  {
+    "examineText": "A deadly throwing dart with a killer wasp stinger tip. Bea will trade these for supplies.",
+    "group": "Killer wasp dart",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34789,
+    "name": "Killer wasp dart",
+    "url": "https://oldschool.runescape.wiki/w/Killer_wasp_dart",
+    "version": null
+  },
+  {
+    "examineText": "A sack of supplies for helping Bea on her farm.",
+    "group": "Bea's supplies",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34791,
+    "name": "Bea's supplies",
+    "url": "https://oldschool.runescape.wiki/w/Bea%27s_supplies",
+    "version": null
+  },
+  {
+    "examineText": "A pile of fresh leaves. A snail's favourite treat!",
+    "group": "Fresh leaves",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34793,
+    "name": "Fresh leaves",
+    "url": "https://oldschool.runescape.wiki/w/Fresh_leaves",
+    "version": null
+  },
+  {
+    "examineText": "A dew-soaked branch. The dew might be useful.",
+    "group": "Dew-covered branch",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34795,
+    "name": "Dew-covered branch",
+    "url": "https://oldschool.runescape.wiki/w/Dew-covered_branch",
+    "version": null
+  },
+  {
+    "examineText": "Full of the good stuff.",
+    "group": "Restorative dew",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34797,
+    "name": "Restorative dew",
+    "url": "https://oldschool.runescape.wiki/w/Restorative_dew",
+    "version": null
+  },
+  {
+    "examineText": "Some dry wooden sticks. They look sturdy.",
+    "group": "Strong sticks",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34799,
+    "name": "Strong sticks",
+    "url": "https://oldschool.runescape.wiki/w/Strong_sticks",
+    "version": null
+  },
+  {
+    "examineText": "A pink snail shell helmet.",
+    "group": "Pink snelm",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 34801,
+    "name": "Pink snelm",
+    "url": "https://oldschool.runescape.wiki/w/Pink_snelm",
     "version": null
   }
 ]
