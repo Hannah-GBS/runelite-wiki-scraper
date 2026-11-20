@@ -7321,6 +7321,48 @@
     "ticks": "4"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Angry giant rat bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Angry giant rat bone (polished).png",
+      "name": "Angry giant rat bone",
+      "quantity": "1",
+      "txt": "Angry giant rat bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Angry giant rat bone.png",
+        "name": "Angry giant rat bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Angry giant rat bone in vinegar.png",
+      "name": "Angry giant rat bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "facilities": "Forestry Shop",
     "materials": [
       {
@@ -7409,6 +7451,48 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Ankou bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ankou bone (polished).png",
+      "name": "Ankou bone",
+      "quantity": "1",
+      "txt": "Ankou bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Ankou bone.png",
+        "name": "Ankou bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ankou bone in vinegar.png",
+      "name": "Ankou bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Lectern (Ancient)",
@@ -9149,6 +9233,48 @@
     "tools": "Specimen brush"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Armoured zombie bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Armoured zombie bone (polished).png",
+      "name": "Armoured zombie bone",
+      "quantity": "1",
+      "txt": "Armoured zombie bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Armoured zombie bone.png",
+        "name": "Armoured zombie bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Armoured zombie bone in vinegar.png",
+      "name": "Armoured zombie bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "materials": [
       {
         "image": "Logs.png",
@@ -10606,6 +10732,48 @@
     "ticks": ""
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Aviansie wing in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Aviansie wing (polished).png",
+      "name": "Aviansie wing",
+      "quantity": "1",
+      "txt": "Aviansie wing (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Aviansie wing.png",
+        "name": "Aviansie wing",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Aviansie wing in vinegar.png",
+      "name": "Aviansie wing in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "facilities": "Specimen table (Another Slice of H.A.M.)|Specimen table",
     "materials": [
       {
@@ -10884,13 +11052,12 @@
     "ticks": "0"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Baby dragon bone"
+        "name": "Baby dragon bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -10902,7 +11069,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Baby dragon bone.png",
+        "name": "Baby dragon bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Baby dragon bone in vinegar.png",
+      "name": "Baby dragon bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Bone grinder",
@@ -12421,13 +12610,12 @@
     "tools": "Knife"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Basilisk bone"
+        "name": "Basilisk bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -12439,7 +12627,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Basilisk bone.png",
+        "name": "Basilisk bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Basilisk bone in vinegar.png",
+      "name": "Basilisk bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Loom",
@@ -12545,13 +12755,12 @@
     "ticks": ""
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Bat wing"
+        "name": "Bat wing in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -12563,7 +12772,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Bat wing.png",
+        "name": "Bat wing",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bat wing in vinegar.png",
+      "name": "Bat wing in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -12709,13 +12940,12 @@
     "ticks": "1"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Bear ribs"
+        "name": "Bear ribs in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -12727,7 +12957,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Bear ribs.png",
+        "name": "Bear ribs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Bear ribs in vinegar.png",
+      "name": "Bear ribs in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Bone grinder",
@@ -13134,13 +13386,12 @@
     "ticks": ""
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Big frog leg"
+        "name": "Big frog leg in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -13152,7 +13403,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Big frog leg.png",
+        "name": "Big frog leg",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Big frog leg in vinegar.png",
+      "name": "Big frog leg in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -14702,7 +14975,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">77,237,274</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">82,000,132</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -18554,6 +18827,48 @@
     "tools": "Costume needle"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Blue dragon bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blue dragon bone (polished).png",
+      "name": "Blue dragon bone",
+      "quantity": "1",
+      "txt": "Blue dragon bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Blue dragon bone.png",
+        "name": "Blue dragon bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Blue dragon bone in vinegar.png",
+      "name": "Blue dragon bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "facilities": "Tannery",
     "materials": [
       {
@@ -19538,6 +19853,48 @@
     },
     "skills": [],
     "ticks": "0"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Boar bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Boar bone (polished).png",
+      "name": "Boar bone",
+      "quantity": "1",
+      "txt": "Boar bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Boar bone.png",
+        "name": "Boar bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Boar bone in vinegar.png",
+      "name": "Boar bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Body Altar",
@@ -20704,7 +21061,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">74,453,169</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">78,781,207</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -22376,6 +22733,28 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "materials": [
+      {
+        "image": "Blessed compost.png",
+        "name": "Blessed compost",
+        "quantity": "1"
+      },
+      {
+        "image": "Cabbage water.png",
+        "name": "Cabbage water",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Brassican sentience potion.png",
+      "name": "Brassican sentience potion",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
   },
   {
     "materials": [
@@ -29850,6 +30229,28 @@
   {
     "materials": [
       {
+        "image": "Cabbage.png",
+        "name": "Cabbage",
+        "quantity": "1"
+      },
+      {
+        "image": "Vial of water.png",
+        "name": "Vial of water",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Cabbage water.png",
+      "name": "Cabbage water",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": ""
+  },
+  {
+    "materials": [
+      {
         "image": "Empty sack.png",
         "name": "Empty sack",
         "quantity": "1"
@@ -30768,24 +31169,6 @@
     "ticks": ""
   },
   {
-    "materials": [
-      {
-        "image": "Old onion.png",
-        "name": "Old onion",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Candy onion.png",
-      "name": "Candy onion",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0",
-    "tools": "Molten sugar"
-  },
-  {
     "facilities": "Furnace",
     "materials": [
       {
@@ -31185,6 +31568,48 @@
     "ticks": "0"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Catablepon ribs in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Catablepon ribs (polished).png",
+      "name": "Catablepon ribs",
+      "quantity": "1",
+      "txt": "Catablepon ribs (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Catablepon ribs.png",
+        "name": "Catablepon ribs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Catablepon ribs in vinegar.png",
+      "name": "Catablepon ribs in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "facilities": "Catalytic runic altar",
     "materials": [
       {
@@ -31335,13 +31760,12 @@
     "ticks": "1"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Cave goblin skull"
+        "name": "Cave goblin skull in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -31353,7 +31777,71 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Cave goblin skull.png",
+        "name": "Cave goblin skull",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Cave goblin skull in vinegar.png",
+      "name": "Cave goblin skull in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Cave horror bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Cave horror bone (polished).png",
+      "name": "Cave horror bone",
+      "quantity": "1",
+      "txt": "Cave horror bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Cave horror bone.png",
+        "name": "Cave horror bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Cave horror bone in vinegar.png",
+      "name": "Cave horror bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Preparation Table",
@@ -32162,6 +32650,48 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Chicken wing in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Chicken wing (polished).png",
+      "name": "Chicken wing",
+      "quantity": "1",
+      "txt": "Chicken wing (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Chicken wing.png",
+        "name": "Chicken wing",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Chicken wing in vinegar.png",
+      "name": "Chicken wing in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -33172,6 +33702,48 @@
     ],
     "ticks": "3",
     "tools": "Costume needle"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Colonel radick's bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Colonel radick's bone (polished).png",
+      "name": "Colonel radick's bone",
+      "quantity": "1",
+      "txt": "Colonel radick's bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Colonel radick's bone.png",
+        "name": "Colonel radick's bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Colonel radick's bone in vinegar.png",
+      "name": "Colonel radick's bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -35489,6 +36061,48 @@
     "ticks": "3"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Cow bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Cow bone (polished).png",
+      "name": "Cow bone",
+      "quantity": "1",
+      "txt": "Cow bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Cow bone.png",
+        "name": "Cow bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Cow bone in vinegar.png",
+      "name": "Cow bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "materials": [
       {
         "image": "Fresh crab claw.png",
@@ -35654,6 +36268,90 @@
     ],
     "ticks": "4",
     "tools": "Hammer"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Crawling hand bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Crawling hand bone (polished).png",
+      "name": "Crawling hand bone",
+      "quantity": "1",
+      "txt": "Crawling hand bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Crawling hand bone.png",
+        "name": "Crawling hand bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Crawling hand bone in vinegar.png",
+      "name": "Crawling hand bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Crocodile bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Crocodile bone (polished).png",
+      "name": "Crocodile bone",
+      "quantity": "1",
+      "txt": "Crocodile bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Crocodile bone.png",
+        "name": "Crocodile bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Crocodile bone in vinegar.png",
+      "name": "Crocodile bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Spinning wheel",
@@ -43245,6 +43943,48 @@
     "tools": "Gardening trowel"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Cyclops bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Cyclops bone (polished).png",
+      "name": "Cyclops bone",
+      "quantity": "1",
+      "txt": "Cyclops bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Cyclops bone.png",
+        "name": "Cyclops bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Cyclops bone in vinegar.png",
+      "name": "Cyclops bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "facilities": "Exposed altar",
     "materials": [
       {
@@ -43263,13 +44003,12 @@
     "ticks": "0"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Dagannoth ribs"
+        "name": "Dagannoth ribs in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -43281,7 +44020,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Dagannoth ribs.png",
+        "name": "Dagannoth ribs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dagannoth ribs in vinegar.png",
+      "name": "Dagannoth ribs in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Bone grinder",
@@ -44098,13 +44859,12 @@
     "ticks": "1"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Desert lizard bone"
+        "name": "Desert lizard bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -44116,7 +44876,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Desert lizard bone.png",
+        "name": "Desert lizard bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Desert lizard bone in vinegar.png",
+      "name": "Desert lizard bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -49548,6 +50330,48 @@
     "facilities": "Cooking range",
     "materials": [
       {
+        "image": "Bone in vinegar.png",
+        "name": "Druid ribs in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Druid ribs (polished).png",
+      "name": "Druid ribs",
+      "quantity": "1",
+      "txt": "Druid ribs (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Druid ribs.png",
+        "name": "Druid ribs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Druid ribs in vinegar.png",
+      "name": "Druid ribs in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
         "image": "Mixed dragon (garnished).png",
         "name": "Mixed dragon (garnished)",
         "quantity": "1"
@@ -53896,13 +54720,12 @@
     "ticks": "3"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Experiment bone"
+        "name": "Experiment bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -53914,7 +54737,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Experiment bone.png",
+        "name": "Experiment bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Experiment bone in vinegar.png",
+      "name": "Experiment bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Belona",
@@ -55270,13 +56115,12 @@
     "ticks": ""
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Fire giant bone"
+        "name": "Fire giant bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -55288,7 +56132,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Fire giant bone.png",
+        "name": "Fire giant bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Fire giant bone in vinegar.png",
+      "name": "Fire giant bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -57613,6 +58479,48 @@
     "ticks": "3"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Fox bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Fox bone (polished).png",
+      "name": "Fox bone",
+      "quantity": "1",
+      "txt": "Fox bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Fox bone.png",
+        "name": "Fox bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Fox bone in vinegar.png",
+      "name": "Fox bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "facilities": "Forestry Shop",
     "materials": [
       {
@@ -57705,6 +58613,48 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Frogeel spine in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Frogeel spine (polished).png",
+      "name": "Frogeel spine",
+      "quantity": "1",
+      "txt": "Frogeel spine (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Frogeel spine.png",
+        "name": "Frogeel spine",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Frogeel spine in vinegar.png",
+      "name": "Frogeel spine in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Bone grinder",
@@ -58549,13 +59499,12 @@
     "ticks": "2"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Ghoul bone"
+        "name": "Ghoul bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -58567,7 +59516,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Ghoul bone.png",
+        "name": "Ghoul bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ghoul bone in vinegar.png",
+      "name": "Ghoul bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -58616,13 +59587,12 @@
     "ticks": "0"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Giant bat wing"
+        "name": "Giant bat wing in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -58634,7 +59604,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Giant bat wing.png",
+        "name": "Giant bat wing",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Giant bat wing in vinegar.png",
+      "name": "Giant bat wing in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Cooking range",
@@ -58709,13 +59701,12 @@
     "ticks": "0"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Giant rat bone"
+        "name": "Giant rat bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -58728,6 +59719,28 @@
     },
     "skills": [],
     "ticks": "20"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Giant rat bone.png",
+        "name": "Giant rat bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Giant rat bone in vinegar.png",
+      "name": "Giant rat bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -58776,6 +59789,48 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Gnome child bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Gnome child bone (polished).png",
+      "name": "Gnome child bone",
+      "quantity": "1",
+      "txt": "Gnome child bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Gnome child bone.png",
+        "name": "Gnome child bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Gnome child bone in vinegar.png",
+      "name": "Gnome child bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -58936,6 +59991,48 @@
     "tools": "Pestle and mortar"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Goat ribs in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Goat ribs (polished).png",
+      "name": "Goat ribs",
+      "quantity": "1",
+      "txt": "Goat ribs (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Goat ribs.png",
+        "name": "Goat ribs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Goat ribs in vinegar.png",
+      "name": "Goat ribs in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "materials": [
       {
         "image": "Toadflax potion (unf).png",
@@ -58966,13 +60063,12 @@
     "ticks": "2"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Goblin skull"
+        "name": "Goblin skull in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -58984,7 +60080,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Goblin skull.png",
+        "name": "Goblin skull",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Goblin skull in vinegar.png",
+      "name": "Goblin skull in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Oldak",
@@ -65540,6 +66658,48 @@
     "ticks": "2"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Hill giant bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Hill giant bone (polished).png",
+      "name": "Hill giant bone",
+      "quantity": "1",
+      "txt": "Hill giant bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Hill giant bone.png",
+        "name": "Hill giant bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Hill giant bone in vinegar.png",
+      "name": "Hill giant bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "materials": [
       {
         "image": "Scythe of Vitur (uncharged).png",
@@ -66344,13 +67504,12 @@
     "ticks": "0"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Ice giant ribs"
+        "name": "Ice giant ribs in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -66362,7 +67521,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Ice giant ribs.png",
+        "name": "Ice giant ribs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ice giant ribs in vinegar.png",
+      "name": "Ice giant ribs in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Lectern (Lunar)",
@@ -67970,6 +69151,48 @@
     },
     "skills": [],
     "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Infernal mage bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Infernal mage bone (polished).png",
+      "name": "Infernal mage bone",
+      "quantity": "1",
+      "txt": "Infernal mage bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Infernal mage bone.png",
+        "name": "Infernal mage bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Infernal mage bone in vinegar.png",
+      "name": "Infernal mage bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -71203,13 +72426,12 @@
     "ticks": "1"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Jackal bone"
+        "name": "Jackal bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -71221,7 +72443,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Jackal bone.png",
+        "name": "Jackal bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Jackal bone in vinegar.png",
+      "name": "Jackal bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -71709,13 +72953,12 @@
     "tools": "Knife"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Jogre bone"
+        "name": "Jogre bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -71727,7 +72970,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Jogre bone.png",
+        "name": "Jogre bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Jogre bone in vinegar.png",
+      "name": "Jogre bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Bone grinder",
@@ -75853,6 +77118,48 @@
     "ticks": ""
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Lizardman bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Lizardman bone (polished).png",
+      "name": "Lizardman bone",
+      "quantity": "1",
+      "txt": "Lizardman bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Lizardman bone.png",
+        "name": "Lizardman bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Lizardman bone in vinegar.png",
+      "name": "Lizardman bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "materials": [
       {
         "image": "Xeric's talisman (inert).png",
@@ -77234,6 +78541,48 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Lynx bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Lynx bone (polished).png",
+      "name": "Lynx bone",
+      "quantity": "1",
+      "txt": "Lynx bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Lynx bone.png",
+        "name": "Lynx bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Lynx bone in vinegar.png",
+      "name": "Lynx bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -80604,6 +81953,48 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Minotaur bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Minotaur bone (polished).png",
+      "name": "Minotaur bone",
+      "quantity": "1",
+      "txt": "Minotaur bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Minotaur bone.png",
+        "name": "Minotaur bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Minotaur bone in vinegar.png",
+      "name": "Minotaur bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Water Altar",
@@ -84499,13 +85890,12 @@
     "ticks": ""
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Mogre bone"
+        "name": "Mogre bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -84517,7 +85907,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Mogre bone.png",
+        "name": "Mogre bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Mogre bone in vinegar.png",
+      "name": "Mogre bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Alry the Angler",
@@ -84777,24 +86189,6 @@
     "ticks": "6"
   },
   {
-    "facilities": "Fire",
-    "materials": [
-      {
-        "image": "Sugar.png",
-        "name": "Sugar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Molten sugar.png",
-      "name": "Molten sugar",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": ""
-  },
-  {
     "facilities": "Bone grinder",
     "materials": [
       {
@@ -84818,13 +86212,12 @@
     "ticks": ""
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Monkey paw"
+        "name": "Monkey paw in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -84836,7 +86229,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Monkey paw.png",
+        "name": "Monkey paw",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Monkey paw in vinegar.png",
+      "name": "Monkey paw in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Cooking range",
@@ -85407,13 +86822,12 @@
     "ticks": "2"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Moss giant bone"
+        "name": "Moss giant bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -85425,7 +86839,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Moss giant bone.png",
+        "name": "Moss giant bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Moss giant bone in vinegar.png",
+      "name": "Moss giant bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -89881,13 +91317,12 @@
     "ticks": ""
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Ogre ribs"
+        "name": "Ogre ribs in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -89899,7 +91334,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Ogre ribs.png",
+        "name": "Ogre ribs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ogre ribs in vinegar.png",
+      "name": "Ogre ribs in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Lamp oil still",
@@ -91751,6 +93208,48 @@
     "ticks": "1"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Ork skull in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ork skull (polished).png",
+      "name": "Ork skull",
+      "quantity": "1",
+      "txt": "Ork skull (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Ork skull.png",
+        "name": "Ork skull",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ork skull in vinegar.png",
+      "name": "Ork skull in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "materials": [
       {
         "image": "Osmumten's fang.png",
@@ -93191,6 +94690,35 @@
     "ticks": "2"
   },
   {
+    "facilities": "Cooking pot (Dishop Dennis's house)",
+    "materials": [
+      {
+        "image": "Perfect potato.png",
+        "name": "Perfect potato",
+        "quantity": "1"
+      },
+      {
+        "image": "Perfect cabbage.png",
+        "name": "Perfect cabbage",
+        "quantity": "1"
+      },
+      {
+        "image": "Perfect rosemary.png",
+        "name": "Perfect rosemary",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Perfect cabbage stew.png",
+      "name": "Perfect cabbage stew",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2",
+    "tools": "Bowl"
+  },
+  {
     "materials": [
       {
         "image": "Enhanced quetzal whistle.png",
@@ -93249,6 +94777,12 @@
   {
     "facilities": "Soar Leader Pitri",
     "materials": [
+      {
+        "image": "Raw pyre fox.png",
+        "name": "Perfected quetzal whistle(i)",
+        "quantity": "10000",
+        "version": "Creation"
+      },
       {
         "image": "Perfected quetzal whistle.png",
         "name": "Perfected quetzal whistle",
@@ -95276,7 +96810,7 @@
       "quantity": "1"
     },
     "skills": [],
-    "ticks": "2"
+    "ticks": "1"
   },
   {
     "materials": [
@@ -96697,13 +98231,12 @@
     "ticks": "3"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Rabbit bone"
+        "name": "Rabbit bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -96715,7 +98248,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Rabbit bone.png",
+        "name": "Rabbit bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Rabbit bone in vinegar.png",
+      "name": "Rabbit bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -96943,13 +98498,12 @@
     "ticks": "5"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Ram skull"
+        "name": "Ram skull in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -96961,7 +98515,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Ram skull.png",
+        "name": "Ram skull",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ram skull in vinegar.png",
+      "name": "Ram skull in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -97315,13 +98891,12 @@
     "ticks": "117"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Rat bone"
+        "name": "Rat bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -97333,7 +98908,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Rat bone.png",
+        "name": "Rat bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Rat bone in vinegar.png",
+      "name": "Rat bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Bone grinder",
@@ -108105,13 +109702,12 @@
     "ticks": "1"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Seagull wing"
+        "name": "Seagull wing in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -108123,7 +109719,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Seagull wing.png",
+        "name": "Seagull wing",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Seagull wing in vinegar.png",
+      "name": "Seagull wing in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "",
@@ -114064,13 +115682,12 @@
     "ticks": "4"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Snake spine"
+        "name": "Snake spine in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -114082,7 +115699,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Snake spine.png",
+        "name": "Snake spine",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Snake spine in vinegar.png",
+      "name": "Snake spine in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -115329,6 +116968,48 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Sorebones bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sorebones bone (polished).png",
+      "name": "Sorebones bone",
+      "quantity": "1",
+      "txt": "Sorebones bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Sorebones bone.png",
+        "name": "Sorebones bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Sorebones bone in vinegar.png",
+      "name": "Sorebones bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Key Master",
@@ -125219,13 +126900,12 @@
     "ticks": "0"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Terrorbird wing"
+        "name": "Terrorbird wing in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -125237,7 +126917,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Terrorbird wing.png",
+        "name": "Terrorbird wing",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Terrorbird wing in vinegar.png",
+      "name": "Terrorbird wing in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Preparation Table",
@@ -126293,6 +127995,48 @@
     "ticks": "1"
   },
   {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Tortoise bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Tortoise bone (polished).png",
+      "name": "Tortoise bone",
+      "quantity": "1",
+      "txt": "Tortoise bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Tortoise bone.png",
+        "name": "Tortoise bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Tortoise bone in vinegar.png",
+      "name": "Tortoise bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
+  },
+  {
     "facilities": "Anvil",
     "materials": [
       {
@@ -126999,13 +128743,12 @@
     "ticks": "0"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Troll bone"
+        "name": "Troll bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -127017,7 +128760,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Troll bone.png",
+        "name": "Troll bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Troll bone in vinegar.png",
+      "name": "Troll bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -127243,6 +129008,48 @@
         "name": "Cooking"
       }
     ],
+    "ticks": "2"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Turoth leg in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Turoth leg (polished).png",
+      "name": "Turoth leg",
+      "quantity": "1",
+      "txt": "Turoth leg (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Turoth leg.png",
+        "name": "Turoth leg",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Turoth leg in vinegar.png",
+      "name": "Turoth leg in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
     "ticks": "2"
   },
   {
@@ -127940,6 +129747,48 @@
       }
     ],
     "ticks": "1"
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Ugthanki ribs in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ugthanki ribs (polished).png",
+      "name": "Ugthanki ribs",
+      "quantity": "1",
+      "txt": "Ugthanki ribs (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Ugthanki ribs.png",
+        "name": "Ugthanki ribs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Ugthanki ribs in vinegar.png",
+      "name": "Ugthanki ribs in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -128792,13 +130641,12 @@
     "tools": "Zombie monkey greegree (small)"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Undead cow ribs"
+        "name": "Undead cow ribs in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -128810,7 +130658,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Undead cow ribs.png",
+        "name": "Undead cow ribs",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Undead cow ribs in vinegar.png",
+      "name": "Undead cow ribs in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -129468,13 +131338,12 @@
     "tools": "Unholy book, Book of Balance"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Unicorn bone"
+        "name": "Unicorn bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -129486,7 +131355,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Unicorn bone.png",
+        "name": "Unicorn bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Unicorn bone in vinegar.png",
+      "name": "Unicorn bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -130630,13 +132521,12 @@
     "ticks": "1"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Vulture wing"
+        "name": "Vulture wing in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -130648,7 +132538,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Vulture wing.png",
+        "name": "Vulture wing",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Vulture wing in vinegar.png",
+      "name": "Vulture wing in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "materials": [
@@ -130678,6 +132590,48 @@
       }
     ],
     "ticks": ""
+  },
+  {
+    "facilities": "Cooking range",
+    "materials": [
+      {
+        "image": "Bone in vinegar.png",
+        "name": "Wallasalki bone in vinegar",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Wallasalki bone (polished).png",
+      "name": "Wallasalki bone",
+      "quantity": "1",
+      "txt": "Wallasalki bone (polished)",
+      "version": "Polished"
+    },
+    "skills": [],
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Wallasalki bone.png",
+        "name": "Wallasalki bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Wallasalki bone in vinegar.png",
+      "name": "Wallasalki bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Extract orifice",
@@ -132000,13 +133954,12 @@
     "ticks": "1"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Werewolf bone"
+        "name": "Werewolf bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -132018,7 +133971,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Werewolf bone.png",
+        "name": "Werewolf bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Werewolf bone in vinegar.png",
+      "name": "Werewolf bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Lectern (Arceuus)",
@@ -132838,13 +134813,12 @@
     "ticks": "3"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Wolf bone"
+        "name": "Wolf bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -132856,7 +134830,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Wolf bone.png",
+        "name": "Wolf bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Wolf bone in vinegar.png",
+      "name": "Wolf bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Bone grinder",
@@ -134991,13 +136987,12 @@
     "tools": "Ring mould"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Zogre bone"
+        "name": "Zogre bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -135009,7 +137004,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Zogre bone.png",
+        "name": "Zogre bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Zogre bone in vinegar.png",
+      "name": "Zogre bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Bone grinder",
@@ -135061,13 +137078,12 @@
     "tools": "Hammer"
   },
   {
-    "facilities": "Pot-boiler",
+    "facilities": "Cooking range",
     "materials": [
       {
         "image": "Bone in vinegar.png",
-        "name": "Bone in vinegar",
-        "quantity": "1",
-        "version": "Zombie bone"
+        "name": "Zombie bone in vinegar",
+        "quantity": "1"
       }
     ],
     "members": true,
@@ -135079,7 +137095,29 @@
       "version": "Polished"
     },
     "skills": [],
-    "ticks": "20"
+    "ticks": "4"
+  },
+  {
+    "materials": [
+      {
+        "image": "Pot of vinegar.png",
+        "name": "Pot of vinegar",
+        "quantity": "1"
+      },
+      {
+        "image": "Zombie bone.png",
+        "name": "Zombie bone",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Zombie bone in vinegar.png",
+      "name": "Zombie bone in vinegar",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "2"
   },
   {
     "facilities": "Anvil",

@@ -14942,6 +14942,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "45,47",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Angry giant rat"
+      }
+    ],
+    "group": "Angry giant rat bone",
+    "name": "Angry giant rat bone"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -15124,6 +15138,28 @@
     ],
     "group": "Animal skull",
     "name": "Animal skull"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "75,82,86,95",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Ankou#Regular"
+      },
+      {
+        "dropLevel": "98",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Ankou#Wilderness Slayer Cave"
+      }
+    ],
+    "group": "Ankou bone",
+    "name": "Ankou bone"
   },
   {
     "dropSources": [
@@ -17342,6 +17378,28 @@
   {
     "dropSources": [
       {
+        "dropLevel": "82",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Armoured zombie (Zemouregal's Base)"
+      },
+      {
+        "dropLevel": "105",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Armoured zombie (Zemouregal's Fort)"
+      }
+    ],
+    "group": "Armoured zombie bone",
+    "name": "Armoured zombie bone"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "75",
         "dropType": "thieving",
         "quantityHigh": 4,
@@ -17418,7 +17476,7 @@
       {
         "dropLevel": "",
         "dropType": "reward",
-        "quantityHigh": 93,
+        "quantityHigh": 95,
         "quantityLow": 91,
         "rarity": "55/330",
         "source": "Chest (The Fractured Archive)#Standard"
@@ -19365,6 +19423,52 @@
   {
     "dropSources": [
       {
+        "dropLevel": "69,71,73,79,83,84,89,92,94,97,131,137,148",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Aviansie"
+      },
+      {
+        "dropLevel": "159",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Flight Kilisa"
+      },
+      {
+        "dropLevel": "149",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Flockleader Geerin"
+      },
+      {
+        "dropLevel": "580",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Kree'arra"
+      },
+      {
+        "dropLevel": "143",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Wingman Skree"
+      }
+    ],
+    "group": "Aviansie wing",
+    "name": "Aviansie wing"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "538,758,1099",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -19451,7 +19555,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Baby blue dragon"
       }
     ],
@@ -21164,7 +21268,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Basilisk"
       },
       {
@@ -21172,7 +21276,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Basilisk Knight"
       },
       {
@@ -21180,7 +21284,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Basilisk Sentinel"
       },
       {
@@ -21188,7 +21292,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Basilisk Youngling"
       },
       {
@@ -21196,7 +21300,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Monstrous basilisk"
       }
     ],
@@ -21574,7 +21678,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Bat"
       }
     ],
@@ -24352,6 +24456,14 @@
         "quantityLow": 5,
         "rarity": "Always",
         "source": "Boneguard"
+      },
+      {
+        "dropLevel": "871",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Bork"
       },
       {
         "dropLevel": "128",
@@ -28712,8 +28824,8 @@
       {
         "dropLevel": "17",
         "dropType": "hunter",
-        "quantityHigh": -1,
-        "quantityLow": -1,
+        "quantityHigh": 24,
+        "quantityLow": 10,
         "rarity": "Always",
         "source": "Black Honey Buzzard"
       }
@@ -37644,6 +37756,36 @@
   {
     "dropSources": [
       {
+        "dropLevel": "111",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Blue dragon"
+      },
+      {
+        "dropLevel": "271",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Brutal blue dragon"
+      },
+      {
+        "dropLevel": "732",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Vorkath#Post-quest"
+      }
+    ],
+    "group": "Blue dragon bone",
+    "name": "Blue dragon bone"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "28",
         "dropType": "thieving",
         "quantityHigh": 10,
@@ -38228,6 +38370,20 @@
     ],
     "group": "Blurite ore",
     "name": "Blurite ore"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "5,7",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Boar"
+      }
+    ],
+    "group": "Boar bone",
+    "name": "Boar bone"
   },
   {
     "dropSources": [
@@ -43839,6 +43995,14 @@
   },
   {
     "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crates (Dishop Dennis's house)"
+      },
       {
         "dropLevel": "34",
         "dropType": "construction",
@@ -54831,6 +54995,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "49,64,68",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Catablepon"
+      }
+    ],
+    "group": "Catablepon ribs",
+    "name": "Catablepon ribs"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -54863,7 +55041,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Cave goblin (monster)"
       },
       {
@@ -54871,7 +55049,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Cave goblin guard"
       },
       {
@@ -54879,7 +55057,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Cave goblin miner"
       },
       {
@@ -54887,7 +55065,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Guard (Cave goblin)"
       }
     ],
@@ -54947,6 +55125,28 @@
     ],
     "group": "Cave goblin wire",
     "name": "Cave goblin wire"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "206",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cave abomination"
+      },
+      {
+        "dropLevel": "80",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cave horror"
+      }
+    ],
+    "group": "Cave horror bone",
+    "name": "Cave horror bone"
   },
   {
     "dropSources": [
@@ -58300,6 +58500,28 @@
     ],
     "group": "Chicken",
     "name": "Chicken"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "1",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chicken"
+      },
+      {
+        "dropLevel": "2,3",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Rooster"
+      }
+    ],
+    "group": "Chicken wing",
+    "name": "Chicken wing"
   },
   {
     "dropSources": [
@@ -84621,6 +84843,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "38",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Colonel Radick"
+      }
+    ],
+    "group": "Colonel radick's bone",
+    "name": "Colonel radick's bone"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -87382,6 +87618,36 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Brutus"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cow"
+      },
+      {
+        "dropLevel": "2",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cow calf"
+      }
+    ],
+    "group": "Cow bone",
+    "name": "Cow bone"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "30",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "1/150",
         "source": "Brutus"
       }
@@ -87725,6 +87991,28 @@
   {
     "dropSources": [
       {
+        "dropLevel": "7,8,11,12",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crawling Hand"
+      },
+      {
+        "dropLevel": "45",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crushing hand"
+      }
+    ],
+    "group": "Crawling hand bone",
+    "name": "Crawling hand bone"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "170",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -87806,6 +88094,20 @@
     ],
     "group": "Crimson kisten",
     "name": "Crimson kisten"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "63",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crocodile"
+      }
+    ],
+    "group": "Crocodile bone",
+    "name": "Crocodile bone"
   },
   {
     "dropSources": [
@@ -89938,6 +90240,52 @@
   {
     "dropSources": [
       {
+        "dropLevel": "56",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cyclops (Ardougne Zoo)"
+      },
+      {
+        "dropLevel": "56,76",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cyclops (Catacombs of Kourend)"
+      },
+      {
+        "dropLevel": "81",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cyclops (God Wars Dungeon)"
+      },
+      {
+        "dropLevel": "106",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cyclops#Warriors' Guild Basement"
+      },
+      {
+        "dropLevel": "56,76",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Cyclops#Warriors' Guild Rooftop"
+      }
+    ],
+    "group": "Cyclops bone",
+    "name": "Cyclops bone"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -90110,7 +90458,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Blue dagannoth"
       },
       {
@@ -90118,7 +90466,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Dagannoth"
       },
       {
@@ -90126,7 +90474,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Dagannoth (Waterbirth Island)#Level 88"
       },
       {
@@ -90134,7 +90482,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Dagannoth (Waterbirth Island)#Level 90"
       },
       {
@@ -90142,7 +90490,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Dagannoth Prime"
       },
       {
@@ -90150,7 +90498,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Dagannoth Rex"
       },
       {
@@ -90158,7 +90506,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Dagannoth Supreme"
       },
       {
@@ -90166,7 +90514,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Dagannoth fledgeling"
       },
       {
@@ -90174,7 +90522,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Dagannoth spawn"
       },
       {
@@ -90182,7 +90530,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Reanimated dagannoth"
       }
     ],
@@ -94338,7 +94686,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Lizard"
       }
     ],
@@ -100680,6 +101028,44 @@
     ],
     "group": "Druid pouch",
     "name": "Druid pouch"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "13",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chaos druid"
+      },
+      {
+        "dropLevel": "37",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chaos druid warrior"
+      },
+      {
+        "dropLevel": "33",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Druid"
+      },
+      {
+        "dropLevel": "129",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Elder Chaos druid"
+      }
+    ],
+    "group": "Druid ribs",
+    "name": "Druid ribs"
   },
   {
     "dropSources": [
@@ -109453,7 +109839,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Experiment"
       },
       {
@@ -109461,7 +109847,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Experiment No.2"
       }
     ],
@@ -111254,7 +111640,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Fire giant"
       }
     ],
@@ -114982,6 +115368,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "19",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Fox"
+      }
+    ],
+    "group": "Fox bone",
+    "name": "Fox bone"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "57",
         "dropType": "hunter",
         "quantityHigh": 1,
@@ -115824,6 +116224,20 @@
     ],
     "group": "Frogburger",
     "name": "Frogburger"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "103",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Frogeel"
+      }
+    ],
+    "group": "Frogeel spine",
+    "name": "Frogeel spine"
   },
   {
     "dropSources": [
@@ -116709,7 +117123,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Ghoul"
       }
     ],
@@ -117980,6 +118394,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "1",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Gnome child"
+      }
+    ],
+    "group": "Gnome child bone",
+    "name": "Gnome child bone"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -118292,6 +118720,28 @@
     ],
     "group": "Goat horn",
     "name": "Goat horn"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "33",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Billy Goat"
+      },
+      {
+        "dropLevel": "23",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Goat"
+      }
+    ],
+    "group": "Goat ribs",
+    "name": "Goat ribs"
   },
   {
     "dropSources": [
@@ -122865,7 +123315,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/55.47",
+        "rarity": "1/55.5",
         "source": "Basilisk Knight"
       },
       {
@@ -122873,7 +123323,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/55.47",
+        "rarity": "1/55.5",
         "source": "Basilisk Sentinel"
       },
       {
@@ -122953,7 +123403,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/40.96",
+        "rarity": "1/41",
         "source": "Blood Reaver"
       },
       {
@@ -124369,7 +124819,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/135.68",
+        "rarity": "1/135.7",
         "source": "Opulent salvage"
       },
       {
@@ -124817,7 +125267,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/40.96",
+        "rarity": "1/41",
         "source": "Spiritual ranger#Zaros"
       },
       {
@@ -124825,7 +125275,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/40.96",
+        "rarity": "1/41",
         "source": "Spiritual warrior#Zaros"
       },
       {
@@ -146781,7 +147231,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/69.33",
+        "rarity": "1/69.3",
         "source": "Basilisk Knight"
       },
       {
@@ -146789,7 +147239,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/69.33",
+        "rarity": "1/69.3",
         "source": "Basilisk Sentinel"
       },
       {
@@ -149557,7 +150007,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/69.33",
+        "rarity": "1/69.3",
         "source": "Basilisk Knight"
       },
       {
@@ -149565,7 +150015,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/69.33",
+        "rarity": "1/69.3",
         "source": "Basilisk Sentinel"
       },
       {
@@ -152631,7 +153081,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/73.33",
+        "rarity": "1/73.3",
         "source": "Adamant dragon"
       },
       {
@@ -152671,7 +153121,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/92.44",
+        "rarity": "1/92.4",
         "source": "Basilisk Knight"
       },
       {
@@ -152679,7 +153129,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/92.44",
+        "rarity": "1/92.4",
         "source": "Basilisk Sentinel"
       },
       {
@@ -152687,7 +153137,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/68.27",
+        "rarity": "1/68.3",
         "source": "Blood Reaver"
       },
       {
@@ -152703,7 +153153,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/5.33",
+        "rarity": "1/5.3",
         "source": "Chest (alchemist's signet)"
       },
       {
@@ -152743,7 +153193,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/682.67",
+        "rarity": "1/682.7",
         "source": "Grimy Lizard"
       },
       {
@@ -152815,7 +153265,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/226.13",
+        "rarity": "1/226.1",
         "source": "Opulent salvage"
       },
       {
@@ -152839,7 +153289,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/84.67",
+        "rarity": "1/84.7",
         "source": "Rune dragon"
       },
       {
@@ -152887,7 +153337,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/68.27",
+        "rarity": "1/68.3",
         "source": "Spiritual ranger#Zaros"
       },
       {
@@ -152895,7 +153345,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/68.27",
+        "rarity": "1/68.3",
         "source": "Spiritual warrior#Zaros"
       },
       {
@@ -156550,6 +157000,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "28",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Hill Giant"
+      }
+    ],
+    "group": "Hill giant bone",
+    "name": "Hill giant bone"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -157532,7 +157996,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Ice giant#Regular"
       }
     ],
@@ -158205,6 +158669,20 @@
     ],
     "group": "Infernal eel",
     "name": "Infernal eel"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "66",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Infernal Mage"
+      }
+    ],
+    "group": "Infernal mage bone",
+    "name": "Infernal mage bone"
   },
   {
     "dropSources": [
@@ -164413,7 +164891,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Jackal"
       }
     ],
@@ -165841,7 +166319,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Jogre"
       }
     ],
@@ -176366,6 +176844,52 @@
   {
     "dropSources": [
       {
+        "dropLevel": "75",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Lizardman brute"
+      },
+      {
+        "dropLevel": "150",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Lizardman shaman"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Lizardman shaman (Chambers of Xeric)"
+      },
+      {
+        "dropLevel": "53",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Lizardman#Level 53"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Lizardman#Level 62"
+      }
+    ],
+    "group": "Lizardman bone",
+    "name": "Lizardman bone"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 4681,
@@ -180122,6 +180646,20 @@
     ],
     "group": "Lunar ore",
     "name": "Lunar ore"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "21,24",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Lynx"
+      }
+    ],
+    "group": "Lynx bone",
+    "name": "Lynx bone"
   },
   {
     "dropSources": [
@@ -186338,6 +186876,20 @@
     ],
     "group": "Minor medium scroll case",
     "name": "Minor medium scroll case"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "12,19,27",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Minotaur"
+      }
+    ],
+    "group": "Minotaur bone",
+    "name": "Minotaur bone"
   },
   {
     "dropSources": [
@@ -192818,7 +193370,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Mogre"
       }
     ],
@@ -195440,7 +195992,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Bryophyta#Members"
       },
       {
@@ -195448,7 +196000,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Moss Giant (Iorwerth Dungeon)"
       },
       {
@@ -195456,7 +196008,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Moss giant#Regular"
       }
     ],
@@ -202530,7 +203082,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Enclave guard"
       },
       {
@@ -202538,7 +203090,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Gorad"
       },
       {
@@ -202546,7 +203098,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Ogre"
       },
       {
@@ -202554,7 +203106,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Ogre chieftain"
       },
       {
@@ -202562,7 +203114,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Ogress Shaman"
       },
       {
@@ -202570,7 +203122,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Ogress Warrior"
       },
       {
@@ -202578,7 +203130,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Reanimated ogre"
       }
     ],
@@ -202882,20 +203434,6 @@
     ],
     "group": "Old notes (Dragon Slayer II)",
     "name": "Old notes (Dragon Slayer II)"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Crate of onions (2026 Halloween event)"
-      }
-    ],
-    "group": "Old onion",
-    "name": "Old onion"
   },
   {
     "dropSources": [
@@ -204894,6 +205432,20 @@
     ],
     "group": "Orion",
     "name": "Orion"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "107",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Ork"
+      }
+    ],
+    "group": "Ork skull",
+    "name": "Ork skull"
   },
   {
     "dropSources": [
@@ -213650,7 +214202,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Bunny"
       },
       {
@@ -213658,7 +214210,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Rabbit"
       },
       {
@@ -213666,7 +214218,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Rabbit (Prifddinas)"
       }
     ],
@@ -215232,7 +215784,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Brine rat"
       },
       {
@@ -215240,7 +215792,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Crypt rat"
       },
       {
@@ -215256,7 +215808,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Hell-Rat Behemoth"
       },
       {
@@ -215264,7 +215816,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Rat#Regular"
       },
       {
@@ -215272,7 +215824,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Rat#Stronghold of Security"
       }
     ],
@@ -238333,7 +238885,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Seagull"
       }
     ],
@@ -238855,6 +239407,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/100",
+        "source": "Seed pack#Seed of growth"
+      }
+    ],
+    "group": "Seed of growth",
+    "name": "Seed of growth"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "303",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -239027,7 +239593,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "140,159",
+        "dropLevel": "102,140,159",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -239041,7 +239607,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "140,159",
+        "dropLevel": "102,140,159",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -243392,7 +243958,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Bush snake"
       },
       {
@@ -243400,7 +243966,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Snake"
       },
       {
@@ -243408,7 +243974,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Snake (Ape Atoll)"
       },
       {
@@ -243416,7 +243982,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Snake (desert)"
       }
     ],
@@ -247154,6 +247720,20 @@
     ],
     "group": "Soiled page",
     "name": "Soiled page"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "57",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Sorebones"
+      }
+    ],
+    "group": "Sorebones bone",
+    "name": "Sorebones bone"
   },
   {
     "dropSources": [
@@ -267304,7 +267884,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Mutated Terrorbird"
       },
       {
@@ -267312,7 +267892,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Terrorbird"
       },
       {
@@ -267320,7 +267900,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Warped Terrorbird"
       }
     ],
@@ -273293,6 +273873,44 @@
       {
         "dropLevel": "247",
         "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Mutated Tortoise"
+      },
+      {
+        "dropLevel": "79",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Tortoise#No riders"
+      },
+      {
+        "dropLevel": "92",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Tortoise#With riders"
+      },
+      {
+        "dropLevel": "121",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Warped Tortoise"
+      }
+    ],
+    "group": "Tortoise bone",
+    "name": "Tortoise bone"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "247",
+        "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 1,
         "rarity": "2/64",
@@ -275544,7 +276162,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Arrg"
       },
       {
@@ -275552,7 +276170,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Berry"
       },
       {
@@ -275560,7 +276178,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Chuck up"
       },
       {
@@ -275568,7 +276186,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Daddy's special water"
       },
       {
@@ -275576,7 +276194,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Dinky the drink troll"
       },
       {
@@ -275584,7 +276202,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Drink troll"
       },
       {
@@ -275592,7 +276210,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Kraka"
       },
       {
@@ -275600,7 +276218,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Mountain troll"
       },
       {
@@ -275608,7 +276226,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Pee Hat"
       },
       {
@@ -275616,7 +276234,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Reanimated troll"
       },
       {
@@ -275624,7 +276242,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "River troll"
       },
       {
@@ -275632,7 +276250,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Rock (Troll)"
       },
       {
@@ -275640,7 +276258,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Stick"
       },
       {
@@ -275648,7 +276266,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "The rocks"
       },
       {
@@ -275656,7 +276274,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Thrower Troll"
       },
       {
@@ -275664,7 +276282,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Troll general"
       },
       {
@@ -275672,7 +276290,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Twig"
       }
     ],
@@ -276109,6 +276727,28 @@
   {
     "dropSources": [
       {
+        "dropLevel": "244",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Spiked Turoth"
+      },
+      {
+        "dropLevel": "83,85,87,89",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Turoth"
+      }
+    ],
+    "group": "Turoth leg",
+    "name": "Turoth leg"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -276328,6 +276968,20 @@
     ],
     "group": "Ugthanki kebab",
     "name": "Ugthanki kebab"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "42",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Ugthanki"
+      }
+    ],
+    "group": "Ugthanki ribs",
+    "name": "Ugthanki ribs"
   },
   {
     "dropSources": [
@@ -281761,7 +282415,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Undead cow"
       }
     ],
@@ -286331,7 +286985,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Vulture"
       }
     ],
@@ -286379,6 +287033,20 @@
     ],
     "group": "Vyre noble top",
     "name": "Vyre noble top"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "98",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Wallasalki"
+      }
+    ],
+    "group": "Wallasalki bone",
+    "name": "Wallasalki bone"
   },
   {
     "dropSources": [
@@ -290542,7 +291210,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Werewolf"
       }
     ],
@@ -294028,7 +294696,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Big Wolf"
       },
       {
@@ -294036,7 +294704,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Desert Wolf"
       },
       {
@@ -294044,7 +294712,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Dire Wolf"
       },
       {
@@ -294052,7 +294720,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Ice wolf"
       },
       {
@@ -294060,7 +294728,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Jungle Wolf"
       },
       {
@@ -294068,7 +294736,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "White wolf"
       },
       {
@@ -294076,7 +294744,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Wolf"
       }
     ],
@@ -297547,7 +298215,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Skogre"
       },
       {
@@ -297555,7 +298223,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Slash Bash"
       },
       {
@@ -297563,7 +298231,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zogre"
       }
     ],
@@ -297615,7 +298283,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "A corpse"
       },
       {
@@ -297623,7 +298291,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Armoured zombie (Defender of Varrock)"
       },
       {
@@ -297631,7 +298299,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Armoured zombie (Zemouregal's Base)"
       },
       {
@@ -297639,7 +298307,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Armoured zombie (Zemouregal's Fort)"
       },
       {
@@ -297647,7 +298315,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Nazastarool"
       },
       {
@@ -297655,7 +298323,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Sorebones"
       },
       {
@@ -297663,7 +298331,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie (Entrana Dungeon)"
       },
       {
@@ -297671,7 +298339,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie (Kourend)"
       },
       {
@@ -297679,7 +298347,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie (Melzar's Maze)"
       },
       {
@@ -297687,7 +298355,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie (Tarn's Lair)#High level"
       },
       {
@@ -297695,7 +298363,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie (Tarn's Lair)#Low level"
       },
       {
@@ -297703,7 +298371,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie (Tarn's Lair)#Medium level"
       },
       {
@@ -297711,7 +298379,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie (Temple Trekking)"
       },
       {
@@ -297719,7 +298387,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie (Wilderness)"
       },
       {
@@ -297727,7 +298395,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie (Zogre Flesh Eaters)"
       },
       {
@@ -297735,7 +298403,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie pirate (Braindeath Island)"
       },
       {
@@ -297743,7 +298411,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie pirate (Harmony Island)"
       },
       {
@@ -297751,7 +298419,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie pirate#Diary"
       },
       {
@@ -297759,7 +298427,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie pirate#Regular"
       },
       {
@@ -297767,7 +298435,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie swab"
       },
       {
@@ -297775,7 +298443,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie#Level 13"
       },
       {
@@ -297783,7 +298451,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie#Level 18"
       },
       {
@@ -297791,7 +298459,7 @@
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/4",
+        "rarity": "Always",
         "source": "Zombie#Level 24"
       }
     ],

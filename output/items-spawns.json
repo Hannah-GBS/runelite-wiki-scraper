@@ -8953,6 +8953,19 @@
     ]
   },
   {
+    "group": "Potatoes",
+    "spawns": [
+      {
+        "coords": "1645,3091",
+        "isMembers": true,
+        "location": "Civitas illa Fortis - House south of Civitas illa Fortis' west bank during The Final Dawn",
+        "mapID": "0",
+        "name": "Potatoes",
+        "plane": "0"
+      }
+    ]
+  },
+  {
     "group": "Premade blurb' sp.",
     "spawns": [
       {
