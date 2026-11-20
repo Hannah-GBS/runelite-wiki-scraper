@@ -21231,13 +21231,13 @@
   },
   {
     "examineText": "A clue!",
-    "group": "Clue scroll (easy) - Someone watching the fights in the Emir's Arena",
+    "group": "Clue scroll (easy) - Someone watching the fights at the Emir's Arena",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 3514,
     "name": "Clue scroll (easy)",
-    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_%28easy%29_-_Someone_watching_the_fights_in_the_Emir%27s_Arena",
+    "url": "https://oldschool.runescape.wiki/w/Clue_scroll_%28easy%29_-_Someone_watching_the_fights_at_the_Emir%27s_Arena",
     "version": null
   },
   {
@@ -46288,7 +46288,7 @@
     "version": null
   },
   {
-    "examineText": "Well, this pot is certainly full of vinegar and no mistake.",
+    "examineText": "Well, this pot is certainly full of vinegar, make no mistake.",
     "group": "Pot of vinegar",
     "isDefaultVersion": true,
     "isMembers": true,
@@ -46310,18 +46310,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a goblin bone in here.",
-    "group": "Bone in vinegar",
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Goblin skull in vinegar",
     "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7813,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Goblin_skull",
-    "version": "Goblin skull"
+    "name": "Goblin skull in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Goblin_skull_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Goblin skull",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46332,7 +46332,7 @@
     "version": "Polished"
   },
   {
-    "examineText": "This needs a good polish.",
+    "examineText": "These need a good polish.",
     "group": "Bear ribs",
     "isDefaultVersion": true,
     "isMembers": true,
@@ -46343,18 +46343,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a bear bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Bear ribs in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7816,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Bear_ribs",
-    "version": "Bear ribs"
+    "name": "Bear ribs in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Bear_ribs_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "These belong in a museum!",
     "group": "Bear ribs",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46376,18 +46376,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a ram bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Ram skull in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7819,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Ram_skull",
-    "version": "Ram skull"
+    "name": "Ram skull in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Ram_skull_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Ram skull",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46409,15 +46409,15 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a unicorn bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Unicorn bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7822,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Unicorn_bone",
-    "version": "Unicorn bone"
+    "name": "Unicorn bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Unicorn_bone_in_vinegar",
+    "version": null
   },
   {
     "examineText": "This bone belongs in a museum!",
@@ -46442,18 +46442,29 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a giant rat bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Giant bat wing in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7825,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Giant_rat_bone",
-    "version": "Giant rat bone"
+    "name": "Giant bat wing in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Giant_bat_wing_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Giant rat bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 7825,
+    "name": "Giant rat bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Giant_rat_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "This belongs in a museum!",
     "group": "Giant rat bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46475,18 +46486,7 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a giant bat bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
-    "isMembers": true,
-    "isTradeable": false,
-    "itemID": 7828,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Giant_bat_wing",
-    "version": "Giant bat wing"
-  },
-  {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Giant bat wing",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46508,18 +46508,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a wolf bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Wolf bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7831,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Wolf_bone",
-    "version": "Wolf bone"
+    "name": "Wolf bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Wolf_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Wolf bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46541,18 +46541,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a bat bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Bat wing in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7834,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Bat_wing",
-    "version": "Bat wing"
+    "name": "Bat wing in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Bat_wing_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Bat wing",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46574,18 +46574,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a rat bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Rat bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7837,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Rat_bone",
-    "version": "Rat bone"
+    "name": "Rat bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Rat_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Rat bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46607,18 +46607,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a baby blue dragon bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Baby dragon bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7840,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Baby_dragon_bone",
-    "version": "Baby dragon bone"
+    "name": "Baby dragon bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Baby_dragon_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Baby dragon bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46629,7 +46629,7 @@
     "version": "Polished"
   },
   {
-    "examineText": "This needs a good polish.",
+    "examineText": "These need a good polish.",
     "group": "Ogre ribs",
     "isDefaultVersion": true,
     "isMembers": true,
@@ -46640,18 +46640,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is an ogre bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Ogre ribs in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7843,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Ogre_ribs",
-    "version": "Ogre ribs"
+    "name": "Ogre ribs in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Ogre_ribs_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "These belong in a museum!",
     "group": "Ogre ribs",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46673,18 +46673,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a jogre bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Jogre bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7846,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Jogre_bone",
-    "version": "Jogre bone"
+    "name": "Jogre bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Jogre_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Jogre bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46706,18 +46706,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a zogre bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Zogre bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7849,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Zogre_bone",
-    "version": "Zogre bone"
+    "name": "Zogre bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Zogre_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Zogre bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46739,18 +46739,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a mogre bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Mogre bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7852,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Mogre_bone",
-    "version": "Mogre bone"
+    "name": "Mogre bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Mogre_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Mogre bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46772,18 +46772,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a monkey bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Monkey paw in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7855,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Monkey_paw",
-    "version": "Monkey paw"
+    "name": "Monkey paw in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Monkey_paw_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Monkey paw",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46794,7 +46794,7 @@
     "version": "Polished"
   },
   {
-    "examineText": "This needs a good polish.",
+    "examineText": "These need a good polish.",
     "group": "Dagannoth ribs",
     "isDefaultVersion": true,
     "isMembers": true,
@@ -46805,18 +46805,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a Dagannoth bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Dagannoth ribs in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7858,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Dagannoth_ribs",
-    "version": "Dagannoth ribs"
+    "name": "Dagannoth ribs in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Dagannoth_ribs_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "These belong in a museum!",
     "group": "Dagannoth ribs",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46838,18 +46838,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a snake bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Snake spine in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7861,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Snake_spine",
-    "version": "Snake spine"
+    "name": "Snake spine in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Snake_spine_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Snake spine",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46871,18 +46871,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a zombie bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Zombie bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7864,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Zombie_bone",
-    "version": "Zombie bone"
+    "name": "Zombie bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Zombie_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Zombie bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46904,18 +46904,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a werewolf bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Werewolf bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7867,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Werewolf_bone",
-    "version": "Werewolf bone"
+    "name": "Werewolf bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Werewolf_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Werewolf bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46937,18 +46937,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "A Moss Giant's bone",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Moss giant bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7870,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Moss_giant_bone",
-    "version": "Moss giant bone"
+    "name": "Moss giant bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Moss_giant_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Moss giant bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46970,18 +46970,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a fire giant bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Fire giant bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7873,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Fire_giant_bone",
-    "version": "Fire giant bone"
+    "name": "Fire giant bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Fire_giant_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Fire giant bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -46992,7 +46992,7 @@
     "version": "Polished"
   },
   {
-    "examineText": "This needs a good polish.",
+    "examineText": "These need a good polish.",
     "group": "Ice giant ribs",
     "isDefaultVersion": true,
     "isMembers": true,
@@ -47003,18 +47003,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is an ice giant bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Ice giant ribs in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7876,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Ice_giant_ribs",
-    "version": "Ice giant ribs"
+    "name": "Ice giant ribs in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Ice_giant_ribs_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "These belong in a museum!",
     "group": "Ice giant ribs",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47036,18 +47036,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a terrorbird bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Terrorbird wing in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7879,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Terrorbird_wing",
-    "version": "Terrorbird wing"
+    "name": "Terrorbird wing in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Terrorbird_wing_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Terrorbird wing",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47069,18 +47069,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a ghoul bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Ghoul bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7882,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Ghoul_bone",
-    "version": "Ghoul bone"
+    "name": "Ghoul bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Ghoul_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Ghoul bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47102,18 +47102,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a troll bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Troll bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7885,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Troll_bone",
-    "version": "Troll bone"
+    "name": "Troll bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Troll_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Troll bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47135,18 +47135,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a seagull bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Seagull wing in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7888,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Seagull_wing",
-    "version": "Seagull wing"
+    "name": "Seagull wing in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Seagull_wing_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Seagull wing",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47157,7 +47157,7 @@
     "version": "Polished"
   },
   {
-    "examineText": "This needs a good polish.",
+    "examineText": "These need a good polish.",
     "group": "Undead cow ribs",
     "isDefaultVersion": true,
     "isMembers": true,
@@ -47168,18 +47168,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is an undead cow bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Undead cow ribs in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7891,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Undead_cow_ribs",
-    "version": "Undead cow ribs"
+    "name": "Undead cow ribs in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Undead_cow_ribs_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "These belong in a museum!",
     "group": "Undead cow ribs",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47201,18 +47201,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is an experiment bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Experiment bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7894,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Experiment_bone",
-    "version": "Experiment bone"
+    "name": "Experiment bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Experiment_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Experiment bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47234,18 +47234,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a rabbit bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Rabbit bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7897,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Rabbit_bone",
-    "version": "Rabbit bone"
+    "name": "Rabbit bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Rabbit_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Rabbit bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47267,18 +47267,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a basilisk bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Basilisk bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7900,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Basilisk_bone",
-    "version": "Basilisk bone"
+    "name": "Basilisk bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Basilisk_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Basilisk bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47300,18 +47300,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a desert lizard bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Desert lizard bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7903,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Desert_lizard_bone",
-    "version": "Desert lizard bone"
+    "name": "Desert lizard bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Desert_lizard_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Desert lizard bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47333,18 +47333,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a cave goblin bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Cave goblin skull in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
-    "itemID": 7906,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Cave_goblin_skull",
-    "version": "Cave goblin skull"
+    "itemID": 7905,
+    "name": "Cave goblin skull in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Cave_goblin_skull_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Cave goblin skull",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47366,18 +47366,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a big frog bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Big frog leg in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7909,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Big_frog_leg",
-    "version": "Big frog leg"
+    "name": "Big frog leg in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Big_frog_leg_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Big frog leg",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47399,18 +47399,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a vulture bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Vulture wing in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7912,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Vulture_wing",
-    "version": "Vulture wing"
+    "name": "Vulture wing in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Vulture_wing_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Vulture wing",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47432,18 +47432,18 @@
     "version": "Unpolished"
   },
   {
-    "examineText": "There is a jackal bone in here.",
-    "group": "Bone in vinegar",
-    "isDefaultVersion": false,
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Jackal bone in vinegar",
+    "isDefaultVersion": true,
     "isMembers": true,
     "isTradeable": false,
     "itemID": 7915,
-    "name": "Bone in vinegar",
-    "url": "https://oldschool.runescape.wiki/w/Bone_in_vinegar%23Jackal_bone",
-    "version": "Jackal bone"
+    "name": "Jackal bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Jackal_bone_in_vinegar",
+    "version": null
   },
   {
-    "examineText": "This bone belongs in a museum!",
+    "examineText": "This belongs in a museum!",
     "group": "Jackal bone",
     "isDefaultVersion": false,
     "isMembers": true,
@@ -47465,7 +47465,7 @@
     "version": null
   },
   {
-    "examineText": "The Bonesack is a little old item that protects like leather.",
+    "examineText": "The bonesack is a little old item that protects like leather.",
     "group": "Bonesack",
     "isDefaultVersion": true,
     "isMembers": true,
@@ -153428,6 +153428,17 @@
     "version": "Golden"
   },
   {
+    "examineText": "This needs a good polish.",
+    "group": "Goat ribs",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34502,
+    "name": "Goat ribs",
+    "url": "https://oldschool.runescape.wiki/w/Goat_ribs%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
     "examineText": "A lovable bundle of energy.",
     "group": "Labrador puppy",
     "isDefaultVersion": true,
@@ -153437,6 +153448,17 @@
     "name": "Labrador puppy",
     "url": "https://oldschool.runescape.wiki/w/Labrador_puppy%23Golden",
     "version": "Golden"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Hill giant bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34504,
+    "name": "Hill giant bone",
+    "url": "https://oldschool.runescape.wiki/w/Hill_giant_bone%23Unpolished",
+    "version": "Unpolished"
   },
   {
     "examineText": "A lovable bundle of energy.",
@@ -153450,6 +153472,17 @@
     "version": "Chocolate"
   },
   {
+    "examineText": "This needs a good polish.",
+    "group": "Infernal mage bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34506,
+    "name": "Infernal mage bone",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_mage_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
     "examineText": "A lovable bundle of energy.",
     "group": "Labrador puppy",
     "isDefaultVersion": false,
@@ -153459,6 +153492,17 @@
     "name": "Labrador puppy",
     "url": "https://oldschool.runescape.wiki/w/Labrador_puppy%23Black",
     "version": "Black"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Lizardman bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34508,
+    "name": "Lizardman bone",
+    "url": "https://oldschool.runescape.wiki/w/Lizardman_bone%23Unpolished",
+    "version": "Unpolished"
   },
   {
     "examineText": "Wearing a lovely coat to keep warm.",
@@ -153472,6 +153516,17 @@
     "version": "Black & white"
   },
   {
+    "examineText": "This needs a good polish.",
+    "group": "Lynx bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34510,
+    "name": "Lynx bone",
+    "url": "https://oldschool.runescape.wiki/w/Lynx_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
     "examineText": "Wearing a lovely coat to keep warm.",
     "group": "Husky puppy",
     "isDefaultVersion": false,
@@ -153481,6 +153536,17 @@
     "name": "Husky puppy",
     "url": "https://oldschool.runescape.wiki/w/Husky_puppy%23Grey",
     "version": "Grey"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Minotaur bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34512,
+    "name": "Minotaur bone",
+    "url": "https://oldschool.runescape.wiki/w/Minotaur_bone%23Unpolished",
+    "version": "Unpolished"
   },
   {
     "examineText": "Wearing a lovely coat to keep warm.",
@@ -153494,6 +153560,17 @@
     "version": "Chocolate"
   },
   {
+    "examineText": "This needs a good polish.",
+    "group": "Ork skull",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34514,
+    "name": "Ork skull",
+    "url": "https://oldschool.runescape.wiki/w/Ork_skull%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
     "examineText": "Pocket sized.",
     "group": "Chihuahua puppy",
     "isDefaultVersion": true,
@@ -153503,6 +153580,17 @@
     "name": "Chihuahua puppy",
     "url": "https://oldschool.runescape.wiki/w/Chihuahua_puppy%23Tan",
     "version": "Tan"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Sorebones bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34516,
+    "name": "Sorebones bone",
+    "url": "https://oldschool.runescape.wiki/w/Sorebones_bone%23Unpolished",
+    "version": "Unpolished"
   },
   {
     "examineText": "Pocket sized.",
@@ -153516,6 +153604,17 @@
     "version": "White"
   },
   {
+    "examineText": "This needs a good polish.",
+    "group": "Tortoise bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34518,
+    "name": "Tortoise bone",
+    "url": "https://oldschool.runescape.wiki/w/Tortoise_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
     "examineText": "Pocket sized.",
     "group": "Chihuahua puppy",
     "isDefaultVersion": false,
@@ -153525,6 +153624,17 @@
     "name": "Chihuahua puppy",
     "url": "https://oldschool.runescape.wiki/w/Chihuahua_puppy%23Toasted",
     "version": "Toasted"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Turoth leg",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34520,
+    "name": "Turoth leg",
+    "url": "https://oldschool.runescape.wiki/w/Turoth_leg%23Unpolished",
+    "version": "Unpolished"
   },
   {
     "examineText": "A bottomless well of energy.",
@@ -153538,6 +153648,17 @@
     "version": "Chocolate"
   },
   {
+    "examineText": "This needs a good polish.",
+    "group": "Ugthanki ribs",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34522,
+    "name": "Ugthanki ribs",
+    "url": "https://oldschool.runescape.wiki/w/Ugthanki_ribs%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
     "examineText": "A bottomless well of energy.",
     "group": "Border Collie puppy",
     "isDefaultVersion": false,
@@ -153547,6 +153668,17 @@
     "name": "Border collie puppy",
     "url": "https://oldschool.runescape.wiki/w/Border_Collie_puppy%23Merle",
     "version": "Merle"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Wallasalki bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34524,
+    "name": "Wallasalki bone",
+    "url": "https://oldschool.runescape.wiki/w/Wallasalki_bone%23Unpolished",
+    "version": "Unpolished"
   },
   {
     "examineText": "A bottomless well of energy.",
@@ -154638,50 +154770,6 @@
     "version": null
   },
   {
-    "examineText": "Delicious!",
-    "group": "Candy onion",
-    "isDefaultVersion": true,
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 34732,
-    "name": "Candy onion",
-    "url": "https://oldschool.runescape.wiki/w/Candy_onion",
-    "version": null
-  },
-  {
-    "examineText": "Sweet!",
-    "group": "Sugar",
-    "isDefaultVersion": true,
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 34734,
-    "name": "Sugar",
-    "url": "https://oldschool.runescape.wiki/w/Sugar",
-    "version": null
-  },
-  {
-    "examineText": "A pot of hot molten sugar.",
-    "group": "Molten sugar",
-    "isDefaultVersion": true,
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 34736,
-    "name": "Molten sugar",
-    "url": "https://oldschool.runescape.wiki/w/Molten_sugar",
-    "version": null
-  },
-  {
-    "examineText": "An old, soft and slightly furry onion.",
-    "group": "Old onion",
-    "isDefaultVersion": true,
-    "isMembers": false,
-    "isTradeable": false,
-    "itemID": 34738,
-    "name": "Old onion",
-    "url": "https://oldschool.runescape.wiki/w/Old_onion",
-    "version": null
-  },
-  {
     "examineText": "Similar to the one worn by another pretend vampyre.",
     "group": "Vampyre monocle",
     "isDefaultVersion": true,
@@ -155064,6 +155152,1106 @@
     "itemID": 34801,
     "name": "Pink snelm",
     "url": "https://oldschool.runescape.wiki/w/Pink_snelm",
+    "version": null
+  },
+  {
+    "examineText": "There is a message carved into this cabbage. Luckily, the first bite is with the eye.",
+    "group": "Communication cabbage",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34808,
+    "name": "Communication cabbage",
+    "url": "https://oldschool.runescape.wiki/w/Communication_cabbage",
+    "version": null
+  },
+  {
+    "examineText": "The first volume of the holy books of Brassica Prime.",
+    "group": "The Bib Vol. 1: Seeds of Truth",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34810,
+    "name": "The Bib Vol. 1: Seeds of Truth",
+    "url": "https://oldschool.runescape.wiki/w/The_Bib_Vol._1%3A_Seeds_of_Truth",
+    "version": null
+  },
+  {
+    "examineText": "Good for rubbing.",
+    "group": "Antique lamp (A New Leaf)",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34812,
+    "name": "Antique lamp (A New Leaf)",
+    "url": "https://oldschool.runescape.wiki/w/Antique_lamp_%28A_New_Leaf%29",
+    "version": null
+  },
+  {
+    "examineText": "Planting this will return you to the Farming Guild.",
+    "group": "Seed of growth",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": true,
+    "itemID": 34813,
+    "name": "Seed of growth",
+    "url": "https://oldschool.runescape.wiki/w/Seed_of_growth",
+    "version": null
+  },
+  {
+    "examineText": "One fancy bottle away from being a high cost diet smoothie.",
+    "group": "Cabbage water",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34815,
+    "name": "Cabbage water",
+    "url": "https://oldschool.runescape.wiki/w/Cabbage_water",
+    "version": null
+  },
+  {
+    "examineText": "Only for consumption by pre-blessed brassican plants. Do not mix with fish eggs.",
+    "group": "Brassican sentience potion",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34817,
+    "name": "Brassican sentience potion",
+    "url": "https://oldschool.runescape.wiki/w/Brassican_sentience_potion",
+    "version": null
+  },
+  {
+    "examineText": "Though the compost emits a divine glow, it still smells pretty rotten.",
+    "group": "Blessed compost",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34819,
+    "name": "Blessed compost",
+    "url": "https://oldschool.runescape.wiki/w/Blessed_compost",
+    "version": null
+  },
+  {
+    "examineText": "This book contains many detailed and seemingly useless potions that use cabbage leaves as their base herb.",
+    "group": "All Potions Are Gazpacho Vol. 2: The Cabbage Years",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34821,
+    "name": "All Potions Are Gazpacho Vol. 2: The Cabbage Years",
+    "url": "https://oldschool.runescape.wiki/w/All_Potions_Are_Gazpacho_Vol._2%3A_The_Cabbage_Years",
+    "version": null
+  },
+  {
+    "examineText": "Also known as a brussels scout.",
+    "group": "Sprout spy",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34823,
+    "name": "Sprout spy",
+    "url": "https://oldschool.runescape.wiki/w/Sprout_spy",
+    "version": null
+  },
+  {
+    "examineText": "What could be more perfect than a cabbage? A perfect cabbage of course.",
+    "group": "Perfect cabbage",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34825,
+    "name": "Perfect cabbage",
+    "url": "https://oldschool.runescape.wiki/w/Perfect_cabbage",
+    "version": null
+  },
+  {
+    "examineText": "A Starch's final form.",
+    "group": "Perfect potato",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34827,
+    "name": "Perfect potato",
+    "url": "https://oldschool.runescape.wiki/w/Perfect_potato",
+    "version": null
+  },
+  {
+    "examineText": "The most flavourful flavour leaves.",
+    "group": "Perfect rosemary",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34829,
+    "name": "Perfect rosemary",
+    "url": "https://oldschool.runescape.wiki/w/Perfect_rosemary",
+    "version": null
+  },
+  {
+    "examineText": "Radiates comfort.",
+    "group": "Perfect cabbage stew",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34831,
+    "name": "Perfect cabbage stew",
+    "url": "https://oldschool.runescape.wiki/w/Perfect_cabbage_stew",
+    "version": null
+  },
+  {
+    "examineText": "A Prayer to Brassica Prime that humbly requests that your crops will grow faster.",
+    "group": "Prayer to Brassica",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34833,
+    "name": "Prayer to Brassica",
+    "url": "https://oldschool.runescape.wiki/w/Prayer_to_Brassica",
+    "version": null
+  },
+  {
+    "examineText": "It's a slightly magical stick.",
+    "group": "Sedridor's staff",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34835,
+    "name": "Sedridor's staff",
+    "url": "https://oldschool.runescape.wiki/w/Sedridor%27s_staff",
+    "version": null
+  },
+  {
+    "examineText": "A very old key.",
+    "group": "Asylum key",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34836,
+    "name": "Asylum key",
+    "url": "https://oldschool.runescape.wiki/w/Asylum_key",
+    "version": null
+  },
+  {
+    "examineText": "Give it a rub.",
+    "group": "Magic lamp (Rag and Bone Man III)",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34837,
+    "name": "Magic lamp (prayer)",
+    "url": "https://oldschool.runescape.wiki/w/Magic_lamp_%28Rag_and_Bone_Man_III%29%23Prayer",
+    "version": "Prayer"
+  },
+  {
+    "examineText": "Give it a rub.",
+    "group": "Magic lamp (Rag and Bone Man III)",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34838,
+    "name": "Magic lamp (slayer)",
+    "url": "https://oldschool.runescape.wiki/w/Magic_lamp_%28Rag_and_Bone_Man_III%29%23Slayer",
+    "version": "Slayer"
+  },
+  {
+    "examineText": "Observations on some sort of condition.",
+    "group": "Condition notes",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34839,
+    "name": "Condition notes",
+    "url": "https://oldschool.runescape.wiki/w/Condition_notes",
+    "version": null
+  },
+  {
+    "examineText": "Looks sturdy enough to hold exactly 28 sets of bones!",
+    "group": "Heavy bonesack",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34840,
+    "name": "Heavy bonesack",
+    "url": "https://oldschool.runescape.wiki/w/Heavy_bonesack%23Closed",
+    "version": "Closed"
+  },
+  {
+    "examineText": "Looks large enough to hold exactly 28 sets of bones! Currently open.",
+    "group": "Heavy bonesack",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34842,
+    "name": "Heavy bonesack (open)",
+    "url": "https://oldschool.runescape.wiki/w/Heavy_bonesack%23Opened",
+    "version": "Opened"
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Angry giant rat bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34846,
+    "name": "Angry giant rat bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Angry_giant_rat_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Ankou bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34848,
+    "name": "Ankou bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Ankou_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Armoured zombie bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34850,
+    "name": "Armoured zombie bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Armoured_zombie_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Aviansie wing in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34852,
+    "name": "Aviansie wing in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Aviansie_wing_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Blue dragon bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34854,
+    "name": "Blue dragon bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Blue_dragon_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Boar bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34856,
+    "name": "Boar bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Boar_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Catablepon ribs in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34858,
+    "name": "Catablepon ribs in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Catablepon_ribs_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Cave horror bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34860,
+    "name": "Cave horror bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Cave_horror_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Chicken wing in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34862,
+    "name": "Chicken wing in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Chicken_wing_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Colonel radick's bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34864,
+    "name": "Colonel radick's bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Colonel_radick%27s_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Cow bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34866,
+    "name": "Cow bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Cow_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Crawling hand bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34868,
+    "name": "Crawling hand bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Crawling_hand_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Crocodile bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34870,
+    "name": "Crocodile bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Crocodile_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Cyclops bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34872,
+    "name": "Cyclops bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Cyclops_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Druid ribs in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34874,
+    "name": "Druid ribs in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Druid_ribs_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Fox bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34876,
+    "name": "Fox bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Fox_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Frogeel spine in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34878,
+    "name": "Frogeel spine in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Frogeel_spine_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Gnome child bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34880,
+    "name": "Gnome child bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Gnome_child_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Goat ribs in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34882,
+    "name": "Goat ribs in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Goat_ribs_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Hill giant bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34884,
+    "name": "Hill giant bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Hill_giant_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Infernal mage bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34886,
+    "name": "Infernal mage bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_mage_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Lizardman bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34888,
+    "name": "Lizardman bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Lizardman_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Lynx bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34890,
+    "name": "Lynx bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Lynx_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Minotaur bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34892,
+    "name": "Minotaur bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Minotaur_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Ork skull in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34894,
+    "name": "Ork skull in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Ork_skull_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Sorebones bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34896,
+    "name": "Sorebones bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Sorebones_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Tortoise bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34898,
+    "name": "Tortoise bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Tortoise_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Turoth leg in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34900,
+    "name": "Turoth leg in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Turoth_leg_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Ugthanki ribs in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34902,
+    "name": "Ugthanki ribs in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Ugthanki_ribs_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "A nice pot of bony vinegar.",
+    "group": "Wallasalki bone in vinegar",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34904,
+    "name": "Wallasalki bone in vinegar",
+    "url": "https://oldschool.runescape.wiki/w/Wallasalki_bone_in_vinegar",
+    "version": null
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Angry giant rat bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34906,
+    "name": "Angry giant rat bone",
+    "url": "https://oldschool.runescape.wiki/w/Angry_giant_rat_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Ankou bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34908,
+    "name": "Ankou bone",
+    "url": "https://oldschool.runescape.wiki/w/Ankou_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Armoured zombie bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34910,
+    "name": "Armoured zombie bone",
+    "url": "https://oldschool.runescape.wiki/w/Armoured_zombie_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Aviansie wing",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34912,
+    "name": "Aviansie wing",
+    "url": "https://oldschool.runescape.wiki/w/Aviansie_wing%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Blue dragon bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34914,
+    "name": "Blue dragon bone",
+    "url": "https://oldschool.runescape.wiki/w/Blue_dragon_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Boar bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34916,
+    "name": "Boar bone",
+    "url": "https://oldschool.runescape.wiki/w/Boar_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Catablepon ribs",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34918,
+    "name": "Catablepon ribs",
+    "url": "https://oldschool.runescape.wiki/w/Catablepon_ribs%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Cave horror bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34920,
+    "name": "Cave horror bone",
+    "url": "https://oldschool.runescape.wiki/w/Cave_horror_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Chicken wing",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34922,
+    "name": "Chicken wing",
+    "url": "https://oldschool.runescape.wiki/w/Chicken_wing%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Colonel radick's bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34924,
+    "name": "Colonel radick's bone",
+    "url": "https://oldschool.runescape.wiki/w/Colonel_radick%27s_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Cow bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34926,
+    "name": "Cow bone",
+    "url": "https://oldschool.runescape.wiki/w/Cow_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Crawling hand bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34928,
+    "name": "Crawling hand bone",
+    "url": "https://oldschool.runescape.wiki/w/Crawling_hand_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Crocodile bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34930,
+    "name": "Crocodile bone",
+    "url": "https://oldschool.runescape.wiki/w/Crocodile_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Cyclops bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34932,
+    "name": "Cyclops bone",
+    "url": "https://oldschool.runescape.wiki/w/Cyclops_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Druid ribs",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34934,
+    "name": "Druid ribs",
+    "url": "https://oldschool.runescape.wiki/w/Druid_ribs%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Fox bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34936,
+    "name": "Fox bone",
+    "url": "https://oldschool.runescape.wiki/w/Fox_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Frogeel spine",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34938,
+    "name": "Frogeel spine",
+    "url": "https://oldschool.runescape.wiki/w/Frogeel_spine%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Gnome child bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34940,
+    "name": "Gnome child bone",
+    "url": "https://oldschool.runescape.wiki/w/Gnome_child_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Goat ribs",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34942,
+    "name": "Goat ribs",
+    "url": "https://oldschool.runescape.wiki/w/Goat_ribs%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Hill giant bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34944,
+    "name": "Hill giant bone",
+    "url": "https://oldschool.runescape.wiki/w/Hill_giant_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Infernal mage bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34946,
+    "name": "Infernal mage bone",
+    "url": "https://oldschool.runescape.wiki/w/Infernal_mage_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Lizardman bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34948,
+    "name": "Lizardman bone",
+    "url": "https://oldschool.runescape.wiki/w/Lizardman_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Lynx bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34950,
+    "name": "Lynx bone",
+    "url": "https://oldschool.runescape.wiki/w/Lynx_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Minotaur bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34952,
+    "name": "Minotaur bone",
+    "url": "https://oldschool.runescape.wiki/w/Minotaur_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Ork skull",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34954,
+    "name": "Ork skull",
+    "url": "https://oldschool.runescape.wiki/w/Ork_skull%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Sorebones bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34956,
+    "name": "Sorebones bone",
+    "url": "https://oldschool.runescape.wiki/w/Sorebones_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Tortoise bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34958,
+    "name": "Tortoise bone",
+    "url": "https://oldschool.runescape.wiki/w/Tortoise_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Turoth leg",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34960,
+    "name": "Turoth leg",
+    "url": "https://oldschool.runescape.wiki/w/Turoth_leg%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Ugthanki ribs",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34962,
+    "name": "Ugthanki ribs",
+    "url": "https://oldschool.runescape.wiki/w/Ugthanki_ribs%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This belongs in a museum!",
+    "group": "Wallasalki bone",
+    "isDefaultVersion": false,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34964,
+    "name": "Wallasalki bone",
+    "url": "https://oldschool.runescape.wiki/w/Wallasalki_bone%23Polished",
+    "version": "Polished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Angry giant rat bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34966,
+    "name": "Angry giant rat bone",
+    "url": "https://oldschool.runescape.wiki/w/Angry_giant_rat_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Ankou bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34968,
+    "name": "Ankou bone",
+    "url": "https://oldschool.runescape.wiki/w/Ankou_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Armoured zombie bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34970,
+    "name": "Armoured zombie bone",
+    "url": "https://oldschool.runescape.wiki/w/Armoured_zombie_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Aviansie wing",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34972,
+    "name": "Aviansie wing",
+    "url": "https://oldschool.runescape.wiki/w/Aviansie_wing%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Blue dragon bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34974,
+    "name": "Blue dragon bone",
+    "url": "https://oldschool.runescape.wiki/w/Blue_dragon_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Boar bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34976,
+    "name": "Boar bone",
+    "url": "https://oldschool.runescape.wiki/w/Boar_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Catablepon ribs",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34978,
+    "name": "Catablepon ribs",
+    "url": "https://oldschool.runescape.wiki/w/Catablepon_ribs%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Cave horror bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34980,
+    "name": "Cave horror bone",
+    "url": "https://oldschool.runescape.wiki/w/Cave_horror_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Chicken wing",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34982,
+    "name": "Chicken wing",
+    "url": "https://oldschool.runescape.wiki/w/Chicken_wing%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Colonel radick's bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34984,
+    "name": "Colonel radick's bone",
+    "url": "https://oldschool.runescape.wiki/w/Colonel_radick%27s_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Cow bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34986,
+    "name": "Cow bone",
+    "url": "https://oldschool.runescape.wiki/w/Cow_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Crawling hand bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34988,
+    "name": "Crawling hand bone",
+    "url": "https://oldschool.runescape.wiki/w/Crawling_hand_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Crocodile bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34990,
+    "name": "Crocodile bone",
+    "url": "https://oldschool.runescape.wiki/w/Crocodile_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Cyclops bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34992,
+    "name": "Cyclops bone",
+    "url": "https://oldschool.runescape.wiki/w/Cyclops_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Druid ribs",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34994,
+    "name": "Druid ribs",
+    "url": "https://oldschool.runescape.wiki/w/Druid_ribs%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Fox bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34996,
+    "name": "Fox bone",
+    "url": "https://oldschool.runescape.wiki/w/Fox_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Frogeel spine",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 34998,
+    "name": "Frogeel spine",
+    "url": "https://oldschool.runescape.wiki/w/Frogeel_spine%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "This needs a good polish.",
+    "group": "Gnome child bone",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 35000,
+    "name": "Gnome child bone",
+    "url": "https://oldschool.runescape.wiki/w/Gnome_child_bone%23Unpolished",
+    "version": "Unpolished"
+  },
+  {
+    "examineText": "A restorative root from the Archive.",
+    "group": "Guthixian root",
+    "isDefaultVersion": true,
+    "isMembers": true,
+    "isTradeable": false,
+    "itemID": 35026,
+    "name": "Guthixian root",
+    "url": "https://oldschool.runescape.wiki/w/Guthixian_root",
     "version": null
   }
 ]
