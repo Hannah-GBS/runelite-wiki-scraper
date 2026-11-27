@@ -14997,7 +14997,7 @@
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 144,
-        "quantityLow": 1,
+        "quantityLow": 17,
         "rarity": "Always",
         "source": "Enchantment Ritual#Bonus"
       },
@@ -34976,6 +34976,14 @@
         "source": "Lesser demon#Wilderness Slayer Cave"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 100,
+        "quantityLow": 100,
+        "rarity": "Once",
+        "source": "Pete Kayer"
+      },
+      {
         "dropLevel": "82",
         "dropType": "combat",
         "quantityHigh": 10,
@@ -39701,6 +39709,14 @@
         "source": "Bandit (Varlamore)"
       },
       {
+        "dropLevel": "57",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Bandit cactus cultivator"
+      },
+      {
         "dropLevel": "70",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -40789,6 +40805,14 @@
         "source": "Feldip weasel"
       },
       {
+        "dropLevel": "53",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Fermenter of chaos"
+      },
+      {
         "dropLevel": "159",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -40891,6 +40915,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Gardener"
+      },
+      {
+        "dropLevel": "64",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Gardener of Armadyl"
       },
       {
         "dropLevel": "130,201",
@@ -41051,6 +41083,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Goblin guard"
+      },
+      {
+        "dropLevel": "50",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Goblin meat tenderiser"
       },
       {
         "dropLevel": "2",
@@ -42451,6 +42491,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Sir Jerro"
+      },
+      {
+        "dropLevel": "52",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Sir Loin"
       },
       {
         "dropLevel": "39",
@@ -48739,6 +48787,14 @@
         "quantityLow": 1,
         "rarity": "Always",
         "source": "Buried skeleton (Shaman Caves)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Desert Treasure II, digsite)"
       },
       {
         "dropLevel": "",
@@ -72051,6 +72107,14 @@
         "quantityLow": 10000,
         "rarity": "Always",
         "source": "Chest (Pandemonium Cave)"
+      },
+      {
+        "dropLevel": "65",
+        "dropType": "thieving",
+        "quantityHigh": 19792,
+        "quantityLow": 10047,
+        "rarity": "20/100",
+        "source": "Chest (Prison of R\u00e6un)"
       },
       {
         "dropLevel": "",
@@ -115716,6 +115780,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "65",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Chest (Prison of R\u00e6un)"
+      }
+    ],
+    "group": "Fremennik graceful ornament kit",
+    "name": "Fremennik graceful ornament kit"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "48",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -115868,6 +115946,20 @@
     ],
     "group": "Fremennik kilt",
     "name": "Fremennik kilt"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "65",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Unknown",
+        "source": "Chest (Prison of R\u00e6un)"
+      }
+    ],
+    "group": "Fremennik sail fabric",
+    "name": "Fremennik sail fabric"
   },
   {
     "dropSources": [
@@ -117115,6 +117207,20 @@
     ],
     "group": "Ghorrock teleport (tablet)",
     "name": "Ghorrock teleport (tablet)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "65",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chest (Ghostly sail fabric)"
+      }
+    ],
+    "group": "Ghostly sail fabric",
+    "name": "Ghostly sail fabric"
   },
   {
     "dropSources": [
@@ -236038,7 +236144,7 @@
         "dropLevel": "336",
         "dropType": "combat",
         "quantityHigh": 31,
-        "quantityLow": 3,
+        "quantityLow": 1,
         "rarity": "2/36",
         "source": "Zalcano"
       },
@@ -262222,6 +262328,20 @@
     ],
     "group": "Sunfire splinters",
     "name": "Sunfire splinters"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "65",
+        "dropType": "thieving",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "80/100",
+        "source": "Chest (Prison of R\u00e6un)"
+      }
+    ],
+    "group": "Sunken treasure",
+    "name": "Sunken treasure"
   },
   {
     "dropSources": [
